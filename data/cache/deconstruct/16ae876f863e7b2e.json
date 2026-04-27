@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "16ae876f863e7b2e",
+    "ad_unit_id": "16ae876f863e7b2e",
+    "app_id": "55c500f702ac64f9c0001f07",
+    "advertiser_name": "Coyote : Carplay, GPS & radar",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/preview",
+    "phashion_group": "16ae876f863e7b2e",
+    "share": null,
+    "first_seen_at": "2026-04-17T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "2 mois offerts sur la nouvelle Appli Coyote ! Je rejoins la Communauté de 5 millions de membres et Esteban Ocon.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "F1 driver Esteban Ocon shares his high trust rating on the Coyote app.",
+    "visual_action": "Esteban Ocon speaks directly to the camera in a professional studio setting.",
+    "text_overlay": "J'ai trois étoiles sur mon Coyote",
+    "voiceover_transcript": "J'ai trois étoiles sur mon Coyote et sur mon indice de confiance.",
+    "emotional_pitch": "celebrity"
+  },
+  "scene_flow": [
+    "Esteban Ocon introduces his 3-star trust rating on the Coyote app.",
+    "A transition screen asks the viewer if they also contribute alerts to the community.",
+    "Esteban describes a recent event where he reported aquaplaning hazards to help other drivers.",
+    "Closing screen displays a promotional offer of 2 months free for the Coyote app."
+  ],
+  "on_screen_text": [
+    "J'ai trois étoiles sur mon Coyote",
+    "et sur mon indice de confiance.",
+    "Esteban Ocon - Pilote automobile membre depuis 2015",
+    "Toi aussi tu remontes des alertes à la Communauté ?",
+    "Louis - Maître d'école - membre depuis 2006",
+    "Oui, j'ai signalé récemment,",
+    "la route était très mouillée,",
+    "il y avait un peu d'aquaplaning.",
+    "J'espère que ça a aidé les utilisateurs qui étaient derrière moi.",
+    "2 MOIS OFFERTS* Pour tester l'APPLI COYOTE"
+  ],
+  "cta_text": "2 MOIS OFFERTS* Pour tester l'APPLI COYOTE",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#000000",
+    "#FFFFFF",
+    "#00A651"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "French drivers and car enthusiasts who value road safety and community-driven navigation apps.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.002056
+}

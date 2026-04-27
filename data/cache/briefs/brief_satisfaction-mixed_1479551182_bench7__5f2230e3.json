@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1479551182",
+  "title": "Push'em All — \"Oddly Satisfying Chain Wipe\"",
+  "hook_3s": "\"Ever played something this satisfying?\" — finger swipes, stick expands, red stickmen tumble off the platform in a domino chain splash.",
+  "scene_flow": [
+    "0–3s HOOK: Top-down close-up of the blue/green platform. A finger swipes across the screen as the player's stickman extends a glowing stick — first row of red enemies launches into the water with a satisfying splash.",
+    "3–7s ESCALATION: Camera pulls back. Swipe-trail visible. Stick keeps growing ('SIZE UP!' pops). A chain reaction sends 20+ red stickmen tumbling off both edges in slow-mo splashes.",
+    "7–11s PAYOFF: Combo counter spikes ×8, ×12, ×20. Coins burst upward. Level progress bar fills toward the boss platform.",
+    "11–14s CLIMAX: One final mega-swipe clears the boss arena — the screen briefly empties, water ripples settle, a tiny 'PERFECT' stamp lands.",
+    "14–15s CTA: Game logo + 'PLAY FREE' button pulses on the bright blue water background."
+  ],
+  "visual_direction": "Lock to the game's signature minimalist 3D look: vibrant #2a7dfa water, #56a38b sandy-green platforms, and a sea of #e3001b stickman enemies. Camera stays in the authentic ¾ top-down Push'em All angle — no stylus, no 2D puzzle board. Lean into ASMR-grade physics: exaggerated splashes, slow-mo tumbles, crisp swipe trails, and the in-game HUD (combo multiplier, coin counter, progress timeline, SIZE UP banner) visible at all times to read as real gameplay, not a mock.",
+  "text_overlays": [
+    "Ever felt THIS satisfied? 😌",
+    "One swipe…",
+    "SIZE UP!",
+    "×20 COMBO",
+    "Wait for it…",
+    "Your turn 👇"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current rotation on Push'em All is all wordless gameplay videos and one playable — there's zero VO-led \"satisfaction question\" hook in market, despite that archetype trending across hypercasual. This brief imports the archetype's relaxing-question opener and ASMR payoff beat, but re-skins it onto authentic crowd-push physics so we keep the aggressive-fantasy install driver. UA: run as a fresh VO-driven variant against the silent gameplay control to test whether a spoken hook lifts IPM on iOS casual audiences.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic in-game Push'em All moment: ¾ top-down view of a #56a38b sandy-green floating platform surrounded by vibrant #2a7dfa water, a single player stickman at center wielding a long horizontal expanding stick sweeping a dense crowd of #e3001b red stickman enemies off both edges mid-tumble with white splash particles, in-game HUD visible (combo multiplier '×18 COMBO' top-right, coin counter top-left, level progress timeline top-center, yellow 'SIZE UP!' banner mid-screen), minimalist 3D with bright contrasting colors and simple stickman-like figures, clean shadows, no stylus, no puzzle grid, on-screen text 'Ever felt THIS satisfied? 😌' bold white sans-serif lower third. [Audio: VO 'Ever played a game this satisfying?' / punchy upbeat trap 110 BPM with airy ASMR layer / whoosh on swipe 0.3s, watery splash cluster 1.5s, coin chime on combo 2.8s]",
+    "Storyboard frame, aspect 9:16, authentic Push'em All gameplay: extreme close-up of the expanding stick mid-swipe knocking a chain of #e3001b red stickmen off a #56a38b green platform into #2a7dfa blue water, slow-motion domino tumble with exaggerated splash arcs, swipe trail glow, HUD shows '×20 COMBO' and full coin counter, minimalist 3D with bright contrasting colors and simple stickman-like figures, no character invented beyond the existing player stickman, on-screen text 'SIZE UP!' yellow burst overlay center. [Audio: no VO / energetic competitive trap drop 115 BPM / stick-extend whoosh, rapid bowling-pin tumble SFX, deep splash thump on final enemy]",
+    "Storyboard CTA frame, aspect 9:16, authentic Push'em All endgame: cleared #56a38b green boss platform with calm rippling #2a7dfa blue water, level progress timeline filled to 100%, floating coin burst settling, minimalist 3D with bright contrasting colors and simple stickman-like figures, large 'PLAY FREE' button in #e3001b red with white text bottom-center, game logo above, on-screen text 'Your turn 👇'. [Audio: VO 'Your turn — play free' / triumphant competitive sting resolving to soft pad / coin shimmer, UI button pop, water ripple tail]"
+  ]
+}

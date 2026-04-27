@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "e5f7659c7c52df69",
+    "ad_unit_id": "e5f7659c7c52df69",
+    "app_id": "67594de3d9e52a2021e5354f",
+    "advertiser_name": "Crossword Go!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/315e81ba4ceea338/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/315e81ba4ceea338/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/315e81ba4ceea338/preview",
+    "phashion_group": "e5f7659c7c52df69",
+    "share": null,
+    "first_seen_at": "2026-04-15T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Think you're a true wordsmith? Solve challenging crosswords daily and train your brain!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Energetic UGC dance showing the positive 'after-feeling' of playing the game.",
+    "visual_action": "A young man dances enthusiastically in a dimly lit room with a text overlay.",
+    "text_overlay": "how I feel after playing Crossword Go all night after school",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Young man starts dancing with arms raised to a rhythmic beat.",
+    "Text overlay establishes the context of playing 'Crossword Go' after school.",
+    "The dancer performs chest-pumping movements while smiling.",
+    "The brand logo 'Playsimple Games' appears at the bottom as the dance continues."
+  ],
+  "on_screen_text": [
+    "how I feel after playing Crossword Go all night after school",
+    "Playsimple Games"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#1A1A1A",
+    "#6B705C",
+    "#E3D5CA"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Students and young adults looking for a fun, addictive way to unwind after school.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001217
+}

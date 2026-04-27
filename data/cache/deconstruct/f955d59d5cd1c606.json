@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "f955d59d5cd1c606",
+    "ad_unit_id": "f955d59d5cd1c606",
+    "app_id": "59baf8100211a6be9ed99da9",
+    "advertiser_name": "Paddy Power Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/93e18a0b019cc651/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/93e18a0b019cc651/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/93e18a0b019cc651/preview",
+    "phashion_group": "f955d59d5cd1c606",
+    "share": null,
+    "first_seen_at": "2026-02-19T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Jouez des Spin&Go et tentez de gagner jusqu’à 1 million €",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced introduction to PokerStars Spin & Go featuring quick gameplay.",
+    "visual_action": "Logo animation transitions to a mobile device displaying a winning poker hand.",
+    "text_overlay": "SPIN & GO JOUEZ DES PARTIES ULTRA-RAPIDES",
+    "voiceover_transcript": "Spin and Go Pokerstars. Jouez des parties ultra-rapides",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Introductory logo screen for PokerStars Spin & Go.",
+    "Gameplay footage on a smartphone showing a winning hand of pocket kings.",
+    "Visual confirmation of a win with 'GAGNANT' overlay.",
+    "Promotional offer screen with 100% bonus and app store download links."
+  ],
+  "on_screen_text": [
+    "POKERSTARS",
+    "SPIN & GO",
+    "Voir conditions.",
+    "JOUEZ DES PARTIES ULTRA-RAPIDES",
+    "GAGNANT",
+    "BONUS DE 100 % JUSQU'À 100 €",
+    "Télécharger dans l'App Store",
+    "DISPONIBLE SUR Google Play"
+  ],
+  "cta_text": "BONUS DE 100 % JUSQU'À 100 €",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#E21E26",
+    "#000000",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult male poker enthusiasts in France looking for quick, high-stakes mobile gaming.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014889999999999999
+}

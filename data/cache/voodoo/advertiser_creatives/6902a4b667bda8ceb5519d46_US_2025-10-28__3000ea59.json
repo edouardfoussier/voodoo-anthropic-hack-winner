@@ -1,0 +1,4435 @@
+{
+  "count": 413,
+  "available_networks": [
+    "Admob",
+    "Applovin",
+    "BidMachine",
+    "Digital Turbine",
+    "Facebook",
+    "InMobi",
+    "Instagram",
+    "Meta Audience Network",
+    "Mintegral",
+    "Moloco",
+    "Supersonic",
+    "Unity",
+    "Vungle",
+    "Youtube"
+  ],
+  "ad_units": [
+    {
+      "id": "79e553ee44ae0223",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Applovin",
+      "phashion_group": "79e553ee44ae0223",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-05",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "79e553ee44ae0223",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d9a4750b0969963/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d9a4750b0969963/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d9a4750b0969963/thumb",
+          "video_duration": 59,
+          "width": 720,
+          "height": 1280,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.277445,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.007902
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.218684
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.61874
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.674601
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.994485
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.787212
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 381,
+        "data": [
+          [
+            "5da561c7fe0f7b44daa0e9a6",
+            0.077045
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.063125
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.048226
+          ],
+          [
+            "682349d3f7d7148702b98239",
+            0.038741
+          ],
+          [
+            "656ab40b40beda73acd1f0c4",
+            0.03826
+          ],
+          [
+            "67773d11f3ba63738c405a6b",
+            0.038094
+          ],
+          [
+            "5a695569a3f5793ecc279a5f",
+            0.033212
+          ],
+          [
+            "693af99c43283a0bd788d665",
+            0.03206
+          ],
+          [
+            "67f51ab51f5e4931de15ff38",
+            0.023263
+          ],
+          [
+            "59e4fb27b042f448d558b183",
+            0.022212
+          ],
+          [
+            "5e9a40923ea9830ccb2d2ee4",
+            0.021763
+          ],
+          [
+            "608c0595b957471b11ab3f3c",
+            0.021015
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.019827
+          ],
+          [
+            "64d270e6ea96440f9ed2c4df",
+            0.019165
+          ],
+          [
+            "68f32c0227e2c1cde8a86e6a",
+            0.016754
+          ],
+          [
+            "5d68b6870ab88346dcdb7c5a",
+            0.016282
+          ],
+          [
+            "6842363f7732439e0e870486",
+            0.014157
+          ],
+          [
+            "690c0040d46fd6fb6655e79a",
+            0.012322
+          ],
+          [
+            "615fbb49a0ba7361576d404f",
+            0.012097
+          ],
+          [
+            "605ecdc538ca534cd04e0270",
+            0.010522
+          ],
+          [
+            "6041d3263672c67359f16f00",
+            0.010334
+          ],
+          [
+            "634a30413e802152934b651e",
+            0.010142
+          ],
+          [
+            "667ffe9c6e98fe0d9e01f33a",
+            0.009391
+          ],
+          [
+            "68498ade43283a19eb2c5a85",
+            0.009247
+          ],
+          [
+            "5d35a5cc3ea9832662d655b5",
+            0.009075
+          ],
+          [
+            "678c6e67faf394f86f33172c",
+            0.008968
+          ],
+          [
+            "69896aae0576ccaabb038c28",
+            0.008942
+          ],
+          [
+            "68edb98a759282cab934f53e",
+            0.008636
+          ],
+          [
+            "67aff85465199364d4dd5655",
+            0.0085
+          ],
+          [
+            "5cc98b703ea98357b8ed3ce0",
+            0.00831
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0690d53f9fbc5525",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Youtube",
+      "phashion_group": "0690d53f9fbc5525",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-04",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "0690d53f9fbc5525",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Simple mechanics, infinite fun. Immerse yourself in the colorful world of Marble Sort"
+        },
+        {
+          "id": "49d9e063ddb76e77",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Pure Sorting Satisfaction!"
+        },
+        {
+          "id": "646861e09a4261a6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        },
+        {
+          "id": "7106f3f1e371ac20",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "message": ""
+        },
+        {
+          "id": "7d0aebab7fad7a75",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Easy to play, hard to master! Drag and sort colors to clear the board. Start the fun today"
+        },
+        {
+          "id": "bbf6e7eb71f93443",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Exercise your logic! Move the marbles strategically to solve hundreds of unique levels"
+        },
+        {
+          "id": "cbaeacf00d9a02ef",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcf865cec3bd402f/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Download",
+          "message": "Feeling stressed? Sort these vibrant marbles and find your flow in this hit puzzle game"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.186529,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.00121
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.528972
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.320419
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.110821
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.082131
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.052677
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.060134
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "09beace828ba920b",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Applovin",
+      "phashion_group": "09beace828ba920b",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-08",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "09beace828ba920b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7dc1b856dc82094b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7dc1b856dc82094b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7dc1b856dc82094b/thumb",
+          "video_duration": 59,
+          "width": 720,
+          "height": 1280,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.048956,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.023126
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.317324
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.588154
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.784459
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.429317
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.351314
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 192,
+        "data": [
+          [
+            "682349d3f7d7148702b98239",
+            0.131987
+          ],
+          [
+            "5da561c7fe0f7b44daa0e9a6",
+            0.094055
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.05895
+          ],
+          [
+            "615fbb49a0ba7361576d404f",
+            0.04585
+          ],
+          [
+            "693af99c43283a0bd788d665",
+            0.040544
+          ],
+          [
+            "5a695569a3f5793ecc279a5f",
+            0.038655
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.032213
+          ],
+          [
+            "64d270e6ea96440f9ed2c4df",
+            0.027025
+          ],
+          [
+            "656ab40b40beda73acd1f0c4",
+            0.026874
+          ],
+          [
+            "667ffe9c6e98fe0d9e01f33a",
+            0.025038
+          ],
+          [
+            "605ecdc538ca534cd04e0270",
+            0.02388
+          ],
+          [
+            "68edb98a759282cab934f53e",
+            0.020773
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.017552
+          ],
+          [
+            "67f51ab51f5e4931de15ff38",
+            0.015838
+          ],
+          [
+            "68bcf1b5d99625fa66bd6a60",
+            0.015565
+          ],
+          [
+            "59ade7ecb3606f6d6c62b115",
+            0.013138
+          ],
+          [
+            "55c5157502ac64f9c000263d",
+            0.012732
+          ],
+          [
+            "68f32c0227e2c1cde8a86e6a",
+            0.012485
+          ],
+          [
+            "65626fafad4adb3ba054d0d3",
+            0.011858
+          ],
+          [
+            "67773d11f3ba63738c405a6b",
+            0.011781
+          ],
+          [
+            "613abd1a58f59b115d7c57bd",
+            0.011584
+          ],
+          [
+            "6711ebb7df326f36e1339109",
+            0.009885
+          ],
+          [
+            "55d20e5d02ac64ee73000735",
+            0.009621
+          ],
+          [
+            "6041d3263672c67359f16f00",
+            0.009362
+          ],
+          [
+            "694290409657b345492a9509",
+            0.009175
+          ],
+          [
+            "60913111fdef5825277f7ba6",
+            0.008402
+          ],
+          [
+            "66a0949a0093ac3a432380e5",
+            0.008335
+          ],
+          [
+            "690c0040d46fd6fb6655e79a",
+            0.007742
+          ],
+          [
+            "608c0595b957471b11ab3f3c",
+            0.007558
+          ],
+          [
+            "69213cce1fe0ce2b53a6bc9d",
+            0.006448
+          ]
+        ]
+      }
+    },
+    {
+      "id": "15ea916827f9be03",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Admob",
+      "phashion_group": "15ea916827f9be03",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-06",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "15ea916827f9be03",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a39f9d30f1bbe64b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a39f9d30f1bbe64b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a39f9d30f1bbe64b/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.045406,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.00023
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.055666
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.046919
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.001135
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.022913
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            9.1e-05
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.000105
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 33,
+        "data": [
+          [
+            "695ecf445b29844de1615807",
+            0.38939
+          ],
+          [
+            "646d37d056996b447f8554dd",
+            0.310527
+          ],
+          [
+            "66ce8f4267a84babc98eccb1",
+            0.082445
+          ],
+          [
+            "67690a7c9ccf2a8f8f84494f",
+            0.079687
+          ],
+          [
+            "6290f709180097413326d081",
+            0.022075
+          ],
+          [
+            "677d166043283a0d77ae1a58",
+            0.021364
+          ],
+          [
+            "62c15ea418009744e559b26c",
+            0.015826
+          ],
+          [
+            "6282f6220eb89c727524e5a7",
+            0.015405
+          ],
+          [
+            "6842363f7732439e0e870486",
+            0.012114
+          ],
+          [
+            "5828d0480211a6d2f00006bd",
+            0.011082
+          ],
+          [
+            "654d0ac9a6cc79074b13c72a",
+            0.008894
+          ],
+          [
+            "55c52b0502ac64f9c0002c27",
+            0.008435
+          ],
+          [
+            "55c5022602ac64f9c0001f7c",
+            0.005766
+          ],
+          [
+            "5dc77685bee9c41b39e3dccd",
+            0.004582
+          ],
+          [
+            "598a6854b651765942b450b6",
+            0.00444
+          ],
+          [
+            "5a695569a3f5793ecc279a5f",
+            0.002996
+          ],
+          [
+            "67f51ab51f5e4931de15ff38",
+            0.0018
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.000927
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.000417
+          ],
+          [
+            "68706c3c80620041196fd150",
+            0.00041
+          ],
+          [
+            "6830261f27e2c10a69dcbb82",
+            0.000353
+          ],
+          [
+            "65989e2c2aa5e1445202f063",
+            0.000228
+          ],
+          [
+            "66a8b649c96d7ad4f248d71e",
+            0.000185
+          ],
+          [
+            "694290409657b345492a9509",
+            0.00014
+          ],
+          [
+            "5c81393b5c32a02233b16bcc",
+            0.000128
+          ],
+          [
+            "55c500d402ac64f9c0001efd",
+            0.000114
+          ],
+          [
+            "692e5da7885b0c358a5f83f3",
+            0.0001
+          ],
+          [
+            "64267180af8f2f221d2ac3bd",
+            6.4e-05
+          ],
+          [
+            "5edb70eacfb59d48a55afdac",
+            3.4e-05
+          ],
+          [
+            "56cbcb59f317dfd7b8000a36",
+            2.7e-05
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0f9943e9c0089d28",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Youtube",
+      "phashion_group": "0f9943e9c0089d28",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-30",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "0f9943e9c0089d28",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Get the right color to the right box to collect them."
+        },
+        {
+          "id": "46e1dfbe9da50522",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Test your logic skills before the conveyor belt fills up!"
+        },
+        {
+          "id": "725954aac917d35a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Relaxing yet challenging puzzle game for fans of sorting games."
+        },
+        {
+          "id": "8d540ff0b2552c0b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Atsisi\u0173sti",
+          "message": "A trending color sort puzzle game\u2014easy to play, hard to master."
+        },
+        {
+          "id": "b8ec0d45aa75fbed",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Sort colorful marbles, relax with ASMR sounds, and challenge your brain."
+        },
+        {
+          "id": "be5a185d56ea0683",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Think you're smart? Put your brain to the test with tricky marble puzzles. Sort them all!"
+        },
+        {
+          "id": "c3e62689338f5fbb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        },
+        {
+          "id": "d688b4984abc923d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b7622a76a707e32/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.040542,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.148044
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.17367
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.451955
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "12d1727f9283649b",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Youtube",
+      "phashion_group": "12d1727f9283649b",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-20",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "12d1727f9283649b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/thumb",
+          "video_duration": 48,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "message": ""
+        },
+        {
+          "id": "2825b78e0f70bd84",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/thumb",
+          "video_duration": 48,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        },
+        {
+          "id": "82b81959459af384",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/thumb",
+          "video_duration": 48,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Test your logic skills before the conveyor belt fills up!"
+        },
+        {
+          "id": "b600924d112825fc",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/thumb",
+          "video_duration": 48,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Relaxing yet challenging puzzle game for fans of sorting games."
+        },
+        {
+          "id": "cbc0850e18376b8e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ab7e3c9183d080d/thumb",
+          "video_duration": 48,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Get the right color to the right box to collect them."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.026928,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.232083
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "08072a78d90ef6b7",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Youtube",
+      "phashion_group": "08072a78d90ef6b7",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "08072a78d90ef6b7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        },
+        {
+          "id": "1d69b869a03d3b31",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "message": ""
+        },
+        {
+          "id": "25b6abfb9efbf966",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Scarica",
+          "message": "Pure Sorting Satisfaction!"
+        },
+        {
+          "id": "6aff9ea7dcf0c234",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Simple mechanics, infinite fun. Immerse yourself in the colorful world of Marble Sort"
+        },
+        {
+          "id": "a7c1e7684ed695fe",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Feeling stressed? Sort these vibrant marbles and find your flow in this hit puzzle game"
+        },
+        {
+          "id": "d799ac7332b5a352",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/90972e5680f1d73e/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Exercise your logic! Move the marbles strategically to solve hundreds of unique levels"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.022976,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.00583
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.78128
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.754853
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.108707
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.079099
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "26be273513abc1c9",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Youtube",
+      "phashion_group": "26be273513abc1c9",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-12",
+      "last_seen_at": "2026-03-28",
+      "creatives": [
+        {
+          "id": "26be273513abc1c9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Simple mechanics, infinite fun. Immerse yourself in the colorful world of Marble Sort"
+        },
+        {
+          "id": "42d62671f9d5b227",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "The most satisfying game of the year. Tap, sort, and win! Can you reach the final level?"
+        },
+        {
+          "id": "444693ea1655f54a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        },
+        {
+          "id": "512801fb6f6638cc",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "message": ""
+        },
+        {
+          "id": "69f7126951a0fa9b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Pure Sorting Satisfaction!"
+        },
+        {
+          "id": "9bd815e1fdeea0af",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Exercise your logic! Move the marbles strategically to solve hundreds of unique levels"
+        },
+        {
+          "id": "eb805efa818d9603",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dcd697c44faad4c3/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Feeling stressed? Sort these vibrant marbles and find your flow in this hit puzzle game"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.018284,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.683269
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.841252
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "b9a107ddd7802c42",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Unity",
+      "phashion_group": "b9a107ddd7802c42",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-25",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "b9a107ddd7802c42",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2e27b121edd52dfa/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2e27b121edd52dfa/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2e27b121edd52dfa/thumb",
+          "video_duration": 120,
+          "width": 720,
+          "height": 1280,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial"
+      ],
+      "share": 0.017815,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.013577
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.672243
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.247918
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.141557
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 13,
+        "data": [
+          [
+            "5c19d7ceb2fa2451e7823392",
+            0.298594
+          ],
+          [
+            "656ab40b40beda73acd1f0c4",
+            0.242284
+          ],
+          [
+            "68498ade43283a19eb2c5a85",
+            0.214827
+          ],
+          [
+            "67603f3da754d4d1e0b3e276",
+            0.070078
+          ],
+          [
+            "5de310bf5c6ace5b5d91ae50",
+            0.040561
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.036721
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.036562
+          ],
+          [
+            "5b77f96a2eba751c41096edd",
+            0.022268
+          ],
+          [
+            "55c5157502ac64f9c000263d",
+            0.012316
+          ],
+          [
+            "68247842c6086b0fff105aff",
+            0.011551
+          ],
+          [
+            "572c88d40211a69ae2000470",
+            0.007243
+          ],
+          [
+            "68b1f61343283a6b07a1d9a4",
+            0.003664
+          ],
+          [
+            "69213cce1fe0ce2b53a6bc9d",
+            0.003332
+          ]
+        ]
+      }
+    },
+    {
+      "id": "628ff82a4f7b59fc",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Admob",
+      "phashion_group": "628ff82a4f7b59fc",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-20",
+      "last_seen_at": "2026-04-18",
+      "creatives": [
+        {
+          "id": "628ff82a4f7b59fc",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d4faf472993901b4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d4faf472993901b4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d4faf472993901b4/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.016633,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.652711
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.256801
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 12,
+        "data": [
+          [
+            "5deffb27b9ab945359f1ee9b",
+            0.541208
+          ],
+          [
+            "55de04d202ac6453fd03b88a",
+            0.121127
+          ],
+          [
+            "654d0ac9a6cc79074b13c72a",
+            0.100125
+          ],
+          [
+            "5a72671d0dc0bc69efd2cad4",
+            0.099809
+          ],
+          [
+            "5bc40b49a2750e51c06fc738",
+            0.059885
+          ],
+          [
+            "55c50c6302ac64f9c000232d",
+            0.041518
+          ],
+          [
+            "68536f387a65eb555341ccdb",
+            0.02407
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.008396
+          ],
+          [
+            "5919fd19ee05f407440011a7",
+            0.002414
+          ],
+          [
+            "55d20e6102ac64ee7300082d",
+            0.001218
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.000146
+          ],
+          [
+            "66d27b94782b200e42488550",
+            8.5e-05
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5962769f04bcf21e",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Youtube",
+      "phashion_group": "5962769f04bcf21e",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-20",
+      "last_seen_at": "2026-03-26",
+      "creatives": [
+        {
+          "id": "5962769f04bcf21e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/thumb",
+          "video_duration": 33,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Relaxing yet challenging puzzle game for fans of sorting games."
+        },
+        {
+          "id": "a66f2dc57ffe0d4f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/thumb",
+          "video_duration": 33,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "A trending color sort puzzle game\u2014easy to play, hard to master."
+        },
+        {
+          "id": "c747535c1ae46a66",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/thumb",
+          "video_duration": 33,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        },
+        {
+          "id": "fdb396ad8717b379",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d5071b0da9dfef/thumb",
+          "video_duration": 33,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.016178,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.714192
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "2ba4ed3ad936cc1b",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Admob",
+      "phashion_group": "2ba4ed3ad936cc1b",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-26",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "2ba4ed3ad936cc1b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9849e6eba50614ca/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9849e6eba50614ca/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9849e6eba50614ca/thumb",
+          "video_duration": 43,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded"
+      ],
+      "share": 0.01611,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.938135
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.147049
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.048553
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 13,
+        "data": [
+          [
+            "5f8e13c4b00dad349f205b05",
+            0.566015
+          ],
+          [
+            "6842363f7732439e0e870486",
+            0.281599
+          ],
+          [
+            "5cdaa6fe9cadb744544ffc05",
+            0.058418
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.027619
+          ],
+          [
+            "66d27b94782b200e42488550",
+            0.020314
+          ],
+          [
+            "5f5f68bb82685a478ce3d744",
+            0.019148
+          ],
+          [
+            "56f34260623cf847f501004f",
+            0.009593
+          ],
+          [
+            "64436b77ad326d2431b0e54a",
+            0.009363
+          ],
+          [
+            "67f51ab51f5e4931de15ff38",
+            0.003685
+          ],
+          [
+            "686357a96350dd79a7fcb0b0",
+            0.003683
+          ],
+          [
+            "69213cce1fe0ce2b53a6bc9d",
+            0.000249
+          ],
+          [
+            "68536f387a65eb555341ccdb",
+            0.000246
+          ],
+          [
+            "685cc42382f7e9467051476b",
+            6.8e-05
+          ]
+        ]
+      }
+    },
+    {
+      "id": "63a5eaf3e8b7733b",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Applovin",
+      "phashion_group": "63a5eaf3e8b7733b",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-11",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "63a5eaf3e8b7733b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/17dafe4d1c8fe87b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/17dafe4d1c8fe87b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/17dafe4d1c8fe87b/thumb",
+          "video_duration": 60,
+          "width": 720,
+          "height": 1280,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.016026,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            5.7e-05
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.00037
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.001612
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.001548
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.473797
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.685516
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.9274
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.784549
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.439305
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.366204
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 161,
+        "data": [
+          [
+            "67773d11f3ba63738c405a6b",
+            0.074374
+          ],
+          [
+            "682349d3f7d7148702b98239",
+            0.064967
+          ],
+          [
+            "605ecdc538ca534cd04e0270",
+            0.046272
+          ],
+          [
+            "690c0040d46fd6fb6655e79a",
+            0.041004
+          ],
+          [
+            "5a695569a3f5793ecc279a5f",
+            0.040998
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.040032
+          ],
+          [
+            "667ffe9c6e98fe0d9e01f33a",
+            0.039672
+          ],
+          [
+            "6842363f7732439e0e870486",
+            0.036865
+          ],
+          [
+            "693af99c43283a0bd788d665",
+            0.03402
+          ],
+          [
+            "5d68b6870ab88346dcdb7c5a",
+            0.026424
+          ],
+          [
+            "678c6e67faf394f86f33172c",
+            0.025963
+          ],
+          [
+            "6968eeec66397343e84b5239",
+            0.023161
+          ],
+          [
+            "5cf1e0acd6dd1a6bafe34669",
+            0.021743
+          ],
+          [
+            "634a30413e802152934b651e",
+            0.021644
+          ],
+          [
+            "55d20e5d02ac64ee73000735",
+            0.019916
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.017081
+          ],
+          [
+            "694290409657b345492a9509",
+            0.015404
+          ],
+          [
+            "67f51ab51f5e4931de15ff38",
+            0.015243
+          ],
+          [
+            "6917c9e9f85a9f0fcef42b7d",
+            0.013821
+          ],
+          [
+            "55c51f2b02ac64f9c00028c2",
+            0.013595
+          ],
+          [
+            "67a453471525cfa2748cc386",
+            0.013152
+          ],
+          [
+            "615fbb49a0ba7361576d404f",
+            0.012535
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.011937
+          ],
+          [
+            "6711ebb7df326f36e1339109",
+            0.011626
+          ],
+          [
+            "68bcf1b5d99625fa66bd6a60",
+            0.010427
+          ],
+          [
+            "5e9a40923ea9830ccb2d2ee4",
+            0.010322
+          ],
+          [
+            "6041d3263672c67359f16f00",
+            0.009794
+          ],
+          [
+            "6719b51c8df5ae431b022b01",
+            0.009089
+          ],
+          [
+            "69213cce1fe0ce2b53a6bc9d",
+            0.008784
+          ],
+          [
+            "64d270e6ea96440f9ed2c4df",
+            0.008156
+          ]
+        ]
+      }
+    },
+    {
+      "id": "cc811904cbb1e942",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Youtube",
+      "phashion_group": "cc811904cbb1e942",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-18",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "cc811904cbb1e942",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/54111d2a924ec8cb/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/54111d2a924ec8cb/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/54111d2a924ec8cb/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        },
+        {
+          "id": "d9ef8b15b28224c4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/54111d2a924ec8cb/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/54111d2a924ec8cb/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/54111d2a924ec8cb/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.015049,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.306403
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0898
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.030191
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.033283
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.029819
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "137d89457b50a4b9",
+      "app_id": "6902a4b667bda8ceb5519d46",
+      "network": "Youtube",
+      "phashion_group": "137d89457b50a4b9",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-30",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "137d89457b50a4b9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Sort colorful marbles, relax with ASMR sounds, and challenge your brain."
+        },
+        {
+          "id": "15cb9c5d87cf59d7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Think you're smart? Put your brain to the test with tricky marble puzzles. Sort them all!"
+        },
+        {
+          "id": "26c58bf06370735f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "A trending color sort puzzle game\u2014easy to play, hard to master."
+        },
+        {
+          "id": "6877a289e2aa00ef",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        },
+        {
+          "id": "a408c7e9112dc27c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Get the right color to the right box to collect them."
+        },
+        {
+          "id": "d9c8d0aa18328c0e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Relaxing yet challenging puzzle game for fans of sorting games."
+        },
+        {
+          "id": "ed705bbe4c805a76",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f0e7a6a7bb552166/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Marble Sort!",
+          "button_text": "Install",
+          "message": "Test your logic skills before the conveyor belt fills up!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.012593,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.036709
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.077599
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-25T00:00:00Z"
+            ],
+            0.442224
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    }
+  ]
+}

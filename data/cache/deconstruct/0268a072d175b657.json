@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "0268a072d175b657",
+    "ad_unit_id": "0268a072d175b657",
+    "app_id": "647ea8e761bece51e9cbe6c2",
+    "advertiser_name": "Devil May Cry: Peak of Combat",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a62d2ca71279188/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a62d2ca71279188/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a62d2ca71279188/preview",
+    "phashion_group": "0268a072d175b657",
+    "share": null,
+    "first_seen_at": "2026-03-18T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Close-up of a cybernetic eye followed by a girl talking to an astronaut.",
+    "visual_action": "Extreme close-up of a girl's eye with a glowing blue digital iris, then a cut to her standing next to a character in a space suit.",
+    "text_overlay": "PRAGMATA DÉMO DISPONIBLE DÈS MAINTENANT",
+    "voiceover_transcript": "Ready when you are!",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Close-up of a girl's digital eye and interaction with a space-suited character.",
+    "Action sequence showing the girl and the character fighting a large robotic enemy.",
+    "Gameplay footage showing third-person shooting and hacking mechanics.",
+    "Final end card with release date, pre-order info, and platform logos."
+  ],
+  "on_screen_text": [
+    "PRAGMATA",
+    "DÉMO DISPONIBLE DÈS MAINTENANT",
+    "PIRATEZ ET TIREZ POUR RETOURNER SUR TERRE !",
+    "BREACH DETECTED",
+    "17 AVRIL 2026",
+    "PRÉCOMMANDE OUVERTE",
+    "JOUEZ À LA DÉMO SUR",
+    "CAPCOM"
+  ],
+  "cta_text": "JOUEZ À LA DÉMO SUR",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#000000",
+    "#00FFFF",
+    "#FFFFFF"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Hardcore sci-fi action fans who appreciate high-fidelity cinematic storytelling and third-person combat.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001888
+}

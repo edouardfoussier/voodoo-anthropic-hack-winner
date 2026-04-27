@@ -1,0 +1,28 @@
+{
+  "archetype_id": "curiosity-animation",
+  "target_game_id": "1453989822",
+  "title": "Charged Slide: The Glowing Boost Mystery",
+  "hook_3s": "A racer crouches mid-slide as cyan energy crackles around their inner tube — \"What happens if you charge it FULL?\"",
+  "scene_flow": [
+    "0-3s: Close-up on a single racer mid-slide, inner tube starts pulsing with glowing cyan energy rings; rainbow shimmer builds behind them. Overlay teases 'Charging…'",
+    "3-7s: Pull back to reveal 3 rivals overtaking on the giant white slide. Energy meter on HUD fills to MAX. Tap prompt appears.",
+    "7-11s: Player 'releases' the charge — racer rockets forward in an orange streak, bumping two opponents off the edge into the blue water below.",
+    "11-14s: Hang glider section: charged racer launches off a ramp, soaring past the leaderboard into 1st place with a splash finish.",
+    "14-15s: Logo lockup + CTA button pulses orange."
+  ],
+  "visual_direction": "Lean fully into aquapark.io's bright 3D low-poly look: turquoise #42bcf5 water, glossy white #ffffff slide chutes, and #ff8c1c orange used for the new 'charge' VFX, HUD meter, and CTA. Borrow the archetype's curiosity beat — the glowing power-charge pose with pulsing rainbow halo — but translate it into an in-game speed-boost VFX on the racer's inner tube. Camera stays low and behind the racer for that signature aquapark POV, cutting to a dramatic side-angle on the bump impact. No anime references, no licensed likenesses — just the game's existing animal avatars amped up with a cyan/orange energy aura.",
+  "text_overlays": [
+    "Charging…",
+    "Tap to RELEASE 🔥",
+    "MAX BOOST!",
+    "Knock them OFF!",
+    "Last one splashing WINS"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current rotation leans hard on literal gameplay descriptors (\"slide, jump, push\") and \"Best game of 2025\" social proof — zero curiosity/mystery hooks in the mix. This brief imports the trending power-charge curiosity beat from the market scan but reskins it as an original in-game boost mechanic, sidestepping the Goku IP risk while giving UA a fresh \"what does the glow do?\" thumb-stopper to A/B against the existing descriptive creatives.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16: in-game screenshot of aquapark.io, low-angle third-person view of a cartoon animal racer on a translucent inner tube sliding down a glossy white #ffffff water slide chute, bright #42bcf5 turquoise water rushing beneath, glowing cyan-and-#ff8c1c orange energy rings pulsing around the inner tube as a charge-up VFX, soft rainbow halo behind the racer, race progress bar and power-up icons visible at top of HUD, leaderboard chip in corner, 3D low-poly bright colorful cartoonish style, on-screen text 'Charging…' in bold white sans-serif with orange outline.",
+    "Storyboard frame, aspect 9:16: aquapark.io gameplay shot, side-angle of the charged animal racer on inner tube rocketing forward in a streak of #ff8c1c orange motion-blur trail, bumping two rival animal racers off the edge of the white slide into the #42bcf5 blue water splash below, race position HUD showing '1st', power-up meter maxed in orange, 3D low-poly bright colorful cartoonish style, on-screen text 'MAX BOOST!' in bold orange caps.",
+    "Storyboard frame, aspect 9:16: aquapark.io hang-glider section, cartoon animal racer gliding off a white ramp under a yellow hang glider over a bright #42bcf5 blue water park, finish line banner ahead in #ff8c1c orange, low-poly palm trees and slide loops in background, multiplayer leaderboard pinned top-right with player in 1st, 3D low-poly bright colorful cartoonish style, on-screen text 'Last one splashing WINS' in white with orange drop shadow."
+  ]
+}

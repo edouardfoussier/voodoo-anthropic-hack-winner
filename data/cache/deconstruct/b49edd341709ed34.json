@@ -1,0 +1,49 @@
+{
+  "raw": {
+    "creative_id": "b49edd341709ed34",
+    "ad_unit_id": "b49edd341709ed34",
+    "app_id": "5b2014aba05ac723e5d99392",
+    "advertiser_name": "Bomber Ace: WW2 war plane game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5716d05decfc0497/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5716d05decfc0497/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5716d05decfc0497/preview",
+    "phashion_group": "b49edd341709ed34",
+    "share": null,
+    "first_seen_at": "2025-11-24T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Air raids and dogfights are waiting!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Intense aerial assault on an aircraft carrier.",
+    "visual_action": "Planes dive-bomb and strafe a large aircraft carrier while anti-aircraft fire creates massive explosions.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Planes approach the aircraft carrier under heavy fire.",
+    "Explosions rock the deck as planes are targeted by anti-aircraft guns.",
+    "Dogfights occur directly above the ship with targeting reticles appearing.",
+    "The carrier sustains multiple hits as the aerial battle reaches its peak."
+  ],
+  "on_screen_text": [],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#4A708B",
+    "#333333",
+    "#FFD700"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Men aged 18-45 who enjoy military history and combat strategy games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001394
+}

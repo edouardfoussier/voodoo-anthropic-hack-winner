@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "70490b193582f7d0",
+    "ad_unit_id": "70490b193582f7d0",
+    "app_id": "55d939a502ac645ad202102f",
+    "advertiser_name": "Winamax Paris Sportifs",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5c3eb8062ccf73e8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5c3eb8062ccf73e8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5c3eb8062ccf73e8/preview",
+    "phashion_group": "70490b193582f7d0",
+    "share": null,
+    "first_seen_at": "2026-03-05T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Dynamic logo animation followed by a bold offer to watch and bet on NBA for free.",
+    "visual_action": "The Winamax 'W' logo spins into place, then text appears over a stylized background.",
+    "text_overlay": "PARIE ET REGARDE GRATUITEMENT LA NBA SUR L'APPLI WINAMAX !",
+    "voiceover_transcript": "You don't know about me they capping",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Animated intro with the brand logo and a value proposition for NBA fans.",
+    "Fast-paced montage of NBA team matchups (Lakers/Celtics, Thunder/Spurs, Knicks/Mavericks) with betting odds.",
+    "Text overlay emphasizing live streaming capabilities on Winamax TV.",
+    "Transition to a community-focused message with a phone UI showing the app icon.",
+    "Final call to action to join the community with app store badges."
+  ],
+  "on_screen_text": [
+    "PARIE ET REGARDE GRATUITEMENT LA NBA SUR L'APPLI WINAMAX !",
+    "LAKERS",
+    "CELTICS",
+    "THUNDER",
+    "SPURS",
+    "KNICKS",
+    "MAVERICKS",
+    "LES PLUS GROSSES AFFICHES EN LIVE SUR WINAMAX TV",
+    "TU N'ES PAS LE SEUL À AIMER LE SPORT",
+    "REJOINS LA COMMUNAUTÉ WINAMAX"
+  ],
+  "cta_text": "REJOINS LA COMMUNAUTÉ WINAMAX",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#E2001A",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "French-speaking male sports enthusiasts aged 18-35 who follow the NBA and enjoy sports betting.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.002
+}

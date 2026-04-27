@@ -1,0 +1,343 @@
+{
+  "target_game": {
+    "app_id": "1499833702",
+    "name": "Knock'em All",
+    "genre": "Hypercasual",
+    "sub_genre": "Shooter",
+    "core_loop": "Tap to shoot balls at approaching dummies, using physics to knock them off platforms and progress to the next level.",
+    "audience_proxy": "Broad casual audience, all ages, looking for quick, satisfying physics-based action.",
+    "visual_style": "Minimalist 3D with bright, flat colors and simple geometric environments.",
+    "palette": {
+      "primary_hex": "#8ED4FF",
+      "secondary_hex": "#D91A1A",
+      "accent_hex": "#6B15E8",
+      "description": "Bright, airy pastel backgrounds contrasting with vibrant primary colors for enemies and weapons."
+    },
+    "key_mechanics": [
+      "tapping",
+      "aiming",
+      "shooting",
+      "physics-simulation"
+    ],
+    "character_present": true,
+    "ui_mood": "calm/satisfying",
+    "screenshot_signals": [
+      "First-person perspective",
+      "Red crash test dummy enemies",
+      "Colorful toy-like gun",
+      "Level progress bar UI",
+      "Comic book style hit text ('BIM')"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 8,
+    "num_phashion_groups": 8
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "other-animation",
+      "label": "Other · animation",
+      "member_creative_ids": [
+        "5d287f88cf4759b9"
+      ],
+      "centroid_hook": {
+        "summary": "Static character art of Goku Ultra Instinct with a prominent 'PLAY NOW!' call to action.",
+        "visual_action": "Goku is depicted charging a blue energy blast against a vibrant, rainbow-colored background with glowing orbs.",
+        "text_overlay": "Dragon Ball Z Dokkan Battle PLAY NOW!",
+        "voiceover_transcript": null,
+        "emotional_pitch": "other"
+      },
+      "palette_hex": [
+        "#00BFFF",
+        "#FFFF00",
+        "#FF00FF"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.745,
+      "derivative_spread": 1.0,
+      "freshness_days": 620.0,
+      "overall_signal_score": 1.06,
+      "rationale": "1 creatives across 1 unique advertisers, average age 620d (velocity source: sov). Hook representative: \"Static character art of Goku Ultra Instinct with a prominent 'PLAY NOW!' call to\""
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "label": "Satisfaction · animation",
+      "member_creative_ids": [
+        "f41b68dd7e9c7ab2"
+      ],
+      "centroid_hook": {
+        "summary": "Goku SSJ3 performs his iconic Dragon Fist attack.",
+        "visual_action": "Goku charges energy and punches forward, summoning a massive golden dragon.",
+        "text_overlay": "Dragon Fist!!!",
+        "voiceover_transcript": "Dragon Fist!!!",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#FFD700",
+        "#1E3A8A",
+        "#4B0082"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.745,
+      "derivative_spread": 1.0,
+      "freshness_days": 717.0,
+      "overall_signal_score": 1.058,
+      "rationale": "1 creatives across 1 unique advertisers, average age 717d (velocity source: sov). Hook representative: \"Goku SSJ3 performs his iconic Dragon Fist attack.\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "bdf6fd7b1032fa14",
+        "5ba7458dea1165c1"
+      ],
+      "centroid_hook": {
+        "summary": "A hand uses a stylus to solve a bus-sorting puzzle while the narrator asks a question about relaxation.",
+        "visual_action": "A hand with a stylus slides colorful buses around a crowded parking lot to clear a path for passengers.",
+        "text_overlay": "Hey! Played a game that Actually makes you Feel relaxed?",
+        "voiceover_transcript": "Hey! Have you ever played a game that actually makes you feel relaxed?",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#4A90E2",
+        "#9B51E0",
+        "#F2994A"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.034,
+      "derivative_spread": 1.0,
+      "freshness_days": 114.0,
+      "overall_signal_score": 0.829,
+      "rationale": "2 creatives across 2 unique advertisers, average age 114d (velocity source: sov). Hook representative: \"A hand uses a stylus to solve a bus-sorting puzzle while the narrator asks a que\""
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "label": "Curiosity · animation",
+      "member_creative_ids": [
+        "0d364815e2ca3d52"
+      ],
+      "centroid_hook": {
+        "summary": "Revealing secret underground bunkers beneath famous landmarks like the Eiffel Tower.",
+        "visual_action": "A cross-section view pans down from the Eiffel Tower to show a complex multi-story underground shelter.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#2c3e50",
+        "#d35400",
+        "#2d5a27"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.128,
+      "derivative_spread": 1.0,
+      "freshness_days": 328.0,
+      "overall_signal_score": 0.824,
+      "rationale": "1 creatives across 1 unique advertisers, average age 328d (velocity source: sov). Hook representative: \"Revealing secret underground bunkers beneath famous landmarks like the Eiffel To\""
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "label": "Fail · in-game",
+      "member_creative_ids": [
+        "0f1d747b3e7d863f"
+      ],
+      "centroid_hook": {
+        "summary": "A player attempts a difficult level and immediately fails by crashing a bus.",
+        "visual_action": "A hand cursor moves a purple bus, then crashes a red bus into a green one.",
+        "text_overlay": "WHY THIS LEVEL IS SO HARD, CAN YOU WIN?",
+        "voiceover_transcript": null,
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#FFFFFF",
+        "#4CAF50",
+        "#F44336"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.976,
+      "derivative_spread": 1.0,
+      "freshness_days": 259.0,
+      "overall_signal_score": 0.769,
+      "rationale": "1 creatives across 1 unique advertisers, average age 259d (velocity source: sov). Hook representative: \"A player attempts a difficult level and immediately fails by crashing a bus.\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "other-animation",
+      "visual_match": 20,
+      "mechanic_match": 10,
+      "audience_match": 25,
+      "overall": 15,
+      "rationale": "This is a licensed-IP anime hook (Dokkan Battle/Goku) — visually saturated neon anime art clashes hard with Knock'em All's minimalist pastel 3D look, and we obviously can't use Dragon Ball IP without licensing. The static \"PLAY NOW\" charging-blast concept also doesn't communicate the tap-to-shoot physics ragdoll loop that drives installs for this game, and it skews to a mid-core anime gacha audience rather than the broad casual hypercasual player. Skip — neither the asset nor the concept is portable; if there's a learning to extract, it's only the very generic \"bright character + PLAY NOW CTA\" pattern, which we already cover with on-brand creatives."
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "visual_match": 15,
+      "mechanic_match": 10,
+      "audience_match": 25,
+      "overall": 15,
+      "rationale": "Hard pass — this archetype is licensed Dragon Ball Z anime IP (Goku SSJ3 Dragon Fist), which creates immediate legal/trademark risk and zero authentic ties to Knock'em All's minimalist 3D physics-shooter DNA. The dark anime palette (gold/navy/indigo) and shonen action audience clash with the game's bright pastel, broad-casual, calm/satisfying tone, and a charged-punch dragon attack has no analog to tap-to-shoot ball physics. Skip entirely; if the team wants a \"satisfaction · animation\" angle, brief a clean knockdown-chain montage with the toy gun and dummies instead."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 35,
+      "mechanic_match": 20,
+      "audience_match": 65,
+      "overall": 32,
+      "rationale": "The bus-sorting puzzle hook is a fundamentally different mechanic (sort/path-clearing puzzle) from Knock'em All's tap-to-shoot physics ragdoll loop, so reusing this concept would mislead installs and hurt D1 retention. Palette and casual-relaxation framing share some hypercasual audience overlap, but the top-down stylus interaction, muted puzzle palette, and 'relaxing' pitch clash with the game's first-person aiming, vibrant red dummies, and punchy comic-book hit feedback. Recommend skipping a direct copy; if testing the 'satisfaction' angle, rebuild around oddly-satisfying ragdoll knockdowns with the VO question hook only."
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "visual_match": 18,
+      "mechanic_match": 15,
+      "audience_match": 45,
+      "overall": 22,
+      "rationale": "This documentary-style \"secret bunker beneath the Eiffel Tower\" cross-section hook has almost no connection to Knock'em All's tap-to-shoot physics loop — there's no shooting, no dummies, no playable demonstration the user could mimic. The dark earthy palette (#2c3e50, #d35400, #2d5a27) also clashes hard with the game's bright pastel/primary look, and the cluster is tiny (1 creative, 1 advertiser, 328d old) so there's no proven scale signal. Skip unless we can heavily reskin it into a \"what's hidden behind/under the platform\" reveal that ties directly to knocking dummies off — otherwise the curiosity hook won't convert installs for this title."
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "visual_match": 25,
+      "mechanic_match": 20,
+      "audience_match": 60,
+      "overall": 28,
+      "rationale": "The \"fail at a bus puzzle\" hook is a draw-puzzle/parking trope that has zero mechanical overlap with Knock'em All's tap-to-shoot physics loop — players clicking the ad expecting vehicle steering will bounce hard, hurting CVR and D1. Visual palette (white/green/red) is partially compatible with the game's bright flat aesthetic, but the bus/cursor staging misrepresents the FPS dummy-shooting gameplay. Only the broad casual \"fail bait\" audience overlaps; recommend skipping this archetype and instead testing fail-bait framed around missed shots or dummies surviving on the platform."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "1499833702",
+        "title": "\"Ever Played Something This Satisfying?\" — Ragdoll ASMR Hook",
+        "hook_3s": "VO whispers \"Ever played a game that actually feels this satisfying?\" as a single tap launches a ball that pancakes a row of red dummies in slow-mo.",
+        "scene_flow": [
+          "0-3s HOOK: First-person view down the toy gun barrel on a pastel blue platform; a finger taps and a ball arcs in slow-mo toward three red crash-test dummies. VO question lands as the first dummy ragdolls off the edge.",
+          "3-7s ESCALATION: Speed normalizes — rapid tap-tap-tap chain knockouts, comic 'BIM' 'POW' bursts pop on each hit, progress bar fills, dummies cartwheel off geometric platforms.",
+          "7-11s PAYOFF: Slow-mo replay of a chain reaction where one dummy bowls into four others — exaggerated physics, soft thuds, satisfied exhale on the VO.",
+          "11-14s FAKE-CHOICE BEAT: Final boss-dummy on a tiny platform; cursor hovers between two ball trajectories — player picks the wall-bounce trick shot, dummy flies into the void.",
+          "14-15s CTA: Progress bar snaps to 100%, screen flashes accent purple, logo + 'Tap to Play' lockup."
+        ],
+        "visual_direction": "Lock to the game's authentic first-person aiming POV with the colorful toy-like gun in the lower frame. Pastel sky-blue (#8ED4FF) sky and platforms dominate, vibrant red (#D91A1A) dummies pop as the only saturated targets, and accent purple (#6B15E8) drives the progress bar, comic hit-text outlines, and CTA flash. Keep environments minimalist 3D with flat-shaded geometric platforms — no textures, no clutter. Slow-mo ragdoll moments use a subtle motion-blur trail in purple. UI chrome (top-center level pill, bottom progress bar, comic 'BIM' bursts) must match in-game exactly so the ad reads as real gameplay, not a render.",
+        "text_overlays": [
+          "Ever played a game this satisfying?",
+          "Just… tap.",
+          "BIM!",
+          "Chain reaction 💥",
+          "Can YOU clear it?",
+          "Tap to Play"
+        ],
+        "cta": "Tap to Play",
+        "rationale": "Voodoo's current Knock'em All rotation is all unlabeled Applovin video/playable with no VO-question hook — they're missing the trending \"satisfaction + relatable VO question\" angle that's winning in the market scan. This brief grafts that VO hook onto the game's actual ragdoll-knockdown loop (not a foreign sort puzzle), preserving install intent while opening a fresh creative lane. UA should A/B this against the existing silent playables to test whether VO-led satisfaction lifts CTR without tanking D1.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, authentic in-game screenshot of Knock'em All: first-person perspective looking down a chunky colorful toy-like gun barrel, three vibrant red crash-test dummies (#D91A1A) standing on a simple flat-shaded geometric platform floating in a pastel sky-blue (#8ED4FF) void, a single ball mid-flight with a soft accent-purple (#6B15E8) motion trail, comic-book 'BIM' burst exploding on the lead dummy, level progress bar UI pinned to bottom, top-center level number pill, minimalist 3D with bright flat colors and simple geometric environments, no textures, on-screen text 'Ever played a game this satisfying?' in bold white with purple outline at top. [Audio: VO (warm female, near-whisper) 'Ever played a game that actually feels this satisfying?' / chill lo-fi tap-house 80 BPM, calm and pillowy / soft whoosh on ball release at 1s, deep thud + comic 'BIM' on dummy impact at 2.5s.]",
+          "Storyboard frame 2, aspect 9:16, authentic Knock'em All gameplay still: slow-motion chain-reaction shot, one red dummy (#D91A1A) ragdolling sideways into four more dummies bowling-pin style off a pastel blue (#8ED4FF) hexagonal platform, accent-purple (#6B15E8) progress bar filling visibly at bottom, multiple comic 'POW' and 'BIM' bursts stacked, toy gun barrel still visible bottom-center in first-person, minimalist 3D flat-color geometric environment with no textures, on-screen text 'Chain reaction 💥' centered in playful bold white. [Audio: VO 'oh that's nice…' satisfied exhale / same lo-fi 80 BPM with a low sub-bass swell / stacked rubbery thud SFX, ascending chime on combo at 2s, progress-bar ding at 4s.]",
+          "Storyboard frame 3 CTA, aspect 9:16, authentic Knock'em All end-card moment: first-person view, final red crash-test dummy (#D91A1A) flying off-screen against pastel blue (#8ED4FF) sky, progress bar snapped to 100% glowing accent purple (#6B15E8), screen edges flashing soft purple, Knock'em All logo lockup centered, minimalist 3D bright flat colors simple geometric environment, on-screen text 'Tap to Play' in large bold white with purple drop shadow at bottom. [Audio: VO 'your turn.' / lo-fi resolves with a clean major chord / triumphant chime at 0.5s, soft UI tap-tick under CTA at 3s.]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_vJKEZc1Eycqhi5CRem1aj7Z1?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdkpLRVpjMUV5Y3FoaTVDUmVtMWFqN1oxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=defw23-FWT9GOIFk5ZyL2hdvifqw5qJEFY77m56CmVA8rZc8Eykguyn9AqB-DVnHSt8eeWatd1pJI7elNDTdbO8WPCItvxg5yzvODR4%7E-BUU1fMp5yhncwJgWwWvlFLYSMWnLPhs36O%7EfhbXrGsZi9OkGp2LjY5zwP%7EySTG74tKP96o2%7E76zjnvv-9wRKpNSt2ZROf-WT6WjW4vo7pBXU81uVoBF%7ENiuqeq30Ws8I1Reru7ZuR0Vxiysfss7-BjDweOPkPgYWIfy4wfY1ExuXYoykDL2DjVABUSdyHv2Zqi-kM7k4znvkc6E36FmxqNL1ms%7ENq%7E4NFMbjfv3hgQBqw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_V2MVWiDrxomKZR3wDW7nuxcp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVjJNVldpRHJ4b21LWlIzd0RXN251eGNwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=esuO1pHcdnzrt-U5Fi0HLLI3BuID8GdkIuEQO-t0jAQkb3wYRHwF-xPTkshgkGNAyE2V1E%7E4jexhpyISZGNSgz-B8faOlRwutCYq0-p5Sp2b1ebN-DTJtIH32NcnGVrbhq3pWdodpF8BFn2xbcvqe2Y9xHKS6NDgdkW47kJJdcaeZDA91j-iE1%7EtJuuMnq%7EkL3iVS24KYpOKqy%7EapskEd0DRAvHJfP9mqM6431h%7EdtOU7MrkU4wjet9GrZb08oVWb9tMsMUwZNVMZ6mXvmXvXdQa1p0K%7E9baWgAboIK8enUPSsVpK%7ExCVUyGIMnOrvSfBE1YskhqQRcse--hH1AcJg__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_BzJtx6Bv5wjbRH1eSMGPYinX?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQnpKdHg2QnY1d2piUkgxZVNNR1BZaW5YP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=n%7EDSl1OgWlyQKriRfSWbfpOUvxOs47P%7EcPEAE%7EmhgJDYTPemN0C2RzMDSzqSzYAgiNEPLKQxyEFJBENxGJJGpxmAFw95miqZTd8Nm7ierYNCH9F4OIUS%7EQFF7ze%7Eu-iWbP1zFFpETLjDKaGoAvznxgyI7WjpPcJaoVDPi-KE3Bq1kXWpSMpsbmnWIRN8bxMIyaqADB4rX5OMF7J5VFa2iGbD-uEfXZvirf%7EUMnakMfkVuJe8W91B5zzeildb%7ESKx0nA31uV-fDfWmZcwzQcZo7TGxbA%7EpXepHmRhR8RrXk0ixWt3NBIKUORpAFA62PopkC2LObPUmG73rwSDbzi4MQ__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=0.83 × game_fit=32/100 ⇒ priority=0.27"
+    },
+    {
+      "brief": {
+        "archetype_id": "fail-in-game",
+        "target_game_id": "1499833702",
+        "title": "\"Why Is Level 7 So Hard?\" — Missed Shot Fail-Bait",
+        "hook_3s": "A shaky finger taps fire — the ball arcs WIDE, sails past three red dummies, and clangs off the platform edge. \"WHY IS THIS LEVEL SO HARD?\"",
+        "scene_flow": [
+          "0–3s: First-person view down the toy gun barrel. Three red crash-test dummies march forward on a pastel blue platform. A hand cursor jitters, taps fire — the ball flies high and misses everything. Overlay: 'WHY IS THIS LEVEL SO HARD?'",
+          "3–7s: Second attempt — cursor over-corrects, ball rolls under the dummies' feet, bounces off the back wall. Dummies keep advancing. Progress bar barely moves. Overlay: 'CAN YOU WIN?'",
+          "7–11s: Dummies reach the player. Screen shakes, comic 'BIM' text flashes red, fail screen appears with sad trombone energy. Overlay: '99% FAIL HERE'",
+          "11–14s: Cut to a clean, satisfying retry — perfectly aimed shot knocks all three dummies off the edge in a domino chain. Purple combo flash. Overlay: 'YOUR TURN'",
+          "14–15s: CTA card with download button pulsing in accent purple."
+        ],
+        "visual_direction": "Lock to the game's authentic first-person perspective: pastel #8ED4FF sky-blue backdrop, simple geometric platform, vivid #D91A1A red crash-test dummies, and the signature toy-like gun in lower frame. Use #6B15E8 purple sparingly for combo flashes, progress-bar fill, and CTA accents. Keep everything minimalist 3D with flat shading — no gradients, no realism. Comic-book 'BIM' hit text and the level progress bar must appear exactly as in-game. Hand cursor overlay (the fail-bait tell) sits on top of otherwise pixel-faithful gameplay.",
+        "text_overlays": [
+          "WHY IS THIS LEVEL SO HARD?",
+          "CAN YOU WIN?",
+          "99% FAIL HERE",
+          "YOUR TURN",
+          "TAP TO PLAY"
+        ],
+        "cta": "Tap To Play",
+        "rationale": "Voodoo's current Knock'em All rotation is all straight gameplay videos and playables with zero fail-bait framing — we're leaving the highest-CTR hook in hypercasual on the table. This brief keeps the winning \"WHY IS THIS LEVEL SO HARD\" psychological trigger but swaps the mechanically-mismatched bus-crash for a missed-shot fail that 100% matches the tap-to-shoot loop, protecting CVR and D1. UA team: test against the 2025-09-24 video as control, expect lift on IPM via thumbnail curiosity gap.",
+        "scenario_prompts": [
+          "Hero frame, 9:16 vertical aspect, first-person view down a chunky toy-like cartoon gun barrel aimed at three vivid red crash-test dummy enemies (#D91A1A) walking on a simple geometric platform, pastel sky-blue background (#8ED4FF), a white hand cursor hovering over the fire button mid-tap, a yellow ball mid-flight clearly missing the dummies and arcing past them, thin level progress bar at top with #6B15E8 purple fill barely started, minimalist 3D with bright flat colors and simple geometric environments, no characters on screen, comic-book style overlay text 'WHY IS THIS LEVEL SO HARD?' in bold white with black outline at top center, authentic Knock'em All in-game UI chrome. [Audio: VO (frustrated female, casual): 'Wait, why is this so hard?' / calm satisfying lo-fi tap-beat 90 BPM / soft whoosh on ball, hollow clank on miss at 2.5s.]",
+          "Storyboard frame 2, 9:16 vertical aspect, first-person Knock'em All gameplay, three red crash-test dummies (#D91A1A) up close to the camera mid-collision with the player, screen-shake motion blur, large comic-book 'BIM' hit text in red and white burst across center, pastel #8ED4FF background, geometric platform edges visible, level progress bar frozen with #6B15E8 purple fill at 20%, minimalist 3D flat-color style, no characters on screen, overlay text '99% FAIL HERE' in bold white at bottom, faithful in-game HUD. [Audio: VO: 'Nooo!' / calm satisfying beat drops to muted / cartoon fail-buzzer at 0.4s, dummy thud impact, soft sad-trombone tail.]",
+          "Storyboard frame 3 redemption shot, 9:16 vertical aspect, first-person view of toy gun firing a perfectly aimed yellow ball knocking three red crash-test dummies (#D91A1A) off a geometric platform in a satisfying domino chain, bodies tumbling into pastel #8ED4FF void, bright #6B15E8 purple combo-flash radiating from impact, level progress bar filling to 100% in purple, minimalist 3D bright flat colors, no characters on screen, bold overlay text 'YOUR TURN — TAP TO PLAY' in white with purple drop shadow at bottom center, authentic Knock'em All UI. [Audio: VO (confident): 'Your turn.' / calm uplifting chiptune swell 100 BPM / triple chime combo at 1s, satisfying whoosh-pop on each dummy knockoff.]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_VJUwDKwePGvBFBvNmXfm9G1b?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVkpVd0RLd2VQR3ZCRkJ2Tm1YZm05RzFiP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=CzNMDBIGiBd1ei9A1sLSRfYHjffocpdTnxNZ7JAsrCqFLCQnKUxPmi-3RvUPQmoUqrzqyNiZxy1kHZSEQnT7JWET6qILb2P2okLbk5PBUw4bPA9q7a2S5kuViN8TGYxbyvQ2yLZjXChOR9-B%7EXqIOCLX5TArs2QyB1pOTN%7EK0QPF3r1ALLuV5r2KHQJniv1BpQl5RG3L5%7E76ADzAPIPTvrKFlzgbxmXiGfk-HLfOfX-TqocBhlOi7CpGa50azB2CFPCMYhw%7EsIbfRTZWKsjsBGVK1SgTdYl5ZyIvUhm2TSolRrYJ%7Eb5VEvmdEZHukQP5urC7bb486-27w4oxVVmCiA__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_L5H1J6kqxV4WkhHTKGofkYwv?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTDVIMUo2a3F4VjRXa2hIVEtHb2ZrWXd2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VY4asUgqwA-RQ5aXO8I0m6D4OFFpxB-3IWfxu87G%7EWQhDNqEHbJBdJobAn3gx3SP6bVj%7E3w1oETKGaAX1N96NrbSfP%7EU7waDavTV04yFrLHqqRS9o1fXxlzfbiYMVuTmsE7tH48Rpw9FF7mKYs2D8w5Lj-YsziSouPA2NrW5lB%7EYTY7mpDYXHjkWUexxSYZ6-p8TvMd3D4casvrYsO0e6V-0dXX9vOG60ps59jqUQ3gQVzfKlRA9FQq3xeaSpyYtSkG0ZyydO-pHGdPVCMS6-laUkXi38CAMMJDQxEFRXZyK9KfNghi0KDCpCNFu%7EhE3tuFVAVCruEI35vnHUshOmQ__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_5DML6JCmb4P7Mf1Dnzwnajf7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNURNTDZKQ21iNFA3TWYxRG56d25hamY3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=riP2m34apxhMGrqDgV7wiTtjSHUSo9SGHXsgaFNh7s%7EG4zuGS09N9-8KQ7zwrjvMdRwYtmXo73d5apCSLVDGQ1i9KW%7EQpgPeGeOo9qvd%7ElbGqK2ksBY2HUIPgddMlLtr79ld39OA8Nb1zlbHSZ%7EgEo6Yr6%7EmoRa60etOdHv8HMr-FLzgW342nDAbCthJt2gMTNqfGSLvBDA6mYGRBL0gO-ogOGE1NXD6MHgl65xVUCVCZqqFjQYtEnrxdu50zx2ms4HptqLTGcJ4YflV8Hi0oRxwUI-Yq%7El1ClJV4ijVS2H4NHoAyKmvcNc-UWK%7EfEe5kapFtZvH1FoVMTnQB5oLhw__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.77 × game_fit=28/100 ⇒ priority=0.22"
+    },
+    {
+      "brief": {
+        "archetype_id": "curiosity-animation",
+        "target_game_id": "1499833702",
+        "title": "What's Under The Platform? — Cross-Section Reveal",
+        "hook_3s": "\"What's hidden BENEATH the platform?\" — camera slices the pastel world in half, revealing a secret multi-floor dummy factory underground.",
+        "scene_flow": [
+          "0-3s: First-person Knock'em All POV — toy gun aimed at red dummies on a sky-blue platform. Tap-tap, two dummies fall off the edge. Hook text appears.",
+          "3-7s: Camera pulls back and the ground SLICES open in a clean cross-section reveal — beneath the bright platform sits a 3-story underground 'dummy factory': conveyor belts, stacks of red crash-test dummies, purple elevators feeding new enemies up to the surface.",
+          "7-11s: Cut back to FPV. Now the player understands — shoot the support beams visible in the cross-section. A single tap collapses a floor, and a whole column of dummies tumbles in chained physics ragdoll chaos. 'BIM' 'BAM' comic pops.",
+          "11-14s: Progress bar at top fills to 100%, level-clear confetti in #6B15E8 and #D91A1A. Cross-section seals back up — clean pastel world restored.",
+          "14-15s: CTA card with toy gun icon and finger-tap prompt."
+        ],
+        "visual_direction": "Lean fully into Knock'em All's signature minimalist 3D: airy #8ED4FF pastel sky backdrops, flat-shaded geometric platforms, vibrant #D91A1A crash-test dummies, and #6B15E8 accents on the underground machinery and elevators. The cross-section cut should feel like a clean diagram-style slice (think architectural blueprint meets toy diorama) — no dirt, no realism, just stacked colored geometry. Preserve the exact in-game HUD: top progress bar, comic-book \"BIM\" hit pops, first-person toy gun in lower frame. Camera language is smooth, satisfying, low-friction — no shake, no grit.",
+        "text_overlays": [
+          "What's UNDER the platform?",
+          "A secret dummy factory 👀",
+          "Shoot the supports…",
+          "BIM! 💥 Chain collapse",
+          "Level 1 of 480",
+          "Can YOU clear it?"
+        ],
+        "cta": "Tap to Play",
+        "rationale": "Voodoo's current Knock'em All rotation is 100% straight gameplay playables/videos with no narrative curiosity hook — this brings the trending \"hidden world reveal\" angle they don't yet have, while staying mechanically honest by tying the reveal directly to the tap-to-shoot loop (shoot supports → chain physics collapse). UA team: run this against broad casual lookalikes as a top-funnel curiosity opener, then retarget non-installers with the existing pure-gameplay playables to close.",
+        "scenario_prompts": [
+          "Hero frame, vertical 9:16 mobile ad still, in-game moment from Knock'em All hypercasual shooter. First-person POV: a colorful toy-like gun in the lower foreground aimed across a bright #8ED4FF pastel sky platform with red #D91A1A crash-test dummy enemies standing in a row. The ground is sliced open in a clean cross-section diagram reveal showing a 3-story underground dummy factory beneath — conveyor belts, stacked red dummies, #6B15E8 purple elevators. Minimalist 3D with bright, flat colors and simple geometric environments. Top of screen shows a level progress bar UI. Bold white on-screen text: 'What's UNDER the platform?'. No characters on screen besides dummies. Clean, toy-diorama lighting, no grit. [Audio: VO (curious female whisper) 'Wait… what's under there?' / calm satisfying lo-fi 90bpm with soft mallet melody / soft whoosh as ground slices open at 2s, subtle mechanical hum from factory].",
+          "Storyboard frame 2, vertical 9:16, in-game Knock'em All FPV. The toy gun fires a ball at a thin purple #6B15E8 support beam visible through the cross-section cut; a whole stack of red #D91A1A crash-test dummies is mid-collapse in physics ragdoll chaos, tumbling between underground floors. Bright #8ED4FF pastel sky above the slice. Comic-book style hit text 'BIM' pops in yellow. Level progress bar UI at top filling toward 100%. Minimalist 3D with bright, flat colors and simple geometric environments. On-screen text overlay: 'Shoot the supports…'. [Audio: VO 'One shot brings it ALL down' / upbeat satisfying 100bpm soft-pop with handclaps / pop-pop tap SFX, wooden domino tumble cascade, 'BIM' comic stinger at 1.5s].",
+          "Storyboard frame 3, vertical 9:16, end-card style still from Knock'em All. The cross-section has sealed back into a clean pastel #8ED4FF platform, confetti in #D91A1A red and #6B15E8 purple bursts across the frame, level progress bar UI at top shows 100% complete. First-person toy gun rests in lower frame, last red crash-test dummy ragdolls off the platform edge. Minimalist 3D with bright, flat colors and simple geometric environments. Large bold white text overlay: 'Tap to Play' with a tapping finger icon. No human character on screen. [Audio: VO 'Your turn — tap to play' / cheerful satisfying chime resolution 95bpm / confetti pop SFX, soft success chime, single finger-tap click at 4.5s]."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_jPkgzPZ9Uaoe9RbmJmzdAxMZ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfalBrZ3pQWjlVYW9lOVJibUptemRBeE1aP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=V7bnwcENEOaEsifzXWGrdQz6c2AUaZKcGOOyexzTdCSA2wyoH8WGD2Yg1CkpEkpxL3WwwHqYyNSz1UOdP7A9AWSa09Qp4kl%7ERuDImo-R3WKXsvN9dywH%7EVqLFcu089umaIPoj4ppN3StO5TfrX9lHywreLDuXFJA2hSePtc4eKA5Dt%7EQLb6mMWGEB16hhZ3Dm95hcpuVMEQF704o-ZfpF1%7ERup4j5lc3YrqMP6s1wIMD%7EQGjJLdqLmxOExZ6wZLIAo2gO65j6W2RlIpC3M4rEYL23wo3teOwn9fRVfwRZSvpd08iuhl30rHSP-zvY7Asp9vYA9lkfua-AbOpYe59Tg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_N7AKrNjpeyhX4Lg7K1g271WT?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTjdBS3JOanBleWhYNExnN0sxZzI3MVdUP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YnbX9K3zrsIzFD86144NJhCNIce2Hq05RyW2w%7EC%7EYhq2XnNcTekrMGzNhCtLYkOOwt-IvK0Kk6wgqcz7mhHwnKxubmRFxb-vcXWo%7E2AM3L8BWbRkjR0M4XyJs6e-f4DxVdsM2XUC9crejjSvIzyRoVJkaCfvBIXT91C0LtdU4xEtVp%7E88mYAWY6-exuxukm6ZBT0V6lJPm2YPxJ9uBmnSWUvD0SHSCpNB0nFHZox1mN14kHl0NArXiTHtJtojtYeQ%7E0Qgf7F3Ecqc6ellIsRbwjU6zbZBLhVf3vfsT9unkolWetFEhNcQ9LLlkn%7EKhAfsw7KrIk4v6KL2RPNKfhhOA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_qAQCcKZe8Q4quHbkrSgWaVN2?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcUFRQ2NLWmU4UTRxdUhia3JTZ1dhVk4yP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=B9L5CxucZJuLLHRXJWMlM5lJ29BX63dEm-rrhy0K-goFRI18BoOlu-Td-jURhQqRgE1pvVSD4wCsVTFSprUm7lOkQMA%7EUD9viAW88RLses94a2xNZLNbrwZXPgDNLgX1r1V1W9sqlpaWWVbyWLohmnAfmsyWRQdL-g5kHnF83QQesq0oFtbwKlBCDmSeLhBBZwDHO3yp2OzJT70fAZucwvGixrIEgRhM8ynjXlbGHDOcnx0a5Nco95clBFN9t1RKm1y6euIz-2yXDXHIa7lBpzW-3IS765nLFOUwu6qjc-11hwZyMaeQzPXVhHsjVufp-A1NCr2nFUWAc7IOitbRfQ__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.82 × game_fit=22/100 ⇒ priority=0.18"
+    }
+  ],
+  "pipeline_duration_seconds": 733.9712324580105,
+  "total_cost_usd": 0.012067000000000001,
+  "generated_at": "2026-04-26T13:40:13.169197Z"
+}

@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "104367ab229fc163",
+    "ad_unit_id": "104367ab229fc163",
+    "app_id": "55de054a02ac6453fd0524b9",
+    "advertiser_name": "윈조이 포커 - 블랙잭, 바카라, 슬롯, 로우바둑이",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8af35a5f61aae188/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8af35a5f61aae188/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8af35a5f61aae188/preview",
+    "phashion_group": "104367ab229fc163",
+    "share": null,
+    "first_seen_at": "2026-02-27T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Anime character intro followed by high-stakes slot machine gameplay.",
+    "visual_action": "A rabbit-eared anime girl turns around in a moonlit scene, transitioning into a slot machine spin with multipliers.",
+    "text_overlay": "룰렛 돌리다 달나라 갔다옴 ㅋ\n윈조이포커 신규 슬롯 오픈",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Intro featuring an anime character in a moonlit festival setting.",
+    "Gameplay footage of a slot machine landing winning combinations and multipliers.",
+    "High-energy 'MEGA WIN' animation with gold coins.",
+    "Explosive 'JACKPOT' screen with fireworks.",
+    "End card with game logo and 'Go to the moon now' call-to-action."
+  ],
+  "on_screen_text": [
+    "룰렛 돌리다 달나라 갔다옴 ㅋ",
+    "윈조이포커 신규 슬롯 오픈",
+    "TUMBLE WIN",
+    "MEGA WIN",
+    "JACKPOT",
+    "WINJOY POKER",
+    "이기는 즐거움 윈조이 포커",
+    "지금 달나라가기 >"
+  ],
+  "cta_text": "지금 달나라가기 >",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#1A1A40",
+    "#FFD700",
+    "#E91E63"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult Korean mobile gamers who enjoy social casino and slot machine games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001799
+}

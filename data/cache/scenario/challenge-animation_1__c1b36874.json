@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_jpvyKG48LCYCBrF3VmJe1v3i?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfanB2eUtHNDhMQ1lDQnJGM1ZtSmUxdjNpP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=viILbpwZN3QZZWVzUpYNl6jyJtItn8xDwadYnSYCjCcR8X6Z%7EnlnnSrz9Lfsu16-ItV0gxKawveoHzmh6br0IE2u7lNj2N9cgEHKuBDZ%7EZxA1NudDBzVUcKMYeIvp9az5r5D4MgoKQO8o2L2zOpEpDFuigf1e7AML87mKC2uNaBfNDrXlBAv4mOCtMK1Q%7EkZ0vxOfZ2tUKgwywySdAY7M1ocn7W6iwy%7EbPR3uVEDiBHtnZ20VgBAI-Djtg2VH4TZyvvc%7EXBgQezZ2BWPyqg3SozXEhUYfp4VnIOiXwVVFtrIZFKgADCREPLG7GLlUPo3xB8B9xa2v-gLB6rBmzQ8HQ__",
+  "job_id": "job_433ukHPXGdeDXv3Pzf2oEwxa",
+  "asset_id": "asset_jpvyKG48LCYCBrF3VmJe1v3i",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16: top-down 3D stylized scene of three color-coded buckets (red, blue, gold #FFD700) on a white (#FFFFFF) conveyor belt over a sky-blue (#4A90E2) backdrop, streams of pixel-art sand pouring into a half-completed pixel-art heart below, a cartoon finger tapping a bucket, vibrant saturated colors, 3D stylized objects with vibrant colors and pixel-art sand compositions, on-screen text 'Tap to sort. Don't spill.' centered, clean UI mockup, 15s playable ad frame",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

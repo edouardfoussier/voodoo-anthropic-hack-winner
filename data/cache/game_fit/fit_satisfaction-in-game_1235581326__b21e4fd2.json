@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 25,
+  "mechanic_match": 15,
+  "audience_match": 55,
+  "overall": 25,
+  "rationale": "This \"relaxing puzzle satisfaction\" archetype is a fundamental mismatch for Flappy Dunk: the game's DNA is energetic/competitive reflex-tapping with VS matchmaking, while the hook explicitly promises calm, stylus-based puzzle-solving — staging this would mislead installs and tank D1 retention. The sky-blue/orange Bus Jam palette also clashes with Flappy Dunk's beige+magenta identity, and there's no way to honestly demonstrate hoop physics inside a \"slide buses to relax\" frame. Only the broad hypercasual audience overlaps; do not adapt this archetype unless you strip it down to just the \"Have you played a game that...\" VO hook over native Flappy Dunk gameplay."
+}

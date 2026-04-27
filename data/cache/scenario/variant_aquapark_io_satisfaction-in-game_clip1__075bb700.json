@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_FcEMumb4VPzVAu3JwkRnpBih?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9GY0VNdW1iNFZQelZBdTNKd2tSbnBCaWgqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=vvGla7vF9rGI9pZnQK2io-UdmVElrhxAnoKyYUYHqrRJ9kplau6aiNcyIMxQJmfIc3WkV3SR%7EqwcV90copz5FLaBbTrQZWnan3eMDBP5bW19OkugVSftKbesGSKvSpEoScsD-EsawNcseaREajRrm4dxb6bqo3vSvqTnsFVjWpoNy-TPeTdwbZ99etGxgjCp0fSHDtFFFi1GPSHcrVkDs0K10i%7EuLVUlplP%7EVIDWvBlrJbKYA1gd3TgAW5CGjes14DOQj3r2%7EUQQHZ1dKIJ6Cy7X-SxTu6qhi%7ELTGhkhxJ2eQlvmKfuMyRKB-KD5l08JAlRW4YDNhhryRXaiPlTutQ__",
+  "job_id": "job_Nt1QXR9UmXzWDJbbS2Rd445k",
+  "asset_id": "asset_FcEMumb4VPzVAu3JwkRnpBih",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Aspect 9:16, 3D low-poly bright colorful cartoonish aquapark.io gameplay still, banked curve on a white water slide with bright blue (#42bcf5) water, the lead cartoon animal racer on an inner tube sideswiping two opponents simultaneously off the rim into open sky, low-poly splash and motion-blur lines, in-game HUD with orange (#ff8c1c) progress bar and rank icons preserved, bold orange overlay text 'GENIUS' stamped across the upper third, palette locked to #42bcf5 / #ffffff / #ff8c1c, authentic in-game camera and asset fidelity, no stock racing tropes. [Audio: VO 'wait \u2014 GENIUS!' / building competitive electronic 124 BPM / double bump-thud at 0.8s and 1.4s, crowd 'ohhh' sting at 2s].",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": false,
+  "audio": false
+}

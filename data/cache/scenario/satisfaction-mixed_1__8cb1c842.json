@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_GU3UL8B9PqZxt95hFVm2Geow?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfR1UzVUw4QjlQcVp4dDk1aEZWbTJHZW93P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ok4XNdbtT9Er2Mz2MDmSgtsTIjpPI0S06zXKAn4xrls0MWq-7ba6oGzfz6IHc-miJwhW9TborYIpS189i7r5n5zM%7EndQUpe-NE6l9dWaTPPegN5JxvNkTy8BMiE17gjn3ul31JRTysmmASTO8DBTbSKSaHaFSbKL9MDltMYGp7JwyVmT40XrKlZjpBgV0OzNBB%7ENKYdP5ZmBz94PlFZdM8ZZcVbVaZ-P8%7Eo--zYzFqEMfBmFnq7ZZH5D5kAcglugiUKpvQ8m%7E%7EoeiKyAWxniPRlgHOrlAkyI6X-P-zMGRx%7EqCy4j4gU-imbsHkGbnm9No0%7E4b4olAa0Py%7EgoEFMs%7Eg__",
+  "job_id": "job_c2KEv2yYCiCRMpzNKc2uc6dP",
+  "asset_id": "asset_GU3UL8B9PqZxt95hFVm2Geow",
+  "stub": false,
+  "prompt": "Storyboard frame \u2014 payoff, aspect 9:16, 3D Casual Abstract style, dynamic 3D view of multiple glossy yellow-orange (#FDBA4D) spheres bouncing and ricocheting across a dark #20232B grid framed in #403F6D purple, motion-blur light trails, purple obstacle blocks shattering into particles mid-air, dramatic rim lighting, satisfying physics chain reaction, on-screen text overlay 'CHAIN REACTION!' in bold amber caps, mobile-game ad keyframe, cinematic",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

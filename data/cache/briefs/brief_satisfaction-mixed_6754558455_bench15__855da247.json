@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "6754558455",
+  "title": "\"Actually Relaxing?\" — POV Marble ASMR Hook",
+  "hook_3s": "A manicured finger hovers over a pastel marble tray — *tap* — marbles tumble with a soft clack as a voice asks: \"Ever played a game that actually makes you feel relaxed?\"",
+  "scene_flow": [
+    "0–3s HOOK: Top-down POV of a woman's hand hovering over the lavender marble machine. VO: 'Hey — ever played a game that ACTUALLY makes you feel relaxed?' Finger taps the first tray, marbles release with crisp ASMR clacks.",
+    "3–7s DEMONSTRATE: Camera pushes in on the conveyor belt. Colored marbles roll, bounce with satisfying physics, and plop into matching colored boxes. Each correct drop triggers a soft chime + sparkle pop.",
+    "7–11s ESCALATE: A near-miss — an orange marble almost lands in the wrong box. Quick finger-tap pauses the tray just in time. Tray clears with a confetti burst and a 'Level Complete' badge.",
+    "11–14s PAYOFF: Pull back to show three trays cleared in rhythm, marbles cascading like a zen waterfall. Hand relaxes. VO: 'Finally. A game that just… feels good.'",
+    "14–15s CTA: Logo lockup on lavender bg, orange 'Play Free' button pulses."
+  ],
+  "visual_direction": "Clean, colorful 3D cartoon render with soft rounded shapes — exactly on-DNA. Lavender (#E5DFFF) backdrop, light-grey (#F0F0F8) machine and conveyor, marbles in saturated candy colors with a vibrant orange (#FFB13B) accent on UI titles, the CTA button, and one hero marble. Top-down and 3/4 POV mixing real manicured female hand (warm skin tone, neutral nail polish) with the 3D scene to mimic UGC intimacy. Lighting: soft diffused key, gentle rim light, subtle bloom on marbles. Motion: physics-driven bounces, tactile micro-zooms on each drop. Sound design is the star — ASMR clacks, soft chimes, low ambient pad. NO bus-jam or stylus tropes; keep it pure marble.",
+  "text_overlays": [
+    "Ever played a game that ACTUALLY relaxes you?",
+    "Just tap…",
+    "…and sort.",
+    "so satisfying 🫠",
+    "Level 1 of 500+",
+    "Play Free →"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current rotation leans on plain mechanic-explainer hooks (\"Get the right color to the right box\") with no emotional or UGC framing — they're missing the trending \"relaxing-game question\" hook that's winning in the market scan. This brief grafts that proven VO + hand-POV intimacy onto native marble footage (avoiding the bus-jam visual mismatch flagged in fit reasoning), giving UA a fresh thumb-stop angle for the 25–55 female audience. Test as a top-of-funnel broad creative on Applovin/Admob where the existing video pool is copy-less.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16: top-down POV of a woman's manicured hand finger about to tap a pastel marble dispenser tray, colorful candy-colored marbles inside, light grey rounded sorting machine with conveyor belt below, soft lavender background. Clean and colorful 3D cartoon style with soft, rounded shapes. Palette #E5DFFF lavender background, #F0F0F8 light grey machine, #FFB13B vibrant orange accent on the title bar. Bold orange on-screen text overlay reading 'Ever played a game that ACTUALLY relaxes you?', soft diffused lighting, gentle bloom, ASMR mood, mobile ad composition.",
+    "Storyboard frame 2, aspect 9:16: 3/4 angle close-up of colorful marbles rolling along a light grey conveyor belt and dropping into matching colored boxes below, one orange marble mid-air with motion sparkle, soft lavender backdrop, rounded chunky shapes. Clean and colorful 3D cartoon style with soft, rounded shapes. Palette #E5DFFF, #F0F0F8, #FFB13B. White rounded on-screen text 'so satisfying 🫠' centered top, level progress bar in orange, mobile vertical ad framing.",
+    "Storyboard frame 3, aspect 9:16: pulled-back hero shot of three pastel marble trays fully cleared, confetti burst, a glowing orange 'Play Free' button at the bottom center, a relaxed female hand resting beside the machine, lavender room. Clean and colorful 3D cartoon style with soft, rounded shapes. Palette #E5DFFF lavender, #F0F0F8 light grey, #FFB13B vibrant orange CTA. On-screen text 'Play Free →' in bold orange, calm satisfying mood, 9:16 mobile ad endcard."
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "f7bc67e3255fa31e",
+    "ad_unit_id": "f7bc67e3255fa31e",
+    "app_id": "66193b9ead4adb2170e90f91",
+    "advertiser_name": "Amikin Village: Magic Sim RPG",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032e0029019d56d9/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032e0029019d56d9/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032e0029019d56d9/preview",
+    "phashion_group": "f7bc67e3255fa31e",
+    "share": null,
+    "first_seen_at": "2026-04-05T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 7.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A male UGC creator introduces 'Amikin Village' with high energy, using a split-screen format to show gameplay.",
+    "visual_action": "Split-screen layout with a male creator talking to the camera at the top and gameplay footage at the bottom.",
+    "text_overlay": null,
+    "voiceover_transcript": "Descubrí Amikin Village y es muy divertido.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "UGC creator introduces Amikin Village, highlighting its fun factor.",
+    "Gameplay footage demonstrates the core loop of collecting creatures and building a village.",
+    "The scene transitions to a snowy environment showing character interaction and special effects.",
+    "The creator concludes by stating he intended to just try it but is now hooked."
+  ],
+  "on_screen_text": [
+    "7350",
+    "LVL 12",
+    "AMIKIN SURVIVAL"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#000000",
+    "#FFFFFF",
+    "#4A5D23"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Spanish-speaking male gamers aged 18-35 who enjoy creature-collection and survival RPGs.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001329
+}

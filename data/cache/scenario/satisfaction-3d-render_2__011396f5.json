@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_xPH6bSskkXLNxPP5AtxgGLXo?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeFBINmJTc2trWExOeFBQNUF0eGdHTFhvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=S1JmJBWFHBaypDr0nqIhYA46c84cZu1Dy2v5cYjZKarLAPU0TK-eBdbKW89h-gVzU-nWEw%7EzgTrv0wCGqecceWB3ApXMO6TKBqQu3tUccY0M44ky-wK7k2WwiOnNBqmryxInkPblOBoy%7EoVXgyxzcCVTAmomxD1cF-vRebKkf0ttJ45Krq2gY2CN8PGPxptcFmNVxnnOrCP68ZDrlD7WDJQK36wqn8pTyubNu0CIVh7P2t7YW1QjjO7ImAsXjYXoZEnhGX4IW-lCuF5NpvXKVW%7EhHFq%7EHF4NkWa904UBtyJU2jVJpY74ahqjbgWgpoGHFUZjspELCKb%7EU-5CiTFrtw__",
+  "job_id": "job_1QUzFNZGMgmt7pAPqShAgLxt",
+  "asset_id": "asset_xPH6bSskkXLNxPP5AtxgGLXo",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, in-game screenshot of Marble Sort! end card: four pastel collection boxes stacked in a rainbow tower all showing 100% fill meters, orange (#FFB13B) starburst confetti, lavender (#E5DFFF) backdrop with subtle #F0F0F8 machine silhouette, large orange overlay text '100% Sorted \u2728' centered, app icon and 'Play Free' button at bottom, clean and colorful 3D cartoon style with soft rounded shapes, no characters, glossy marble highlights.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

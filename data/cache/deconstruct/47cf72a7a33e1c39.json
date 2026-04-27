@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "47cf72a7a33e1c39",
+    "ad_unit_id": "47cf72a7a33e1c39",
+    "app_id": "658ea0be1fc48c4dbb3065e6",
+    "advertiser_name": "Last Z: Survival Shooter",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/preview",
+    "phashion_group": "47cf72a7a33e1c39",
+    "share": null,
+    "first_seen_at": "2026-03-29T00:00:00",
+    "last_seen_at": "2026-04-02T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Two anime-style female protagonists on a weaponized motorcycle confront a massive zombie horde on a bridge.",
+    "visual_action": "A pink motorcycle with mounted guns stops in front of a crowd of zombies while the characters exchange dialogue.",
+    "text_overlay": "Looks like a dead end",
+    "voiceover_transcript": "Looks like a dead end. Just a traffic jam. Clear it.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Two female protagonists on a pink motorcycle face a massive zombie horde on a bridge.",
+    "One character jumps off to slice through zombies with a katana while the bike speeds ahead.",
+    "The motorcycle drives up a truck ramp to launch into the air.",
+    "The bike fires mounted machine guns at the zombies below during a slow-motion jump.",
+    "The characters land safely as the game title and call to action appear."
+  ],
+  "on_screen_text": [
+    "LAST Z SHOOTER RUN",
+    "Looks like a dead end",
+    "Just a traffic jam",
+    "Clear it",
+    "RAMP",
+    "BREAK THE DEADLOCK"
+  ],
+  "cta_text": "BREAK THE DEADLOCK",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#4A4E54",
+    "#E91E63",
+    "#1A1A1A"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Young male gamers who enjoy anime aesthetics and high-octane zombie survival action.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001666
+}

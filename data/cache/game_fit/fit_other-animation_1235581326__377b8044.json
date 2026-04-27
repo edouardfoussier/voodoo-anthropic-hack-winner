@@ -1,0 +1,8 @@
+{
+  "archetype_id": "other-animation",
+  "visual_match": 25,
+  "mechanic_match": 10,
+  "audience_match": 30,
+  "overall": 18,
+  "rationale": "This is a static IP-driven anime hook for Dragon Ball Z Dokkan Battle — it leans on licensed character recognition and a gacha/RPG audience, neither of which Flappy Dunk can authentically replicate. Visually the saturated rainbow + neon palette clashes with Flappy Dunk's warm beige/magenta cartoon look, and mechanically a static charging-energy-blast frame communicates nothing about tap-to-fly hoop physics or VS scoring. Skip this archetype: borrowing the format risks IP/legal friction and would mis-target anime-RPG users who churn fast on hypercasual arcade loops."
+}

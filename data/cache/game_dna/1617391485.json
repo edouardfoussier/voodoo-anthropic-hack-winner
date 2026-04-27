@@ -1,0 +1,31 @@
+{
+  "app_id": "1617391485",
+  "name": "Block Blast！",
+  "genre": "Puzzle",
+  "sub_genre": "Block Puzzle",
+  "core_loop": "Drag polyomino blocks onto an 8x8 grid to complete full rows or columns, clearing them to score points and free up space.",
+  "audience_proxy": "Casual mobile gamers aged 25-55 seeking a relaxing, low-pressure mental challenge during short breaks.",
+  "visual_style": "Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid.",
+  "palette": {
+    "primary_hex": "#5469B9",
+    "secondary_hex": "#1E2744",
+    "accent_hex": "#FFD700",
+    "description": "A soothing royal blue background paired with a dark navy game board and bright, saturated block colors."
+  },
+  "key_mechanics": [
+    "drag-and-drop",
+    "line-clearing",
+    "spatial-planning",
+    "score-optimization",
+    "item-collection"
+  ],
+  "character_present": false,
+  "ui_mood": "calm/satisfying",
+  "screenshot_signals": [
+    "8x8 grid layout",
+    "multi-colored block pieces",
+    "score tracking",
+    "collectible stars and gems",
+    "satisfying line-clear animations"
+  ]
+}

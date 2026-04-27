@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1345968745",
+  "title": "\"Have You Ever Played...\" — Helix Smash ASMR Edition",
+  "hook_3s": "\"Hey — ever played a game that smashes stress in 3 seconds flat?\" Neon ball pulverizes a stack of red platforms in a single satisfying combo.",
+  "scene_flow": [
+    "0–3s: HOOK — Tight close-up on the helix tower spinning. A finger swipes; the cyan ball drops and obliterates 5 red platforms in a chain-smash combo. VO: 'Hey — ever played a game that ACTUALLY relieves stress?'",
+    "3–7s: PAYOFF LOOP — Camera pulls back. Ball bounces through perfectly-timed neon green gaps as the tower rotates. Combo counter climbs: x3, x5, x8. Crunchy smash SFX layered with soft chimes.",
+    "7–11s: TENSION SPIKE — Red trap ring ahead. Beat of silence. Finger drags fast, ball slips through a green gap at the last frame. 'PERFECT!' flashes.",
+    "11–14s: ESCALATION — Rapid-fire montage: boss-level banner, score multiplier explodes, ball plummets through 10+ rings in one continuous smash.",
+    "14–15s: CTA — Logo lock-up on the cyan/neon background. 'TAP TO SMASH' button pulses."
+  ],
+  "visual_direction": "Lean fully into Helix Jump's neon-on-light DNA: a clean off-white/pale gradient background, the helix tower built from glossy 3D discs in cyan (#5CE1E6) primary, with neon green (#39FF14) safe zones and danger-red (#FF0000) trap rings. Camera stays tight and vertical — phone-native 9:16 framing of the tower's central axis. Motion is punchy: micro-zooms on each smash, subtle screen shake, particle bursts in matching neon hues when platforms shatter. UI chrome must match the live game: top-left level number, top-right score with multiplier, combo text bursts mid-screen. No characters — the ball IS the hero. Sound design carries the \"satisfaction\" archetype: ASMR-grade crunches, chimes on combos, soft whoosh on rotations.",
+  "text_overlays": [
+    "Ever played a game that ACTUALLY relieves stress?",
+    "Just… smash. 🎯",
+    "COMBO x8",
+    "One tap = pure dopamine",
+    "TAP TO SMASH"
+  ],
+  "cta": "Tap to Smash",
+  "rationale": "Voodoo's current Helix Jump rotation is almost entirely silent gameplay videos and playables with no copy or emotional framing — they have zero VO-led \"have you ever played…\" hooks despite that framing being a proven market winner. This brief borrows the trending interrogative-VO satisfaction angle but reskins it onto Helix's native smashing/bouncing footage, so we get the hook freshness without the mechanic mismatch. UA team: test this against the silent video baseline; expect lift on thumb-stop rate and IPM from the spoken question + ASMR smash audio.",
+  "scenario_prompts": [
+    "Hero frame, aspect ratio 9:16, authentic Helix Jump in-game screenshot: vertical 3D minimalist helix tower made of stacked glossy cyan (#5CE1E6) discs spiraling down the center of the screen, one bright neon green (#39FF14) safe gap, a menacing red (#FF0000) trap ring mid-tower shattering into geometric shards, a glossy cyan ball mid-bounce with motion blur and particle burst, pale off-white gradient background, no characters, top-left level indicator '12' and top-right score '24,580' with 'x8' combo multiplier in bold sans-serif, on-screen text overlay 'Ever played a game that ACTUALLY relieves stress?' in clean white rounded font, bright contrasting colors, simple geometric shapes, energetic mood, authentic Helix Jump UI chrome",
+    "Storyboard frame 2, aspect ratio 9:16, authentic Helix Jump gameplay still: cyan (#5CE1E6) ball plummeting through a chain of exploding red (#FF0000) platform rings, neon green (#39FF14) safe ring glowing below, helix tower rotating with motion lines, shattered disc fragments scattering in 3D space, pale minimalist background, no character on screen, HUD shows score counter and level progress bar at top, large center overlay text 'COMBO x8' in bold neon white, 3D minimalist style with bright contrasting colors and simple geometric shapes, in-game Helix Jump UI fidelity",
+    "Storyboard CTA frame, aspect ratio 9:16, Helix Jump end-card style: centered cyan (#5CE1E6) helix tower icon with a single ball resting on a neon green (#39FF14) disc, faint red (#FF0000) accent ring behind, soft pale background, large pulsing button overlay text 'TAP TO SMASH' in bold white rounded sans-serif, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, authentic Helix Jump end-screen layout with small level icons row at bottom"
+  ]
+}

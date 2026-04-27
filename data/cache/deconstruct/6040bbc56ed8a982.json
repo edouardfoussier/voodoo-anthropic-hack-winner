@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "6040bbc56ed8a982",
+    "ad_unit_id": "6040bbc56ed8a982",
+    "app_id": "662a6595c8d3632d66ebeaf4",
+    "advertiser_name": "Die Again: Troll Game Ever",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b8525479ca0c68b2/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b8525479ca0c68b2/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b8525479ca0c68b2/preview",
+    "phashion_group": "6040bbc56ed8a982",
+    "share": null,
+    "first_seen_at": "2026-01-08T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1440,
+    "height": 2560,
+    "message": "We built the fairest unfair game. Can you beat it? Install and prove your skills.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A black cat character in a platformer gets crushed by a falling spike trap, causing a funny stretching animation.",
+    "visual_action": "The character walks under a platform, a spike trap falls, and the character stretches vertically before disappearing.",
+    "text_overlay": "This game TROLL anytime :)))",
+    "voiceover_transcript": "Okay. He elongated!",
+    "emotional_pitch": "fail"
+  },
+  "scene_flow": [
+    "The character is crushed by a falling spike trap in a simple platformer level.",
+    "The character respawns and is crushed again by a different ceiling trap.",
+    "The character shrinks in size to navigate a tight space.",
+    "The character reaches the goal but is killed by a hidden spike trap at the finish line.",
+    "A reaction clip of a man crying is shown to emphasize the frustration."
+  ],
+  "on_screen_text": [
+    "This game TROLL anytime :)))",
+    "Bro's really short!",
+    "Oooh!"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#E8A33E",
+    "#F6C865",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Young gamers who enjoy difficult, 'troll' style platformers and humorous reaction content.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001657
+}

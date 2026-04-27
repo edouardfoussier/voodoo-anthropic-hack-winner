@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "beca2534701d3666",
+    "ad_unit_id": "beca2534701d3666",
+    "app_id": "55c5342c02ac64f9c0002f34",
+    "advertiser_name": "DRAGON BALL Z DOKKAN BATTLE",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3dce6156bb04eff/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3dce6156bb04eff/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3dce6156bb04eff/preview",
+    "phashion_group": "beca2534701d3666",
+    "share": null,
+    "first_seen_at": "2024-05-09T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Simple & Addictive Gameplay",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy anime battle sequence featuring Vegito Blue charging and firing a massive energy blast.",
+    "visual_action": "Vegito Blue charges a glowing energy sphere and fires a beam directly at the camera with intense visual effects.",
+    "text_overlay": "\"Try and survive this!!!\"",
+    "voiceover_transcript": "\"Try and survive this! Final Flash!\"",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Vegito Blue charges a powerful energy attack with intense visual effects and speed lines.",
+    "He fires a massive yellow beam (Final Flash) that fills the screen.",
+    "The scene transitions to a close-up of Vegito Blue performing a rapid-fire melee combo with kinetic impact effects.",
+    "The ad concludes with a static end card featuring the game logo, character art, and a 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "\"Try and survive this!!!\"",
+    "Final Flash",
+    "Vegito Special",
+    "Dragon Ball Z Dokkan Battle",
+    "Play Now"
+  ],
+  "cta_text": "Play Now",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#0077BE",
+    "#FFD700",
+    "#000000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Male anime fans aged 18-35 who enjoy high-intensity battle games and the Dragon Ball franchise.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001726
+}

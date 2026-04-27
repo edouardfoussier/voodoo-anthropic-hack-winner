@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "ef4a8ead8d04be32",
+    "ad_unit_id": "ef4a8ead8d04be32",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5674509764bfa4e3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5674509764bfa4e3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5674509764bfa4e3/preview",
+    "phashion_group": "ef4a8ead8d04be32",
+    "share": null,
+    "first_seen_at": "2025-09-04T00:00:00",
+    "last_seen_at": "2026-04-04T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Crush your opponents, dominate the battlefield!",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced robot combat framed by a dense UI showcasing extensive customization options.",
+    "visual_action": "A multi-legged robot fires energy weapons in a desert arena while surrounded by a grid of weapon and robot parts.",
+    "text_overlay": "上百款机甲武器 自由搭配",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Initial combat sequence showing a Typhon robot firing weapons with a UI overlay of various parts.",
+    "Gameplay continues as the robot secures a 'Double Kill' against enemy mechs.",
+    "The robot advances, securing a 'Triple Kill' while the UI highlights different weapon models.",
+    "Final transition to a stylized 3D logo reveal for 'War Robots'."
+  ],
+  "on_screen_text": [
+    "WAR ROBOTS",
+    "上百款机甲武器 自由搭配",
+    "逼真细节 模拟真实机甲特性",
+    "DOUBLE KILL",
+    "TRIPLE KILL",
+    "机甲战队"
+  ],
+  "cta_text": "机甲战队",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#1A1A1A",
+    "#A67B5B",
+    "#FFD700"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy mecha customization and tactical shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017170000000000002
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_E3rZYhDmy8VnKKCwhNfir32W?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRTNyWlloRG15OFZuS0tDd2hOZmlyMzJXP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=idPnJtrU-RQuafTsKv7HK%7Ei4SGXcsq%7EQX34kGv2TicKp%7ExV2J9wKWNWu2DJi-phyHeqw1-bHhSObHM2fO2QFsYmq7DHDwwnyU6PhFCDLRnB8SpwZ-ELqv4uJXO71bwgtordXemm7CKwWMVQMTjWcL2ZQlPlvh16%7EFA0yt71SLbbaxCXleEdmXiha1LDTuq0Y0wODwn6Tgr4AvLmFDBs-khKeTCXhgFUjQBMNFnBCOV1e%7ECbMIjPVnvgn4N6IDpqT7TiWaHhJnIWwgX382CtyGz07W8mr3a%7EY9d7rb4GP5qxKxhhJbjTY8YhIvBbnn2oZfqGoz3ET-RQuouqKbgZVeA__",
+  "job_id": "job_8qtMmknNpUva3HaEucR5g9yj",
+  "asset_id": "asset_E3rZYhDmy8VnKKCwhNfir32W",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical mobile game screenshot, authentic in-game moment from Helix Jump: a 3D minimalist neon cyan (#5CE1E6) spiral helix tower shown as a vertical architectural cross-section cutaway against a soft light-grey background, stacked rotating disc platforms descending deep into the frame, small glowing neon-green (#39FF14) bouncing ball mid-bounce on an upper ring, scattered bright red (#FF0000) trap segments on lower rings, thin white schematic depth lines and floor-number labels along the right edge, score multiplier HUD '\u00d73' top-left and high-score counter top-right in clean sans-serif, bold on-screen text overlay 'How deep does it go?' centered upper third, bright contrasting colors, simple geometric shapes, flat 3D minimalist render, no characters, no people, no illustrated humans, sharp clean edges, mobile game UI chrome",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 20,
+  "mechanic_match": 25,
+  "audience_match": 55,
+  "overall": 28,
+  "rationale": "This \"fail with crashing buses\" archetype is clearly built for a puzzle/parking/traffic-jam game and maps poorly onto Roof Rails' runner-and-balance loop — the bus-crash visual, red/green collision palette, and top-down hand-cursor staging conflict with our 3D third-person rooftop runner, cyan/yellow palette, and pole-sliding mechanic. The \"can you win this hard level?\" framing could work in spirit (fail-bait is proven for hypercasual), but it would need a full reshoot around pole-cutting saw obstacles or rooftop misses, not a reskin. Recommendation: do not adopt this cluster as-is; instead borrow only the fail-bait + challenge-question text hook and rebuild the visual around an in-game pole-shearing crash."
+}

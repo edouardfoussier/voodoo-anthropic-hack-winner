@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "e91707401817a77f",
+    "ad_unit_id": "e91707401817a77f",
+    "app_id": "605bb7d32cfa1f2f928615b4",
+    "advertiser_name": "Magic: The Gathering Arena",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3935179ee792a8ab/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3935179ee792a8ab/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3935179ee792a8ab/preview",
+    "phashion_group": "e91707401817a77f",
+    "share": null,
+    "first_seen_at": "2026-03-31T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Five colleges. Five play styles. Find your fit and represent your school with pride.",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Logo reveal and card flip animation.",
+    "visual_action": "The 'Secrets of Strixhaven' logo appears followed by a Magic card flipping to reveal its face.",
+    "text_overlay": "MAGIC THE GATHERING SECRETS OF STRIXHAVEN PREORDER NOW",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Logo animation for 'Secrets of Strixhaven' appears over a stylized fantasy background.",
+    "A Magic: The Gathering card flips into the center of the frame.",
+    "The card is revealed as 'Vampiric Tutor' with unique borderless artwork.",
+    "Final static shot showing the card details and the 'PREORDER NOW' call to action."
+  ],
+  "on_screen_text": [
+    "MAGIC THE GATHERING",
+    "SECRETS OF STRIXHAVEN",
+    "PREORDER NOW",
+    "Vampiric Tutor",
+    "Instant",
+    "Search your library for a card, then shuffle and put that card on top. You lose 2 life.",
+    "The only true immortality comes in the passage of knowledge. Mold one mind and you can live in thousands more.",
+    "—The Sanguine Influence"
+  ],
+  "cta_text": "PREORDER NOW",
+  "cta_timing_seconds": 0.04,
+  "palette_hex": [
+    "#2B2621",
+    "#F7B500",
+    "#7ED321"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Competitive and collector Magic: The Gathering players looking for premium card variants.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016589999999999999
+}

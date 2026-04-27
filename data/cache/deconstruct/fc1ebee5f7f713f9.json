@@ -1,0 +1,64 @@
+{
+  "raw": {
+    "creative_id": "fc1ebee5f7f713f9",
+    "ad_unit_id": "fc1ebee5f7f713f9",
+    "app_id": "55c5025102ac64f9c0001f98",
+    "advertiser_name": "Bingo Blitz - Bingo Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6b43de4f3b54156f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6b43de4f3b54156f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6b43de4f3b54156f/preview",
+    "phashion_group": "fc1ebee5f7f713f9",
+    "share": null,
+    "first_seen_at": "2026-04-16T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "This bingo got heated fast",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Garfield relaxing in a chair followed by the 'Nice' meme guy.",
+    "visual_action": "Garfield is sitting in a recliner with math equations floating around, then a microphone is thrust in his face, followed by a cut to the 'Nice' meme guy.",
+    "text_overlay": "YOUR CHILDHOOD HERO IS BACK!",
+    "voiceover_transcript": "Nice",
+    "emotional_pitch": "celebrity"
+  },
+  "scene_flow": [
+    "Introduction of Garfield as a 'childhood hero' with a meme reaction.",
+    "Garfield playing Bingo Blitz in various cozy settings like under a blanket and in a fridge.",
+    "Showcase of Garfield-themed bingo gameplay and rewards.",
+    "Announcement of the collaborative room and free download offer.",
+    "Final call to action with the 'Play Now' button and game logo."
+  ],
+  "on_screen_text": [
+    "YOUR CHILDHOOD HERO IS BACK!",
+    "GARFIELD IS COMING",
+    "TO BINGO BLITZ",
+    "YOUR CHILDHOOD HERO",
+    "IS BACK",
+    "WIN BINGO WITH",
+    "NO. 1 FREE",
+    "BINGO GAME",
+    "COLLABORATIVE ROOM",
+    "DOWNLOAD FOR FREE",
+    "AND GET INSTANT",
+    "GARFIELD REWARDS",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 12.5,
+  "palette_hex": [
+    "#FFB800",
+    "#000000",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual gamers and nostalgic adults who grew up with Garfield and enjoy social bingo games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018210000000000001
+}

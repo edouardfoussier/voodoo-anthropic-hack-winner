@@ -1,0 +1,29 @@
+{
+  "archetype_id": "curiosity-animation",
+  "target_game_id": "6754558455",
+  "title": "Marble Sort! — Charged Cascade",
+  "hook_3s": "A single glowing rainbow marble pulses and hums above a pastel sorting machine — energy building, about to burst.",
+  "scene_flow": [
+    "0–3s: Close-up on one oversized marble shimmering with soft rainbow aura, vibrating on a tray above the conveyor — overlay teases 'What happens if you tap?'",
+    "3–7s: Finger taps; marble splits into a cascade of glowing color marbles tumbling onto the conveyor with satisfying physics bounces.",
+    "7–11s: Marbles stream into matching color boxes one-by-one — each correct sort sparkles with a soft orange accent pop and a chime.",
+    "11–14s: Camera pulls back to reveal a fully-cleared level, boxes glowing, confetti puff in pastel lavender.",
+    "14–15s: End card — logo + CTA button pulses with the same charged-energy glow from the hook."
+  ],
+  "visual_direction": "Clean 3D cartoon render with soft rounded shapes, lavender (#E5DFFF) background and light-grey (#F0F0F8) machine body, with the vibrant orange (#FFB13B) reserved for the charging-glow aura, sparkles, and CTA. Lighting is soft and diffused — ASMR-satisfying, not action-y. Borrow the 'charging energy' beat from the archetype but translate it into a calm, candy-like marble pulse rather than aggressive shonen bursts. Subtle motion blur on falling marbles, gentle bokeh, no characters.",
+  "text_overlays": [
+    "What happens if you tap?",
+    "Release the rainbow",
+    "Sort every color",
+    "Oddly satisfying ✨",
+    "Can you clear it?",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "We keep the archetype's high-performing 'charging curiosity' beat but fully restage it in Marble Sort's calm pastel DNA — a glowing marble replaces Goku, a satisfying multi-color cascade replaces the Kamehameha. This preserves the proven curiosity hook for scroll-stop while staying on-brand for casual women 25–55 and dodging IP risk. UA team: test against a 'fail-then-win' variant to isolate which curiosity trigger drives stronger IPM.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, clean and colorful 3D cartoon style with soft rounded shapes, a single oversized glowing rainbow marble pulsing with a warm orange (#FFB13B) aura hovering above a light grey (#F0F0F8) sorting machine tray, soft pastel lavender (#E5DFFF) background with subtle bokeh sparkles, on-screen text 'What happens if you tap?' in bold rounded orange letters at the top, ASMR-satisfying mood, soft diffused lighting, no characters, mobile game ad still",
+    "Storyboard frame 2, aspect 9:16, clean and colorful 3D cartoon style with soft rounded shapes, a cascade of glossy multi-color marbles (red, blue, yellow, green, purple) tumbling from a tray onto a light grey (#F0F0F8) conveyor belt with gentle motion blur, lavender (#E5DFFF) background, vibrant orange (#FFB13B) sparkle accents on each marble bounce, on-screen text 'Release the rainbow' in rounded orange typography, satisfying physics moment, mobile puzzle game ad",
+    "Storyboard frame 3, aspect 9:16, clean and colorful 3D cartoon style with soft rounded shapes, overhead three-quarter view of pastel colored sorting boxes filled with perfectly matched marbles glowing softly, light grey (#F0F0F8) machine, lavender (#E5DFFF) background with gentle confetti puff, vibrant orange (#FFB13B) 'Play Free' CTA button pulsing at the bottom, on-screen text 'Oddly satisfying ✨', calm and rewarding end-card mood"
+  ]
+}

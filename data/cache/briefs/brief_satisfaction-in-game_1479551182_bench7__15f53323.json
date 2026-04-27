@@ -1,0 +1,27 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "1479551182",
+  "title": "Smart. Genius. Psychopath. — Push'em All Edition",
+  "hook_3s": "A blue stickman's stick EXPANDS and sweeps 30 red enemies off the platform in one satisfying physics ragdoll wave — splash, splash, splash.",
+  "scene_flow": [
+    "0-3s: Tight top-down on the blue platform. Player swipes once, stick expands modestly, shoves a small red cluster off the edge. Overlay: 'SMART'.",
+    "3-7s: Camera pulls back. Bigger swipe, 'SIZE UP!' power-up triggers, stick doubles in length, wipes a full row of red stickmen into the water in a single arc. Overlay: 'GENIUS'.",
+    "7-12s: Combo multiplier x8 spikes on HUD, coin counter ticks up rapidly, level timeline fills. Stick grows absurdly long, sweeping a 50-enemy crowd off a narrow bridge — ragdolls splash in slow-mo. Overlay: 'PSYCHOPATH'.",
+    "12-15s: Final boss-platform: one mega-swipe clears everything, level-complete burst, coins rain. CTA card snaps in."
+  ],
+  "visual_direction": "Lock to the native Push'em All look: vibrant #2a7dfa water, #56a38b sandy/green platforms, bright #e3001b enemy stickmen vs. a blue hero. Minimalist 3D, soft top-down/isometric camera that pulls back as the stick grows. Every escalation beat ends with a bigger red ragdoll splash into blue water — that's the satisfaction payoff. Keep native HUD visible: progress timeline at top, combo multiplier and coin counter, 'SIZE UP!' power-up burst. No filters, no UGC frame — this is pure clean in-game footage with escalating overlays.",
+  "text_overlays": [
+    "SMART",
+    "GENIUS",
+    "SIZE UP!",
+    "PSYCHOPATH",
+    "Can you clear it all?"
+  ],
+  "cta": "PLAY FREE",
+  "rationale": "Voodoo's current Push'em All rotation is all unlabeled video/playable with no copy hook — there's zero text-driven escalation creative in market. This brief imports the trending 'SMART/GENIUS/PSYCHOPATH' satisfaction-escalation overlay device (the only transferable element from the puzzle archetype) and bolts it onto authentic swipe-and-shove gameplay, giving UA a copy-led variant to A/B against the silent videos without misrepresenting the core loop. Expect lift on CTR via the meme-recognizable text beat while IPM stays protected by truthful gameplay.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, top-down isometric in-game shot of Push'em All: a single blue stickman character on a green-and-sandy platform (#56a38b) surrounded by vibrant blue water (#2a7dfa), wielding a massively expanded horizontal stick sweeping a dense crowd of bright red stickman enemies (#e3001b) off the edge, red ragdolls mid-air splashing into blue water, minimalist 3D with bright contrasting colors and simple stickman-like figures, native HUD visible with level progress timeline at top, combo multiplier 'x8' and coin counter, bold white overlay text 'PSYCHOPATH' centered, clean mobile game UI chrome, no filters, authentic Push'em All gameplay still",
+    "Storyboard frame 1, aspect 9:16, top-down in-game view of Push'em All early level: blue stickman on a narrow green platform (#56a38b) over blue water (#2a7dfa), short stick extended sideways pushing a small group of red stickman enemies (#e3001b) toward the edge, minimalist 3D with bright contrasting colors and simple stickman-like figures, native HUD with progress timeline and coin counter, bold white overlay text 'SMART' top-center, clean authentic Push'em All gameplay, no character invented beyond the hero",
+    "Storyboard frame 2, aspect 9:16, dynamic in-game moment of Push'em All: blue stickman triggers a 'SIZE UP!' power-up, glowing yellow burst on the HUD, stick doubling in length on a green platform (#56a38b) surrounded by blue water (#2a7dfa), wiping a full row of red stickman enemies (#e3001b) into the water with physics ragdolls, minimalist 3D bright contrasting colors and simple stickman figures, native HUD visible with combo multiplier and progress timeline, bold white overlay text 'SIZE UP!' center-screen, authentic Push'em All gameplay still"
+  ]
+}

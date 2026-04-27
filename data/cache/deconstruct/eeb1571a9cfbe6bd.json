@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "eeb1571a9cfbe6bd",
+    "ad_unit_id": "eeb1571a9cfbe6bd",
+    "app_id": "55d93a4202ac645ad203fe75",
+    "advertiser_name": "Betclic Paris Sportifs & Poker",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/69157d55aeae02a6/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/69157d55aeae02a6/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/69157d55aeae02a6/preview",
+    "phashion_group": "eeb1571a9cfbe6bd",
+    "share": null,
+    "first_seen_at": "2026-01-14T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 7.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Parie et regarde le meilleur du Basket US 🏀\nVis le Basket plus fort avec Betclic ! 💪",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy basketball highlights mixed with bold betting call-to-actions.",
+    "visual_action": "Fast cuts between a basketball dunk, players celebrating, and bold yellow and red text graphics.",
+    "text_overlay": "PARIE BASKET US",
+    "voiceover_transcript": "Best player, I break no limits. Pressure turned me to a menace.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Fast-paced montage of basketball dunks and game action with rhythmic cuts.",
+    "Bold text 'PARIE' and 'BASKET US' flashes on screen over the action.",
+    "Footage of players celebrating a victory in a crowded arena.",
+    "Final promotional screen showing a 100€ freebet offer and a CTA button."
+  ],
+  "on_screen_text": [
+    "PARIE",
+    "BASKET US",
+    "JUSQU'À 100€",
+    "F FREEBETS remboursés",
+    "PARIE SUR LE BASKET US",
+    "J'en profite"
+  ],
+  "cta_text": "J'en profite",
+  "cta_timing_seconds": 4.5,
+  "palette_hex": [
+    "#E30613",
+    "#FFD700",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "French-speaking male sports enthusiasts and bettors interested in US basketball.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001422
+}

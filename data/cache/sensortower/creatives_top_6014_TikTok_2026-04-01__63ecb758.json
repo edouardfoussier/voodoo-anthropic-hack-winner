@@ -1,0 +1,806 @@
+{
+  "count": 2276,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "28bb033a4ed283ad",
+      "app_id": "6024d92ffc2aa03e6d63fad7",
+      "network": "TikTok",
+      "phashion_group": "28bb033a4ed283ad",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "28bb033a4ed283ad",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Trainers Wanted!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6024d92ffc2aa03e6d63fad7",
+        "canonical_country": "JP",
+        "name": "Umamusume: Pretty Derby",
+        "publisher_name": "CyberAgent",
+        "publisher_id": "5614b4a13f07e2077c0010d8",
+        "humanized_name": "Umamusume: Pretty Derby",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/43/25/a2432599-0e6e-7976-055c-bb1a7511348e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6024d92ffc2aa03e6d63fad7",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "62202f474255395d",
+      "app_id": "5945b0784e7c854f2400a04e",
+      "network": "TikTok",
+      "phashion_group": "62202f474255395d",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-13",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "62202f474255395d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c854ef1a78f2db5e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c854ef1a78f2db5e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c854ef1a78f2db5e/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "message": "Claim 5,000,000 Virtual Coins: Exclusive For New Users!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5945b0784e7c854f2400a04e",
+        "canonical_country": "US",
+        "name": "Cashman Casino Slots Games",
+        "publisher_name": "Product Madness",
+        "publisher_id": "67d2511627e2c1b40c56c463",
+        "humanized_name": "Cashman Casino Slots Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/e7/d4/68e7d498-fb36-e07b-6ad3-136ac31e59e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5945b0784e7c854f2400a04e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "86f8d7a73317efb6",
+      "app_id": "55d93dd702ac645ad20e8f2b",
+      "network": "TikTok",
+      "phashion_group": "86f8d7a73317efb6",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-23",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "86f8d7a73317efb6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/849c82d1f73461be/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/849c82d1f73461be/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/849c82d1f73461be/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Spin & Collect Virtual Coins!\n(Must be 18+ to play. No real money can be won)"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93dd702ac645ad20e8f2b",
+        "canonical_country": "US",
+        "name": "Heart of Vegas - Casino Slots",
+        "publisher_name": "Product Madness",
+        "publisher_id": "67d2511627e2c1b40c56c463",
+        "humanized_name": "Heart of Vegas",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/43/b4/4143b49e-bd93-cd74-3869-a489f53a67e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93dd702ac645ad20e8f2b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c4cf06bb6bccc1e2",
+      "app_id": "55d3a1a802ac64350a000d6e",
+      "network": "TikTok",
+      "phashion_group": "c4cf06bb6bccc1e2",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-06",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "c4cf06bb6bccc1e2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029cf0d0e1ada3f1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029cf0d0e1ada3f1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029cf0d0e1ada3f1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Dive Into Limitless Fun"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d3a1a802ac64350a000d6e",
+        "canonical_country": "US",
+        "name": "Roblox",
+        "publisher_name": "Roblox",
+        "publisher_id": "560c44d98ac3506439005015",
+        "humanized_name": "Roblox",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/dd/94/65dd942b-8464-d063-bdc2-c818c136e301/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d3a1a802ac64350a000d6e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "af2548b632ac980f",
+      "app_id": "556f4a4fa3f735a75800008a",
+      "network": "TikTok",
+      "phashion_group": "af2548b632ac980f",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-28",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "af2548b632ac980f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c858d96a306db151/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c858d96a306db151/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c858d96a306db151/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "New Customer Offer"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "556f4a4fa3f735a75800008a",
+        "canonical_country": "GB",
+        "name": "bet365 - Sportsbook & Casino",
+        "publisher_name": "bet365 (Hillside Technology Limited)",
+        "publisher_id": "5614c91b3f07e25d2900cf16",
+        "humanized_name": "bet365 - Sportsbook",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/52/7a/a6527a70-9721-e55c-e1e4-7626e7fca6f3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "556f4a4fa3f735a75800008a",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "99a58677ed57715d",
+      "app_id": "5af02835c618f463caf068cb",
+      "network": "TikTok",
+      "phashion_group": "99a58677ed57715d",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-16",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "99a58677ed57715d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Virtual 10,000,000 FREE Coins!\n(Must be 18+ to play. No real money can be won)"
+        },
+        {
+          "id": "a2cd33b604f64a0c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Collect your FREE Virtual Bonus\n(Must be 18+ to play. No real money can be won)"
+        },
+        {
+          "id": "cbbe439e82b2ed0d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "FREE Virtual Coins & Spins"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5af02835c618f463caf068cb",
+        "canonical_country": "US",
+        "name": "Lightning Link Casino Slots",
+        "publisher_name": "Product Madness",
+        "publisher_id": "67d2511627e2c1b40c56c463",
+        "humanized_name": "Lightning Link Casino Slots",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/9d/9f/e29d9f56-6ed2-22ce-9a32-8a7e0f18788e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5af02835c618f463caf068cb",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b7390d15a8a61f86",
+      "app_id": "55d13c32cfd4debd2605bc4e",
+      "network": "TikTok",
+      "phashion_group": "b7390d15a8a61f86",
+      "ad_type": "video",
+      "first_seen_at": "2025-03-18",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "b7390d15a8a61f86",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee6fb294ca1a506d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee6fb294ca1a506d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee6fb294ca1a506d/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "It's More Fun When It's For Fun!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d13c32cfd4debd2605bc4e",
+        "canonical_country": "US",
+        "name": "DraftKings Fantasy Sports",
+        "publisher_name": "DraftKings",
+        "publisher_id": "5614ead33f07e25d290233b6",
+        "humanized_name": "DraftKings Fantasy Sports",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/f6/d6/7af6d60b-3a9b-a5d1-d5df-b996b9c86474/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d13c32cfd4debd2605bc4e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "1c2a051cbb2b29a6",
+      "app_id": "687b11979e9180125316e665",
+      "network": "TikTok",
+      "phashion_group": "1c2a051cbb2b29a6",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-14",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "1c2a051cbb2b29a6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d6b02d1ccf5c1ddb/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d6b02d1ccf5c1ddb/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d6b02d1ccf5c1ddb/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Mystery Packs. Real Cards. Instant Buyback."
+        },
+        {
+          "id": "bccda59b3617e2fe",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d6b02d1ccf5c1ddb/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d6b02d1ccf5c1ddb/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d6b02d1ccf5c1ddb/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Rip Packs. Keep more of your value."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "687b11979e9180125316e665",
+        "canonical_country": "US",
+        "name": "Courtyard - Trading Cards",
+        "publisher_name": "Courtyard",
+        "publisher_id": "687b11979e9180125316e664",
+        "humanized_name": "Courtyard - Trading Cards",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/2c/4a/fe2c4aa6-5f8a-b83f-5036-2587776a08f0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "687b11979e9180125316e665",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "00e3e8e3cb2a5860",
+      "app_id": "673c0ae472f4c26836a99529",
+      "network": "TikTok",
+      "phashion_group": "00e3e8e3cb2a5860",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-02",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "00e3e8e3cb2a5860",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Show the world you\u2019re the ultimate manager."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "673c0ae472f4c26836a99529",
+        "canonical_country": "US",
+        "name": "Ultimate Football Manager",
+        "publisher_name": "Miniclip",
+        "publisher_id": "65670b56ad4adb650837a435",
+        "humanized_name": "Ultimate Football Manager",
+        "icon_url": "https://play-lh.googleusercontent.com/jAwq8uTCsTK4POOhZjIUN1cVjzE670yBvAxoHAZalkihu50AUMCKwad7o6Zlu_M8yw=s150",
+        "os": "unified",
+        "id": "673c0ae472f4c26836a99529",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0eb36af402d8ea45",
+      "app_id": "55c50c2b02ac64f9c000230f",
+      "network": "TikTok",
+      "phashion_group": "0eb36af402d8ea45",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-12",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "0eb36af402d8ea45",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76e9457321dc90e7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76e9457321dc90e7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76e9457321dc90e7/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Drop your first beat today. Edjing Mix makes mixing simple for beginners. Start your DJ journey now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50c2b02ac64f9c000230f",
+        "canonical_country": "US",
+        "name": "edjing Mix - Music DJ app",
+        "publisher_name": "MWM",
+        "publisher_id": "666b457e0c57f4f65de7cbd2",
+        "humanized_name": "edjing Mix",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ec/3d/13ec3d47-e540-93c8-625e-19bd3a0aa6c9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c50c2b02ac64f9c000230f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "80fc0460d6a6dacb",
+      "app_id": "55fac6f202ac64c13c000081",
+      "network": "TikTok",
+      "phashion_group": "80fc0460d6a6dacb",
+      "ad_type": "video",
+      "first_seen_at": "2025-01-09",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "80fc0460d6a6dacb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/39225dcedd8d24a1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/39225dcedd8d24a1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/39225dcedd8d24a1/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "6,000,000 Welcome Free Coins"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55fac6f202ac64c13c000081",
+        "canonical_country": "US",
+        "name": "Quick Hit Casino - Vegas Slots",
+        "publisher_name": "Light & Wonder",
+        "publisher_id": "55f8936c8ac350426b0382e4",
+        "humanized_name": "Quick Hit Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/8e/95/f38e9504-db2b-e2fe-e817-102abba2dc5c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55fac6f202ac64c13c000081",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b14e917ccfea5f28",
+      "app_id": "55c50c2b02ac64f9c000230f",
+      "network": "TikTok",
+      "phashion_group": "b14e917ccfea5f28",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-18",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "b14e917ccfea5f28",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14cc393f49933cfc/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14cc393f49933cfc/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14cc393f49933cfc/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Ready to learn how to mix?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50c2b02ac64f9c000230f",
+        "canonical_country": "US",
+        "name": "edjing Mix - Music DJ app",
+        "publisher_name": "MWM",
+        "publisher_id": "666b457e0c57f4f65de7cbd2",
+        "humanized_name": "edjing Mix",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ec/3d/13ec3d47-e540-93c8-625e-19bd3a0aa6c9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c50c2b02ac64f9c000230f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "bc171f50e57c3647",
+      "app_id": "60d682251e34a62dba84a279",
+      "network": "TikTok",
+      "phashion_group": "bc171f50e57c3647",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-23",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "bc171f50e57c3647",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa6ee125cd4e154/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa6ee125cd4e154/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa6ee125cd4e154/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Can you survive The Tower?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "60d682251e34a62dba84a279",
+        "canonical_country": "US",
+        "name": "The Tower - Idle Tower Defense",
+        "publisher_name": "Tech Tree Games",
+        "publisher_id": "5cf1e0acd6dd1a6bafe34668",
+        "humanized_name": "The Tower - Idle Tower Defense",
+        "icon_url": "https://play-lh.googleusercontent.com/462hW9EmWx5zsnYHpcKZ1gRvbqNjS1VFenXBBeO9a8esBtfp61ZQsu2C_U7s4YMALoY=s150",
+        "os": "unified",
+        "id": "60d682251e34a62dba84a279",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f41b68dd7e9c7ab2",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "f41b68dd7e9c7ab2",
+      "ad_type": "video",
+      "first_seen_at": "2024-05-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f41b68dd7e9c7ab2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "22f6a7cb0287240c",
+      "app_id": "60d682251e34a62dba84a279",
+      "network": "TikTok",
+      "phashion_group": "22f6a7cb0287240c",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-08",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "22f6a7cb0287240c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ead2ba04d557122e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ead2ba04d557122e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ead2ba04d557122e/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "message": "Defend the Tower and Defeat the Enemy!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "60d682251e34a62dba84a279",
+        "canonical_country": "US",
+        "name": "The Tower - Idle Tower Defense",
+        "publisher_name": "Tech Tree Games",
+        "publisher_id": "5cf1e0acd6dd1a6bafe34668",
+        "humanized_name": "The Tower - Idle Tower Defense",
+        "icon_url": "https://play-lh.googleusercontent.com/462hW9EmWx5zsnYHpcKZ1gRvbqNjS1VFenXBBeO9a8esBtfp61ZQsu2C_U7s4YMALoY=s150",
+        "os": "unified",
+        "id": "60d682251e34a62dba84a279",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d6f4cc373f905729",
+      "app_id": "5af02835c618f463caf068cb",
+      "network": "TikTok",
+      "phashion_group": "d6f4cc373f905729",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-20",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "d6f4cc373f905729",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e7ee274f6f3c1db9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e7ee274f6f3c1db9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e7ee274f6f3c1db9/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Virtual 10,000,000 FREE Coins!\n(Must be 18+ to play. No real money can be won)"
+        },
+        {
+          "id": "f60e3e6720df81af",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e7ee274f6f3c1db9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e7ee274f6f3c1db9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e7ee274f6f3c1db9/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "10,000,000 FREE Virtual Coins!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5af02835c618f463caf068cb",
+        "canonical_country": "US",
+        "name": "Lightning Link Casino Slots",
+        "publisher_name": "Product Madness",
+        "publisher_id": "67d2511627e2c1b40c56c463",
+        "humanized_name": "Lightning Link Casino Slots",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/9d/9f/e29d9f56-6ed2-22ce-9a32-8a7e0f18788e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5af02835c618f463caf068cb",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d9823d0ca6ebfd31",
+      "app_id": "67f9b33c67bda8def67d85d8",
+      "network": "TikTok",
+      "phashion_group": "d9823d0ca6ebfd31",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-05",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "d9823d0ca6ebfd31",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fd2b7a5892dd29f5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fd2b7a5892dd29f5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fd2b7a5892dd29f5/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "New Customers Deposit and Wager $10 and get 1,000 free spins on Triple Cash Eruption over 10 days"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67f9b33c67bda8def67d85d8",
+        "canonical_country": "US",
+        "name": "Fanatics Casino - Real Money",
+        "publisher_name": "Fanatics",
+        "publisher_id": "5604a5188ac3501722023628",
+        "humanized_name": "Fanatics Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/c9/09/adc909d6-9cc7-b7a6-ec3c-925abc6d4217/AppIcon_casino_prod-0-0-1x_U007ephone-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "67f9b33c67bda8def67d85d8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "63775777bdb83ab9",
+      "app_id": "6024d92ffc2aa03e6d63fad7",
+      "network": "TikTok",
+      "phashion_group": "63775777bdb83ab9",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-08",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "63775777bdb83ab9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0110bae45a936c0a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0110bae45a936c0a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0110bae45a936c0a/thumb",
+          "video_duration": 12,
+          "width": 576,
+          "height": 1024,
+          "message": "Win races. Defy limits."
+        },
+        {
+          "id": "ae136189e40003d3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0110bae45a936c0a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0110bae45a936c0a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0110bae45a936c0a/thumb",
+          "video_duration": 12,
+          "width": 576,
+          "height": 1024,
+          "message": "Their future is in your hands."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6024d92ffc2aa03e6d63fad7",
+        "canonical_country": "JP",
+        "name": "Umamusume: Pretty Derby",
+        "publisher_name": "CyberAgent",
+        "publisher_id": "5614b4a13f07e2077c0010d8",
+        "humanized_name": "Umamusume: Pretty Derby",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/43/25/a2432599-0e6e-7976-055c-bb1a7511348e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6024d92ffc2aa03e6d63fad7",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "4c22a106a8680a3d",
+      "app_id": "616fb573bc6b147008bf312d",
+      "network": "TikTok",
+      "phashion_group": "4c22a106a8680a3d",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-22",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "4c22a106a8680a3d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4a90c5308582dab3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4a90c5308582dab3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4a90c5308582dab3/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "message": "Top Real Cash Skill-based Game!!!"
+        },
+        {
+          "id": "f51c7e117e3bdd25",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4a90c5308582dab3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4a90c5308582dab3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4a90c5308582dab3/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "message": "Play to Win Real Money!!!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "616fb573bc6b147008bf312d",
+        "canonical_country": "US",
+        "name": "Solitaire Clash: Win Real Cash",
+        "publisher_name": "Aviagames",
+        "publisher_id": "5ebcbfce71d7541628127751",
+        "humanized_name": "Solitaire Clash",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/cf/41/18cf4180-06dd-2a5e-9bb2-ce9246bed1c5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "616fb573bc6b147008bf312d",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5ef366007bd9ed48",
+      "app_id": "66698f4fb3ae27fc1429e36b",
+      "network": "TikTok",
+      "phashion_group": "5ef366007bd9ed48",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-21",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "5ef366007bd9ed48",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4dfa638d8c3c0ce/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4dfa638d8c3c0ce/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4dfa638d8c3c0ce/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Build Your Nation"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66698f4fb3ae27fc1429e36b",
+        "canonical_country": "US",
+        "name": "Avatar: Realms Collide",
+        "publisher_name": "Tilting Point",
+        "publisher_id": "5a7b6504b39ede16a53fc25b",
+        "humanized_name": "Avatar: Realms Collide",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/3c/6d/6e3c6d59-6a81-5436-b707-63cb03a519df/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66698f4fb3ae27fc1429e36b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

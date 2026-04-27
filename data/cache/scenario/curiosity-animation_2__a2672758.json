@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_dABorGyKusFs9rykwky8F4ti?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZEFCb3JHeUt1c0ZzOXJ5a3dreThGNHRpP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=EIpgzn-MCNKeWlGz878p%7EDPZNhpiZnp8IbFZuSpjou%7ENCXMoAfzzeIrG0WHQtyygZMWADTmZcwVg2UVDKPRhjRBkmfSLAmMHTRYO4VRLSpkO1lE-B5CAr6428gDIdXE7nNYgBf7-4hSNFOKwdo-T%7EvuvfCLyRdqS5DOBPCV1k-NS9U%7EYc8t2PRZEm3nunUG%7EerLLR6MT4XqLQfdV0yi0jNhupqAaHwkLKbC2drO-fAerV67CS7tBg7bwEPHP3bbCgdmQOi7nwSvjt3UV28uOl981iJ%7Eky08TajXWfRHncVedjONw6rPCrqoUgqR7BPhiCvIdPJxoWOSJBC%7E5T07FGQ__",
+  "job_id": "job_bkh3UJgKQa1gKb3cStAoxhxt",
+  "asset_id": "asset_dABorGyKusFs9rykwky8F4ti",
+  "stub": false,
+  "prompt": "Storyboard frame 3 end card, 9:16 vertical, Paper.io 2 victory state top-down: screen dominated by #FFD700 yellow territory ~87%, tiny slivers of #00BFFF cyan and #FF00FF magenta cornered, bonus-level screen overlay with cascading coins and gems, progress bar maxed glowing, large bold overlay 'PLAY FREE' bottom center with pulsing arrow, vibrant minimalist 3D flat solid colors high contrast. [Audio: VO 'Your turn \u2014 play free' / triumphant energetic synth stinger 128 BPM / coin-rain cascade SFX, victory chime at 1s, button-tap click at 4s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_ubmFaberQeRuD1ssTXTnrFPP?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdWJtRmFiZXJRZVJ1RDFzc1RYVG5yRlBQP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ibh9ORJ9Z1AL03kY17OTsIyKSKvb-h%7EFHcIAZQkQwzIFVkEfMCzeMVqSTMN1qv7EA-BU3GNgX%7EvxN9-n4iEIhQOhRrFt1GADX%7EiXtV9abEpWFlCmXaU0bWmPE4CnE6%7EtzENpYW8sCvZ1S98ZObO6mftLHw6IclxYPUM7UsYZN81apTUTYJt0lyVv7EEARePxrhz4dQlB5b1wE2O%7EbwcDMrqYippU6cSJ9oNs7LlHGGuI5hY-DmsvRzwJOTWCblWZfiIf41a4rIkKBLDjJjE1MauLSIvGko5J9E5Zivo4wW6Q71WXPMMUqPegEswqvs3u9j7ds0LQJ5fQH%7Eu0uZo6fg__",
+  "job_id": "job_wCDjeX4tyDKQjZxaWaFKs3Qw",
+  "asset_id": "asset_ubmFaberQeRuD1ssTXTnrFPP",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, Color Road! gameplay still: long dark #152238 track snaking over pastel #FADADD city, pink ball mid-roll about to hit a #FF4C4C red wall while a red paint-splash pickup glows just left, combo counter 'x8' pulsing top-center, coin trail behind ball, minimalist 3D abstract geometric style, no characters, signature pause button top-right, on-screen text '\u2026and don't blink \ud83d\udc40' bottom third in white. [Audio: VO whisper 'don't blink' / rising 100 BPM competitive synth swell / whoosh on swipe at 2s, deep thud-then-shatter on red wall break at 3.5s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

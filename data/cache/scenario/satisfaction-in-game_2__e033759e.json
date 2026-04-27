@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_2Fuz1UbRQTX5wTSQJCjFkkhW?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMkZ1ejFVYlJRVFg1d1RTUUpDakZra2hXP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=sGvyp4r5n7IEGgpiaZgV5UaoBLS9ucBFA4iwmutLRPxvO5-Df7AoaK9xXAKnmWT8rZqLbqILPF5iBnxEOLUTrsEXo6CepyaNAcYVikHJTIul9mT70n-42JSlijGQQWutmRP44sTWIJzrQlZ6FWZOuUXyfs182uAcdizXrB-t-m-Ve-kmasgRZGRjnITosVCTSaUz0gwYzYLahEmeEm9eaCeYa0FN0NjI-yoPFrFyglq6A9lOnjrEvOsot9IJDY9rx-zbzTCmkEFCP4HmtgF51yB2x07%7EKq15AMVGnhI2PTz-CdwrGZFSnmysTo4F9kF64fYUWbdEg5XnZ3dqBYuHYA__",
+  "job_id": "job_aEWH6BUCRDbdw1PLkZBrcrJU",
+  "asset_id": "asset_2Fuz1UbRQTX5wTSQJCjFkkhW",
+  "stub": false,
+  "prompt": "Storyboard frame 3 win state, 9:16 vertical aspect ratio, clean and colorful 3D cartoon style with soft rounded shapes, the marble-sorting machine fully filled with neatly sorted pastel marbles in matching colored boxes, vibrant orange (#FFB13B) celebratory glow and confetti bursts, lavender background (#E5DFFF) with light grey (#F0F0F8) machine, large rounded orange button text 'Play Free' centered at bottom, joyful satisfying mood, mobile game ad final frame",
+  "model_id": "flux.1-dev"
+}

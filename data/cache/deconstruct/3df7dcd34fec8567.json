@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "3df7dcd34fec8567",
+    "ad_unit_id": "3df7dcd34fec8567",
+    "app_id": "58bcde8f0211a6f6ab000570",
+    "advertiser_name": "マフィア・シティ-極道風雲",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/83800e9d110673c6/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/83800e9d110673c6/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/83800e9d110673c6/preview",
+    "phashion_group": "3df7dcd34fec8567",
+    "share": null,
+    "first_seen_at": "2026-04-15T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Dramatic reveal of the Narcos character El Patrón in a branded collaboration.",
+    "visual_action": "A dark silhouette transitions into a full-color portrait of Pablo Escobar against a blood-red background with smoke effects.",
+    "text_overlay": "EL PATRÓN ULTIMATE RENEGADE MAFIA CITY X NARCOS",
+    "voiceover_transcript": "Plata o plomo. Ustedes eligen.",
+    "emotional_pitch": "celebrity"
+  },
+  "scene_flow": [
+    "Dramatic silhouette reveal of El Patrón with red atmospheric lighting and Narcos branding.",
+    "Full reveal of the character portrait with the 'Mafia City x Narcos' collaboration logo.",
+    "Transition to a 3D rendered scene showing a man and woman in a purple convertible driving through a mansion gate.",
+    "Final end card featuring the game logo and a 'Download for free' call to action."
+  ],
+  "on_screen_text": [
+    "EL PATRÓN",
+    "ULTIMATE RENEGADE",
+    "MAFIA CITY X NARCOS",
+    "Mafia City",
+    "Download for free"
+  ],
+  "cta_text": "Download for free",
+  "cta_timing_seconds": 6.0,
+  "palette_hex": [
+    "#990000",
+    "#483D8B",
+    "#FFFFFF"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Adult males 18-45 who are fans of the Narcos series and enjoy crime-themed strategy games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001561
+}

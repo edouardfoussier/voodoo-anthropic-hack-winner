@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "c3052643a8fe26dc",
+    "ad_unit_id": "c3052643a8fe26dc",
+    "app_id": "62953454fd69866b6a658256",
+    "advertiser_name": "鋼の錬金術師 MOBILE",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d626d42b1906d4f9/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d626d42b1906d4f9/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d626d42b1906d4f9/preview",
+    "phashion_group": "c3052643a8fe26dc",
+    "share": null,
+    "first_seen_at": "2026-03-13T00:00:00",
+    "last_seen_at": "2026-03-31T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Jouez et vivez votre histoire. Gratuitement.",
+    "button_text": "Jouer",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Upbeat beach party scene with characters jumping in unison.",
+    "visual_action": "A group of diverse fantasy characters in summer attire jump and cheer on a sunny beach in slow motion.",
+    "text_overlay": "COMBATTEZ SANS LIMITES",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction with a group of characters celebrating on a tropical beach.",
+    "Fast-paced montage of combat abilities and boss encounters.",
+    "Social scenes showing character emotes and group dancing in a resort setting.",
+    "Brief look at crafting and non-combat activities like blacksmithing.",
+    "Closing title card with the game logo and free trial call to action."
+  ],
+  "on_screen_text": [
+    "FINAL FANTASY XIV ONLINE",
+    "COMBATTEZ SANS LIMITES",
+    "CRÉEZ DES LIENS",
+    "JOUEZ À VOTRE MANIÈRE",
+    "JOUEZ À L'ESSAI GRATUIT",
+    "Commencez votre aventure aujourd'hui"
+  ],
+  "cta_text": "JOUEZ À L'ESSAI GRATUIT",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#5BB8E1",
+    "#F2D2A9",
+    "#FFFFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "MMORPG enthusiasts and social gamers who enjoy character customization and diverse gameplay activities.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001735
+}

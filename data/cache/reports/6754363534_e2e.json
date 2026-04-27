@@ -1,0 +1,302 @@
+{
+  "target_game": {
+    "app_id": "6754363534",
+    "name": "Sand Loop",
+    "genre": "Puzzle",
+    "sub_genre": "Sorting",
+    "core_loop": "Tap to release buckets onto a conveyor belt to collect matching colored sand and complete pixel art images.",
+    "audience_proxy": "Casual mobile players, likely 25-45, who enjoy satisfying ASMR-style sorting puzzles and creative reveals.",
+    "visual_style": "3D stylized objects with vibrant colors and pixel-art sand compositions.",
+    "palette": {
+      "primary_hex": "#4A90E2",
+      "secondary_hex": "#FFFFFF",
+      "accent_hex": "#FFD700",
+      "description": "A bright, clean palette dominated by sky blue and white, with high-saturation primary colors for the sand and interactive elements."
+    },
+    "key_mechanics": [
+      "tapping",
+      "sorting",
+      "color-matching",
+      "timing",
+      "path-management"
+    ],
+    "character_present": true,
+    "ui_mood": "calm/satisfying",
+    "screenshot_signals": [
+      "pixel art reveal",
+      "conveyor belt mechanics",
+      "color-coded buckets",
+      "lock and key obstacles",
+      "ASMR visual feedback"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US"
+    ],
+    "networks": [
+      "TikTok"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 5,
+    "num_phashion_groups": 5
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "satisfaction-3d-render",
+      "label": "Satisfaction · 3D-render",
+      "member_creative_ids": [
+        "09b9a5138bab6a90"
+      ],
+      "centroid_hook": {
+        "summary": "Filling a spice jar with red pepper flakes in a clean 3D kitchen.",
+        "visual_action": "Red pepper flakes pour into a labeled jar on a pink countertop.",
+        "text_overlay": "No. 047 RED PEPPER",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#E8B4D1",
+        "#E5E5E5",
+        "#D32F2F"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.21,
+      "derivative_spread": 1.0,
+      "freshness_days": 143.0,
+      "overall_signal_score": 0.486,
+      "rationale": "1 creatives across 1 unique advertisers, average age 143d. Hook representative: \"Filling a spice jar with red pepper flakes in a clean 3D kitchen.\""
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "label": "Satisfaction · animation",
+      "member_creative_ids": [
+        "5d287f88cf4759b9",
+        "e3c6af26067bd4c1"
+      ],
+      "centroid_hook": {
+        "summary": "Goku Ultra Instinct charging a powerful energy blast.",
+        "visual_action": "Goku glows with a blue aura while charging a Kamehameha energy sphere against a rainbow background.",
+        "text_overlay": "PLAY NOW!",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#00BFFF",
+        "#FFFF00",
+        "#FF00FF"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.078,
+      "derivative_spread": 1.0,
+      "freshness_days": 385.0,
+      "overall_signal_score": 0.401,
+      "rationale": "2 creatives across 2 unique advertisers, average age 385d. Hook representative: \"Goku Ultra Instinct charging a powerful energy blast.\""
+    },
+    {
+      "archetype_id": "transformation-animation",
+      "label": "Transformation · animation",
+      "member_creative_ids": [
+        "f41b68dd7e9c7ab2"
+      ],
+      "centroid_hook": {
+        "summary": "Goku Super Saiyan 3 unleashes his signature Dragon Fist attack.",
+        "visual_action": "Goku charges forward with a glowing fist as a golden dragon aura begins to form.",
+        "text_overlay": "\"Dragon Fist!!!\"",
+        "voiceover_transcript": "\"Dragon Fist!!!\"",
+        "emotional_pitch": "transformation"
+      },
+      "palette_hex": [
+        "#FFD700",
+        "#1E3A8A",
+        "#FF4500"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.042,
+      "derivative_spread": 1.0,
+      "freshness_days": 716.0,
+      "overall_signal_score": 0.377,
+      "rationale": "1 creatives across 1 unique advertisers, average age 716d. Hook representative: \"Goku Super Saiyan 3 unleashes his signature Dragon Fist attack.\""
+    },
+    {
+      "archetype_id": "challenge-animation",
+      "label": "Challenge · animation",
+      "member_creative_ids": [
+        "beca2534701d3666"
+      ],
+      "centroid_hook": {
+        "summary": "High-intensity anime combat featuring Vegito Blue's signature attack.",
+        "visual_action": "Vegito Blue charges and fires a massive blue and yellow energy beam.",
+        "text_overlay": "\"Try and survive this!!!\"",
+        "voiceover_transcript": "Try and survive this! Final Flash!",
+        "emotional_pitch": "challenge"
+      },
+      "palette_hex": [
+        "#00AEEF",
+        "#FFF200",
+        "#000000"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.042,
+      "derivative_spread": 1.0,
+      "freshness_days": 716.0,
+      "overall_signal_score": 0.377,
+      "rationale": "1 creatives across 1 unique advertisers, average age 716d. Hook representative: \"High-intensity anime combat featuring Vegito Blue's signature attack.\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "satisfaction-3d-render",
+      "visual_match": 45,
+      "mechanic_match": 38,
+      "audience_match": 72,
+      "overall": 48,
+      "rationale": "The ASMR-satisfaction emotional pitch and clean 3D-render aesthetic align well with Sand Loop's calm/satisfying tone and casual 25-45 audience, so the audience overlap is real. However, the palette (muted pinks/red) clashes with the game's bright sky-blue/white/multi-saturated identity, and the spice-jar pour hook fundamentally misrepresents the core loop — there's no conveyor belt, no color-sorting decision, no pixel-art reveal payoff. Recommend only as inspiration: borrow the satisfying-pour 3D framing but rebuild around multi-color sand pouring into pixel-art reveals to avoid misleading-ad install churn."
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "visual_match": 18,
+      "mechanic_match": 8,
+      "audience_match": 15,
+      "overall": 12,
+      "rationale": "Hard pass. The Goku/Kamehameha anime power-fantasy hook collides with Sand Loop's calm, ASMR sorting DNA on every axis: palette overlaps only superficially (blue), the visual_action shows zero conveyor/sand/pixel-reveal mechanic, and the implied audience (shounen anime fans, often male teens) barely overlaps with 25-45 casual sorting-puzzle players. Add IP/trademark risk on Goku and a stale 385d freshness with only 2 advertisers — not worth testing even as a misdirect hook."
+    },
+    {
+      "archetype_id": "transformation-animation",
+      "visual_match": 15,
+      "mechanic_match": 8,
+      "audience_match": 12,
+      "overall": 11,
+      "rationale": "A Dragon Ball-style Super Saiyan transformation hook is fundamentally misaligned with Sand Loop: the high-energy shounen anime aesthetic (fiery oranges, dark blues, screaming voiceover) clashes with the calm, ASMR, pastel sky-blue/white sorting fantasy, and there's no narrative bridge from \"power-up punch\" to tap-to-sort-sand color matching. The audience overlap is also weak — anime action fans skew younger/male and seek combat catharsis, not satisfying pixel-art reveals. Skip this archetype; if leadership insists on testing \"transformation\" as an emotional pitch, reframe it as a sand-pile-to-pixel-art reveal transformation rather than borrowing IP-adjacent action tropes (also IP-risk concern with Goku likeness)."
+    },
+    {
+      "archetype_id": "challenge-animation",
+      "visual_match": 18,
+      "mechanic_match": 8,
+      "audience_match": 10,
+      "overall": 12,
+      "rationale": "Severe mismatch across the board: high-intensity anime combat with shouted VO and beam attacks contradicts Sand Loop's calm/ASMR sorting fantasy, and the only thread of overlap is incidental palette (blue/yellow). The challenge hook (\"Try and survive this!\") sets up combat skill expectations the core loop of tapping buckets and color-sorting cannot deliver, guaranteeing post-install churn. Audience skews young male shōnen fans rather than the 25-45 casual satisfying-puzzle demo — do not adapt this archetype; if a \"challenge\" angle is needed, build a fail-state/near-miss sand-spill version instead."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-3d-render",
+        "target_game_id": "6754363534",
+        "title": "Sand Loop — Pour, Sort, Reveal",
+        "hook_3s": "Rainbow sand cascades from a tilted bucket onto a glowing conveyor belt — and a pixel-art heart begins to bloom.",
+        "scene_flow": [
+          "0-3s HOOK: Macro close-up of a 3D bucket tipping; vibrant red sand pours in slow-mo onto a sky-blue conveyor belt, ASMR grain-by-grain.",
+          "3-7s SETUP: Camera pulls back to reveal multiple color-coded buckets above the belt and an empty pixel-art frame below waiting to be filled.",
+          "7-11s TENSION: A finger taps to release blue and yellow buckets in sequence; sand streams split, lock-and-key obstacle clicks open, one wrong-color stream is shown ALMOST happening (near-miss).",
+          "11-14s PAYOFF: Pixel-art image (a smiling sun or heart) completes with a satisfying sparkle and golden confetti burst.",
+          "14-15s CTA: Game logo snaps in over the finished pixel art with the download prompt."
+        ],
+        "visual_direction": "Clean 3D-render kitchen-counter aesthetic borrowed from the winning archetype, but rebuilt in Sand Loop's sky-blue (#4A90E2) and crisp white (#FFFFFF) world with golden (#FFD700) highlights on buckets and sparkle FX. Soft studio lighting, shallow depth of field on the pour, and chunky pixel-art sand grains that retain their cubed identity even mid-air. Mood is calm-satisfying ASMR: every grain has weight, every tap has a soft click, every reveal earns a gentle chime.",
+        "text_overlays": [
+          "Pour the sand…",
+          "Match the colors",
+          "One wrong drop…",
+          "Reveal the picture!",
+          "Can YOU finish it?"
+        ],
+        "cta": "Play Free",
+        "rationale": "Keeps the archetype's proven satisfying-pour 3D framing and ASMR emotional pitch but rebuilds the visuals around Sand Loop's true core loop — color-sorting buckets, conveyor belt, pixel-art reveal — to eliminate misleading-ad install churn flagged in fit analysis. Lead with the highest-arousal 3-second pour hook, then quickly establish the sorting decision so installers arrive expecting (and getting) the actual game. UA should A/B the near-miss beat at 7-11s vs. a clean run to find the higher CTR variant.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, macro close-up of a 3D stylized bucket tipping and pouring vibrant pixel-art sand grains onto a glossy sky-blue conveyor belt, an empty pixel-art frame glows below, palette dominated by #4A90E2 sky blue and #FFFFFF clean white with #FFD700 gold accents on the bucket rim and sparkles, soft studio lighting, shallow depth of field, ASMR satisfying mood, on-screen text 'Pour the sand…' in bold rounded white sans-serif, 3D stylized objects with vibrant colors and pixel-art sand compositions.",
+          "Storyboard frame, aspect 9:16, top-down three-quarter view of four color-coded 3D buckets (red, blue, yellow, green) suspended above a sky-blue conveyor belt with a lock-and-key obstacle mid-track, streams of cubed pixel-art sand falling in parallel, palette #4A90E2 background, #FFFFFF belt highlights, #FFD700 glowing lock, on-screen text 'Match the colors' in bold white sans-serif, 3D stylized objects with vibrant colors and pixel-art sand compositions.",
+          "Storyboard payoff frame, aspect 9:16, completed pixel-art smiling sun made entirely of colored sand grains glowing in the center of the screen with golden confetti bursting outward, sky-blue #4A90E2 backdrop, #FFFFFF rays of light, #FFD700 confetti and sparkle FX, joyful satisfying mood, on-screen text 'Reveal the picture!' in bold rounded white sans-serif, 3D stylized objects with vibrant colors and pixel-art sand compositions."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_uvNu18pgJPUSwY3ZwU2Md3Z8?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdXZOdTE4cGdKUFVTd1kzWndVMk1kM1o4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=i4D-2SiHsSIneiMch%7EZ4C6xA0JjiBZh-Sm1Tj8-Wt71KEK6vmYWmVQHnHOtcDEQsiUZkGR%7E0FGUw1pjJd-JXxrcFgD0IjWSIKPrPnkpEMzUYhoG4LOpF4umhVUwRILTU7wXQfF0%7EwO20%7EdhFVDp6AMFYvPwhSRc%7EgIwGwv6Hb3j56dQK8NNR%7Ed2Zs35L5Z1nhLWD7HJJsmbmVkSoEgbRAiCYWc5XwYNOg2cDRtSok7Rg8V5IwP96FBWZyotAn8yUmMltzgjw7uDAQC1tQWnrBeJxDUMpPZ%7EZtC-mXgloHbZw4AAA-PmM4pK2Dy%7E%7E7VdcU6Gw5pIzOE%7EjGm1ilFQxkg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_3Q13spG2Np9LPtkNv236FTnf?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM1ExM3NwRzJOcDlMUHRrTnYyMzZGVG5mP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=bl0idRllg0i9TEVKJmPo2A6GZLgbZaRNdKdwkC1Obh3HFuZ32E1xg9up-J053ryClHkDwWCBuLCHo09xAZsUU0rHMyUay7jDq1zdWua4LFKub8i0OaLBARfAfF3izxWukB89cQv56VIlGBRuXZoTmHoKPqDeyqHsbn2DHEoszIIPYGDWLfqDIm43zmNr4m9LUSJyL5xqQDrDP9fQT-H0eXtAaMxDjmaOnPb3pVbKUHF%7Eti-qF2HCYJH4gO4mtw0mqm72wvq1dXKdf7Jjirp8eenutfXDc2M5ZsKjJ1Lk8%7E23PXRL6sN9hXZ0Hv%7EgMV8zhP-ZI-35cIx1D02Yf61RkQ__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_8AKvAsfbA61QtPKR31i1grvT?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOEFLdkFzZmJBNjFRdFBLUjMxaTFncnZUP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VEzgUI0jwy-heLUX1yILOaYbhRbpMwc4vfE0SzKoIMcVXrHSzPf5TxbRiLsOKhE26l-zzvSmXOKcl2RBVCam1BRBiMG6eXfiVPC%7ExMNi90HGYUOJdKQtFMY34JspFVbvDXllM0Y2VrHZVQlqTYLUwrBuGleXC-JjoA47G0EYRLzJQZa-o-dh-uf9zHiLO0EKv3zX%7EgqoUUVTkFfsA5BXQ2yEMYyMkE7xHvVIgpR7fv2iM9oHgI9jGm%7ElblXeHYtCMQ-wYKBzGWck8HLSkImWQWxtKuevh99qsvHlx%7EAj0P3qGmeAtvDYv4w8RmUYYTrv3PrFpdOnAY9RW-PRVy4tDg__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=0.49 × game_fit=48/100 ⇒ priority=0.23"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-animation",
+        "target_game_id": "6754363534",
+        "title": "Sand Loop — Charge & Release: The Satisfying Pixel Reveal",
+        "hook_3s": "Macro shot of jewel-toned sand streams pouring from buckets onto a glowing conveyor — a single grain falls into place with a soft 'tink'.",
+        "scene_flow": [
+          "0-3s HOOK: Extreme close-up of vibrant sand cascading from a tilting bucket onto a moving conveyor belt; audio = ASMR pour + soft chime.",
+          "3-7s SETUP: Pull back to reveal multiple color-coded buckets above a conveyor; finger taps release red sand into a red-coded slot — satisfying snap-to-grid feedback.",
+          "7-11s TENSION: A 'wrong color' near-miss — yellow sand drifts toward a blue lane; a perfectly timed tap diverts it. Lock-and-key obstacle clicks open.",
+          "11-14s PAYOFF: Camera tilts down to show the pixel-art image (a cute cat) completing grain-by-grain in a sparkling reveal.",
+          "14-15s CTA: Finished pixel art glows; logo + 'Play Now' button pulses."
+        ],
+        "visual_direction": "Lean fully into the calm/satisfying ASMR DNA: sky-blue (#4A90E2) backdrop with soft gradient, crisp white (#FFFFFF) conveyor and UI chrome, and gold (#FFD700) accents on buckets, taps, and the final reveal sparkle. Use 3D stylized props (chunky buckets, rounded conveyor) contrasted against crisp pixel-art sand compositions. Macro depth-of-field, shallow focus on sand grains, gentle bloom on the gold accents. Motion is unhurried — every tap produces a clean haptic-style visual pop. No anime tropes, no power-fantasy bombast; the 'satisfaction' beat from the archetype is preserved purely through tactile pour-and-snap moments and the climactic pixel reveal.",
+        "text_overlays": [
+          "Tap to pour",
+          "Match the color",
+          "Don't mix them up!",
+          "Watch it come to life…",
+          "Can you finish it?",
+          "Play Now"
+        ],
+        "cta": "Play Free",
+        "rationale": "We keep the archetype's 'satisfaction' emotional pitch but swap anime power-charge for ASMR pour-and-reveal — the actual moment-to-moment feel of Sand Loop. The hero beat (macro sand cascade + pixel reveal) is gameplay-truthful, IP-safe, and built to stop the scroll for 25-45 casual puzzlers. UA: test against ASMR/sorting lookalikes; the near-miss beat is the variant lever — A/B with and without the 'Don't mix them up!' tension overlay.",
+        "scenario_prompts": [
+          "Hero frame, vertical 9:16 mobile ad still: extreme macro shot of vibrant pixel-art sand grains pouring from a glossy 3D stylized bucket onto a clean white conveyor belt, sky-blue gradient background (#4A90E2), white conveyor (#FFFFFF), gold accents and sparkle highlights (#FFD700), shallow depth of field, soft bloom, calm ASMR mood, 3D stylized objects with vibrant colors and pixel-art sand compositions, on-screen text 'Tap to pour' in bold rounded white sans-serif at top, app store ad composition, ultra crisp, high saturation.",
+          "Storyboard frame, vertical 9:16: top-down angled view of three color-coded 3D buckets (red, blue, yellow) hovering above a white conveyor belt carrying streams of matching pixel-art sand into colored slots, sky-blue background (#4A90E2), white belt (#FFFFFF), glowing gold tap indicator (#FFD700) on the red bucket, 3D stylized objects with vibrant colors and pixel-art sand compositions, clean UI, soft shadows, on-screen text 'Match the color' centered in bold white sans-serif, mobile playable ad style.",
+          "Storyboard payoff frame, vertical 9:16: a completed pixel-art cat image fully formed from colorful sand grains glowing on the conveyor, gold sparkle particles (#FFD700) bursting upward, sky-blue backdrop (#4A90E2), white frame and UI elements (#FFFFFF), 3D stylized objects with vibrant colors and pixel-art sand compositions, joyful satisfying reveal moment, on-screen text 'Watch it come to life…' in white bold rounded sans-serif at top with a pulsing yellow Play Now button at bottom."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_2RvsnWpvHKmQupb1rmqRuWsh?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMlJ2c25XcHZIS21RdXBiMXJtcVJ1V3NoP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=hNSg7SuL-Ic0qmyX--jDkfKR313IUVYC160BYAoqBs065QhllhA%7E8mrrxX3aLxZeciCedBUeOo16PVjxnx6gnbyBZG3xnBdT1LGhv5GxTgh3C47bAwBt6W6Bxgtu48EQvX6MMQpOOlFWYL%7EIwbpJGcQZOxA6OThUQOXNzf2EVV%7EjWWHC6VookpMm82grKlJ-xTynb17a-DcKFSV4V-wngsY%7EqZYSZcKvkZbtdJ2--fVRS-uEG4hrg%7EpnuaD6HRTPJ-LOHcZOlIUm5iL19wA7IqU7TqVQF8kp2EvDvT0eWwhMqq%7EZKDMNtrS3Smep0cNnKlvl7YtD3bqsq0kJ1ti5Lg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_Dijp6uTc3A2zF4aM5VPeGn7o?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRGlqcDZ1VGMzQTJ6RjRhTTVWUGVHbjdvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VvKPrySeoq5slVUNCd86b4IRVPsfOHdjhWHWSCww%7ELv4aVUROjMlq4gYmZwyCVd9tXFp9zjEa-PvwdE6Jm0pQqwCMyjCghvnpdx9jbKX428X6jAix1qLbDgl7OxAUPWRWnF5CduyxsbWAMvTdTnw0EfvA-xYyeBbRODGQdg9AsVfKgshSjQdOaK1xkkOM91LjFL025F2xnjT-o6Wb2UvIcLUZ5bV34VqeQ2eHCg-5pOmANgur8RZKiPFhh2hfPUqcxJOLPVynSysTJIY6qrsLulG2-Td3Kuupu3zdLNw7cgxhNjta1UExOhwRN0f7ER5wHzQ1%7EW-8LW9Hrgjy35oDw__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_8wyDdwaAtB7bBtowAV69UC3t?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOHd5RGR3YUF0QjdiQnRvd0FWNjlVQzN0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ALA07Z0KXTPEBqTlD-m6d0qWmxB0Xz7oYYhjDYiiQnOj3n73igwg8CA0Wo-HPNFhP40JherYqVbRVVHIJ5rwzUox8NbKjI853L96XgZCAqpc3PNXBf8ei%7EYz7EBI3VYuWEgXfY%7E-9cDYzoPlbn6aYxOZwn7iRF-f94-KXMaoRTrRLk2gJPc-CiaqnbI-Bbaet1rvWXz%7EKZNTrRvE8emHVJzMNm-W9qsJE6uoOelRzVI0IPVAkL2KBJzGHNdusEBKB6AMjxwZK2tTJjVEDcFouIcwxks2J-b20Ik0ON2qUpZFKK57rTLhSOWvqi%7ERBGYp7InsNmxmpGP0YzJv63WFlQ__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.40 × game_fit=12/100 ⇒ priority=0.05"
+    },
+    {
+      "brief": {
+        "archetype_id": "challenge-animation",
+        "target_game_id": "6754363534",
+        "title": "Don't Spill The Sand — Challenge Reframe for Sand Loop",
+        "hook_3s": "Close-up: a single grain of red sand rolls toward the WRONG bucket — \"Can you save it in time?\"",
+        "scene_flow": [
+          "0–3s HOOK: Macro ASMR shot of vibrant sand streaming down a conveyor belt; a rogue red grain drifts toward a blue bucket. Text: 'Can you save it?'",
+          "3–7s STAKES: Pull back to reveal a half-finished pixel-art heart about to be ruined by one wrong color. A finger hovers, the belt speeds up subtly. Text: '99% fail this level.'",
+          "7–11s GAMEPLAY: Tap-tap-tap — buckets swap, locks click open, colored sand cascades into perfect rows. Satisfying pops and soft chimes. Text: 'Tap to sort. Don't spill.'",
+          "11–14s PAYOFF: The pixel-art image completes in a sparkle reveal — a glowing heart / sunset / cat. Calm exhale moment. Text: 'Oddly satisfying.'",
+          "14–15s CTA: Logo lockup over the finished pixel art with a gentle bounce. Text: 'Play Free'"
+        ],
+        "visual_direction": "Lean fully into Sand Loop's calm/ASMR DNA while borrowing only the *structural* tension of the challenge archetype (a near-miss fail state) — never its shouty combat energy. Sky-blue (#4A90E2) backdrop with soft studio lighting, crisp white (#FFFFFF) conveyor rigs, and golden-yellow (#FFD700) accent buckets and sparkles. 3D stylized chunky props with shallow depth of field, macro close-ups on grain-level sand physics, and the signature pixel-art reveal as the emotional climax. Motion is smooth and weighty — no harsh shakes, no flashes; tension comes from a single grain's trajectory, not explosions.",
+        "text_overlays": [
+          "Can you save it?",
+          "99% fail this level",
+          "Tap to sort. Don't spill.",
+          "Oddly satisfying ✨",
+          "Play Free"
+        ],
+        "cta": "Play Free",
+        "rationale": "We keep the archetype's proven challenge/curiosity hook (\"Can you survive/save it?\") but swap combat stakes for a near-miss sand-spill — preserving CTR drivers without breaking the post-install promise of a calm sorting puzzle. This protects D1 retention for the 25–45 ASMR-puzzle audience while still testing the \"challenge\" emotional pitch. Recommend A/B testing the 99% fail overlay vs. a pure-ASMR cold open to isolate which hook converts the casual demo best.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16: extreme macro close-up of a single glowing red sand grain rolling along a clean white 3D conveyor belt toward a golden-yellow bucket, soft sky-blue (#4A90E2) studio background, white (#FFFFFF) belt rig, gold (#FFD700) bucket accents, shallow depth of field, ASMR product-shot lighting, 3D stylized objects with vibrant colors and pixel-art sand compositions, bold white on-screen text 'Can you save it?' top-center, calm satisfying mood, mobile ad still",
+          "Storyboard frame 2, aspect 9:16: top-down 3D stylized scene of three color-coded buckets (red, blue, gold #FFD700) on a white (#FFFFFF) conveyor belt over a sky-blue (#4A90E2) backdrop, streams of pixel-art sand pouring into a half-completed pixel-art heart below, a cartoon finger tapping a bucket, vibrant saturated colors, 3D stylized objects with vibrant colors and pixel-art sand compositions, on-screen text 'Tap to sort. Don't spill.' centered, clean UI mockup, 15s playable ad frame",
+          "Storyboard frame 3 payoff, aspect 9:16: completed glowing pixel-art heart made of perfectly sorted red and gold (#FFD700) sand grains, sparkles and soft bokeh, white (#FFFFFF) frame edges, sky-blue (#4A90E2) gradient background, calm satisfying ASMR aesthetic, 3D stylized objects with vibrant colors and pixel-art sand compositions, bold on-screen text 'Oddly satisfying ✨' bottom-center, mobile ad reveal shot"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_jWofdNMZUv8p6PCZN5y2vMPe?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfaldvZmROTVpVdjhwNlBDWk41eTJ2TVBlP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=E6GTbUxS0o5rTq6jTFFaqukoOKeaxfysqegZOcgSwzwswmG4NM2bII7qFEyZQtp4lMP%7Ej5JT8YGmHIrP5mjVh7--k8WQ5LSxglX%7ELRc9GWw09T0K9Wt1psA4WREEQC29sU9Hyq2G%7ER4OP%7EBPUeXvrVre30C5ptPD1EFG8Tpr4hwJZ5sSreLY65i4pbzKufWl%7EdvoOGsVFeShb8yHyeRfJoewKz3%7EKr7uoSAYYdACo%7EqoZ7t2-5OFq4aoQ9kTZmton2XGPYcPnTlZg3hm4MtbVXGDCi9QiXvGCy1m0awQufPbB9MmlHIquUHCnRIxGc-pXOZvArlOsWNr9Scv15iA3A__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_jpvyKG48LCYCBrF3VmJe1v3i?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfanB2eUtHNDhMQ1lDQnJGM1ZtSmUxdjNpP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=viILbpwZN3QZZWVzUpYNl6jyJtItn8xDwadYnSYCjCcR8X6Z%7EnlnnSrz9Lfsu16-ItV0gxKawveoHzmh6br0IE2u7lNj2N9cgEHKuBDZ%7EZxA1NudDBzVUcKMYeIvp9az5r5D4MgoKQO8o2L2zOpEpDFuigf1e7AML87mKC2uNaBfNDrXlBAv4mOCtMK1Q%7EkZ0vxOfZ2tUKgwywySdAY7M1ocn7W6iwy%7EbPR3uVEDiBHtnZ20VgBAI-Djtg2VH4TZyvvc%7EXBgQezZ2BWPyqg3SozXEhUYfp4VnIOiXwVVFtrIZFKgADCREPLG7GLlUPo3xB8B9xa2v-gLB6rBmzQ8HQ__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_J1s7ndZTuZ5ntued52KBkUxn?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSjFzN25kWlR1WjVudHVlZDUyS0JrVXhuP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qjCgz2oXyg50cFEjQyM1rChMPJB1dg6vByYNLUeOY2VN1m9FyvdytJ7VDJwU%7EpsU7C59mWr2pioCy-FkXLijmkDAyjlby2Ekl74eQesnBK6xrpWR-CrvYXJZ-FLu3QFBJveWMNjF10vDTM50nWAQzeKqESXgAyPbiTWjjEDnP6x1rQQ24ED4o9F9f4tmUFRg2Rj-d5GIniYJNRiJqGc1brckAhoScCUMce9ZgBEiqDQoiUoECr66MVU2-EB9RkglFc4DEqi4vBqBRhfBtZcxeoH51Ik4lex5bemRSQrj0GmQXXs8Z95ZyzQbmDTGS2bizI7Y3oKLxTvTGip%7EP1%7EIQQ__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.38 × game_fit=12/100 ⇒ priority=0.05"
+    }
+  ],
+  "pipeline_duration_seconds": 238.3060597080039,
+  "total_cost_usd": 0.008062,
+  "generated_at": "2026-04-25T20:21:07.652421Z"
+}

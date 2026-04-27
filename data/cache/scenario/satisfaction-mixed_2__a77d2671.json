@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_sur2aGqjsdXzjDWU6MfN6UMP?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfc3VyMmFHcWpzZFh6akRXVTZNZk42VU1QP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=rGLcVgkTbJ3d6w4jo9ihKt9yYt2UGQ-Cft-ElUH1Q7zbyM8lNyLIlRld4mVwggFSW2On20mSmsfIyyYQ90nP0pXGzuMc%7E9GYSg-fpXDXNZhByoTc-8EpqXg%7EsdgpPplrrP4LMl7GlUS6wv4WAPWOXD9laqoILbkKeyTx324MYeNu3rK%7ERZReY%7EipeFi-xrAY2gNjcfLJqHduzaUkIkBnQL7VyZg9kfjqxkFFwrkBTPJd8dKZuOPdCUIQJ3frWvLNZdiuBN9ipWNvEuhIDF-k8DGC0nPciKifMtWYucLvb7Fkv8DcgGtUwg%7EvQMfTufhYw2qJB5LbDm8EbHXiPxbV8w__",
+  "job_id": "job_oi4WaoCjQpCj4Zh5vMkM55Je",
+  "asset_id": "asset_sur2aGqjsdXzjDWU6MfN6UMP",
+  "stub": false,
+  "prompt": "Storyboard frame 3, aspect 9:16: triumphant end card showing color-coded boxes filled with matching glossy marbles, gold sparkle VFX, lavender #E5DFFF backdrop with light-grey #F0F0F8 machine, large vibrant orange #FFB13B button text 'Play Free' at the bottom, Clean and colorful 3D cartoon style with soft, rounded shapes, soft glow.",
+  "model_id": "flux.1-dev"
+}

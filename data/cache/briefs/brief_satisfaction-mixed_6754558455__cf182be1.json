@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "6754558455",
+  "title": "Finger-Tap Marble Drop — Satisfaction Shell, Sort Core",
+  "hook_3s": "A manicured finger taps a lavender tray — colorful marbles cascade onto the conveyor with a soft, satisfying clink.",
+  "scene_flow": [
+    "0–3s HOOK: Close-up POV of a phone in hand, lavender background, finger taps a tray — red and yellow marbles tumble out with juicy physics onto the moving conveyor.",
+    "3–7s TENSION: Camera pulls back slightly; marbles roll toward color-coded boxes. One yellow marble is heading for the red box — overlay flashes 'Wait!'",
+    "7–11s PAYOFF: Finger taps a second tray at the perfect moment, releasing a blue marble that nudges the yellow into the correct slot. Boxes fill with matching colors — sparkle VFX, satisfying chime.",
+    "11–14s ESCALATION: Quick montage of harder levels — more trays, faster conveyor, special striped marbles dropping into glowing orange boxes.",
+    "14–15s CTA: Game logo snaps in over lavender backdrop with orange accent button — 'Play Free.'"
+  ],
+  "visual_direction": "Lean fully into the Marble Sort! DNA: lavender (#E5DFFF) backdrop, light-grey (#F0F0F8) machine and conveyor, vibrant orange (#FFB13B) for titles, highlights, and the CTA. Clean 3D cartoon style with soft rounded shapes, glossy plastic-like marbles, gentle rim lighting, shallow depth-of-field on the hero finger-tap shot. Borrow only the \"finger-on-phone, intimate POV\" framing from the jigsaw archetype — replace all puzzle-piece imagery with marbles, trays, and conveyor. Animation feels calm and ASMR-satisfying: bouncy physics, soft chimes, no harsh motion.",
+  "text_overlays": [
+    "So satisfying…",
+    "Tap to release",
+    "Wait — wrong color!",
+    "Sort them all",
+    "Level 1 of 500",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "We keep the proven \"finger-on-phone satisfaction\" framing that wins with casual women 25-55, but swap puzzle pieces for actual Marble Sort gameplay so install intent qualifies correctly. Re-skinning to the lavender/orange palette protects brand recognition in the store and avoids the jigsaw visual clash flagged in fit scoring. UA team should A/B test the hero hook (finger-tap marble cascade) against a 'wrong color near-miss' opener to find the higher IPM.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16: extreme close-up POV of a woman's manicured finger tapping a small light-grey tray on a smartphone screen, glossy red yellow and blue marbles cascading out with bouncy physics onto a moving light-grey conveyor belt, soft lavender #E5DFFF background, light-grey #F0F0F8 machine, vibrant orange #FFB13B title text reading 'So satisfying…' in the upper third, Clean and colorful 3D cartoon style with soft, rounded shapes, soft rim lighting, shallow depth of field, ASMR mood.",
+    "Storyboard frame 2, aspect 9:16: mid-shot of a cartoon sorting machine with three color-coded boxes (red, yellow, blue) below a light-grey #F0F0F8 conveyor belt, glossy marbles rolling toward boxes, one yellow marble veering toward the red box with a motion blur trail, lavender #E5DFFF background, bold orange #FFB13B overlay text 'Wait — wrong color!' centered, Clean and colorful 3D cartoon style with soft, rounded shapes.",
+    "Storyboard frame 3, aspect 9:16: triumphant end card showing color-coded boxes filled with matching glossy marbles, gold sparkle VFX, lavender #E5DFFF backdrop with light-grey #F0F0F8 machine, large vibrant orange #FFB13B button text 'Play Free' at the bottom, Clean and colorful 3D cartoon style with soft, rounded shapes, soft glow."
+  ]
+}

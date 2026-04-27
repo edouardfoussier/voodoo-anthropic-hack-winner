@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_uNwxftzZyQKSrseMfiCj268r?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdU53eGZ0elp5UUtTcnNlTWZpQ2oyNjhyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=QxebR%7EFxSwYlqGXjvFeynLtZYFlnEnLp0A%7ENX3B2NkF-%7EhZ2ixXon2cIxgS2lvQWULeOpeHwr4sR795WgHGY-xhrgjZP-MXlgexzjq7OkG%7EQgZPSWSlGyMPGdK3iX7SkiJAAvxu5oAGFB4flybM1Phtmre24P9YIJt7P7M2E2KZGATRfgYEjtwBB7qLAHtajZP9WTOB-D0uKjj303MjXqNBZjMGn2oQTktXmlFIu%7EzmU%7EYga9h1h15MOitJIYorKC-H9BpQkolKa2j1qqzcHbEkNASg7CF3NYqYHOHbxQTEjKPJuutuYcfabvMuzuWhHgunugDQYbssRQ5fj%7Eibmww__",
+  "job_id": "job_HUhe9w6pmczfXCNFtPwpZimP",
+  "asset_id": "asset_uNwxftzZyQKSrseMfiCj268r",
+  "stub": false,
+  "prompt": "Storyboard frame \u2014 VS split moment, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors. Vertical split-screen: left lane shows blue-trailed player basketball clearing a hoop, right lane shows magenta-trailed rival basketball clipping the rim, jagged black 'VS' bolt down the center seam, beige (#EAD5A0) court backdrop both sides, score comparison UI top reading 'YOU 4 \u2014 RIVAL 2', bold magenta (#D81155) banner bottom reading 'WINNER!'. [Audio: VO 'You win!' triumphant / competitive trap 132 BPM with stadium horn / rim-clang fail SFX right side at 0.8s, victory chime left side at 1.5s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,173 @@
+{
+  "count": 2417,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "a501f1d09aa3b810",
+      "app_id": "582219400211a6c9240005fc",
+      "network": "Facebook",
+      "phashion_group": "a501f1d09aa3b810",
+      "ad_type": "video",
+      "first_seen_at": "2025-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a501f1d09aa3b810",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Now",
+          "button_text": "Play Game",
+          "message": "Fun puzzles & stories."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "582219400211a6c9240005fc",
+        "canonical_country": "US",
+        "name": "Gardenscapes",
+        "publisher_name": "Playrix",
+        "publisher_id": "5614b8de3f07e25d29001b9e",
+        "humanized_name": "Gardenscapes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/64/1e1964c3-4291-3b5f-c6e0-dae70c445d99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "582219400211a6c9240005fc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f2bb3b51aa47cc24",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Facebook",
+      "phashion_group": "f2bb3b51aa47cc24",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-01",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "f2bb3b51aa47cc24",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "5 parties de Spin & Rush offertes*\ud83d\udd25",
+          "button_text": "Download",
+          "message": "Les Smash KO d\u00e9barquent sur Betclic : \u00e9limine tes adversaires et d\u00e9couvre le montant de la prime que tu r\u00e9cup\u00e8res ! \ud83e\udd29"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "cb4f4c618659a37d",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Facebook",
+      "phashion_group": "cb4f4c618659a37d",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-16",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "cb4f4c618659a37d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f36003f1d5df78/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f36003f1d5df78/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f36003f1d5df78/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "5 parties de Spin & Rush offertes*\ud83d\udd25",
+          "button_text": "Download",
+          "message": "Plus \u00e9pur\u00e9e, plus simple et plus lisible ! \ud83e\udd29\nRetrouve toute l\u2019offre de poker sur l\u2019app Betclic !"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "04c55e65f758116d",
+      "app_id": "57b423180211a6a1ca000084",
+      "network": "Facebook",
+      "phashion_group": "04c55e65f758116d",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-13",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "04c55e65f758116d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ad88252bda4f97b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ad88252bda4f97b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ad88252bda4f97b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Flik Flak Spring",
+          "message": ""
+        },
+        {
+          "id": "f6db147ab61a9586",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ad88252bda4f97b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ad88252bda4f97b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ad88252bda4f97b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Montres Enfants",
+          "button_text": "Learn More",
+          "message": "\u2728 D\u00e9couvrez nos montres \u00e9ducatives pour enfants les plus vendues ! Trouvez le cadeau parfait d\u00e8s aujourd'hui ! \ud83d\udc96"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "57b423180211a6a1ca000084",
+        "canonical_country": "US",
+        "name": "Flik & Flak",
+        "publisher_name": "The Swatch Group SA",
+        "publisher_id": "56289fd902ac6486a7024d66",
+        "humanized_name": "Flik & Flak",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/98/6a/ac986a43-7843-5651-837b-f5a92e904b98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "57b423180211a6a1ca000084",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

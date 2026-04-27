@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "6a3e41c23db6ef60",
+    "ad_unit_id": "6a3e41c23db6ef60",
+    "app_id": "5a509f15f066e148b1fa5013",
+    "advertiser_name": "Skullgirls: Fighting RPG",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/acbf69bf657a5ce6/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/acbf69bf657a5ce6/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/acbf69bf657a5ce6/preview",
+    "phashion_group": "6a3e41c23db6ef60",
+    "share": null,
+    "first_seen_at": "2025-09-10T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "'Damn fun.' 'Wonderful mechanics.' 'A standout in this crowded mobile fighting genre.' - TouchArcade",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy character reveals with bold claims about the game's quality.",
+    "visual_action": "Quick transitions between stylized female fighters in combat-ready poses.",
+    "text_overlay": "ONE OF THE BEST FIGHTING GAMES... ...NOW AVAILABLE ON MOBILE!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Fast-paced character montage establishing the game's reputation as a top-tier fighter.",
+    "Transition to mobile platform announcement featuring the character Cerebella.",
+    "Spotlight on the exclusive mobile character, Annie of the Stars.",
+    "In-game combat demonstration on a mobile device showing combos and special moves.",
+    "End card with the game logo, victory animation, and a call to action."
+  ],
+  "on_screen_text": [
+    "ONE OF THE BEST FIGHTING GAMES...",
+    "...NOW AVAILABLE ON MOBILE!",
+    "MOBILE ONLY CHARACTER!",
+    "Annie of the Stars",
+    "Skullgirls",
+    "PLAY NOW!"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#9C27B0",
+    "#00BCD4",
+    "#212121"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of competitive 2D fighting games and anime-style aesthetics looking for a high-quality mobile port.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001667
+}

@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "cb8659dc3c21ecc3",
+    "ad_unit_id": "cb8659dc3c21ecc3",
+    "app_id": "674fea0758dda4ef70895b61",
+    "advertiser_name": "POKER Q'z ポーカー学習 & GTOトレーナー",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d8ac92493394c76/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d8ac92493394c76/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d8ac92493394c76/preview",
+    "phashion_group": "cb8659dc3c21ecc3",
+    "share": null,
+    "first_seen_at": "2026-04-10T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1292,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A text-based challenge followed by a poker strategy question.",
+    "visual_action": "Bold text on a white background transitions to a poker table UI showing a specific hand and player positions.",
+    "text_overlay": "解けたら上位20%",
+    "voiceover_transcript": "解けたら上位20%。このシチュエーション、どうする？",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Opening challenge text claiming only the top 20% can solve the puzzle.",
+    "Visual of a poker table setup showing player positions, stacks, and the player's hand.",
+    "Three strategic choices appear: Fold, Raise 2BB, or All-in.",
+    "Final screen with a call to action to tap for the correct answer."
+  ],
+  "on_screen_text": [
+    "解けたら上位20%",
+    "POKER Q'z",
+    "トナメ編 Lv4 | ニアバブル |",
+    "この状況、あなたならどうする？",
+    "① フォールド",
+    "② レイズ2BB",
+    "③ オールイン",
+    "答えは画面下部をタップ！"
+  ],
+  "cta_text": "答えは画面下部をタップ！",
+  "cta_timing_seconds": 8.5,
+  "palette_hex": [
+    "#FFFFFF",
+    "#000000",
+    "#C40000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Competitive poker players or enthusiasts looking to test their strategic knowledge.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001658
+}

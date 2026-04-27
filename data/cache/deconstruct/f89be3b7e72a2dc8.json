@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "f89be3b7e72a2dc8",
+    "ad_unit_id": "f89be3b7e72a2dc8",
+    "app_id": "56fee3eff49ea42a540000d4",
+    "advertiser_name": "BURGER KING App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e1164c889040527/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e1164c889040527/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e1164c889040527/preview",
+    "phashion_group": "f89be3b7e72a2dc8",
+    "share": null,
+    "first_seen_at": "2026-04-01T00:00:00",
+    "last_seen_at": "2026-04-08T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Nottingham we're giving out FREE Whoppers ONLY on 7th April. Head to your fresh new restaurant and grab yours, while they last.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Text-based reveal offering a free burger in Nottingham.",
+    "visual_action": "Sequential appearance of text blocks and a burger image on a solid cream background.",
+    "text_overlay": "NOTTINGHAM WANT A FREE WHOPPER?",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Text 'NOTTINGHAM' and 'WANT A FREE' slides in on a cream background.",
+    "The word 'WHOPPER?' completes the question in a large green box.",
+    "Instructions to visit the new restaurant on 7th April appear with the Burger King logo.",
+    "A high-quality image of a Whopper burger and the specific address are revealed."
+  ],
+  "on_screen_text": [
+    "NOTTINGHAM",
+    "WANT A FREE",
+    "WHOPPER?",
+    "Head to your fresh",
+    "new Burger King restaurant on",
+    "7th April",
+    "Exchange Walk, NG1 2NX"
+  ],
+  "cta_text": "Head to your fresh new Burger King restaurant on 7th April",
+  "cta_timing_seconds": 3.0,
+  "palette_hex": [
+    "#F5EBDC",
+    "#008A45",
+    "#502314"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Local residents of Nottingham who enjoy fast food and are motivated by free promotional offers.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001548
+}

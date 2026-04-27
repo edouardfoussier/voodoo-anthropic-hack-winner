@@ -1,0 +1,335 @@
+{
+  "target_game": {
+    "app_id": "1562817072",
+    "name": "Mob Control",
+    "genre": "Action",
+    "sub_genre": "Hyper-casual",
+    "core_loop": "Player aims a cannon to shoot units through multiplier gates to grow a massive army, defeats an enemy base, earns rewards, and uses them to upgrade their own base and unit cards.",
+    "audience_proxy": "Male-skewing casual gamers aged 18-35 who enjoy satisfying, short-session strategy games.",
+    "visual_style": "Stylized 3D Cartoon",
+    "palette": {
+      "primary_hex": "#5824F5",
+      "secondary_hex": "#00A3FF",
+      "accent_hex": "#FFD12C",
+      "description": "A vibrant and high-contrast palette with a dominant royal purple, complemented by a bright cyan and a warm yellow accent, creating an energetic and engaging feel."
+    },
+    "key_mechanics": [
+      "Aiming and Shooting",
+      "Mob Growth",
+      "Base Building",
+      "Unit Upgrading"
+    ],
+    "character_present": true,
+    "ui_mood": "energetic/competitive",
+    "screenshot_signals": [
+      "Massive Crowds",
+      "Multiplier Gates",
+      "Base Building & Upgrading",
+      "Strategic Choices"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US"
+    ],
+    "networks": [
+      "TikTok"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 8,
+    "num_phashion_groups": 8
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "label": "Satisfaction · live-action-UGC",
+      "member_creative_ids": [
+        "e5f7659c7c52df69"
+      ],
+      "centroid_hook": {
+        "summary": "A young man dances energetically in a dimly lit room, expressing his joy after playing a mobile game.",
+        "visual_action": "A young man waves his arms above his head and dances to a beat in a room with blue ambient lighting.",
+        "text_overlay": "how I feel after playing Crossword Go all night after school",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#2A4B7A",
+        "#5A5B3C",
+        "#D4C9C0"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 2.0,
+      "derivative_spread": 1.0,
+      "freshness_days": 10.0,
+      "overall_signal_score": 1.9,
+      "rationale": "1 creatives across 1 unique advertisers, average age 10d. Hook representative: \"A young man dances energetically in a dimly lit room, expressing his joy after p\""
+    },
+    {
+      "archetype_id": "satisfaction-in-game",
+      "label": "Satisfaction · in-game",
+      "member_creative_ids": [
+        "fb3e1e24ca488158"
+      ],
+      "centroid_hook": {
+        "summary": "A player quickly solves the word \"DONUT\" in a food-themed crossword puzzle, triggering a satisfying smashing animation.",
+        "visual_action": "Letters are selected from a tray and fly into the crossword grid to spell \"DONUT\". A 3D donut then smashes through the completed word.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#502A0F",
+        "#F9BF4A",
+        "#2FE809"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.411,
+      "derivative_spread": 1.0,
+      "freshness_days": 73.0,
+      "overall_signal_score": 0.617,
+      "rationale": "1 creatives across 1 unique advertisers, average age 73d. Hook representative: \"A player quickly solves the word \"DONUT\" in a food-themed crossword puzzle, trig\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "411c1c21e5a1009a"
+      ],
+      "centroid_hook": {
+        "summary": "A user is shown satisfyingly solving a digital jigsaw puzzle on their phone, demonstrating the core gameplay loop.",
+        "visual_action": "A finger drags and drops puzzle pieces from a selection tray onto a blank puzzle board on a smartphone screen.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#EAEAEA",
+        "#49A7F1",
+        "#69B32A"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.256,
+      "derivative_spread": 1.0,
+      "freshness_days": 117.0,
+      "overall_signal_score": 0.517,
+      "rationale": "1 creatives across 1 unique advertisers, average age 117d. Hook representative: \"A user is shown satisfyingly solving a digital jigsaw puzzle on their phone, dem\""
+    },
+    {
+      "archetype_id": "asmr-3d-render",
+      "label": "Asmr · 3D-render",
+      "member_creative_ids": [
+        "09b9a5138bab6a90"
+      ],
+      "centroid_hook": {
+        "summary": "The video opens with a satisfying ASMR sound as red pepper flakes are poured into a clear spice jar, filling it up neatly.",
+        "visual_action": "A stream of red pepper flakes pours from off-screen into a clear glass jar labeled 'RED PEPPER' on a kitchen counter.",
+        "text_overlay": "No. 047 RED PEPPER",
+        "voiceover_transcript": null,
+        "emotional_pitch": "asmr"
+      },
+      "palette_hex": [
+        "#F7C5E4",
+        "#E3EEF8",
+        "#D7373D"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.21,
+      "derivative_spread": 1.0,
+      "freshness_days": 143.0,
+      "overall_signal_score": 0.486,
+      "rationale": "1 creatives across 1 unique advertisers, average age 143d. Hook representative: \"The video opens with a satisfying ASMR sound as red pepper flakes are poured int\""
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "label": "Satisfaction · animation",
+      "member_creative_ids": [
+        "f41b68dd7e9c7ab2",
+        "e3c6af26067bd4c1"
+      ],
+      "centroid_hook": {
+        "summary": "The video opens with the iconic character Goku in his Super Saiyan 3 form, yelling and charging forward to deliver his signature 'Dragon Fist' attack.",
+        "visual_action": "A close-up on an angry Super Saiyan 3 Goku, who then clenches his fist and launches towards the screen.",
+        "text_overlay": "\"Dragon Fist!!!\"",
+        "voiceover_transcript": "Dragon Fist!!!",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#F9D80A",
+        "#E8671C",
+        "#0A0A17"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.069,
+      "derivative_spread": 1.0,
+      "freshness_days": 433.5,
+      "overall_signal_score": 0.395,
+      "rationale": "2 creatives across 2 unique advertisers, average age 434d. Hook representative: \"The video opens with the iconic character Goku in his Super Saiyan 3 form, yelli\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "visual_match": 20,
+      "mechanic_match": 15,
+      "audience_match": 45,
+      "overall": 25,
+      "rationale": "Major friction: this is a live-action UGC reaction clip referencing a word/puzzle game (\"Crossword Go\"), with a muted blue/beige palette and zero gameplay — none of it conveys Mob Control's signature mob-growth, multiplier gates, or vibrant purple/cyan/yellow stylized 3D look that drives IPM in this genre. The dancing-satisfaction hook also skews older/casual-puzzle audience rather than the 18-35 male hyper-casual action player. Only run as a low-budget test if the team wants to explore UGC framing, and only if reshot with on-screen Mob Control gameplay B-roll and a hook tied to \"satisfying crowd-multiplier\" moments — otherwise skip."
+    },
+    {
+      "archetype_id": "satisfaction-in-game",
+      "visual_match": 15,
+      "mechanic_match": 10,
+      "audience_match": 20,
+      "overall": 15,
+      "rationale": "This is a food-themed word/crossword satisfaction hook — fundamentally mismatched to Mob Control's aim-shoot-multiplier-army loop; there's no honest way to bridge a \"spell DONUT\" puzzle into cannon/mob gameplay without misleading creative that will tank D1 retention and inflate refunds. Palette (browns/yellows/greens) and casual word-game audience (skews older/female) also conflict with the purple/cyan energetic palette and 18-35 male-skewing action audience. Recommend skipping; if testing satisfaction hooks, source ones built around crowd-collision or gate-multiplier ASMR instead."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 22,
+      "mechanic_match": 15,
+      "audience_match": 20,
+      "overall": 19,
+      "rationale": "Friction is severe across the board: a calm finger-on-jigsaw hook contradicts Mob Control's energetic aim-and-shoot, mob-multiplier loop and would mislead installs into a hard bounce. The muted grey/green/blue member palette also clashes with the game's high-contrast royal purple + yellow signature, and the puzzle archetype skews older/female-leaning casual — opposite of the 18-35 male-skewing action audience. Do not adapt this archetype directly; if testing satisfaction beats, port only the 'oddly satisfying' emotional pitch into a gates-and-crowd-growth visual instead."
+    },
+    {
+      "archetype_id": "asmr-3d-render",
+      "visual_match": 15,
+      "mechanic_match": 8,
+      "audience_match": 20,
+      "overall": 14,
+      "rationale": "Hard pass for Mob Control. The ASMR spice-jar hook lives in a soft pastel pink/cream palette and a calm, sensory-satisfaction emotional register that directly conflicts with the game's high-contrast purple/cyan/yellow energetic competitive tone — there's no character, no crowd, no aiming cue, and nothing that telegraphs the multiplier-gate core loop in the first 3 seconds. Audience also skews female/lifestyle ASMR viewers rather than the 18-35 male casual-strategy player, and with only 1 creative from 1 advertiser at 143d freshness there's no velocity signal worth chasing. Don't adapt."
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "visual_match": 22,
+      "mechanic_match": 15,
+      "audience_match": 55,
+      "overall": 25,
+      "rationale": "Hard pass for production: this archetype leans on licensed Dragon Ball Z IP (Goku, Super Saiyan 3, \"Dragon Fist\") which is a legal non-starter and also misrepresents Mob Control's gameplay — there's no 1v1 anime brawler loop, no aiming/multiplier/mob-growth payoff in the hook. Palette (yellow/orange/black) clashes with the royal purple + cyan brand system, and while the male 18-35 anime-fan audience does overlap demographically, the bait-and-switch risk tanks IPM and post-install retention. Only borrow the abstract takeaway — a loud, high-energy \"power-up and charge\" beat — and rebuild it natively around a giant mob bursting through a x10 gate."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-live-action-ugc",
+        "target_game_id": "1562817072",
+        "title": "POV: My Mob Just Hit x512",
+        "hook_3s": "Phone glow on a hyped face — then BOOM, a purple tidal wave of stickmen erupts through a x256 gate.",
+        "scene_flow": [
+          "0-3s: Live-action UGC — young guy on couch in dim room lit by purple/cyan phone glow, eyes wide, mouthing 'no way' as overlay reads the hook.",
+          "3-7s: Hard cut to phone screen close-up — Mob Control gameplay: cannon fires tiny mob, slams through stacked x2, x4, x8 multiplier gates, crowd explodes into hundreds.",
+          "7-11s: Cut back to player throwing arms up, dancing in the cyan/purple ambient light, vibing to the beat as the on-screen mob steamrolls an enemy base in split-screen.",
+          "11-14s: Reward burst — yellow coin shower on phone, player kisses fingers chef's-kiss style, base upgrade animation pops.",
+          "14-15s: End card: Mob Control logo, massive purple mob silhouette, CTA button pulsing."
+        ],
+        "visual_direction": "Authentic vertical UGC selfie-cam framing for the live-action beats, room lit ONLY by RGB strip lights in #5824F5 royal purple and #00A3FF cyan to mirror the game's signature palette and bridge reality to gameplay. Phone-screen inserts use the native Stylized 3D Cartoon look — chunky cel-shaded stickmen, glossy multiplier gates, #FFD12C yellow coin and number pops for satisfying punch. High contrast, snappy whip-cut transitions synced to a trending bass-drop beat; energetic/competitive UI mood throughout. Color grade pushes purple shadows and cyan highlights so live-action and gameplay feel like one continuous world.",
+        "text_overlays": [
+          "how I feel after one round of Mob Control 😮‍💨",
+          "watch the multiplier hit…",
+          "x256 MOB UNLOCKED",
+          "enemy base = GONE",
+          "ok I'm addicted",
+          "Play Free →"
+        ],
+        "cta": "Play Free",
+        "rationale": "Adapts the winning satisfaction-UGC framing to Mob Control's 18-35 male hyper-casual audience by anchoring the emotional payoff to the game's signature mob-multiplier dopamine moment instead of a generic dance reaction. Live-action authenticity drives thumb-stop and CTR while embedded gameplay B-roll in the brand palette rescues the low visual/mechanic fit scores flagged in the scan. Run as a low-budget UGC test cell against a gameplay-only control; scale only if IPM beats baseline within 48h.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, Stylized 3D Cartoon style: a young man in a hoodie sitting on a couch in a dim bedroom, face lit by phone glow, mouth open in shocked excitement, RGB strip lights casting royal purple #5824F5 and bright cyan #00A3FF across the walls, warm yellow #FFD12C phone screen reflection on his face, on-screen text overlay reading 'x256 MOB UNLOCKED' in bold chunky yellow caps, vertical mobile ad composition, high contrast, energetic mood, cinematic depth of field",
+          "Storyboard frame, aspect 9:16, Stylized 3D Cartoon style: over-the-shoulder shot of a smartphone screen showing a massive cel-shaded purple stickman crowd flooding through a glowing multiplier gate labeled 'x8', cannon at the bottom, enemy red base in the distance, palette dominated by royal purple #5824F5 and cyan #00A3FF with #FFD12C yellow gate numbers and coin sparks, on-screen text 'watch the multiplier hit…' at top, glossy chunky 3D render, vibrant hyper-casual game UI",
+          "Storyboard frame, aspect 9:16, Stylized 3D Cartoon style: split composition with live-action young man on left throwing arms up in victory under purple #5824F5 and cyan #00A3FF ambient lighting, and a 3D cartoon Mob Control gameplay shot on right with a giant yellow #FFD12C coin shower exploding over a defeated enemy base, on-screen text 'ok I'm addicted' in bold white caps with yellow stroke, energetic competitive vibe, vertical mobile ad framing"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_XhbvKPJ3PDYBAj7rezDympUw?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWGhidktQSjNQRFlCQWo3cmV6RHltcFV3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=DE9hfXWq%7EdffXgdsyvNGG5mxa5h2pMo2hlh610scgRfRYbITWhaFUf3XK2yotBAJ0L7eKo0vtU7QQfjHEY62PQrA1gyHezn-63QvB8p37aaiM-bRPlJ9iSAmP2Cd3qR5TxiReCgss4UK7usrKppVImPHg7pL620Gvf5DgwJ4bNzSIPkOAFzMYFFH3IVTDb3RznYRH4eUULp5l8hKWXf8dRxNwd39uitj4sahUtPLKbOwT%7EWyShqRXCgGG8ohsRhp5ynTduY8mUykK%7EBSygJ%7EwcwQ0PE1zE4GX6pjviG5j0JRHWRXBrVmLDPo7D4Trcc27ogQyrnsBpPYTavl0c3RgQ__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_wni2uFFmNzR3sH3jJt4kwXY2?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfd25pMnVGRm1OelIzc0gzakp0NGt3WFkyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=hvvTthRCIDhD3QU4bnXoiOSV-3A41xCUVbPNlVAZ2qWz0vnOkWaCt90Q9bhz3h%7EM2ezLZjb%7EBkUDQfPScNy0-uMHudjqPr%7ERBNptzegE1mvczy0eMdDszklEo3tR4dJT9HlW-kmKp1LO2jCSAewrTt6matw9fh6JeyqZP%7E0ANQh-w10-srTrgd6RTDNxvQtf%7E-Tpi5u-nw%7EOPRQPAbbr74ai3g5j5fWOb-8J9APgmHGnKhFzXiO1r7jp8Pgs0BHe-NO4SBPLAT7zqsZbA2H%7E7E2TGtte8rIMm0uUeX-rVdGdfIcZKAXiSFuYSXSCYqbsxM5UkOCTXVqMrxUKrI1l7w__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_XsDvp6QwFwBUvCWerBWDEyBM?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWHNEdnA2UXdGd0JVdkNXZXJCV0RFeUJNP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=JXrI2-B0TRE7ggAL1czXCh5qUnNTWb6%7ECPG4T0uTPVqjbWggtYWpg0CSFlmN1%7EIis1qqvZZfs889CNVIIDeueIR8dpsw6yv%7Egkb%7EFZunm84MB72I9QEf-seP6P8H9x1j0oa0BHGgv0zWKgGhPqBR%7EHqiEz2pvYCLYX9FpJCahzu7C5lqgiQyc5bBa%7ErEIa93Rc400u1X9rY1Qo589fLCZbWJd3eEv-0JGsmGRsgYCEijnkrUZrnoeND1Y1XU6lHiioblXnY7x-YTYIAQ9TDu3wku0A43BSMgIHMR2YcHIdm6TEINEOa9jT8OlDFE1z4Ck4yzCo-McyTK7RO6V%7EUIRw__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=1.90 × game_fit=25/100 ⇒ priority=0.47"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-animation",
+        "target_game_id": "1562817072",
+        "title": "Charge the x10: Mob Unleashed",
+        "hook_3s": "Tiny mob screams, cannon glows cyan-purple, then BOOM — they rocket toward a giant golden x10 gate.",
+        "scene_flow": [
+          "0-3s HOOK: Close-up on a tiny, outnumbered purple mob trembling in front of a glowing cannon; camera shake, cyan energy charges up, yellow 'x10' gate looms ahead.",
+          "3-7s POWER-UP BEAT: Player finger drags to aim, cannon fires — slow-mo burst of stick-figures streaming through the x10 gate, multiplying into a massive roaring crowd as numbers count up 10 → 100 → 1000.",
+          "7-11s PAYOFF: The now-enormous purple mob floods the enemy's cyan base, smashing towers in a satisfying cartoon crunch; yellow coins and confetti explode upward.",
+          "11-14s PROGRESSION TEASE: Quick cut to base-upgrade screen — unit card levels up with a golden flash, hinting at the meta-loop.",
+          "14-15s CTA CARD: Logo slam with cannon icon and 'Play Free' button pulsing."
+        ],
+        "visual_direction": "Stylized 3D Cartoon with chunky, readable silhouettes and exaggerated squash-and-stretch on the mob. Lean hard into the brand palette: royal purple (#5824F5) dominates the hero mob and background gradients, electric cyan (#00A3FF) powers the cannon charge VFX and enemy base, and warm yellow (#FFD12C) is reserved exclusively for high-attention beats — the multiplier gate, coin explosions, and CTA. High-contrast rim lighting, punchy cel-shading, and a slight wide-angle lens to make crowds feel massive. Camera language borrows the archetype's \"charge and release\" energy: tight close-up → whip-pan → wide hero shot of the swarming army.",
+        "text_overlays": [
+          "Tiny squad…",
+          "AIM THE CANNON",
+          "x10!",
+          "MOB UNLEASHED",
+          "Upgrade & Conquer",
+          "Play Free"
+        ],
+        "cta": "Play Free",
+        "rationale": "We keep the winning archetype's \"power-up and charge\" emotional beat but rebuild it natively around Mob Control's actual core loop — aim, shoot, multiply, overrun — so the ad is honest and IPM-safe. The hero moment is the x10 gate transformation, which doubles as gameplay tutorial and dopamine payoff in under 7 seconds. Run as primary video creative for male 18-35 hyper-casual lookalikes; expect strong CTR from the satisfaction beat and improved D1 retention vs. bait-and-switch creatives.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, Stylized 3D Cartoon: a massive roaring purple mob of chunky cartoon stick-figures bursting through a giant glowing golden multiplier gate that reads 'x10!', cyan energy trails streaking behind them, royal purple #5824F5 dominant background with electric cyan #00A3FF rim light and warm yellow #FFD12C gate glow, dramatic low-angle wide lens, cel-shaded, high contrast, mobile game ad key art, on-screen text 'x10!' in bold yellow",
+          "Storyboard frame, aspect 9:16, Stylized 3D Cartoon: extreme close-up on a cartoon cannon charging up with swirling cyan #00A3FF energy, a tiny nervous purple #5824F5 mob of 5 stick-figures clustered at its base, warm yellow #FFD12C sparks flying, deep purple gradient sky, player's finger silhouette dragging an aim line, punchy cel-shading, on-screen text 'AIM THE CANNON' in white with yellow outline",
+          "Storyboard frame, aspect 9:16, Stylized 3D Cartoon: epic wide shot of an enormous purple #5824F5 cartoon mob flooding and smashing a cyan #00A3FF enemy fortress, yellow #FFD12C coins and confetti exploding skyward, motion blur and impact dust, vibrant high-contrast palette, energetic competitive mood, on-screen text 'MOB UNLEASHED' in chunky bold yellow letters"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_BMPqyVjDXjVMZsu3ZxNuTr8Z?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQk1QcXlWakRYalZNWnN1M1p4TnVUcjhaP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=g9TFHoHuK1qHYjPTEObQSXBT06P3-HIoPEtZqGsKsSY9Y%7EzFRSerRGpWSqAKJRQuOwS4DMwAkCQWkwGfCMKbNKiWRjTerXZ0S38QH-dKuQZ9Xh831gf9pTSFGizXUOgg-eCy1owF-NwV6uMGKeNI-0jd%7Eo2SNO6lGdRinlTxSHQONGMhLUcuOGJx2c4fvLQmrscIJOKPZK%7EnVPS0fi5JjqmMxShb-K392KJD-gcCraNNIlzk-FrpoAwYYc5iKTKEUYff7B-n%7ECjwhu1c7H3U4unveLAw54P%7EMqNFBIfSH-m1IR5kgKps7OMTX3odmmVLLgJ6GsC0IxSswAR1dsn5ug__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_1E1yfYcbVSrtEFPpdDvWkS2J?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMUUxeWZZY2JWU3J0RUZQcGREdldrUzJKP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=nybjekQ0SDcJg3KPiRnnRXesDxVpAfTAYz6XBujbcvAEzSmBsZalY4ByeB4VGQb4GCNZ1G0AoOigeBZwqVK2sTWG%7EU4OaYpsN-zVdQL2wDJqzjDnRI0sgtuRPOXj%7Eht1ccjkdUQ4%7ESA7vEqvslZ9tnecw9Lzj5-bwxXAif5UZWP3yEDChajebTCWFp%7E1704UmC3sU7YvvxUc27rwh17uIvuAI3xt13WUFO6BiFmmZIAf8TjP-kFDrBk7NXdSl2kdaksceXHwa3%7EIRKgp41-D7Q8DOtOPGejQtoQysTW4AUC2VALsPobhIqx-FgJcDb9ygeEIZOOmkv%7EWHGKsqRA9gg__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_1pXcbb2YRkf4Aa5efaRTZtE4?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMXBYY2JiMllSa2Y0QWE1ZWZhUlRadEU0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=RImQaA1ckV%7EtHKCl%7Ep1XaxxbRO%7EeV3Km6xNaHE4BqU92F7grbMbhb%7EUUcEkaVGGgYBHAjAh76aLAeElwOfOAHTagd4DhHp%7EF-qJoOjV7rgbQlYPEYuz05pb%7Ee5HYSymFChk0LhVVnJJ6UdM1JUCmWeF8LpJ44JXQtDBLDmy8DKLPpoFF041aF-5OqwfIQgL9vlnO6-jT8%7EaqSw9Jv69Gghhgui3MXddlTXjVvVWCLDvu1vsI8JLA3bLO%7EO1pLbAIl0uy0HJthewwSScOVU2%7EQyfshDwSVBuK66Wwx6d7f9NJpGxWEZqV3nRNhevBiyPhHFDz8Zd2yFQIJAeUJNphug__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.40 × game_fit=25/100 ⇒ priority=0.10"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "1562817072",
+        "title": "Gate Stack Frenzy: Oddly Satisfying Mob Multiplier",
+        "hook_3s": "A single blue stickman fires through a glowing ×5 gate and EXPLODES into a stampeding purple crowd — all in 3 seconds.",
+        "scene_flow": [
+          "0-3s HOOK: Top-down cannon POV fires one tiny stickman through a neon ×5 multiplier gate; crowd erupts into a satisfying wave with ASMR pop-pop-pop SFX.",
+          "3-7s ESCALATION: Finger drags cannon left/right, threading mob through stacked ×2, ×3, ×10 gates — counter spins from 5 → 47 → 312 with chunky number pops.",
+          "7-11s TENSION: Mob smashes into a rival red base; quick clash, purple crowd overwhelms it; coins and gems geyser out in yellow accent burst.",
+          "11-14s REWARD: Quick cut to base upgrade screen — a unit card levels up with golden shimmer, cannon visibly grows bigger.",
+          "14-15s CTA: End card with stampeding crowd silhouette behind bold logo + Play Now button pulsing in yellow."
+        ],
+        "visual_direction": "Stylized 3D Cartoon with chunky, low-poly characters and exaggerated squash-and-stretch on the mob. Dominant royal purple (#5824F5) battlefield floor with cyan (#00A3FF) glowing multiplier gates and yellow (#FFD12C) numbers/coins for maximum pop. High-contrast rim lighting on the crowd, slight motion blur on cannon shots, and tactile particle bursts at every gate hit. Camera stays in a slightly tilted top-down 'tabletop' angle for clarity, snap-zooming on the multiplier counter for satisfaction beats. UI mood is loud, kinetic, competitive — every action triggers a juicy SFX and number-pop.",
+        "text_overlays": [
+          "Can you stack ×1000?",
+          "HIT THE GATES →",
+          "×10 COMBO!",
+          "CRUSH THE BASE",
+          "UPGRADE & REPEAT",
+          "TAP TO PLAY"
+        ],
+        "cta": "Play Free",
+        "rationale": "We port only the 'oddly satisfying' emotional beat from the winning archetype and re-skin it onto Mob Control's signature multiplier-gate-to-crowd-explosion moment, eliminating the install-to-bounce risk of a literal jigsaw hook. The royal purple + cyan gates + yellow number-pop combo locks visual brand recall in under 3s and matches the 18-35 male action audience expectation of momentum and scale. Test this against a vanilla gameplay capture; expect higher IPM via the satisfaction loop while preserving truthful gameplay representation.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, stylized 3D cartoon mobile game shot, top-down tilted view of a glowing cyan #00A3FF multiplier gate marked '×10' with a massive royal purple #5824F5 crowd of chunky low-poly stickmen stampeding through it, yellow #FFD12C number '×10 COMBO!' popping in bold cartoon font above the gate, particle sparks and rim lighting, vibrant high-contrast palette (#5824F5, #00A3FF, #FFD12C), energetic competitive mood, clean mobile-ad composition.",
+          "Storyboard frame 1, aspect 9:16, stylized 3D cartoon, close-up of a cartoon cannon firing a single blue stickman toward a row of glowing cyan #00A3FF multiplier gates on a royal purple #5824F5 battlefield, bold yellow #FFD12C overlay text 'HIT THE GATES →' at top, motion blur trails, palette (#5824F5, #00A3FF, #FFD12C), playful action mood.",
+          "Storyboard frame 2, aspect 9:16, stylized 3D cartoon, huge purple #5824F5 stickman mob crashing into a red enemy base, explosion of yellow #FFD12C coins and gems erupting skyward, cyan #00A3FF energy ring on impact, bold overlay text 'CRUSH THE BASE' in chunky cartoon font, palette (#5824F5, #00A3FF, #FFD12C), satisfying victory moment."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_3h75fw7VQJxnVpGnFLa5jEkh?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM2g3NWZ3N1ZRSnhuVnBHbkZMYTVqRWtoP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ShK9ZunTt4bbmc2f%7EC-dj9UnRyPKbs1SKSlGwbuq9lzvAqZ75pvbOXK%7Ej2D2k2V8AejY%7E9m8pVXHa3DIIDAmvD-5a8Cg6crLvSbX-kEiwbNf8eSd2ENaY-CU5t8qD1sXcXW1mfbe2eHLGM7KAxAnLf0XylN6CqXIzGmfumcHoQua326v75i0Ho6wdMvsH-wn6rFgLY62casPKX76jcF9-kL72oOAIn7fc8uCViHBCyi-aEasDFT0RW4eJreShNQLg2d9O7r5wGubGypzTWEoH7GSsRUOyg5bVB37JWpZ3Dz46KbvKjOtdbGw49wtmDFmEkHI8ctA%7EfNNBZQp0hoCBQ__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_vYnx7gHpty6ruNvtXGT3T7Lr?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdllueDdnSHB0eTZydU52dFhHVDNUN0xyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=JgmdN4pRQwT-iOjMDg4SX51vhPKSoFEbXTz8KC16yXSrJXJUOa9M-PFpoAzjjnJD2DSMVF8q9IcdKaljmVEK9Z0jUy6EzfYwiyhptXOCdRzmHvDCR1VTT6IV1FpojmHI3RuomN4VfVv1BViXu0BQIUyv4Ws9BJv8E99Gxy51UQ0gdcic3Kew5HTaBrP55B0jdvoR%7EeCq%7EvjJ3xoAgjA0P00Qn7JD3NPDc5k7CsMxn9APqlNACF1LI91nn4SqFOFzQrSrACkwgupmERkf1c9nUPYIsw-o2VdsHigGsNvGtC-dUsbaIqgOQDVHVJsSqKgj4uoTgC49AfbPCdbBh1ByTQ__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_82PMF2jwGopXymsXPXDZc3XD?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfODJQTUYyandHb3BYeW1zWFBYRFpjM1hEP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=PAPBMEcgGNz8L-1YcKP2wDuDrt3ZKJIC7PW4p5KNuXzqU2PzHtoGXxmk8Xz4%7EYwW4AdNkWR3P0AJQ-fipho0L46OkmHuSap27XwIq01bE042a7qACtTc3nsa29yXYI7v%7Ed1MPCvc4sF5-0mWq%7Ev0k1yUxF6Tzq526U-sW3neBhpXZKrUq1bprhU2nvKb15tpr1BtzqelXJ-TjFyXBexGmGF0IwpemxFpHauQKSXv6DqOrE4R%7EGE6f7omL3d3Vp7KwiDI%7EGs1FGz%7E9nMVZJXHhEFmi0lfROx56F2b9X4ogQFEMt42i5IsZCWlAfaxQ49Ga7nQCvzpbv4xCaVEIxMq4g__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.52 × game_fit=19/100 ⇒ priority=0.10"
+    }
+  ],
+  "pipeline_duration_seconds": 453.7064374590045,
+  "total_cost_usd": 0.045587499999999996,
+  "generated_at": "2026-04-25T16:49:12.585402Z"
+}

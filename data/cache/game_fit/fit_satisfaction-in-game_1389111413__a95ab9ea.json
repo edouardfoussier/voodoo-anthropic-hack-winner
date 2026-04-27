@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 35,
+  "mechanic_match": 40,
+  "audience_match": 60,
+  "overall": 42,
+  "rationale": "The \"relaxing satisfaction\" hook clashes with Hole.io's energetic, competitive, timer-driven DNA — the bus-parking puzzle palette (soft pastels + red) and slow hand-drag pacing don't translate to fast .io chaos with bright orange/blue cityscapes. Mechanically, \"clear the grid\" satisfaction can be loosely reframed as \"swallow the whole city\" ASMR-style, which is the only viable bridge, but it requires reshooting against actual Hole.io footage rather than adopting this archetype directly. Audience overlaps on the broad casual layer, but the relaxation pitch undersells the competitive multiplayer hook that drives Hole.io retention — recommend testing only as a low-budget B-variant with a satisfaction-styled edit of native gameplay."
+}

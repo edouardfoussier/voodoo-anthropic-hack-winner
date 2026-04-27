@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1453989822",
+  "title": "POV: Rush Home to Aquapark",
+  "hook_3s": "POV: the second school ends, I sprint home to hit the slides.",
+  "scene_flow": [
+    "0-3s: Live-action POV — backpack bouncing, hand shoves open the front door, sneakers skid down the hallway.",
+    "3-6s: POV flops face-first onto the bed, phone whips up to camera, thumb taps the aquapark.io icon.",
+    "6-11s: Hard cut into gameplay — character launches down a bright blue slide, steers hard, BUMPS two opponents off the edge into the void.",
+    "11-14s: Hang-glider section, overtakes the leader at the finish line, confetti + #1 on the leaderboard.",
+    "14-15s: App icon + orange Install button pulses on screen."
+  ],
+  "visual_direction": "Open with handheld, sun-drenched live-action (warm domestic tones) to set the 'finally home' satisfaction beat, then smash-cut into aquapark.io's signature 3D low-poly world: cyan #42bcf5 water, glossy white #ffffff slide rails, and punchy orange #ff8c1c HUD/CTA accents. Keep the gameplay portion authentic — same chunky animal avatar, inner tube, slide chicane, and progress bar as the real app. Energetic, competitive, cartoonish; no filters that mute the palette.",
+  "text_overlays": [
+    "POV: school just ended",
+    "me: 🏃💨",
+    "opening aquapark.io",
+    "BUMP 'EM OFF 💦",
+    "#1 — gg"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current aquapark.io rotation is 100% in-game gameplay voiceover (\"slide, jump, push opponents\") — they have zero live-action UGC/POV hooks, despite POV \"rush home to play\" being a proven satisfaction archetype trending in the scan. This brief grafts that underrepresented UGC framing onto authentic aquapark gameplay, adding a relatable Gen-Z entry point before the bump-off payoff. Run as an incremental top-of-funnel test against the existing gameplay-only creatives to capture audiences who scroll past polished gameplay ads.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic aquapark.io in-game screenshot style: 3D low-poly bright colorful cartoonish chunky animal avatar riding an inflatable inner tube down a glossy white (#ffffff) curved water slide over bright cyan (#42bcf5) water, two rival avatars getting bumped off the slide edge mid-air with splash particles, vibrant orange (#ff8c1c) HUD with race progress bar at top and power-up icon at bottom-right, motion blur on the slide rails, on-screen text overlay 'BUMP 'EM OFF 💦' in bold rounded white font with orange outline, sunny sky backdrop, same UI chrome as aquapark.io.",
+    "Storyboard frame, aspect 9:16, live-action POV first-person shot of a teen's hand holding a phone above their face while lying on a bed, phone screen clearly displays the aquapark.io app icon and a launching 3D low-poly water slide scene with cyan (#42bcf5) water, white (#ffffff) slides, and orange (#ff8c1c) play button, warm bedroom lighting, on-screen text overlay 'opening aquapark.io' in bold white sans-serif with orange drop shadow, palette accents #42bcf5 #ffffff #ff8c1c, photoreal UGC look transitioning into cartoonish game art.",
+    "Storyboard frame, aspect 9:16, aquapark.io endgame moment: 3D low-poly cartoonish character on a bright orange (#ff8c1c) hang glider soaring past the finish banner above cyan (#42bcf5) water, white (#ffffff) confetti bursts, leaderboard UI in corner showing '1st' highlighted in orange, race progress bar full, bright colorful low-poly style, on-screen text overlay '#1 — gg' in chunky white font with orange stroke, authentic aquapark.io HUD chrome, no extra invented characters."
+  ]
+}

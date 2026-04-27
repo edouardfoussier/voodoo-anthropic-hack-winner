@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "app_id": "5c7a4d5f6f39cd5954dedbb1",
+      "breakdown": [
+        {
+          "date": "2026-01-01",
+          "organic_abs": 5735,
+          "organic_browse_abs": 1388,
+          "organic_search_abs": 4347,
+          "browser_abs": 218,
+          "paid_abs": 7283,
+          "paid_search_abs": 2,
+          "organic_frac": 0.433223,
+          "organic_browse_frac": 0.10485,
+          "organic_search_frac": 0.328373,
+          "browser_frac": 0.016468,
+          "paid_frac": 0.550159,
+          "paid_search_frac": 0.000151
+        },
+        {
+          "date": "2026-02-01",
+          "organic_abs": 3651,
+          "organic_browse_abs": 884,
+          "organic_search_abs": 2767,
+          "browser_abs": 171,
+          "paid_abs": 4477,
+          "paid_search_abs": 0,
+          "organic_frac": 0.439933,
+          "organic_browse_frac": 0.106519,
+          "organic_search_frac": 0.333414,
+          "browser_frac": 0.020605,
+          "paid_frac": 0.539463,
+          "paid_search_frac": 0
+        },
+        {
+          "date": "2026-03-01",
+          "organic_abs": 5444,
+          "organic_browse_abs": 1207,
+          "organic_search_abs": 4237,
+          "browser_abs": 187,
+          "paid_abs": 5326,
+          "paid_search_abs": 0,
+          "organic_frac": 0.496851,
+          "organic_browse_frac": 0.110158,
+          "organic_search_frac": 0.386693,
+          "browser_frac": 0.017067,
+          "paid_frac": 0.486082,
+          "paid_search_frac": 0
+        },
+        {
+          "date": "2026-04-01",
+          "organic_abs": 5797,
+          "organic_browse_abs": 1388,
+          "organic_search_abs": 4409,
+          "browser_abs": 443,
+          "paid_abs": 6182,
+          "paid_search_abs": 2,
+          "organic_frac": 0.466597,
+          "organic_browse_frac": 0.111719,
+          "organic_search_frac": 0.354878,
+          "browser_frac": 0.035657,
+          "paid_frac": 0.497585,
+          "paid_search_frac": 0.000161
+        }
+      ]
+    }
+  ]
+}

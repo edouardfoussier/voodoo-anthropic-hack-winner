@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "00e3e8e3cb2a5860",
+    "ad_unit_id": "00e3e8e3cb2a5860",
+    "app_id": "673c0ae472f4c26836a99529",
+    "advertiser_name": "Ultimate Football Manager",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/preview",
+    "phashion_group": "00e3e8e3cb2a5860",
+    "share": null,
+    "first_seen_at": "2025-12-02T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Show the world you’re the ultimate manager.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "UGC creator juggling a soccer ball with a POV management scenario caption.",
+    "visual_action": "A man in a black shirt catches a soccer ball and begins juggling it with his feet and knees in a room.",
+    "text_overlay": "POV: you drafted the worst possible striker in Ultimate Football Manager so you take things into your own hands and play striker to win it all 🏆",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "UGC footage of a man juggling a soccer ball with a POV caption about team management.",
+    "Fast transition to the UFM 26 game logo with a green background.",
+    "UI demonstration of the player transfer market and selling star athletes like Haaland.",
+    "Final screen showing team formation tactics and app store download buttons."
+  ],
+  "on_screen_text": [
+    "POV: you drafted the worst possible striker in Ultimate Football Manager so you take things into your own hands and play striker to win it all 🏆",
+    "UFM 26",
+    "SELL YOUR PLAYERS",
+    "Earn money by selling players you don't need",
+    "Download on the App Store",
+    "GET IT ON Google Play"
+  ],
+  "cta_text": "Download on the App Store",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#004D33",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male football fans aged 18-35 who enjoy sports management simulations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015400000000000001
+}

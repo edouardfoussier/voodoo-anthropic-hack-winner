@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "0ae6143e6858709f",
+    "ad_unit_id": "0ae6143e6858709f",
+    "app_id": "5ef6bb393bc90d3dc313b366",
+    "advertiser_name": "IQ Boost: Training Brain Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f2e8f62326790dea/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f2e8f62326790dea/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f2e8f62326790dea/preview",
+    "phashion_group": "0ae6143e6858709f",
+    "share": null,
+    "first_seen_at": "2025-07-10T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Elon Musk's IQ Test: The One That Reduced His Employees to Tears - Can You Pass It?",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand uses a stylus to plug in colored cords to power a flamingo, lamp, and cat light.",
+    "visual_action": "Stylus drags a red plug into a power strip, lighting up a neon flamingo.",
+    "text_overlay": "TURN ON ALL",
+    "voiceover_transcript": "Coca-Cola Light, Coca-Cola Normal",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Introduction of the puzzle: three lights and a power strip with limited space.",
+    "The player plugs in the red cord, successfully lighting the flamingo.",
+    "The player attempts to plug in the yellow and blue cords but they are blocked by the red one.",
+    "The player rearranges the plugs to try and fit all three into the strip."
+  ],
+  "on_screen_text": [
+    "TURN ON ALL"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#E0D8C8",
+    "#D32F2F",
+    "#42A5F5"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual gamers who enjoy logic puzzles and satisfying organization tasks.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001531
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_vxEG8U1PbxnaAHfreXSaGcPq?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdnhFRzhVMVBieG5hQUhmcmVYU2FHY1BxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=RPv6LYpimRFNkgWb4FbziVNlgW0VqE7FHs0B1ykn-ntMCZ6VAeyv1zzoRHphD7EggOvxX4FzgnNNPOL9KBCjItjVfhiMAzUknXlcXqHF0neJvKz3K1qKCbRTBH18CGVB3faN9CTKDqC2C3jie3u%7EiFPDVbMHn9tB9FNlpflQx6OsbhzE0oCqC7uefNWP9T1GOKP24EiHtApKq3yhmSdYVd5N9rB0ZYh9TgLxW%7ELWX4DT1g78C63DwlZAx8vNG4W0VyEClmwn0V-e%7Eq9y%7EwY5AcW5VZAvotgeTYwOBP-rQMTI6T3O1EsimC0-yYUgHvKVw0xIQEj6WOsYrn%7E-ofQZYQ__",
+  "job_id": "job_tA2f2mifrdBfK6VuEZRtS3Ue",
+  "asset_id": "asset_vxEG8U1PbxnaAHfreXSaGcPq",
+  "stub": false,
+  "prompt": "Storyboard frame 3, aspect 9:16, 3D Casual Abstract style: dynamic mid-action shot of glossy amber #FDBA4D and purple #403F6D physics balls ricocheting across a dark #20232B grid, obstacles shattering into bright sparks, progress bar in #FDBA4D filling at the top, cinematic slow-motion, premium 3D render, on-screen text 'CHAIN REACTION!' in bold rounded caps",
+  "model_id": "flux.1-dev"
+}

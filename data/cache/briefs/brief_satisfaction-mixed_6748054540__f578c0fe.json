@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "6748054540",
+  "title": "Tap. Place. BLAST. — Bounce Blast 3D Satisfaction Cascade",
+  "hook_3s": "Glowing amber block snaps into a dark purple grid — the whole board cracks open into bouncing balls and neon chain-reaction sparks.",
+  "scene_flow": [
+    "0–3s HOOK: Close-up on a near-complete grid with one obvious empty slot pulsing in #FDBA4D. A finger hovers, taps, and the final amber block clicks into place with a tactile 3D snap.",
+    "3–7s PAYOFF: The placed blocks instantly transform into glowing bouncing balls that ricochet across the dark moody board, triggering a chain reaction of obstacle pops and amber sparks.",
+    "7–11s ESCALATION: Quick-cut montage of 2 harder levels — denser grids, more obstacles, bigger cascades — each ending in a satisfying ‘LEVEL CLEAR’ flash.",
+    "11–14s FAIL-BAIT: A tricky board appears with a wrong-placement red flash and a 'YOUR TURN?' nudge, inviting the viewer to mentally solve it.",
+    "14–15s CTA: Logo lockup on dark purple background with the amber Play button pulsing."
+  ],
+  "visual_direction": "Lean fully into the game's native DNA: deep #20232B near-black backdrop with #403F6D purple grid frames and UI chrome, lit by a single warm #FDBA4D accent that acts as the 'hero color' for placed blocks, balls, sparks, and progress fills. 3D Casual Abstract style — soft matte plastic blocks with subtle bevels, glossy translucent bouncing balls, no characters. Camera stays mostly top-down with micro dolly-ins on snap moments; physics cascades shot in slight slow-mo for tactile satisfaction. Sound-design cue: tactile click → glassy bounces → bass thump on clear.",
+  "text_overlays": [
+    "Place the last block...",
+    "BOOM — chain reaction!",
+    "Can YOU clear it?",
+    "Level 47 of 500",
+    "TAP TO PLAY"
+  ],
+  "cta": "Play Free",
+  "rationale": "We borrow only the archetype's proven 'satisfying completion → payoff' emotional beat and rebuild it natively around block placement and physics cascades, eliminating the crossword bait-and-switch IPM risk. Lead with a 3-second tactile snap-and-cascade hero moment to telegraph real gameplay, then escalate difficulty to qualify casual 25-55 puzzle players and seed a 'can you solve it?' fail-bait for replay-driven CTR. UA team: prioritize this as the hero variant; A/B test the fail-bait beat (11–14s) against a pure-payoff cut to isolate IPM lift.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, 3D Casual Abstract style, top-down view of a moody puzzle grid on deep near-black background #20232B with deep purple #403F6D grid frames, a glowing matte amber-orange #FDBA4D block snapping into the final empty slot, soft bevels, glossy translucent bouncing balls beginning to spark out in radial chain reaction, cinematic rim light, on-screen text overlay 'BOOM — chain reaction!' in bold white sans-serif, mobile game ad still, ultra clean composition, no characters",
+    "Storyboard frame 1, aspect 9:16, 3D Casual Abstract style, close-up of a fingertip hovering over a colored block tray below a partially filled puzzle grid, background #20232B, purple #403F6D UI panels and progress bar, single empty slot pulsing in amber #FDBA4D, tactile matte plastic blocks with subtle highlights, on-screen text overlay 'Place the last block...' in clean white type, mobile ad aesthetic, calm satisfying mood",
+    "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style, dynamic top-down shot of glossy translucent balls ricocheting across a dark #20232B board with #403F6D purple frames, bright amber #FDBA4D motion trails and spark bursts, obstacles cracking apart mid-cascade, slight motion blur, on-screen text overlay 'Can YOU clear it?' in bold white sans-serif, satisfying physics chain reaction, no characters"
+  ]
+}

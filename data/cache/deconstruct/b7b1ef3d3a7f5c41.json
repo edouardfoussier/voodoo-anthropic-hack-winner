@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "b7b1ef3d3a7f5c41",
+    "ad_unit_id": "b7b1ef3d3a7f5c41",
+    "app_id": "55d93b9302ac645ad207f208",
+    "advertiser_name": "Betfair Sports Betting",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfd95f63a1a80a84/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfd95f63a1a80a84/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfd95f63a1a80a84/preview",
+    "phashion_group": "b7b1ef3d3a7f5c41",
+    "share": null,
+    "first_seen_at": "2025-12-01T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🎰 Introducing... Brett Flair and The New Slots. We're dropping the latest games every week at Betfair Casino. 👀\n18+ T&Cs Apply. Please Gamble Responsibly.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy synchronized dance and backflip intro in a monochromatic yellow setting.",
+    "visual_action": "A man performs a backflip over a group of men dressed in yellow outfits against a bright yellow background.",
+    "text_overlay": "THE NEW SLOTS",
+    "voiceover_transcript": "Introducing the new slots. Fresh new releases dropping every week",
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Dynamic intro with a backflip and bold text introducing 'The New Slots'.",
+    "Group of men in coordinated yellow outfits perform a stylized dance routine.",
+    "Lead performer sings into a microphone while others pose in the background.",
+    "Transition to a mobile phone displaying the Betfair Casino app interface with featured games.",
+    "Final shot showing specific slot game titles and the brand logo with a call to action."
+  ],
+  "on_screen_text": [
+    "THE NEW SLOTS",
+    "betfair CASINO",
+    "18+ GambleAware",
+    "Fresh new releases",
+    "Dropping every week",
+    "Play Today on betfair CASINO",
+    "Gold Cash FREESPINS",
+    "BIG BASS Halloween"
+  ],
+  "cta_text": "Play Today on betfair CASINO",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#F9E100",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adults 18+ interested in online gambling and looking for frequent new slot game content.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001483
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_6PgCxdSfVcTtWBU3nqN3WFhA?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF82UGdDeGRTZlZjVHRXQlUzbnFOM1dGaEEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=DQRvzkf-RBczQJEISXQhYWWrSL9ePHd42fQcmLy24OFP4MuumtAy94tTBHn34M8fuPwLDcBRkvx1WlRmWeUwt3C1etwycYMQud9tKTtXH3UcvW67adZMuwSGmluLib6eLuSfnE2tPs-NaS-xBOQlfA171GqcyI91j2S%7EhWc4wzNShHGnq5DNvoDwQB3%7Eu8%7EsBCpe5VCPxTwCTp70zi4HQfGuJoLiokXWrjLiHOu-dOp64Q6Y6wJBzvj5RcFREjO-Ej6LSQIMNkfokYycpHruf86ffR6iS2rKZMvKa1jUoBD0ZNAj%7Eg6ERNbwvmeyrzFfbH2WaYLOLOS74t7i0KURtg__",
+  "job_id": "job_F92HAVrw5o6JDnYAfh1CvHV6",
+  "asset_id": "asset_6PgCxdSfVcTtWBU3nqN3WFhA",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Subtle camera push-in on the game logo with a soft sparkle/shimmer behind the wordmark. The CTA button gently pulses once. The background has a slow, almost imperceptible parallax. Brand-confident, premium mobile-ad endcard finish. 9:16 vertical, 3 seconds.",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": false,
+  "audio": false
+}

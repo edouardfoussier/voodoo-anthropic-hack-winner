@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 25,
+  "mechanic_match": 30,
+  "audience_match": 60,
+  "overall": 32,
+  "rationale": "The \"fail bait\" hook is a proven casual-puzzle UA pattern and the audience (casual women 25-55) overlaps reasonably with Marble Sort's target, but the execution is built around a Bus Jam-style passenger/vehicle puzzle — the visual vocabulary (saturated greens/blues, vehicles, passenger pickup) directly conflicts with Marble Sort's pastel lavender 3D marble-and-conveyor DNA. Mechanic translation is weak: a \"wrong move = crash\" framing doesn't map cleanly onto a physics-tap-and-drop sorter where failure is more about mis-timed releases or mixed colors. Only worth testing if reshot natively with marbles overflowing/spilling into the wrong box under a \"Can you solve it?\" overlay — do not whitelist the original creative."
+}

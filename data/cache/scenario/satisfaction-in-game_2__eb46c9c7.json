@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_3VBA2NZf4MHvdCeJ4Rd53XRZ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM1ZCQTJOWmY0TUh2ZENlSjRSZDUzWFJaP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=F1D948c8%7Eym0iUHFyA9Vl5m83C5e-ZZ%7EZx1oSZ44ekV4dGPz2VJz%7EiTM8%7EQ48wLuLNjo5eGyd5OK2XuDcYSmdS1blFwYP8M278EjJqfI2LqwSDA5ZGq38-C%7Emd6P472fKp5nqdXHJ9F3nhdJ1L7-8W2Ogj48hqByOt6e-DT96VwPP7QVYoe8qymanlI7peX3ThK2TdjN8nUUcY65kwbhnTiBGPReioKhvc0mlJYnrsKOLh9Ete1peJA%7EjH9K%7ExjtY9bzKwP68LN-nT8uqeYeD9F%7EsnWsLijwW0OhRpeMcpEei8BGVR-GgwE2uft0S67-DArwQhhsBNbROPm4oexNkw__",
+  "job_id": "job_sepmUMTV3SBpAJqMLAJg1W48",
+  "asset_id": "asset_3VBA2NZf4MHvdCeJ4Rd53XRZ",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, top-down 3D view of a fully captured game board, 100% bright golden yellow (#FFD700) territory with magenta (#FF00FF) confetti particles bursting outward and faint cyan (#00BFFF) edge glow, vibrant minimalist 3D top-down with bright solid colors, on-screen text overlay 'Can YOU finish the map?' in bold white rounded sans-serif at bottom above a glowing Play Free button, victory celebration mood, mobile portrait ad",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

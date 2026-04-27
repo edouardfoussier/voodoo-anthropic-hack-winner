@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "376956d0fc6c9f8b",
+    "ad_unit_id": "376956d0fc6c9f8b",
+    "app_id": "55d93a4202ac645ad203fe75",
+    "advertiser_name": "Betclic Paris Sportifs & Poker",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b59f4fd036fad67/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b59f4fd036fad67/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b59f4fd036fad67/preview",
+    "phashion_group": "376956d0fc6c9f8b",
+    "share": null,
+    "first_seen_at": "2025-09-29T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Parie sur le meilleur du foot européen avec Betclic ! 🏆⚽️",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Dynamic motion graphics featuring football team logos and a 100€ betting offer.",
+    "visual_action": "Logos of major football clubs fly across a neon-lit stadium background while promotional text scales up in the center.",
+    "text_overlay": "JUSQU'À 100€ PARIE SUR L'EUROPE",
+    "voiceover_transcript": null,
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Logos of top European football clubs fly into the frame over a stylized stadium background.",
+    "The main offer of up to 100€ in free bets is revealed prominently in the center.",
+    "The call to action 'PARIE SUR L'EUROPE' appears with a 'Jen profite' button.",
+    "The animation loops with subtle movement of the background elements and team logos."
+  ],
+  "on_screen_text": [
+    "JUSQU'À 100€",
+    "PARIE SUR L'EUROPE",
+    "Jen profite",
+    "PARIS",
+    "MUN",
+    "LIV",
+    "R.MAD"
+  ],
+  "cta_text": "Jen profite",
+  "cta_timing_seconds": 0.5,
+  "palette_hex": [
+    "#E20613",
+    "#0055A4",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "French-speaking football enthusiasts interested in sports betting and European leagues.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001487
+}

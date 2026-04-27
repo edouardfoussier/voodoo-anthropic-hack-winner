@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "edc191b837c2bd37",
+    "ad_unit_id": "edc191b837c2bd37",
+    "app_id": "57d6bb900211a6b7290001a8",
+    "advertiser_name": "Merge Dragons!",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b09570bb9fc21881/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b09570bb9fc21881/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b09570bb9fc21881/preview",
+    "phashion_group": "edc191b837c2bd37",
+    "share": null,
+    "first_seen_at": "2026-03-05T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Check out new exciting events!🤩",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Text overlay promising free gifts followed by a hand unlocking a cute bear-shaped heart.",
+    "visual_action": "A hand taps a bear holding a heart lock, which then bursts open with rewards.",
+    "text_overlay": "FREE GIFTS are waiting for you",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Intro text overlay 'FREE GIFTS are waiting for you' over a floating island background.",
+    "A hand taps a bear-shaped heart lock to reveal hidden items.",
+    "A variety of cute, themed items and dragons pop out of the lock.",
+    "Final screen displays a collection of items with 'Play & Win' and 'Collect Them All!' text."
+  ],
+  "on_screen_text": [
+    "FREE GIFTS are waiting for you",
+    "Play & Win",
+    "Collect Them All!"
+  ],
+  "cta_text": "Collect Them All!",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#A8E6FF",
+    "#76C442",
+    "#FFD700"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual gamers who enjoy collecting cute aesthetics and relaxing merge-style puzzles.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001594
+}

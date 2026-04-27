@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "1c205671054a1eeb",
+    "ad_unit_id": "1c205671054a1eeb",
+    "app_id": "60a71ab403e99e432644143c",
+    "advertiser_name": "Matching Story",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032e3eb962a90344/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032e3eb962a90344/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032e3eb962a90344/preview",
+    "phashion_group": "1c205671054a1eeb",
+    "share": null,
+    "first_seen_at": "2026-03-31T00:00:00",
+    "last_seen_at": "2026-04-03T00:00:00",
+    "video_duration": 4.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A serene forest village scene with whimsical houses and vehicles driving on a winding road.",
+    "visual_action": "A green car and a blue bus navigate a road through a lush green forest filled with small, mossy-roofed houses.",
+    "text_overlay": "Matching Story",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Establishing shot of a whimsical forest village with vehicles driving through.",
+    "Reward icons for chests, gems, and lives appear at the top of the screen.",
+    "The crown counter increments as the vehicles continue their journey."
+  ],
+  "on_screen_text": [
+    "Matching Story",
+    "x500",
+    "10",
+    "11",
+    "12"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#2d5a27",
+    "#a8d5ba",
+    "#6d4c41"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual gamers who enjoy cozy, whimsical aesthetics and progression-based matching games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001134
+}

@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "340b22cb4d842920",
+    "ad_unit_id": "340b22cb4d842920",
+    "app_id": "6024d92ffc2aa03e6d63fad7",
+    "advertiser_name": "Umamusume: Pretty Derby",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/420dea728e0b29ca/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/420dea728e0b29ca/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/420dea728e0b29ca/preview",
+    "phashion_group": "340b22cb4d842920",
+    "share": null,
+    "first_seen_at": "2025-12-17T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Get an SSR Support Card ticket to celebrate Umamusume's win at TGA! Offer ends Jan 12!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A group of anime horse girls running towards the camera followed by a gameplay shot on a mobile device.",
+    "visual_action": "Anime horse girls running, transitioning to a hand holding a phone showing a character training.",
+    "text_overlay": "THE GAME AWARDS BEST MOBILE GAME",
+    "voiceover_transcript": "Kimi to...",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Intro showing a large cast of characters and a 'Best Mobile Game' award.",
+    "Gameplay demonstration of training a character on a mobile phone.",
+    "Transition to a racing scene showing the characters in action.",
+    "A concert performance scene highlighting the idol aspect of the game.",
+    "Final call to action with the game logo and download links."
+  ],
+  "on_screen_text": [
+    "THE GAME AWARDS BEST MOBILE GAME",
+    "Train your Umamusume!",
+    "SUCCESS!",
+    "Watch them race!",
+    "Celebrate with winning concerts!",
+    "Uma Musume Pretty Derby",
+    "Play Now!"
+  ],
+  "cta_text": "Play Now!",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#56B949",
+    "#D14D72",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Fans of anime and character collection games who enjoy simulation and idol-style performances.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00169
+}

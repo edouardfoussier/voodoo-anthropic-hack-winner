@@ -1,0 +1,67 @@
+{
+  "raw": {
+    "creative_id": "de4c5b5239280a1a",
+    "ad_unit_id": "de4c5b5239280a1a",
+    "app_id": "5e4b143dab3bcb7c8fa09fb1",
+    "advertiser_name": "Toca Boca Hair Salon 4",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7993205107e2259d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7993205107e2259d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7993205107e2259d/preview",
+    "phashion_group": "de4c5b5239280a1a",
+    "share": null,
+    "first_seen_at": "2026-03-27T00:00:00",
+    "last_seen_at": "2026-04-13T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Kids are going nuts for this! Bounce your truck off the trampoline to get smashed! Then repair it and take down the tower! 💥",
+    "button_text": "Shop Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy monster truck crash followed by a child's enthusiastic reaction.",
+    "visual_action": "A monster truck smashes into a toy tower, followed by a boy cheering and jumping.",
+    "text_overlay": "KIDS ARE GOING NUTS FOR THIS",
+    "voiceover_transcript": "Kids are going nuts for this. It's the new Monster Jam Smash & Bash",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "High-energy smash and child reaction hook.",
+    "Close-up demonstration of the truck jumping onto the tower's trampoline.",
+    "Showcase of the truck's 'smash' feature and the quick repair mechanism.",
+    "Launching the truck to completely topple the tower structure.",
+    "Closing shot of the happy child with the brand logo."
+  ],
+  "on_screen_text": [
+    "KIDS ARE GOING NUTS",
+    "FOR THIS",
+    "IT'S THE NEW MONSTER JAM",
+    "SMASH & BASH CRASH COURSE",
+    "THEY LAUNCH TRUCKS",
+    "AT THIS TRAMPOLINE",
+    "ON TOP OF THE TOWER",
+    "AND WHEN THEY BOUNCE OFF",
+    "THEY GET SMASHED",
+    "BUT CHECK THIS OUT",
+    "IT'S QUICK AND EASY TO REPAIR",
+    "THEN THEY SMASH THE TOWER",
+    "TO KNOCK IT DOWN",
+    "IF YOUR KIDS ARE MONSTER JAM FANS",
+    "THEY'LL LOVE THIS",
+    "MONSTER JAM"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#FFD700",
+    "#0047AB",
+    "#FF0000"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Parents of young children who enjoy high-energy, action-oriented toy vehicles and destruction play.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.002074
+}

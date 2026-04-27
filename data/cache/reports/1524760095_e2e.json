@@ -1,0 +1,348 @@
+{
+  "target_game": {
+    "app_id": "1524760095",
+    "name": "Roof Rails",
+    "genre": "Hypercasual",
+    "sub_genre": "Runner",
+    "core_loop": "Run forward, collect pole pieces to extend your balancing pole, use the pole to slide on rails between rooftops, and avoid obstacles that cut the pole.",
+    "audience_proxy": "Broad casual audience, appealing to all ages and genders looking for quick, accessible entertainment.",
+    "visual_style": "3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic.",
+    "palette": {
+      "primary_hex": "#5CD6FF",
+      "secondary_hex": "#EAF6FA",
+      "accent_hex": "#FFC824",
+      "description": "Bright cyan and blue cityscape with a stark white path and vibrant yellow and magenta accents."
+    },
+    "key_mechanics": [
+      "running",
+      "collecting",
+      "sliding",
+      "avoiding",
+      "balancing"
+    ],
+    "character_present": true,
+    "ui_mood": "energetic/competitive",
+    "screenshot_signals": [
+      "progress bar",
+      "diamond currency",
+      "level indicator",
+      "rails",
+      "collectible pole pieces",
+      "saw obstacles"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 16,
+    "num_phashion_groups": 16
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "satisfaction-in-game",
+      "label": "Satisfaction · in-game",
+      "member_creative_ids": [
+        "67a7083d6f23bd94"
+      ],
+      "centroid_hook": {
+        "summary": "Rapid-fire block placement clearing a full grid.",
+        "visual_action": "Green blocks are slotted into a grid at high speed until the board is full and clears.",
+        "text_overlay": "SMART GENIUS PSYCHOPATH",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#4CAF50",
+        "#FFEB3B",
+        "#3F51B5"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.704,
+      "derivative_spread": 1.0,
+      "freshness_days": 3.0,
+      "overall_signal_score": 3.132,
+      "rationale": "1 creatives across 1 unique advertisers, average age 3d (velocity source: sov). Hook representative: \"Rapid-fire block placement clearing a full grid.\""
+    },
+    {
+      "archetype_id": "curiosity-3d-render",
+      "label": "Curiosity · 3D-render",
+      "member_creative_ids": [
+        "9eb52675da998d86"
+      ],
+      "centroid_hook": {
+        "summary": "A dramatic crime scene investigation at night with police and forensics.",
+        "visual_action": "Police tape is stretched across a mailbox while a forensic photographer flashes a camera inside a house.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#1A1A2E",
+        "#FFD700",
+        "#8B4513"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.655,
+      "derivative_spread": 1.0,
+      "freshness_days": 5.0,
+      "overall_signal_score": 2.112,
+      "rationale": "1 creatives across 1 unique advertisers, average age 5d (velocity source: sov). Hook representative: \"A dramatic crime scene investigation at night with police and forensics.\""
+    },
+    {
+      "archetype_id": "fail-3d-render",
+      "label": "Fail · 3D-render",
+      "member_creative_ids": [
+        "a501f1d09aa3b810"
+      ],
+      "centroid_hook": {
+        "summary": "A cat jumps on a keyboard, causing a man to fall over.",
+        "visual_action": "An orange cat leaps onto a computer desk, startling a man who falls backward in his chair.",
+        "text_overlay": "Gardenscapes",
+        "voiceover_transcript": null,
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#76B900",
+        "#00AEEF",
+        "#F7941D"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.353,
+      "derivative_spread": 1.0,
+      "freshness_days": 381.0,
+      "overall_signal_score": 0.911,
+      "rationale": "1 creatives across 1 unique advertisers, average age 381d (velocity source: sov). Hook representative: \"A cat jumps on a keyboard, causing a man to fall over.\""
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "label": "Curiosity · animation",
+      "member_creative_ids": [
+        "0d364815e2ca3d52",
+        "e6e407c8d6232949",
+        "93435c4f71f85343"
+      ],
+      "centroid_hook": {
+        "summary": "Cross-section reveal of a secret underground bunker beneath the Eiffel Tower.",
+        "visual_action": "A detailed 2D illustration of a multi-level bunker is shown beneath a landmark, transitioning to other locations.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#2C3E50",
+        "#5C4033",
+        "#4A5D23"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.17,
+      "derivative_spread": 1.0,
+      "freshness_days": 240.0,
+      "overall_signal_score": 0.849,
+      "rationale": "3 creatives across 3 unique advertisers, average age 240d (velocity source: sov). Hook representative: \"Cross-section reveal of a secret underground bunker beneath the Eiffel Tower.\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "bdf6fd7b1032fa14",
+        "5ba7458dea1165c1",
+        "f8b53e0f8d3ee77a"
+      ],
+      "centroid_hook": {
+        "summary": "A hand clears colorful buses from a crowded lot while a voiceover asks about relaxation.",
+        "visual_action": "A hand with a stylus moves buses out of a grid to clear a path.",
+        "text_overlay": "Hey! Played a game that Actually makes you Feel relaxed?",
+        "voiceover_transcript": "Hey! Have you ever played a game that actually makes you feel relaxed?",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#D9E8FB",
+        "#FF7F50",
+        "#20B2AA"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.908,
+      "derivative_spread": 1.0,
+      "freshness_days": 80.7,
+      "overall_signal_score": 0.806,
+      "rationale": "3 creatives across 3 unique advertisers, average age 81d (velocity source: sov). Hook representative: \"A hand clears colorful buses from a crowded lot while a voiceover asks about rel\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "satisfaction-in-game",
+      "visual_match": 25,
+      "mechanic_match": 15,
+      "audience_match": 70,
+      "overall": 28,
+      "rationale": "Audience overlap is real (broad hypercasual satisfaction-seekers), but mechanically this is a block-placement/grid-fill puzzle hook with zero relationship to Roof Rails' running, pole-extending, rail-sliding loop — recreating it would require fabricating gameplay that doesn't exist in the app, risking misleading-ad flags. Palette (green/indigo/yellow) also clashes with the cyan/pastel cityscape DNA. Skip a direct copy; if the team wants to chase the \"satisfaction\" emotional pitch, adapt it natively via rapid pole-piece pickup montages or rail-slide combo clears with a \"GENIUS/PSYCHOPATH\" tier overlay."
+    },
+    {
+      "archetype_id": "curiosity-3d-render",
+      "visual_match": 12,
+      "mechanic_match": 8,
+      "audience_match": 35,
+      "overall": 15,
+      "rationale": "Severe mismatch: the dark crime-scene aesthetic (#1A1A2E/gold/brown, night, forensic tone) directly contradicts Roof Rails' bright pastel cyan minimalist look, and there is no plausible bridge from \"police tape and forensics\" into a pole-balancing rooftop runner — any transition would feel like a bait-and-switch and risk store policy flags. Audience skews toward narrative/mystery/casual-puzzle viewers rather than pick-up-and-play hypercasual runners, and the cluster is tiny (1 creative, 1 advertiser) so there is no validated demand signal. Recommend skip; do not greenlight a Roof Rails adaptation of this archetype."
+    },
+    {
+      "archetype_id": "fail-3d-render",
+      "visual_match": 20,
+      "mechanic_match": 10,
+      "audience_match": 45,
+      "overall": 22,
+      "rationale": "This is a Gardenscapes-style live-action/3D fail hook with a cat-and-pratfall gag — it has zero mechanical overlap with Roof Rails' pole-balancing rooftop runner loop, and showing a desk/office scene wastes the chance to demo collectible pole pieces and saw obstacles. Palette (greens/oranges) and indoor setting also clash with the bright cyan minimalist cityscape DNA. Only the broad casual audience modestly overlaps; recommend skipping unless reframed as a 3D-rendered \"fail-then-win\" gag where the character's pole gets cut short — otherwise irrelevant for this title."
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "visual_match": 15,
+      "mechanic_match": 10,
+      "audience_match": 55,
+      "overall": 22,
+      "rationale": "Major friction across the board: the archetype's dark, earthy palette (navy/brown/olive) and detailed 2D illustrated cross-section style is the polar opposite of Roof Rails' bright pastel 3D minimalism, and a static landmark reveal communicates none of the run/collect/slide loop that drives install intent for this title. Audience overlap is only mildly plausible since curiosity hooks travel well in broad casual, but without a credible narrative bridge to pole-balancing rooftop runs the concept will mislead users and tank retention. Recommend skipping unless the team can prototype a hybrid where the cross-section reveals a stacked-rooftop course — otherwise reallocate budget to gameplay-forward or satisfying-fail archetypes."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 35,
+      "mechanic_match": 20,
+      "audience_match": 70,
+      "overall": 32,
+      "rationale": "The \"relaxing bus jam\" satisfaction hook is a puzzle/sort archetype that fundamentally misrepresents Roof Rails' fast-paced runner core loop — there are no rails, pole-balancing, or forward motion in the hook, so installs would be heavily mismatched and D1 retention would suffer. Palette is adjacent-casual but the coral/teal mix clashes with the game's signature cyan-and-yellow rooftop aesthetic, and the \"relaxed\" emotional pitch directly contradicts the game's energetic/competitive UI mood. Audience overlap (broad casual, all ages/genders) is the only real bridge; recommend skipping unless we test a hybrid where the bus-clearing hook hard-cuts at 3s into authentic rail-sliding gameplay."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-in-game",
+        "target_game_id": "1524760095",
+        "title": "GENIUS → PSYCHOPATH Pole Combo",
+        "hook_3s": "Pole explodes from 3 to 30 pieces in a cyan blur as the runner rockets onto a glowing rail — tier label snaps from SMART to PSYCHOPATH.",
+        "scene_flow": [
+          "0–2s: Tight over-shoulder on the runner sprinting down the white rooftop path; first burst of yellow pole pieces vacuums into the pole — overlay flashes 'SMART'.",
+          "2–6s: Rapid-fire pickup montage — pole extends frame-by-frame as dozens of pieces snap on in rhythm; counter ticks 8 → 17 → 26. Overlay flashes 'GENIUS'.",
+          "6–10s: Runner launches onto a long cyan rail spanning two skyscrapers, pole balancing perfectly while saw obstacles shave off pieces in satisfying chunks but the pole survives. Overlay: 'GENIUS+'.",
+          "10–13s: Mega-clear moment — pole slams into a wall of diamonds, screen pops with yellow/magenta confetti, 'PSYCHOPATH' overlay slams in.",
+          "13–15s: Cut to level-complete screen with diamond payout and progress bar filling; CTA card 'PLAY FREE' over the cyan skyline."
+        ],
+        "visual_direction": "Lean fully into Roof Rails' 3D minimalist DNA: stark white rooftop runway, bright cyan (#5CD6FF) sky and rails, pastel cyan (#EAF6FA) building blocks, vibrant yellow (#FFC824) pole pieces and diamond bursts. Camera stays at the signature Roof Rails over-shoulder/low-chase angle. Cuts are punchy and on-beat to sell the rapid-fire satisfaction pitch borrowed from the block-clear archetype, but every visual is native gameplay — no fabricated mechanics. Tier overlays use bold sans-serif white type with a yellow flash, slamming in on impact frames.",
+        "text_overlays": [
+          "SMART",
+          "GENIUS",
+          "GENIUS+",
+          "PSYCHOPATH",
+          "Can you hit Tier 4?",
+          "PLAY FREE"
+        ],
+        "cta": "PLAY FREE",
+        "rationale": "Voodoo's current Roof Rails rotation is all unlabeled video + a playable with no copy hook — they own the mechanic but ship zero emotional/tier-label framing. This brief imports the trending 'SMART → GENIUS → PSYCHOPATH' satisfaction-tier overlay (the winning archetype) and grafts it onto authentic pole-pickup and rail-slide footage, giving UA a fresh thumb-stopping text hook without fabricating gameplay. Test against the existing copy-less videos as the control; expect lift on IPM from the tier-escalation curiosity loop.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, authentic Roof Rails in-game screenshot: low over-the-shoulder chase camera on a faceless minimalist runner sprinting down a stark white rooftop path, balancing an extremely long horizontal yellow (#FFC824) pole studded with collectible pole-piece segments, mid-slide entering a glowing cyan (#5CD6FF) rail that stretches between two pastel cyan (#EAF6FA) skyscraper blocks, tiny diamond currency icons floating along the path, top-left progress bar and level indicator HUD, bold white sans-serif overlay text 'PSYCHOPATH' slamming center-frame with a yellow flash, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, bright cyan sky, no clutter, no fabricated UI",
+          "Storyboard frame 1, aspect 9:16, authentic Roof Rails in-game screenshot: rapid-fire pole-piece pickup moment, runner on a white rooftop path with a stream of yellow (#FFC824) pole pieces snapping onto the horizontal pole in motion-blurred sequence, pastel cyan (#EAF6FA) building geometry and bright cyan (#5CD6FF) sky background, native Roof Rails HUD with progress bar and diamond counter, bold white overlay text 'GENIUS' centered with a yellow flash, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic",
+          "Storyboard frame 2, aspect 9:16, authentic Roof Rails in-game screenshot: long cyan (#5CD6FF) rail slide between two skyscrapers, runner balancing an extended yellow (#FFC824) pole, a spinning saw obstacle ahead about to shave off pole segments, pastel cyan (#EAF6FA) rooftops, native progress bar and level indicator HUD, bold white overlay text 'Can you hit Tier 4?' near the top, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_TTyEbDPRteSaCiniXHFZQUWg?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVFR5RWJEUFJ0ZVNhQ2luaVhIRlpRVVdnP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=bXyOeNjovaeL%7EuT23yVD8FNJmaAomDkv0vGrHXt0v0ls-lVgGuy54E10s60f3L6Imu4njp9ohAQpK0UiUZhh--ihBokMvOaI8cgGB8BrbQKNtnYbqDmpYX9EKDOgHholuWKvQBgaGFJejs%7ELwAvrThCn4SjtOjCHLAl6xkLzu46NQdD6t-nmzR67IOW57QvSIZnmZPm4Cj45VDAjrYBiKSsgSZSYK-zqo0ExHymL1GELdpUP71-55DdpuV29ZgRQogxzp25BTzcgUyYnF52EkTQyLU7VT-Wv1oWyC2VtoQShPwu7X13nTXTXA5OnpCgjCMDo5eWCkNR-9kSCCZTbwQ__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_8f5PySnst2GwBH2SXmqbidig?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOGY1UHlTbnN0Mkd3QkgyU1htcWJpZGlnP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=HJ7s1mDrdMkAafNSwrkKOIdcJK0lH-Wt8cbF3p%7ERnW9rD2JRo9pUES8Ph5N%7ExgdWOOMxG0rFK7D3g-D5ZWfi%7EkErZQtfiIqI2POs22UxXlxF93EPxXRex-0dSd%7EoTZ1T04A1Yj9vJx0CGuagK64dBHOAcTUMApl%7EBtacDWKj%7ElrTMt0QbW8ZuWvL4XNEX5aeKyNXLzs5PBs%7E--tvCcOsI8npp5FA%7E3vk98Nh4MyDcyaSz7qWtrE72EO9txpx28nd0lYwzkpvQ33D6OESJZnXL1AOrTfMXR-HgvurWTADGGXVCdN8muB-hZGF9n99hwllZfkzKn-cI6Amf0pIGgjl7A__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_u16nDbQcoSs4w2gqvHTJLqQF?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdTE2bkRiUWNvU3M0dzJncXZIVEpMcVFGP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=fmcA43PeLlRc61z7qW3tdDBhR5m3DOoOU1CguB7GsrR2SyVkdw8MGt63REAcUkjo2D6IrKHh26ACO0Nx4YBNJTsKe3zj%7EuAz%7EfrVlZahc4Y8cIxRgthdyqtu-ES9%7E9stn7jWKyKKA2maulhA-%7EVLwfULcXK30TXnmHyOASf8ePtjqXY1qGY8ridKIR79Ad5GtWAT2ue2y0is4Bep5RzV3aYiyVYcZV8JCuH%7ESgqqJopeos40OAhp7%7ELs255QZfP-S8HlpwKUQjVSCXJRPhIHLIyB-VKoZ59ZfBnxXzmxFmvnzwYO3F3ArQkrGXLkART9sV4ifgZ9WZQjo7j70IQtPQ__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=3.13 × game_fit=28/100 ⇒ priority=0.88"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "1524760095",
+        "title": "\"Ever Played Something This Satisfying?\" — Roof Rails Pole-Stack ASMR",
+        "hook_3s": "A whispered \"Have you ever played a game THIS satisfying?\" as a giant pole snaps onto the runner mid-stride, then carves a long shimmering slide across a cyan rooftop rail.",
+        "scene_flow": [
+          "0–3s HOOK: First-person-ish over-shoulder view; voiceover asks 'Ever played a game that actually feels THIS satisfying?' as the character grabs a cluster of yellow pole pieces — pole telescopes outward with a crisp click-click-click SFX.",
+          "3–7s ESCALATION: Character mounts a long white rail between two pastel skyscrapers; pole balances horizontally, sparks of cyan trail behind. Diamond counter ticks up rapidly. Overlay: 'wait for it…'",
+          "7–11s PAYOFF: A saw obstacle clips the pole shorter — gasp moment — then a pickup pile re-extends it to absurd length, sliding across THREE rails in one combo. Big yellow '+250' burst.",
+          "11–14s VARIETY: Quick montage of three rooftop sections (sunset pastel, cyan noon, magenta accent) all cleared in one unbroken slide — emphasizes the 'relaxing flow state' promise.",
+          "14–15s CTA: Game logo snaps in over a final perfect landing; tap-to-play finger pulse on screen."
+        ],
+        "visual_direction": "Lean hard into Roof Rails' signature 3D minimalist look: stark white rooftop path, #5CD6FF cyan sky and building blocks, #EAF6FA off-white surfaces, #FFC824 yellow pole pieces and diamond pickups as the visual heroes. Camera stays in the authentic chase-cam runner POV — never break to a hand/stylus puzzle frame (that's the source archetype's mistake). Add subtle ASMR-style polish: slight motion blur on slides, satisfying particle pops on each pole-piece pickup, soft shadow under the runner. UI chrome (top progress bar, diamond counter top-right, level indicator) stays exactly as in-game so the ad reads as authentic gameplay, not a render.",
+        "text_overlays": [
+          "Ever played a game THIS satisfying?",
+          "wait for it…",
+          "longer pole = longer slide",
+          "+250 💎 COMBO!",
+          "Your turn 👇"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Roof Rails rotation is 100% wordless gameplay videos plus one playable — they have ZERO voiceover-led \"satisfaction question\" hooks, which is the fastest-growing archetype in the casual scan (3 advertisers, 81d avg age). This brief imports the proven VO question-hook and ASMR pacing but anchors it to authentic rail-sliding footage, fixing the puzzle/runner mismatch flagged in game-fit. UA should test against the existing silent-gameplay videos on Applovin first; expect higher 3s hold-rate from the VO question and similar IPM from preserved core-loop fidelity.",
+        "scenario_prompts": [
+          "Hero frame, 9:16 vertical aspect ratio, authentic in-game Roof Rails moment: third-person chase camera behind a small stylized 3D minimalist runner character sliding along a long thin white rooftop rail between two pastel cyan skyscrapers, holding a horizontal balancing pole made of stacked bright yellow #FFC824 segments extending far to both sides, glowing yellow pole-piece pickups floating ahead in a line, soft cyan #5CD6FF sky, off-white #EAF6FA rooftop surfaces, clean uncluttered 3D minimalist style with simple geometry and bright pastel colors, in-game HUD visible: top progress bar, diamond currency counter top-right, level indicator, on-screen text overlay 'Ever played a game THIS satisfying?' in bold white sans-serif at top center, no stylus, no hand, no puzzle grid",
+          "Storyboard frame 2, 9:16 vertical, authentic Roof Rails gameplay still: same minimalist runner mid-slide across a rail, a spinning grey saw obstacle ahead about to clip the yellow balancing pole, motion lines and small cyan spark particles, pastel cyan #5CD6FF cityscape background with simple block buildings, white #EAF6FA rail and rooftops, accent yellow #FFC824 pole and diamond pickups, clean 3D minimalist simple geometry bright pastel uncluttered aesthetic, in-game HUD: progress bar top, diamond counter, level number, large overlay text 'wait for it…' centered in white, faithful to Roof Rails IP screenshots, no extra characters",
+          "Storyboard frame 3, 9:16 vertical, authentic Roof Rails payoff moment: runner mid-air between two rooftops with an extremely long yellow #FFC824 stacked pole stretching across the frame, trail of collected yellow pole pieces and floating diamond gems behind, two more white rails visible ahead chaining into the distance, bright cyan #5CD6FF sky, pastel #EAF6FA building tops, 3D minimalist simple geometry clean uncluttered bright pastel style, in-game UI chrome intact (progress bar, diamond counter top-right, level indicator), big yellow burst overlay text '+250 COMBO!' in bold rounded font, reads as a real Roof Rails screenshot not a render"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_UqqEkDsytCcG1NRn8r15bb8F?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVXFxRWtEc3l0Q2NHMU5SbjhyMTViYjhGP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=G6kOOPiVKfvAGH29rbuVI5YZcszrS3kcw0o2XXNO9rdQICDR4pZIzoX2rFyhgN6rqiqCO1Sq1RY6ykBvk9IQfgm2xF5AkjNFEfTp5liKiAgbsTCwDzWNGAb3Fhw8Zv3IQPKdCunRqi%7EqTD7xQhylsD5u5-HShd-vJhqpZkgaVx8yYWvt%7EF0Hc3JD9rfpuTlvGaGbgCPSzNr0%7EhbwKQJMpjDin8A%7EgAwU69j4JS13xwcVqmUwZgkfuBrFHYAHJj4VjFcFoS5Pt5jax-7Y3YxLJ7PtD0UFA6KH1BsGyYTzog13QdvB7bb0aFWtakQEeFSPmIpUMpUP7o5oda09xaS3dw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_JuWM6QXAGfJ3ZTFPaSknvBG6?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSnVXTTZRWEFHZkozWlRGUGFTa252Qkc2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=XQ1ytxUr97EvVHzSErTDhgIFvOkh02yzO24vGbw3JV1c3hCqUBN1Pkd7sOV6fCjVZyPJa3lO1gYqUiGvPBO2U4rPQ61TPXq61N92sUgK00ZOz5oAIsIV1tFehrj%7Ei%7EMSgDyjgTsckyIgvRibB6uegpM1m-jNmko9Q9OImBKEGoKBSVY505QwwVo2s8%7E2ssURUYjI8oNUoOIve2hhEtuzmB%7EqeUBWVNyouAc5zARoofgk5sSLLKmfCAhTJ4gRlBXvYzY7-Aex47XvoY8WnSXQtUTyt8kPgaYswnIZ-Tlh69FlzXWkavKjRhkfM3IBYdAugIy2---jcYOJmahxgBVjTA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_8mrMt4vSbUvyRJkdhaMY1gDv?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOG1yTXQ0dlNiVXZ5UkprZGhhTVkxZ0R2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=FL5NQyx4OwIe%7Eg%7EDgQbM3YEIiicxm5Jg423BdNPQnLfrpyoMkWR32VTkDHfD4nJ6YHNDVChzx2wsKkt6y%7E4uhRydBhcbtCG4-MCpr0rDVqubUsT7pQrbQEHISEcKENXghYY3rxTYG2lyN6EFhdia0Qx0hwKsrkCzL9MnaJr3qOmj2v1D31tJ-TEdogOUJ8qyzSckGGacXG9z1-PNwNOJ7CzR3l2xdONCv-e124T-Dmdd7dYemXEUtBwq5b5hwgznvHuWGO6Edp4zUm-aeFcLU8sX%7EDxMX3WzvbxVPwIrMcC5hQdQkubvdPzUaCkkKecQCMN3uPNrfcL6DvG2FzRBzg__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.81 × game_fit=32/100 ⇒ priority=0.26"
+    },
+    {
+      "brief": {
+        "archetype_id": "fail-3d-render",
+        "target_game_id": "1524760095",
+        "title": "Pole Too Short?! — Fail-to-Win Rooftop Run",
+        "hook_3s": "A spinning saw slices the pole down to a stub mid-slide — the runner wobbles over a cyan skyline canyon as the screen freezes on \"OH NO!\"",
+        "scene_flow": [
+          "0-3s: Cold open mid-run on a white rooftop rail; a buzzing yellow saw swings in and SHEARS the pole down to a tiny stub. Freeze-frame wobble, comedic 'OH NO' overlay.",
+          "3-7s: 'Fail' replay — character teeters, slow-mo drop between two pastel skyscrapers. Big red 'DON'T DO THIS' stamp.",
+          "7-11s: Rewind whoosh. This time a finger-tap drags the runner through a stream of glowing pole pieces; the pole grows comically long, magenta sparkles trailing.",
+          "11-14s: Triumphant slide across THREE connected rails, ducking saws, diamonds vacuumed up, level bar fills to MAX with a satisfying chime.",
+          "14-15s: Logo lockup on cyan sky, CTA pulses."
+        ],
+        "visual_direction": "Lock to Roof Rails' signature 3D minimalist look: chunky low-poly rooftops, stark #EAF6FA white paths, #5CD6FF cyan sky gradient, #FFC824 yellow accents on pole pieces and saws, magenta diamond pickups. Soft global lighting, no textures — just clean flat shading. Camera is the standard behind-the-shoulder Roof Rails follow-cam with a slight Dutch tilt on the fail beat for comedy. Keep HUD authentic: top-left diamond counter, top-center level progress bar, level indicator pill. Saw obstacles are flat yellow discs with triangular teeth, exactly as in-game.",
+        "text_overlays": [
+          "OH NO!",
+          "Pole too short 😱",
+          "DON'T DO THIS",
+          "Tap to grab MORE →",
+          "MAX POLE = WIN",
+          "Can YOU finish it?"
+        ],
+        "cta": "PLAY FREE",
+        "rationale": "Voodoo's current Roof Rails rotation is almost entirely no-copy gameplay videos and a single playable — there is zero \"fail-first / wrong-way vs right-way\" comedic framing in market, even though Fail · 3D-render is a proven scroll-stopper across casual UA. This brief imports that emotional pitch but anchors it to Roof Rails' actual saw-cuts-pole moment, so the hook is on-mechanic (no Gardenscapes cat detour) and the \"DON'T DO THIS → DO THIS\" structure doubles as a tutorial, lifting IPM for low-intent broad-casual traffic.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, in-game screenshot of Roof Rails: behind-the-shoulder view of a runner mid-slide on a stark white #EAF6FA rooftop rail between two low-poly pastel skyscrapers, bright cyan #5CD6FF sky gradient, a flat yellow #FFC824 circular saw with triangular teeth slicing the long balancing pole in half, glowing yellow pole-piece collectibles floating ahead, magenta diamond pickups, authentic HUD with top-center progress bar and top-left diamond counter and level indicator pill, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, bold white sans-serif on-screen text 'OH NO!' centered, no textures, soft global lighting",
+          "Storyboard frame 2, aspect 9:16, in-game Roof Rails moment: runner with a comically long horizontal balancing pole sliding across THREE parallel white rails connecting cyan #5CD6FF rooftops, a stream of yellow #FFC824 pole-piece collectibles being absorbed, magenta diamonds sparkling, two yellow saw obstacles dodged behind, top-center level progress bar nearly full, diamond counter visible top-left, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, on-screen text 'MAX POLE = WIN' in chunky yellow caps, clean #EAF6FA path, no textures",
+          "Storyboard frame 3, aspect 9:16, freeze-frame fail beat in Roof Rails: stubby cut-off balancing pole, runner teetering at the edge of a white #EAF6FA rooftop rail with a deep drop between pastel low-poly buildings under a #5CD6FF cyan sky, severed yellow pole pieces tumbling, slight Dutch-tilt camera, authentic HUD intact with progress bar and #FFC824 yellow level indicator, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, red stamp text 'DON'T DO THIS' overlaid, no textures, soft shadows"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_3Qzze1w8cvcLxqYz5PyVMBf6?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM1F6emUxdzhjdmNMeHFZejVQeVZNQmY2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=L0863nnQ4ryKK4Z2r1x%7EkGLZcbDogiJodhwqaC9F61RhQu0Rauqd6o9afKfCinFcj1syprqirOeYeE4%7EtgX6S5G4MeL-fnfWe9zL9Op6rKBFJR80TVEFcaaK7Cf7a7XSwM5YeQJ8kQs9ttENFamcRb7I9jB4R5kPrZ29DNzDn08CHrsUi99ExBelT3iex16FnOnRC8u7rfTvStuF24UnZ8U%7EXKmhVefVYq-xKoOyUZoNLmaj8ATYVZzLX4ybJZCRCjRjvN96HTAAP-oh0dNiMAGry%7E3Xr-0y4zBE%7EVzMvEHV5I0knVyLAR%7EBQ4vGx2bGkjJ3KgcJDoecSfREGXvYOA__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_Q9NswEzWhNfJVQkBQ3beYjMq?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUTlOc3dFeldoTmZKVlFrQlEzYmVZak1xP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ilSWY00qZcHo4XoMKPCn57QZFLH4Jwk8dYJdmCQ4dL5W3Am-4yoOfcYOJFkia%7EE30K33WraxHOuCBCN%7EsfDXt7S7rUHEBbADfFwWgCluzcTmPtbmOhnrQSD97WBTMdsJ2B9Ho0io5GySwPd1paoNL-pMIMosqiS2INozvNBP0U1rY59zo5tnIuWPr6PxWaqwPOwvjM7PvnbI9QfeQFLRL36kru5W0VIbt1vCM9m7OIKoGHTDvEsTUghrTOlasBPlBx4mGqnmqKQN8Uo52S5SW7nL3FUEMvRKuWGrUDZpB7-ZbVs91B648e5XbTia%7EAmgrrg0CJ%7E7ODbjlJX37KIN3Q__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_ECVGsodYCL1Y31uKQrv1Wvxz?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRUNWR3NvZFlDTDFZMzF1S1FydjFXdnh6P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ZvOW37pUDycMgdAaDwvnfqbyzCpCO3KL3Ya5a-XpZB83Hh9PaDiZVyBJZya-FBoO1OhXQkXju8nMgR5SagjurxheFuqnc8elGihle2aBNGnci1Ld8JCs9YHUC2kDKoU1gzByhQAyucBc8yPPpA2-3fkW8SXWcfE6fVH-ZqyNjCQTxZzww%7Eye1nH0uSA5epfgcg2hB9Bo0KxBy9pgpzHu8NhuiNw-pIRA9IS5SIw-b7L4UJGH-fjib5XdipxaF-YGnSaDJMbgXjnLcitluGdc1qrCa40AInQMp8A0aLbtnsztQjSc50SHQEbeTCQeWn0ksAjKhCu4xjcShvXWwIUWyg__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.91 × game_fit=22/100 ⇒ priority=0.20"
+    }
+  ],
+  "pipeline_duration_seconds": 634.2249467500042,
+  "total_cost_usd": 0.024312,
+  "generated_at": "2026-04-26T04:26:13.743708Z"
+}

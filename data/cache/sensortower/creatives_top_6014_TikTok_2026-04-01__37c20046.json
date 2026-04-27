@@ -1,0 +1,156 @@
+{
+  "count": 546,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "197ba02e72c45d92",
+      "app_id": "62953454fd69866b6a658256",
+      "network": "TikTok",
+      "phashion_group": "197ba02e72c45d92",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-02",
+      "last_seen_at": "2026-03-31",
+      "creatives": [
+        {
+          "id": "197ba02e72c45d92",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bf296f5ba267b01/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bf296f5ba267b01/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bf296f5ba267b01/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "button_text": "En savoir plus",
+          "message": "Mille fa\u00e7ons de jouer"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "62953454fd69866b6a658256",
+        "canonical_country": "JP",
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b MOBILE",
+        "publisher_name": "Square Enix",
+        "publisher_id": "560c82cc8ac3506439032f71",
+        "humanized_name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b MOBILE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/fb/e2/b0fbe222-a7bd-c203-0843-98ca5996a123/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "62953454fd69866b6a658256",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c3052643a8fe26dc",
+      "app_id": "62953454fd69866b6a658256",
+      "network": "TikTok",
+      "phashion_group": "c3052643a8fe26dc",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-13",
+      "last_seen_at": "2026-03-31",
+      "creatives": [
+        {
+          "id": "c3052643a8fe26dc",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d626d42b1906d4f9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d626d42b1906d4f9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d626d42b1906d4f9/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "button_text": "Jouer",
+          "message": "Jouez et vivez votre histoire. Gratuitement."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "62953454fd69866b6a658256",
+        "canonical_country": "JP",
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b MOBILE",
+        "publisher_name": "Square Enix",
+        "publisher_id": "560c82cc8ac3506439032f71",
+        "humanized_name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b MOBILE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/fb/e2/b0fbe222-a7bd-c203-0843-98ca5996a123/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "62953454fd69866b6a658256",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "dd1c6e5d2aad69af",
+      "app_id": "6322100abd16da6f1e6d7ec2",
+      "network": "TikTok",
+      "phashion_group": "dd1c6e5d2aad69af",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-28",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "dd1c6e5d2aad69af",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/005e2f5ef9304298/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/005e2f5ef9304298/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/005e2f5ef9304298/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "Harder than you think!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6322100abd16da6f1e6d7ec2",
+        "canonical_country": "US",
+        "name": "Carnival Tycoon: Coin Games",
+        "publisher_name": "Wild Candle Spin",
+        "publisher_id": "67d8436d9cf8c3ab19aa4ef2",
+        "humanized_name": "Carnival Tycoon",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/fd/15/4bfd156f-d0b6-ef36-5a69-17fe00730df9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6322100abd16da6f1e6d7ec2",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "86ac9a16b9469fb3",
+      "app_id": "55ea2eb392e74c8309005260",
+      "network": "TikTok",
+      "phashion_group": "86ac9a16b9469fb3",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-11",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "86ac9a16b9469fb3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0108a4f7e1e69551/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0108a4f7e1e69551/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0108a4f7e1e69551/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "In-game event now live!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55ea2eb392e74c8309005260",
+        "canonical_country": "US",
+        "name": "Star Wars: Galaxy of Heroes",
+        "publisher_name": "Electronic Arts",
+        "publisher_id": "56289c8802ac6486a700139c",
+        "humanized_name": "Star Wars: Galaxy of Heroes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/29/e0/5e29e082-b5a1-5dc6-d321-81c6861f6205/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55ea2eb392e74c8309005260",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

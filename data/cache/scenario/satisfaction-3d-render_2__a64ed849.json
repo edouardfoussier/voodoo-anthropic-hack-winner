@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_8AKvAsfbA61QtPKR31i1grvT?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOEFLdkFzZmJBNjFRdFBLUjMxaTFncnZUP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VEzgUI0jwy-heLUX1yILOaYbhRbpMwc4vfE0SzKoIMcVXrHSzPf5TxbRiLsOKhE26l-zzvSmXOKcl2RBVCam1BRBiMG6eXfiVPC%7ExMNi90HGYUOJdKQtFMY34JspFVbvDXllM0Y2VrHZVQlqTYLUwrBuGleXC-JjoA47G0EYRLzJQZa-o-dh-uf9zHiLO0EKv3zX%7EgqoUUVTkFfsA5BXQ2yEMYyMkE7xHvVIgpR7fv2iM9oHgI9jGm%7ElblXeHYtCMQ-wYKBzGWck8HLSkImWQWxtKuevh99qsvHlx%7EAj0P3qGmeAtvDYv4w8RmUYYTrv3PrFpdOnAY9RW-PRVy4tDg__",
+  "job_id": "job_TanSwGfqrQnLZZqoddMY7kMB",
+  "asset_id": "asset_8AKvAsfbA61QtPKR31i1grvT",
+  "stub": false,
+  "prompt": "Storyboard payoff frame, aspect 9:16, completed pixel-art smiling sun made entirely of colored sand grains glowing in the center of the screen with golden confetti bursting outward, sky-blue #4A90E2 backdrop, #FFFFFF rays of light, #FFD700 confetti and sparkle FX, joyful satisfying mood, on-screen text 'Reveal the picture!' in bold rounded white sans-serif, 3D stylized objects with vibrant colors and pixel-art sand compositions.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

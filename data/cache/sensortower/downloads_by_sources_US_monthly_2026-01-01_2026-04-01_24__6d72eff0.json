@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "app_id": "5f334673cf6948627ddd4d8b",
+      "breakdown": [
+        {
+          "date": "2026-01-01",
+          "organic_abs": 16937,
+          "organic_browse_abs": 5542,
+          "organic_search_abs": 11395,
+          "browser_abs": 3483,
+          "paid_abs": 9394,
+          "paid_search_abs": 0,
+          "organic_frac": 0.568089,
+          "organic_browse_frac": 0.185886,
+          "organic_search_frac": 0.382203,
+          "browser_frac": 0.116824,
+          "paid_frac": 0.315087,
+          "paid_search_frac": 0
+        },
+        {
+          "date": "2026-02-01",
+          "organic_abs": 11927,
+          "organic_browse_abs": 3714,
+          "organic_search_abs": 8213,
+          "browser_abs": 2181,
+          "paid_abs": 6294,
+          "paid_search_abs": 0,
+          "organic_frac": 0.5846,
+          "organic_browse_frac": 0.182041,
+          "organic_search_frac": 0.402559,
+          "browser_frac": 0.106901,
+          "paid_frac": 0.308499,
+          "paid_search_frac": 0
+        },
+        {
+          "date": "2026-03-01",
+          "organic_abs": 13959,
+          "organic_browse_abs": 4319,
+          "organic_search_abs": 9640,
+          "browser_abs": 1978,
+          "paid_abs": 8055,
+          "paid_search_abs": 0,
+          "organic_frac": 0.581819,
+          "organic_browse_frac": 0.180018,
+          "organic_search_frac": 0.401801,
+          "browser_frac": 0.082444,
+          "paid_frac": 0.335737,
+          "paid_search_frac": 0
+        },
+        {
+          "date": "2026-04-01",
+          "organic_abs": 12379,
+          "organic_browse_abs": 3919,
+          "organic_search_abs": 8460,
+          "browser_abs": 1516,
+          "paid_abs": 7039,
+          "paid_search_abs": 0,
+          "organic_frac": 0.591335,
+          "organic_browse_frac": 0.187207,
+          "organic_search_frac": 0.404127,
+          "browser_frac": 0.072418,
+          "paid_frac": 0.336247,
+          "paid_search_frac": 0
+        }
+      ]
+    }
+  ]
+}

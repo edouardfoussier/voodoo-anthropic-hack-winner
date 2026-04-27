@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "0f1d08a2d1f37cb0",
+    "ad_unit_id": "0f1d08a2d1f37cb0",
+    "app_id": "559edb17d2a0f9042f002a52",
+    "advertiser_name": "Casino Roulette: Roulettist",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/84b1c1ba25362fd4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/84b1c1ba25362fd4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/84b1c1ba25362fd4/preview",
+    "phashion_group": "0f1d08a2d1f37cb0",
+    "share": null,
+    "first_seen_at": "2026-02-06T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Boost your skills",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Placing bets on a digital roulette board followed by a close-up of the spinning wheel.",
+    "visual_action": "The camera shows a top-down view of a roulette board with chips being placed, then cuts to a 3D view of the spinning wheel.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Digital interface showing chips being placed on a roulette table.",
+    "Close-up of the roulette wheel spinning and the ball landing on number 26.",
+    "Winning notification appears on screen with a voiceover confirmation.",
+    "A more cinematic, golden roulette wheel spins in a dark casino environment.",
+    "Final screen shows the game title 'Roulettist' with a search bar and app store icons."
+  ],
+  "on_screen_text": [
+    "WINNING NUMBER 26",
+    "26 Black Even",
+    "You win",
+    "Roulettist"
+  ],
+  "cta_text": "Roulettist",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#0b4d3c",
+    "#5c3a21",
+    "#d4af37"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Adult casino game fans looking for a realistic roulette simulation.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001558
+}

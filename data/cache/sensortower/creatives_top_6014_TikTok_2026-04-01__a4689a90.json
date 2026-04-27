@@ -1,0 +1,787 @@
+{
+  "count": 751,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "fcaaebf3d3041d56",
+      "app_id": "55c50b2202ac64f9c00022c6",
+      "network": "TikTok",
+      "phashion_group": "fcaaebf3d3041d56",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-12",
+      "last_seen_at": "2026-03-30",
+      "creatives": [
+        {
+          "id": "fcaaebf3d3041d56",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e7e0605ca41420/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e7e0605ca41420/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e7e0605ca41420/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Learn more",
+          "message": "The PC Ready Controller"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50b2202ac64f9c00022c6",
+        "canonical_country": "US",
+        "name": "PlayStation App",
+        "publisher_name": "Sony",
+        "publisher_id": "5628902202ac648b280004e7",
+        "humanized_name": "PlayStation App",
+        "icon_url": "https://play-lh.googleusercontent.com/zi6QgTtIiAnGqQMizfoj2LnE85kzHyZlgTruSzJ7Zw_79NAmB3fhxuDegwxby7P0yw=s150",
+        "os": "unified",
+        "id": "55c50b2202ac64f9c00022c6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "125a9631c4596da2",
+      "app_id": "53857baf830f78f0bc0068e3",
+      "network": "TikTok",
+      "phashion_group": "125a9631c4596da2",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "125a9631c4596da2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/065aa77b02e50a5f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/065aa77b02e50a5f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/065aa77b02e50a5f/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "Master your Warframe: Dominate the battlefield with skill and strategy."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "53857baf830f78f0bc0068e3",
+        "canonical_country": "US",
+        "name": "Warframe Companion",
+        "publisher_name": "Digital Extremes",
+        "publisher_id": "55f88e348ac350426b022687",
+        "humanized_name": "Warframe Companion",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/11/32/ac113257-288e-0045-ef63-5fbd3038588d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "53857baf830f78f0bc0068e3",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0eb36af402d8ea45",
+      "app_id": "55c50c2b02ac64f9c000230f",
+      "network": "TikTok",
+      "phashion_group": "0eb36af402d8ea45",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-12",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "0eb36af402d8ea45",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76e9457321dc90e7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76e9457321dc90e7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76e9457321dc90e7/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Drop your first beat today. Edjing Mix makes mixing simple for beginners. Start your DJ journey now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50c2b02ac64f9c000230f",
+        "canonical_country": "US",
+        "name": "edjing Mix - Music DJ app",
+        "publisher_name": "MWM",
+        "publisher_id": "666b457e0c57f4f65de7cbd2",
+        "humanized_name": "edjing Mix",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ec/3d/13ec3d47-e540-93c8-625e-19bd3a0aa6c9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c50c2b02ac64f9c000230f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "00e3e8e3cb2a5860",
+      "app_id": "673c0ae472f4c26836a99529",
+      "network": "TikTok",
+      "phashion_group": "00e3e8e3cb2a5860",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-02",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "00e3e8e3cb2a5860",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Show the world you\u2019re the ultimate manager."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "673c0ae472f4c26836a99529",
+        "canonical_country": "US",
+        "name": "Ultimate Football Manager",
+        "publisher_name": "Miniclip",
+        "publisher_id": "65670b56ad4adb650837a435",
+        "humanized_name": "Ultimate Football Manager",
+        "icon_url": "https://play-lh.googleusercontent.com/jAwq8uTCsTK4POOhZjIUN1cVjzE670yBvAxoHAZalkihu50AUMCKwad7o6Zlu_M8yw=s150",
+        "os": "unified",
+        "id": "673c0ae472f4c26836a99529",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5455b5073a39ae04",
+      "app_id": "6153f700624ea54df7a116c1",
+      "network": "TikTok",
+      "phashion_group": "5455b5073a39ae04",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-03",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "5455b5073a39ae04",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e0d6f06a237fa46b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e0d6f06a237fa46b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e0d6f06a237fa46b/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "Relax with Screwdom 3D~"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6153f700624ea54df7a116c1",
+        "canonical_country": "US",
+        "name": "Car Race",
+        "publisher_name": "iKame",
+        "publisher_id": "5ef3a979f26fe50eefaa9733",
+        "humanized_name": "Car Race",
+        "icon_url": "https://play-lh.googleusercontent.com/nubEn3WHBWWDWNR9SjhtF56RCg_-kZNlKmnbI8XrcFlTEeUT8E-G0otXxkBlP7GQoOM=s150",
+        "os": "unified",
+        "id": "6153f700624ea54df7a116c1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f8c5b58f84ba473b",
+      "app_id": "55f3733b02ac64eb8400006e",
+      "network": "TikTok",
+      "phashion_group": "f8c5b58f84ba473b",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-16",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f8c5b58f84ba473b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "message": "Great prize! Win today!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55f3733b02ac64eb8400006e",
+        "canonical_country": "US",
+        "name": "Huuuge Casino 777 Slots Games",
+        "publisher_name": "Huuuge Games",
+        "publisher_id": "5614bc773f07e25d29002a45",
+        "humanized_name": "Huuuge Casino 777 Slots Games",
+        "icon_url": "https://play-lh.googleusercontent.com/njjBFu61BlTecfoM_f-Rp_KTEL5wjgNXizJ4GlIyip6C09OxemiIABsXsx9h4YHWfps=s150",
+        "os": "unified",
+        "id": "55f3733b02ac64eb8400006e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "229628308cdbdd28",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "229628308cdbdd28",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-29",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "229628308cdbdd28",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "Throw your new robots into the thick of battle!"
+        },
+        {
+          "id": "d78f1b1290f537d2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "New robots, new epic victories!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b14e917ccfea5f28",
+      "app_id": "55c50c2b02ac64f9c000230f",
+      "network": "TikTok",
+      "phashion_group": "b14e917ccfea5f28",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-18",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "b14e917ccfea5f28",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14cc393f49933cfc/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14cc393f49933cfc/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14cc393f49933cfc/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Ready to learn how to mix?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50c2b02ac64f9c000230f",
+        "canonical_country": "US",
+        "name": "edjing Mix - Music DJ app",
+        "publisher_name": "MWM",
+        "publisher_id": "666b457e0c57f4f65de7cbd2",
+        "humanized_name": "edjing Mix",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ec/3d/13ec3d47-e540-93c8-625e-19bd3a0aa6c9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c50c2b02ac64f9c000230f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "de17b4be74ff515c",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "de17b4be74ff515c",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-21",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "de17b4be74ff515c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "New robots, new epic victories!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "6eddaf39e633c393",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "6eddaf39e633c393",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-29",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "6eddaf39e633c393",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b40bd865a25169af/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b40bd865a25169af/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b40bd865a25169af/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "Your favorite robot PvP just got hotter!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fb328935e2f374b4",
+      "app_id": "55c50c2b02ac64f9c000230f",
+      "network": "TikTok",
+      "phashion_group": "fb328935e2f374b4",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-07",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "fb328935e2f374b4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8368a6b2c1f70e16/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8368a6b2c1f70e16/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8368a6b2c1f70e16/thumb",
+          "video_duration": 13,
+          "width": 720,
+          "height": 1280,
+          "message": "Drop your first beat today. Edjing Mix makes mixing simple for beginners. Start your DJ journey now!"
+        },
+        {
+          "id": "fc53f48812e76a86",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8368a6b2c1f70e16/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8368a6b2c1f70e16/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8368a6b2c1f70e16/thumb",
+          "video_duration": 13,
+          "width": 720,
+          "height": 1280,
+          "message": "Turn your phone into a portable DJ booth."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50c2b02ac64f9c000230f",
+        "canonical_country": "US",
+        "name": "edjing Mix - Music DJ app",
+        "publisher_name": "MWM",
+        "publisher_id": "666b457e0c57f4f65de7cbd2",
+        "humanized_name": "edjing Mix",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ec/3d/13ec3d47-e540-93c8-625e-19bd3a0aa6c9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c50c2b02ac64f9c000230f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3583f8c4dee189d7",
+      "app_id": "55d691cf13fa38db45013a70",
+      "network": "TikTok",
+      "phashion_group": "3583f8c4dee189d7",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-12",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "3583f8c4dee189d7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/thumb",
+          "video_duration": 6,
+          "width": 720,
+          "height": 1280,
+          "message": "The Best DBZ Battle Experience is Here"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d691cf13fa38db45013a70",
+        "canonical_country": "US",
+        "name": "PAC-MAN 256 - Endless Maze",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "PAC-MAN 256",
+        "icon_url": "https://play-lh.googleusercontent.com/KK7mP_etdtFFzdNBa6XTAenfnXEXiGTtqT8Lv4bffra99bT4e_JvK6n5Xp5rvEVQZEA=s150",
+        "os": "unified",
+        "id": "55d691cf13fa38db45013a70",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "207efc0c5ac00983",
+      "app_id": "67e4d21af6ce7824d64b8049",
+      "network": "TikTok",
+      "phashion_group": "207efc0c5ac00983",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-28",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "207efc0c5ac00983",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66fd89edb137cd6e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66fd89edb137cd6e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66fd89edb137cd6e/thumb",
+          "video_duration": 9,
+          "width": 540,
+          "height": 960,
+          "message": "Players protest, fans shout... The decision is yours!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67e4d21af6ce7824d64b8049",
+        "canonical_country": "US",
+        "name": "Referee Simulator 3D",
+        "publisher_name": "JLabs Games",
+        "publisher_id": "6726e75cfdd0e8101139fdbb",
+        "humanized_name": "Referee Simulator 3D",
+        "icon_url": "https://play-lh.googleusercontent.com/yQ0-gAGGf0oGvNFVhbQndobu4t37ATLYTSTDuL9nM5LIbjS0lF-Y3EAmJ1ioCpAbeg=s150",
+        "os": "unified",
+        "id": "67e4d21af6ce7824d64b8049",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "28bb033a4ed283ad",
+      "app_id": "6024d92ffc2aa03e6d63fad7",
+      "network": "TikTok",
+      "phashion_group": "28bb033a4ed283ad",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "28bb033a4ed283ad",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Trainers Wanted!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6024d92ffc2aa03e6d63fad7",
+        "canonical_country": "JP",
+        "name": "Umamusume: Pretty Derby",
+        "publisher_name": "CyberAgent",
+        "publisher_id": "5614b4a13f07e2077c0010d8",
+        "humanized_name": "Umamusume: Pretty Derby",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/43/25/a2432599-0e6e-7976-055c-bb1a7511348e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6024d92ffc2aa03e6d63fad7",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f34cd460e9714de4",
+      "app_id": "5c77ba4ab9ab940c3f6bc822",
+      "network": "TikTok",
+      "phashion_group": "f34cd460e9714de4",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-21",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f34cd460e9714de4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bddbd94ef96d7c9c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bddbd94ef96d7c9c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bddbd94ef96d7c9c/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "Super addictive block puzzle game! Bet you won\u2019t be able to stop playing!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5c77ba4ab9ab940c3f6bc822",
+        "canonical_country": "US",
+        "name": "Blockudoku: Block Puzzle Game",
+        "publisher_name": "Miniclip",
+        "publisher_id": "65670b56ad4adb650837a435",
+        "humanized_name": "Blockudoku: Block Puzzle Game",
+        "icon_url": "https://play-lh.googleusercontent.com/s-6Wv_B6xk0y3hDbJL0bgaDxOerMY40mjXoTg9jInA1KlEke9CTrudfhwBQLUClah4R2j8BOzm5FwAlKkdEM7A=s150",
+        "os": "unified",
+        "id": "5c77ba4ab9ab940c3f6bc822",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "46f0cdf730871f8c",
+      "app_id": "5a326b350211a692f66bab0e",
+      "network": "TikTok",
+      "phashion_group": "46f0cdf730871f8c",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-23",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "46f0cdf730871f8c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73d9f99b1dffbaaa/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73d9f99b1dffbaaa/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73d9f99b1dffbaaa/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "Play World of Tanks Blitz!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5a326b350211a692f66bab0e",
+        "canonical_country": "US",
+        "name": "World of Tanks Blitz",
+        "publisher_name": "Wargaming.net",
+        "publisher_id": "5628918702ac648b28003cc7",
+        "humanized_name": "World of Tanks Blitz",
+        "icon_url": "https://play-lh.googleusercontent.com/VBQVQRwZL0Ft5SMxMdszhfXGOyUd6VWaHPsTiA415L-F-M2Y2t95VbWT_AnZErs0LfLt=s150",
+        "os": "unified",
+        "id": "5a326b350211a692f66bab0e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f41b68dd7e9c7ab2",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "f41b68dd7e9c7ab2",
+      "ad_type": "video",
+      "first_seen_at": "2024-05-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f41b68dd7e9c7ab2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d287f88cf4759b9",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "5d287f88cf4759b9",
+      "ad_type": "video",
+      "first_seen_at": "2024-08-14",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "5d287f88cf4759b9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        },
+        {
+          "id": "ea99fbfc48af6696",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "The Best DBZ Battle Experience is Here"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "46aa87c308eaa84c",
+      "app_id": "55f3733b02ac64eb8400006e",
+      "network": "TikTok",
+      "phashion_group": "46aa87c308eaa84c",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "46aa87c308eaa84c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Don\u2019t miss out \u2014 win today!"
+        },
+        {
+          "id": "6189dcca63ea74c2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Great prize! Win today!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55f3733b02ac64eb8400006e",
+        "canonical_country": "US",
+        "name": "Huuuge Casino 777 Slots Games",
+        "publisher_name": "Huuuge Games",
+        "publisher_id": "5614bc773f07e25d29002a45",
+        "humanized_name": "Huuuge Casino 777 Slots Games",
+        "icon_url": "https://play-lh.googleusercontent.com/njjBFu61BlTecfoM_f-Rp_KTEL5wjgNXizJ4GlIyip6C09OxemiIABsXsx9h4YHWfps=s150",
+        "os": "unified",
+        "id": "55f3733b02ac64eb8400006e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0448f9768178715f",
+      "app_id": "58f8371eeab9545843000f03",
+      "network": "TikTok",
+      "phashion_group": "0448f9768178715f",
+      "ad_type": "video",
+      "first_seen_at": "2023-10-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "0448f9768178715f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/462c5671794d9b57/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/462c5671794d9b57/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/462c5671794d9b57/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "COUNTER STRIKE MOBILE!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "58f8371eeab9545843000f03",
+        "canonical_country": "US",
+        "name": "Critical Strike CS: Online FPS",
+        "publisher_name": "Vertigo Games",
+        "publisher_id": "5cc9f808861fb14185afefc2",
+        "humanized_name": "Critical Strike CS",
+        "icon_url": "https://play-lh.googleusercontent.com/jdtezgvczVzm7YncIzmYxwag_IOuPniIEoiDurR6gdMgHN5NwX0vRy_IJUozTvc5BcQZ=s150",
+        "os": "unified",
+        "id": "58f8371eeab9545843000f03",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

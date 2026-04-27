@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_HDQsZyHn5ZysPc2P9jLeLsam?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSERRc1p5SG41WnlzUGMyUDlqTGVMc2FtP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=rfuF3If7YeZP9b5JLJqCjG2BtkBtM3l-HyZBgyuRsbItF5lt3t-1xPt-4PzWXpdAkagQRaqNMK6sihgpnh-2mt6rVc%7El-GW8f1GqxGaH5wpLxbqY9W56SuqbQR5rCK8l1kUsPMGdZm5xZsgjd3hD%7EeIsAPfLRn-rXlh0GIF0pn7ugoT7SfaAhVZFBxJ75VIw6eLQbJijvmQrvPUNR7Xq-CpIfubzz2I86hZ-kXj9h9j8dGurF6MnUbnneiUzaN-E0ZVcN69IzkhyIKMg%7E3upTW%7ESOlkjJZnXXBb6wHRhsUxhNQLcMfh0XYxU8Pl3jHcw7A-iWBFdSljSRAyw9fcARQ__",
+  "job_id": "job_mUAbRCRnnfpq8zZQUwXE9f2U",
+  "asset_id": "asset_HDQsZyHn5ZysPc2P9jLeLsam",
+  "stub": false,
+  "prompt": "Storyboard frame 3, 9:16 vertical aspect ratio: wide top-down hero shot of an 8x8 dark navy grid (#1E2744) with four simultaneous line clears cascading across rows and columns, gold light sweep (#FFD700), tumbling collectible stars and gems, royal blue (#5469B9) glowing background, glossy beveled multi-colored blocks mid-shatter, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, cinematic 3D render, on-screen text overlay '4-LINE CHAIN \u26a1' in bold white centered, premium mobile puzzle ad.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_9VSaJLjksmfk37qFVhWKuW6o?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOVZTYUpMamtzbWZrMzdxRlZoV0t1VzZvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=nffD3ELkE3XsnXSIK2XTPV5wlofihi5eO8i4bE0tPJL6MIl0cR47AymSj%7EvK%7E2BdxyRDcvp3rQeLEFLTw28twDpgMvUXfzvnL8n5vyXhAYPgBqQFDdnh0-9WqUA5bXzu5ffCw7B40C3-cN9MIVTEeSSHEBAVnHQax0hoEXi%7Ex-29Wlnqa-o8aJNafkjU9AfOx9GYraSQIl3RBSLF1wSo8E5MgjG%7EC2G9xBslBxftKWWxeeHfqiTlBXNVOEB8%7Ev5KVla8w2OEfVsUeKfprjCnbKl1cOMNhlDb2Pmo4tKK0bEKzba0bZL3XmBIh-GDEqsgCjQuqvJYJf6ZfFUl0BhwXQ__",
+  "job_id": "job_Er89gTqSGdz9js2yMqmZFDqX",
+  "asset_id": "asset_9VSaJLjksmfk37qFVhWKuW6o",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect ratio 9:16, authentic Helix Jump gameplay still: cyan (#5CE1E6) ball plummeting through a chain of exploding red (#FF0000) platform rings, neon green (#39FF14) safe ring glowing below, helix tower rotating with motion lines, shattered disc fragments scattering in 3D space, pale minimalist background, no character on screen, HUD shows score counter and level progress bar at top, large center overlay text 'COMBO x8' in bold neon white, 3D minimalist style with bright contrasting colors and simple geometric shapes, in-game Helix Jump UI fidelity",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

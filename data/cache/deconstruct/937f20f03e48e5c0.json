@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "937f20f03e48e5c0",
+    "ad_unit_id": "937f20f03e48e5c0",
+    "app_id": "55d9589402ac645ad22f9717",
+    "advertiser_name": "한게임 포커",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f41ee190d48544d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f41ee190d48544d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f41ee190d48544d/preview",
+    "phashion_group": "937f20f03e48e5c0",
+    "share": null,
+    "first_seen_at": "2025-11-26T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A person holds real playing cards, expressing hope for a Royal Straight Flush.",
+    "visual_action": "Close-up of hands fanning out playing cards in a card shop setting.",
+    "text_overlay": "언젠가... 나오겠죠? ㅠ",
+    "voiceover_transcript": "언젠가... 나오겠죠?",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Live-action footage of someone fanning out playing cards, hoping for a Royal Straight Flush.",
+    "Transition to a streamer reacting excitedly to a mobile poker game interface.",
+    "Fast-paced motion graphics montage featuring poker suits, chips, and energetic text.",
+    "Gameplay footage showing a massive win and the 'Hangame Poker' logo."
+  ],
+  "on_screen_text": [
+    "언젠가... 나오겠죠? ㅠ",
+    "로티플 스!",
+    "하면 할수록",
+    "로티플 각이다",
+    "즐거움이 커지는",
+    "도파민",
+    "한게임 포커"
+  ],
+  "cta_text": "한게임 포커",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#F7FF00",
+    "#4B0082",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Korean adult males who enjoy the thrill of poker and social casino gaming.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015739999999999999
+}

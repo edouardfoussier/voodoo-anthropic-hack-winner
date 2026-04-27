@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "a0cb03da5d9fd48c",
+    "ad_unit_id": "a0cb03da5d9fd48c",
+    "app_id": "55d93a4202ac645ad203fe75",
+    "advertiser_name": "Betclic Paris Sportifs & Poker",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ccfba1f7a29ce660/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ccfba1f7a29ce660/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ccfba1f7a29ce660/preview",
+    "phashion_group": "a0cb03da5d9fd48c",
+    "share": null,
+    "first_seen_at": "2025-09-29T00:00:00",
+    "last_seen_at": "2026-04-17T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Parie sur le meilleur du foot européen avec Betclic ! 🏆⚽️",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A man gives a high-energy motivational speech in a locker room setting.",
+    "visual_action": "A bearded man in a black t-shirt gestures emphatically while talking to a group in a locker room.",
+    "text_overlay": "LES MEILLEURS JOUEURS",
+    "voiceover_transcript": "Les meilleurs joueurs, les meilleures ambiances, les meilleurs stades",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Motivational locker room speech about the best players and stadiums.",
+    "Transition through a tunnel to a close-up of the speaker.",
+    "Speaker encourages the viewer to 'combine' bets.",
+    "Flashy graphic reveal of a 100€ freebet offer over a football field background.",
+    "Final screen with team logos and a call-to-action button."
+  ],
+  "on_screen_text": [
+    "LES MEILLEURS JOUEURS",
+    "LES MEILLEURES AMBIANCES",
+    "LES MEILLEURS STADES",
+    "ET AU BOUT...",
+    "LA PLUS BELLE DES COUPES",
+    "T'HÉSITES PAS À COMBINER",
+    "100€",
+    "JUSQU'À 100€ (F) FREEBETS remboursés*",
+    "PARIE SUR L'EUROPE",
+    "J'en profite"
+  ],
+  "cta_text": "J'en profite",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#E10600",
+    "#FFED00",
+    "#0033A0"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "French-speaking male football fans interested in sports betting and high-stakes competition.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001918
+}

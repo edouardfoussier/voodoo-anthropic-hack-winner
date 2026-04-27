@@ -1,0 +1,50 @@
+{
+  "raw": {
+    "creative_id": "679ec126f9fe5919",
+    "ad_unit_id": "679ec126f9fe5919",
+    "app_id": "62fe6a2713c3dd10370345d8",
+    "advertiser_name": "Jolly Match 3 - Puzzle Game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03b047a5b95446de/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03b047a5b95446de/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03b047a5b95446de/preview",
+    "phashion_group": "679ec126f9fe5919",
+    "share": null,
+    "first_seen_at": "2026-04-01T00:00:00",
+    "last_seen_at": "2026-04-17T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 810,
+    "height": 1440,
+    "message": "Everyone thinks Match 3 is boring... until they try Jolly Match😀",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A 3D animated woman spins in a magical swirl of ingredients and petals.",
+    "visual_action": "The character spins gracefully while a trail of spices, shells, and flower petals orbits her against a fantasy castle background.",
+    "text_overlay": "Jolly Match",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction of the 3D character spinning in a magical vortex of ingredients.",
+    "Close-up shot of the character's joyful expression as she continues to spin.",
+    "Wide shot showing the character, the game logo, and the fantasy castle environment."
+  ],
+  "on_screen_text": [
+    "Jolly Match"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#A084CA",
+    "#FFD700",
+    "#E8A0BF"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual women 25-45 who enjoy high-quality 3D animated puzzle games with a magical or culinary theme.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001148
+}

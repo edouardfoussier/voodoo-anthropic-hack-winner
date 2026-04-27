@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "3cdf978d3afaf89e",
+    "ad_unit_id": "3cdf978d3afaf89e",
+    "app_id": "55c5025102ac64f9c0001f96",
+    "advertiser_name": "Clash of Clans",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f2bc740f16db33/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f2bc740f16db33/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f2bc740f16db33/preview",
+    "phashion_group": "3cdf978d3afaf89e",
+    "share": null,
+    "first_seen_at": "2026-01-17T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Test your skills in epic clan wars to prove you are the best 🏅",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A 3D Barbarian character slams a desk and screams, followed by a montage of real people screaming.",
+    "visual_action": "The Barbarian slams his hands on a wooden desk in a grand hall and lets out a loud battle cry.",
+    "text_overlay": null,
+    "voiceover_transcript": "WHERE ARE WE? WOOLOO! WAAAAAA!",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "A 3D-rendered Barbarian character slams a desk and screams in a formal hall setting.",
+    "A fast-paced montage shows diverse people in real-world locations (Times Square, gas station, newsroom) screaming in unison.",
+    "Cinematic wide shot of a fortified base at night with 'Attack 2026' text overlay.",
+    "Final end card featuring the Clash of Clans logo and a 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "Attack 2026",
+    "Clash of Clans",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#FFD700",
+    "#8B0000",
+    "#1A2B4C"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Competitive mobile gamers who enjoy high-energy community events and large-scale strategy games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016640000000000001
+}

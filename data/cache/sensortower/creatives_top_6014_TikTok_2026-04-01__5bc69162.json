@@ -1,0 +1,154 @@
+{
+  "count": 330,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "a02d273ace9ffa77",
+      "app_id": "681eb48a7a54db51c803a365",
+      "network": "TikTok",
+      "phashion_group": "a02d273ace9ffa77",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-18",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a02d273ace9ffa77",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ac393ba823a1be6/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ac393ba823a1be6/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ac393ba823a1be6/thumb",
+          "video_duration": 8,
+          "width": 540,
+          "height": 960,
+          "message": "Foodie Sizzle feels like a soft daydream, join with me pls"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "681eb48a7a54db51c803a365",
+        "canonical_country": "US",
+        "name": "Foodie Sizzle",
+        "publisher_name": "Onesoft",
+        "publisher_id": "5b6de3cab80f52168dc0abc3",
+        "humanized_name": "Foodie Sizzle",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/c5/ad/19c5adf1-b8cc-3c97-1f4d-073a70c143cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "681eb48a7a54db51c803a365",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "46f0cdf730871f8c",
+      "app_id": "5a326b350211a692f66bab0e",
+      "network": "TikTok",
+      "phashion_group": "46f0cdf730871f8c",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-23",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "46f0cdf730871f8c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73d9f99b1dffbaaa/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73d9f99b1dffbaaa/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73d9f99b1dffbaaa/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "Play World of Tanks Blitz!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5a326b350211a692f66bab0e",
+        "canonical_country": "US",
+        "name": "World of Tanks Blitz",
+        "publisher_name": "Wargaming.net",
+        "publisher_id": "5628918702ac648b28003cc7",
+        "humanized_name": "World of Tanks Blitz",
+        "icon_url": "https://play-lh.googleusercontent.com/VBQVQRwZL0Ft5SMxMdszhfXGOyUd6VWaHPsTiA415L-F-M2Y2t95VbWT_AnZErs0LfLt=s150",
+        "os": "unified",
+        "id": "5a326b350211a692f66bab0e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "1894e2d71dbbc0ed",
+      "app_id": "618208ab32fe426c231091d4",
+      "network": "TikTok",
+      "phashion_group": "1894e2d71dbbc0ed",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-02",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "1894e2d71dbbc0ed",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/402daf68c6c555b1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/402daf68c6c555b1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/402daf68c6c555b1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "A Passion for Running: Join the 456 Run Challenge"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "618208ab32fe426c231091d4",
+        "canonical_country": "US",
+        "name": "456 Run Challenge: Clash 3D",
+        "publisher_name": "Amobear Technology Group",
+        "publisher_id": "64e50aba78e2ca61efb40246",
+        "humanized_name": "456 Run Challenge",
+        "icon_url": "https://play-lh.googleusercontent.com/195EbiiLN4D9di67p8Iq0ja_oczw3_sjjzx-2nUpIs8eRsPDL04QHSv-vM6zXTTGQg=s150",
+        "os": "unified",
+        "id": "618208ab32fe426c231091d4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "37f1cd76e2dd395d",
+      "app_id": "58ddbbaef479660387000613",
+      "network": "TikTok",
+      "phashion_group": "37f1cd76e2dd395d",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-23",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "37f1cd76e2dd395d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ad5d2289f7f1c499/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ad5d2289f7f1c499/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ad5d2289f7f1c499/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Create your own epic robot builds and dominate!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "58ddbbaef479660387000613",
+        "canonical_country": "US",
+        "name": "Hustle Castle: Medieval games",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "Hustle Castle",
+        "icon_url": "https://play-lh.googleusercontent.com/U8TvlVrmSrfs9rZi5G1EGrq2tcN8Cvj-VFPfbYTx0KqLCNct3SXc_-5A6jOEwm2v2_6EehwJdcxFcCyHBaDZQws=s150",
+        "os": "unified",
+        "id": "58ddbbaef479660387000613",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

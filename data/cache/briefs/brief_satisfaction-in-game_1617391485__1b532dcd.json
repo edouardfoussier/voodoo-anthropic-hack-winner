@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "1617391485",
+  "title": "Block Blast — One Drop, Total Cascade",
+  "hook_3s": "A single golden block drops into a packed 8x8 grid — and triggers a cascading chain of line-clears that shatter the screen in royal blue and gold confetti.",
+  "scene_flow": [
+    "0-3s HOOK: Close-up of an 8x8 grid almost completely full, tension building. A glossy gold polyomino hovers over the last empty slot, pulsing. Finger taps drop it in.",
+    "3-7s PAYOFF: The gold piece lands and triggers a chain reaction — row clears cascade into column clears, blocks shatter into particles, score counter rockets from 1,240 → 18,900 with juicy 'popcorn' number pops.",
+    "7-11s ESCALATION: Camera pulls back slightly, screen flashes with combo multipliers (x2, x4, x8), gem and star collectibles burst out and fly toward the score HUD, satisfying low-end thump on each clear.",
+    "11-14s SOCIAL PROOF: Quick split-screen of three real-feel hands all reaching the 'COMBO!' moment, plus a thumb-stoppingly clean 'NEW HIGH SCORE' banner snap.",
+    "14-15s CTA: Logo lockup on dark navy background with gold accent, single tap-to-install button pulses."
+  ],
+  "visual_direction": "Lean fully into Block Blast's native DNA: deep navy (#1E2744) board floating on royal blue (#5469B9) backdrop, with glossy beveled blocks catching light like polished candy. The hero accent is saturated gold (#FFD700) — used for the trigger block, score numbers, particle bursts, and CTA. Everything is clean, abstract, geometric — no characters, no clutter. Motion is the star: smooth ease-in drops, snappy shatter VFX, soft bloom on clears, and rhythmic micro-zooms timed to each line-clear 'thunk.' The mood is calm-satisfying escalating to euphoric, never chaotic.",
+  "text_overlays": [
+    "Can you clear it in ONE move?",
+    "Watch this…",
+    "CHAIN x4!",
+    "+17,660",
+    "NEW HIGH SCORE",
+    "Tap to Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "We're porting the archetype's emotional beat — 'one small input → massive satisfying payoff' — but reskinning it to Block Blast's authentic chain-clear moment instead of fruit-merge, protecting D1/ROAS by matching install intent to actual gameplay. The gold trigger-block + cascade sequence is the most screenshot-worthy frame in the game's own visual language, so creative quality stays high while the hook stays true. UA should test this against a control with the literal fruit-merge port to confirm the audience-overlap thesis holds without the visual mismatch tax.",
+  "scenario_prompts": [
+    "Hero frame, mobile game ad, aspect 9:16: A glossy beveled golden polyomino block (#FFD700) frozen mid-drop above an 8x8 grid almost fully packed with vibrant multi-colored blocks, dark navy game board (#1E2744) floating on a soothing royal blue background (#5469B9), subtle radial glow behind the gold piece, light particles trailing. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Bold white sans-serif on-screen text at top reads 'Can you clear it in ONE move?'. Cinematic lighting, ultra crisp, mobile UI mockup style.",
+    "Storyboard frame — payoff moment, aspect 9:16: An 8x8 navy grid (#1E2744) on a royal blue backdrop (#5469B9) erupting in a chain reaction — three rows and two columns simultaneously shattering into glossy beveled cube fragments, gold particles (#FFD700) and white sparkles bursting outward, a large gold score number '+17,660' popping in the upper right with motion blur. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. On-screen text center reads 'CHAIN x4!' in chunky gold display type. High-energy, juicy, satisfying.",
+    "Storyboard frame — CTA end card, aspect 9:16: Centered Block Blast logo lockup on a deep navy background (#1E2744) with a soft royal blue (#5469B9) gradient halo, a single glossy beveled gold block (#FFD700) resting beside the logo, a pulsing gold rounded-rectangle button below. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Button text reads 'Play Free' in bold white sans-serif. Minimal, premium, app-store-ready."
+  ]
+}

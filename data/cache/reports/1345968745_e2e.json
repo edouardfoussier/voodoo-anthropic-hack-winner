@@ -1,0 +1,346 @@
+{
+  "target_game": {
+    "app_id": "1345968745",
+    "name": "Helix Jump",
+    "genre": "Arcade",
+    "sub_genre": "Hypercasual",
+    "core_loop": "Rotate the helix tower to guide a bouncing ball down through gaps while avoiding colored trap platforms to reach the bottom.",
+    "audience_proxy": "Broad, casual audience of all ages looking for quick, reflex-based entertainment.",
+    "visual_style": "3D minimalist with bright, contrasting colors and simple geometric shapes.",
+    "palette": {
+      "primary_hex": "#5CE1E6",
+      "secondary_hex": "#39FF14",
+      "accent_hex": "#FF0000",
+      "description": "Vibrant, high-contrast neon colors against lighter backgrounds to emphasize gameplay elements and danger zones."
+    },
+    "key_mechanics": [
+      "rotating",
+      "bouncing",
+      "falling",
+      "avoiding",
+      "smashing"
+    ],
+    "character_present": false,
+    "ui_mood": "energetic/competitive",
+    "screenshot_signals": [
+      "Score multiplier text",
+      "Level progression map",
+      "Boss level banner",
+      "Power-up indicators",
+      "High score display"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 8,
+    "num_phashion_groups": 8
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "curiosity-animation",
+      "label": "Curiosity · animation",
+      "member_creative_ids": [
+        "0d364815e2ca3d52"
+      ],
+      "centroid_hook": {
+        "summary": "Cross-section views of elaborate underground bunkers beneath famous landmarks.",
+        "visual_action": "The video cycles through various 2D illustrated scenes showing hidden underground shelters beneath the Eiffel Tower, Times Square, and forest environments.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#2c3e50",
+        "#5d4037",
+        "#4a5d23"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.194,
+      "derivative_spread": 1.0,
+      "freshness_days": 328.0,
+      "overall_signal_score": 0.85,
+      "rationale": "1 creatives across 1 unique advertisers, average age 328d (velocity source: sov). Hook representative: \"Cross-section views of elaborate underground bunkers beneath famous landmarks.\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "bdf6fd7b1032fa14",
+        "5ba7458dea1165c1"
+      ],
+      "centroid_hook": {
+        "summary": "A hand moves colorful buses in a crowded lot to clear a path.",
+        "visual_action": "A stylized hand uses a pen to slide buses around a grid-based parking lot.",
+        "text_overlay": "Hey! Played a game that Actually makes you Feel relaxed?",
+        "voiceover_transcript": "Hey! Have you ever played a game that actually makes you feel relaxed?",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#D9E2F1",
+        "#FF5733",
+        "#4CAF50"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.963,
+      "derivative_spread": 1.0,
+      "freshness_days": 112.5,
+      "overall_signal_score": 0.802,
+      "rationale": "2 creatives across 2 unique advertisers, average age 112d (velocity source: sov). Hook representative: \"A hand moves colorful buses in a crowded lot to clear a path.\""
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "label": "Fail · in-game",
+      "member_creative_ids": [
+        "0f1d747b3e7d863f"
+      ],
+      "centroid_hook": {
+        "summary": "A player attempts to navigate a crowded bus parking lot but quickly gets blocked.",
+        "visual_action": "A hand cursor selects a purple bus that moves, then a red bus that crashes into others.",
+        "text_overlay": "WHY THIS LEVEL IS SO HARD, CAN YOU WIN?",
+        "voiceover_transcript": null,
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#FFFFFF",
+        "#4CAF50",
+        "#F44336"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.028,
+      "derivative_spread": 1.0,
+      "freshness_days": 259.0,
+      "overall_signal_score": 0.79,
+      "rationale": "1 creatives across 1 unique advertisers, average age 259d (velocity source: sov). Hook representative: \"A player attempts to navigate a crowded bus parking lot but quickly gets blocked\""
+    },
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "label": "Satisfaction · live-action-UGC",
+      "member_creative_ids": [
+        "9136fdde919cd968",
+        "a02d273ace9ffa77"
+      ],
+      "centroid_hook": {
+        "summary": "A young man lying on a bed playing a mobile game reacts with intense joy to reaching a high level.",
+        "visual_action": "Man lying on bed playing on a tablet, then flipping over and jumping up in excitement.",
+        "text_overlay": "\"You look happier\" / \"Thanks I've been playing Foodie Sizzle all day and finally reached level 55!\"",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#87CEEB",
+        "#E0E0E0",
+        "#222222"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.153,
+      "derivative_spread": 0.5,
+      "freshness_days": 129.0,
+      "overall_signal_score": 0.694,
+      "rationale": "2 creatives across 1 unique advertisers, average age 129d (velocity source: sov). Hook representative: \"A young man lying on a bed playing a mobile game reacts with intense joy to reac\""
+    },
+    {
+      "archetype_id": "other-animation",
+      "label": "Other · animation",
+      "member_creative_ids": [
+        "5d287f88cf4759b9"
+      ],
+      "centroid_hook": {
+        "summary": "Goku Ultra Instinct charging a massive energy blast with a vibrant rainbow background.",
+        "visual_action": "Goku in a combat stance with a glowing blue aura and energy sphere charging in his hands.",
+        "text_overlay": "PLAY NOW!",
+        "voiceover_transcript": null,
+        "emotional_pitch": "other"
+      },
+      "palette_hex": [
+        "#00AEEF",
+        "#FFFFFF",
+        "#FFD700"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.5,
+      "derivative_spread": 1.0,
+      "freshness_days": 620.0,
+      "overall_signal_score": 0.562,
+      "rationale": "1 creatives across 1 unique advertisers, average age 620d (velocity source: sov). Hook representative: \"Goku Ultra Instinct charging a massive energy blast with a vibrant rainbow backg\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "curiosity-animation",
+      "visual_match": 15,
+      "mechanic_match": 25,
+      "audience_match": 55,
+      "overall": 25,
+      "rationale": "Hard pass for Helix Jump. The archetype's muted earth-tone palette (navy, brown, olive) and detailed 2D illustrated cross-section style are the polar opposite of the game's neon, 3D minimalist geometric look — there is no visual bridge a publishing team could exploit without rebuilding the creative from scratch. While a vertical \"descending through layers\" cross-section concept could theoretically be reskinned to evoke the helix tower's downward fall (the one mechanic hook worth testing), the curiosity/edutainment audience skews older and more passive than Helix Jump's reflex-driven hypercasual players, and the single-creative/single-advertiser signal offers weak validation. Don't prioritize; if tested at all, only as a stylized \"fall through layers\" remix using the game's neon palette."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 28,
+      "mechanic_match": 15,
+      "audience_match": 62,
+      "overall": 25,
+      "rationale": "The \"relaxed bus-jam puzzle\" hook is fundamentally mismatched with Helix Jump's fast, reflex-driven bouncing/rotating core — a satisfaction/relaxation pitch undersells the energetic, near-miss tension that actually converts on this title. Visually the muted pastel + grid-parking aesthetic clashes with Helix's neon high-contrast 3D tower, and the puzzle mechanic can't be honestly bridged to a falling-ball arcade loop without bait-and-switch risk (store-listing rejection territory). Only the broad casual audience overlaps; do not greenlight this archetype for Helix Jump — if satisfaction ASMR is the goal, build a Helix-native version (smooth descents, color smash combos) instead."
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "visual_match": 25,
+      "mechanic_match": 20,
+      "audience_match": 60,
+      "overall": 30,
+      "rationale": "The \"fail · can you win?\" hook framing is broadly hypercasual-friendly and shares an audience with Helix Jump, but the specific bus-parking/traffic-jam puzzle scenario has zero mechanical overlap with rotating a helix tower and bouncing a ball — there's no parking, pathing, or vehicle metaphor in the game to translate. Visually the flat white/red/green palette and top-down vehicle staging clash with Helix Jump's 3D neon tower aesthetic. Recommend skipping a literal port; if you want to borrow anything, only steal the \"WHY IS THIS LEVEL SO HARD\" overlay pattern and apply it to a genuine helix near-miss fail clip."
+    },
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "visual_match": 25,
+      "mechanic_match": 35,
+      "audience_match": 70,
+      "overall": 40,
+      "rationale": "Live-action UGC reaction footage clashes hard with Helix Jump's neon 3D-minimalist visual identity — the muted sky-blue/grey/black member palette and human-on-bed framing share zero DNA with the bright cyan/green/red geometric tower the brand has trained users to recognize. The \"reached level 55\" satisfaction beat is generic enough to retrofit (swap in Helix Jump gameplay B-roll on the device screen and reference a boss level or high score), and the broad casual audience overlaps well, but mechanic legibility suffers because rotate-and-drop tension doesn't read in a reaction shot. Worth a low-budget UGC test only if you can guarantee crisp gameplay screen capture and lean on the score-multiplier/boss-level signals; otherwise skip in favor of native gameplay-forward creatives."
+    },
+    {
+      "archetype_id": "other-animation",
+      "visual_match": 25,
+      "mechanic_match": 10,
+      "audience_match": 35,
+      "overall": 20,
+      "rationale": "A licensed Dragon Ball / Goku anime hook is wildly off-brand for Helix Jump: the game has no character, no combat, and a 3D minimalist geometric aesthetic that clashes with shonen anime energy-blast visuals. Mechanic match is near zero — there is no plausible bridge from \"charging energy sphere\" to \"rotate tower, bounce ball through gaps,\" so CTR may spike but install-to-engagement will collapse and you'll likely face IP/ASA risk using Goku likeness. Hard pass; only the broad casual audience overlap saves it from a single-digit score."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-live-action-ugc",
+        "target_game_id": "1345968745",
+        "title": "\"Thanks, I Smashed Boss Level 50\" — Helix Jump UGC Reaction",
+        "hook_3s": "Phone screen explodes with neon — a guy on his bed gasps as the ball smashes through a red ring.",
+        "scene_flow": [
+          "0-3s: Tight selfie-style shot of a 20-something sprawled on a bed, phone vertical, face lit by cyan glow. Screen-record overlay shows the Helix Jump ball bouncing through green gaps.",
+          "3-7s: Friend off-camera asks 'Why are you smiling so much?' — cut to a clean full-screen gameplay capture: ball plummets, tower rotates, smashes through three red trap rings, score multiplier x3 pops.",
+          "7-11s: Cut back to the guy flipping onto his back, phone held up, mouthing 'LET'S GOOO' as a Boss Level 50 banner flashes on screen.",
+          "11-14s: Final gameplay beat — ball drops the last ring, confetti burst in #39FF14, high score text slams in.",
+          "14-15s: End card: Helix Jump logo on cyan background, CTA button pulsing."
+        ],
+        "visual_direction": "Split DNA: warm, grainy, naturally-lit UGC bedroom footage (handheld, slightly overexposed window light) intercut with crisp, full-bleed Helix Jump screen captures in the signature palette — cyan #5CE1E6 helix tower, neon green #39FF14 safe gaps, hot red #FF0000 trap rings against a clean light background. Gameplay cuts are full-screen vertical with no letterboxing so the contrast between messy real life and hyper-clean 3D minimalism becomes the joke. Energetic/competitive UI mood preserved via score multiplier pops and boss banner.",
+        "text_overlays": [
+          "POV: my roommate at 2am",
+          "\"why are you smiling at your phone?\"",
+          "\"I just smashed Boss Level 50 😤\"",
+          "x3 MULTIPLIER",
+          "NEW HIGH SCORE",
+          "Play Helix Jump — free"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Helix Jump rotation is 100% no-copy gameplay videos and Unity playables — zero live-action, zero spoken hook, zero personality. This brief injects the trending UGC-satisfaction archetype (a proven velocity hook in the market scan) that the publisher is completely missing, while protecting mechanic legibility by cutting to full-screen gameplay capture for ~50% of runtime. UA team: ship as a low-budget creator test against broad casual audiences; if CTR beats the no-copy baseline, scale with 2-3 creator variants swapping the boss level number.",
+        "scenario_prompts": [
+          "Hero frame, vertical 9:16 mobile ad still: a full-bleed screen capture of Helix Jump gameplay — a single glossy white sphere mid-bounce on a stacked cylindrical helix tower made of thin disc platforms in vibrant cyan #5CE1E6, with one platform segment glowing neon green #39FF14 as a safe gap and two segments marked in danger red #FF0000 as trap zones, central vertical axis pole, soft pastel light background, no characters, no human figures. Top-center HUD shows score multiplier text 'x3 MULTIPLIER' in bold white sans-serif. 3D minimalist with bright, contrasting colors and simple geometric shapes. Clean, energetic, competitive mobile-game UI chrome identical to Helix Jump screenshots.",
+          "Storyboard frame, vertical 9:16: split composition — top two-thirds is warm grainy UGC bedroom footage of a young man's hands holding a vertical smartphone, face partially visible smiling, soft window daylight, messy white duvet; bottom third is the phone screen showing authentic Helix Jump gameplay — cyan #5CE1E6 helix tower discs, white ball falling through a #39FF14 green gap, a #FF0000 red trap ring just below, no on-screen character. Overlay text in white tilted sticker style: '\"why are you smiling at your phone?\"'. 3D minimalist with bright, contrasting colors and simple geometric shapes inside the phone; realistic UGC outside.",
+          "Storyboard frame, vertical 9:16: full-screen Helix Jump gameplay end-beat — white ball smashing through a cluster of red #FF0000 trap discs, debris shards flying outward, cyan #5CE1E6 tower segments rotating, neon green #39FF14 confetti burst, light minimalist background. Bold banner across upper third reads 'BOSS LEVEL 50' in chunky white caps with red drop shadow. No characters, no humans, no avatars. 3D minimalist with bright, contrasting colors and simple geometric shapes, authentic Helix Jump HUD with high score counter top-right."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_MwCzmeh6agX6kNGJ5BRgxv4L?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTXdDem1laDZhZ1g2a05HSjVCUmd4djRMP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=i2lRl4MO1I6BUFW8JEprKtJU59QYtLx6Uf9PA-5f3MNNEruRsXl1x3nMo78ol13P7AHQTBI1bUpCkuN68mkJtb3j4j1gwKZFGbDD89BuwuIsmGNl5k-3bNsrsojrPyed0mZ8idTPW-g0itcMelmjOxJTXvx4bs7vx1F-VRLelzebSlf6sUQmG8Qg83OZzaMmUn9oWPoI0YPEZ5YdH-SB3R8T3FcVUY4PzquIARsqn78bTvFJw-AHJogVDeKOOQ6FuWZ84jMLDlEv39mSY5wSBbKCsZogfJ6UCltdDMo9NLE2DGDOHWMudflmyQ30vYGygY5Vpz7-BtRTkiQPi96tnw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_sbrFFTzAVDZLGDiQ58TH4VbL?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfc2JyRkZUekFWRFpMR0RpUTU4VEg0VmJMP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=G4Onzk9FAmSxv6QpgAp1RF7-UM3og--lgK2xBAzJhCmGySynybvzyB9YCtWahUqZq9A%7EamOrMZERoT4QPJ42LVeIABjLcFe7EjXIEtOpmax6lS6VMH0lNjeI8ps301OExFi9ux9pm50lgsZyERIqmYPe94CptALwZ5VG49Ueu012tmEp1aJxvsmYVNLdItZI6CtKYwP1z-Cx5ME1zxHSXnPG1Aka-MOS0phMsiM3Sl3m5SOAcRz08%7EtVKKJsmvJXxJ1%7EEyePcZPZEvMx5fMgqPDSAi6wmoucd3vZ43kXVLTjkdWVuqjFmSd57CQlW-B7wuqG9kjHQqCsUws%7Eec4w5g__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_KFPSSos87KhNSbHUzEbBdJpJ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfS0ZQU1Nvczg3S2hOU2JIVXpFYkJkSnBKP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=DKW5PseXE8jDZkNv9K7XV9uir1xdhwlrMetETBgmjAai4bOgnoKfN1LNpX0Y7oxL4xtOyDI2RMuUFrNaJCwbU2V8FroZ5rY971ANjLYjS5cNaGoDNLzyo3AuJfBVFBIn1vAsrUk7sVIPgkrRruYjVMy6R3VzcSPRxKDxMWTU7Nqz3-u4yb-X0lQOeO-iGoQcSaolJaz9r1d3%7ECjSswW2bB-HmABK16FkIz7NuDSbEx8v-hLUP48AishC-tj8fXG5q9iJ6etcJg-3DcZkBSsEjYaPYq8S9wWhb9K5RF9y6LusHjqz2E3Y6ubR8QEVmQeUb8GNIKk7z8o8pB9359G1Aw__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=0.69 × game_fit=40/100 ⇒ priority=0.28"
+    },
+    {
+      "brief": {
+        "archetype_id": "fail-in-game",
+        "target_game_id": "1345968745",
+        "title": "Why Is Level 27 So Hard? — Helix Near-Miss Fail",
+        "hook_3s": "A neon ball plummets down a spinning helix tower, grazes a green ring, then SMACKS a red trap — screen flashes \"WHY IS THIS LEVEL SO HARD?\"",
+        "scene_flow": [
+          "0-3s: Cold open mid-fall. Cyan ball ricochets through three tight gaps in a rotating tower, combo multiplier x3 popping on screen — no setup, pure kinetic hook.",
+          "3-7s: Finger drags to rotate the tower; ball threads two more gaps, x5 multiplier flares. A red trap platform rotates into view at the last second.",
+          "7-10s: SMASH — ball clips the red ring, screen shakes, neon shatter particles, big red 'FAIL' stamp. Overlay: 'WHY IS THIS LEVEL SO HARD?'",
+          "10-13s: Quick replay slowed 50%, arrow points at the exact pixel of the missed gap. Overlay: 'CAN YOU BEAT IT?'",
+          "13-15s: Tower resets, ball hovers above gap, finger taps. CTA card slams in over the helix: 'PLAY FREE'."
+        ],
+        "visual_direction": "Lean fully into Helix Jump's signature 3D minimalist tower: a single vertical cylindrical axis with stacked disc platforms in soft pastel blue/lavender, a glossy cyan (#5CE1E6) ball as the only hero object, neon green (#39FF14) safe rings and aggressive red (#FF0000) trap segments. Soft top-down sky background, subtle ambient shadows, no extra props or characters. Camera stays locked in the iconic Helix Jump portrait framing — tower centered, ball roughly center-screen, platforms stretching up and down out of frame. Motion language is all rotation + bounce + smash particles; HUD overlays (score number top-center, multiplier badge, level pill) match the real in-game chrome.",
+        "text_overlays": [
+          "LEVEL 27",
+          "x3 COMBO!",
+          "WHY IS THIS LEVEL SO HARD?",
+          "99% FAIL HERE",
+          "CAN YOU BEAT IT?",
+          "PLAY FREE"
+        ],
+        "cta": "PLAY FREE",
+        "rationale": "Voodoo's current Helix Jump rotation is almost entirely no-copy gameplay loops and silent playables — there is zero \"fail-bait / can you beat it?\" framing in market, even though that hook is the trending winner in the archetype scan. This brief imports only the proven \"WHY IS THIS LEVEL SO HARD?\" overlay pattern and welds it to an authentic helix near-miss, giving UA a copy-driven CTR lift angle the existing 15 creatives don't cover. Ship as a 15s video first, then port the same fail beat into the Unity playable to A/B against the silent playables already live.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, authentic Helix Jump in-game screenshot: a glossy cyan #5CE1E6 ball mid-bounce on a rotating vertical 3D helix tower made of stacked circular disc platforms, one platform segment glowing danger red #FF0000 directly below the ball, a neon green #39FF14 safe gap ring just passed, soft pastel lavender sky background, top-down portrait camera locked on tower, score '12,480' top-center and 'LEVEL 27' pill HUD, bold white sans-serif overlay text 'WHY IS THIS LEVEL SO HARD?' across middle of screen, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, no extra props, clean mobile game UI chrome, high contrast, crisp render",
+          "Storyboard frame 1, aspect 9:16, authentic Helix Jump gameplay still: cyan #5CE1E6 ball smashing through a neon green #39FF14 ring on a rotating helix tower of stacked disc platforms, bright shatter particles, red #FF0000 trap segment visible on next platform below, multiplier badge 'x3 COMBO!' flaring in upper third, level number HUD pill, soft light background, portrait camera, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, in-game UI chrome only",
+          "Storyboard frame 2, aspect 9:16, authentic Helix Jump fail moment: cyan #5CE1E6 ball colliding with a glowing red #FF0000 trap segment on the helix tower, red shockwave ring, screen-edge red vignette, broken disc particles, neon green #39FF14 safe ring visible above, large bold white overlay 'CAN YOU BEAT IT?' centered, score HUD frozen top-center, 3D minimalist with bright contrasting colors and simple geometric shapes, soft pastel background, portrait orientation, no characters, locked Helix Jump camera framing"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_ETtn37QswmhX7YA6Ninaf9Fr?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRVR0bjM3UXN3bWhYN1lBNk5pbmFmOUZyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=dj4a6ynFq9XBsuWRxTyCPCzdiO-%7EM%7ERAQB3zt6s30iQdoeNagS-pW3PfU5FKF5x%7EWP2yJIk-I-0W3AA0qhj-8%7EyAKlvWNX5XLiYTtvlqQ2fteBZJ40r5cL%7EwknSSam7vVHOYRD1UzYEGwuvar9WUDCp%7EL-AHxD5B8apzALYXUewY0b67AHIDiJPRJV9Dl3IHh7sCdQLuLkGblphOaWIeqO1d4WMiac14vm5PxEDFtULnTQc6TwiUHPKMzNp0xXw0zjxks0panLoDTZJY1u%7Eo0vr92i87XZOcrqrxcrU4u03JAYFNPCEMeWn0bUzvUsBPU1NoYeNbx33Y%7Eyhsi3iABw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_kvA4aUBcmUh61xQNbRw1QsgV?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfa3ZBNGFVQmNtVWg2MXhRTmJSdzFRc2dWP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=b%7ETjPF5fk7h1Sxzil1TwilqE1qZzov776bnfuLyXeV9BP1j%7EtbdPd3le8JIGpQ9E0ug4JAsjk9akZ0jtM9oTz3LItxv6AkDuUeL8hgzdf-BhVxDX4FOtB%7EKAk6wledVPAfWEXj3IHWLnVtUg231bcVnjIl8ryPUPkSrYsXeHgL1mlO%7E7lmthY6lYgqIOFNfphkoVyXYaB-eng1BfNsvf2yNjPrAUPel7u-qggc%7E6tWkz9iKMgz15XBI4F4N3BhxUP-dNOZiuY4Jlviffq33TQoyCi1VLDR3Z6JMjp6NFjknLS9LufqXJbFedZMrQtVM0hxvK93pL5RHD1A7yvvFKaw__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_JGKizy8fF1k11jyPnjSbYNxq?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSkdLaXp5OGZGMWsxMWp5UG5qU2JZTnhxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=d-I0ZtO04Sp5MXdiYcjBI3iwz9DwclLAgHFYF4IaDBuP4rI1ypD5bpQeMb3s3wSuiHmd9RqNwl%7E-oiAqbHkL7vpk-UGJnI4S21LR2tNfoXYsYNjOIa-RrCPd4jKaRkh3uqhjpi8ulDKhDFnkfc7ygumKD0WiL1fGIjvbyGfy62kGg%7EYjSkRk8dwrNBInJ3lQPdu%7Em8uToK2cx-t4IYaTtxxO2Z5rInSZZn4DLItUJcmvh%7EMijPU8rsegJejC-%7E-cfzoM7yjCrUjNbWbb3z-t09K8fjMEDmdfJVlugtFU43gMTws9sT%7Ey0XntNRcDPBktpvwzZa0fOLiD1D3d0OzJ%7Ew__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.79 × game_fit=30/100 ⇒ priority=0.24"
+    },
+    {
+      "brief": {
+        "archetype_id": "curiosity-animation",
+        "target_game_id": "1345968745",
+        "title": "What's Beneath the Helix? — Cross-Section Curiosity Drop",
+        "hook_3s": "\"How deep does the tower REALLY go?\" — neon helix slices open to reveal layer after hidden layer plunging into the dark.",
+        "scene_flow": [
+          "0–3s: Standard Helix Jump POV — neon ball bouncing on a cyan helix platform. Camera pulls back fast and the tower 'cracks open' like a cross-section diagram, revealing dozens more layers stacked far below.",
+          "3–7s: Animated downward scroll through the cross-section: ring 10 (easy), ring 50 (red trap maze), ring 100 (boss ring with pulsing accent-red core), ring 250 (mystery '???' layer glowing green).",
+          "7–11s: Cut back to gameplay — ball smashes through 5 platforms in a combo streak, multiplier x5 pops, screen shakes, neon-green shards explode.",
+          "11–14s: Player 'fails' on a red trap near the top. Cross-section reappears showing how FAR they could have gone — 95% of the tower still unexplored, glowing below.",
+          "14–15s: CTA card — tower silhouette with depth markers, finger-tap prompt on the helix."
+        ],
+        "visual_direction": "Lean fully into Helix Jump's 3D minimalist DNA — cyan (#5CE1E6) helix discs, neon-green (#39FF14) safe zones, accent-red (#FF0000) traps — but borrow the cross-section's \"diagram reveal\" device. The tower is shown as an architectural cutaway against a clean off-white/light-grey background, with thin schematic lines, depth labels, and floor numbers in a technical-blueprint font, all rendered in the game's flat geometric style. No illustrated humans, no earth tones. The reveal moment uses a clean horizontal \"slice\" wipe so the tower's interior pops open like a science diagram while preserving in-game lighting and bounce physics.",
+        "text_overlays": [
+          "How deep does it go?",
+          "Layer 50: Trap Maze",
+          "Layer 100: BOSS",
+          "Layer 250: ???",
+          "You quit at Layer 4.",
+          "Tap to descend"
+        ],
+        "cta": "Tap to Descend",
+        "rationale": "Voodoo's current Helix Jump rotation is dominated by silent, copy-less direct-gameplay videos and Unity playables — zero curiosity-driven \"what's hidden below\" framing. This brief imports the trending cross-section/reveal hook (underrepresented in their stack) and reskins it natively in the neon helix palette, giving UA a fresh thumb-stopper that promises depth and mystery instead of just showing the loop. Test against the Admob video baseline; the \"Layer ???\" tease is the IPM lever.",
+        "scenario_prompts": [
+          "Hero frame, 9:16 vertical mobile game screenshot, authentic in-game moment from Helix Jump: a 3D minimalist neon cyan (#5CE1E6) spiral helix tower shown as a vertical architectural cross-section cutaway against a soft light-grey background, stacked rotating disc platforms descending deep into the frame, small glowing neon-green (#39FF14) bouncing ball mid-bounce on an upper ring, scattered bright red (#FF0000) trap segments on lower rings, thin white schematic depth lines and floor-number labels along the right edge, score multiplier HUD '×3' top-left and high-score counter top-right in clean sans-serif, bold on-screen text overlay 'How deep does it go?' centered upper third, bright contrasting colors, simple geometric shapes, flat 3D minimalist render, no characters, no people, no illustrated humans, sharp clean edges, mobile game UI chrome",
+          "Storyboard frame mid-video, 9:16 vertical, authentic Helix Jump gameplay still: neon cyan (#5CE1E6) helix tower mid-rotation, small green (#39FF14) ball smashing through three stacked platforms in a combo streak, exploding shards of neon green debris, red (#FF0000) danger segments visible on adjacent rings, light minimalist background, score multiplier 'x5 COMBO' large bold overlay center-screen, top HUD shows current depth 'Layer 47', 3D minimalist with bright contrasting colors and simple geometric shapes, no character on screen, dynamic motion blur on the ball, in-game camera angle looking slightly down the tower axis",
+          "Storyboard CTA frame, 9:16 vertical, Helix Jump cross-section reveal: full vertical neon cyan (#5CE1E6) helix tower silhouette as an architectural diagram against off-white background, depth markers labeled 'Layer 10', 'Layer 100 BOSS' in red (#FF0000), 'Layer 250 ???' glowing neon green (#39FF14) at the bottom, a tiny ball icon stuck near the very top labeled 'YOU', large bold text overlay 'Tap to Descend' lower third, animated finger-tap icon on the helix, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, clean mobile game HUD, schematic blueprint feel rendered in the game's flat neon style"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_E3rZYhDmy8VnKKCwhNfir32W?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRTNyWlloRG15OFZuS0tDd2hOZmlyMzJXP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=idPnJtrU-RQuafTsKv7HK%7Ei4SGXcsq%7EQX34kGv2TicKp%7ExV2J9wKWNWu2DJi-phyHeqw1-bHhSObHM2fO2QFsYmq7DHDwwnyU6PhFCDLRnB8SpwZ-ELqv4uJXO71bwgtordXemm7CKwWMVQMTjWcL2ZQlPlvh16%7EFA0yt71SLbbaxCXleEdmXiha1LDTuq0Y0wODwn6Tgr4AvLmFDBs-khKeTCXhgFUjQBMNFnBCOV1e%7ECbMIjPVnvgn4N6IDpqT7TiWaHhJnIWwgX382CtyGz07W8mr3a%7EY9d7rb4GP5qxKxhhJbjTY8YhIvBbnn2oZfqGoz3ET-RQuouqKbgZVeA__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_9gqLHNq1vnjRaD8X9cvr8ek1?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOWdxTEhOcTF2bmpSYUQ4WDljdnI4ZWsxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ptPmt0PkSKLshBeGlSruhjQXWTxD0Mm01f5mdVUOuVLNSeDDsqir6o0AFjTQCil2y2NTLca4xqmi1swMN7orn5csS1kmnkRSyZb6GefBKgoq4iQyDlbgIBNVpvuP87FCLfPJXZsURB62oe0iVqLcdJ-gu6YZuZpX3qFPy9Heh9PIsi-xycigSBLrbEDF9W%7EzI1YsJU2A8nEZta7typNC3HfUhaQMDYENPjwdXF30G2agGIj6aIVx2mE3FzSN%7E94W2IMgidUPfl%7E6lEd2numbBns4v87RMTGwOJrc%7EB3ggdgul3PvoZuGlICZOvHEZVtAF8dyQ5m-vYvRG7QNiUo80w__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_AmMfRwuPJY9tBUaZvwz3tw4j?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQW1NZlJ3dVBKWTl0QlVhWnZ3ejN0dzRqP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=C1Hzun-zzi5EN5OTRuK7KOrXUDlDQWNLIFtG0LMQc2BQdGJi0uTvIgcXYWtgZbfqs4nn1Hl%7EyoHBOdu6%7EKwV6tNqjJYPGqiV1OYH0l5M7Ffp7ut1OOc-UlIur62yDnEt2kIQNM0Tin6iP%7EYM3tiokAecLDozbvimlzjyOKziHwfz8PhoQlpfg3k9tv6fVrmavOFCYlL0brTp39AVBLMl8UAyNVgntrvc42rF0dNiMVwwDpo6WOf5yAmUQduX4eVRZLa5GH18I5WzlOv%7EC-8dw0usav88XtqCWafRRAIpt6b6tWSlymNJdHPtmOlI4e4X101EHwKmhjzdQ3903h4UmA__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.85 × game_fit=25/100 ⇒ priority=0.21"
+    }
+  ],
+  "pipeline_duration_seconds": 585.0787498339923,
+  "total_cost_usd": 0.012373,
+  "generated_at": "2026-04-26T04:40:27.821211Z"
+}

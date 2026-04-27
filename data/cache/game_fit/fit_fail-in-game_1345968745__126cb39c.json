@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 25,
+  "mechanic_match": 20,
+  "audience_match": 60,
+  "overall": 30,
+  "rationale": "The \"fail · can you win?\" hook framing is broadly hypercasual-friendly and shares an audience with Helix Jump, but the specific bus-parking/traffic-jam puzzle scenario has zero mechanical overlap with rotating a helix tower and bouncing a ball — there's no parking, pathing, or vehicle metaphor in the game to translate. Visually the flat white/red/green palette and top-down vehicle staging clash with Helix Jump's 3D neon tower aesthetic. Recommend skipping a literal port; if you want to borrow anything, only steal the \"WHY IS THIS LEVEL SO HARD\" overlay pattern and apply it to a genuine helix near-miss fail clip."
+}

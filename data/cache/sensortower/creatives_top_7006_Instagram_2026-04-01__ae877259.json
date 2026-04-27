@@ -1,0 +1,408 @@
+{
+  "count": 832,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "9d57cebded1aa9e4",
+      "app_id": "657764bcad4adb78f0c03332",
+      "network": "Instagram",
+      "phashion_group": "9d57cebded1aa9e4",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-17",
+      "last_seen_at": "2026-04-11",
+      "creatives": [
+        {
+          "id": "9d57cebded1aa9e4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b806f1c73d2bfa2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b806f1c73d2bfa2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b806f1c73d2bfa2/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "A Variety of Slots with Flex Spins",
+          "button_text": "Learn More",
+          "message": "Your favorite reels just got an upgrade \ud83c\udfb0 DraftKings Casino\u2019s new, exclusive FLEX SPINS give you the power to play your way \ud83d\udc51"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "657764bcad4adb78f0c03332",
+        "canonical_country": "US",
+        "name": "DraftKings Casino - Real Money",
+        "publisher_name": "DraftKings",
+        "publisher_id": "5614ead33f07e25d290233b6",
+        "humanized_name": "DraftKings Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/53/c2/a553c2ae-66f2-cee3-aa80-9109f40f9948/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "657764bcad4adb78f0c03332",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "acd0da83b234f941",
+      "app_id": "67f9b33c67bda8def67d85d8",
+      "network": "Instagram",
+      "phashion_group": "acd0da83b234f941",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-31",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "acd0da83b234f941",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/995ec4f222806a74/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/995ec4f222806a74/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/995ec4f222806a74/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Your Daily Free Spin Awaits",
+          "button_text": "Install Now",
+          "message": "Every day you get a free spin on FanCash Spins. Open the app, spin the wheel, and see what rewards show up."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67f9b33c67bda8def67d85d8",
+        "canonical_country": "US",
+        "name": "Fanatics Casino - Real Money",
+        "publisher_name": "Fanatics",
+        "publisher_id": "5604a5188ac3501722023628",
+        "humanized_name": "Fanatics Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/c9/09/adc909d6-9cc7-b7a6-ec3c-925abc6d4217/AppIcon_casino_prod-0-0-1x_U007ephone-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "67f9b33c67bda8def67d85d8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "bfc080b004b2422b",
+      "app_id": "67f9b33c67bda8def67d85d8",
+      "network": "Instagram",
+      "phashion_group": "bfc080b004b2422b",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-27",
+      "last_seen_at": "2026-04-18",
+      "creatives": [
+        {
+          "id": "bfc080b004b2422b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8a4e9ec19406d11e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8a4e9ec19406d11e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8a4e9ec19406d11e/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Your Daily Free Spin Awaits",
+          "button_text": "Download",
+          "message": "Every day you get a free spin on FanCash Spins. Open the app, spin the wheel, and see what rewards show up."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67f9b33c67bda8def67d85d8",
+        "canonical_country": "US",
+        "name": "Fanatics Casino - Real Money",
+        "publisher_name": "Fanatics",
+        "publisher_id": "5604a5188ac3501722023628",
+        "humanized_name": "Fanatics Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/c9/09/adc909d6-9cc7-b7a6-ec3c-925abc6d4217/AppIcon_casino_prod-0-0-1x_U007ephone-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "67f9b33c67bda8def67d85d8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "6247636d992e2e96",
+      "app_id": "637bf637ad4adb7d0e6ed0c5",
+      "network": "Instagram",
+      "phashion_group": "6247636d992e2e96",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-13",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "6247636d992e2e96",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/59e56a31161e6373/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/59e56a31161e6373/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/59e56a31161e6373/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Second Chance Bonus Bet. Take Your Shot.",
+          "button_text": "Sign Up",
+          "message": "Game on! New to BetRivers? Place your first qualifying sports bet. If it doesn\u2019t win, you\u2019ll get Bonus Bets back, because every player deserves a comeback."
+        },
+        {
+          "id": "7b9a68a7747a3586",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/59e56a31161e6373/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/59e56a31161e6373/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/59e56a31161e6373/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Bet Smarter with BetRivers",
+          "button_text": "Install Now",
+          "message": "Enjoy competitive odds, fast payouts, and a smooth sportsbook experience. Sign up today and start betting with confidence."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "637bf637ad4adb7d0e6ed0c5",
+        "canonical_country": "US",
+        "name": "BetRivers: Casino & Sportsbook",
+        "publisher_name": "Rush Street Interactive",
+        "publisher_id": "6063554b64c5fd32d4bd2c12",
+        "humanized_name": "BetRivers: Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/bd/f6/c5bdf6e6-6a15-c356-22c7-ce707f341d83/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "637bf637ad4adb7d0e6ed0c5",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "95976d001340f208",
+      "app_id": "67f9b33c67bda8def67d85d8",
+      "network": "Instagram",
+      "phashion_group": "95976d001340f208",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-31",
+      "last_seen_at": "2026-04-18",
+      "creatives": [
+        {
+          "id": "95976d001340f208",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76c0c4e9d4720eb6/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76c0c4e9d4720eb6/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76c0c4e9d4720eb6/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "New Customers get up to 1000 FREE SPINS!",
+          "button_text": "Install Now",
+          "message": "New customers get up to 1000 FREE SPINS on Triple Cash Eruption! Wager $10, get 100 free spins/day for 10 days!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67f9b33c67bda8def67d85d8",
+        "canonical_country": "US",
+        "name": "Fanatics Casino - Real Money",
+        "publisher_name": "Fanatics",
+        "publisher_id": "5604a5188ac3501722023628",
+        "humanized_name": "Fanatics Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/c9/09/adc909d6-9cc7-b7a6-ec3c-925abc6d4217/AppIcon_casino_prod-0-0-1x_U007ephone-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "67f9b33c67bda8def67d85d8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5bf9b51fe3aecb63",
+      "app_id": "5b62be8c197e970588471cfd",
+      "network": "Instagram",
+      "phashion_group": "5bf9b51fe3aecb63",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-12",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "5bf9b51fe3aecb63",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b0c4278f438262d1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b0c4278f438262d1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b0c4278f438262d1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "It's More Fun When It's For Fun!",
+          "button_text": "Learn More",
+          "message": "The safety of our customers is our top priority. We utilize cutting-edge technology and resources to empower customers to play responsibly. Check out our Responsible Gaming tools!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b62be8c197e970588471cfd",
+        "canonical_country": "US",
+        "name": "DraftKings Sportsbook & Casino",
+        "publisher_name": "DraftKings",
+        "publisher_id": "5614ead33f07e25d290233b6",
+        "humanized_name": "DraftKings Sportsbook",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/ff/48/ffff488f-a491-4b8b-8898-ce6b0958c073/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5b62be8c197e970588471cfd",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "8202d7e26b4fd442",
+      "app_id": "657764bcad4adb78f0c03332",
+      "network": "Instagram",
+      "phashion_group": "8202d7e26b4fd442",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-12",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "8202d7e26b4fd442",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/47fda0d5ad0de0de/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/47fda0d5ad0de0de/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/47fda0d5ad0de0de/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "It's More Fun When It's For Fun!",
+          "button_text": "Learn More",
+          "message": "The safety of our customers is our top priority. We utilize cutting-edge technology and resources to empower customers to play responsibly. Check out our Responsible Gaming tools!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "657764bcad4adb78f0c03332",
+        "canonical_country": "US",
+        "name": "DraftKings Casino - Real Money",
+        "publisher_name": "DraftKings",
+        "publisher_id": "5614ead33f07e25d290233b6",
+        "humanized_name": "DraftKings Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/53/c2/a553c2ae-66f2-cee3-aa80-9109f40f9948/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "657764bcad4adb78f0c03332",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "83b5f46a9b176166",
+      "app_id": "657764bcad4adb78f0c03332",
+      "network": "Instagram",
+      "phashion_group": "83b5f46a9b176166",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-15",
+      "last_seen_at": "2026-04-11",
+      "creatives": [
+        {
+          "id": "83b5f46a9b176166",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "NEW Flex Spins on Daily Rewards Rocket",
+          "button_text": "Play Game",
+          "message": "EXCLUSIVE FLEX SPINS have landed on DraftKings Casino \ud83d\ude80 Head to the app for your daily chance at FREE Flex Spins \ud83c\udfb0"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "657764bcad4adb78f0c03332",
+        "canonical_country": "US",
+        "name": "DraftKings Casino - Real Money",
+        "publisher_name": "DraftKings",
+        "publisher_id": "5614ead33f07e25d290233b6",
+        "humanized_name": "DraftKings Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/53/c2/a553c2ae-66f2-cee3-aa80-9109f40f9948/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "657764bcad4adb78f0c03332",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "8b1b5b289c3233be",
+      "app_id": "657764bcad4adb78f0c03332",
+      "network": "Instagram",
+      "phashion_group": "8b1b5b289c3233be",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-30",
+      "last_seen_at": "2026-04-11",
+      "creatives": [
+        {
+          "id": "8b1b5b289c3233be",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9dccfa8902fa25f8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9dccfa8902fa25f8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9dccfa8902fa25f8/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play with Flex Spins Today",
+          "button_text": "Learn More",
+          "message": "Your favorite reels just got an upgrade \ud83c\udfb0 DraftKings Casino\u2019s new, exclusive FLEX SPINS give you the power to play your way \ud83d\udc51"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "657764bcad4adb78f0c03332",
+        "canonical_country": "US",
+        "name": "DraftKings Casino - Real Money",
+        "publisher_name": "DraftKings",
+        "publisher_id": "5614ead33f07e25d290233b6",
+        "humanized_name": "DraftKings Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/53/c2/a553c2ae-66f2-cee3-aa80-9109f40f9948/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "657764bcad4adb78f0c03332",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "96dcd1e0192264e9",
+      "app_id": "5af5afad09c8b14d4327867e",
+      "network": "Instagram",
+      "phashion_group": "96dcd1e0192264e9",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-02",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "96dcd1e0192264e9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "Come Back Gift Awaits",
+          "button_text": "Play Game",
+          "message": "WE'VE MISSED YOU! \ud83e\udd17\nRejoin us and claim your surprise gift!\nLimited time only. What are you waiting for?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5af5afad09c8b14d4327867e",
+        "canonical_country": "US",
+        "name": "Jackpot World - Slots Casino",
+        "publisher_name": "Netmarble",
+        "publisher_id": "5614c62a3f07e25d2900a08c",
+        "humanized_name": "Jackpot World",
+        "icon_url": "https://play-lh.googleusercontent.com/GbSmufLwKwNJmOGukpGY-t0g4GLW23QL8YVDEowY3fgKZuDHrvRSivQmzsuLAsNPdVSf92GKjD6B7ON9z77YpA=s150",
+        "os": "unified",
+        "id": "5af5afad09c8b14d4327867e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_n1bJnViHZWe4ej9pCxotUbYL?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfbjFiSm5WaUhaV2U0ZWo5cEN4b3RVYllMP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=iX%7EIolF6M1sQNiOLK83J9nfytOcEqYEVPBXiAMrK%7EFavO7tOFYpv8bORfkIsHSmMMG5g-F8yXX%7E8kiAXxz%7En9X%7EvfAuO0naEiZlKUjZVN-Hq%7EtCdoxWlPaOUS31s%7EOucXlH4-pH5wrAZfJy-Z05Mlpo3MQ1FCprMLukm843mpH6J1teGARMFuk-lyfH9eFCA8vHuhStkyuvU3OcpTsB5L47eRk-at%7EjDXaXliLHwoBQvyUlLY-Dz0w6Zuyd2uWV6fqhKV16Dp%7E9tkYY%7E5N1uur27k7TTAVjufgbE1116uyY5ws9ZWGqhB6P41jvakCbIVRReR71x8KuSS0fBE4dqow__",
+  "job_id": "job_WVY4EQzb6FU4xJ8ePvr5ztno",
+  "asset_id": "asset_n1bJnViHZWe4ej9pCxotUbYL",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, 3D Casual Abstract style, extreme close-up of a colorful 3D puzzle grid mid-chain-reaction, multiple glossy bouncing balls ricocheting with motion blur and amber #FDBA4D glow trails, obstacles shattering into soft particles, deep #20232B background with #403F6D purple grid walls, dramatic rim lighting, satisfying physics moment frozen in time, on-screen text overlay 'wait for it \ud83d\udc40' in white rounded sans-serif at top, mobile gameplay capture aesthetic",
+  "model_id": "flux.1-dev",
+  "mode": "img2img",
+  "reference_image": "01.png",
+  "img2img_strength": 0.6
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_6215qJ6z4Ak6wGXD1aRn2YEm?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNjIxNXFKNno0QWs2d0dYRDFhUm4yWUVtP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=PlRl8As9ApVonCqmmUHCjSX67ViI9RUo222mg3xa8hKSNRMIf4qQN690M1C%7EIgNhUTH9L4XuztxzNEAvh5bmObCvzQpFLpPHhPPjlV5hMh2KEI1EcanSYhjQ%7En9D80KM5X9M5bprayztk2UB1dIWRubk4HnL%7ErTHVOiADVCou-dDlspeNuKhZI5j%7E6tRfPbKb7H899CywehhH5m08QQ1cL47V-81PSORIj4qoxXsPy4Mwfr7G0%7EbIwDHgmfiP0cBvmPo1ayIQv2CjBKpJYsmVL0I0oYW0lDR1mhStWWMYs2IHcwidKcD80iBhj-zhXiKTfsIhM4lTOLITK8NE0A8Iw__",
+  "job_id": "job_DdwNgAQ2FuuKwiEosbLoYwcD",
+  "asset_id": "asset_6215qJ6z4Ak6wGXD1aRn2YEm",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16: 3/4 angle close-up of colorful marbles rolling along a light grey conveyor belt and dropping into matching colored boxes below, one orange marble mid-air with motion sparkle, soft lavender backdrop, rounded chunky shapes. Clean and colorful 3D cartoon style with soft, rounded shapes. Palette #E5DFFF, #F0F0F8, #FFB13B. White rounded on-screen text 'so satisfying \ud83e\udee0' centered top, level progress bar in orange, mobile vertical ad framing.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

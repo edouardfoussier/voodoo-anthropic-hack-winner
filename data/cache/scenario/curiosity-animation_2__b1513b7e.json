@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_98exm9BWsE17GacJxjHsdWz3?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOThleG05QldzRTE3R2FjSnhqSHNkV3ozP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=L-XSj2DakVzl8r9s4TNWDslnoRYWqTYqDn1%7Enxpr%7E19i3b9R1P0CDeYKrz72UBiRpPxr1lOuklotJcRSph4qa9NKlSAJwdunqcZxA6fPPpE9OZ8zLTm8IV0%7Em0HcmLHtHY1cZEN1AG6Ow-6BXh2XiOTOQPoN8bbGqDdI3Q6JEbeZt-05NivsgNHHZRumi2GJ1R7CuQHr8G8nPmc%7EG5BfEUPalEbJI-5uVi-8Jox144wNqOgjSX4dn2siQp0l9lWMDPkGAiRkN0etUWy8eesQ92l-u%7Eb2chc%7EfrAFhbHn%7EP5mRrl93MC0ZZ6%7EOnMcZR3rRtQUN-FAR1fXR4q1W68kIQ__",
+  "job_id": "job_CsbdZwbQRPEb34KdLieVjcPr",
+  "asset_id": "asset_98exm9BWsE17GacJxjHsdWz3",
+  "stub": false,
+  "prompt": "Storyboard frame 3, vertical 9:16: live gameplay POV of Helix Jump, top-down-ish 3D minimalist view of the rotating helix tower, glossy ball mid-bounce smashing through a stack of electric green (#39FF14) platforms with shatter particles, hot red (#FF0000) trap ring just dodged below, cyan (#5CE1E6) sky background, huge score multiplier 'x8 COMBO!' overlay in bright neon yellow-green, finger-drag swipe indicator hinting tower rotation, simple geometric shapes, bright contrasting colors, no character, clean Helix Jump HUD with combo counter and level progression bar.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

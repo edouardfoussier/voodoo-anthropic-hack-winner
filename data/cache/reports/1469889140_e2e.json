@@ -1,0 +1,341 @@
+{
+  "target_game": {
+    "app_id": "1469889140",
+    "name": "Crazy Kick! Fun Football game",
+    "genre": "Arcade",
+    "sub_genre": "Sports",
+    "core_loop": "Swipe to control the ball, dodge defenders, and score a goal to advance to the next level.",
+    "audience_proxy": "Casual mobile gamers, skewing male, ages 8-30, looking for quick, physics-based sports action.",
+    "visual_style": "3D hyper-casual, low-poly, bright and colorful with simple stickman characters.",
+    "palette": {
+      "primary_hex": "#F5D77F",
+      "secondary_hex": "#1CB4F0",
+      "accent_hex": "#99CC33",
+      "description": "Vibrant and sunny palette dominated by sandy yellow and sky blue, with bright green UI accents."
+    },
+    "key_mechanics": [
+      "swiping",
+      "physics-based movement",
+      "dodging",
+      "aiming"
+    ],
+    "character_present": true,
+    "ui_mood": "energetic/competitive",
+    "screenshot_signals": [
+      "Level progression tracker",
+      "In-game text overlays",
+      "Trajectory trail",
+      "Opponent characters"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 16,
+    "num_phashion_groups": 16
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "satisfaction-in-game",
+      "label": "Satisfaction · in-game",
+      "member_creative_ids": [
+        "67a7083d6f23bd94"
+      ],
+      "centroid_hook": {
+        "summary": "Rapid-fire block placement clearing a complex green grid.",
+        "visual_action": "Green blocks are slotted into a grid at high speed, filling gaps and clearing lines.",
+        "text_overlay": "SMART GENIUS PSYCHOPATH",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#4CAF50",
+        "#FFEB3B",
+        "#3F51B5"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.704,
+      "derivative_spread": 1.0,
+      "freshness_days": 3.0,
+      "overall_signal_score": 3.132,
+      "rationale": "1 creatives across 1 unique advertisers, average age 3d (velocity source: sov). Hook representative: \"Rapid-fire block placement clearing a complex green grid.\""
+    },
+    {
+      "archetype_id": "fail-3d-render",
+      "label": "Fail · 3D-render",
+      "member_creative_ids": [
+        "a501f1d09aa3b810"
+      ],
+      "centroid_hook": {
+        "summary": "A cat jumps on a desk, startling a man who falls backward.",
+        "visual_action": "An orange cat leaps onto a desk, followed by a close-up of its face and then the butler falling out of his chair.",
+        "text_overlay": "Gardenscapes",
+        "voiceover_transcript": null,
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#2C5E9E",
+        "#D97B41",
+        "#76B82D"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.353,
+      "derivative_spread": 1.0,
+      "freshness_days": 381.0,
+      "overall_signal_score": 0.911,
+      "rationale": "1 creatives across 1 unique advertisers, average age 381d (velocity source: sov). Hook representative: \"A cat jumps on a desk, startling a man who falls backward.\""
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "label": "Curiosity · animation",
+      "member_creative_ids": [
+        "0d364815e2ca3d52",
+        "e6e407c8d6232949"
+      ],
+      "centroid_hook": {
+        "summary": "Reveals a hidden underground bunker beneath the Eiffel Tower.",
+        "visual_action": "A vertical cross-section view pans down from the Eiffel Tower to show a multi-level subterranean base.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#2C3E50",
+        "#4A5D4E",
+        "#E67E22"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.148,
+      "derivative_spread": 1.0,
+      "freshness_days": 285.5,
+      "overall_signal_score": 0.835,
+      "rationale": "2 creatives across 2 unique advertisers, average age 286d (velocity source: sov). Hook representative: \"Reveals a hidden underground bunker beneath the Eiffel Tower.\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "bdf6fd7b1032fa14",
+        "5ba7458dea1165c1",
+        "f8b53e0f8d3ee77a"
+      ],
+      "centroid_hook": {
+        "summary": "A hand uses a stylus to move colorful buses in a crowded parking lot, accompanied by a question about relaxation.",
+        "visual_action": "A hand with a stylus interacts with a grid of buses, sliding them to clear paths and send them to a queue.",
+        "text_overlay": "Hey! Played a game that Actually makes you Feel relaxed?",
+        "voiceover_transcript": "Hey! Have you ever played a game that actually makes you feel relaxed?",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#A0C4FF",
+        "#FFFFFF",
+        "#FF8C00"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.908,
+      "derivative_spread": 1.0,
+      "freshness_days": 80.7,
+      "overall_signal_score": 0.806,
+      "rationale": "3 creatives across 3 unique advertisers, average age 81d (velocity source: sov). Hook representative: \"A hand uses a stylus to move colorful buses in a crowded parking lot, accompanie\""
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "label": "Fail · in-game",
+      "member_creative_ids": [
+        "0f1d747b3e7d863f"
+      ],
+      "centroid_hook": {
+        "summary": "Player attempts to move buses in a crowded lot but immediately causes a collision.",
+        "visual_action": "A hand cursor selects a purple bus which moves out, then selects a red bus that crashes into another.",
+        "text_overlay": "WHY THIS LEVEL IS SO HARD, CAN YOU WIN?",
+        "voiceover_transcript": null,
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#4CAF50",
+        "#2196F3",
+        "#F44336"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.028,
+      "derivative_spread": 1.0,
+      "freshness_days": 259.0,
+      "overall_signal_score": 0.79,
+      "rationale": "1 creatives across 1 unique advertisers, average age 259d (velocity source: sov). Hook representative: \"Player attempts to move buses in a crowded lot but immediately causes a collisio\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "satisfaction-in-game",
+      "visual_match": 22,
+      "mechanic_match": 15,
+      "audience_match": 35,
+      "overall": 22,
+      "rationale": "This is a block/grid puzzle satisfaction hook — its mechanics (slotting blocks, clearing lines) have zero overlap with Crazy Kick's swipe-to-shoot, physics-based soccer loop, so a faithful adaptation isn't viable. The green/yellow/indigo palette partially rhymes with the game's sunny yellow + green accents, but the calm puzzle aesthetic clashes with the energetic stickman sports vibe and male 8–30 sports audience. Pass on adapting this archetype directly; only the \"genius/psychopath\" text-overlay meme could be borrowed onto a trick-shot montage if you want to test the satisfaction angle."
+    },
+    {
+      "archetype_id": "fail-3d-render",
+      "visual_match": 25,
+      "mechanic_match": 15,
+      "audience_match": 30,
+      "overall": 22,
+      "rationale": "This is a Playrix-style domestic slapstick fail hook (cat startles butler) built for casual puzzle/decor audiences skewing female 30+ — almost zero overlap with Crazy Kick's male 8-30 sports-arcade audience. The 3D-render interior palette and character archetypes clash with the bright stadium/stickman low-poly look, and the \"fail\" hook has no natural bridge to swipe-to-shoot soccer mechanics without a forced and likely deceptive pivot. Skip unless you can rebuild the concept around a goalkeeper/defender fail moment that ties directly into a shooting gameplay reveal."
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "visual_match": 15,
+      "mechanic_match": 10,
+      "audience_match": 25,
+      "overall": 15,
+      "rationale": "Hard pass. The archetype's dark, muted palette (navy/olive/orange) and somber cross-section reveal aesthetic clash directly with Crazy Kick's sunny yellow/sky-blue low-poly stickman world, and a static architectural pan has zero connection to a swipe-to-score football loop. Audience overlap is also weak — Eiffel/bunker curiosity hooks index toward 4X, sim, or puzzle-mystery players, not arcade sports fans. Don't adapt this; if curiosity is a desired emotional pitch, build a sports-native version (e.g., \"what's hidden behind this impossible defender wall?\")."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 25,
+      "mechanic_match": 20,
+      "audience_match": 35,
+      "overall": 25,
+      "rationale": "This is a classic Bus Jam / puzzle \"relaxation\" hook — its calm, top-down stylus puzzle aesthetic clashes hard with Crazy Kick's energetic, competitive 3D stickman soccer DNA, and the sandy-yellow/sky-blue palette doesn't align with the orange/blue puzzle look. Mechanically there's no transferable signal: swipe-to-aim physics shots and dodging defenders cannot be honestly conveyed by a parking-lot sliding puzzle, so usage would risk misleading-ad policy flags and poor D1 retention. Only minor audience overlap on the broad casual male skew — recommend skipping this archetype unless we test a deliberate fake-puzzle-to-soccer bait-and-switch, which carries store-policy risk."
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "visual_match": 25,
+      "mechanic_match": 30,
+      "audience_match": 55,
+      "overall": 32,
+      "rationale": "The \"fail\" hook concept is broadly transferable in hyper-casual UA, but this specific archetype is anchored to a Bus Jam / parking puzzle context — the visuals (top-down vehicle grid, primary red/green/blue palette) and the tap-to-route mechanic clash hard with Crazy Kick's swipe-based, third-person stickman soccer loop and sunny yellow/sky-blue palette. We'd have to rebuild the creative from scratch (swap to a missed shot or own-goal fail, restyle to pitch/stickman), at which point we're only borrowing the \"WHY IS THIS LEVEL SO HARD\" overlay pattern. Recommend testing the fail-bait copy formula on a custom soccer-fail shoot, but do not adapt this asset directly."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-in-game",
+        "target_game_id": "1469889140",
+        "title": "Smart / Genius / Psychopath Trick-Shot Ladder",
+        "hook_3s": "A stickman striker curves a glowing trajectory trail around three defenders into the top corner — net ripples, crowd flashes, \"SMART\" stamps the screen.",
+        "scene_flow": [
+          "0-3s HOOK: Tight POV swipe — finger drags across the screen, lime-green trajectory arcs past one defender into the goal. Overlay: SMART.",
+          "3-7s ESCALATE: Same camera, now two defenders sliding in. Swipe curves harder, ball bends mid-air, slots top-bin. Overlay: GENIUS.",
+          "7-12s PEAK: Chaotic level — 4 defenders, moving keeper, tiny goal window. Swipe traces an absurd S-curve, ball ricochets off post and in. Overlay: PSYCHOPATH. Level tracker jumps 1 → 7 → 23.",
+          "12-15s CTA: Phone-frame mockup of the App Store icon, finger taps install. Overlay: YOUR TURN — CAN YOU SCORE?"
+        ],
+        "visual_direction": "Lock to the game's sunny stadium DNA: sandy yellow (#F5D77F) pitch lines and sand textures, sky blue (#1CB4F0) sky and goal frame highlights, bright green (#99CC33) trajectory trails, level-tracker pills, and \"GENIUS\" stamp accents. Keep the 3D hyper-casual low-poly look — simple stickman striker, blocky defenders, chunky physics ball. Camera is the existing slightly-elevated behind-the-ball angle from the actual game; no cinematic reframes. Each \"stamp\" overlay snaps in with a quick zoom + chromatic punch but never covers the trajectory arc — the swipe is the star.",
+        "text_overlays": [
+          "SMART",
+          "GENIUS",
+          "PSYCHOPATH 🤯",
+          "Level 23 unlocked",
+          "YOUR TURN?"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Crazy Kick rotation is all generic gameplay-video and \"street football\" bravado — zero meme-format / satisfaction-laddered creatives. This borrows the trending \"Smart/Genius/Psychopath\" overlay meme (high SoV velocity in the satisfaction archetype) and grafts it onto authentic trick-shot gameplay, giving UA a fresh thumb-stop angle without reskinning existing assets. Test against the Admob video set as the control — expect lift on IPM from the escalating-difficulty payoff structure.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, authentic in-game screenshot of Crazy Kick! Fun Football game: 3D hyper-casual, low-poly, bright and colorful with simple stickman characters; behind-the-ball camera angle on a sandy yellow (#F5D77F) pitch with sky blue (#1CB4F0) sky and stadium, a stickman striker mid-swipe with a vivid bright green (#99CC33) curved trajectory trail bending around three blocky low-poly defenders into the top corner of a low-poly goal net, chunky white football frozen mid-flight, level progression tracker pill in the top-left HUD, swipe-aim arrow visible, bold white sans-serif on-screen text 'GENIUS' stamped center with a slight tilt, energetic competitive UI mood, no cinematic filters, reads as a real Crazy Kick gameplay moment.",
+          "Storyboard frame 1, aspect 9:16, in-game view of Crazy Kick! Fun Football game in 3D hyper-casual, low-poly, bright and colorful with simple stickman characters style: same behind-the-ball camera, sandy yellow (#F5D77F) pitch, sky blue (#1CB4F0) horizon, a single stickman defender lunging, the ball arcing along a glowing bright green (#99CC33) trajectory trail toward a low-poly goal, level tracker '#1' pill top-left, finger swipe indicator at the bottom, on-screen text 'SMART' in bold white block letters, authentic HUD chrome matching Crazy Kick screenshots.",
+          "Storyboard frame 2, aspect 9:16, chaotic late-level moment from Crazy Kick! Fun Football game, 3D hyper-casual, low-poly, bright and colorful with simple stickman characters: four blocky stickman defenders crowding a tiny goal, a wild S-shaped bright green (#99CC33) trajectory trail snaking through them, sandy yellow (#F5D77F) pitch with painted lines, sky blue (#1CB4F0) goal frame, level tracker pill showing '#23' top-left, ball ricocheting off the post, on-screen text 'PSYCHOPATH 🤯' stamped large in white with a red shadow, energetic competitive HUD, authentic Crazy Kick in-game feel, no stock-game tropes."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_GeTCdJFNmCasr3UhGq7HVY8a?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfR2VUQ2RKRk5tQ2FzcjNVaEdxN0hWWThhP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=WJrQPA-k5wRrHCTzXVQ7jlQF6bsq552eLke--V6wRf%7EFZNPOulBJlfWIsWV2IIMf%7ED1x-WFpnmXArfTQ3TDYDkbwfCYP5yh9nTSBDcwXVrMrSshOeR7QZvn0XzyPkIIEPB53FaceqoKmSca89HM0sZXJ4wl8SLipACKtqvXHLrBJEPip6T7T4LifdH-Vn2im09vJwnNqc52flLvecNXIOhAcGVnEO9v8kD4IHtMl0A05VPhwQ2%7E9PPDS4PpzXIjGxjBJiKgcSjjcU%7ERZGJEt2dux6OZder3ngoEAd0yATS6HlclxZb9nr-7vFiBCfpSwYj8JXZ1nISLuZeeoScedgA__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_71ReZiKUkPEHHmra9UbXozKt?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNzFSZVppS1VrUEVISG1yYTlVYlhvekt0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=RjewdO-fwCwBS%7EsPHlE2U%7Ero50kQ4s0%7EWmDb0QCjr8KX2lfFZ2KUvjjMavci65irLAbQnn5tQ5gHq35eskeP39z06IZleQHjRNCEhkFh9LkS4TM4AH85S-u69KKdHL4nCxukPAcFpEgfeKlim929-dRdUXKybv9pKEgLFMt1WUVLqbJB8PlaKFD-qPBRgcw5g-NGH5kJRdyO1154ML8jSw7to9hinhNbsBnYqSG7uqeJTKQ%7EbmzpSVMlzZtBruV97Zj%7EdK9og3JYG7XaWODCVDezEeyLlhmmuGljf8gd60bn6WFxKIObIo3-Y7jqfvenTCrs8BVCZqeZizCZIVw4fw__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_oH3LNZP7TiuafZMCJXKovtAU?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfb0gzTE5aUDdUaXVhZlpNQ0pYS292dEFVP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qR2K7Xr2bIIV2OQnmIjjnXApPxRuyUQX5HOthPs-6Tism6KGwiOijNE2dOLpj3i7axsxVb47sk%7Efbz8t4S8r0f-5cN9REYwEDwAWuGF2xcUkX0i7jS9vJtWijjiRBD-cZyqQ6B65DxpxauM%7ETOloSh3CGh%7ELlqx6c3Rtth6RijHBWeY0WIOwKYmiuLN4qlGOl3%7E2PJOo47CSfsxxrliG%7EDQs2xHo7ASGE0S7utfJvElqujh7VI4Y5z0YzuOp44jRmg0Cc4UeA%7EPcaINmqorJAjmKLGumIQJXmnzfWSuPRETP7-eNuMWTm-qupMQKzuvHJOhpwww63DWUnaVK1a4YMQ__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=3.13 × game_fit=22/100 ⇒ priority=0.69"
+    },
+    {
+      "brief": {
+        "archetype_id": "fail-in-game",
+        "target_game_id": "1469889140",
+        "title": "Why Is This Level So Hard? — Soccer Fail Bait",
+        "hook_3s": "Finger swipes, ball curves wide, hits the post — stickman keeper laughs. \"WHY IS THIS LEVEL SO HARD?\"",
+        "scene_flow": [
+          "0-3s: Tight over-the-shoulder shot of the sandy-yellow pitch. A finger swipes the ball — trajectory trail arcs, ball clangs the post and bounces out. Big red FAIL stamp.",
+          "3-7s: Retry. Finger swipes again, ball weaves past two stickman defenders but the keeper tips it over. Level tracker shows 'LEVEL 4' still locked. Confused emoji overlay.",
+          "7-11s: Third attempt — exaggerated wobbly swipe, ball loops backward into own net. Stickman shooter face-palms. Overlay: 'CAN YOU WIN?'",
+          "11-15s: Cursor taps a perfect curved swipe, ball rockets top-corner, net ripples, confetti pops in #99CC33 green. CTA slams in: PLAY FREE."
+        ],
+        "visual_direction": "Lean fully into Crazy Kick's sunny, low-poly DNA: sandy-yellow (#F5D77F) pitch with chalk-white lines, sky-blue (#1CB4F0) stadium backdrop, lime-green (#99CC33) UI chrome and confetti. Keep the third-person behind-the-ball camera identical to the live game, with the signature dotted trajectory trail, level progression bar at the top, and simple stickman defenders/keeper. Animation should feel intentionally clumsy on the fail beats (overshoots, wobbly trail) and crisp on the win beat — the contrast sells the \"looks easy, actually tricky\" bait.",
+        "text_overlays": [
+          "WHY IS THIS LEVEL SO HARD?",
+          "99% FAIL HERE 😩",
+          "CAN YOU WIN?",
+          "ONE MORE TRY...",
+          "TOP CORNER! 🔥",
+          "PLAY FREE"
+        ],
+        "cta": "PLAY FREE",
+        "rationale": "Voodoo's current rotation on Crazy Kick is all straight gameplay/glory copy (\"Kick your way to glory\") with zero fail-bait or curiosity-gap framing — this brief imports the market-winning \"WHY IS THIS LEVEL SO HARD / CAN YOU WIN?\" hook formula they're missing. UA should test this against the existing Admob video stack as a CTR/IPM lift play; the fail→win arc also doubles as a soft tutorial for the swipe mechanic, which should improve D1 retention on installs from this creative.",
+        "scenario_prompts": [
+          "Hero frame, 9:16 vertical mobile ad still, authentic in-game screenshot of Crazy Kick! Fun Football arcade soccer game: third-person behind-the-ball view on a sandy-yellow (#F5D77F) low-poly football pitch with chalk-white lines, sky-blue (#1CB4F0) stadium and sky in background, white soccer ball mid-air with a glowing dotted trajectory trail curving toward the goal, two simple stickman defenders in colored jerseys lunging to block, stickman goalkeeper diving, level progression tracker bar at top of screen, lime-green (#99CC33) UI chrome and HUD buttons, bold white impact-font on-screen text 'WHY IS THIS LEVEL SO HARD?' across the upper third, 3D hyper-casual low-poly bright and colorful with simple stickman characters, vibrant sunny lighting, mobile game UI, no logos",
+          "Storyboard fail beat, 9:16 vertical, in-game frame from Crazy Kick! Fun Football: ball clanging the goalpost and bouncing back, dotted trajectory trail curving wide and missing, sandy-yellow (#F5D77F) pitch, sky-blue (#1CB4F0) backdrop, lime-green (#99CC33) level tracker and HUD at top showing 'LEVEL 4', stickman goalkeeper with arms up, stickman defender stickmen in the box, large red 'FAIL' stamp overlay and white text '99% FAIL HERE 😩', 3D hyper-casual low-poly bright and colorful with simple stickman characters, authentic mobile gameplay screenshot composition, no logos",
+          "Storyboard win beat, 9:16 vertical, in-game frame from Crazy Kick! Fun Football: white soccer ball ripping into the top-corner of the net, glowing dotted trajectory trail arcing perfectly past a diving stickman keeper, net rippling, sandy-yellow (#F5D77F) pitch, sky-blue (#1CB4F0) stadium, lime-green (#99CC33) confetti burst and UI chrome, level progression bar filling up, bold white text 'TOP CORNER! 🔥' and a green 'PLAY FREE' CTA button at bottom, 3D hyper-casual low-poly bright and colorful with simple stickman characters, energetic competitive mobile game UI, authentic in-game screenshot, no logos"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_UHMV9QsycK9JiqvZSoZ9DP2x?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVUhNVjlRc3ljSzlKaXF2WlNvWjlEUDJ4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=SvdLGfWzM9ucy2rxn7BuqrrwgfsQxEnB1nmoB5VppC8MJoNZLZmZGY69yrtBhiMCx2-1iBPWcF4ewXLzkT7mdsdBi0QoV84ZDflYazBKiFbuT-DKkmPp20gIfLl0ydDX7dZNwGAa%7EkPRGhghr0buCVb-Bz3aOKTlmBTYsZ-iKg4aRZuOXWnPXHna%7EiC0QXTNE6MHGFSk5slX0Ewcd1ztsEGrraCIn5qdpHuHPBtdSTDV65hQNcKwT%7EwGjDsTiU%7EvNWLy08YNq2RtY8s0cF-Sw4WBFV6X4dHZLyPjmau1gekf-GQ5p6Y5kfUsGRmETdKjAEt9c4V-8akEThldnBh5Qg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_iv4CHADSm4A9F77gNXZRr8tb?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfaXY0Q0hBRFNtNEE5Rjc3Z05YWlJyOHRiP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Vio0YjpCbCyJfJHPaVyI5uxGTyHF73MI-DlnLxleUNgCofH0RurUzkAUzZK39htBrK1rpAGDJr%7ENKumZHnkS3D0oKMPMhMSMud%7EeGv22uYMTZCCw5jpAJ8SKu3nsTcNwc6WV-QD9ki-xJ12H%7EOrXotSNjBwxwiPzGR-EHyGxuu3Yp9IOGxoqL1jO2TToBoKiJxzLYYLe0ibsco%7E2eM-qD1qW6XOFk4tmMZcRDR4LT9hXTv3gX5gk%7EYNbFFOQ23KRmrtSAzbBb4Jsl%7EQ5s6QHhPF1TGD5Yad8R5760K4LlJxLF8CNe67QTqPA3hm5mg2nYJuqNwjTIGkPghXuxip1dA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_TqpYae1No4PsutGCrMEjUqcb?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVHFwWWFlMU5vNFBzdXRHQ3JNRWpVcWNiP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=H4nKthlMaWefM7H2TgGMHLvD1XoM%7EhPBc3IWTIl84JryfotsVP1QuffeOrsu5YlXEwBWLDNPSNjoSmXtr2wLhfR6OeC3U-jlwD1Gek99W80vm-%7Eu23nLHcwqVwHwKliyDevoqtJtpagvg577vKy1sI2nB0EWUL0Q4Qr7taXp1uJFFOGk6YoyQFVvbtMkCcndCt3ao1NLck4kD8lFA3SIEA5rC6xWkyVA7ZXDN2Ki1lnpPdxRvWNIfzWYWQX36w3OzQze584PpVNDS6jcZXwmkfFBYUcBb78FeyzJAosdrkP9byIhQH--4ssT0FpWbeMs6vtfjMzBa4X8LlJTWKBxxA__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.79 × game_fit=32/100 ⇒ priority=0.25"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "1469889140",
+        "title": "\"Ever Played Soccer That Actually Feels Good?\" — ASMR Swipe-to-Score",
+        "hook_3s": "A finger drags a glowing trajectory line across a sunny pitch — \"Ever played a soccer game that actually feels this satisfying?\"",
+        "scene_flow": [
+          "0-3s: Close-up of a thumb swiping on screen; a bright green trajectory trail curves around two stickman defenders. Soft ASMR swipe sound. Overlay question hooks the viewer.",
+          "3-7s: Camera follows the ball as it threads the gap, ping-ponging off a defender's shin with a juicy physics bounce. Level tracker ticks 1→2→3 in rapid succession.",
+          "7-11s: Montage of 3 satisfying goals — top-corner net ripple, keeper faceplant, ball spinning into slow-mo. Each goal pops a green +1 confetti burst.",
+          "11-14s: Level counter zooms to 27, trajectory trails layer into a mesmerizing pattern across the sunny yellow pitch.",
+          "14-15s: End card: ball rolls into goal, net says 'CRAZY KICK!' — CTA button pulses."
+        ],
+        "visual_direction": "Lean fully into Crazy Kick's signature sandy-yellow pitch (#F5D77F) and sky-blue stadium backdrop (#1CB4F0), with the bright green (#99CC33) reserved for the trajectory trail, level-up confetti, and CTA — making \"satisfaction\" visually legible through color rhythm, not stylus-puzzle calm. Keep the 3D hyper-casual low-poly stickman aesthetic intact: chunky defenders, exaggerated ball physics, clean shadowless lighting. The \"ASMR satisfaction\" feeling comes from slow-mo ball spin, net ripples, and the rhythmic stacking of trajectory trails — never from puzzle-sliding visuals.",
+        "text_overlays": [
+          "Ever played soccer that feels THIS good?",
+          "Just swipe…",
+          "…and watch this 👀",
+          "Level 27 already?!",
+          "Your turn."
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Crazy Kick rotation leans hard on \"insane street football\" energy and generic playable/video CTAs — none tap the trending \"satisfaction/ASMR question-hook\" format that's winning across casual right now. This brief imports that proven hook structure (\"Ever played a game that actually feels…?\") but honestly delivers Crazy Kick's real swipe-to-aim physics, avoiding the bus-jam bait-and-switch policy risk flagged in game-fit. UA team: test against the Youtube \"street football glory\" creative to isolate hook-style lift on IPM.",
+        "scenario_prompts": [
+          "Vertical 9:16 mobile game screenshot, authentic in-game moment from Crazy Kick soccer game, 3D hyper-casual low-poly bright and colorful with simple stickman characters, sandy yellow pitch (#F5D77F), sky blue stadium background (#1CB4F0), glowing bright green (#99CC33) curved trajectory trail arcing from foreground around two low-poly stickman defenders toward a goal, white soccer ball mid-flight with motion blur, top-down-angled action camera, level progression tracker '27' visible top-center in chunky rounded HUD, large white sans-serif overlay text 'Ever played soccer that feels THIS good?' at top, finger silhouette swiping at bottom of screen, no extra invented characters, clean shadowless lighting, hero frame",
+          "Vertical 9:16 mobile game screenshot, authentic Crazy Kick gameplay frame, 3D hyper-casual low-poly bright and colorful with simple stickman characters, sandy yellow field (#F5D77F) with sky blue (#1CB4F0) crowd stands, low-poly stickman goalkeeper diving the wrong way, white ball rippling into the net with bright green (#99CC33) confetti burst, level tracker advancing '12 → 13' in HUD, big bold overlay text '…and watch this 👀' centered, energetic competitive UI mood, no stylus or puzzle elements, storyboard frame",
+          "Vertical 9:16 mobile game screenshot, Crazy Kick end-card style, sandy yellow pitch (#F5D77F) and sky blue sky (#1CB4F0), 3D hyper-casual low-poly bright and colorful with simple stickman characters, three layered glowing bright green (#99CC33) trajectory trails curving across the field showing past shots, soccer ball rolling into goal, large pulsing green 'PLAY FREE' CTA button bottom-center, overlay text 'Your turn.' above CTA, authentic in-game HUD with level counter top-corner, storyboard frame"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_jHqg3gzf9QE6kgqXcJr6BvjK?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfakhxZzNnemY5UUU2a2dxWGNKcjZCdmpLP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=SM5C6H9gcIQcJJf8ZCFrfYBOPXw7crGVkMlwlFfGO4zn0CwZZCXjHp-Gj65%7EXX9hIP6xt2bf1dt-LhEFk2DtJmeOkoIzFRaFbCcx8hkT9j9wrKGPTtT7bu7XquNXpsGbMI7h-fHAH01Yffkqlgc3CEucb7ozAZNN4VhtdSogPlXLOfPcBQVPDt64rNC%7EOYyS1-F6pm-Lriu-3sj6cHMslTqBF8DCvcBjnKN%7E5IIoRu90PtLLXYKpucMYZkdnXDl2IWd002XstRBD9zaE1LLX4jWMeeSBHrpmCZhNPulO6Dmb624DhTNA9ANi5MzhDX-K7ZCbSiSxUYtyuAY7FaIsbQ__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_dh3JFzW6joFjfonGwTFDkv68?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZGgzSkZ6VzZqb0ZqZm9uR3dURkRrdjY4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=vEG80fCSTA8ZTkWfwIVqs3%7EOCfJV0DBzDj19%7Ea3eSypHAqzYfGfw7zCyXIDg54AVuK-hqXCrQrBjFpGYoJ21O8IQpF6Dp-kbnntKv-iH8HHsutzKE7haPgb-FMRMnfCRPmP17-4tWnu3G7yU4aGbFZ5TCavXnQK0E7u8dI7MA4CglXBaw2veH3UASQiCadRwobXWbUqUxI5ChwATEmPcilwv7N0OKo%7E6raMxWA16Lq7wcf5Udbt6%7EuXOB-7lDBA2b6DVLANWXu8gFezzRw%7Eu0S3mnpbM0ypEuaDkUCaR5qvTNeDxkw7DOs4mqaQp89Gquotr0S0EdJLz%7EUTIhUbvWA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_WNUBgBEX7UxyBL9CX2Rg51xS?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfV05VQmdCRVg3VXh5Qkw5Q1gyUmc1MXhTP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=okm96au%7ELoVasXIYXgSVl45vctYh71X2TQpWGdxBMnFpGlFxxr4q5hPyYew4ENTvA81EgLYb67mF2jy0ij0wl5%7EHtRvzcdQBtXZ5vnL%7E7%7ENyZz1rMalGeLgkCR27J8ZvVe5TGcNSyBk-HlKkX914rjdIkWGjmpnFUXkousyHXRZ5i%7EHbt671iw7uLtExldi45mpIpx8Q4SoXHe2RFkvNmYff7AFZY3W3t%7Eu2ppgwswF8bwwWHZBd3bVeb7cDPHQ4sLcal9sgCTcdvEWA8Wqjww7NhmtdCmm35k6ydJUlfw1ZCbRujwmIplXW%7Ev1bHPOYMR65Hh5wdD5k-8BWLuaZ1A__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.81 × game_fit=25/100 ⇒ priority=0.20"
+    }
+  ],
+  "pipeline_duration_seconds": 642.1747752089941,
+  "total_cost_usd": 0.024816,
+  "generated_at": "2026-04-26T01:23:51.942406Z"
+}

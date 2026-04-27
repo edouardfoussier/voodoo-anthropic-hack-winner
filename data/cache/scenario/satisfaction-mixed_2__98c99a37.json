@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_SH6cPsJAGxPqSXcqxfzUwRHk?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfU0g2Y1BzSkFHeFBxU1hjcXhmelV3UkhrP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=KaU74iPviWRRR8bQSnUFi%7E-PPSzPIOGS8qkGRx%7E6UlAT3jndw11ZEHafI8B0R2m3bitQcXHKDMQ8UFr0dDumj%7EqlkODUDeJxDGvZZPdg-C%7Ews0Q3cERNXPfA-Jh%7EGSQ5b1uFc9TUltZ%7EbxM2uH%7EoEDnR1TOiXLXwQ47k3zY39fR6X5pqaHGrAq10vdrj%7E8gjVDXl892mIqWdysKxmRhTyls-pTlSSB24tfFfUCAHE9IKBUoR3E9HgnpJ-pjlcc9flok5RBCeMAW62DiWDnHecpG8%7EgVBpGLFzZVkiT%7EW11NZnwS9W9Lov9uJBnKDFhsBtaPCN-lijeu-n5GxiihGtA__",
+  "job_id": "job_SAFd1z8vKAzD4rc18urPjDrC",
+  "asset_id": "asset_SH6cPsJAGxPqSXcqxfzUwRHk",
+  "stub": false,
+  "prompt": "Roof Rails authentic in-game frame, 9:16 vertical aspect, dramatic close shot of a spinning grey saw-blade obstacle mid-rooftop slicing into the runner's long yellow #FFC824 pole, several pole pieces flying off in a clean arc, runner still on the stark #EAF6FA white path between #5CD6FF cyan blocky buildings, HUD level indicator and progress bar visible top of screen, 3D minimalist simple geometry, bright pastel colors, clean uncluttered aesthetic, no textures just flat color blocks, on-screen text overlay 'Don't let it SNAP! \u26a0\ufe0f' in bold yellow sans-serif with slight shake. [Audio: VO gasp then 'oh no\u2014' / tension-drop trap stutter 95 BPM / sharp saw-buzz SFX at 0.8s, wood-snap crack as pole pieces fly, quick recovery chime at 3.5s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

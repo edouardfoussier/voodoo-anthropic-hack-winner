@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "6132fcd245d4ff2a",
+    "ad_unit_id": "6132fcd245d4ff2a",
+    "app_id": "5b8e9647a2750e6598c510a7",
+    "advertiser_name": "Papa Murphy’s Take+Bake Pizza",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/preview",
+    "phashion_group": "6132fcd245d4ff2a",
+    "share": null,
+    "first_seen_at": "2026-03-23T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Our Detroit-Style Pizza just pulled up! Thick crust, golden edges, cheesy corners, gooey mozzarella & crispy mini cup pepperoni. Grab one for $10.99.",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Bold 'NEW' text followed by high-quality close-ups of a pepperoni pizza being sliced.",
+    "visual_action": "A pizza cutter slices through a thick, pepperoni-covered Detroit-style pizza with crispy edges.",
+    "text_overlay": "NEW",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Intro screen with 'NEW' text on a dark teal background.",
+    "Extreme close-up of bubbling cheese and pepperoni toppings.",
+    "Action shot of a pizza cutter slicing through the square crust.",
+    "Fast-paced montage of the pizza's crispy edges and fresh ingredients.",
+    "Final product reveal with 'DETROIT Style pizza' and '$10.99 EACH' pricing."
+  ],
+  "on_screen_text": [
+    "NEW",
+    "$10.99 EACH*",
+    "DETROIT Style pizza",
+    "$10.99 EACH*"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#004d4d",
+    "#c1272d",
+    "#fbb03b"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Hungry consumers and pizza enthusiasts looking for a premium yet affordable meal option.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016389999999999998
+}

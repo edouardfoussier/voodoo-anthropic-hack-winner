@@ -1,0 +1,32 @@
+{
+  "app_id": "1342468799",
+  "name": "Color Road!",
+  "genre": "Hypercasual",
+  "sub_genre": "Runner",
+  "core_loop": "Steer a rolling ball along a track, matching its color with obstacles to pass through while avoiding mismatched colors and collecting coins.",
+  "audience_proxy": "Casual gamers of all ages looking for quick, reflex-based gameplay.",
+  "visual_style": "Minimalist 3D with abstract geometric shapes and a soft pastel background.",
+  "palette": {
+    "primary_hex": "#152238",
+    "secondary_hex": "#FADADD",
+    "accent_hex": "#FF4C4C",
+    "description": "High contrast between the dark track and soft pastel background, with bright, saturated colors for interactive elements."
+  },
+  "key_mechanics": [
+    "steering",
+    "color-matching",
+    "dodging",
+    "collecting"
+  ],
+  "character_present": false,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "rolling ball",
+    "dark track",
+    "pastel city background",
+    "coin collection",
+    "color matching",
+    "score counter",
+    "pause button"
+  ]
+}

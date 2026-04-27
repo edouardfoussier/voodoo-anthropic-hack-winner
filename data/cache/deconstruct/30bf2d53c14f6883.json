@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "30bf2d53c14f6883",
+    "ad_unit_id": "30bf2d53c14f6883",
+    "app_id": "55d93a4202ac645ad203fe75",
+    "advertiser_name": "Betclic Paris Sportifs & Poker",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea1231f5b76db6f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea1231f5b76db6f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea1231f5b76db6f/preview",
+    "phashion_group": "30bf2d53c14f6883",
+    "share": null,
+    "first_seen_at": "2026-03-16T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Mesure‑toi à nos 700 000 joueurs ! 🤩\nQuel que soit ton niveau, viens défier les plus de 700 000 joueurs qui jouent déjà chez nous !",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapidly counting numbers and stylized character avatars highlighting a large player base.",
+    "visual_action": "Numbers count up to 700,000 while animated poker player avatars pop in and out against a red background.",
+    "text_overlay": "DÉJÀ 700 000 JOUEURS DE POKER SUR Betclic",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction showing social proof with 700,000 players.",
+    "Showcase of different game modes within the Betclic app including Spin & Rush and Tournaments.",
+    "In-app gameplay demonstration showing a winning hand and chip animation.",
+    "Closing promotional offer for 5 free games with a direct call to action."
+  ],
+  "on_screen_text": [
+    "DÉJÀ 700 000 JOUEURS DE POKER SUR Betclic",
+    "SPIN & RUSH",
+    "TOURNOIS",
+    "CASH GAME",
+    "300€",
+    "PAIRE",
+    "VIENS TESTER LA ROOM DE POKER D'1 JOUEUR SUR 3 EN FRANCE.",
+    "T'ATTENDS QUOI POUR REJOINDRE NOS TABLES ?",
+    "5 PARTIES DE SPIN & RUSH OFFERTES*",
+    "J'en profite"
+  ],
+  "cta_text": "J'en profite",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#E30613",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "French-speaking adults interested in competitive online poker and social gaming.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001951
+}

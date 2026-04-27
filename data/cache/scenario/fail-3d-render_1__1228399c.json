@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_4RaQCCgRfJx99zjr8cNusnAB?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNFJhUUNDZ1JmSng5OXpqcjhjTnVzbkFCP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=R-JqeIhFQBwQwEQopeEln9SnJyn8Rv7WofytZQGHddmey2OtLLGJlr75WAUqnLJ5gcdZlzyFkt6%7E41-1x3VN6AVyLeni6TV3ftE3h-zpeNgRiV0asGPV6RaHBzBFcLAzeszuwiF4G5FRmMymO2dTy9VCRmqLwvB4zYBB1cdoJ4m1ear%7Eye8CBAY27PTJi%7EI2NettJ5KFOfD6UQQMBZrux1lcXf2HUbxqH6zkmFJW%7Ew6qtPGRcnQHTh3Uk4FrIXd8nqnd%7EjmxYrhgZYfAQfL6luIYGJpqFq0VBzs1rd6GGJA9-2Gv1jd6I4prSnzAuduKAFOI%7ES-ntS%7ExloxhPI1n3A__",
+  "job_id": "job_cQrv4RooadU6VNf63XK6HGMG",
+  "asset_id": "asset_4RaQCCgRfJx99zjr8cNusnAB",
+  "stub": false,
+  "prompt": "Storyboard frame 2, vertical 9:16, classic 2D flat solitaire tableau on traditional green felt (#1A874B), white cards (#FFFFFF) with red suit pips (#E31C1B), close-up on a hidden face-down card flipping to reveal the Ace of Hearts with a soft glow, foundation piles visible top of screen, timer HUD shows '0:01' in red, score counter ticking up, undo and finish buttons at bottom, on-screen text overlay 'Drag the red Ace \ud83d\udc46' in clean white sans-serif with red underline, in-game UI identical to Solitaire - Voodoo Card Game!, no characters or mascots, flat 2D casino aesthetic, crisp drag-and-drop gameplay moment",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

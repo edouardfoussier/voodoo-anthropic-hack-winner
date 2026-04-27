@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "fe11a7a2cd6d84ec",
+    "ad_unit_id": "fe11a7a2cd6d84ec",
+    "app_id": "6381cf7a40da537c7e3d0a3e",
+    "advertiser_name": "Merge Survival : Wasteland",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c52bd4c9c9c009a8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c52bd4c9c9c009a8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c52bd4c9c9c009a8/preview",
+    "phashion_group": "fe11a7a2cd6d84ec",
+    "share": null,
+    "first_seen_at": "2026-03-04T00:00:00",
+    "last_seen_at": "2026-03-31T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "황폐한 세상에서 살아남을 수 있을까?\n아이템을 합쳐 식량과 도구를 만들고 캠프를 재건하세요.\n지금 바로 생존을 시작하세요.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A static character portrait with survival-themed text and a glitchy visual effect.",
+    "visual_action": "Static 2D illustration of a girl with freckles against a wasteland background, flickering with subtle glitch effects.",
+    "text_overlay": "포스트 아포칼립스 세상에서 '머지'로 살아남기, 이건 캠핑이 아니라 생존이야, MERGE SURVIVAL WASTELAND, DOWNLOAD",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the main character and the post-apocalyptic survival theme through a static title card.",
+    "Sustained view of the character with subtle visual flickering and ambient wind sound effects.",
+    "Persistent display of the game title and the download call to action."
+  ],
+  "on_screen_text": [
+    "포스트 아포칼립스 세상에서 '머지'로 살아남기",
+    "이건 캠핑이 아니라 생존이야",
+    "MERGE SURVIVAL WASTELAND",
+    "DOWNLOAD",
+    "*확률형 아이템 포함"
+  ],
+  "cta_text": "DOWNLOAD",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#3E2723",
+    "#F5D6A8"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual mobile gamers who enjoy merge puzzles and atmospheric survival narratives.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017170000000000002
+}

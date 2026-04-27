@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "d54a969521bab6a2",
+    "ad_unit_id": "d54a969521bab6a2",
+    "app_id": "55c5021002ac64f9c0001f68",
+    "advertiser_name": "DoubleDown™ Casino Vegas Slots",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/97719a8fa09b34ac/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/97719a8fa09b34ac/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/97719a8fa09b34ac/preview",
+    "phashion_group": "d54a969521bab6a2",
+    "share": null,
+    "first_seen_at": "2026-02-03T00:00:00",
+    "last_seen_at": "2026-04-12T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Start with 1,000,000 free chips and play in one of the best social casinos! 🎲🎰",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A podcast-style host introduces a segment about reconnecting players with their favorite games.",
+    "visual_action": "A woman with headphones and a professional microphone speaks inside a circular frame against a purple background.",
+    "text_overlay": "REEL TALK // EPISODE 43",
+    "voiceover_transcript": "We're reconnecting players with a past love. Cheryl?",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Podcast host introduces the 'Reel Talk' segment about reconnecting with a 'past love'.",
+    "A caller named Cheryl describes her favorite slot game using fishing metaphors over gameplay footage.",
+    "Gameplay of 'Lucky Larry's Lobstermania 3' shows a bonus being initiated with high-energy animations.",
+    "The character Lucky Larry appears on screen celebrating with falling gold coins.",
+    "Final call-to-action screen offering one million free chips and a download button."
+  ],
+  "on_screen_text": [
+    "DOUBLE DOWN CASINO",
+    "REEL TALK // EPISODE 43",
+    "@DOUBLEDOWNCASINO",
+    "ON THE PHONE CHERYL",
+    "Lucky Larry's LOBSTERMANIA 3",
+    "BONUS INITIATED!",
+    "One Million FREE CHIPS",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#541675",
+    "#FFD700",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adults 35-60 who enjoy social casino games and the nostalgic atmosphere of classic physical slot machines.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0019299999999999999
+}

@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "be59c6764d7fdcf6",
+    "ad_unit_id": "be59c6764d7fdcf6",
+    "app_id": "62eda7f1b3ae275b582e56ed",
+    "advertiser_name": "Block Crush!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11e8146b7543d1ae/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11e8146b7543d1ae/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11e8146b7543d1ae/preview",
+    "phashion_group": "be59c6764d7fdcf6",
+    "share": null,
+    "first_seen_at": "2026-04-24T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Block Crush! Free to Play Now",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid-fire block placement and satisfying destruction of wooden tiles.",
+    "visual_action": "Wooden blocks are dragged into a grid, completing rows and columns which then shatter into splinters.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Fast-paced gameplay showing multiple wooden blocks being placed into a grid.",
+    "Consecutive line clears causing blocks to explode into wooden shards with satisfying sound effects.",
+    "Continuous high-speed gameplay showcasing various block shapes and strategic placements.",
+    "Final transition to the 'Block Crush' game logo on a wooden texture."
+  ],
+  "on_screen_text": [
+    "608095",
+    "700",
+    "WONDERFUL STUDIO™",
+    "BLOCK CRUSH"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#4B2C20",
+    "#D2A679",
+    "#8B4513"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy satisfying, tactile mechanics and minimalist wooden aesthetics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015170000000000001
+}

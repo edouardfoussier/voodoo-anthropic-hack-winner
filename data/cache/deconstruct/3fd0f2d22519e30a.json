@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "3fd0f2d22519e30a",
+    "ad_unit_id": "3fd0f2d22519e30a",
+    "app_id": "5a0501f52a722602d97aca2d",
+    "advertiser_name": "Candy Pop Story : Match 3",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01a0ab973f1f14cf/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01a0ab973f1f14cf/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01a0ab973f1f14cf/preview",
+    "phashion_group": "3fd0f2d22519e30a",
+    "share": null,
+    "first_seen_at": "2026-04-19T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand triggers a massive, satisfying chain reaction on a match-3 board.",
+    "visual_action": "A hand taps a special candy, causing a large explosion of candies and coins around a central gift box.",
+    "text_overlay": "Candy story NO ADS AND FREE DOWNLOAD",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Initial match-3 board setup with a large gift box in the center and a hand pointing to a move.",
+    "A massive chain reaction of matching candies and collecting coins/pigs is triggered.",
+    "Continued gameplay showing more matches and the gift box shaking as rewards accumulate."
+  ],
+  "on_screen_text": [
+    "Candy story",
+    "NO ADS AND FREE",
+    "DOWNLOAD"
+  ],
+  "cta_text": "DOWNLOAD",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFD700",
+    "#32CD32",
+    "#FF0000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle players who enjoy satisfying match-3 mechanics and reward-heavy gameplay.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00149
+}

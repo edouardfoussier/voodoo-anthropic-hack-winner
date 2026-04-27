@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "1213ee79da527ab0",
+    "ad_unit_id": "1213ee79da527ab0",
+    "app_id": "61707ce0958b566083090400",
+    "advertiser_name": "Mystery Files: Hidden Objects",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/preview",
+    "phashion_group": "1213ee79da527ab0",
+    "share": null,
+    "first_seen_at": "2026-04-21T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🔍 Ready for the investigation?\nFind hidden objects, solve puzzles, uncover crimes.",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A suburban house at night is cordoned off as a crime scene with police and forensic investigators.",
+    "visual_action": "Police cars flash lights while officers tape off a house and a forensic photographer takes pictures of evidence inside.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Establishing shot of a crime scene at a suburban house with police presence.",
+    "Forensic team investigates the interior, taking photos of evidence.",
+    "Close-up gameplay of a lock-picking puzzle using specialized tools.",
+    "Successful completion of the puzzle as the lock opens.",
+    "Final end card showing the publisher logo and a call to action."
+  ],
+  "on_screen_text": [
+    "CRIME SCENE DO NOT CROSS",
+    "DOMINI GAMES",
+    "Choose the next game!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#1A1A2E",
+    "#FFD700",
+    "#5D4037"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults who enjoy mystery-solving, detective narratives, and puzzle-based hidden object games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001586
+}

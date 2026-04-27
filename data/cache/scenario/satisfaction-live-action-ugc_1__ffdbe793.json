@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_CqDPVLNDxqnFVjAf1QNW4GVg?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQ3FEUFZMTkR4cW5GVmpBZjFRTlc0R1ZnP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=jt4KP85xSINn36z7pr3PS9lOb%7ER%7ELUU038r0jWGuhzxb8cvOdQ0cKJ3lTHbR7lxuoqpp8SPZITW4LTkjAzMjVIwTKooSf-oqPbDY%7Ej%7E3%7EqBgb3AhUEU7V3ugC7w97U2zUDWx8paCJwT5iMjabAxNSdN%7E5cOFErM-2NIsAwV6R1hnFLgNIiOLUzOs9nRaw2MYHhr5JoXH8afrHvddu3TrfxVvfN7yID2xx7VFp0tzMtkIqoNHJEbpZUVsvEcBu87CQjkxbFcvMqJzckawpgDiHiQ7QXtb7dKYN0tZLX3p4FfwzusQwbOPqHJK7zdHEFC1lAwk7fNmBzK8tSp8%7EPWQ-Q__",
+  "job_id": "job_YduXLmcvGVNtAcDfwCb2dkfB",
+  "asset_id": "asset_CqDPVLNDxqnFVjAf1QNW4GVg",
+  "stub": false,
+  "prompt": "Storyboard frame 2, vertical 9:16 aspect ratio, mystical minimalism style: extreme close-up of a smartphone screen filling the frame, deep black UI background (#100D06), centered glowing golden-yellow serif text (#D4A024 and #FCE588) reading 'Question 7 of 20', faint swirling gold particles, a subtle sphinx silhouette watermark, dark premium trivia game aesthetic, ultra clean minimalist layout",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

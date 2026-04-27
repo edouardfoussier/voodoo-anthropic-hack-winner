@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_szmJgdzX5HPkfK4owvnedvsN?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfc3ptSmdkelg1SFBrZks0b3d2bmVkdnNOP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=eIaKpVnXXqAwKt3oNu4%7Eb5jTz3xYiOhzTvEZ11FjMFWEkl80sTxhkuIM-hfA8N8JXUCyVf22-P1nduwsqZi9wIYmnIkO53FOEJIxeU7CUDbb94glYks%7ExMbrW%7Ev3J3ZuP81NiUsSVlHTtjowCU2IfApmtbTq4ZNX70Lk32dxbTAIreLHS7q5%7EwkR6Cd9LRZ1NvMy3AFSfGnF7Qu-xeZfEyO5aa9DhRdxcIMV3C0MJJmHO%7ECr-fqfo1BiO456DmOncfGvPP8osuI9y0GH5db5-q0RXAxVDo4eYvuUuU5illJZbdk6T5JMQoHBArP137NT9ZdWHH%7ErrjtiMA%7Eo%7Ena0Ew__",
+  "job_id": "job_BNdfPKXC5XKhqQnpt9r1ZwRd",
+  "asset_id": "asset_szmJgdzX5HPkfK4owvnedvsN",
+  "stub": false,
+  "prompt": "Storyboard frame 2, vertical 9:16: same Helix Jump 3D minimalist art style, fast downward camera plunge through the sliced helix tower cross-section showing labeled hidden zones stacked vertically \u2014 'Lava Ring Lvl 23', 'Boss Gate Lvl 40', 'Neon Core Lvl 50' \u2014 rendered as floating neon labels beside red (#FF0000) and green (#39FF14) ringed platforms against a cyan (#5CE1E6) backdrop, motion blur streaks, simple geometric shapes only, on-screen text '50 hidden floors \ud83d\udc40' in bold white, authentic Helix Jump HUD with score and level counter, no character on screen.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

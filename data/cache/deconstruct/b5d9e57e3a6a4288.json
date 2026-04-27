@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "b5d9e57e3a6a4288",
+    "ad_unit_id": "b5d9e57e3a6a4288",
+    "app_id": "6153b4a2f3e690163b93ec0b",
+    "advertiser_name": "Metalstorm: Modern Air Combat",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/preview",
+    "phashion_group": "b5d9e57e3a6a4288",
+    "share": null,
+    "first_seen_at": "2026-04-04T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🔒 Lock on. 🎯 Fire. 💥 Destroy the enemy in real PvP matches.",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-octane jet fighter combat featuring evasive maneuvers and missile strikes.",
+    "visual_action": "A jet maneuvers under a bridge while dodging lasers, followed by a close-up of another jet's afterburner and missile launch.",
+    "text_overlay": "METALSTORM",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Jet maneuvers under a bridge while dodging enemy fire.",
+    "Close-up shots of jets engaging in dogfights with missiles and flares.",
+    "Fast-paced aerial combat sequences through canyons and open sky.",
+    "Explosive finishes as jets are shot down in mid-air.",
+    "End card with game title, CTA, and platform logos."
+  ],
+  "on_screen_text": [
+    "METALSTORM",
+    "PLAY NOW FOR FREE",
+    "Download on the App Store",
+    "GET IT ON Google Play",
+    "EPIC GAMES STORE"
+  ],
+  "cta_text": "PLAY NOW FOR FREE",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#000000",
+    "#FF4500",
+    "#4682B4"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Action-oriented male gamers 18-40 interested in military aviation and competitive dogfighting.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001405
+}

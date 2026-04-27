@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "fc56ff0c4567b016",
+    "ad_unit_id": "fc56ff0c4567b016",
+    "app_id": "60892102ac0f8f01806ccc94",
+    "advertiser_name": "Forest Island",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7bc7f70746e1719/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7bc7f70746e1719/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7bc7f70746e1719/preview",
+    "phashion_group": "fc56ff0c4567b016",
+    "share": null,
+    "first_seen_at": "2025-11-20T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Wait... did that baby duckling just go \"peep peep\" and stumble over its own feet? 🦆🐤🐤🐤\nWatch mama duck lead her tiny fluffy squad across your island! The peeping, waddling, splashing chaos is almost too cute to handle.\nYour heart doesn't stand a chance! 💛",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cute ducklings chirping in a nest followed by a mother duck walking.",
+    "visual_action": "A close-up of a nest with ducklings transitions to them following a mother duck along a riverbank.",
+    "text_overlay": "Peep-peep!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Close-up of ducklings chirping in a nest.",
+    "Ducklings following a mother duck along a riverbank.",
+    "Mother duck and ducklings sleeping peacefully on the grass.",
+    "Various animals like bears and foxes interacting with the environment.",
+    "Wide view of the lush, multi-tiered animal island with waterfalls."
+  ],
+  "on_screen_text": [
+    "Peep-peep!",
+    "How was your day?",
+    "Feeling tired?",
+    "Come to our island and relax, peep!"
+  ],
+  "cta_text": "Come to our island and relax, peep!",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#91D050",
+    "#59C1D1",
+    "#FDE06D"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual mobile gamers seeking a relaxing, cozy, and aesthetically pleasing idle or simulation game.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015660000000000001
+}

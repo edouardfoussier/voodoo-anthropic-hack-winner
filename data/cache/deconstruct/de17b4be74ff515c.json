@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "de17b4be74ff515c",
+    "ad_unit_id": "de17b4be74ff515c",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/preview",
+    "phashion_group": "de17b4be74ff515c",
+    "share": null,
+    "first_seen_at": "2025-11-21T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "New robots, new epic victories!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Intense mech combat resulting in a quick kill.",
+    "visual_action": "Two mechs fire continuous laser beams at an enemy robot on a grassy hill until it explodes.",
+    "text_overlay": "KILL",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Mechs engage in a firefight on a hillside using laser weaponry.",
+    "The targeted enemy mech is destroyed in a fiery explosion.",
+    "A 'KILL' notification appears prominently on the screen.",
+    "The scene cuts to a black end card with a 'PLAY GAME' call to action."
+  ],
+  "on_screen_text": [
+    "KILL",
+    "PLAY GAME"
+  ],
+  "cta_text": "PLAY GAME",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#5c6b3c",
+    "#8a9ba8",
+    "#222222"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy tactical mech combat and high-intensity action games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001189
+}

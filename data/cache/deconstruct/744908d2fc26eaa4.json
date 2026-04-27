@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "744908d2fc26eaa4",
+    "ad_unit_id": "744908d2fc26eaa4",
+    "app_id": "5b0bf793add5fb1967fd21ad",
+    "advertiser_name": "Viola’s Quest: Marble Blast",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/preview",
+    "phashion_group": "744908d2fc26eaa4",
+    "share": null,
+    "first_seen_at": "2026-03-31T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Time-limited events starting soon! 🎉🔥",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A satisfying sequence of colorful marbles rolling through a magical forest.",
+    "visual_action": "A line of marbles with different colors and symbols snakes across the screen in a curved path.",
+    "text_overlay": "Viola's Quest, PLAY NOW",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Marbles emerge from the left side and follow a curved path through a lush forest.",
+    "The line of marbles grows, filling the screen with vibrant colors and intricate symbols.",
+    "A hand icon repeatedly clicks the 'PLAY NOW' button at the bottom of the screen.",
+    "The marble sequence loops continuously against the fantasy-themed backdrop."
+  ],
+  "on_screen_text": [
+    "Viola's Quest",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#1b3014",
+    "#f9e11e",
+    "#8a2be2"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle game players who enjoy marble-shooter mechanics and vibrant, fantasy-themed aesthetics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001377
+}

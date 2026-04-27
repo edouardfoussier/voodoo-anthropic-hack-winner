@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "8f6022dd3c3dd4a2",
+    "ad_unit_id": "8f6022dd3c3dd4a2",
+    "app_id": "55d939bf02ac645ad2026001",
+    "advertiser_name": "Ladbrokes Sports Betting App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2d4473fa96eadbe/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2d4473fa96eadbe/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2d4473fa96eadbe/preview",
+    "phashion_group": "8f6022dd3c3dd4a2",
+    "share": null,
+    "first_seen_at": "2026-04-07T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Spin the GOT Slot 👑 Take the Throne & win up to £85K🔥That's Ladisfaction! 🤩",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Asks the viewer if they want the Iron Throne.",
+    "visual_action": "Bold white and yellow text appears over a red background with a subtle throne image.",
+    "text_overlay": "WANT THE IRON THRONE?",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Asks a challenging question to engage Game of Thrones fans.",
+    "Presents the new branded slot game as the solution.",
+    "Invokes the fantasy theme to build excitement.",
+    "Displays a high-value jackpot prize to incentivize play.",
+    "Concludes with the brand's signature 'Ladisfaction' slogan."
+  ],
+  "on_screen_text": [
+    "WANT THE IRON THRONE?",
+    "TRY OUR NEW SLOTS GAME",
+    "GAME OF THRONES",
+    "RULE THE SEVEN KINGDOMS",
+    "FOR A CHANCE TO WIN £85K",
+    "THAT'S LADISFACTION"
+  ],
+  "cta_text": "TRY OUR NEW SLOTS GAME",
+  "cta_timing_seconds": 2.0,
+  "palette_hex": [
+    "#E2001A",
+    "#FFFFFF",
+    "#F9E000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult fans of Game of Thrones who enjoy online gambling and slot games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001212
+}

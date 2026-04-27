@@ -1,0 +1,48 @@
+{
+  "raw": {
+    "creative_id": "806b49d300a0bc59",
+    "ad_unit_id": "806b49d300a0bc59",
+    "app_id": "664831db335788e1f4f04311",
+    "advertiser_name": "Tile Explorer - Triple Match",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022f32da7e3d7b9c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022f32da7e3d7b9c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022f32da7e3d7b9c/preview",
+    "phashion_group": "806b49d300a0bc59",
+    "share": null,
+    "first_seen_at": "2026-04-09T00:00:00",
+    "last_seen_at": "2026-04-12T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A magical, serene garden at sunset with floating islands and glowing lights.",
+    "visual_action": "Butterflies flutter around a tea set and a fountain in a lush, purple-toned garden.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Establishment of a magical garden setting with a gazebo and fountain at sunset.",
+    "Focus on the foreground details like the tea set and fluttering butterflies.",
+    "Showcase of the background elements including floating islands and a distant fantasy city."
+  ],
+  "on_screen_text": [],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#9370DB",
+    "#FFD700",
+    "#483D8B"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual gamers who enjoy cozy, high-fantasy aesthetics and relaxing atmosphere.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001078
+}

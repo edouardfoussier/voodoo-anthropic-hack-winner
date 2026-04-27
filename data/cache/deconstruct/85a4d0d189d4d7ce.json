@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "85a4d0d189d4d7ce",
+    "ad_unit_id": "85a4d0d189d4d7ce",
+    "app_id": "59ae6d77b3606ffac7780a24",
+    "advertiser_name": "Bid Wars 2: Auction Simulator",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c02f22294e22a04/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c02f22294e22a04/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c02f22294e22a04/preview",
+    "phashion_group": "85a4d0d189d4d7ce",
+    "share": null,
+    "first_seen_at": "2025-11-11T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Hunt For Treasure In Thrilling Storage Auctions And Be Strategic To Maximize Your Wins!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A storage unit auction begins with a bidding war over a mysterious covered object.",
+    "visual_action": "Garage door opens to reveal items; bidding UI pops up with character icons.",
+    "text_overlay": "subtle foreshadowing",
+    "voiceover_transcript": "All right let's do this. Who's going to make it? Here. Now. Here.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Garage door opens to reveal a storage unit with a large covered object.",
+    "A fast-paced bidding war occurs between the player and two opponents.",
+    "The player wins the auction, and a shower of gold coins celebrates the victory.",
+    "The tarp is lifted to reveal a damaged, low-value truck, resulting in a 'FAIL!' message.",
+    "Final end card displays the game logo and a call to action."
+  ],
+  "on_screen_text": [
+    "subtle foreshadowing",
+    "$ 830!",
+    "$ 920!",
+    "$ 1050!",
+    "PASS...",
+    "SOLD",
+    "FAIL!",
+    "BID WARS",
+    "PLAY NOW!"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#5A8282",
+    "#002B7F",
+    "#FFD700"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Men 25-45 who enjoy bidding games, storage auctions, and the thrill of risk-taking.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001816
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_8rSpif6PcbPKS5uJZZWGiWxu?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOHJTcGlmNlBjYlBLUzV1SlpaV0dpV3h1P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=QMCrzpFIEgQVDSSiZSf7ptD5zTCij6Wm3xk5JlJayE%7EOa08Ee-Z-FguoJ3LsK7z4LkcGRTYmekMIrlJ4hytF3RjGXCqvCcXLPKLAN3w4gWcA7ZyT%7EEHINjWAb49ZXaiPzovUvDetpHPod5dnaHJwfBvuJ4h0xLqPvWDv7TQE%7EukEvQw-j2Lq-X8kHh3JY4naoreJlWeQGBNRjdqMsWWeLvr7BUZjPK2Sz9tmUpEnF3dixNimdKPOnywkkt8Pi6xzfCZWuNT5DqlqaHPpKk96hK5%7EM1jrDakN%7EWTaRIhSFQqYRQFU%7E-8j0alsG0PB-kGqF-OR0XIepb99TemYKGj3TQ__",
+  "job_id": "job_1NK4oHxWUCgVwhijUraL9DCM",
+  "asset_id": "asset_8rSpif6PcbPKS5uJZZWGiWxu",
+  "stub": false,
+  "prompt": "Storyboard CTA frame, aspect 9:16, authentic Push'em All endgame: cleared #56a38b green boss platform with calm rippling #2a7dfa blue water, level progress timeline filled to 100%, floating coin burst settling, minimalist 3D with bright contrasting colors and simple stickman-like figures, large 'PLAY FREE' button in #e3001b red with white text bottom-center, game logo above, on-screen text 'Your turn \ud83d\udc47'. [Audio: VO 'Your turn \u2014 play free' / triumphant competitive sting resolving to soft pad / coin shimmer, UI button pop, water ripple tail]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

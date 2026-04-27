@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_XsDvp6QwFwBUvCWerBWDEyBM?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWHNEdnA2UXdGd0JVdkNXZXJCV0RFeUJNP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=JXrI2-B0TRE7ggAL1czXCh5qUnNTWb6%7ECPG4T0uTPVqjbWggtYWpg0CSFlmN1%7EIis1qqvZZfs889CNVIIDeueIR8dpsw6yv%7Egkb%7EFZunm84MB72I9QEf-seP6P8H9x1j0oa0BHGgv0zWKgGhPqBR%7EHqiEz2pvYCLYX9FpJCahzu7C5lqgiQyc5bBa%7ErEIa93Rc400u1X9rY1Qo589fLCZbWJd3eEv-0JGsmGRsgYCEijnkrUZrnoeND1Y1XU6lHiioblXnY7x-YTYIAQ9TDu3wku0A43BSMgIHMR2YcHIdm6TEINEOa9jT8OlDFE1z4Ck4yzCo-McyTK7RO6V%7EUIRw__",
+  "job_id": "job_n2Z3XXNDsbJzS7zFzqXDBqMX",
+  "asset_id": "asset_XsDvp6QwFwBUvCWerBWDEyBM",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, Stylized 3D Cartoon style: split composition with live-action young man on left throwing arms up in victory under purple #5824F5 and cyan #00A3FF ambient lighting, and a 3D cartoon Mob Control gameplay shot on right with a giant yellow #FFD12C coin shower exploding over a defeated enemy base, on-screen text 'ok I'm addicted' in bold white caps with yellow stroke, energetic competitive vibe, vertical mobile ad framing",
+  "model_id": "flux.1-dev"
+}

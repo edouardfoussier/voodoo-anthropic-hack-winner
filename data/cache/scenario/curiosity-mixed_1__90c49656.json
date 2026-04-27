@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_sbKngNdRfejUJew9EK2cYxWa?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfc2JLbmdOZFJmZWpVSmV3OUVLMmNZeFdhP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=JYV8lk6YksXcY3zacHpXLuygrtLxB7hZVFPojsUd2QTdDCap%7ElYXTrelglKHp05UyrWub6I2D0kBOqxTyj6HVVuHtXTabuQ%7E-NPspXQGgNyb51w%7EKHgi4Frg4xX2yGAcXjGJF2agNBuBYpGDpdYfUfp1ycmYMrPOfel%7EBzlSyIZZjeX29FR3Nl1eckhdNLgPR%7EZQZsxVAOr6FKG2ui4bMKYtIQeCTv4EzNmX9TilFSwj0Epq2UPFCcqlg9P-7QmzMc3UTc4Aa3wkhXE67Swt9JzSRX5wIBD20%7EuAKqpSfWoW6YGsh%7E2toumiXRcIrAEdLrXUcEYeltwWjpIlYLMPLw__",
+  "job_id": "job_LLx1ogK3SsbanWKLZ4MUz72X",
+  "asset_id": "asset_sbKngNdRfejUJew9EK2cYxWa",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, vertical in-game capture of Solitaire - Voodoo Card Game! in classic 2D flat design with traditional green felt table (#1A874B), white cards (#FFFFFF) with red suit accents (#E31C1B), foundation piles top-right nearly complete showing Aces through Jacks of all four suits stacking up, tableau columns being cleared via drag-and-drop sorting, score counter spiking with a glow, timer ticking down in the header, undo and finish buttons visible, exact same UI chrome and card art as the live Solitaire - Voodoo Card Game! build, no characters present, white overlay text 'Foundations stacking \ud83d\udd25' centered, tense challenging mood",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

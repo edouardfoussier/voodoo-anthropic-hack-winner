@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "fe2955a46ff60977",
+    "ad_unit_id": "fe2955a46ff60977",
+    "app_id": "55d939bf02ac645ad2026001",
+    "advertiser_name": "Ladbrokes Sports Betting App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e19449314f87d7be/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e19449314f87d7be/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e19449314f87d7be/preview",
+    "phashion_group": "fe2955a46ff60977",
+    "share": null,
+    "first_seen_at": "2026-04-09T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Follow the Rainbow Bridge 🌈 Mighty wins await! That's Ladisfaction! 🤩",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Bold text on a red background inviting players to follow the rainbow bridge.",
+    "visual_action": "Text overlays sliding in and out over a red background with moving white clouds.",
+    "text_overlay": "FOLLOW THE RAINBOW BRIDGE",
+    "voiceover_transcript": "Follow the rainbow bridge in a mighty new exclusive.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Opening text hook 'Follow the Rainbow Bridge' on a red background.",
+    "Announcement of the new exclusive game 'Amazing Link Odin'.",
+    "Callout for the 'Mega Jackpot Prize' to build excitement.",
+    "Brand slogan 'That's Ladisfaction' transition.",
+    "Final call to action with the 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "Ladbrokes",
+    "FOLLOW THE RAINBOW BRIDGE",
+    "18+ T&Cs apply.",
+    "TAKE TIME TO THINK",
+    "GambleAware",
+    "IN A MIGHTY NEW EXCLUSIVE",
+    "AMAZING LINK ODIN",
+    "TAKING A SHOT AT A MEGA JACKPOT PRIZE?",
+    "THAT'S LADISFACTION",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#E2001A",
+    "#FFFFFF",
+    "#FFFF00"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult male sports bettors and casino players in the UK aged 25-55.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016350000000000002
+}

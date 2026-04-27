@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "80bbb00dd55be14d",
+    "ad_unit_id": "80bbb00dd55be14d",
+    "app_id": "6753a94a9049e6c00f8fd6ed",
+    "advertiser_name": "Queens Master: Sudoku Puzzle",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/preview",
+    "phashion_group": "80bbb00dd55be14d",
+    "share": null,
+    "first_seen_at": "2026-04-15T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Compares the game to Sudoku before transitioning to a crown-filled screen.",
+    "visual_action": "A Sudoku board is quickly covered by a shower of golden crowns.",
+    "text_overlay": "Like Sudoku puzzles? Try Queens' Master.",
+    "voiceover_transcript": "Like Sudoku puzzles? Try Queens' Master.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Sudoku board transition to game title via falling crowns.",
+    "Explanation of Rule 1: One queen per color, demonstrating marking tiles with X.",
+    "Explanation of Rule 2: Queens can't touch, showing queen placement and surrounding tile marking.",
+    "Explanation of Rule 3: One queen per row and column, completing the logic.",
+    "Final puzzle completion sequence leading to a 'Play Now' CTA."
+  ],
+  "on_screen_text": [
+    "Like Sudoku puzzles? Try Queens' Master.",
+    "DOWNLOAD",
+    "This game has three simple rules.",
+    "Rule 1: One queen per colour.",
+    "Let's start by crossing out tiles",
+    "Single tap to mark an X",
+    "Rule 2: Queens can't touch each other.",
+    "Double tap to place a queen",
+    "Rule 3: One queen per row and column.",
+    "Play Now"
+  ],
+  "cta_text": "DOWNLOAD",
+  "cta_timing_seconds": 3.0,
+  "palette_hex": [
+    "#E6F7E6",
+    "#76D7C4",
+    "#F1948A"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy logic games like Sudoku and Minesweeper.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0019060000000000001
+}

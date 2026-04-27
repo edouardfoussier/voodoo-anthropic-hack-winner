@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "a7b67c0e55e21cd2",
+    "ad_unit_id": "a7b67c0e55e21cd2",
+    "app_id": "59baf7f70211a6be9ed99cac",
+    "advertiser_name": "tombola bingo – UK Bingo Games",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ea457ea939cd15f4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ea457ea939cd15f4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ea457ea939cd15f4/preview",
+    "phashion_group": "a7b67c0e55e21cd2",
+    "share": null,
+    "first_seen_at": "2025-10-08T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🎁 Experience the thrill of Deal or No Deal – exclusive to tombola! Ready to take on the challenge?\nWin up to £1,000 for FREE! 💸\nSMS opt in required. 18+ gambleaware.org. T&Cs Apply",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A group of women react with suspense and joy as they reveal a £1,000 win on a mobile game.",
+    "visual_action": "Four women huddle around a phone; the screen shows 'Deal or No Deal' boxes opening to reveal a big win.",
+    "text_overlay": "WINNER £1,000",
+    "voiceover_transcript": "Oh... Yes!",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Suspenseful reveal of two boxes on a smartphone screen held by a group of women.",
+    "The group reacts with shock and excitement as the £1,000 prize is revealed.",
+    "Confetti animation and 'WINNER' text overlay the celebration.",
+    "Transition to a teal end card with promotional offers and a call to action."
+  ],
+  "on_screen_text": [
+    "DEAL OR NO DEAL",
+    "8",
+    "24",
+    "£1,000",
+    "10p",
+    "WINNER £1,000",
+    "No Deposit Required",
+    "Play for free"
+  ],
+  "cta_text": "Play for free",
+  "cta_timing_seconds": 5.5,
+  "palette_hex": [
+    "#D32F2F",
+    "#4DB6AC",
+    "#FFFFFF"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual adults in the UK aged 25-55 who enjoy game shows and mobile casino games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001605
+}

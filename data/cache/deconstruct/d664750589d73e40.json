@@ -1,0 +1,64 @@
+{
+  "raw": {
+    "creative_id": "d664750589d73e40",
+    "ad_unit_id": "d664750589d73e40",
+    "app_id": "69d45581591333b7c517b798",
+    "advertiser_name": "Flow Blast: Pixel Puzzle Out",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/000ecc39bbd5d97a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/000ecc39bbd5d97a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/000ecc39bbd5d97a/preview",
+    "phashion_group": "d664750589d73e40",
+    "share": null,
+    "first_seen_at": "2026-04-10T00:00:00",
+    "last_seen_at": "2026-04-10T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand selects colored boxes to catch matching blocks falling from a conveyor belt.",
+    "visual_action": "A hand clicks on colored boxes at the bottom to move them onto a track where matching blocks fall.",
+    "text_overlay": "LEVEL 5",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction of the puzzle layout with a multi-colored block conveyor belt.",
+    "The player selects an orange box to catch orange blocks, followed by a yellow box.",
+    "Boxes fill to 100% and disappear, progressing the level counter.",
+    "Gameplay intensifies as blocks move faster and multiple boxes are managed simultaneously."
+  ],
+  "on_screen_text": [
+    "LEVEL 5",
+    "0/5",
+    "1/5",
+    "2/5",
+    "3/5",
+    "4/5",
+    "2%",
+    "5%",
+    "50%",
+    "0%",
+    "55%",
+    "90%",
+    "95%",
+    "100%"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#6B6B8E",
+    "#F7D13D",
+    "#E53935"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile gamers who enjoy satisfying sorting and organization puzzles.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001738
+}

@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "e9b27c434abfa438",
+    "ad_unit_id": "e9b27c434abfa438",
+    "app_id": "55fac6f202ac64c13c000081",
+    "advertiser_name": "Quick Hit Casino - Vegas Slots",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12dd82b513a673a1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12dd82b513a673a1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12dd82b513a673a1/preview",
+    "phashion_group": "e9b27c434abfa438",
+    "share": null,
+    "first_seen_at": "2026-03-27T00:00:00",
+    "last_seen_at": "2026-04-05T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "What’s That Sound? 👂🏻\nIt’s All the Jackpots You Could Be Winning in Quick Hit Casino! 🎉🎈",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Energetic cats jumping over golden eggs to introduce the Astro Cat slot.",
+    "visual_action": "Two animated white cats jump over a field of golden eggs against a scenic Asian-inspired background.",
+    "text_overlay": "EggLink ASTRO CAT",
+    "voiceover_transcript": "EggLink Astro Cat!",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Animated cats jump over golden eggs in a field to introduce the game.",
+    "Slot reels spin and trigger a bonus round with golden eggs filling the screen.",
+    "A fox character appears and vacuums up gold coins from the board.",
+    "Colorful smoke bursts transition the scene to the final branding screen.",
+    "End card displays the game title, 'New Slot Alert', and a call to action."
+  ],
+  "on_screen_text": [
+    "EggLink ASTRO CAT",
+    "Quick Hit SLOTS",
+    "NEW SLOT ALERT!",
+    "OPEN APP"
+  ],
+  "cta_text": "OPEN APP",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#FFD700",
+    "#4B0082",
+    "#008000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual social casino players who enjoy vibrant, animal-themed slot machines.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016389999999999998
+}

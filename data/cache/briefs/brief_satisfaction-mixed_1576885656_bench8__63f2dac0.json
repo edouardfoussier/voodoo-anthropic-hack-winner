@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1576885656",
+  "title": "\"Actually Relaxing?\" — Angel vs Devil Gate Run",
+  "hook_3s": "A soft voice asks \"Ever played a game that ACTUALLY relaxes you?\" as a thumb swipes through a glowing halo gate — feathers puff, the alignment meter ticks toward Angel.",
+  "scene_flow": [
+    "0-3s: POV over-the-shoulder of the Destiny Run track — bright sky-blue road, white clouds. A real thumb enters frame and swipes left through a halo (green) gate. Voiceover question lands.",
+    "3-7s: Combo montage — thumb swipes collecting halos, dodging red devil-horn obstacles. Alignment meter on top-right fills white/gold. Satisfying chimes stack with each pickup.",
+    "7-11s: Mid-track choice gate appears: ANGEL (white/blue) vs DEVIL (red). Thumb hesitates, then swipes right into the DEVIL gate for contrast — character sprouts horns, meter snaps red, cheeky giggle SFX.",
+    "11-14s: Finish line judgment cloud reveals dual outcome — heaven beam vs fire pit. Soft satisfying whoosh.",
+    "14-15s: End card: low-poly character winking between halo + horns, CTA pulses."
+  ],
+  "visual_direction": "Authentic Destiny Run in-game capture feel: bright #5bc2ff sky-blue runway with #ffffff cloud rails and #d92b2b devil-side accents. 3D stylized low-poly geometry, calm/satisfying UI chrome — top-bar level progress, right-side Angel/Devil alignment meter, floating halo and horn collectibles. A real human thumb overlay sells the \"you can play this now\" UGC feel against the clean stylized world. Lighting is soft and diffuse; no gritty filters — keep it clean, candy-bright, ASMR-adjacent.",
+  "text_overlays": [
+    "Wait… a game that ACTUALLY relaxes you?",
+    "Just swipe ➜ collect halos 😇",
+    "…or pick the red gate 😈",
+    "Which side are YOU?",
+    "Find out your destiny ⤵"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Destiny Run rotation is silent, copy-less Applovin playables/videos with zero VO hook — this brief injects the trending \"relaxing-question\" satisfaction VO that's winning across the market but is completely absent from their stack. Critically, we re-shoot the hook over real Angel/Devil gate gameplay (not stylus-puzzle bait) to keep IPM lift without tanking D1 or tripping misleading-creative flags. UA: test against the existing soundless playables as a video top-of-funnel feeder; expect stronger thumb-stop on female 18-34.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, in-game moment from Destiny Run mobile runner: bright sky-blue (#5bc2ff) low-poly track stretching to horizon, fluffy white (#ffffff) cloud guardrails, a glowing white halo collectible floating mid-lane on the left and a red (#d92b2b) devil-horn obstacle on the right, split choice gate ahead labeled ANGEL / DEVIL, top-right Angel-Devil alignment meter HUD half-filled white, top progress bar, a real human thumb entering from bottom-right mid-swipe, 3D stylized bright and clean simple low-poly geometry, soft diffuse lighting, on-screen text overlay reading 'Wait… a game that ACTUALLY relaxes you?' in friendly white sans-serif at top. [Audio: VO (warm female, curious) 'Ever played a game that actually relaxes you?' / calm satisfying lo-fi 80bpm with soft marimba / whoosh on thumb swipe at 0.8s, gentle chime on halo glint at 1.5s]",
+    "Storyboard frame, aspect 9:16, Destiny Run gameplay mid-combo: low-poly character running down #5bc2ff sky-blue track collecting a stream of white (#ffffff) halos, three red (#d92b2b) devil horns being dodged on right lane, alignment meter HUD top-right glowing white/gold near full, level progress bar advancing, sparkle particles on each pickup, 3D stylized bright and clean simple low-poly geometry, on-screen text overlay 'Just swipe ➜ collect halos 😇' bottom-center in rounded white font. [Audio: VO 'just swipe… collect… breathe.' / calm satisfying 80bpm lo-fi marimba / stacking chime combo SFX every 0.4s, soft whoosh on each swipe]",
+    "Storyboard frame, aspect 9:16, Destiny Run judgment finish line: split outcome reveal with soft white heavenly light beam on left half and gentle red (#d92b2b) ember glow on right half over #5bc2ff sky backdrop, low-poly character mid-frame with one halo and one horn, alignment meter HUD centered showing 50/50 split, clean white (#ffffff) clouds framing, 3D stylized bright and clean simple low-poly geometry, big on-screen text overlay 'Which side are YOU?' top-center bold white with red accent. [Audio: VO (playful) 'so… which side are you?' / calm satisfying lo-fi swelling to warm pad / soft celestial chime left, low ember crackle right, satisfying button-pop on CTA at 4.5s]"
+  ]
+}

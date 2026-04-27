@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "46400ed0502a97ad",
+    "ad_unit_id": "46400ed0502a97ad",
+    "app_id": "5618099202ac64fe3e00000b",
+    "advertiser_name": "Prodigy Math Game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/preview",
+    "phashion_group": "46400ed0502a97ad",
+    "share": null,
+    "first_seen_at": "2026-01-05T00:00:00",
+    "last_seen_at": "2026-04-04T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Learn more",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A young boy named Jason shares how his math skills improved significantly after using the app.",
+    "visual_action": "A close-up of an 8-year-old boy talking, transitioning to a bright orange and blue graphic.",
+    "text_overlay": "Jason Age 8, My math skyrocketed",
+    "voiceover_transcript": "When I started Prodigy, my math skyrocketed.",
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "Testimonial from an 8-year-old boy named Jason about his math progress.",
+    "Animated graphics emphasizing that the app builds math skills through play.",
+    "The boy explains the transition from struggling with math to excelling.",
+    "Split-screen showing kids' excitement while playing the game and actual gameplay footage.",
+    "Closing screen with the app logo, a cartoon character, and a call to action."
+  ],
+  "on_screen_text": [
+    "Jason Age 8",
+    "My math skyrocketed",
+    "Prodigy builds math skills through play!",
+    "Prodigy",
+    "Learn more today!"
+  ],
+  "cta_text": "Learn more today!",
+  "cta_timing_seconds": 13.5,
+  "palette_hex": [
+    "#F15A24",
+    "#AEE5EF",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Parents of elementary-aged children looking for engaging educational tools to improve math skills.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017200000000000002
+}

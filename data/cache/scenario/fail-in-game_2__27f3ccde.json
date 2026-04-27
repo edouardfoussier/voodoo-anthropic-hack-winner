@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_YZVTjSpzc5gSgVu2tD1SBQE4?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWVpWVGpTcHpjNWdTZ1Z1MnREMVNCUUU0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YmqEuzQtFxv0klSoWYDJs3FeDuCIeMqi%7El4IdDP3yki2UmgU9jBuqJOH9pDK2G6rxw11IANCQhzFwsupjZpzN1GEaEFVbiPI9wdPreeZNiCinEgQW38RQW%7EmnvP1CPBbiXM6rEpY9vaVbcf%7E4M0O4bJmhwyieEeAZYAmFRDqeM9iy-NeiThfDpxOihpq3X5LUn0-WnxFbh6d-DLCIKTqiFnLUZ1bJJYFwz7IjbaUu7FxyeFtOwntRjpos7C%7EEAPT6GvBjfN9pcQG3XD2%7Eg2XsT%7EFhVNAuCNdHiqEkocvRgAP0gpDOQixiyhLk1EiFujuzbpX0e0d8AY4gXcYXJQjag__",
+  "job_id": "job_YCurYEMvY4Y6bA7QhaFvZEWD",
+  "asset_id": "asset_YZVTjSpzc5gSgVu2tD1SBQE4",
+  "stub": false,
+  "prompt": "Storyboard victory frame, aspect 9:16, wide top-down Crowd City shot: an enormous #FF0000 red stickman crowd of 200+ flooding a pastel low-poly plaza beneath a low-poly Eiffel Tower, a few last #0000FF blue stickmen being absorbed and turning red, faint #00FF00 green sparkle pickups, low-poly colorful 3D environment with simple stickman-like character models, native HUD shows '00:03' timer and '218' crowd counter, bold white overlay 'BIGGEST CROWD WINS' across top, celebratory energetic mood",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

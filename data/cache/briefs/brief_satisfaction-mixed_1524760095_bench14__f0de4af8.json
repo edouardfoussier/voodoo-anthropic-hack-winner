@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1524760095",
+  "title": "\"Ever Played Something This Satisfying?\" — Roof Rails Pole-Stack ASMR",
+  "hook_3s": "A whispered \"Have you ever played a game THIS satisfying?\" as a giant pole snaps onto the runner mid-stride, then carves a long shimmering slide across a cyan rooftop rail.",
+  "scene_flow": [
+    "0–3s HOOK: First-person-ish over-shoulder view; voiceover asks 'Ever played a game that actually feels THIS satisfying?' as the character grabs a cluster of yellow pole pieces — pole telescopes outward with a crisp click-click-click SFX.",
+    "3–7s ESCALATION: Character mounts a long white rail between two pastel skyscrapers; pole balances horizontally, sparks of cyan trail behind. Diamond counter ticks up rapidly. Overlay: 'wait for it…'",
+    "7–11s PAYOFF: A saw obstacle clips the pole shorter — gasp moment — then a pickup pile re-extends it to absurd length, sliding across THREE rails in one combo. Big yellow '+250' burst.",
+    "11–14s VARIETY: Quick montage of three rooftop sections (sunset pastel, cyan noon, magenta accent) all cleared in one unbroken slide — emphasizes the 'relaxing flow state' promise.",
+    "14–15s CTA: Game logo snaps in over a final perfect landing; tap-to-play finger pulse on screen."
+  ],
+  "visual_direction": "Lean hard into Roof Rails' signature 3D minimalist look: stark white rooftop path, #5CD6FF cyan sky and building blocks, #EAF6FA off-white surfaces, #FFC824 yellow pole pieces and diamond pickups as the visual heroes. Camera stays in the authentic chase-cam runner POV — never break to a hand/stylus puzzle frame (that's the source archetype's mistake). Add subtle ASMR-style polish: slight motion blur on slides, satisfying particle pops on each pole-piece pickup, soft shadow under the runner. UI chrome (top progress bar, diamond counter top-right, level indicator) stays exactly as in-game so the ad reads as authentic gameplay, not a render.",
+  "text_overlays": [
+    "Ever played a game THIS satisfying?",
+    "wait for it…",
+    "longer pole = longer slide",
+    "+250 💎 COMBO!",
+    "Your turn 👇"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Roof Rails rotation is 100% wordless gameplay videos plus one playable — they have ZERO voiceover-led \"satisfaction question\" hooks, which is the fastest-growing archetype in the casual scan (3 advertisers, 81d avg age). This brief imports the proven VO question-hook and ASMR pacing but anchors it to authentic rail-sliding footage, fixing the puzzle/runner mismatch flagged in game-fit. UA should test against the existing silent-gameplay videos on Applovin first; expect higher 3s hold-rate from the VO question and similar IPM from preserved core-loop fidelity.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect ratio, authentic in-game Roof Rails moment: third-person chase camera behind a small stylized 3D minimalist runner character sliding along a long thin white rooftop rail between two pastel cyan skyscrapers, holding a horizontal balancing pole made of stacked bright yellow #FFC824 segments extending far to both sides, glowing yellow pole-piece pickups floating ahead in a line, soft cyan #5CD6FF sky, off-white #EAF6FA rooftop surfaces, clean uncluttered 3D minimalist style with simple geometry and bright pastel colors, in-game HUD visible: top progress bar, diamond currency counter top-right, level indicator, on-screen text overlay 'Ever played a game THIS satisfying?' in bold white sans-serif at top center, no stylus, no hand, no puzzle grid",
+    "Storyboard frame 2, 9:16 vertical, authentic Roof Rails gameplay still: same minimalist runner mid-slide across a rail, a spinning grey saw obstacle ahead about to clip the yellow balancing pole, motion lines and small cyan spark particles, pastel cyan #5CD6FF cityscape background with simple block buildings, white #EAF6FA rail and rooftops, accent yellow #FFC824 pole and diamond pickups, clean 3D minimalist simple geometry bright pastel uncluttered aesthetic, in-game HUD: progress bar top, diamond counter, level number, large overlay text 'wait for it…' centered in white, faithful to Roof Rails IP screenshots, no extra characters",
+    "Storyboard frame 3, 9:16 vertical, authentic Roof Rails payoff moment: runner mid-air between two rooftops with an extremely long yellow #FFC824 stacked pole stretching across the frame, trail of collected yellow pole pieces and floating diamond gems behind, two more white rails visible ahead chaining into the distance, bright cyan #5CD6FF sky, pastel #EAF6FA building tops, 3D minimalist simple geometry clean uncluttered bright pastel style, in-game UI chrome intact (progress bar, diamond counter top-right, level indicator), big yellow burst overlay text '+250 COMBO!' in bold rounded font, reads as a real Roof Rails screenshot not a render"
+  ]
+}

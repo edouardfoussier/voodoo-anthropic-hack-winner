@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "47f47d6ebda5c225",
+    "ad_unit_id": "47f47d6ebda5c225",
+    "app_id": "55de054a02ac6453fd0524b9",
+    "advertiser_name": "윈조이 포커 - 블랙잭, 바카라, 슬롯, 로우바둑이",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cd0e64b69449718/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cd0e64b69449718/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cd0e64b69449718/preview",
+    "phashion_group": "47f47d6ebda5c225",
+    "share": null,
+    "first_seen_at": "2025-12-16T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A slot machine spin leads to a jackpot win with a curiosity-inducing headline.",
+    "visual_action": "The slot reels spin and land on three '7' symbols, triggering a gold coin explosion and a 'JACKPOT' banner.",
+    "text_overlay": "시작 2시간만에 잭팟 터진 비결..!?",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Slot machine reels spin with various fruit symbols visible.",
+    "The reels land on three '7' symbols, triggering a 'JACKPOT' animation with falling gold coins.",
+    "A transition screen appears with text asking if the viewer is the next winner over a background of coins.",
+    "Final end card displays the 'WINJOY POKER' logo and a download button."
+  ],
+  "on_screen_text": [
+    "시작 2시간만에 잭팟 터진 비결..!?",
+    "9 different symbols in a single spin awards the Free Game",
+    "JACKPOT",
+    "다음 주인공은 바로 나?!",
+    "WINJOY POKER",
+    "이기는 즐거움! 원조어 포커",
+    "지금 다운로드"
+  ],
+  "cta_text": "지금 다운로드",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#000000",
+    "#FFD700",
+    "#FFFFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Adults who enjoy social casino games and the excitement of high-stakes jackpot wins.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001816
+}

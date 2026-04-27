@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_T5uC6PNuNUvVYnMCxFmXrc8q?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVDV1QzZQTnVOVXZWWW5NQ3hGbVhyYzhxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Am4uvbzKn4R5BALHNCZ3tr89C7gMLS88%7En78gWIwckJuaz7GgwjTw8iiJty5HO401-cRJTQIKHzhpPef0wsqBl3F5Xys7XqmeqM-iHOycAwV76qNfJESpWkSL1HyhjME%7Eus8BjG00PWtjnwGOvF2QmaoX0NKHKJjgfa9TTnSFtAUjuIhm4edroX1tDxmeA8Qn5z878X1Yljni1k4kybJJCDioL32jPtnMpjnczKntKjZXuZYHwBLN2DTlJeX5WauTW1kY82czI3-89TIF%7EKvTsPwvwNxbQ-205V%7E9SD5WkSwJewlwszJFViI5cMgl1X4ltevHCXnNxuZO6y3v8jAJQ__",
+  "job_id": "job_MFrwY9NgsXEyvPFuBHXn5SyG",
+  "asset_id": "asset_T5uC6PNuNUvVYnMCxFmXrc8q",
+  "stub": false,
+  "prompt": "Storyboard frame 1, aspect 9:16, top-down in-game view of Push'em All early level: blue stickman on a narrow green platform (#56a38b) over blue water (#2a7dfa), short stick extended sideways pushing a small group of red stickman enemies (#e3001b) toward the edge, minimalist 3D with bright contrasting colors and simple stickman-like figures, native HUD with progress timeline and coin counter, bold white overlay text 'SMART' top-center, clean authentic Push'em All gameplay, no character invented beyond the hero",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

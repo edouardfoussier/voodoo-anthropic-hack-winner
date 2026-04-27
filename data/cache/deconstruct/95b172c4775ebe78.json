@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "95b172c4775ebe78",
+    "ad_unit_id": "95b172c4775ebe78",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f9a9a90556b8d424/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f9a9a90556b8d424/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f9a9a90556b8d424/preview",
+    "phashion_group": "95b172c4775ebe78",
+    "share": null,
+    "first_seen_at": "2025-10-30T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Action PvP shooter with robots and huge guns!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-octane mech combat featuring a massive missile barrage against an enemy robot.",
+    "visual_action": "A red and blue mech hovers over a city street, locking onto a target and unleashing a volley of rockets.",
+    "text_overlay": "gun83, 362m",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Mech hovers in a city environment and locks onto an enemy target.",
+    "The player mech fires a continuous stream of missiles while closing the distance.",
+    "The enemy mech is hit repeatedly and eventually explodes.",
+    "A 'KILL' text overlay appears over the smoking wreckage.",
+    "The screen cuts to a dark end card with 'INSTALL NOW!' and flying sparks."
+  ],
+  "on_screen_text": [
+    "gun83",
+    "362m",
+    "323m",
+    "279m",
+    "303m",
+    "231m",
+    "KILL",
+    "INSTALL NOW!"
+  ],
+  "cta_text": "INSTALL NOW!",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#A52A2A",
+    "#4169E1",
+    "#808080"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers 18-35 who enjoy tactical robot combat and high-action shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001569
+}

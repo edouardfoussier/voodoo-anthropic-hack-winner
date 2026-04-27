@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "acd0da83b234f941",
+    "ad_unit_id": "acd0da83b234f941",
+    "app_id": "67f9b33c67bda8def67d85d8",
+    "advertiser_name": "Fanatics Casino - Real Money",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/995ec4f222806a74/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/995ec4f222806a74/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/995ec4f222806a74/preview",
+    "phashion_group": "acd0da83b234f941",
+    "share": null,
+    "first_seen_at": "2026-03-31T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Every day you get a free spin on FanCash Spins. Open the app, spin the wheel, and see what rewards show up.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A smartphone displays a losing slot spin while a voiceover highlights a $100,000 daily prize pool.",
+    "visual_action": "Static shot of a phone on a desk; the digital slot machine reels spin and stop on a 'Better Luck Next Time' result.",
+    "text_overlay": "FANCASH SPINS",
+    "voiceover_transcript": "Play FanCash Spins for free every day for a chance at $100,000 in daily rewards.",
+    "emotional_pitch": "fail"
+  },
+  "scene_flow": [
+    "Static top-down view of a smartphone resting on a wooden desk next to a notebook.",
+    "The FanCash Spins app interface is active, showing a slot machine animation.",
+    "The reels stop on a losing combination, prompting the user to try again."
+  ],
+  "on_screen_text": [
+    "FANCASH SPINS",
+    "BETTER LUCK NEXT TIME",
+    "SPIN",
+    "Must be 21+. GAMBLING PROBLEM? CALL 1-800-GAMBLER..."
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#2C1E16",
+    "#1A2B4E",
+    "#FFD700"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Adult sports fans and casual gamblers aged 21+ looking for low-stakes daily rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001411
+}

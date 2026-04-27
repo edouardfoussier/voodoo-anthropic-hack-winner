@@ -1,0 +1,50 @@
+{
+  "raw": {
+    "creative_id": "722cccca661eb803",
+    "ad_unit_id": "722cccca661eb803",
+    "app_id": "5eea5700ec1eca50ed89256d",
+    "advertiser_name": "ようこそ！ポケモンカフェ ～まぜまぜパズル～",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a2fb41a87f611037/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a2fb41a87f611037/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a2fb41a87f611037/preview",
+    "phashion_group": "722cccca661eb803",
+    "share": null,
+    "first_seen_at": "2026-03-30T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Fill your home or office with the crisp, high-quality sound from this premium turntable from the experts at U-Turn Audio! This product is eligible for Free Shipping.",
+    "button_text": "Shop Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Close-up of a Pikachu-themed turntable spinning.",
+    "visual_action": "A turntable platter featuring a Pikachu illustration rotates continuously against a purple gradient background.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Close-up of the rotating turntable platter featuring a Pikachu graphic.",
+    "The camera maintains a steady angle showing the tonearm and the textured black surface of the player.",
+    "The rotation continues smoothly with the Pokémon Center logo anchored at the bottom of the frame."
+  ],
+  "on_screen_text": [
+    "Pokémon Center"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#FFDE00",
+    "#000000",
+    "#5D2E8C"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Pokémon fans and vinyl collectors interested in high-end branded lifestyle products.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00128
+}

@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1235581326",
+  "title": "\"Ever Played Something This Satisfying?\" — Hoop-Chain Combo Reskin",
+  "hook_3s": "\"Hey! Ever played a game that's actually this satisfying?\" — ball swooshes through three magenta hoops in a row, combo counter EXPLODES on screen.",
+  "scene_flow": [
+    "0-3s HOOK: Phone-in-hand POV on warm beige court background; finger taps screen, ball flap-bounces through first magenta hoop with a crisp swoosh as VO drops the 'Hey! Ever played...' opener.",
+    "3-7s ESCALATE: Camera tightens; ball chains through 3 hoops back-to-back, blue accent combo trails streak across screen, x2 → x3 → x5 multiplier numbers pop in flat-shaded cartoon style.",
+    "7-11s VS MOMENT: Screen splits — player score racing ahead of opponent score in classic Flappy Dunk VS HUD; magenta banner flashes 'COMBO!' as the lead widens.",
+    "11-14s PAYOFF: Final perfect swoosh, hearts indicator full, confetti burst in primary palette, score lands on a clean round number with a satisfying chime.",
+    "14-15s CTA: Logo lockup on beige with magenta 'PLAY FREE' button pulsing."
+  ],
+  "visual_direction": "Lock to Flappy Dunk's signature 2D cartoon DNA: thick black outlines, flat shading, warm beige (#EAD5A0) court backdrop, saturated magenta (#D81155) hoops and banners, bright blue (#5CB3FF) ball trail and combo accents. Keep the authentic in-game HUD — VS bar at top, score counter, hearts indicator — visible at all times so viewers recognize the actual game. No 3D, no realistic shading, no stylus-hand POV; the only finger shown is a real thumb tapping the bottom edge of the phone frame.",
+  "text_overlays": [
+    "Ever played something THIS satisfying?",
+    "Tap. Flap. Swoosh.",
+    "COMBO x5 🔥",
+    "Beat your rival",
+    "PLAY FREE"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Flappy Dunk rotation leans on generic \"best basketball game\" video claims and a silent playable — zero satisfaction-pitch or VO-opener hooks. This brief imports the trending \"Hey! Ever played a game that...\" opener (proven across 2 advertisers) but reskins it onto authentic hoop-chain combo footage, so we keep the archetype's scroll-stopping curiosity bait without the puzzle-game bait-and-switch that would tank D1. UA team: A/B this against the YouTube \"Best basketball game ever\" cuts — same audience, fresher emotional angle.",
+  "scenario_prompts": [
+    "Vertical 9:16 mobile gameplay frame of Flappy Dunk: a bright blue (#5CB3FF) basketball mid-air arcing through a saturated magenta (#D81155) hoop against a warm beige (#EAD5A0) court background, thick black outlines, flat shading, vibrant high-contrast 2D cartoon style, authentic in-game HUD visible — VS score bar at top showing player ahead, hearts indicator, combo multiplier 'x3' popping in chunky cartoon numerals, blue motion trail behind the ball, bold on-screen text overlay 'Ever played something THIS satisfying?' in white with black outline at upper third, no characters, no stylus, no hands. [Audio: VO 'Hey! Ever played a game that's actually this satisfying?' / punchy upbeat 120bpm arcade trap with playful synth bells / crisp swoosh on hoop pass at 1.0s, rising chime on combo at 2.5s]",
+    "Vertical 9:16 Flappy Dunk gameplay still: three magenta (#D81155) hoops stacked diagonally across a warm beige (#EAD5A0) sky, a glowing blue (#5CB3FF) ball streaking through all three with a ribbon-like trail, thick black outlines, flat shading, vibrant high-contrast 2D cartoon style, authentic Flappy Dunk HUD with score counter rapidly ticking up and 'COMBO x5 🔥' banner flashing in magenta, hearts indicator full in corner, on-screen overlay text 'Tap. Flap. Swoosh.' in bold white-with-black-outline cartoon font. [Audio: VO 'Three in a row — wait, FIVE?!' / energetic 128bpm competitive arcade beat with hand-claps / triple swoosh staccato then combo explosion SFX at 3s]",
+    "Vertical 9:16 Flappy Dunk VS-screen moment: split-screen score comparison UI with player side glowing blue (#5CB3FF) leading 47-12 over opponent on warm beige (#EAD5A0) background, magenta (#D81155) banner across middle reading 'BEAT YOUR RIVAL', thick black outlines, flat shading, vibrant high-contrast 2D cartoon style, authentic Flappy Dunk hoops and ball visible mid-action behind the HUD, hearts indicator and combo meter present, big rounded magenta 'PLAY FREE' button pulsing at bottom with on-screen overlay text 'PLAY FREE'. [Audio: VO 'Your move.' / triumphant 130bpm competitive sting with crowd-cheer accent / victory chime at 1s, button-tap click at 4s]"
+  ]
+}

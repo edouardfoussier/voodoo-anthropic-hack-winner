@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "80123d39765f74c4",
+    "ad_unit_id": "80123d39765f74c4",
+    "app_id": "63c0a80dedbc613cc4f954e4",
+    "advertiser_name": "Landlord Simulator",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/preview",
+    "phashion_group": "80123d39765f74c4",
+    "share": null,
+    "first_seen_at": "2026-04-20T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A landlord aggressively kicks down an apartment door to demand rent.",
+    "visual_action": "First-person perspective of a character kicking open a door and entering a room.",
+    "text_overlay": "No rent, all excuses!",
+    "voiceover_transcript": "Rent! Come out!",
+    "emotional_pitch": "rage_bait"
+  },
+  "scene_flow": [
+    "The landlord kicks down the front door of apartment 69.",
+    "The landlord searches the living room and kicks down the bathroom door.",
+    "A tenant is discovered on the toilet begging for more time to pay rent.",
+    "A decision menu appears with options to 'Evict' or 'Help her out'.",
+    "The 'Evict' option is selected, and the tenant is shown leaving the apartment crying."
+  ],
+  "on_screen_text": [
+    "No rent, all excuses!",
+    "RENT!",
+    "COME OUT!",
+    "RENT NOW",
+    "I can pay next month",
+    "ANNIE P.",
+    "LATE RENT",
+    "LOUD NOISES",
+    "SUSPICIOUS",
+    "Evict",
+    "Help her out"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#33A8C7",
+    "#E8B491",
+    "#FFFFFF"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual mobile gamers who enjoy dramatic simulation and management scenarios.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017560000000000002
+}

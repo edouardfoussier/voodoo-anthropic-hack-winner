@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "9748f302dba86c86",
+    "ad_unit_id": "9748f302dba86c86",
+    "app_id": "69a3b7065235fa4805fc68a4",
+    "advertiser_name": "Arrow Cube Escape",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/preview",
+    "phashion_group": "9748f302dba86c86",
+    "share": null,
+    "first_seen_at": "2026-04-03T00:00:00",
+    "last_seen_at": "2026-04-06T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Learn more",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Woman shows clear skin vs. old acne photos, introduces the product.",
+    "visual_action": "Close-up of woman's face with inset 'before' photos, then holding a skincare bottle.",
+    "text_overlay": "透明感ある肌目指す 元ニキビ肌ママ",
+    "voiceover_transcript": "透明感ある肌目指す 元ニキビ肌ママ。よくみるコレ、ニキビ美白までケアできるの知ってた？",
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "Comparison of past acne-prone skin with current clear skin using inset photos.",
+    "Demonstration of applying the essence milk to the face.",
+    "Explanation of the high concentration of Red CICA extract.",
+    "Showcase of the complete N organic skincare routine.",
+    "Final offer for a 980 yen trial set with a call to action."
+  ],
+  "on_screen_text": [
+    "透明感ある肌目指す 元ニキビ肌ママ",
+    "よくみるコレ ニキビ※1美白※2までケアできるの知ってた？",
+    "この春進化！ ニキビ※1美白※2までケアできる美容乳液",
+    "みんな知ってる あのCICAが...",
+    "通常CICA有効成分の 10.9倍 赤CICAエキス配合なんだって！",
+    "出会えて良かった リピートスキンケア",
+    "私が愛用してる N organicが...",
+    "新発売記念 お試しセット 980円 送料無料！ 気になる人はCHECK"
+  ],
+  "cta_text": "気になる人はCHECK",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#F5E6D3",
+    "#FFFFFF",
+    "#4A3728"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Japanese mothers aged 25-45 looking for effective skincare solutions for acne and skin brightening.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001742
+}

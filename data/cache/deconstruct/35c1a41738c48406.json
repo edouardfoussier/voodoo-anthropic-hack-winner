@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "35c1a41738c48406",
+    "ad_unit_id": "35c1a41738c48406",
+    "app_id": "5f233c9ae9bbdb01538c8eda",
+    "advertiser_name": "Mini Football - Soccer Games",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/preview",
+    "phashion_group": "35c1a41738c48406",
+    "share": null,
+    "first_seen_at": "2025-11-27T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "How Many Goals Can You Score in This Epic Football Game? ⚽️🏆",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A corner kick in a Brazil vs Italy match is saved by the keeper, leading to a close-up of a disappointed player.",
+    "visual_action": "Corner kick, header, goalkeeper save, and a close-up reaction of a frustrated player.",
+    "text_overlay": "BRA 0 - 0 ITA, SHOOT, PASS, SPRINT",
+    "voiceover_transcript": null,
+    "emotional_pitch": "fail"
+  },
+  "scene_flow": [
+    "Brazil vs Italy corner kick fails to score, showing player frustration.",
+    "Fast-paced gameplay montage showing successful goals and dribbling.",
+    "Brazil scores from a corner kick followed by a celebratory animation.",
+    "France misses a corner kick, showing a different player's frustration.",
+    "Final branding screen with the game logo and a download prompt."
+  ],
+  "on_screen_text": [
+    "BRA 0 - 0 ITA",
+    "SHOOT",
+    "PASS",
+    "SPRINT",
+    "NOT ALL IMAGES ARE GAMEPLAY INCLUDES IN-GAME PURCHASES (INCLUDES RANDOM ITEMS)",
+    "1 - 0",
+    "2 - 0",
+    "BRA 1 - 0 ITA",
+    "FRA 0 - 0 BRA",
+    "MINI FOOTBALL",
+    "DOWNLOAD NOW!"
+  ],
+  "cta_text": "DOWNLOAD NOW!",
+  "cta_timing_seconds": 14.0,
+  "palette_hex": [
+    "#5A8231",
+    "#1C3C70",
+    "#F9D116"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual sports fans who enjoy fast-paced, arcade-style soccer games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001885
+}

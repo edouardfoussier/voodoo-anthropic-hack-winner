@@ -1,0 +1,51 @@
+[
+  {
+    "canonical_country": "US",
+    "categories": [
+      "game_casual",
+      "game"
+    ],
+    "publisher_profile_url": "/publisher/android/VOODOO0",
+    "release_date": "2019-06-10T00:00:00Z",
+    "updated_date": "2019-06-10T00:00:00Z",
+    "app_id": "5cfe1c1db9ab944b0c977b5c",
+    "name": "AquaPark io - Slide Race Game",
+    "publisher_name": "VOODOO0",
+    "publisher_id": "5cfe1c1db9ab944b0c977b5b",
+    "humanized_name": "AquaPark io",
+    "icon_url": "https://lh3.googleusercontent.com/tKSB1fS7e0raPv4f-SdwPdmCsW4CicHDqiw8QS-m2wH5QevUNDwuN9sgJSuAlIXc-M0=s150",
+    "os": "unified",
+    "id": "5cfe1c1db9ab944b0c977b5c",
+    "entity_type": "unified_app",
+    "is_unified": true,
+    "android_apps": [
+      {
+        "app_id": "aquapark.io",
+        "canonical_country": "US",
+        "name": "AquaPark io - Slide Race Game",
+        "publisher_name": "VOODOO0",
+        "publisher_id": "VOODOO0",
+        "humanized_name": "AquaPark io",
+        "icon_url": "https://lh3.googleusercontent.com/tKSB1fS7e0raPv4f-SdwPdmCsW4CicHDqiw8QS-m2wH5QevUNDwuN9sgJSuAlIXc-M0=s150",
+        "os": "android",
+        "categories": [
+          "game_casual",
+          "game"
+        ],
+        "publisher_profile_url": "/publisher/android/VOODOO0",
+        "release_date": "2019-06-10T00:00:00Z",
+        "updated_date": "2019-06-10T00:00:00Z",
+        "active": false,
+        "valid_countries": [],
+        "global_rating_count": 7264
+      }
+    ],
+    "ios_apps": [],
+    "active": false,
+    "publisher_ids": [
+      "5cfe1c1db9ab944b0c977b5b"
+    ],
+    "global_rating_count": 7264,
+    "valid_countries": []
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_vtpnKkvCuLsEw3F8RomAVbUB?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdnRwbktrdkN1THNFdzNGOFJvbUFWYlVCP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Y-dpcnt4b5aff-xDvoC2JKoSbCBT%7EoFl2HaU6QLvOVBNjaSYfCh%7EE9Mvvfxfd4ialyQnUq2-rI3KNXormx-CuJDzn9263LtM0lnTH7u0UYwVyBdvyxM3tFlVVil96dun8uAutr4DOjV09JbYBoTT6XnUW6HnaBIcPHfzFUyHDhW81v0b5Xmo46IwNNoSxcnmibvfJixzAt-vq2OuUFxr6jT671TPGAyCALK4hqlBl82VbmAT7kt%7E1-XTMPgdbdtBJ-lFJ4fgpC%7EIM9CuvoJzO-YgAeSVwmtGHNh3DJu-62RjXU-fuoGoHMeoW-WAWP38SzBKMZcfi8m5sTzeby-XRA__",
+  "job_id": "job_Ym9mJBL2B8MrGrMveV3XhQNv",
+  "asset_id": "asset_vtpnKkvCuLsEw3F8RomAVbUB",
+  "stub": false,
+  "prompt": "Aspect 9:16, 3D low-poly bright colorful cartoonish aquapark.io in-game frame, chase-cam behind a low-poly cartoon animal racer on a white inner tube sliding down a glossy bright blue (#42bcf5) water slide flume with white (#ffffff) walls, threading a razor-thin gap between two rival racers about to be bumped off the edge, splash particles, top-left orange (#ff8c1c) race progress bar and top-right multiplayer leaderboard HUD exactly like the real game, large bold orange '#ff8c1c' overlay text 'SMART' center-screen with subtle glow, no realistic water, no invented UI, authentic aquapark.io asset style. [Audio: VO (hyped male, gen-z) 'Okay that was smart\u2026' / energetic competitive trap, 120 BPM, punchy 808s / whoosh on overtake at 1s, ding on meter pop at 2.5s].",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

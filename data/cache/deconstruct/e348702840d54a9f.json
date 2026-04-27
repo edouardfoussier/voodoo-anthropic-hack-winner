@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "e348702840d54a9f",
+    "ad_unit_id": "e348702840d54a9f",
+    "app_id": "55d939bf02ac645ad2026001",
+    "advertiser_name": "Ladbrokes Sports Betting App",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c83f9a20108a890/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c83f9a20108a890/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c83f9a20108a890/preview",
+    "phashion_group": "e348702840d54a9f",
+    "share": null,
+    "first_seen_at": "2026-04-08T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Got the golden touch? ✨ Win up to £50K! That's Ladisfaction! 🤩",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A direct challenge to the viewer asking if they have the 'golden touch' over a red background.",
+    "visual_action": "Bold white text appears on a red background, followed by a burst of gold sparkles and yellow text.",
+    "text_overlay": "THINK YOU'VE GOT THE GOLDEN TOUCH?",
+    "voiceover_transcript": "Think you've got the golden touch?",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Opening text challenge asking if the viewer has the 'golden touch'.",
+    "Transition to a promotional offer of winning up to £50k.",
+    "Introduction of the exclusive game 'Midas Dynasty Coins'.",
+    "Closing brand slogan 'That's Ladisfaction' with responsible gambling disclaimers."
+  ],
+  "on_screen_text": [
+    "THINK",
+    "THINK YOU'VE GOT",
+    "THE GOLDEN TOUCH?",
+    "PLAY FOR A CHANCE TO WIN UP TO £50K",
+    "IN OUR NEWEST EXCLUSIVE",
+    "MIDAS DYNASTY COINS",
+    "ULTRA LINK & WIN 10000X",
+    "THAT'S LADISFACTION",
+    "18+ T&Cs apply.",
+    "TAKE TIME TO THINK",
+    "GambleAware"
+  ],
+  "cta_text": "PLAY FOR A CHANCE TO WIN UP TO £50K",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#E2001A",
+    "#FFFFFF",
+    "#F9D900"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult casino and sports betting enthusiasts looking for high-stakes exclusive games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001731
+}

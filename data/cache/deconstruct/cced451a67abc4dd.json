@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "cced451a67abc4dd",
+    "ad_unit_id": "cced451a67abc4dd",
+    "app_id": "55d939bf02ac645ad2026001",
+    "advertiser_name": "Ladbrokes Sports Betting App",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ca36348299fe8b40/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ca36348299fe8b40/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ca36348299fe8b40/preview",
+    "phashion_group": "cced451a67abc4dd",
+    "share": null,
+    "first_seen_at": "2026-04-08T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Feel the history and passion of legends before you. Now it’s your turn. Opt in for a chance to play at Anfield.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cinematic fast cuts of Anfield's iconic landmarks and the tunnel sign.",
+    "visual_action": "Rapid transitions between the stadium stands and a player's hand touching the 'This is Anfield' sign.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Cinematic montage of Anfield stadium and the iconic 'This is Anfield' tunnel sign.",
+    "Fast-paced action shots of a football match being played on the pitch with large yellow text overlays.",
+    "Celebration shots of players on the field to evoke the feeling of a professional match.",
+    "Instructional screen detailing how to enter the competition via a £5 bet builder.",
+    "Closing branding with the event date and official partnership logos."
+  ],
+  "on_screen_text": [
+    "THIS IS ANFIELD LIVERPOOL FOOTBALL CLUB",
+    "PLAY",
+    "IN THE MATCH",
+    "OF A LIFETIME",
+    "PLACE A £5 BET BUILDER AND ENTER THE DRAW",
+    "ANFIELD 26/05 SEE YOU THERE",
+    "L.F.C. Ladbrokes OFFICIAL PARTNER"
+  ],
+  "cta_text": "PLACE A £5 BET BUILDER AND ENTER THE DRAW",
+  "cta_timing_seconds": 10.5,
+  "palette_hex": [
+    "#D00027",
+    "#FFFFFF",
+    "#F7E300"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "UK-based male football fans and Liverpool FC supporters who engage in sports betting.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018310000000000002
+}

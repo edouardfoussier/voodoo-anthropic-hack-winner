@@ -1,0 +1,63 @@
+{
+  "raw": {
+    "creative_id": "bdf6fd7b1032fa14",
+    "ad_unit_id": "bdf6fd7b1032fa14",
+    "app_id": "66d27b94782b200e42488550",
+    "advertiser_name": "Perfect Tidy",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6907999ceebbe373/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6907999ceebbe373/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6907999ceebbe373/preview",
+    "phashion_group": "bdf6fd7b1032fa14",
+    "share": null,
+    "first_seen_at": "2025-12-23T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Free the road!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand uses a stylus to solve a bus-sorting puzzle while the narrator asks a question about relaxation.",
+    "visual_action": "A hand with a stylus slides colorful buses around a crowded parking lot to clear a path for passengers.",
+    "text_overlay": "Hey! Played a game that Actually makes you Feel relaxed?",
+    "voiceover_transcript": "Hey! Have you ever played a game that actually makes you feel relaxed?",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A hand uses a stylus to navigate a bus-sorting puzzle while a narrator asks about relaxing games.",
+    "Buses are moved out of the grid, allowing passengers to board matching colored vehicles.",
+    "The narrator introduces 'Bus Escape - Trafic Jam' and highlights the lack of time limits.",
+    "The gameplay continues smoothly, demonstrating the low-stress, satisfying mechanics of clearing the lot."
+  ],
+  "on_screen_text": [
+    "486 Left",
+    "Hey!",
+    "Played a game that",
+    "Actually makes you",
+    "Feel relaxed?",
+    "I found this game called",
+    "Bus Escape - Trafic Jam",
+    "And the best part?",
+    "No time limits at all",
+    "I can take my time",
+    "Sort the bus slowly",
+    "And just enjoy the game",
+    "Without any stress"
+  ],
+  "cta_text": "Bus Escape - Trafic Jam",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#4A90E2",
+    "#9B51E0",
+    "#F2994A"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual puzzle enthusiasts who seek satisfying, low-pressure gameplay for relaxation.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0019360000000000002
+}

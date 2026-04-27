@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "f4c789ef782bea16",
+    "ad_unit_id": "f4c789ef782bea16",
+    "app_id": "6322100abd16da6f1e6d7ec2",
+    "advertiser_name": "Carnival Tycoon: Coin Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26787479764eb3ea/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26787479764eb3ea/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26787479764eb3ea/preview",
+    "phashion_group": "f4c789ef782bea16",
+    "share": null,
+    "first_seen_at": "2026-02-02T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 7.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "No Install. Just Play Now!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A stylus solves a color-unification puzzle on a Yin-Yang symbol.",
+    "visual_action": "A hand uses a pen to click color dots and fill sections of a Yin-Yang shape to make it a solid color.",
+    "text_overlay": "Uniform colors in two steps. (0/2)",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Stylus selects a red dot and fills the blue half of the Yin-Yang symbol to turn the whole circle red.",
+    "Stylus selects a blue dot and fills the red half of the Yin-Yang symbol to turn the whole circle blue.",
+    "Stylus selects a red dot and fills the small blue circle inside the red section.",
+    "Stylus selects a blue dot and fills the small red circle inside the blue section.",
+    "The puzzle resets with a new configuration as a Korean voiceover begins."
+  ],
+  "on_screen_text": [
+    "Uniform colors in two steps.",
+    "(0/2)",
+    "(1/2)",
+    "(2/2)"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#00BFFF",
+    "#FF0000",
+    "#FFFFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile gamers who enjoy minimalist logic puzzles and satisfying color-filling mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001425
+}

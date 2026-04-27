@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "fcaaebf3d3041d56",
+    "ad_unit_id": "fcaaebf3d3041d56",
+    "app_id": "55c50b2202ac64f9c00022c6",
+    "advertiser_name": "PlayStation App",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e7e0605ca41420/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e7e0605ca41420/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e7e0605ca41420/preview",
+    "phashion_group": "fcaaebf3d3041d56",
+    "share": null,
+    "first_seen_at": "2026-03-12T00:00:00",
+    "last_seen_at": "2026-03-30T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "The PC Ready Controller",
+    "button_text": "Learn more",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Showcase of the DualSense controller followed by high-fidelity game footage.",
+    "visual_action": "The controller appears in a glowing blue frame, transitioning to a cinematic close-up of a character.",
+    "text_overlay": "UNMISSABLE IMMERSION ON PC",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the DualSense controller with 'Unmissable Immersion on PC' messaging.",
+    "Cinematic montage of Death Stranding 2 gameplay and release date.",
+    "Graphic overlay explaining haptic feedback and adaptive trigger features.",
+    "High-octane action sequence from Cyberpunk 2077 on a motorcycle.",
+    "Final branding shot with 'PC READY' and the PlayStation logo."
+  ],
+  "on_screen_text": [
+    "DualSense Wireless Controller",
+    "UNMISSABLE IMMERSION ON PC",
+    "DEATH STRANDING 2: ON THE BEACH",
+    "BRING SELECT GAMES TO LIFE WITH HAPTIC FEEDBACK + ADAPTIVE TRIGGERS",
+    "CYBERPUNK 2077 ULTIMATE EDITION",
+    "PC READY",
+    "PLAY HAS NO LIMITS."
+  ],
+  "cta_text": "PC READY",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#000000",
+    "#00439C",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Core PC gamers who prioritize high-fidelity graphics and immersive haptic technology.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001816
+}

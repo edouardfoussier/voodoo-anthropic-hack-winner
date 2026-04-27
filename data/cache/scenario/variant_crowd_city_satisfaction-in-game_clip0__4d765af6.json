@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_G1ybnarqjGp6kVREVq92vi2P?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9HMXlibmFycWpHcDZrVlJFVnE5MnZpMlAqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Yr-w-YBcY7vOmgPHdPWCflUlEmAqbUR8H03MotDzpBY9ntRkwVwByetT664jo67qWKppDRpZXWv2o276ZGg1KtwN2U3i%7EiOjWzNl3F145vgTqr1YOBGVHVp73C7jsUs8QtOtuJ4eAYCdHCkUckExEgoXW0zHqgvzBJ-zF3hl39h3jhHOJhmMti-7kYt9lfm1153PboT43sw0BWWH5FBgNmTSUvejqnuTwTld1sNEdVUpCiqXCXVZFd-4NnvQbMoyEE26TMJpyTdLYwVJhuN0wN%7ELOnza9AK9xRkcKhD0g-oD7VfKAAWhIFLs9lw79IXZ%7EMHD2fO2ATOhE%7EeBh4GurA__",
+  "job_id": "job_9zmpbNQ2DiYK1ej6hL9kAunq",
+  "asset_id": "asset_G1ybnarqjGp6kVREVq92vi2P",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Hero frame, aspect 9:16, authentic Crowd City in-game screenshot: top-down 3-quarter camera over a low-poly pastel city street, one single bright red (#FF0000) stickman character standing alone on a cream sidewalk surrounded by dozens of neutral grey low-poly stickmen mid-conversion, a shrinking blue (#0000FF) rival crowd fleeing in the background, a tiny green (#00FF00) crowd visible near a low-poly Eiffel Tower, signature Crowd City HUD with top-left countdown timer '0:42' and top-right red/blue/green player-count score bubbles, bottom progress bar, on-screen text overlay 'Can 1 person take the whole city?', simple stickman-like character models, colorful low-poly 3D environment, muted pastel buildings, no realistic humans, mobile game UI chrome",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": false,
+  "audio": false
+}

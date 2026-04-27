@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_J8FnejsrsgY6Xy3nFFsCwzQJ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSjhGbmVqc3JzZ1k2WHkzbkZGc0N3elFKP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=I1rur9hGepC6%7ETDB1LMSiKOnFmrJLfGqIDDHlXVxGQMazZivy587wosSURLU0UnNnW0L2lUpqj-xcU4UmTnCU8hYUKl5%7ECiBls6-GCHLW32cWaXzhfKThzu2T6F5geCzZiNc6Utq7a4viFPhTD8CWIi4AjVE2w0r6HneqF4Mk6Olz2l3KTS5gV4Xswa1HvSQEwFAiEWz-xLAH3n0mdkXiIf-TOUBocvg-GGQMGqHNNlzE2%7EKPJKzfr7DC6mkL3hl5hwl4sHccLiMoeILH2%7EUm2o%7EwJaVFE4GmLqzfiZItKlL5HkzqeVWj3y2PwYg6YRFMb5ojuiBL26bxY4yg3Tmyg__",
+  "job_id": "job_34ScFJT9FywXBNroKLNJQ7xt",
+  "asset_id": "asset_J8FnejsrsgY6Xy3nFFsCwzQJ",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect ratio, split composition: top half is authentic phone-shot UGC of a teenager lying on a bed grinning at his phone in a sunlit bedroom, bottom half is an in-game aquapark.io moment showing a low-poly cartoon character on an inflatable inner tube sliding down a bright cyan #42bcf5 water slide with glossy white #ffffff track edges, body-checking a rival character off the edge into the void below, vibrant orange #ff8c1c race progress bar and multiplayer leaderboard HUD visible at the top of the screen, 3D low-poly bright colorful cartoonish style, bold white on-screen text overlay 'I knocked 7 people off \ud83d\ude02', authentic mobile gameplay UI chrome matching aquapark.io",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

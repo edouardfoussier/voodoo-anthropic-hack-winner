@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "f8b53e0f8d3ee77a",
+    "ad_unit_id": "f8b53e0f8d3ee77a",
+    "app_id": "5ff50fc745acaa307cbafd30",
+    "advertiser_name": "Merge Elves : Merge 3 Puzzle",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326dc902a76a0775/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326dc902a76a0775/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326dc902a76a0775/preview",
+    "phashion_group": "f8b53e0f8d3ee77a",
+    "share": null,
+    "first_seen_at": "2026-04-09T00:00:00",
+    "last_seen_at": "2026-04-20T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "I just wanted to try it",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand taps a decorative egg in a nest to hatch it.",
+    "visual_action": "A hand interacts with a pink and green egg, causing it to crack and reveal a bird.",
+    "text_overlay": "Tap to Hatch...",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A hand taps a pink and green egg sitting in a floral nest.",
+    "The egg cracks open to reveal a small pink bird wearing a flower crown.",
+    "The bird fully emerges, chirps, and confetti falls around it.",
+    "Final screen displays seasonal event text and a 'play Now' call-to-action button."
+  ],
+  "on_screen_text": [
+    "Tap to Hatch...",
+    "Don't Miss Out On the New Season",
+    "play Now"
+  ],
+  "cta_text": "play Now",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#FF99CC",
+    "#66CC99",
+    "#FFD1DC"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual female players who enjoy pet collection and nurturing games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001534
+}

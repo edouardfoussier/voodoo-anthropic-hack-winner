@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1423046460",
+  "title": "\"Relaxing? Think Again.\" — Satisfaction Bait-&-Switch for Paper.io 2",
+  "hook_3s": "A finger calmly traces a perfect neon-yellow square across a pastel grid — \"oddly satisfying\" ASMR vibe — until a magenta enemy slices the trail and the screen EXPLODES into Paper.io 2 chaos.",
+  "scene_flow": [
+    "0–3s: Top-down close-up of a fingertip slowly drawing a clean #FFD700 trail on a soft grid, ASMR pen-on-paper SFX, narrator asks the satisfaction question.",
+    "3–6s: Camera pulls back — the 'puzzle' is actually a Paper.io 2 arena. A magenta opponent races toward the unfinished trail. Tension spike.",
+    "6–10s: Player frantically swipes to close the loop, captures a huge territory chunk in a #FFD700 flash, kill-feed pops 'YOU ELIMINATED Pink_42'.",
+    "10–13s: Territory % bar rockets from 12% → 68%, coins/gems scatter, screen shakes with combo chimes.",
+    "13–15s: End card: Paper.io 2 logo on neon grid, CTA button pulses."
+  ],
+  "visual_direction": "Lock to Paper.io 2's authentic minimalist 3D top-down camera with bright solid color blocks. Open soft and pastel to mimic the trending \"relaxation\" archetype, then snap to the game's signature high-contrast palette: #FFD700 player territory, #00BFFF rival zone, #FF00FF danger trails. Keep the grid floor, thin trail extrusion, and HUD chrome (% bar top-left, kill feed top-right, coin counter) pixel-faithful to the live game. No invented characters — the player is represented by the standard Paper.io 2 square avatar only.",
+  "text_overlays": [
+    "Ever played a game that ACTUALLY relaxes you?",
+    "Just draw… and capture…",
+    "WAIT — BEHIND YOU!",
+    "68% TERRITORY 🔥",
+    "Can YOU survive?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Paper.io 2 rotation is all straight gameplay video + playables with no copy — they're missing the satisfaction/ASMR bait-and-switch hook that's winning in the broader puzzle-sort market. This brief borrows the trending \"relaxation question\" opener for top-of-funnel scroll-stop, then pivots hard into authentic competitive .io gameplay by 3s to protect intent and ROAS. UA team: test against the 12/23 Admob video as control; expect higher IPM, monitor D1 retention to confirm the pivot filters out pure-puzzle seekers.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic Paper.io 2 in-game moment: minimalist 3D top-down view of a bright #FFD700 yellow square avatar mid-draw, extruding a thin glowing yellow trail across a soft pastel grid floor, a #FF00FF magenta rival square approaching from the right edge on a collision course, #00BFFF cyan captured territory visible in the background, faithful Paper.io 2 HUD with territory percentage bar top-left and kill-feed text top-right, vibrant minimalist 3D top-down with bright solid colors, on-screen text overlay 'Ever played a game that ACTUALLY relaxes you?' in bold white sans-serif. [Audio: VO (calm female): 'Ever played a game that actually relaxes you?' / soft lo-fi ASMR pads 70 BPM building tension / pen-on-paper scratch SFX, faint heartbeat at 2.5s]",
+    "Storyboard frame, aspect 9:16, authentic Paper.io 2 gameplay: dramatic top-down zoom of the #FFD700 yellow trail snapping closed into a massive captured territory flood-fill, #FF00FF magenta enemy eliminated mid-screen, scattered collectible coins and gems bouncing, kill-feed text 'YOU ELIMINATED Pink_42' top-right, territory bar surging to 68%, #00BFFF cyan rival zones shrinking, vibrant minimalist 3D top-down with bright solid colors palette #FFD700 #00BFFF #FF00FF, bold on-screen text overlay '68% TERRITORY 🔥'. [Audio: VO (excited): 'Wait — not so relaxing now!' / punchy upbeat electronic 128 BPM drop / whoosh on capture, coin chime stack, satisfying bass thud at 1.8s]",
+    "Storyboard end card, aspect 9:16, Paper.io 2 logo centered on a neon grid floor with #FFD700 #00BFFF #FF00FF territory tiles radiating outward, minimalist 3D top-down with bright solid colors, glowing 'Play Free' CTA button pulsing at bottom, faint % bar and coin HUD framing, on-screen text 'Can YOU survive?'. [Audio: VO (punchy): 'Can you survive?' / energetic competitive synth stinger 130 BPM / UI click on CTA, rising whoosh into logo reveal]"
+  ]
+}

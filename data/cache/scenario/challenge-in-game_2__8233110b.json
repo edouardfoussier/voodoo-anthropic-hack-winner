@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_YdAYG4VrNStazrxQdgnJdD5k?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWWRBWUc0VnJOU3RhenJ4UWRnbkpkRDVrP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=R8yk17%7EenfR909fnAWvZl%7EjQYAmBRuup7k97SuGTK%7EfUlqHWrm7tVpii%7ESV75YczEG3hEn5U43gJN5fFzoHA97jCY6TsOfdDUUVV6CSwhch2fAjAobPWwCPCb81RUrBOZoMxLz2z6MgGGVVJ5vYuEDnSG42MApoozjhr7k9F3kPOt9T3plt-7oypbAYvAU%7Eq4%7EyP3FZ8xXkx5JdS%7EdgQxUFgyjOGT7ye4E4J-Aov-mHh-pE9N5E6eBZf6H8sSIF%7EIgoIwIqjk1-4tdbY3ikjFBJrjhjXh5rSNOdgaGsQFAlZRfteM54FmLYZzrgwdi9Bzpy9lXwqUpahdNsj3Ku2PQ__",
+  "job_id": "job_UEGJHwFNF4u9a2B7272N2X8k",
+  "asset_id": "asset_YdAYG4VrNStazrxQdgnJdD5k",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, authentic Helix Jump end-card moment: cyan (#5CE1E6) ball resting on a green (#39FF14) safe platform at the base of the helix tower, red (#FF0000) trap ring glowing above, soft white background, large centered overlay 'CAN YOU BEAT IT?' in bold white sans-serif with red underline, App Store style 'PLAY FREE' button bottom-center, 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters, clean mobile game HUD",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

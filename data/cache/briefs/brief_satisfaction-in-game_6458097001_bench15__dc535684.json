@@ -1,0 +1,27 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "6458097001",
+  "title": "SMART → GENIUS → PSYCHOPATH Trick Shots",
+  "hook_3s": "Arrow splits an apple mid-air — meter jumps from SMART to GENIUS in a blue-and-gold duel arena.",
+  "scene_flow": [
+    "0-3s: POV pull-back on bowstring in Archery Clash arena, arrow drills a small target — meter pings 'SMART' in yellow.",
+    "3-7s: Quick-cut second shot ricochets off a shield and pierces opponent's helmet — meter climbs to 'GENIUS', confetti pop.",
+    "7-11s: Third shot — drawn-back charged arrow splits an incoming arrow mid-flight then headshots the rival duelist — meter maxes 'PSYCHOPATH' with screen shake.",
+    "11-15s: Victory chest bursts open showing rarity-colored gear upgrades, female archer flexes bow, CTA card slams in."
+  ],
+  "visual_direction": "Authentic Archery Clash! 3D stylized look — slightly cartoonish female archer, vibrant colors, realistic lighting. Bright blue (#2A9DF4) arena banners and HUD chrome, vibrant yellow (#FFD700) trajectory arc and meter text, green (#32CD32) accent on the rising tier bar. Keep the existing aiming reticle, dotted trajectory line, health bars, and gear-rarity backgrounds visible in every beat — this must read as in-game footage, not a stylized cinematic.",
+  "text_overlays": [
+    "SMART",
+    "GENIUS",
+    "PSYCHOPATH 🎯",
+    "RARE LOOT UNLOCKED",
+    "CAN YOU HIT IT?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Archery Clash! rotation leans on generic playables and a self-aware 'I paid for this ad' YouTube spot — they have zero satisfaction-tier escalation creatives. This brief imports the trending SMART/GENIUS/PSYCHOPATH meter format (high scroll-stopping power on TikTok/Reels) but hard-pivots it to authentic archery trick-shot gameplay in the first 3 seconds, so it inherits the meme's CTR without the puzzle-bait audience mismatch. Test against the Applovin playables as a video-source funnel.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic in-game screenshot of Archery Clash! mobile duel: stylized female archer at bottom of frame drawing back a glowing bow, dotted yellow (#FFD700) trajectory arc curving toward a rival duelist across a sunlit blue (#2A9DF4) arena platform, opponent health bar and gear rarity icons in HUD chrome, green (#32CD32) tier meter on right side filling toward 'GENIUS', 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text 'GENIUS' in bold yellow caps. [Audio: VO whisper 'wait for it…' / punchy upbeat trap 120BPM building tension / bowstring creak, arrow whoosh at 3s, ascending chime ping on meter tick]",
+    "Storyboard frame, aspect 9:16, in-game Archery Clash! moment: a charged arrow mid-air splitting an incoming enemy arrow in two, sparks and motion lines, blue (#2A9DF4) arena banners blurred behind, yellow (#FFD700) impact burst, green (#32CD32) 'PSYCHOPATH' meter maxed top-right, aiming reticle still visible, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text 'PSYCHOPATH 🎯' slamming center. [Audio: VO satisfied 'no way' / hard trap drop 140BPM / arrow-on-arrow metal clink, bass-boom impact, crowd-roar swell]",
+    "Storyboard frame, aspect 9:16, Archery Clash! victory screen: opened loot chest spilling rarity-colored weapon cards (blue #2A9DF4, gold #FFD700, green #32CD32 backgrounds), female archer character idle-flexing her bow on left, level progression bar filling, install button glowing yellow at bottom, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text 'CAN YOU HIT IT?' in bold yellow caps. [Audio: VO confident 'your turn' / triumphant trap outro 128BPM / chest unlock chime, coin cascade SFX, UI tap on CTA]"
+  ]
+}

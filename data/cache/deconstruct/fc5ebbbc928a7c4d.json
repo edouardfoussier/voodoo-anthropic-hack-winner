@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "fc5ebbbc928a7c4d",
+    "ad_unit_id": "fc5ebbbc928a7c4d",
+    "app_id": "556f4a4fa3f735a75800008a",
+    "advertiser_name": "bet365 - Sportsbook & Casino",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ba1c8da39ee40d08/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ba1c8da39ee40d08/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ba1c8da39ee40d08/preview",
+    "phashion_group": "fc5ebbbc928a7c4d",
+    "share": null,
+    "first_seen_at": "2025-12-08T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🏆 New Customers: £30 in Free Bets when you bet £10!\nAvailable to use this UEFA Champions League Matchweek.\n18+ | GambleAware.Org",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy stadium zoom showcasing a 'Bet £10 Get £30' sign-up offer.",
+    "visual_action": "A fast zoom into a digital stadium with glowing green text overlays.",
+    "text_overlay": "OPEN ACCOUNT OFFER BET £10 GET £30",
+    "voiceover_transcript": "Get thirty pounds when you bet ten pounds this UEFA Champions League match week.",
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Fast-paced zoom into a neon-lit stadium displaying the sign-up offer.",
+    "Cinematic shot of the UEFA Champions League trophy.",
+    "Live-action presenter explaining the offer in a high-tech studio.",
+    "End card with brand logos and a clear call to action to download the app."
+  ],
+  "on_screen_text": [
+    "bet365",
+    "OPEN ACCOUNT OFFER",
+    "BET £10",
+    "GET £30",
+    "UEFA CHAMPIONS LEAGUE",
+    "OFFICIAL GLOBAL PARTNER",
+    "DOWNLOAD THE APP"
+  ],
+  "cta_text": "DOWNLOAD THE APP",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#007751",
+    "#FFDF1B",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult sports fans in the UK looking for betting incentives during major football tournaments.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015209999999999998
+}

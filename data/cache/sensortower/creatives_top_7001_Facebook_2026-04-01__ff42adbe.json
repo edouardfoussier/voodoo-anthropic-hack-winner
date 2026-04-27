@@ -1,0 +1,419 @@
+{
+  "count": 507,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "fd3d6237db0ba2b6",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "fd3d6237db0ba2b6",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-20",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "fd3d6237db0ba2b6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d183ad43f59f23b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d183ad43f59f23b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d183ad43f59f23b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0268a072d175b657",
+      "app_id": "647ea8e761bece51e9cbe6c2",
+      "network": "Facebook",
+      "phashion_group": "0268a072d175b657",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-18",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "0268a072d175b657",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a62d2ca71279188/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a62d2ca71279188/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a62d2ca71279188/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jouez \u00e0 la d\u00e9mo gratuite !",
+          "button_text": "Download",
+          "message": ""
+        },
+        {
+          "id": "def337edc074add2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a62d2ca71279188/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a62d2ca71279188/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a62d2ca71279188/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jouez \u00e0 la d\u00e9mo gratuite !",
+          "button_text": "Download",
+          "message": "Dans un futur proche, Hugh et l'andro\u00efde Diana, doivent coop\u00e9rer pour s'\u00e9chapper d'une station lunaire abandonn\u00e9e."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "647ea8e761bece51e9cbe6c2",
+        "canonical_country": "US",
+        "name": "Devil May Cry: Peak of Combat",
+        "publisher_name": "YunChang Games",
+        "publisher_id": "5628a3c802ac6486a705dde9",
+        "humanized_name": "Devil May Cry",
+        "icon_url": "https://play-lh.googleusercontent.com/AHmibcY_e63qLsvPBEwHrJ8d-ZYO1xCh8WQzcSYR6MDtECbFE9utcnos7D56sl-gO7yTusVxbuutowDux5bsmQ=s150",
+        "os": "unified",
+        "id": "647ea8e761bece51e9cbe6c2",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d683378596d7773",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "5d683378596d7773",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "5d683378596d7773",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "ff39bd00bc2ff1de",
+      "app_id": "626ce45fed68d5132b481f25",
+      "network": "Facebook",
+      "phashion_group": "ff39bd00bc2ff1de",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "ff39bd00bc2ff1de",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/27c9cf74929f7e9e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/27c9cf74929f7e9e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/27c9cf74929f7e9e/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Play Game",
+          "message": "War Thunder Mobile lets you drive, sail and fly meticulously modeled WWII and Cold War vehicles in live PvP battles"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "626ce45fed68d5132b481f25",
+        "canonical_country": "US",
+        "name": "War Thunder Mobile",
+        "publisher_name": "Gaijin Distribution",
+        "publisher_id": "59b98d2b4599a50d0d5d143a",
+        "humanized_name": "War Thunder Mobile",
+        "icon_url": "https://play-lh.googleusercontent.com/CH9aIFwltZvzGIcURz1c-DpeQm7hwgKxTJjzpHH3U8IEAC0UV0Ky8xS4liq3A1nysw=s150",
+        "os": "unified",
+        "id": "626ce45fed68d5132b481f25",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f4c3b85043ca9d2c",
+      "app_id": "66193b9ead4adb2170e90f91",
+      "network": "Facebook",
+      "phashion_group": "f4c3b85043ca9d2c",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-26",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "f4c3b85043ca9d2c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "title": "Mais de 1 milh\u00e3o de jogadores j\u00e1 est\u00e3o em Amikin Village!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66193b9ead4adb2170e90f91",
+        "canonical_country": "US",
+        "name": "Amikin Village: Magic Sim RPG",
+        "publisher_name": "Helio Games",
+        "publisher_id": "5b87023f4fddd52212348725",
+        "humanized_name": "Amikin Village",
+        "icon_url": "https://play-lh.googleusercontent.com/ODkvCMWJFeb3-Wuhl6xJJVLRBGzmUIV3CPJlpLPCbsvCgkSdhnfC_o__7X6kddJVcQg=s150",
+        "os": "unified",
+        "id": "66193b9ead4adb2170e90f91",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b5d9e57e3a6a4288",
+      "app_id": "6153b4a2f3e690163b93ec0b",
+      "network": "Facebook",
+      "phashion_group": "b5d9e57e3a6a4288",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-04",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "b5d9e57e3a6a4288",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Best PvP Shooter on mobile \ud83c\udf96\ufe0f",
+          "button_text": "Play Game",
+          "message": "\ud83d\udd12 Lock on. \ud83c\udfaf Fire. \ud83d\udca5 Destroy the enemy in real PvP matches."
+        },
+        {
+          "id": "e45eccfea9235ac6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Best PvP Shooter on mobile \ud83c\udf96\ufe0f",
+          "button_text": "Play Game",
+          "message": "Customize your loadout, master the dogfight, climb the global leaderboards. Play now.\ud83d\udcc8\ud83c\udf0d"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6153b4a2f3e690163b93ec0b",
+        "canonical_country": "US",
+        "name": "Metalstorm: Modern Air Combat",
+        "publisher_name": "Starform",
+        "publisher_id": "5a3025cbaccdbf4a39854b3a",
+        "humanized_name": "Metalstorm: Modern Air Combat",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/13/61/4713612f-3809-c8a1-4915-48fb34c441bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6153b4a2f3e690163b93ec0b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2cb638b3a5384a6d",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "2cb638b3a5384a6d",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-18",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "2cb638b3a5384a6d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Crush your opponents!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fb2a7f46ab7c17ef",
+      "app_id": "68130c5dc1a38845781b32d1",
+      "network": "Facebook",
+      "phashion_group": "fb2a7f46ab7c17ef",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-16",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "fb2a7f46ab7c17ef",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "\ud83d\udc49 Take a gun and clear all the enermy",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "68130c5dc1a38845781b32d1",
+        "canonical_country": "US",
+        "name": "WW2 Duty: FrontLine Zone",
+        "publisher_name": "CSCMobi Studios",
+        "publisher_id": "5cd5d69faee0da279f450542",
+        "humanized_name": "WW2 Duty: FrontLine Zone",
+        "icon_url": "https://play-lh.googleusercontent.com/g8Pm5jM5YsY6NXC1h-WH9P68Hfv_jPrZgnYQ-Hfn9TjRFIWHeoBgSo-K-aUsZIUFyvc=s150",
+        "os": "unified",
+        "id": "68130c5dc1a38845781b32d1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a08806c87970e418",
+      "app_id": "684fe87527e2c18384d24336",
+      "network": "Facebook",
+      "phashion_group": "a08806c87970e418",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-15",
+      "last_seen_at": "2026-04-12",
+      "creatives": [
+        {
+          "id": "a08806c87970e418",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00dfe3a31243e8ea/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00dfe3a31243e8ea/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00dfe3a31243e8ea/thumb",
+          "video_duration": 13,
+          "width": 720,
+          "height": 1280,
+          "title": "Gift Code\uff1aSVIP777",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "684fe87527e2c18384d24336",
+        "canonical_country": "US",
+        "name": "Huntopia",
+        "publisher_name": "Leniu Technology",
+        "publisher_id": "6658df83000c10fb2dc7680d",
+        "humanized_name": "Huntopia",
+        "icon_url": "https://play-lh.googleusercontent.com/HCU01iVDA-riPTu7C2XdzJaEMjT77diySQlXUtrENOyHp8yzA0PFBIRvHsm_Cu_QQ5HZkbPoi6S2DM1L-92fEUA=s150",
+        "os": "unified",
+        "id": "684fe87527e2c18384d24336",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fa51d1f5b09528a4",
+      "app_id": "68130c5dc1a38845781b32d1",
+      "network": "Facebook",
+      "phashion_group": "fa51d1f5b09528a4",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-15",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "fa51d1f5b09528a4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01dd3c3f60c6ee23/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01dd3c3f60c6ee23/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01dd3c3f60c6ee23/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udc49 Take a gun and clear all the enermy",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "68130c5dc1a38845781b32d1",
+        "canonical_country": "US",
+        "name": "WW2 Duty: FrontLine Zone",
+        "publisher_name": "CSCMobi Studios",
+        "publisher_id": "5cd5d69faee0da279f450542",
+        "humanized_name": "WW2 Duty: FrontLine Zone",
+        "icon_url": "https://play-lh.googleusercontent.com/g8Pm5jM5YsY6NXC1h-WH9P68Hfv_jPrZgnYQ-Hfn9TjRFIWHeoBgSo-K-aUsZIUFyvc=s150",
+        "os": "unified",
+        "id": "68130c5dc1a38845781b32d1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

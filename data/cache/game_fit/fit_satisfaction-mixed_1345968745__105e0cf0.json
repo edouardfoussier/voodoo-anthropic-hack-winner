@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 25,
+  "mechanic_match": 20,
+  "audience_match": 60,
+  "overall": 30,
+  "rationale": "The POV \"rush home to play\" hook is a generic casual-gamer trope that could theoretically flex to Helix Jump's broad audience, but everything else fights the game DNA: the purple/gold/white palette clashes with Helix's neon cyan/green/red signature, and the hook explicitly name-drops a competitor (Tetris Block Party) with a stacking/puzzle mechanic that has zero overlap with rotate-and-fall bouncing gameplay. If adapted, the team would need to keep only the live-action POV framing and fully rebuild the on-screen game capture, palette, and overlay copy — at that point it's a new creative, not a port. Recommend skipping unless testing live-action POV framing as an isolated variable."
+}

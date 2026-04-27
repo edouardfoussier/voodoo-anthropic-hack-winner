@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "6999610ff86a73c0",
+    "ad_unit_id": "6999610ff86a73c0",
+    "app_id": "64a95779c9c8441632c24e84",
+    "advertiser_name": "Monster Hunter Now",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9defeb36fbf7d21/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9defeb36fbf7d21/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9defeb36fbf7d21/preview",
+    "phashion_group": "6999610ff86a73c0",
+    "share": null,
+    "first_seen_at": "2026-04-10T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "モンハンNowで拠点要撃戦が開幕",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Dramatic reveal of a new lightning-infused Rathalos variant.",
+    "visual_action": "A blue-glowing dragon roars and lunges at the screen amidst purple lightning and energy swirls.",
+    "text_overlay": "次元臨界リオレウス登場",
+    "voiceover_transcript": "次元臨界リオレウス登場",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Dramatic introduction of the Dimensional Critical Rathalos with intense lightning effects.",
+    "Montage of the monster performing powerful fire and lightning breath attacks in a city setting.",
+    "Event announcement for the Base Interception Battle occurring from April 13th to 19th.",
+    "Closing logo and tagline emphasizing the ease of hunting monsters on a smartphone."
+  ],
+  "on_screen_text": [
+    "MONSTER HUNTER NOW",
+    "#モンハンNow",
+    "次元臨界リオレウス登場",
+    "拠点要撃戦 4月13～19日",
+    "スマホで、サクッとモンハン"
+  ],
+  "cta_text": "スマホで、サクッとモンハン",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#4B0082",
+    "#FF4500",
+    "#000000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Fans of the Monster Hunter series and action RPG enthusiasts looking for high-quality mobile combat.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001726
+}

@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "visual_match": 55,
+  "mechanic_match": 68,
+  "audience_match": 78,
+  "overall": 65,
+  "rationale": "The \"filling a container with small particles\" satisfaction hook maps reasonably well onto Marble Sort's core loop of marbles cascading into colored boxes — both deliver ASMR-style fill/sort gratification for the same 25-55 female casual audience. Frictions: the archetype's pink/white/black kitchen palette and realistic spice-jar context clash with the game's lavender pastel + cartoon 3D aesthetic, and the single-color single-jar hook undersells the multi-color sorting puzzle that drives retention. Recommend adapting the satisfaction-pour formula but swapping the spice jar for multiple colored marble boxes filling simultaneously, in-engine, with the game's lavender palette and orange accent title card."
+}

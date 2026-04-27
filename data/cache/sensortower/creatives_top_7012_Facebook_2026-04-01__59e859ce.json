@@ -1,0 +1,161 @@
+{
+  "count": 758,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "93435c4f71f85343",
+      "app_id": "576fc77df7b5cc0861000419",
+      "network": "Facebook",
+      "phashion_group": "93435c4f71f85343",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-28",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "93435c4f71f85343",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bbd727949bf5627/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bbd727949bf5627/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bbd727949bf5627/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The dragons have taken flight! \ud83d\udc32",
+          "button_text": "Play Game",
+          "message": "Explore a new world above the clouds and recruit dragons \u2601\ufe0f"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "576fc77df7b5cc0861000419",
+        "canonical_country": "US",
+        "name": "Empires & Puzzles: Match-3 RPG",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Empires & Puzzles",
+        "icon_url": "https://play-lh.googleusercontent.com/dVCcOxLus9TJE0FD6QtkUcbmCFeqJacSXgou4EfKGlbZGzEkn6DCz2LN9w8BmA6WjnAZjDQIHjPuFZzIM_4xLA=s150",
+        "os": "unified",
+        "id": "576fc77df7b5cc0861000419",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f8b53e0f8d3ee77a",
+      "app_id": "5ff50fc745acaa307cbafd30",
+      "network": "Facebook",
+      "phashion_group": "f8b53e0f8d3ee77a",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-09",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "f8b53e0f8d3ee77a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326dc902a76a0775/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326dc902a76a0775/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326dc902a76a0775/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "Merge NOW!",
+          "button_text": "Play Game",
+          "message": "I just wanted to try it"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5ff50fc745acaa307cbafd30",
+        "canonical_country": "US",
+        "name": "Merge Elves : Merge 3 Puzzle",
+        "publisher_name": "Ivy Mobile",
+        "publisher_id": "5bc0f7179a22547cba413c2e",
+        "humanized_name": "Merge Elves",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/c8/c2/b3c8c231-db84-d73a-128b-5d46fdd5ae12/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5ff50fc745acaa307cbafd30",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "67a7083d6f23bd94",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "Facebook",
+      "phashion_group": "67a7083d6f23bd94",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "67a7083d6f23bd94",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Epic update\uff01Photo upload feature\uff01",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "49c9a7bb8a05f567",
+      "app_id": "5d5b97412abd3d12ef100cea",
+      "network": "Facebook",
+      "phashion_group": "49c9a7bb8a05f567",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-29",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "49c9a7bb8a05f567",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d5b97412abd3d12ef100cea",
+        "canonical_country": "US",
+        "name": "Jewel Sliding - Block Puzzle",
+        "publisher_name": "Wisdom Network",
+        "publisher_id": "5c689d391109cd4b8d4500bf",
+        "humanized_name": "Jewel Sliding",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/50/b8/ec50b89b-ec72-0761-4751-cb7aadc43f70/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d5b97412abd3d12ef100cea",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

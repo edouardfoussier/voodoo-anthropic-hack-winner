@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_jJA2x5Li6NGFQtWcCPWcYgTz?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfakpBMng1TGk2TkdGUXRXY0NQV2NZZ1R6P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qjAXoEjEwksvLeEB5ct6wruVj0WQQZxDwz8i-f%7E5XO1CMX2sRUXauN2-Q5SwMdPNls-D60sZc%7ESdTycnuEHIYd94dmTMNmY5cHkDyiRq91scNEpPJeE1SEGf%7Eo9g28ATqbn52qqu1hCDIfva08R-T7hOq6NfZURKYrbnl3gFfNbcZoUlyWDo3ZfrpZEO-JF-N0f1odJp%7EWQlWmZb3QvLtMA7ZdhFshVc%7Er1dF7-rMPqWdcREcxEvhS2-2UAxpy4iILvtYD5TzhT7d8p1SdJwtVDs789uZ3qrjJnVtx9NukOLZ-iLwkZGQPhrYP8Mj4qxhMSm4yE9a7xlaYDAZgSlkw__",
+  "job_id": "job_pLAus8VnaHyLvVaKDfNkok8d",
+  "asset_id": "asset_jJA2x5Li6NGFQtWcCPWcYgTz",
+  "stub": false,
+  "prompt": "Storyboard frame 1, aspect 9:16, Paper.io 2 top-down arena early game: small gold #FFD700 player territory in lower third of a pale grid, two opponent zones in cyan #00BFFF and magenta #FF00FF, a short yellow trail extending outward, vibrant minimalist 3D with bright solid colors, native HUD (progress bar at 18%, kill-feed empty, coin counter), bottom-center meter overlay with first stop 'SMART' just lighting up in gold, clean energetic competitive mood, no characters added. [Audio: VO (calm, curious) 'Start small...' / minimal trap kick 110BPM building / soft pen-on-paper SFX for trail, light ding when SMART lights at 1s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

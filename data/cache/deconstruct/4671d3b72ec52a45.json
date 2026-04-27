@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "4671d3b72ec52a45",
+    "ad_unit_id": "4671d3b72ec52a45",
+    "app_id": "657764bcad4adb78f0c03332",
+    "advertiser_name": "DraftKings Casino - Real Money",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/preview",
+    "phashion_group": "4671d3b72ec52a45",
+    "share": null,
+    "first_seen_at": "2026-03-17T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "EXCLUSIVE FLEX SPINS have landed on DraftKings Casino 🚀 Head to the app for your daily chance at FREE Flex Spins 🎰",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A 3D rocket flies through space collecting a dollar sign icon before hitting a neon logo.",
+    "visual_action": "3D animated rocket flying upwards through space, collecting a green dollar sign icon.",
+    "text_overlay": "Daily Rewards Rocket",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Rocket flies through space collecting a green dollar sign icon.",
+    "Rocket passes through a neon 'Daily Rewards Rocket' logo.",
+    "Screen transitions to a static promotional offer for DraftKings Casino.",
+    "Final screen displays detailed gambling disclaimer and help information."
+  ],
+  "on_screen_text": [
+    "Daily Rewards Rocket",
+    "GET A FREE DAILY CHANCE AT FLEX SPINS",
+    "On your choice of 100+ slots",
+    "GAMBLING PROBLEM? CALL 1-800-GAMBLER (MI/NJ/PA/WV) HELP IS AVAILABLE FOR PROBLEM GAMBLING. CALL (888) 789-7777 OR VISIT CCPG.ORG (CT).",
+    "DRAFT KINGS CASINO"
+  ],
+  "cta_text": "GET A FREE DAILY CHANCE AT FLEX SPINS",
+  "cta_timing_seconds": 2.0,
+  "palette_hex": [
+    "#5D2E8C",
+    "#FFFF00",
+    "#1A0B2E"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults 21+ who enjoy online casino games and are looking for daily bonuses.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017920000000000002
+}

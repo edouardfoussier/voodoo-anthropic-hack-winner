@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "276c497d6d92d58c",
+    "ad_unit_id": "276c497d6d92d58c",
+    "app_id": "622390aa2e0fa027dbdc26b8",
+    "advertiser_name": "Block Blast!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b855fc9ac03e11a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b855fc9ac03e11a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b855fc9ac03e11a/preview",
+    "phashion_group": "276c497d6d92d58c",
+    "share": null,
+    "first_seen_at": "2026-03-05T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Seriously, save yourself and don't play this game on the toilet, unless you want numb legs!🤣",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand places physical blocks into a grid to complete a puzzle.",
+    "visual_action": "Close-up of a person's hand fitting colorful plastic blocks into a blue board.",
+    "text_overlay": "The most perfect elimination 🥰",
+    "voiceover_transcript": "Falling, dreaming, talking in your sleep",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Hand places green and yellow blocks into a physical grid.",
+    "Hand fits a red block and then an orange block to fill gaps.",
+    "The final blocks are placed to complete the puzzle layout.",
+    "Transition to the digital game logo and app store download buttons."
+  ],
+  "on_screen_text": [
+    "The most perfect elimination 🥰",
+    "BLOCK BLAST",
+    "HUNGRY STUDIO™",
+    "Download on the App Store",
+    "GET IT ON Google Play",
+    "BLOCK BLAST 🔍"
+  ],
+  "cta_text": "Download on the App Store",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#2B59C3",
+    "#FFD700",
+    "#FFFFFF"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual puzzle enthusiasts who find tactile organization and 'perfect fits' satisfying.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015600000000000002
+}

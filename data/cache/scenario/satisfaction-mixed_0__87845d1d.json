@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_SsF6XDLvQfeFWQ4SqreL9TNm?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfU3NGNlhETHZRZmVGV1E0U3FyZUw5VE5tP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=DR20GVXKkUH8rOxb-9NfjRIzANGODfNPy9jB89N0izYk4ICGvcrU0PDc3npJyVoEhbLjitGkE16vzKuQ817N0vUfShIQ6SldGAenWh84YZLASBDzZ2n9rr7YTOTtWVK4RnwQGFDqD3HTG67L%7EYzn68e1y6qRAWloOMlOeny71kDSzRXzBFLIMK7fyeywqbA5hSw3GPHtD62eUkdaTcs7z8H%7EzQYwfAPWAemBNLBvcFz9zmak3VRqz5rzYSYokuOcg1AFaV1zAo-h4bBMPk5Wbo3pf7Hr9gY5-npYGg9Epa72AUFHP9qderRtqpfoCmqUct28aPrAVXsNpiJym55-vw__",
+  "job_id": "job_U1D5kNXepbpvVowGog9KaitJ",
+  "asset_id": "asset_SsF6XDLvQfeFWQ4SqreL9TNm",
+  "stub": false,
+  "prompt": "Hero frame, vertical 9:16 aspect ratio: extreme close-up over-the-shoulder of a teen's hand holding a phone on a messy bed, phone screen fills 70% of frame showing Paper.io 2 gameplay \u2014 vibrant minimalist 3D top-down with bright solid colors, bold #FFD700 yellow territory dominating a white grid arena, #00BFFF cyan and #FF00FF magenta rival trails, clean UI with progress bar, on-screen text overlay '\u2026and opened Paper.io 2' in bold white sans-serif with drop shadow, warm bedroom bokeh background, high contrast, mobile-ad composition",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

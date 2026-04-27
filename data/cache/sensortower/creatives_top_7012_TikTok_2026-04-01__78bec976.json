@@ -1,0 +1,776 @@
+{
+  "count": 252,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "f41b68dd7e9c7ab2",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "f41b68dd7e9c7ab2",
+      "ad_type": "video",
+      "first_seen_at": "2024-05-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f41b68dd7e9c7ab2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d287f88cf4759b9",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "5d287f88cf4759b9",
+      "ad_type": "video",
+      "first_seen_at": "2024-08-14",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "5d287f88cf4759b9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        },
+        {
+          "id": "ea99fbfc48af6696",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "The Best DBZ Battle Experience is Here"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "beca2534701d3666",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "beca2534701d3666",
+      "ad_type": "video",
+      "first_seen_at": "2024-05-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "beca2534701d3666",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3dce6156bb04eff/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3dce6156bb04eff/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3dce6156bb04eff/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Simple & Addictive Gameplay"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e3c6af26067bd4c1",
+      "app_id": "66dfa5a76f5f0cddd1327739",
+      "network": "TikTok",
+      "phashion_group": "e3c6af26067bd4c1",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-25",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "e3c6af26067bd4c1",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cdafcf90b8bcc2dd/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cdafcf90b8bcc2dd/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cdafcf90b8bcc2dd/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Gravity\u2019s my biggest enemy"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66dfa5a76f5f0cddd1327739",
+        "canonical_country": "US",
+        "name": "Fruit Clash - Sort & Merge",
+        "publisher_name": "SayGames",
+        "publisher_id": "5bb5a48345f4430ad72c6f04",
+        "humanized_name": "Fruit Clash",
+        "icon_url": "https://play-lh.googleusercontent.com/HJfHzgEIQXI3dAobCvgXoIHLBW7cjdXD1QSvMw29wcU3dJke13FFUyNAiMmVl2ROLw=s150",
+        "os": "unified",
+        "id": "66dfa5a76f5f0cddd1327739",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "411c1c21e5a1009a",
+      "app_id": "5a38f32e0211a6dc806a3282",
+      "network": "TikTok",
+      "phashion_group": "411c1c21e5a1009a",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-29",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "411c1c21e5a1009a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00220605010137c5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00220605010137c5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00220605010137c5/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "Start playing now - get free puzzles every day!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5a38f32e0211a6dc806a3282",
+        "canonical_country": "US",
+        "name": "Jigsaw Puzzles - Puzzle Games",
+        "publisher_name": "Miniclip",
+        "publisher_id": "65670b56ad4adb650837a435",
+        "humanized_name": "Jigsaw Puzzles",
+        "icon_url": "https://play-lh.googleusercontent.com/3wjx4KDmpix12Xo15lE2ow-YazY6o1UH85JjvaTsYk8IbIPusbEl3RkKzDGUdZ_grWlqz8gNgDSXOg9TTOx6=s150",
+        "os": "unified",
+        "id": "5a38f32e0211a6dc806a3282",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2d1cb76ebe18267b",
+      "app_id": "67594de3d9e52a2021e5354f",
+      "network": "TikTok",
+      "phashion_group": "2d1cb76ebe18267b",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-13",
+      "last_seen_at": "2026-04-18",
+      "creatives": [
+        {
+          "id": "2d1cb76ebe18267b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f0c66ae37c9c3c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f0c66ae37c9c3c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f0c66ae37c9c3c/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "Master the Grid \u2013 One Clue at a Time"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67594de3d9e52a2021e5354f",
+        "canonical_country": "US",
+        "name": "Crossword Go!",
+        "publisher_name": "Modern Times Group",
+        "publisher_id": "560c791e8ac350643902d70a",
+        "humanized_name": "Crossword Go!",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/6f/36/d06f3634-eab9-41eb-4909-feeba2d480cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "67594de3d9e52a2021e5354f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "abd660d3afd2957e",
+      "app_id": "590ddbfc0211a601c0000114",
+      "network": "TikTok",
+      "phashion_group": "abd660d3afd2957e",
+      "ad_type": "video",
+      "first_seen_at": "2022-06-27",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "abd660d3afd2957e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f22a691aabe11d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f22a691aabe11d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f22a691aabe11d/thumb",
+          "video_duration": 7,
+          "width": 576,
+          "height": 1024,
+          "message": "How do you play it!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "590ddbfc0211a601c0000114",
+        "canonical_country": "US",
+        "name": "Word Trip - Word Puzzle Game",
+        "publisher_name": "Modern Times Group",
+        "publisher_id": "560c791e8ac350643902d70a",
+        "humanized_name": "Word Trip - Word Puzzle Game",
+        "icon_url": "https://play-lh.googleusercontent.com/BOcl4qoOu1Q8UUp2nZxwe0orcyLka1-0dpS6Y9zUZH9nWCgK0s4RUmKgqWyPC-Lz6c2WBgSQlR2q375i0K3v=s150",
+        "os": "unified",
+        "id": "590ddbfc0211a601c0000114",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "9345a90e836db846",
+      "app_id": "6808e6b327e2c1315dd3cac9",
+      "network": "TikTok",
+      "phashion_group": "9345a90e836db846",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-25",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "9345a90e836db846",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032939489de6c1c7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032939489de6c1c7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032939489de6c1c7/thumb",
+          "video_duration": 11,
+          "width": 720,
+          "height": 1280,
+          "message": "Play anywhere: short heists, smart puzzles, real fun."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6808e6b327e2c1315dd3cac9",
+        "canonical_country": "US",
+        "name": "Paris Kiss",
+        "publisher_name": "WEEGOON",
+        "publisher_id": "5b91f577449e7623a899d93e",
+        "humanized_name": "Paris Kiss",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/bf/ae/b8bfae03-134c-d141-599e-dd3e5d99f14c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6808e6b327e2c1315dd3cac9",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5ba7458dea1165c1",
+      "app_id": "679ad2c9e8b4ba3a4e049aab",
+      "network": "TikTok",
+      "phashion_group": "5ba7458dea1165c1",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-12",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "5ba7458dea1165c1",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "message": "Classic Tetris Meets Modern Vibes: Dive In!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "679ad2c9e8b4ba3a4e049aab",
+        "canonical_country": "US",
+        "name": "Tetris\u00ae Block Party",
+        "publisher_name": "Playstudios",
+        "publisher_id": "560c5bb68ac35064390237c1",
+        "humanized_name": "Tetris Block Party",
+        "icon_url": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y=s150",
+        "os": "unified",
+        "id": "679ad2c9e8b4ba3a4e049aab",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "78d0609d7512f42c",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "78d0609d7512f42c",
+      "ad_type": "video",
+      "first_seen_at": "2024-05-09",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "78d0609d7512f42c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "Simple & Addictive Gameplay"
+        },
+        {
+          "id": "8fe99ace5e34b078",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2e165bafa732a5a9",
+      "app_id": "58dce04f0211a613bb000606",
+      "network": "TikTok",
+      "phashion_group": "2e165bafa732a5a9",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-09",
+      "last_seen_at": "2026-04-18",
+      "creatives": [
+        {
+          "id": "2e165bafa732a5a9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0615ef4a7c0d29e4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0615ef4a7c0d29e4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0615ef4a7c0d29e4/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "Enjoy your time \u2013 play SUDOKU!"
+        },
+        {
+          "id": "d53d06e878787d24",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0615ef4a7c0d29e4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0615ef4a7c0d29e4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0615ef4a7c0d29e4/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "Train your brain for FREE!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "58dce04f0211a613bb000606",
+        "canonical_country": "US",
+        "name": "Sudoku.com - Number Games",
+        "publisher_name": "Miniclip",
+        "publisher_id": "65670b56ad4adb650837a435",
+        "humanized_name": "Sudoku.com",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/0d/17/790d1721-edd0-f711-dadc-d986e3866b11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "58dce04f0211a613bb000606",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "68a218b452e42b2d",
+      "app_id": "6645186f04a3235f79b44cbe",
+      "network": "TikTok",
+      "phashion_group": "68a218b452e42b2d",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-27",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "68a218b452e42b2d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "Proven to reduce anxiety & ADHD!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6645186f04a3235f79b44cbe",
+        "canonical_country": "US",
+        "name": "Find The Cat - Spot It!",
+        "publisher_name": "Agave Games",
+        "publisher_id": "618e91f5b3ae2733538bb701",
+        "humanized_name": "Find The Cat",
+        "icon_url": "https://play-lh.googleusercontent.com/JVUrYb53YKB2WTdq4OXnFELdD3FqjDqZxayl9Hnzgxx-7rx_6I3NQ7j_VjCxegOz6QhFOdUAbtfejfv1siyJgQ=s150",
+        "os": "unified",
+        "id": "6645186f04a3235f79b44cbe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "302ba522cd92ac52",
+      "app_id": "57fe379b0211a6e63e00056f",
+      "network": "TikTok",
+      "phashion_group": "302ba522cd92ac52",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-31",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "302ba522cd92ac52",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/07aac241017dfc8a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/07aac241017dfc8a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/07aac241017dfc8a/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "message": "Win Real Cash Rewards!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "57fe379b0211a6e63e00056f",
+        "canonical_country": "US",
+        "name": "Match to Win: Real Cash Prizes",
+        "publisher_name": "Rewardify",
+        "publisher_id": "57fe379b0211a6e63e00056e",
+        "humanized_name": "Match to Win",
+        "icon_url": "https://play-lh.googleusercontent.com/GFibjMcswNLrutwLFHN40gJokQpvz2-YAYjzLYRy09xh8xeVn0Npptv6HsXvZEfyG-bw=s150",
+        "os": "unified",
+        "id": "57fe379b0211a6e63e00056f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e9d1228f406ae662",
+      "app_id": "64e7a621ad4adb4e30f02dbb",
+      "network": "TikTok",
+      "phashion_group": "e9d1228f406ae662",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-28",
+      "last_seen_at": "2026-04-18",
+      "creatives": [
+        {
+          "id": "e9d1228f406ae662",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0892de03e65f045a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0892de03e65f045a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0892de03e65f045a/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "message": "Play for a unique escape the room experience. Escape Mental Hospital is ready."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "64e7a621ad4adb4e30f02dbb",
+        "canonical_country": "US",
+        "name": "Escape from Mental Hospital",
+        "publisher_name": "Peaksel",
+        "publisher_id": "560c83028ac3506439033244",
+        "humanized_name": "Escape from Mental Hospital",
+        "icon_url": "https://play-lh.googleusercontent.com/IHVXHPK_oH4P7b6rK8m1rPGEfuU5TXxs_8ay4HgGMHReRXIzLMkUxHothYAroX1WcMI=s150",
+        "os": "unified",
+        "id": "64e7a621ad4adb4e30f02dbb",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0e53beeb905c90e0",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "TikTok",
+      "phashion_group": "0e53beeb905c90e0",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-24",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "0e53beeb905c90e0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/095047a8ce867eca/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/095047a8ce867eca/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/095047a8ce867eca/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "New version, challenge higher scores"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "276c497d6d92d58c",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "TikTok",
+      "phashion_group": "276c497d6d92d58c",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-21",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "276c497d6d92d58c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b855fc9ac03e11a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b855fc9ac03e11a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b855fc9ac03e11a/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Seriously, save yourself and don't play this game on the toilet, unless you want numb legs!\ud83e\udd23"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a0f76388c469455a",
+      "app_id": "590ddbfc0211a601c0000114",
+      "network": "TikTok",
+      "phashion_group": "a0f76388c469455a",
+      "ad_type": "video",
+      "first_seen_at": "2022-06-27",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "a0f76388c469455a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bd3293271103139/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bd3293271103139/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bd3293271103139/thumb",
+          "video_duration": 10,
+          "width": 720,
+          "height": 1280,
+          "message": "How do you play it!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "590ddbfc0211a601c0000114",
+        "canonical_country": "US",
+        "name": "Word Trip - Word Puzzle Game",
+        "publisher_name": "Modern Times Group",
+        "publisher_id": "560c791e8ac350643902d70a",
+        "humanized_name": "Word Trip - Word Puzzle Game",
+        "icon_url": "https://play-lh.googleusercontent.com/BOcl4qoOu1Q8UUp2nZxwe0orcyLka1-0dpS6Y9zUZH9nWCgK0s4RUmKgqWyPC-Lz6c2WBgSQlR2q375i0K3v=s150",
+        "os": "unified",
+        "id": "590ddbfc0211a601c0000114",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "052aa16193eedc14",
+      "app_id": "65de8b6d03f922307316de62",
+      "network": "TikTok",
+      "phashion_group": "052aa16193eedc14",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-16",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "052aa16193eedc14",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cb027392bcdfca2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cb027392bcdfca2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cb027392bcdfca2/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "Challenge: Play Now and Win"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "65de8b6d03f922307316de62",
+        "canonical_country": "US",
+        "name": "Fable Town: Merging Games",
+        "publisher_name": "Reef Games",
+        "publisher_id": "669992265b8bdad31b31f06b",
+        "humanized_name": "Fable Town: Merging Games",
+        "icon_url": "https://play-lh.googleusercontent.com/NSyyFYAA7B_JfpHQxVBJgt6PkcykqPCorMnc6SYhk9b0m-o96IIqNDdiIzn1_b4552s10m8q-5TPfAAaIokQMQ=s150",
+        "os": "unified",
+        "id": "65de8b6d03f922307316de62",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5948d2dc979f2d0e",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "TikTok",
+      "phashion_group": "5948d2dc979f2d0e",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-17",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "5948d2dc979f2d0e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cba54b334dc21f2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cba54b334dc21f2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cba54b334dc21f2/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "message": "\ud83d\ude0eMost Addictive Game."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "57e01339a3c4eda8",
+      "app_id": "683bad8b18ab8312b601b3a0",
+      "network": "TikTok",
+      "phashion_group": "57e01339a3c4eda8",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-23",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "57e01339a3c4eda8",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d849b5e0d99d448/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d849b5e0d99d448/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d849b5e0d99d448/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Top Real Cash Bingo Game"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "683bad8b18ab8312b601b3a0",
+        "canonical_country": "US",
+        "name": "Bingo Tour: Win Real Cash",
+        "publisher_name": "Aviagames",
+        "publisher_id": "5ebcbfce71d7541628127751",
+        "humanized_name": "Bingo Tour: Win Real Cash",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/65/60/266560db-e803-1ecf-25e0-3cae39a1afc5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "683bad8b18ab8312b601b3a0",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

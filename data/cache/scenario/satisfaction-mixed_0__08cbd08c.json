@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_2dS53aFHMtYr9y96WTavvPmJ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMmRTNTNhRkhNdFlyOXk5NldUYXZ2UG1KP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=F3c4FkuBV4lj%7ExG1gzvIV2NtcdGgbyUFmP7eQD5%7E6nZFP7cIJfL26jrmOzOYw9IG9Y5X7eN2jZiuUUJLy9pbFEpx-FZLgd-bsI0Wz5681%7EUj%7Eis47BWEkIIH3NY3kz1YzDIZK7o84zdVMbxmTiAZ7O0xqHTcZ5fOQcQ-%7EV4SGdFDYEDHJx%7EVNverDBXlN0mRfypeUfYUJBNi3epzFWxv6dvsHZFFg-ydn5Nks%7EuGkJMNqy4H13UK1rvSc68coQe3msAmvE-5w9BTI%7EiHx7mkSvxeHxRUXRO8TGFMnx1XlVAQ3%7EMOjb0RidoNIQlqgGeJGsVTm3p8%7E4KbqGMjLqwP5w__",
+  "job_id": "job_qiJfx3uHn7vFrmdRwRGsCcim",
+  "asset_id": "asset_2dS53aFHMtYr9y96WTavvPmJ",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic in-game Push'em All moment: \u00be top-down view of a #56a38b sandy-green floating platform surrounded by vibrant #2a7dfa water, a single player stickman at center wielding a long horizontal expanding stick sweeping a dense crowd of #e3001b red stickman enemies off both edges mid-tumble with white splash particles, in-game HUD visible (combo multiplier '\u00d718 COMBO' top-right, coin counter top-left, level progress timeline top-center, yellow 'SIZE UP!' banner mid-screen), minimalist 3D with bright contrasting colors and simple stickman-like figures, clean shadows, no stylus, no puzzle grid, on-screen text 'Ever felt THIS satisfied? \ud83d\ude0c' bold white sans-serif lower third. [Audio: VO 'Ever played a game this satisfying?' / punchy upbeat trap 110 BPM with airy ASMR layer / whoosh on swipe 0.3s, watery splash cluster 1.5s, coin chime on combo 2.8s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

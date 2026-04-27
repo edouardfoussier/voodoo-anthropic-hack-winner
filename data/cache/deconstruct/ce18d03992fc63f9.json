@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "ce18d03992fc63f9",
+    "ad_unit_id": "ce18d03992fc63f9",
+    "app_id": "55de054a02ac6453fd0524b9",
+    "advertiser_name": "윈조이 포커 - 블랙잭, 바카라, 슬롯, 로우바둑이",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c53c4b1c461d36c4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c53c4b1c461d36c4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c53c4b1c461d36c4/preview",
+    "phashion_group": "ce18d03992fc63f9",
+    "share": null,
+    "first_seen_at": "2026-02-26T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Anime character intro transitioning into slot machine gameplay.",
+    "visual_action": "An anime girl in a kimono stands in a festive street before the screen transitions to a spinning slot machine.",
+    "text_overlay": "WINJOY POKER, 지금 다운로드",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Intro with anime character in a festive lantern-lit setting.",
+    "Transition to slot machine gameplay showing bonus symbols.",
+    "Splash screen for 'Free Game' with a moonlit background.",
+    "Repetition of the anime and slot sequence for emphasis.",
+    "Final end card with game logo and download call-to-action."
+  ],
+  "on_screen_text": [
+    "WINJOY POKER",
+    "지금 다운로드",
+    "BONUS",
+    "Free Game",
+    "이기는 즐거움",
+    "윈조이 포커"
+  ],
+  "cta_text": "지금 다운로드",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#2B3A8C",
+    "#FFD700",
+    "#E91E63"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult Korean gamers who enjoy social casino apps with high-quality anime-style visuals.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00161
+}

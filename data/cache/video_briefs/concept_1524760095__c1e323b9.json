@@ -1,0 +1,19 @@
+{
+  "title": "Roof Rails — Pole Gone WRONG",
+  "gameplay_hook": "Pole shrinks to nothing mid-rail slide — one obstacle away from total wipeout",
+  "concept": "Player is milliseconds from losing their entire pole on a razor-thin rail crossing between two skyscraper rooftops — then a massive collectible chain explodes the pole to screen-filling absurdity",
+  "scenario_prompt": "Continue from a real Roof Rails gameplay screenshot — same 3D minimalist geometry, pastel sky #EAF6FF background, bright rail in #5CD6FF stretching across a rooftop gap, game UI showing progress bar at 60%, diamond counter top-right, level indicator top-left. BEAT 1 (0–2s): First-person low angle just behind the runner character sprinting along a #5CD6FF rail, balancing pole visibly SHORT — barely two segments long — wobbling violently left-right with a metallic creak SFX, a spinning blade obstacle in #FFC824 spinning directly ahead only 1 meter away, pole shadow shrinking on the rooftop below, progress bar barely moving, diamond counter reading 12 — voiced over gameplay: 'NOOOOO my pole is literally GONE it's gonna HIT the blade OH NO OH NO!!' — whoosh SFX as character slides faster. BEAT 2 (2–5s): Character dodges the blade by a single pixel — CRUNCH of blade clipping the pole tip, one segment shatters off in slow-motion fragments of pastel geometry, then immediately the rail curves into a DENSE cluster of yellow #FFC824 pole collectibles packed wall-to-wall across the rooftop — character blasts through all of them in 0.8 seconds, rapid-fire POP POP POP POP stacking sounds, pole EXPLODES outward left and right adding 14 segments simultaneously, screen edges flash white on each pop, diamond counter jumps from 12 to 47 with a cash register chime SFX, progress bar surges from 60% to 85% — voiced: 'OH MY GOD THE COLLECTIBLES ARE EVERYWHERE THE POLE WON'T STOP GROWING THIS IS INSANE!!' — merge-burst particle spray in pastel pink and #FFC824. BEAT 3 (5–8s): Extreme close-up cut directly behind the now ABSURDLY long pole — it stretches so far left and right it exits the screen frame on both sides, character now sliding a final rail between two massive skyscraper rooftops, pole so long it scrapes BOTH rooftop edges simultaneously sending shower of #5CD6FF sparks, progress bar hits 100% and shatters into diamonds, diamond counter rockets to 999 with overflow ++ symbols, level complete burst of confetti geometry in pastel palette detonates across screen, UI flashes gold, SHATTER SFX plus ascending chime crescendo — voiced: 'THIS IS THE LONGEST POLE IN HUMAN HISTORY I LITERALLY CANNOT STOP AHHHHH' — camera pulls back to show full isometric view of the pole dwarfing entire city rooftops. FINAL FRAME (7–8s): Gameplay dims slightly to 70% brightness, centered bold white text reads 'Roof Rails', below it smaller clean text 'Play now', no animation, static overlay on top of the frozen peak-chaos gameplay frame. 9:16 vertical format, 8 seconds total, all UI elements visible throughout.",
+  "narration_script": "NOOOOO my pole is literally GONE it's gonna HIT the blade OH NO OH NO!! — OH MY GOD THE COLLECTIBLES ARE EVERYWHERE THE POLE WON'T STOP GROWING THIS IS INSANE!! — THIS IS THE LONGEST POLE IN HUMAN HISTORY I LITERALLY CANNOT STOP AHHHHH",
+  "style_tags": [
+    "brainrot",
+    "hyper-casual",
+    "first-person-POV",
+    "pastel-3D-minimalist",
+    "scale-escalation",
+    "mobile-game-ad",
+    "TikTok-hook",
+    "9:16-vertical",
+    "SFX-driven",
+    "unhinged-narration"
+  ]
+}

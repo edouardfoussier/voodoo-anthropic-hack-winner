@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "a8c9a2adfc6b1da2",
+    "ad_unit_id": "a8c9a2adfc6b1da2",
+    "app_id": "6337a728dcb4773c58fc08ec",
+    "advertiser_name": "투에이스 (2ACE) 포커: 홀덤, 오마하, 토너먼트",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f09099aa11404b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f09099aa11404b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f09099aa11404b/preview",
+    "phashion_group": "a8c9a2adfc6b1da2",
+    "share": null,
+    "first_seen_at": "2025-08-13T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Erobere die Poker-Welt bei GGPoker: Gewinne mit Boni, Leaderboards und Specials wie den GGMasters Weekly Freezeout. Jetzt loslegen!",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cinematic stadium reveal with high-energy blue lighting and a metallic GG Masters logo.",
+    "visual_action": "A dark stadium is illuminated by bright blue light beams, followed by a fast-zooming golden logo.",
+    "text_overlay": "GG MASTERS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Cinematic stadium opening with blue light beams and logo reveal.",
+    "Transition to a globe graphic highlighting the 'Freezeout' tournament type.",
+    "Display of the $1,000,000 guaranteed prize pool with explosive visual effects.",
+    "Call to action for players to join for as little as $2.50 with falling gold coins.",
+    "Final end card with the brand logo, prize amount, and 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "GG MASTERS",
+    "DAS WELTWEIT EINZIGE WÖCHENTLICHE FREEZEOUT",
+    "MIT $1.000.000 GARANTIE",
+    "SPIELE DICH INS GGMASTERS",
+    "SCHON AB $2.50!",
+    "GGPOKER.DE",
+    "NUR BEI GGPOKER",
+    "JETZT MITSPIELEN",
+    "18+ | Lizenziert (Whitelist) | Suchtrisiko Hilfe unter www.buwei.de"
+  ],
+  "cta_text": "JETZT MITSPIELEN",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#000000",
+    "#FFD700",
+    "#00BFFF"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Competitive male poker players and sports fans interested in high-stakes tournaments.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001952
+}

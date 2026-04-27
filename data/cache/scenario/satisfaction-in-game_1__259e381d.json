@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_m34hAch1Kv7WbJasAqHWXkkG?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfbTM0aEFjaDFLdjdXYkphc0FxSFdYa2tHP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=S%7EHO0oaDg-qXLzNI0wSMyp7HrvRy3qYYlC7OQkq6KZtM4AVX%7ERcRC5BnbMakDltTMMm4e6nObB33UthnzwLsI51-pPflYuVTX4fv4hDep5i3l0Ub-ZXQtgxQaL%7Elxc%7EhK8KUunYxqSr5LiJvoE0F4uYYXXdTsAPr2RPWow3DaxJmCtCu8tpj5JqLvmc7UsYmgbyRCyHGoeX8USp7iWR9L9FHLzHqdPDJUV9Oa%7EPTujYDA6LeYL1CLAIdrB52wtSSZ0U8klRpu77D2GV-zvSTfH0MuiQtNMMBTOGtMkA9AOZq%7EOD9054Am9a6-Z5284GA-OWg8KuhDfssz4o8JZDOxQ__",
+  "job_id": "job_z37Powtdd6un3JC6nE3vUyBi",
+  "asset_id": "asset_m34hAch1Kv7WbJasAqHWXkkG",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, mid-action mobile puzzle ad still: same dark navy #1E2744 8x8 grid mid-explosion as 3 rows and 3 columns simultaneously clear in a rainbow cascade, golden #FFD700 sparks and stars bursting outward, royal blue #5469B9 backdrop, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, large yellow on-screen text 'CHAIN CLEAR! x4 COMBO' centered, motion blur on flying particles, satisfying glossy beveled block fragments, vivid saturated colors, no characters",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

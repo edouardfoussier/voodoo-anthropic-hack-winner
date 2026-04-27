@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_xGPPhetPoaa6dMPYdF6uTKiP?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeEdQUGhldFBvYWE2ZE1QWWRGNnVUS2lQP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=r6A6seAnPtBlUdPpqobdGhDPsp2nW6rXIT67zMI7qIhAc2-UQryyDUBmO1-iq7B61sdFLpPRH9R2wepRE5qCMx1F-L704F3zEuS3iCU3qNt7%7EAH492F2oP2v-JLwcIvdWeNTKaNovf%7E73cONVsKEncprHE3C9NsEXc4OX1ezB59IPkfI9eLJJs9i41rhbDjv-h9AxsGMWvVhJnff6bmlXhip%7E8Swz%7EzCm5QmsGupqSZV25XuToH8EutruM--xiICvVp0JFF5L6y3jKJJRI%7ECGb01h6vNfLebfHZSqRhrbgzlvqO7nT1rvlULR4y%7EUfDI8PgEyYGqe0jTFwymZ0EmrA__",
+  "job_id": "job_AHeWVeCHuX5k5JdAJQ7b1WAr",
+  "asset_id": "asset_xGPPhetPoaa6dMPYdF6uTKiP",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, in-game screenshot of Marble Sort! mobile puzzle: macro close-up of glossy multicolor 3D marbles (red, blue, green, yellow) cascading off a light-grey (#F0F0F8) rounded conveyor belt and streaming down into four soft-edged pastel collection boxes below, each box fill-meter rising in sync, lavender (#E5DFFF) background, vibrant orange (#FFB13B) title banner reading 'Can you fill ALL 4?' in chunky rounded sans-serif at top, soft rim lighting, clean and colorful 3D cartoon style with soft rounded shapes, mobile UI chrome with level counter and star meter visible at top-right, no characters, authentic Marble Sort! gameplay framing.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

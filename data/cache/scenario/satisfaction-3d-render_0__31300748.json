@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_nj1TrrPhfVhPCMygnm9e3CtS?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfbmoxVHJyUGhmVmhQQ015Z25tOWUzQ3RTP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=clbYQeT1%7EUblY-vJQrlKADOfQ-eRgI8sRovbGHxLi5nbO-SULOlPIA2zJOfJtk8izIAyBxf53QSbbFq7yauK31W2%7E0HjSLPRh2reV3txZ81UEoEC6AZZEVdQZ748rSMP7oveYVNtQQ50vHQQNO9iaP2IoI1MSBwBWwkGdWiuvoBVoYSITs9SgVJVlmN43yO0-3LPMGcfvkcMIO2RVmI26wxAgA61PGFup8rMBWKGKGL8iuiI9ggmxSmCAj%7Ek-zth4orHNhrlmfxlsbjp1kXpvH%7EXNToFF-glhw1I6O5Sh%7Ea7wcp0EBmtJMUs3Zi6dWl6QXpnflDuYNFWQwvISdJZKg__",
+  "job_id": "job_ysJXGWHGRBRo9DqRWFrucJk1",
+  "asset_id": "asset_nj1TrrPhfVhPCMygnm9e3CtS",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect ratio. Macro close-up of glossy pastel 3D marbles cascading in slow motion into a clear glass jar labeled 'No. 047 \u2014 LAVENDER' in vibrant orange (#FFB13B) text. Soft lavender (#E5DFFF) seamless backdrop, light grey (#F0F0F8) countertop surface. Clean and colorful 3D cartoon style with soft, rounded shapes. Shallow depth of field, gentle studio lighting, soft specular highlights on marbles, ASMR product-shot mood, premium and tactile. No harsh shadows.",
+  "model_id": "flux.1-dev"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_aaeKP9o3WseJtcZZQNMLgtFf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9hYWVLUDlvM1dzZUp0Y1paUU5NTGd0RmYqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=u860xQf2JkUH1TV8xeQEvcQ9zeHfEbTf3B0MrQ4MjpzJ97vxLlmD6tOOkbek63Bhbz-tFbrDUPNH7ABdpldvflvuKvEFFGQUP%7Exa%7EXfK8-AsuAEdiMrQHxYOQxfWUYNVgL5NT17tzoa9JyAx913fPr7yVxtoBSVFLPDvSGGt%7EpoDfB71L%7EGX0xlULtWT2pA1drmB-UbDxxn3Mvr7DqoyRogjeo7yTpykm8wavg%7EFHRTSe3ai5wOfK1gySThotRC%7EJQwoW9yvbFv4xJheFUnteLrqq8JCHgLdr--d4xK-B6bATAA8vb1MmQb0xdeTg85TLz0fIoEwJQg9y8GbrATr5Q__",
+  "job_id": "job_httKeUYuB84qT9p1n4ELPkmu",
+  "asset_id": "asset_aaeKP9o3WseJtcZZQNMLgtFf",
+  "stub": false,
+  "model_id": "model_kling-v2-6-i2v-pro",
+  "prompt": "Hero frame, 9:16 vertical aspect, authentic in-game Crowd City screenshot: top-down third-person view of a massive dense swarm of bright red (#FF0000) low-poly stickman figures sprinting through a pastel low-poly city street, chasing a smaller cluster of blue (#0000FF) stickmen who are fleeing, neutral grey stickmen being absorbed mid-swarm, green (#00FF00) '+58' score popup floating above the crowd, top-center HUD showing crowd counter '240' and countdown timer '0:32', minimalist mobile game UI",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": false,
+  "audio": true
+}

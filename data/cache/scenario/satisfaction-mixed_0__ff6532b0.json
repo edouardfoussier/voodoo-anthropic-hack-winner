@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_PeEWWJpLyJ5Y192Wf4byzc2r?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUGVFV1dKcEx5SjVZMTkyV2Y0Ynl6YzJyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=FOhSogTPmNI1QtKlw%7EGlBDExrof7H5Jgij6ujQuij4XT0WN-1tBGuxlHAs9dNoT2eo-4yfoUZsfKz-JDZhUYKW-8x3BNM3W6O-LGAhu9e3O%7El4Ix30ult%7EBm15i%7EhTUjlJhdEks-7dzq4c%7Evz-bzIdooaZVAqHf4YULMPoZ1G9HWMnsb7gHY3-wx-u2Qy9MNr1eJm2f46As3geUMwqed2FUdzrP012FtWOpyzk8auBdNPIp5iUw4HqHshGA8q-yfT4pprpFJHqrpQHhQynJHo-anlv6eDYHrSSBTBRMm8DStK3BzniSVxSbAvgF8OKYRvm7egGgI40XNuFIfAkaRCA__",
+  "job_id": "job_FwWidUYYLeUdgavLhjvRNvEA",
+  "asset_id": "asset_PeEWWJpLyJ5Y192Wf4byzc2r",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, top-down tilted in-game camera of Crowd City: a massive swarm of ~150 simple stickman-like 3D characters in bright #FF0000 red flooding a pastel low-poly city street, chasing a smaller cluster of #0000FF blue stickmen fleeing toward a low-poly Eiffel Tower, a few #00FF00 green stickmen scattered in the distance, muted pastel beige and mint buildings, clean minimal HUD with a white crowd-count number '180' floating above the red leader and a timer '0:08' top-center, on-screen text overlay '12 \u2192 180 in 4 seconds', low-poly colorful 3D environment with simple stickman-like character models, no realistic humans, no logos, vibrant saturated game render",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

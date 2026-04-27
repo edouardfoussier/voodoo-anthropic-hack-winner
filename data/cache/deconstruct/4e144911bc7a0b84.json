@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "4e144911bc7a0b84",
+    "ad_unit_id": "4e144911bc7a0b84",
+    "app_id": "66f18c8527e2c1ad893fb4da",
+    "advertiser_name": "DriveCSX: Car Crash Simulator",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0220ba616ebd9ce2/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0220ba616ebd9ce2/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0220ba616ebd9ce2/preview",
+    "phashion_group": "4e144911bc7a0b84",
+    "share": null,
+    "first_seen_at": "2026-02-03T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Drive fast, crash harder. Can you handle the chaos?",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced montage of diverse vehicles and environments.",
+    "visual_action": "A heavy truck drives through a forest followed by a first-person cockpit view of a car in a desert canyon.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Initial sequence showing a heavy truck navigating a forest trail.",
+    "Rapid cuts to a sports car speeding through a desert canyon and a tunnel.",
+    "Display of different vehicle types and camera angles, including cockpit view.",
+    "Dramatic stunt where a car flies off a high bridge.",
+    "Demonstration of crash physics with a car hitting a tree and flipping."
+  ],
+  "on_screen_text": [
+    "START ENGINE",
+    "XRay",
+    "ULTRA",
+    "DRTECH",
+    "Drive"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#4A5D23",
+    "#A66D4F",
+    "#2B4C7E"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers interested in realistic vehicle physics and diverse driving environments.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001567
+}

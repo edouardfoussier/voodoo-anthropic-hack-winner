@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_RQJca3R8da32wjYZ47fYJrYQ?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9SUUpjYTNSOGRhMzJ3allaNDdmWUpyWVEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YKU2unt2ESkcABzrKyV22YIWUI44kl0pygUPgxPqLvlEcJllSmtCVTZWVGwTgYzeysyWHGvrSpuUATS4ekqI7nh8JWXQfdLF1WpgDHq9OCMUs9fINLAmC3voPyKFd7SOhjsdlzDexEYKASAIMPCJR2XFPx%7EyZChfKL2%7Exevq3orwSusc2Cxxbx7UDM3j6HNk3ZnhLqQ904VBdL1MIEDAUnCOmJoEACzhN-Zm%7EINsFhI2QX7neOpYCZWQRclqnvZ8%7EUxY2Hu7mhJH3ByQuI6fOnbcnEYnWXCXTGmIt1t-j%7E3p3a-b6Vv5fXP9WurPs7h2PC3Jhzp-NieVb2zXXFBtNg__",
+  "job_id": "job_fHxsejE9ggvYVoixg4f5miPB",
+  "asset_id": "asset_RQJca3R8da32wjYZ47fYJrYQ",
+  "stub": false,
+  "model_id": "model_bytedance-seedance-2-0",
+  "prompt": "7-11s: Quick gameplay montage \u2014 red crowd chases and consumes a smaller blue crowd, screen flashes green '+58'. She giggles: 'I made the BIGGEST crowd in the city.'",
+  "mode": "video",
+  "input_frames": 1
+}

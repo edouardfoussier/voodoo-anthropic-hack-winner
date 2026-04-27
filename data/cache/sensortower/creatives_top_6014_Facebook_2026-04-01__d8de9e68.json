@@ -1,0 +1,858 @@
+{
+  "count": 4562,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "4671d3b72ec52a45",
+      "app_id": "657764bcad4adb78f0c03332",
+      "network": "Facebook",
+      "phashion_group": "4671d3b72ec52a45",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-17",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "4671d3b72ec52a45",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Flex Spins on Daily Rewards Rocket",
+          "button_text": "Learn More",
+          "message": "EXCLUSIVE FLEX SPINS have landed on DraftKings Casino \ud83d\ude80 Head to the app for your daily chance at FREE Flex Spins \ud83c\udfb0"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "657764bcad4adb78f0c03332",
+        "canonical_country": "US",
+        "name": "DraftKings Casino - Real Money",
+        "publisher_name": "DraftKings",
+        "publisher_id": "5614ead33f07e25d290233b6",
+        "humanized_name": "DraftKings Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/53/c2/a553c2ae-66f2-cee3-aa80-9109f40f9948/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "657764bcad4adb78f0c03332",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "23d8854b8279418a",
+      "app_id": "56fee3eff49ea42a540000d4",
+      "network": "Facebook",
+      "phashion_group": "23d8854b8279418a",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-16",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "23d8854b8279418a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab019ffc77cb7574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab019ffc77cb7574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab019ffc77cb7574/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Whopper Perfected",
+          "button_text": "Order Now",
+          "message": "We made the Whopper your way. Enjoy it now with even better ingredients. The new king is you."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "56fee3eff49ea42a540000d4",
+        "canonical_country": "US",
+        "name": "BURGER KING App",
+        "publisher_name": "Restaurant Brands International",
+        "publisher_id": "5b3149587f6d443bda4d2f6d",
+        "humanized_name": "BURGER KING App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/50/c4/fa50c416-7d9f-50c2-a3cd-f1cf94207b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "56fee3eff49ea42a540000d4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "6132fcd245d4ff2a",
+      "app_id": "5b8e9647a2750e6598c510a7",
+      "network": "Facebook",
+      "phashion_group": "6132fcd245d4ff2a",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "6132fcd245d4ff2a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "NEW! Detroit-Style Pizza",
+          "button_text": "Order Now",
+          "message": "Our Detroit-Style Pizza just pulled up! Thick crust, golden edges, cheesy corners, gooey mozzarella & crispy mini cup pepperoni. Grab one for $10.99."
+        },
+        {
+          "id": "c53be941ed2c3b5c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Papa Murphy's of New Braunfels/Walnut Ave",
+          "button_text": "Order Now",
+          "message": "Just $10.99 gets you the thick crust, golden edges and cheesy corners of a perfect Detroit-Style Pizza! Mini Cup Pepperoni or Create-Your-Own 2-Top."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b8e9647a2750e6598c510a7",
+        "canonical_country": "US",
+        "name": "Papa Murphy\u2019s Take+Bake Pizza",
+        "publisher_name": "Papa Murphy's",
+        "publisher_id": "5b59ab84d8ac44018b121c7a",
+        "humanized_name": "Papa Murphy\u2019s Take",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/71/99/4d7199c3-4d40-fa89-d900-9da8d28ebbfe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5b8e9647a2750e6598c510a7",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "712c4a1dd7727238",
+      "app_id": "5b8e9647a2750e6598c510a7",
+      "network": "Facebook",
+      "phashion_group": "712c4a1dd7727238",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "712c4a1dd7727238",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "title": "NEW! Detroit-Style Pizza",
+          "button_text": "Order Now",
+          "message": "Just $10.99 gets you the thick crust, golden edges and cheesy corners of a perfect Detroit-Style Pizza! Mini Cup Pepperoni or Create-Your-Own 2-Top."
+        },
+        {
+          "id": "903ae9636edd3c4a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "title": "NEW! Detroit-Style Pizza",
+          "button_text": "Order Now",
+          "message": "Just $10.99 for a Detroit-Style Pizza? Yes! Pizza lovers, start your ovens. Grab one today."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b8e9647a2750e6598c510a7",
+        "canonical_country": "US",
+        "name": "Papa Murphy\u2019s Take+Bake Pizza",
+        "publisher_name": "Papa Murphy's",
+        "publisher_id": "5b59ab84d8ac44018b121c7a",
+        "humanized_name": "Papa Murphy\u2019s Take",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/71/99/4d7199c3-4d40-fa89-d900-9da8d28ebbfe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5b8e9647a2750e6598c510a7",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c1c1518cdf990968",
+      "app_id": "55c50b2202ac64f9c00022c6",
+      "network": "Facebook",
+      "phashion_group": "c1c1518cdf990968",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-02",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "c1c1518cdf990968",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20a65a6b91146a7d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20a65a6b91146a7d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20a65a6b91146a7d/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join PS Plus Extra from $14.99 per month",
+          "button_text": "Learn More",
+          "message": "Join PS Plus Extra from $14.99 per month"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50b2202ac64f9c00022c6",
+        "canonical_country": "US",
+        "name": "PlayStation App",
+        "publisher_name": "Sony",
+        "publisher_id": "5628902202ac648b280004e7",
+        "humanized_name": "PlayStation App",
+        "icon_url": "https://play-lh.googleusercontent.com/zi6QgTtIiAnGqQMizfoj2LnE85kzHyZlgTruSzJ7Zw_79NAmB3fhxuDegwxby7P0yw=s150",
+        "os": "unified",
+        "id": "55c50b2202ac64f9c00022c6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e73a150a7e257606",
+      "app_id": "62be6a5fbab10c69c5a0a42a",
+      "network": "Facebook",
+      "phashion_group": "e73a150a7e257606",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "e73a150a7e257606",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Don't Miss Hello Kitty\u00ae Fun!",
+          "button_text": "Play Game",
+          "message": "Come Back to Hello Kitty\u00ae!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "62be6a5fbab10c69c5a0a42a",
+        "canonical_country": "US",
+        "name": "MONOPOLY GO!",
+        "publisher_name": "Scopely",
+        "publisher_id": "560c44e48ac3506439005117",
+        "humanized_name": "MONOPOLY GO!",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/7a/dd/9f7add1e-0907-6bc3-1ebb-65ede304ad9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "62be6a5fbab10c69c5a0a42a",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "03e9194e51b1df4a",
+      "app_id": "55c50b2202ac64f9c00022c6",
+      "network": "Facebook",
+      "phashion_group": "03e9194e51b1df4a",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-02",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "03e9194e51b1df4a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d68c8c9535a9f115/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d68c8c9535a9f115/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d68c8c9535a9f115/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Rejoin Plus Extra from $14.99 per month",
+          "button_text": "Learn More",
+          "message": "Choose a PlayStation Plus plan that gives you more of what you love."
+        },
+        {
+          "id": "a335f83b62a4a8da",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d68c8c9535a9f115/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d68c8c9535a9f115/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d68c8c9535a9f115/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join PS Plus Extra from $14.99 per month",
+          "button_text": "Learn More",
+          "message": "Don\u2019t miss out on a collection of iconic games from every era, plus exclusive content and discounts. Rejoin PS Plus Extra from $14.99 per month"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50b2202ac64f9c00022c6",
+        "canonical_country": "US",
+        "name": "PlayStation App",
+        "publisher_name": "Sony",
+        "publisher_id": "5628902202ac648b280004e7",
+        "humanized_name": "PlayStation App",
+        "icon_url": "https://play-lh.googleusercontent.com/zi6QgTtIiAnGqQMizfoj2LnE85kzHyZlgTruSzJ7Zw_79NAmB3fhxuDegwxby7P0yw=s150",
+        "os": "unified",
+        "id": "55c50b2202ac64f9c00022c6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f9c416960d2aafb9",
+      "app_id": "5618099202ac64fe3e00000b",
+      "network": "Facebook",
+      "phashion_group": "f9c416960d2aafb9",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-05",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f9c416960d2aafb9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2f5e056a18cb6eb9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2f5e056a18cb6eb9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2f5e056a18cb6eb9/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "The game that makes math fun \ud83d\ude2e\ud83e\ude84",
+          "button_text": "Learn More",
+          "message": "Prodigy makes math fun and engaging for your kids. That's one New Year's resolution checked off your list. \u2705"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5618099202ac64fe3e00000b",
+        "canonical_country": "US",
+        "name": "Prodigy Math Game",
+        "publisher_name": "Prodigy Education",
+        "publisher_id": "61045091e6637210f78ce32f",
+        "humanized_name": "Prodigy Math Game",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/9a/e4/739ae438-5d40-80b5-5435-18b5b7df9533/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5618099202ac64fe3e00000b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fb83caad6d2c2e7b",
+      "app_id": "55c50b2202ac64f9c00022c6",
+      "network": "Facebook",
+      "phashion_group": "fb83caad6d2c2e7b",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-01",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "fb83caad6d2c2e7b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4535bd3b14d78e39/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4535bd3b14d78e39/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4535bd3b14d78e39/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "MLB The Show 26",
+          "button_text": "Shop Now",
+          "message": "MLB The Show 26 is here! Start your road to The Show with 11 new schools."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50b2202ac64f9c00022c6",
+        "canonical_country": "US",
+        "name": "PlayStation App",
+        "publisher_name": "Sony",
+        "publisher_id": "5628902202ac648b280004e7",
+        "humanized_name": "PlayStation App",
+        "icon_url": "https://play-lh.googleusercontent.com/zi6QgTtIiAnGqQMizfoj2LnE85kzHyZlgTruSzJ7Zw_79NAmB3fhxuDegwxby7P0yw=s150",
+        "os": "unified",
+        "id": "55c50b2202ac64f9c00022c6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "eb6c91082c870fcd",
+      "app_id": "657764bcad4adb78f0c03332",
+      "network": "Facebook",
+      "phashion_group": "eb6c91082c870fcd",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-15",
+      "last_seen_at": "2026-04-11",
+      "creatives": [
+        {
+          "id": "eb6c91082c870fcd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "NEW Flex Spins on Daily Rewards Rocket",
+          "button_text": "Play Game",
+          "message": "EXCLUSIVE FLEX SPINS have landed on DraftKings Casino \ud83d\ude80 Head to the app for your daily chance at FREE Flex Spins \ud83c\udfb0"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "657764bcad4adb78f0c03332",
+        "canonical_country": "US",
+        "name": "DraftKings Casino - Real Money",
+        "publisher_name": "DraftKings",
+        "publisher_id": "5614ead33f07e25d290233b6",
+        "humanized_name": "DraftKings Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/53/c2/a553c2ae-66f2-cee3-aa80-9109f40f9948/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "657764bcad4adb78f0c03332",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "df1800200aa1a830",
+      "app_id": "56fee3eff49ea42a540000d4",
+      "network": "Facebook",
+      "phashion_group": "df1800200aa1a830",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-20",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "df1800200aa1a830",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3ee787c0848e5fca/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3ee787c0848e5fca/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3ee787c0848e5fca/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Whopper Perfected",
+          "button_text": "Order Now",
+          "message": "Now the Whopper is made your way, with better ingredients in every bite. Enjoy it today."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "56fee3eff49ea42a540000d4",
+        "canonical_country": "US",
+        "name": "BURGER KING App",
+        "publisher_name": "Restaurant Brands International",
+        "publisher_id": "5b3149587f6d443bda4d2f6d",
+        "humanized_name": "BURGER KING App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/50/c4/fa50c416-7d9f-50c2-a3cd-f1cf94207b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "56fee3eff49ea42a540000d4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e951aca39ab219ae",
+      "app_id": "5618099202ac64fe3e00000b",
+      "network": "Facebook",
+      "phashion_group": "e951aca39ab219ae",
+      "ad_type": "video",
+      "first_seen_at": "2025-07-30",
+      "last_seen_at": "2026-04-05",
+      "creatives": [
+        {
+          "id": "e951aca39ab219ae",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8034d74dd2157b82/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8034d74dd2157b82/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8034d74dd2157b82/thumb",
+          "video_duration": 12,
+          "width": 608,
+          "height": 1080,
+          "title": "Back-to-school math boost",
+          "button_text": "Learn More",
+          "message": "Start the school year strong with math practice that\u2019s fun\u2014and effective!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5618099202ac64fe3e00000b",
+        "canonical_country": "US",
+        "name": "Prodigy Math Game",
+        "publisher_name": "Prodigy Education",
+        "publisher_id": "61045091e6637210f78ce32f",
+        "humanized_name": "Prodigy Math Game",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/9a/e4/739ae438-5d40-80b5-5435-18b5b7df9533/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5618099202ac64fe3e00000b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f4bb97cd13237bcc",
+      "app_id": "67f9b33c67bda8def67d85d8",
+      "network": "Facebook",
+      "phashion_group": "f4bb97cd13237bcc",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-27",
+      "last_seen_at": "2026-04-18",
+      "creatives": [
+        {
+          "id": "f4bb97cd13237bcc",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b10b6c1aba1cd09/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b10b6c1aba1cd09/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b10b6c1aba1cd09/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "The House Always Rewards",
+          "button_text": "Download",
+          "message": "Last year we gave away $33M in FanCash rewards. Our accountant Fran says that's irresponsible. Players disagree."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67f9b33c67bda8def67d85d8",
+        "canonical_country": "US",
+        "name": "Fanatics Casino - Real Money",
+        "publisher_name": "Fanatics",
+        "publisher_id": "5604a5188ac3501722023628",
+        "humanized_name": "Fanatics Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/c9/09/adc909d6-9cc7-b7a6-ec3c-925abc6d4217/AppIcon_casino_prod-0-0-1x_U007ephone-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "67f9b33c67bda8def67d85d8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c3007b220a317a7a",
+      "app_id": "62429cefb3ae2756c91a89ac",
+      "network": "Facebook",
+      "phashion_group": "c3007b220a317a7a",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-23",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "c3007b220a317a7a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e45bd8a845561d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e45bd8a845561d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e45bd8a845561d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Diablo Anytime",
+          "button_text": "Learn More",
+          "message": "No boundaries, just battles. Unleash Hell wherever your day takes you!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "62429cefb3ae2756c91a89ac",
+        "canonical_country": "US",
+        "name": "Diablo Immortal",
+        "publisher_name": "Microsoft",
+        "publisher_id": "5628910002ac648b28002389",
+        "humanized_name": "Diablo Immortal",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/2e/33/9f2e33d4-668f-4222-4cb2-60a03d9a0b26/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "62429cefb3ae2756c91a89ac",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "94f20657403d173d",
+      "app_id": "61797419b3ae2754bfd33529",
+      "network": "Facebook",
+      "phashion_group": "94f20657403d173d",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-26",
+      "last_seen_at": "2026-04-06",
+      "creatives": [
+        {
+          "id": "94f20657403d173d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dff9fd35e140b288/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dff9fd35e140b288/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dff9fd35e140b288/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "Score with BetMGM",
+          "button_text": "Sign Up",
+          "message": "Give BetMGM Casino a shot! Sign up during March Matchups and enjoy your New Player Offer.\ud83c\udfc0 \ud83c\udfb0"
+        },
+        {
+          "id": "ee9b64b3b3b094e3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dff9fd35e140b288/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dff9fd35e140b288/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dff9fd35e140b288/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "Score with BetMGM",
+          "button_text": "Install Now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "61797419b3ae2754bfd33529",
+        "canonical_country": "US",
+        "name": "BetMGM Casino - Real Money",
+        "publisher_name": "MGM Resorts International",
+        "publisher_id": "55f88e608ac350426b0237b6",
+        "humanized_name": "BetMGM Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/fd/8e/08fd8e6b-75e4-b40f-433f-dda44935d2d1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "61797419b3ae2754bfd33529",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "818b5baafa132662",
+      "app_id": "67f9b33c67bda8def67d85d8",
+      "network": "Facebook",
+      "phashion_group": "818b5baafa132662",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-02",
+      "last_seen_at": "2026-04-18",
+      "creatives": [
+        {
+          "id": "818b5baafa132662",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4d2b87eb0bf7bbd/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4d2b87eb0bf7bbd/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4d2b87eb0bf7bbd/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "New Customers get up to 1000 FREE SPINS!",
+          "button_text": "Install Now",
+          "message": "New customers get up to 1000 FREE SPINS on Triple Cash Eruption! Wager $10, get 100 free spins/day for 10 days!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67f9b33c67bda8def67d85d8",
+        "canonical_country": "US",
+        "name": "Fanatics Casino - Real Money",
+        "publisher_name": "Fanatics",
+        "publisher_id": "5604a5188ac3501722023628",
+        "humanized_name": "Fanatics Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/c9/09/adc909d6-9cc7-b7a6-ec3c-925abc6d4217/AppIcon_casino_prod-0-0-1x_U007ephone-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "67f9b33c67bda8def67d85d8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a501f1d09aa3b810",
+      "app_id": "582219400211a6c9240005fc",
+      "network": "Facebook",
+      "phashion_group": "a501f1d09aa3b810",
+      "ad_type": "video",
+      "first_seen_at": "2025-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a501f1d09aa3b810",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Now",
+          "button_text": "Play Game",
+          "message": "Fun puzzles & stories."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "582219400211a6c9240005fc",
+        "canonical_country": "US",
+        "name": "Gardenscapes",
+        "publisher_name": "Playrix",
+        "publisher_id": "5614b8de3f07e25d29001b9e",
+        "humanized_name": "Gardenscapes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/64/1e1964c3-4291-3b5f-c6e0-dae70c445d99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "582219400211a6c9240005fc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "46400ed0502a97ad",
+      "app_id": "5618099202ac64fe3e00000b",
+      "network": "Facebook",
+      "phashion_group": "46400ed0502a97ad",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-05",
+      "last_seen_at": "2026-04-04",
+      "creatives": [
+        {
+          "id": "46400ed0502a97ad",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Game-based math boost",
+          "button_text": "Learn more",
+          "message": ""
+        },
+        {
+          "id": "c7f8b80833894d2e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Productive screen time for kids",
+          "button_text": "Learn More",
+          "message": "Prodigy makes math fun and engaging for your kids. That's one New Year's resolution checked off your list. \u2705"
+        },
+        {
+          "id": "e6d79de44657ef8f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1162abf426688c2e/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Productive screen time for kids",
+          "button_text": "Learn More",
+          "message": "Prodigy helps your child thrive in the classroom using confidence-building math practice that they'll love! \ud83d\ude80"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5618099202ac64fe3e00000b",
+        "canonical_country": "US",
+        "name": "Prodigy Math Game",
+        "publisher_name": "Prodigy Education",
+        "publisher_id": "61045091e6637210f78ce32f",
+        "humanized_name": "Prodigy Math Game",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/9a/e4/739ae438-5d40-80b5-5435-18b5b7df9533/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5618099202ac64fe3e00000b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f695f1c1d8e8d92e",
+      "app_id": "660032374e1bbd3e53984ac5",
+      "network": "Facebook",
+      "phashion_group": "f695f1c1d8e8d92e",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-30",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "f695f1c1d8e8d92e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/281d1816ae06ad44/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/281d1816ae06ad44/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/281d1816ae06ad44/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "title": "Monopoly at Your Fingertips",
+          "button_text": "Install Now",
+          "message": "Warning: You're missing out on completing your Monopoly album!\nDownload our app now and start filling those gaps!\nWill you be the first to finish?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "660032374e1bbd3e53984ac5",
+        "canonical_country": "US",
+        "name": "StickerHub - Sticker Exchange",
+        "publisher_name": "Meta Innovation",
+        "publisher_id": "6538605f1d8af30779f890fb",
+        "humanized_name": "StickerHub",
+        "icon_url": "https://play-lh.googleusercontent.com/I-79pio_pBsD6dBm5cIwD3RMgUd8e37uvq9RQmHP5-Ck3LZxnLALBOBwI0kKGLOi-BY=s150",
+        "os": "unified",
+        "id": "660032374e1bbd3e53984ac5",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "28f051c1f9ed53df",
+      "app_id": "641484dd02fbee78c17c735e",
+      "network": "Facebook",
+      "phashion_group": "28f051c1f9ed53df",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-22",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "28f051c1f9ed53df",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4700917e12aa0bc1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4700917e12aa0bc1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4700917e12aa0bc1/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "title": "Play Free,Win Big!",
+          "button_text": "Install Now",
+          "message": "\ud83d\udc30 Fair! Free! Fun! \ud83e\udd5a No purchase needed! No rigged games! Grab your Easter luck for FREE! \ud83d\udea2\ud83c\udf40"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "641484dd02fbee78c17c735e",
+        "canonical_country": "US",
+        "name": "Bingo Voyage: Live Bingo Games",
+        "publisher_name": "Vertex Games",
+        "publisher_id": "65dfbf52152a895dd4bac6e1",
+        "humanized_name": "Bingo Voyage",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/7a/b6/337ab67d-8b58-d724-0122-d62baac49f7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "641484dd02fbee78c17c735e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

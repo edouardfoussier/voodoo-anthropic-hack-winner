@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "8ff17b7f82b505b9",
+    "ad_unit_id": "8ff17b7f82b505b9",
+    "app_id": "562ee42e7556e5d7970021fa",
+    "advertiser_name": "Blackjack 21: Blackjackist",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78ec693efa367e20/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78ec693efa367e20/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78ec693efa367e20/preview",
+    "phashion_group": "8ff17b7f82b505b9",
+    "share": null,
+    "first_seen_at": "2025-12-26T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Play now!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A blackjack hand starts with the dealer dealing cards and the player facing a decision.",
+    "visual_action": "Dealer deals cards to the player (5 and 8) and themselves (King), then the 'HIT?' prompt appears.",
+    "text_overlay": "HIT?",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Dealer deals cards to the player and themselves on a digital blackjack table.",
+    "The player is prompted to 'HIT?' and receives an Ace, bringing their total to 14.",
+    "The player hits again, receives a King, and the 'BUST' message appears.",
+    "The dealer reveals their hand and the round ends with a loss for the player.",
+    "The screen transitions to a branded end card with a call to action."
+  ],
+  "on_screen_text": [
+    "BLACKJACKIST",
+    "BLACK JACK PAYS 3 TO 2",
+    "Dealer must draw to 16, and stand on all 17's",
+    "INSURANCE",
+    "HIT?",
+    "BUST",
+    "BLACKJACK 3D GAME",
+    "INSTALL NOW!"
+  ],
+  "cta_text": "INSTALL NOW!",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#1a4d66",
+    "#ffffff",
+    "#000000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Adults who enjoy casino games and the thrill of high-stakes blackjack.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001719
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Kv1BfCA9pgRMtqUgDmV5mTU3?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfS3YxQmZDQTlwZ1JNdHFVZ0RtVjVtVFUzP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=iVFe%7Evoa7KH9oCVeN4f3rgHfF0ks-4l10AxKr1T51d%7Ex2K5FlfRwWgqaB0yegCcxpv-REG8xPg2qF-T-sQ-gvwVxbbqpJklFfo5BZjsIUyR8E7cR3oDTxn%7ElbkWKgCcF4URNMrOe6JjiwBhQ4I91PbObK9fW-XFgRuXrucC%7EM6chxh9bEH6DAq2ItkQyAF1jTkmXcewQPktySu%7Eg30FLnWw3qwKvVQk3rbdLL%7E1EjBAClTR42ejHqq%7ELHtbKlgPZG7Jl30nTppgOSHprM%7Elwo4A-aqMtY3GBLDmTLqrIY2THEg66yd-frtPMbsmpPszpeVURUlzNBut1glA68fCiwg__",
+  "job_id": "job_yMKTn2Mi8sJir7L9Nav1xzR2",
+  "asset_id": "asset_Kv1BfCA9pgRMtqUgDmV5mTU3",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, in-game Crowd City moment of the red #FF0000 stickman swarm engulfing and converting a #0000FF blue crowd at a pastel low-poly plaza intersection, blue figures mid-flip turning red, scattered #00FF00 green stickmen running away in the background, low-poly pastel city buildings, authentic Crowd City HUD with timer top-center and crowd counter above the leader, on-screen text overlay 'Eat the blues. Crush the greens.', low-poly colorful 3D environment with simple stickman-like character models, top-down tilted camera, clean uncluttered UI, no realistic characters",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

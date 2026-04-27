@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_tU4xAVYPi1Etrm5A3EDrxxh7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdFU0eEFWWVBpMUV0cm01QTNFRHJ4eGg3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=wF8vKTWU52yataScZT24xPBxqDc0AoISF%7EZ1xHKtJK8cOBS5Yr6sV9QXYr3T4CbTPBr-ZNk8-rw9nC6UgDpRKtvVt%7EiCxBxjuymn1pqN1GHQGhEQGHNU6TZ60WszjFmEeLba44m4RH%7ExCTeNbhWcMLTtHDP5D3yfsoUn7c6PVRgeYlAF7s1ckj-9kve2HmBDphbR6JDL7Vg1NBJHOh4GPHoUKLifjRPjlI1E2F-1byuFoUuxQ4TZUxaR6JmSYDsIYxopEGiQwOEChEROeEJuH1uvGK3WlI9eC9MBN8ZT8TetfQ3o0yjxxvycmn7GNiLXrMoD%7EK8tCG03zWvg2X1LXg__",
+  "job_id": "job_t4B6kHS4gQMEMAUe88gpV1GJ",
+  "asset_id": "asset_tU4xAVYPi1Etrm5A3EDrxxh7",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic in-game Flappy Dunk moment: vertical mobile screenshot of the VS matchmaking screen on a warm beige #EAD5A0 basketball court background, large saturated magenta #D81155 'VS' banner slashing diagonally across center, two cartoon basketball avatars facing off with thick black outlines, bright #5CB3FF blue accent glow and lives/hearts indicator at top, score 0-0 HUD, on-screen text 'my friend just challenged me \ud83d\ude24' in bold white with black outline at top, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors, energetic competitive UI mood, no realistic humans, pure in-game render",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

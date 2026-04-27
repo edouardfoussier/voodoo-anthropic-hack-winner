@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_CeK2SgJhQLcvAkzRLCUngi8m?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQ2VLMlNnSmhRTGN2QWt6UkxDVW5naThtP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=H31D8F1m35tmfqvWsGnCKO-REPWZC4bXP-2Nfrb%7ERvgMnI0gJlm%7EDuGERHghq5e4VLzScXC%7EcYLE6SUkoR84bMNgO-wwlQaHG0NPdC2bIx0gvPL-REHZdOhCQ2V51Icgyyc51YJfIyGYd-ymLPLKoYslPIyEAeDfV6E-ys5jNsLATtniPYB82JR4e3rtzbXnpMIdn9xwhthnq1MrWeBRmEDhG25SfingzdJ3gLNiPdiPq3c25AtX99HVC3tjp%7EzVXqrfdgZfPYz3XUAXTZDEq71hoA89KfKlYDYGIhUJq8RUL0z1nDybJLWHngqLNjgvKtsFenA7-iBPUgSytt2syA__",
+  "job_id": "job_6oWaguSZqTSsG7FQNDkFNNqp",
+  "asset_id": "asset_CeK2SgJhQLcvAkzRLCUngi8m",
+  "stub": false,
+  "prompt": "Storyboard frame \u2014 payoff moment, aspect 9:16: An 8x8 navy grid (#1E2744) on a royal blue backdrop (#5469B9) erupting in a chain reaction \u2014 three rows and two columns simultaneously shattering into glossy beveled cube fragments, gold particles (#FFD700) and white sparkles bursting outward, a large gold score number '+17,660' popping in the upper right with motion blur. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. On-screen text center reads 'CHAIN x4!' in chunky gold display type. High-energy, juicy, satisfying.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_4UJiV4SpdTzDeHoYhf3jhPC8?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNFVKaVY0U3BkVHpEZUhvWWhmM2poUEM4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=D9FmS322hCdbU3ypo1mE2G6qhDdIimlb-7chx30k7ED69gUOaQUH-JD3gWoFcl5LJMZeO8Di98as-bdiCPIudWeG0GvI-%7EoL5TNbaDzGyyq9eywhwy7pZCm-Anl-4chjtQTuB1qUSEiwzT3oozhIbX6wLK8Mc254A4APsKzONr5-XC%7EhI67T05abzfxB-DO-VHH%7EyghK2MEvQ5Ha7%7EhN6TK-WH2RxfoCuXQLJpQWDZCwa5d9HNBPClZZ1%7ET8Nt5OFD2DBzk%7EeaUkgwIVlqvvtcqOq8abic2EdzI4wb81VxqWkxisM9iHiRfutXEhhXHHb14EExVv08z9Gg5O4W1OBQ__",
+  "job_id": "job_iBSaj8dxTpssx3ZSjNUpWTes",
+  "asset_id": "asset_4UJiV4SpdTzDeHoYhf3jhPC8",
+  "stub": false,
+  "prompt": "Storyboard frame 1, aspect 9:16, Minimalist 3D with bright, contrasting colors and simple geometric shapes. Side-view of the tall #AEE2FF blue diving platform with height markers (10m, 20m, 30m) running up its edge in #C754D9 purple, a tiny #FF007F pink ragdoll character crouched at the top about to jump, small circular pool far below. Game's native UI: depth counter '0m' top-right in a purple banner, tap indicator pulsing on jump button. Overlay text 'Perfect entry\u2026' in bold white sans-serif. Flat-shaded, soft pastel sky gradient, authentic Flip & Dive 3D framing. [Audio: VO 'Looks like a normal dive\u2026' / calm satisfying ambient pad at 80 BPM / soft wind whoosh, single UI tick on tap indicator]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

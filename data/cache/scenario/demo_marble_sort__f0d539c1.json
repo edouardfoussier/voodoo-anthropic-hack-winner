@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_J9qW2JoExmoM8EuQkAcC7jJu?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9KOXFXMkpvRXhtb004RXVRa0FjQzdqSnUqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=dfJfCqCiStOYfKCg0Ms3S3URZEkrVOwEZ8tWdkgVfBbc06HooGbb2bMQUZhZa%7Ee3uGM3Ci-qqXBROXvpOlMIIuIgCjWdb5cKU9uYYL57vK7Gmf5tNArchCMBCTsG-mOjpgtmYcwlabRBRC1sZjmjHZV-pAr27t80g1B-MUDQMAkB1p6ikhrdYwYRbPjSG5h2dBoLSmKNfN06tNa0TR5k6Lag7KOkFqa%7ECaZxGYke9yzoWRSVuItUMf6dM0867wmiHPeS4TB8pnlmHnX4kufDzWaz5hNgJ-f5l9SI9fNNksxr4Bhya-Lx-QEt61Qq6gio12AfzzHX2eJoZQkj%7Ebazkw__",
+  "job_id": "job_YKWpidR26F9kjCintPQoV5qu",
+  "asset_id": "asset_J9qW2JoExmoM8EuQkAcC7jJu",
+  "stub": false,
+  "model_id": "model_xai-grok-imagine-video",
+  "prompt": "Pastel marbles tumble in slow-mo, plinking onto a lavender conveyor \u2014 one tap unleashes a chain of perfect color-matched drops.",
+  "mode": "video",
+  "input_frames": 3
+}

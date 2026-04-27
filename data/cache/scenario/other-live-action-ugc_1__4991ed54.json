@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_VYRSwFQeiQvz785yx26o4VEu?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVllSU3dGUWVpUXZ6Nzg1eXgyNm80VkV1P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=o6-3FaXdZ4Y98NPaEVdA2oUbgvE1e8ZHL0%7EjjvJiU%7E63tH02k3j9%7Ej1es37qsKxu5GZbFJJuhOZmsPfFRGvVnEi%7Elvlkh7%7EU6lc9p3LuId%7Eq4H2Hu6czeBc6v3HVQTEJjfP1-npOXB48jSTx2iOPNV983lJO3XtxXGR8CzktWPmaANs2rRJQlmjxXjiPZbjX5xfwQ-IE4XeJ1N3ZlSoPsiXIRCds8dGjXaUo7Y3IOpPFWWcDzZ0kW8RolP7YmqcyhKr3xs1RVTZPsEy4VHzydGf1jaYLKlFQjNNhy8oiAp9KqNOGCkT%7E91QaIzl-1RrTzLk1rvm10Kq1nRQjR7WWHA__",
+  "job_id": "job_Yc1AYRWS2L4GKx8iBRdNEWTk",
+  "asset_id": "asset_VYRSwFQeiQvz785yx26o4VEu",
+  "stub": false,
+  "prompt": "Storyboard frame 9:16 vertical: over-the-shoulder POV of hands holding a phone in a dark room, phone screen dominates frame showing a single glowing golden question 'Did they win a Nobel Prize?' on a near-black interface with a pulsing microphone icon, ambient candlelight, palette #100D06 / #D4A024 / #FCE588, Mystical Minimalism style, cinematic, on-screen overlay text 'I get 20 yes/no questions.', sophisticated late-night atmosphere",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

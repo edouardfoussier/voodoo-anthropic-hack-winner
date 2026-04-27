@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Dijp6uTc3A2zF4aM5VPeGn7o?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRGlqcDZ1VGMzQTJ6RjRhTTVWUGVHbjdvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VvKPrySeoq5slVUNCd86b4IRVPsfOHdjhWHWSCww%7ELv4aVUROjMlq4gYmZwyCVd9tXFp9zjEa-PvwdE6Jm0pQqwCMyjCghvnpdx9jbKX428X6jAix1qLbDgl7OxAUPWRWnF5CduyxsbWAMvTdTnw0EfvA-xYyeBbRODGQdg9AsVfKgshSjQdOaK1xkkOM91LjFL025F2xnjT-o6Wb2UvIcLUZ5bV34VqeQ2eHCg-5pOmANgur8RZKiPFhh2hfPUqcxJOLPVynSysTJIY6qrsLulG2-Td3Kuupu3zdLNw7cgxhNjta1UExOhwRN0f7ER5wHzQ1%7EW-8LW9Hrgjy35oDw__",
+  "job_id": "job_bRPSou9bhuvqXnhpSaXnaH9d",
+  "asset_id": "asset_Dijp6uTc3A2zF4aM5VPeGn7o",
+  "stub": false,
+  "prompt": "Storyboard frame, vertical 9:16: top-down angled view of three color-coded 3D buckets (red, blue, yellow) hovering above a white conveyor belt carrying streams of matching pixel-art sand into colored slots, sky-blue background (#4A90E2), white belt (#FFFFFF), glowing gold tap indicator (#FFD700) on the red bucket, 3D stylized objects with vibrant colors and pixel-art sand compositions, clean UI, soft shadows, on-screen text 'Match the color' centered in bold white sans-serif, mobile playable ad style.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

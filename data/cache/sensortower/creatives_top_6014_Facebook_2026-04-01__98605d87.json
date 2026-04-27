@@ -1,0 +1,45 @@
+{
+  "count": 7225,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "4671d3b72ec52a45",
+      "app_id": "657764bcad4adb78f0c03332",
+      "network": "Facebook",
+      "phashion_group": "4671d3b72ec52a45",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-17",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "4671d3b72ec52a45",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Flex Spins on Daily Rewards Rocket",
+          "button_text": "Learn More",
+          "message": "EXCLUSIVE FLEX SPINS have landed on DraftKings Casino \ud83d\ude80 Head to the app for your daily chance at FREE Flex Spins \ud83c\udfb0"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "657764bcad4adb78f0c03332",
+        "canonical_country": "US",
+        "name": "DraftKings Casino - Real Money",
+        "publisher_name": "DraftKings",
+        "publisher_id": "5614ead33f07e25d290233b6",
+        "humanized_name": "DraftKings Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/53/c2/a553c2ae-66f2-cee3-aa80-9109f40f9948/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "657764bcad4adb78f0c03332",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

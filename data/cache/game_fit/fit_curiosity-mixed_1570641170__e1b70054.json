@@ -1,0 +1,8 @@
+{
+  "archetype_id": "curiosity-mixed",
+  "visual_match": 20,
+  "mechanic_match": 15,
+  "audience_match": 30,
+  "overall": 22,
+  "rationale": "Major friction: the hook is a high-energy live-action POV stunt referencing a competitor IP (\"Tetris Block Party\"), which is brand-unsafe and visually incompatible with our clean, soft-pastel 2D connect-the-dots aesthetic. The audience also skews younger/male meme-watchers, whereas our game targets a calmer, slightly female casual puzzle audience — the energy mismatch undermines the \"relaxing/satisfying\" UI mood. Only worth testing if reshot with our IP, gameplay B-roll in the payoff, and toned-down stunt energy; otherwise skip."
+}

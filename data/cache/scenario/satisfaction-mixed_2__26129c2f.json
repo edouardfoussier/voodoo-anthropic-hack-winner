@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_oUwBs5QSG3TPQkqXatcLZd49?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfb1V3QnM1UVNHM1RQUWtxWGF0Y0xaZDQ5P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=J%7EU9FbyCoNnGclvlu4nHz41%7ED8D17e%7EjBZRxOnzY7eEPMXunOJ4gMeJB2zpPFUOx90wOPFIU0mXsUXOgWnBqAOv6NSrPKlqz7tSaOSnnI1vKYKWw%7Ec8xXUjaKWHcvLXx9UasIt5b7pdeOCZwTFDCBiT%7E0MaYVMS7x9GAX4Gu4XEAhyVcxNn%7EDdEveJGCj7N9076NGGH0PRZ%7EOmCeflognHHqR2tiYBa9%7ELUamtSxl-KjrX501zsKelOf5le7YYQUCxus52phw9TMUi2OU4gHfvEd5Sph4MXUVm-9vKHs6lMNi5RaQ69rMNXARQk8GFg9i5zBXXuupwzb7AK2ejSwSw__",
+  "job_id": "job_UTrxF7SDzVxrXjXSGhvG1bGv",
+  "asset_id": "asset_oUwBs5QSG3TPQkqXatcLZd49",
+  "stub": false,
+  "prompt": "Vertical 9:16 Flappy Dunk VS-screen moment: split-screen score comparison UI with player side glowing blue (#5CB3FF) leading 47-12 over opponent on warm beige (#EAD5A0) background, magenta (#D81155) banner across middle reading 'BEAT YOUR RIVAL', thick black outlines, flat shading, vibrant high-contrast 2D cartoon style, authentic Flappy Dunk hoops and ball visible mid-action behind the HUD, hearts indicator and combo meter present, big rounded magenta 'PLAY FREE' button pulsing at bottom with on-screen overlay text 'PLAY FREE'. [Audio: VO 'Your move.' / triumphant 130bpm competitive sting with crowd-cheer accent / victory chime at 1s, button-tap click at 4s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

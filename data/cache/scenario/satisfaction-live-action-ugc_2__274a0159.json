@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_vpDJuZh3oPHQRJe6SAzykySj?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdnBESnVaaDNvUEhRUkplNlNBenlreVNqP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ZjVFB782a1x1eh3ivdqYuW-fvICCHiZl7sHxPqkZm-6BkqAJFy3HtSnEc6t2LnEQgZrBJeZL1dJhWCnpxB3mS%7EBZVWJcBVX5aPdYI1BtmkkMky5GN4-xxHeDjJ%7EKhODc8KKy-bkPikHjacljwnc53dBVwL3y6Pi84OccIR8YEOnS7VF7N9s6zx3VxzhSO0iY0JwHafpPyZkTvVbtAet61VCHfET-nuxKeokJQfyfZBvm4B1meu1bc-n9n6Eemn2rvOPn5t36T19vFLJ0HY04T2se2HK%7EUG6wCrbkRpqxA7FU1VlQ-9bmklilpxobVIwL7fiBmxiXqSFWjKR18bc8wA__",
+  "job_id": "job_5h2KYmB27hgnUKcqErgyxoUC",
+  "asset_id": "asset_vpDJuZh3oPHQRJe6SAzykySj",
+  "stub": false,
+  "prompt": "Storyboard frame, 9:16 vertical aspect ratio, in-game aquapark.io glider section: a low-poly cartoon character deploying a hang glider off a ramp at the end of a white #ffffff slide, soaring over bright #42bcf5 cyan water toward a finish line banner, two rivals tumbling below, vivid #ff8c1c orange finish-line markers and HUD progress bar, 3D low-poly bright colorful cartoonish style, bold yellow-white on-screen text 'aquapark.io \u2014 Play Free', authentic in-game HUD and character style matching aquapark.io screenshots",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

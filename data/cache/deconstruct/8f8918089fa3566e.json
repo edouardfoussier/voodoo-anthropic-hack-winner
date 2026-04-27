@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "8f8918089fa3566e",
+    "ad_unit_id": "8f8918089fa3566e",
+    "app_id": "562ee42e7556e5d7970021fa",
+    "advertiser_name": "Blackjack 21: Blackjackist",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78940a49e7202df7/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78940a49e7202df7/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78940a49e7202df7/preview",
+    "phashion_group": "8f8918089fa3566e",
+    "share": null,
+    "first_seen_at": "2024-04-23T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Play now!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A blackjack hand is played out with a direct challenge to the viewer.",
+    "visual_action": "Cards are dealt on a blue felt table; the player hits on a 13.",
+    "text_overlay": "CAN YOU BEAT THE DEALER?",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Dealer deals cards showing a 10 for the house and 13 for the player.",
+    "Player hits and receives an Ace, bringing the total to 14.",
+    "Player hits again, receives a King, and busts with 24.",
+    "Dealer sweeps the table as the player loses the hand.",
+    "End card displays the game title and an install button."
+  ],
+  "on_screen_text": [
+    "BLACKJACKIST",
+    "CAN YOU BEAT THE DEALER?",
+    "10",
+    "13",
+    "HIT?",
+    "14",
+    "24",
+    "BUST",
+    "BLACKJACK 3D GAME",
+    "INSTALL NOW!"
+  ],
+  "cta_text": "INSTALL NOW!",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#005A8C",
+    "#FFFFFF",
+    "#FFD700"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Adult males 25-55 who enjoy competitive casino-style card games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016680000000000002
+}

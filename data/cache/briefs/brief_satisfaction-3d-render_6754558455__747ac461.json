@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "target_game_id": "6754558455",
+  "title": "No. 048 — Marble Pour ASMR",
+  "hook_3s": "Glossy pastel marbles cascade from a tray in slow-mo, clicking into a labeled box — pure ASMR satisfaction.",
+  "scene_flow": [
+    "0–3s HOOK: Extreme close-up, slow-mo. A lavender tray tilts and glossy orange marbles pour out with crisp click-clack ASMR, landing into a clear box labeled 'ORANGE'. Title card 'No. 048 — MARBLE SORT' stamps in.",
+    "3–6s REVEAL: Camera pulls back to expose the full machine — multiple trays above, a moving conveyor belt mid-frame, and color-labeled boxes below. Marbles of mixed colors roll across the belt.",
+    "6–10s GAMEPLAY: Finger taps a tray; marbles drop, ride the conveyor, and a mis-sorted blue marble nearly lands in the orange box. Overlay: 'Tap to sort!'",
+    "10–13s TENSION → PAYOFF: Player times the next tap perfectly; every marble drops into its matching color box with a satisfying chime. Boxes glow, level-clear sparkle.",
+    "13–15s CTA: Phone mockup shows the App Store badge. Big orange CTA button pulses: 'Play Free'."
+  ],
+  "visual_direction": "Clean, colorful 3D cartoon style with soft rounded shapes — glossy marbles with subtle subsurface highlights, matte pastel machine. Lavender (#E5DFFF) seamless studio background, light grey (#F0F0F8) conveyor and trays, vibrant orange (#FFB13B) accents on labels, title text, and CTA. Macro lens feel in the hook (shallow DOF, slow-mo), then a clean isometric pull-back for gameplay clarity. ASMR sound design: click-clack of marbles, soft mechanical whirr of the conveyor, gentle chime on success. Calm, premium, oddly-satisfying tone — zero clutter.",
+  "text_overlays": [
+    "No. 048 — MARBLE SORT",
+    "So satisfying.",
+    "Tap to release",
+    "Match every color",
+    "Level Clear ✨",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "Adapts the proven ASMR-pour archetype directly onto the core loop: marbles (not flakes) pour from trays into color-labeled boxes, fixing the mechanic mismatch while preserving the satisfaction hook that wins with 25–55 female casual audiences. Lavender + orange palette locks brand identity, and the conveyor reveal at 3–6s telegraphs gameplay before the viewer can scroll. Test against a non-ASMR baseline; given thin cluster signal (1 creative), budget a small read first and scale on IPM lift.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, macro close-up of glossy vibrant orange (#FFB13B) marbles pouring in slow motion from a soft rounded light grey (#F0F0F8) tray into a clear cartoon box labeled 'ORANGE', seamless lavender (#E5DFFF) studio background, on-screen text 'No. 048 — MARBLE SORT' in bold rounded orange typography, Clean and colorful 3D cartoon style with soft, rounded shapes, soft studio lighting, shallow depth of field, premium ASMR product-shot aesthetic",
+    "Storyboard frame, aspect 9:16, isometric three-quarter view of a cute 3D cartoon sorting machine: stacked pastel trays on top, a light grey (#F0F0F8) conveyor belt in the middle carrying multicolored glossy marbles, three labeled color boxes below (orange, blue, pink), lavender (#E5DFFF) background, vibrant orange (#FFB13B) accent on a tappable button, on-screen text 'Tap to sort!' in rounded orange type, Clean and colorful 3D cartoon style with soft, rounded shapes, calm satisfying mood",
+    "Storyboard frame, aspect 9:16, payoff moment showing colored marbles dropping perfectly into matching color-labeled boxes with a soft glow and sparkle particles, lavender (#E5DFFF) background, light grey (#F0F0F8) machine, vibrant orange (#FFB13B) 'Level Clear ✨' badge popping in center, Clean and colorful 3D cartoon style with soft, rounded shapes, glossy marbles, cheerful satisfying lighting"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_bY32jkPTeQpZeUYRozuqQ9Fz?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfYlkzMmprUFRlUXBaZVVZUm96dXFROUZ6P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=FBFAIR7XlvQvxg5j6BDfLQ1o9091Ew-OALtNNkZy0rqxwSu2Ja%7EiFLykLGW-jVRJVFysqY%7E6DKa595Jp85W0OMoZA1FwbbGYThmJ760HTdDsJf3FbK9HZ16Jp2QNKtnUQ2QobOcS28Y7ZzKtwwh2T3ObgI%7EzSijAGnidWHDv54JnQKZh6uanBtlpq9uMxImMqQrS48PTp1SC48Cw4DrXJFVwCIVTvmeqHoMLShoEQPPQRGUNBdsIu2pBSgF3eLEpFtZRjEIjLB-aRE7JIdY%7EIszTLaRO6ovrwN8GBAh6aTpN1VRiBgp3XnEcSCrzzK3H%7E4x6Xt-uSgQXff-Bzpmgkw__",
+  "job_id": "job_K8qJjxHgh46Up9dbvhLXzqHn",
+  "asset_id": "asset_bY32jkPTeQpZeUYRozuqQ9Fz",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect ratio, authentic Helix Jump in-game screenshot: top-down tilted 3D view of a vertical helix tower made of stacked cyan #5CE1E6 ring platforms on a clean light off-white background, one glossy neon ball mid-bounce smashing through a ring with a green #39FF14 shockwave burst, a thin #FF0000 red trap segment visible on the ring just below, score multiplier HUD reading 'COMBO x5' in bold white sans-serif top-center, level progression dots top-left, 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters, no people, no logos, crisp mobile game UI chrome, high contrast, glossy plastic shading.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

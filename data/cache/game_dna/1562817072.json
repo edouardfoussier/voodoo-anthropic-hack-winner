@@ -1,0 +1,29 @@
+{
+  "app_id": "1562817072",
+  "name": "Mob Control",
+  "genre": "Action",
+  "sub_genre": "Hyper-casual",
+  "core_loop": "Player aims a cannon to shoot units through multiplier gates to grow a massive army, defeats an enemy base, earns rewards, and uses them to upgrade their own base and unit cards.",
+  "audience_proxy": "Male-skewing casual gamers aged 18-35 who enjoy satisfying, short-session strategy games.",
+  "visual_style": "Stylized 3D Cartoon",
+  "palette": {
+    "primary_hex": "#5824F5",
+    "secondary_hex": "#00A3FF",
+    "accent_hex": "#FFD12C",
+    "description": "A vibrant and high-contrast palette with a dominant royal purple, complemented by a bright cyan and a warm yellow accent, creating an energetic and engaging feel."
+  },
+  "key_mechanics": [
+    "Aiming and Shooting",
+    "Mob Growth",
+    "Base Building",
+    "Unit Upgrading"
+  ],
+  "character_present": true,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "Massive Crowds",
+    "Multiplier Gates",
+    "Base Building & Upgrading",
+    "Strategic Choices"
+  ]
+}

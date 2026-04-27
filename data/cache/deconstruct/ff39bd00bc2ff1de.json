@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "ff39bd00bc2ff1de",
+    "ad_unit_id": "ff39bd00bc2ff1de",
+    "app_id": "626ce45fed68d5132b481f25",
+    "advertiser_name": "War Thunder Mobile",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/27c9cf74929f7e9e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/27c9cf74929f7e9e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/27c9cf74929f7e9e/preview",
+    "phashion_group": "ff39bd00bc2ff1de",
+    "share": null,
+    "first_seen_at": "2026-02-13T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "War Thunder Mobile lets you drive, sail and fly meticulously modeled WWII and Cold War vehicles in live PvP battles",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A massive explosion on a battleship deck followed by the vessel charging through smoke.",
+    "visual_action": "A close-up explosion on a camouflaged battleship transitions into the ship sailing directly toward the camera through a cloud of black smoke.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Cinematic explosion on the deck of a battleship followed by the ship emerging from smoke.",
+    "Wide shot of the USS Colorado in a naval battle with multiple ships and explosions in the background.",
+    "Close-up of the ship's main battery turrets firing during an intense engagement.",
+    "A seaplane launches from the deck of the battleship and flies over the water.",
+    "Final shot of the seaplane flying past the ship with the game logo appearing on screen."
+  ],
+  "on_screen_text": [
+    "USS Colorado",
+    "WAR THUNDER MOBILE"
+  ],
+  "cta_text": "WAR THUNDER MOBILE",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#1B4F72",
+    "#5D6D7E",
+    "#D35400"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Men 18-45 who enjoy realistic military history and high-fidelity naval combat simulators.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015699999999999998
+}

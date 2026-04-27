@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_cJJuHANUn9a9TkmMfZGWRCZg?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfY0pKdUhBTlVuOWE5VGttTWZaR1dSQ1pnP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=S%7Eq2yWBRCruFxn0k1dFXHV8zclDNYJNwfhfZw5rvIuaWeqiJ4VaHasQVNiT7Tes4Bljk1Bvit7xGf2Qf48ASzpzHfKS0qGHysjWc1ftyyXJ6TppHCwCP%7EOXK4DarCM7bWi5x5vb9X-PjlOB31FXhaayM9EJw1j4IOu97x7ECHxEcJwFdx7ju2ekMvbAUG3p7wv%7EQVV9x%7EEViy-jJ0aI86jpRdkOAnoEMOrfUSRCBTdsnxppOhqz4oHBvRkO7fQ375fyYlLlpwtDnOJ6uGWveIAqPUNjdQJDt9lO5PoNXSf%7E3FOhPzMPDP%7En8aMbm2zZWDIGQHmY3n9XvOsQXghV6Ig__",
+  "job_id": "job_FY2Z6e7WecEmsS4syPijHLV5",
+  "asset_id": "asset_cJJuHANUn9a9TkmMfZGWRCZg",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, authentic Helix Jump gameplay still: cyan (#5CE1E6) ball mid-fall smashing through a stack of pastel helix discs with green (#39FF14) particle burst, red (#FF0000) trap segments visible on the ring below, motion blur trail, light background, multiplier text 'x7' glowing in HUD, overlay text 'ONLY 1% MAKE IT' in bold white sans-serif, 3D minimalist style with simple geometric shapes and high-contrast neon palette, no character on screen, in-game UI chrome intact",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "1444062497",
+  "title": "Snowball ASMR: One Red Dot Eats the City",
+  "hook_3s": "A single red stickman jogs down a pastel street — tap, and 200 bystanders flip red in a satisfying wave.",
+  "scene_flow": [
+    "0–3s: Top-down close-up of ONE lone red stickman on a muted pastel plaza; finger taps screen, nearby neutrals instantly convert red with a soft 'pop' SFX cascade.",
+    "3–7s: Camera pulls back as the red crowd snowballs through low-poly streets, sweeping past parked cars and benches — counter ticks 12 → 84 → 210 in sync with ASMR footstep rumble.",
+    "7–11s: Red wave slams into a smaller BLUE crowd; blues flee, get swallowed, flip red one-by-one. Counter explodes past 400. Timer in HUD shows 0:30.",
+    "11–14s: Massive red ocean of stickmen floods past the Eiffel Tower landmark, consuming a green rival crowd in one satisfying gulp. Score: #1.",
+    "14–15s: Freeze on victory crowd; CTA button pulses."
+  ],
+  "visual_direction": "Authentic Crowd City top-down/3-quarter camera with the signature low-poly pastel city (cream sidewalks, soft beige buildings, mint trees) so the bright primary-red crowd reads as the only saturated element on screen. Lean into the existing HUD chrome: top-left timer, top-right player-count score bubbles in red/blue/green, bottom progress bar. Motion language is swarm-flow — wave-like conversions, fleeing blue stragglers, green crowds getting engulfed — shot to feel ASMR-satisfying (smooth camera glides, no jump cuts), contrasting the competitive chase mechanic with a calm, hypnotic pacing. Palette discipline: #FF0000 hero crowd dominates, #0000FF and #00FF00 rivals as shrinking accents, pastel city as neutral canvas.",
+  "text_overlays": [
+    "Can 1 person take the whole city?",
+    "Tap to swarm →",
+    "210… 480… 900?!",
+    "Eat the blues. Eat the greens.",
+    "You're #1 🏆"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Crowd City rotation is all no-copy video + one playable with zero narrative hook — they're not exploiting the trending 'satisfaction/ASMR' emotional pitch at all. This brief brings that winning archetype but rebuilt around swarm-snowballing (not puzzle-clearing), so it fits Crowd City's actual core loop and won't mis-set expectations like a literal relaxation promise would. UA team: test this against the silent videos as the copy-led, emotion-led variant — expect lift on CTR from the '1 person → whole city' curiosity gap and stronger IPM from accurate gameplay representation.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic Crowd City in-game screenshot: top-down 3-quarter camera over a low-poly pastel city street, one single bright red (#FF0000) stickman character standing alone on a cream sidewalk surrounded by dozens of neutral grey low-poly stickmen mid-conversion, a shrinking blue (#0000FF) rival crowd fleeing in the background, a tiny green (#00FF00) crowd visible near a low-poly Eiffel Tower, signature Crowd City HUD with top-left countdown timer '0:42' and top-right red/blue/green player-count score bubbles, bottom progress bar, on-screen text overlay 'Can 1 person take the whole city?', simple stickman-like character models, colorful low-poly 3D environment, muted pastel buildings, no realistic humans, mobile game UI chrome",
+    "Storyboard frame — swarm wave, aspect 9:16, authentic Crowd City gameplay: 3-quarter overhead view of a massive red (#FF0000) crowd of low-poly stickmen flooding down a pastel low-poly city avenue, a wave of grey neutrals flipping red mid-step, a smaller blue (#0000FF) crowd scattering and being engulfed, green (#00FF00) rival dot in the distance, Crowd City HUD: timer top-left, score bubbles top-right showing red leading, on-screen text overlay '210… 480… 900?!', simple stickman characters, colorful low-poly 3D city, pastel beige buildings and mint trees, no character close-ups, in-game UI fidelity",
+    "Storyboard frame — landmark victory, aspect 9:16, authentic Crowd City endgame shot: huge red (#FF0000) ocean of low-poly stickmen swarming around the low-poly Eiffel Tower in a pastel Paris-style city block, last green (#00FF00) crowd being consumed and flipping red, no blue remaining, Crowd City HUD with timer '0:03' top-left and score bubbles top-right showing red #1, on-screen text overlay 'You're #1 🏆', stickman-like character models, colorful low-poly 3D environment, muted pastel background buildings, mobile hypercasual game UI"
+  ]
+}

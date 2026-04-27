@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 20,
+  "mechanic_match": 10,
+  "audience_match": 25,
+  "overall": 18,
+  "rationale": "This block-fill satisfaction hook is a casual puzzle/ASMR archetype that has almost zero overlap with Archery Clash's PvP archery dueling loop — there is no aiming, shooting, or character moment to anchor the hook, so users clicking through would face a hard expectation mismatch and likely tank D1 retention. The green/yellow/blue palette is coincidentally adjacent to the game's brand colors, but the flat grid aesthetic clashes with the 3D stylized characters and competitive UI mood. Skip unless the team wants to test a hybrid \"fill the bar / power up the shot\" reskin that grafts the satisfaction beat onto an actual archery payoff in seconds 3-6."
+}

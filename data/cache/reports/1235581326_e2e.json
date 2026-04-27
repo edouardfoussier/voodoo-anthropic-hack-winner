@@ -1,0 +1,342 @@
+{
+  "target_game": {
+    "app_id": "1235581326",
+    "name": "Flappy Dunk",
+    "genre": "Arcade",
+    "sub_genre": "Hypercasual",
+    "core_loop": "Tap to keep the avatar airborne, navigate through hoops to score points, and outscore the opponent in a head-to-head match.",
+    "audience_proxy": "Casual gamers of all ages looking for quick, reflex-based competitive gameplay.",
+    "visual_style": "2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors.",
+    "palette": {
+      "primary_hex": "#EAD5A0",
+      "secondary_hex": "#D81155",
+      "accent_hex": "#5CB3FF",
+      "description": "Warm beige backgrounds contrasted with highly saturated magenta banners and bright blue accents."
+    },
+    "key_mechanics": [
+      "tapping",
+      "physics-timing",
+      "scoring",
+      "competing"
+    ],
+    "character_present": true,
+    "ui_mood": "energetic/competitive",
+    "screenshot_signals": [
+      "VS matchmaking screen",
+      "Score comparison UI",
+      "Combo explosion effects",
+      "Call-to-action banners",
+      "Lives/hearts indicator"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 8,
+    "num_phashion_groups": 8
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "other-animation",
+      "label": "Other · animation",
+      "member_creative_ids": [
+        "5d287f88cf4759b9"
+      ],
+      "centroid_hook": {
+        "summary": "Static character art of Goku Ultra Instinct with a prominent 'PLAY NOW!' call to action.",
+        "visual_action": "Goku is depicted charging a blue energy blast against a vibrant, rainbow-colored background with glowing orbs.",
+        "text_overlay": "Dragon Ball Z Dokkan Battle PLAY NOW!",
+        "voiceover_transcript": null,
+        "emotional_pitch": "other"
+      },
+      "palette_hex": [
+        "#00BFFF",
+        "#FFFF00",
+        "#FF00FF"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.745,
+      "derivative_spread": 1.0,
+      "freshness_days": 620.0,
+      "overall_signal_score": 1.06,
+      "rationale": "1 creatives across 1 unique advertisers, average age 620d (velocity source: sov). Hook representative: \"Static character art of Goku Ultra Instinct with a prominent 'PLAY NOW!' call to\""
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "label": "Satisfaction · animation",
+      "member_creative_ids": [
+        "f41b68dd7e9c7ab2"
+      ],
+      "centroid_hook": {
+        "summary": "Goku SSJ3 performs his iconic Dragon Fist attack.",
+        "visual_action": "Goku charges energy and punches forward, summoning a massive golden dragon.",
+        "text_overlay": "Dragon Fist!!!",
+        "voiceover_transcript": "Dragon Fist!!!",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#FFD700",
+        "#1E3A8A",
+        "#4B0082"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.745,
+      "derivative_spread": 1.0,
+      "freshness_days": 717.0,
+      "overall_signal_score": 1.058,
+      "rationale": "1 creatives across 1 unique advertisers, average age 717d (velocity source: sov). Hook representative: \"Goku SSJ3 performs his iconic Dragon Fist attack.\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "bdf6fd7b1032fa14",
+        "5ba7458dea1165c1"
+      ],
+      "centroid_hook": {
+        "summary": "A hand uses a stylus to solve a bus-sorting puzzle while the narrator asks a question about relaxation.",
+        "visual_action": "A hand with a stylus slides colorful buses around a crowded parking lot to clear a path for passengers.",
+        "text_overlay": "Hey! Played a game that Actually makes you Feel relaxed?",
+        "voiceover_transcript": "Hey! Have you ever played a game that actually makes you feel relaxed?",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#4A90E2",
+        "#9B51E0",
+        "#F2994A"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.034,
+      "derivative_spread": 1.0,
+      "freshness_days": 114.0,
+      "overall_signal_score": 0.829,
+      "rationale": "2 creatives across 2 unique advertisers, average age 114d (velocity source: sov). Hook representative: \"A hand uses a stylus to solve a bus-sorting puzzle while the narrator asks a que\""
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "label": "Curiosity · animation",
+      "member_creative_ids": [
+        "0d364815e2ca3d52"
+      ],
+      "centroid_hook": {
+        "summary": "Revealing secret underground bunkers beneath famous landmarks like the Eiffel Tower.",
+        "visual_action": "A cross-section view pans down from the Eiffel Tower to show a complex multi-story underground shelter.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#2c3e50",
+        "#d35400",
+        "#2d5a27"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.128,
+      "derivative_spread": 1.0,
+      "freshness_days": 328.0,
+      "overall_signal_score": 0.824,
+      "rationale": "1 creatives across 1 unique advertisers, average age 328d (velocity source: sov). Hook representative: \"Revealing secret underground bunkers beneath famous landmarks like the Eiffel To\""
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "label": "Fail · in-game",
+      "member_creative_ids": [
+        "0f1d747b3e7d863f"
+      ],
+      "centroid_hook": {
+        "summary": "A player attempts a difficult level and immediately fails by crashing a bus.",
+        "visual_action": "A hand cursor moves a purple bus, then crashes a red bus into a green one.",
+        "text_overlay": "WHY THIS LEVEL IS SO HARD, CAN YOU WIN?",
+        "voiceover_transcript": null,
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#FFFFFF",
+        "#4CAF50",
+        "#F44336"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.976,
+      "derivative_spread": 1.0,
+      "freshness_days": 259.0,
+      "overall_signal_score": 0.769,
+      "rationale": "1 creatives across 1 unique advertisers, average age 259d (velocity source: sov). Hook representative: \"A player attempts a difficult level and immediately fails by crashing a bus.\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "other-animation",
+      "visual_match": 25,
+      "mechanic_match": 10,
+      "audience_match": 30,
+      "overall": 18,
+      "rationale": "This is a static IP-driven anime hook for Dragon Ball Z Dokkan Battle — it leans on licensed character recognition and a gacha/RPG audience, neither of which Flappy Dunk can authentically replicate. Visually the saturated rainbow + neon palette clashes with Flappy Dunk's warm beige/magenta cartoon look, and mechanically a static charging-energy-blast frame communicates nothing about tap-to-fly hoop physics or VS scoring. Skip this archetype: borrowing the format risks IP/legal friction and would mis-target anime-RPG users who churn fast on hypercasual arcade loops."
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "visual_match": 18,
+      "mechanic_match": 10,
+      "audience_match": 25,
+      "overall": 15,
+      "rationale": "Hard pass. The Dragon Ball anime power-fantasy palette (gold/navy/indigo) and licensed-IP hero hook have zero overlap with Flappy Dunk's flat 2D cartoon basketball aesthetic, magenta/beige palette, or its tap-timing arcade loop — there's no way to bridge a Goku punch animation to hoop-tapping gameplay without misleading users and tanking IPM. Additionally, leveraging Goku/Dragon Ball IP is a trademark/copyright liability that ad networks and Apple will likely reject, and the shonen anime male-teen audience skews far narrower than Flappy Dunk's all-ages casual base."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 22,
+      "mechanic_match": 15,
+      "audience_match": 55,
+      "overall": 25,
+      "rationale": "Major friction: the bus-sorting puzzle hook telegraphs a slow, \"relaxing\" sort/puzzle game, which directly contradicts Flappy Dunk's energetic, reflex-based tap-to-fly competitive loop — viewers tapping in expecting a sorter will bounce on first session. Visually the cool blue/purple/orange member palette and stylus-hand POV clash with the warm-beige + magenta cartoon arcade DNA and the missing avatar/VS framing. Audience overlap is the only weak bridge (broad casual hypercasual users), so do NOT adopt this archetype as-is; at most, borrow only the \"Hey! Have you ever played...\" VO opener and reskin with hoop-chaining combo footage."
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "visual_match": 15,
+      "mechanic_match": 8,
+      "audience_match": 25,
+      "overall": 15,
+      "rationale": "This archetype is a hard mismatch for Flappy Dunk: the muted earth-tone palette (navy/burnt orange/forest green) and architectural cross-section animation directly contradict the game's flat 2D cartoon style with vibrant magenta/beige/blue and a tappable avatar. There is also no plausible bridge from \"secret bunker reveal\" to a tap-timing hoop-scoring loop, so any attempt would feel bait-and-switch and likely tank IPM despite the curiosity hook's broad appeal. Skip this archetype unless we're testing a deliberate misdirection meta-creative, and even then the cluster has only 1 ad / 1 advertiser — too thin a signal to justify production spend."
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "visual_match": 18,
+      "mechanic_match": 22,
+      "audience_match": 55,
+      "overall": 25,
+      "rationale": "The \"fail with a crashing bus\" hook is rooted in puzzle/parking/draw-line gameplay and has zero overlap with Flappy Dunk's tap-to-fly hoop loop — there are no vehicles, no cursor-drag mechanic, and no level-fail moment to misrepresent honestly. Palette (white/green/red) and the cursor-driven visual language also clash with the game's bold magenta/beige 2D cartoon VS aesthetic. Audience (hypercasual fail-bait viewers) does broadly overlap, but adapting this archetype would require a full re-skin to a \"tap-and-miss-the-hoop\" fail concept, at which point it's no longer this cluster — recommend skipping."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "1235581326",
+        "title": "\"Ever Played Something This Satisfying?\" — Hoop-Chain Combo Reskin",
+        "hook_3s": "\"Hey! Ever played a game that's actually this satisfying?\" — ball swooshes through three magenta hoops in a row, combo counter EXPLODES on screen.",
+        "scene_flow": [
+          "0-3s HOOK: Phone-in-hand POV on warm beige court background; finger taps screen, ball flap-bounces through first magenta hoop with a crisp swoosh as VO drops the 'Hey! Ever played...' opener.",
+          "3-7s ESCALATE: Camera tightens; ball chains through 3 hoops back-to-back, blue accent combo trails streak across screen, x2 → x3 → x5 multiplier numbers pop in flat-shaded cartoon style.",
+          "7-11s VS MOMENT: Screen splits — player score racing ahead of opponent score in classic Flappy Dunk VS HUD; magenta banner flashes 'COMBO!' as the lead widens.",
+          "11-14s PAYOFF: Final perfect swoosh, hearts indicator full, confetti burst in primary palette, score lands on a clean round number with a satisfying chime.",
+          "14-15s CTA: Logo lockup on beige with magenta 'PLAY FREE' button pulsing."
+        ],
+        "visual_direction": "Lock to Flappy Dunk's signature 2D cartoon DNA: thick black outlines, flat shading, warm beige (#EAD5A0) court backdrop, saturated magenta (#D81155) hoops and banners, bright blue (#5CB3FF) ball trail and combo accents. Keep the authentic in-game HUD — VS bar at top, score counter, hearts indicator — visible at all times so viewers recognize the actual game. No 3D, no realistic shading, no stylus-hand POV; the only finger shown is a real thumb tapping the bottom edge of the phone frame.",
+        "text_overlays": [
+          "Ever played something THIS satisfying?",
+          "Tap. Flap. Swoosh.",
+          "COMBO x5 🔥",
+          "Beat your rival",
+          "PLAY FREE"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Flappy Dunk rotation leans on generic \"best basketball game\" video claims and a silent playable — zero satisfaction-pitch or VO-opener hooks. This brief imports the trending \"Hey! Ever played a game that...\" opener (proven across 2 advertisers) but reskins it onto authentic hoop-chain combo footage, so we keep the archetype's scroll-stopping curiosity bait without the puzzle-game bait-and-switch that would tank D1. UA team: A/B this against the YouTube \"Best basketball game ever\" cuts — same audience, fresher emotional angle.",
+        "scenario_prompts": [
+          "Vertical 9:16 mobile gameplay frame of Flappy Dunk: a bright blue (#5CB3FF) basketball mid-air arcing through a saturated magenta (#D81155) hoop against a warm beige (#EAD5A0) court background, thick black outlines, flat shading, vibrant high-contrast 2D cartoon style, authentic in-game HUD visible — VS score bar at top showing player ahead, hearts indicator, combo multiplier 'x3' popping in chunky cartoon numerals, blue motion trail behind the ball, bold on-screen text overlay 'Ever played something THIS satisfying?' in white with black outline at upper third, no characters, no stylus, no hands. [Audio: VO 'Hey! Ever played a game that's actually this satisfying?' / punchy upbeat 120bpm arcade trap with playful synth bells / crisp swoosh on hoop pass at 1.0s, rising chime on combo at 2.5s]",
+          "Vertical 9:16 Flappy Dunk gameplay still: three magenta (#D81155) hoops stacked diagonally across a warm beige (#EAD5A0) sky, a glowing blue (#5CB3FF) ball streaking through all three with a ribbon-like trail, thick black outlines, flat shading, vibrant high-contrast 2D cartoon style, authentic Flappy Dunk HUD with score counter rapidly ticking up and 'COMBO x5 🔥' banner flashing in magenta, hearts indicator full in corner, on-screen overlay text 'Tap. Flap. Swoosh.' in bold white-with-black-outline cartoon font. [Audio: VO 'Three in a row — wait, FIVE?!' / energetic 128bpm competitive arcade beat with hand-claps / triple swoosh staccato then combo explosion SFX at 3s]",
+          "Vertical 9:16 Flappy Dunk VS-screen moment: split-screen score comparison UI with player side glowing blue (#5CB3FF) leading 47-12 over opponent on warm beige (#EAD5A0) background, magenta (#D81155) banner across middle reading 'BEAT YOUR RIVAL', thick black outlines, flat shading, vibrant high-contrast 2D cartoon style, authentic Flappy Dunk hoops and ball visible mid-action behind the HUD, hearts indicator and combo meter present, big rounded magenta 'PLAY FREE' button pulsing at bottom with on-screen overlay text 'PLAY FREE'. [Audio: VO 'Your move.' / triumphant 130bpm competitive sting with crowd-cheer accent / victory chime at 1s, button-tap click at 4s]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_qkhS5ZyhMMis2JAjjefjhzSQ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcWtoUzVaeWhNTWlzMkpBamplZmpoelNRP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=XUVoClwWuO%7EDJa0YVO8QCWLqHVbhqfqLVwuWBfBgbEJt8-76OEXZoay6R86WdgDR74NyJN0OToA1WjQpmBc36nc-ecJBVKyNQQDt0gw-qwMyJDCqqakrutcXJiZHqvPDsC3SxlzKh3ziiR0EsCGmZFh1QM9YfzkmcpaqmHfbQgUjsy8TVRfZii3jO8ZbGOfUMYk%7ERpCNeNz78hAy8CR8L0ubaFBAfEB1LBl4-GNMmpI1fdZCmoL-rfMHebWhdRqlsthAR%7Ec1RS95hrL5y1jhluUUoI2PN51%7E-EVZuaEA-ZQo9IpDyIPpIpN74a9tZzt5Cog41t22h2eQOE3HLeyneQ__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_tqbWAByYb7MH1KnrUChBMNdv?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdHFiV0FCeVliN01IMUtuclVDaEJNTmR2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YBHCmj9Nv%7ERD0GDfFhd434MQJZs72EO5kDGijQ%7E1zWql9siXqAyUsUqebonlwOaeSVumKsyXoaa5heCCxhpDaGFJhzm1rgIOr87RE5kHsV%7Efu1p2v34tzlkdymbJYU2slhF5feSrtuqTsRVhdUT0Q8csmo2LToB%7EJ5ofxXbVyUwsGnMqDjwzYwnQsfDUZ2LmvZHwsoZwWJiiqdKASC1eM4RKYEFZ4FcpUYUevI8KdfXnbzoLdijY9d1dk3JAl15NAHd2GNij2SaUon0LsY2Sy3ryLD01FRh%7EQM1IuSJGjSixoXLwTf8raGsbNbdOls4hxU38aKZU%7E%7EZwULl83syQsA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_oUwBs5QSG3TPQkqXatcLZd49?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfb1V3QnM1UVNHM1RQUWtxWGF0Y0xaZDQ5P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=J%7EU9FbyCoNnGclvlu4nHz41%7ED8D17e%7EjBZRxOnzY7eEPMXunOJ4gMeJB2zpPFUOx90wOPFIU0mXsUXOgWnBqAOv6NSrPKlqz7tSaOSnnI1vKYKWw%7Ec8xXUjaKWHcvLXx9UasIt5b7pdeOCZwTFDCBiT%7E0MaYVMS7x9GAX4Gu4XEAhyVcxNn%7EDdEveJGCj7N9076NGGH0PRZ%7EOmCeflognHHqR2tiYBa9%7ELUamtSxl-KjrX501zsKelOf5le7YYQUCxus52phw9TMUi2OU4gHfvEd5Sph4MXUVm-9vKHs6lMNi5RaQ69rMNXARQk8GFg9i5zBXXuupwzb7AK2ejSwSw__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=0.83 × game_fit=25/100 ⇒ priority=0.21"
+    },
+    {
+      "brief": {
+        "archetype_id": "fail-in-game",
+        "target_game_id": "1235581326",
+        "title": "Flappy Dunk · \"Why This Hoop Is So Hard\" Fail Bait",
+        "hook_3s": "A player taps too late — the ball clips the rim, ricochets off three hoops and faceplants on the beige court. \"Bet you can't beat this.\"",
+        "scene_flow": [
+          "0-3s: Cold open mid-match. VS HUD visible (player vs opponent score 0-0). A finger taps; ball arcs toward a magenta hoop and CLANGS the rim — slow-mo wobble.",
+          "3-7s: Ball pinballs between two more hoops, lives/hearts indicator drains from 3 to 1. Big text overlay: 'WHY THIS LEVEL IS SO HARD'.",
+          "7-11s: Cursor-style finger retries — taps too early, ball nosedives past the final hoop, opponent scores. Red 'MISS' stamp + combo break shatter FX.",
+          "11-14s: Quick cut montage of three near-miss attempts ending in cartoon faceplants on the beige court.",
+          "14-15s: Freeze on losing scoreboard. CTA banner slams in: 'CAN YOU WIN?' with Install button."
+        ],
+        "visual_direction": "Lean fully into the Flappy Dunk DNA: warm beige (#EAD5A0) court background, saturated magenta (#D81155) hoops and banners, bright blue (#5CB3FF) ball trail and accent UI. Thick black outlines on every object, flat shading, no gradients. Keep the authentic VS matchmaking HUD, lives/hearts row, and combo counter on-screen at all times. Camera stays locked in the standard side-on gameplay framing — the only \"ad\" layer is bold sans-serif overlay text and a giant cursor-finger to sell the fail-bait trope.",
+        "text_overlays": [
+          "WHY THIS HOOP IS SO HARD 😤",
+          "Tap too early…",
+          "Tap too late…",
+          "MISS!",
+          "CAN YOU WIN?"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Flappy Dunk rotation is all \"best basketball game\" brag-video and silent playables — they have ZERO fail-bait creatives, despite fail-in-game being a proven hypercasual scroll-stopper. This brief plugs that gap by importing the archetype's challenge-frame (\"can you win?\") while staying mechanically honest to tap-timing hoop play. UA team: A/B this against the YouTube brag videos on TikTok/Reels where fail-bait outperforms boast-led copy.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, authentic Flappy Dunk in-game screenshot: blue basketball mid-bounce clipping the rim of a magenta (#D81155) hoop on a warm beige (#EAD5A0) court background, bright blue (#5CB3FF) motion trail, thick black outlines, flat shading, vibrant high-contrast colors, 2D cartoon style. On-screen HUD: VS scoreboard top-center showing 0-2, three hearts in top-left with one greyed out, combo counter '0x'. Giant white cursor-finger overlay tapping the screen. Bold black sans-serif overlay text: 'WHY THIS HOOP IS SO HARD 😤'. No human character. [Audio: VO (frustrated gen-z) 'bro this level is RIGGED' / punchy upbeat trap 128bpm with competitive snare rolls / clang-on-rim at 0.8s, whoosh on cursor tap, fail-buzzer at 4.5s]",
+          "Storyboard frame, aspect 9:16, Flappy Dunk gameplay still: blue ball nosediving below a magenta hoop ring, beige (#EAD5A0) court, blue (#5CB3FF) trail breaking apart into particles, red 'MISS!' stamp slammed across center, magenta (#D81155) banner at bottom, thick black outlines, flat shading, 2D cartoon style, vibrant high-contrast colors. HUD shows lives indicator at 1 heart, opponent score ticking up. Overlay text: 'TAP TOO LATE…'. [Audio: VO 'NO WAY' / energetic competitive trap 128bpm / shatter SFX on miss, crowd 'ooooh' sting at 2s, heart-loss blip at 3s]",
+          "Storyboard frame, aspect 9:16, Flappy Dunk end-card: losing scoreboard center-screen on warm beige (#EAD5A0) background, magenta (#D81155) CTA banner reading 'CAN YOU WIN?' with bright blue (#5CB3FF) Install button, blue basketball deflated next to a magenta hoop, thick black outlines, flat shading, vibrant high-contrast 2D cartoon style. Bold overlay text: 'CAN YOU WIN?'. No character on screen. [Audio: VO (taunting) 'only 3% finish this — prove me wrong' / triumphant competitive trap drop 130bpm / button-tap chime at 1s, coin-jingle on CTA reveal at 2.5s]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_XpCMj6zbTFrNx5XAvZ8YG5K3?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWHBDTWo2emJURnJOeDVYQXZaOFlHNUszP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=pJSG-%7EeYfCzbaLim5FtZHaReGx8EwJQ912ItEpi1bOwgEm2Axpup-p3Bk28TOfSZ8Av3aZQbmq%7EIpvdtPx0DuWZzCJT0iAJZ7PLJKcGZRRVw4swMHtPcvvh62H-XQKl26tZ3yIYyrmj2-QY%7ESJbKm%7EdsySTKDUp4vEJzNokbySoYRHu3yiVlBaEuyuiXkJForuSM2aOovlVtiJ%7EbsVWsNz180A3LFS5SCMNF-FxTB1u6dwq5Sup8tutmKz0sV1m8vflVnCvFlXzIh0IBNedkcuJ0qnsf74l%7ExXnZ%7ErSzEMrsaRi-p-nRpdhsQS3yjYIr6tXjUgak94pLWD6taaeK4g__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_hMm7cvKBZU4qfPxxDQLFzPhd?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfaE1tN2N2S0JaVTRxZlB4eERRTEZ6UGhkP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=SVxj3s6wWb9QGflT2lGOC4K3JIpKwZ-eLh3AYJh1kghmSzAAgioUqFQmqwcWn7BR2MQltbmgQhT-7SKIWOxx-ppitL%7EnMSVYfysk3FVdWWeogDDKWlkLR6yymbEJh0hAKwhudkZDgxbvg30tbV26MT2YFSQM7pTU7e1N1-A0v7puUavwhxbsHB800OspPIMnKPj%7E6Fh9%7EqYiJbj1Y3uHH1IvlgaUYd-7wUhHdCiRKiVdHczVIFYy8AjstlukFI2742he2EcmnQJ4QmqBZmgDWkXIMdCiZD9doAmHOAwobZoZvpbcfsvkKdDSihppcBV%7EbU9X7ZtP8OqD9NESk4Ps7g__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_MWCs7Y29iDtMzgt7S7xz1DVY?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTVdDczdZMjlpRHRNemd0N1M3eHoxRFZZP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=UCjKt-HRU6mFuuttOxrcK1XN3xkhRjWss1FdLD%7EugiH48Zqlu1HZZpWZ8Tn85rXdXnEnKwch74nP7lQPIEhKSPFCAiLAORVOiEKck1ZVuL2CHFFrGQcNTU9Y1hGogl9s82U4ESyBQCsPzvuNs%7EGksXbdNlanatBPwtVqTUTACI0h1T49kd71EhKNuKpeOMpEIzlu34HJZqTCg7IFmLLUwGvYwL2BB8XEaDPReviMjNCUdiM28yUTmDYz1nVkY3GWs0fWEes%7EllrwNtHluntjdczo4GygDiDVltV7vked32vrl4vqkC-CqKwDLPOTyU4mOetBDbaxM4e6RpqjFQdTiw__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.77 × game_fit=25/100 ⇒ priority=0.19"
+    },
+    {
+      "brief": {
+        "archetype_id": "other-animation",
+        "target_game_id": "1235581326",
+        "title": "Hero Pose: Champion Ball vs. Rival",
+        "hook_3s": "A glowing basketball charges up mid-air between two hoops as a magenta \"VS\" banner slams onto the screen — PLAY NOW!",
+        "scene_flow": [
+          "0-3s: Hero frame — the Flappy Dunk basketball hovers center-screen between two hoops, crackling with blue energy aura, beige court backdrop, giant magenta 'PLAY NOW!' banner slams in.",
+          "3-7s: Quick gameplay cut — finger taps, ball flap-bounces through three hoops in rapid succession, score counter ticks 1→2→3 with combo flash.",
+          "7-11s: Split-screen VS — player ball (blue trail) vs rival ball (magenta trail) racing through parallel hoop lanes, score comparison UI on top.",
+          "11-14s: Player ball nails a buzzer-beater hoop, rival ball clips the rim and falls, 'WINNER!' stamp explodes in magenta.",
+          "14-15s: End card — logo + giant blue 'PLAY NOW!' CTA button pulsing."
+        ],
+        "visual_direction": "Lean fully into Flappy Dunk's signature 2D cartoon look: thick black outlines, flat shading, warm beige (#EAD5A0) court/sky background, saturated magenta (#D81155) banners and rival accents, bright blue (#5CB3FF) energy aura and player trail. Hero frame mimics a comic-book splash page — static, iconic, poster-like — so the basketball reads as the \"character\" the way Goku does in the source archetype. Keep the in-game HUD (score counter, lives/hearts, combo burst) visible to anchor authenticity.",
+        "text_overlays": [
+          "PLAY NOW!",
+          "TAP TO FLY",
+          "3X COMBO!",
+          "VS RIVAL",
+          "WINNER!",
+          "FLAPPY DUNK"
+        ],
+        "cta": "Play Now!",
+        "rationale": "Voodoo's current Flappy Dunk rotation is all gameplay-video and a single playable — they have zero static \"hero pose + giant CTA\" poster creatives, which is exactly the underrepresented archetype trending in the scan. We adapt the Goku-splash formula by treating the basketball itself as the iconic hero (no IP risk, no invented character) and lean on the game's native magenta banner DNA. UA team: run this as a thumbnail-first asset on networks where strong static stopping power outperforms gameplay loops (Meta, TikTok feed).",
+        "scenario_prompts": [
+          "Hero splash frame, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors. A glowing orange basketball hovers center-frame between two cartoon basketball hoops with magenta nets, crackling blue (#5CB3FF) energy aura swirling around it, warm beige (#EAD5A0) sky background with simple flat clouds, in-game Flappy Dunk score counter '00' top-center and tiny heart lives indicator top-left, giant bold magenta (#D81155) banner across lower third reading 'PLAY NOW!' in chunky white outlined letters, poster-style composition, no human character. [Audio: VO 'Can you beat the champ? Play now!' / punchy upbeat trap 128 BPM with brassy hit / energy-charge whoosh at 0.5s, deep bass drop on banner slam at 1.2s]",
+          "Storyboard frame — combo moment, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors. Side-view of the Flappy Dunk basketball mid-flap arcing through a magenta (#D81155) hoop with net swooshing, bright blue (#5CB3FF) motion trail behind it, two more hoops lined up to the right, beige (#EAD5A0) background, score UI '03' top-center with combo burst star, bold white-outlined overlay text '3X COMBO!' diagonal across upper-right in magenta. [Audio: no VO / energetic competitive synth-trap 130 BPM / triple chime ascending on each hoop pass, crowd cheer swell at 1s]",
+          "Storyboard frame — VS split moment, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors. Vertical split-screen: left lane shows blue-trailed player basketball clearing a hoop, right lane shows magenta-trailed rival basketball clipping the rim, jagged black 'VS' bolt down the center seam, beige (#EAD5A0) court backdrop both sides, score comparison UI top reading 'YOU 4 — RIVAL 2', bold magenta (#D81155) banner bottom reading 'WINNER!'. [Audio: VO 'You win!' triumphant / competitive trap 132 BPM with stadium horn / rim-clang fail SFX right side at 0.8s, victory chime left side at 1.5s]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_a57PbNQ9Nb5VMCaY7UQkfPYT?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfYTU3UGJOUTlOYjVWTUNhWTdVUWtmUFlUP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=RcBjxRHejeFOh4sFfjo65zsLIuFWBh6JMiOF9Fh9YRBRL%7E5AbDqoAJb4hNav0I9U7T%7EbP%7Ea8LPaaqH3mfKU%7EjNgi6zHOBxuvIWFnlVcSzg8g4DOAmIBQdYeqDUQBCwuqIV7Iitrp5IbvG0abRut0xoaeiuuZjbh%7Ex2dPUafFEmZlMxJHXstYeuJmPaJmmO29p%7ElHQEhlBM5KrM%7EMUENZE2qYDJ9M8Fiahb3rKfHTXhSe4j1%7ExRl5Gcrx3MHTnNnR0UYh6zvdZeqn-J7RcAawh-izl7HERyMgtISPaOjUXNfwqv3rtDYy2McXlxQZtzvIPE4v%7E3s5BbQrBquhHQc4Gg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_qJhoov6zv1wDW1EvHmvSKSV4?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcUpob292Nnp2MXdEVzFFdkhtdlNLU1Y0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ISjg3JSxN-QTZxlnOA9RVx1nmtRclWf9qIJUa8v5Vjy0y7Y2SICGGQg8hPYUC%7EN7YB2lZaah8WdP052ZVcsvleOyoqRtyhzD7-VOSjFzi8r9q1S2uZv%7E3me4p1hOj6VTNZKrUz0%7EsgdxtD33obevrbwSF5g9zFbzsa3ZXOukrcvKeYkNwPQK0mK%7EEfQkxhAvXh89%7EmbhDrvzjscDQL5ZDj-n-oq4WaFWJIkWdztXuzSboZSfuwZYaRAeGKiXILcRtrEmsR%7EyGj3N0gq5OtyRLA3G6FBmeka1LzQyQfccehBDgtxhflKWG1iZIfoul9cKzL8j58WhGuH1fb-DWTm7uQ__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_uNwxftzZyQKSrseMfiCj268r?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdU53eGZ0elp5UUtTcnNlTWZpQ2oyNjhyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=QxebR%7EFxSwYlqGXjvFeynLtZYFlnEnLp0A%7ENX3B2NkF-%7EhZ2ixXon2cIxgS2lvQWULeOpeHwr4sR795WgHGY-xhrgjZP-MXlgexzjq7OkG%7EQgZPSWSlGyMPGdK3iX7SkiJAAvxu5oAGFB4flybM1Phtmre24P9YIJt7P7M2E2KZGATRfgYEjtwBB7qLAHtajZP9WTOB-D0uKjj303MjXqNBZjMGn2oQTktXmlFIu%7EzmU%7EYga9h1h15MOitJIYorKC-H9BpQkolKa2j1qqzcHbEkNASg7CF3NYqYHOHbxQTEjKPJuutuYcfabvMuzuWhHgunugDQYbssRQ5fj%7Eibmww__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=1.06 × game_fit=18/100 ⇒ priority=0.19"
+    }
+  ],
+  "pipeline_duration_seconds": 383.42087300099956,
+  "total_cost_usd": 0.012067000000000001,
+  "generated_at": "2026-04-26T12:40:39.583927Z"
+}

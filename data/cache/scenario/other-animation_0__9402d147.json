@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_XdfVm8WSFs6MsMpwxVsVo4Y1?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWGRmVm04V1NGczZNc01wd3hWc1ZvNFkxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=JEKIVg8a4lHTo6EWaofnElu99o5SEFNKsXK4KSsGAMBKZn-%7ElKkyzIfErYh5pf-UdmrQhrcBE5cbbwCPBrnNf%7Ejh2Ttv0ZsZ-yywe4Z1GMSWJ4r2WlmjKcQyw7K65CrSgrjlxqtA-pz7KzJz%7EK3Hf39u6PpQmG8ZIn%7EOl6nK0ct38TegLPTdr-LTyqxHAVhql-v-p1do74-C41bZFQSRBgluGTXQN8ouul-FDHb5XMAG1L8bJl4rUF9U98Cn-BhfZsB6FAQnc0kBcbIygiZcMFf9g%7ERa6fTHv02IrLJxwerS4CJAl30cQGPR1LWNJ0vmXdNZ4PoOxJIfwBCsDYk7wQ__",
+  "job_id": "job_FCztHPJTf4dP2pnW8MxXixn2",
+  "asset_id": "asset_XdfVm8WSFs6MsMpwxVsVo4Y1",
+  "stub": false,
+  "prompt": "Hero splash frame, aspect 9:16, Roof Rails in-game style: a low-poly 3D minimalist runner character standing heroically on the edge of a stark white #EAF6FA rooftop, holding a long horizontal balancing pole overhead that glows with bright cyan #5CD6FF energy and small floating yellow #FFC824 pole-piece collectibles orbiting it, pastel cyan sky with soft glowing orbs, distant simple-geometry pastel skyscrapers, vibrant yellow diamond currency icon and level indicator HUD in top corners, clean uncluttered aesthetic, bold on-screen text 'ARE YOU FAST ENOUGH?' in chunky white sans-serif at top, authentic Roof Rails IP-adapter look, bright pastel colors. [Audio: VO (confident hype): 'Think you've got the balance?' / energetic competitive 128bpm electro-pop with punchy claps / whoosh build-up, cyan energy crackle, chime on title pop-in at 2s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "28bb033a4ed283ad",
+    "ad_unit_id": "28bb033a4ed283ad",
+    "app_id": "6024d92ffc2aa03e6d63fad7",
+    "advertiser_name": "Umamusume: Pretty Derby",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/preview",
+    "phashion_group": "28bb033a4ed283ad",
+    "share": null,
+    "first_seen_at": "2026-02-13T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Trainers Wanted!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Character training interface showing stat gains followed by a race start.",
+    "visual_action": "Split-screen showing a character portrait on the left and gameplay footage of training and racing on the right.",
+    "text_overlay": "Train your Umamusume!",
+    "voiceover_transcript": "Kimi to hashiri nukete...",
+    "emotional_pitch": "tutorial"
+  },
+  "scene_flow": [
+    "Introduction of character Agnes Tachyon with training gameplay showing stat increases and a success message.",
+    "Transition to a race sequence featuring the characters running on a turf track with the text 'Watch them race!'.",
+    "Close-up of the character in a lab coat transitioning to a high-energy idol concert performance.",
+    "Full group shot of the cast on stage with confetti and celebratory atmosphere.",
+    "Final end card with game title, download buttons, and 'Play Now' call to action."
+  ],
+  "on_screen_text": [
+    "Agnes Tachyon",
+    "Voice: Sumire Uesaka",
+    "Train your Umamusume!",
+    "SUCCESS!",
+    "Watch them race!",
+    "Celebrate with winning concerts!",
+    "Umamusume Pretty Derby",
+    "Play Now!"
+  ],
+  "cta_text": "Play Now!",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#4CAF50",
+    "#2196F3"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Young adult anime enthusiasts who enjoy character collection and management simulators.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017100000000000001
+}

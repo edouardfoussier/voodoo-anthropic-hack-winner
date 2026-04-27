@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_jEGAu46Cwi5gr4KAjwi2D2ho?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfakVHQXU0NkN3aTVncjRLQWp3aTJEMmhvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=l%7EER-AxfcXA%7EME6d63oTTL5OdrTFbRkbAljVuZ5Ol9-E4N1ly82zKevwH3x0zh7eWklsk7ZOdu8avJCLV7th1gENEPEgSGfPZB-vkkeRxFo2fTvm6FNBVic9kJpo9ydwxnjMY9VEv5bho11i6guSaA7yljVw%7EUiG6RB76MZpaSTA1yGD9P0esw8stW09i5pRd9rtbD%7EgmScOUaceLTF0vccvM4su4q%7EL2Dej1ap3TxH2nO2BKBtveCiyZqDjqiPpNPHfe6YdycywyIMd50-BWN4axJ%7EqQoCT-uajVNG1eeP1lNp7Dy4u3kGK1vrFhXQ-4YTw8uhRvYeQGYivybXc2g__",
+  "job_id": "job_qM5u7QUULoRqWYYeLKAkycSm",
+  "asset_id": "asset_jEGAu46Cwi5gr4KAjwi2D2ho",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, vertical end-card style still of Solitaire - Voodoo Card Game! authentic gameplay: classic 2D flat traditional green felt background (#1A874B) with completed foundation piles of white cards (#FFFFFF) topped by red Kings of Hearts and Diamonds (#E31C1B), subtle confetti over the felt, timer frozen with seconds remaining, score counter at peak, undo and finish buttons in their live positions, identical UI chrome to reference screenshots, no characters, bold red and white overlay text 'Beat the timer \u2014 Play Free' lower third, casino-card fidelity, no stock-game clich\u00e9s",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

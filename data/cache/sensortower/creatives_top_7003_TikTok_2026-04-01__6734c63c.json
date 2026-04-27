@@ -1,0 +1,396 @@
+{
+  "count": 339,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "e4ce88977e588e50",
+      "app_id": "66c292ff6bbfce0e306de36b",
+      "network": "TikTok",
+      "phashion_group": "e4ce88977e588e50",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "e4ce88977e588e50",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/81db4098e41d387d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/81db4098e41d387d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/81db4098e41d387d/thumb",
+          "video_duration": 10,
+          "width": 720,
+          "height": 1280,
+          "message": "\u30dd\u30b1\u30dd\u30b1\u306f\u3001\u30d0\u30c8\u30eb\u3060\u3051\u3058\u3083\u306a\u3044\uff01\u6c17\u8efd\u306b\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u3092\u697d\u3057\u3082\u3046"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66c292ff6bbfce0e306de36b",
+        "canonical_country": "US",
+        "name": "Pok\u00e9mon TCG Pocket",
+        "publisher_name": "The Pok\u00e9mon Company",
+        "publisher_id": "561542d73f07e25d2903e682",
+        "humanized_name": "Pok\u00e9mon TCG Pocket",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f4/f6/07f4f628-905e-6843-613f-2c59038004be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66c292ff6bbfce0e306de36b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "54448d58b3a95c5d",
+      "app_id": "655983974d03db5427337fe3",
+      "network": "TikTok",
+      "phashion_group": "54448d58b3a95c5d",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-28",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "54448d58b3a95c5d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7f349cd02af71b7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7f349cd02af71b7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7f349cd02af71b7/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "TOEIC900\u306b\u5fc5\u8981\u306a\u300c\u5358\u8a9e\u529b\u300d\u3068\u300c\u5b66\u7fd2\u7fd2\u6163\u300d\u3092\u30b2\u30c3\u30c8"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "655983974d03db5427337fe3",
+        "canonical_country": "JP",
+        "name": "\u82f1\u5358\u8a9e\u30e2\u30c1\u30bf\u30f3-TOEIC/\u82f1\u691c/\u4e2d\u5b66\u9ad8\u6821\u5c0f\u5b66\u751f/\u82f1\u8a9e\u30b2\u30fc\u30e0",
+        "publisher_name": "Astran",
+        "publisher_id": "655983974d03db5427337fe2",
+        "humanized_name": "\u82f1\u5358\u8a9e\u30e2\u30c1\u30bf\u30f3-TOEIC/\u82f1\u691c/\u4e2d\u5b66\u9ad8\u6821\u5c0f\u5b66\u751f/\u82f1\u8a9e\u30b2\u30fc\u30e0",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/b8/3c/c3b83c8f-4699-ba7a-6c21-1973a3e2bc09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "655983974d03db5427337fe3",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fe1039eea817bf9c",
+      "app_id": "55d20e4302ac64ee730001ff",
+      "network": "TikTok",
+      "phashion_group": "fe1039eea817bf9c",
+      "ad_type": "video",
+      "first_seen_at": "2025-07-25",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "fe1039eea817bf9c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa1bf70e9741318/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa1bf70e9741318/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa1bf70e9741318/thumb",
+          "video_duration": 12,
+          "width": 720,
+          "height": 1280,
+          "message": "\u30b9\u30ad\u30de\u6642\u9593\u3067\u4fb5\u7565\u306b\u3083\uff01"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d20e4302ac64ee730001ff",
+        "canonical_country": "JP",
+        "name": "The Battle Cats",
+        "publisher_name": "PONOS",
+        "publisher_id": "55fca60b8ac350db550001b4",
+        "humanized_name": "The Battle Cats",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/1a/4a/681a4a57-b5ec-b78b-c411-d4a0114ce1e6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d20e4302ac64ee730001ff",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "056b0ea0a0ef46dd",
+      "app_id": "66c292ff6bbfce0e306de36b",
+      "network": "TikTok",
+      "phashion_group": "056b0ea0a0ef46dd",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-27",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "056b0ea0a0ef46dd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ed18ea183840129/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ed18ea183840129/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ed18ea183840129/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "\u3010\u81ea\u7531\u6c17\u307e\u307e\u306b\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u3011\u5927\u8feb\u529b\u306e\u30dd\u30b1\u30e2\u30f3\u30ab\u30fc\u30c9\u3092\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff01"
+        },
+        {
+          "id": "76cd455afdbeb7c6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ed18ea183840129/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ed18ea183840129/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ed18ea183840129/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "\u3010\u6bce\u65e52\u30d1\u30c3\u30af\u7121\u6599\u3067\u958b\u5c01\u3011\u304d\u3063\u3068\u3001\u63a8\u3057\u30dd\u30b1\u30e2\u30f3\u306b\u51fa\u4f1a\u3048\u308b\uff01"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66c292ff6bbfce0e306de36b",
+        "canonical_country": "US",
+        "name": "Pok\u00e9mon TCG Pocket",
+        "publisher_name": "The Pok\u00e9mon Company",
+        "publisher_id": "561542d73f07e25d2903e682",
+        "humanized_name": "Pok\u00e9mon TCG Pocket",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f4/f6/07f4f628-905e-6843-613f-2c59038004be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66c292ff6bbfce0e306de36b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "adf60dc0a2a99a43",
+      "app_id": "60d53af5c1238e1ac89812f6",
+      "network": "TikTok",
+      "phashion_group": "adf60dc0a2a99a43",
+      "ad_type": "video",
+      "first_seen_at": "2023-11-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "adf60dc0a2a99a43",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c33b890d25a65545/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c33b890d25a65545/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c33b890d25a65545/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "Capture all bases!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "60d53af5c1238e1ac89812f6",
+        "canonical_country": "US",
+        "name": "Tower War - Tactical Conquest",
+        "publisher_name": "SayGames",
+        "publisher_id": "5bb5a48345f4430ad72c6f04",
+        "humanized_name": "Tower War - Tactical Conquest",
+        "icon_url": "https://play-lh.googleusercontent.com/7G_QBBufLp71rnqfwEGF9XnF33H5wx-mD9wxpKAJvVXxcc7YCgsT4yxpT7GF7sGprf8=s150",
+        "os": "unified",
+        "id": "60d53af5c1238e1ac89812f6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "bd840dca5eb1b86d",
+      "app_id": "66c292ff6bbfce0e306de36b",
+      "network": "TikTok",
+      "phashion_group": "bd840dca5eb1b86d",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-22",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "bd840dca5eb1b86d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7bbec9587ad14c52/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7bbec9587ad14c52/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7bbec9587ad14c52/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "\u3010\u65b0\u30c6\u30fc\u30de\u62e1\u5f35\u30d1\u30c3\u30af\u767b\u5834\u3011\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u304c\u3001\u3082\u3063\u3068\u697d\u3057\u304f\u266a"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66c292ff6bbfce0e306de36b",
+        "canonical_country": "US",
+        "name": "Pok\u00e9mon TCG Pocket",
+        "publisher_name": "The Pok\u00e9mon Company",
+        "publisher_id": "561542d73f07e25d2903e682",
+        "humanized_name": "Pok\u00e9mon TCG Pocket",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f4/f6/07f4f628-905e-6843-613f-2c59038004be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66c292ff6bbfce0e306de36b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "95b172c4775ebe78",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "95b172c4775ebe78",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-30",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "95b172c4775ebe78",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f9a9a90556b8d424/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f9a9a90556b8d424/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f9a9a90556b8d424/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "Action PvP shooter with robots and huge guns!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5bc6d9cb6ec0fb82",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "5bc6d9cb6ec0fb82",
+      "ad_type": "video",
+      "first_seen_at": "2025-02-23",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "5bc6d9cb6ec0fb82",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "message": "Energy guns, lasers and rockets - equip your robot and annihilate your opponents!"
+        },
+        {
+          "id": "be7d9782c91f52e3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "message": "Action PvP shooter with robots and huge guns!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "6b807a1179dede83",
+      "app_id": "6322100abd16da6f1e6d7ec2",
+      "network": "TikTok",
+      "phashion_group": "6b807a1179dede83",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-18",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "6b807a1179dede83",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b1aa69ea6196a8e6/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b1aa69ea6196a8e6/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b1aa69ea6196a8e6/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "A Puzzle Adventure Awaits: Join the Challenge Now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6322100abd16da6f1e6d7ec2",
+        "canonical_country": "US",
+        "name": "Carnival Tycoon: Coin Games",
+        "publisher_name": "Wild Candle Spin",
+        "publisher_id": "67d8436d9cf8c3ab19aa4ef2",
+        "humanized_name": "Carnival Tycoon",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/fd/15/4bfd156f-d0b6-ef36-5a69-17fe00730df9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6322100abd16da6f1e6d7ec2",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d78f1b1290f537d2",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "d78f1b1290f537d2",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-29",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "d78f1b1290f537d2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "New robots, new epic victories!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

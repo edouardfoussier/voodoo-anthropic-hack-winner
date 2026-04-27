@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1444062497",
+  "title": "POV: Got Home, Opened Crowd City",
+  "hook_3s": "POV: I sprint home, faceplant on the bed, and instantly my red crowd EXPLODES across the city.",
+  "scene_flow": [
+    "0-3s: Live-action POV — keys drop, hallway blur, body slams onto bed, phone unlocks to Crowd City's red stickman leader standing alone in a pastel low-poly plaza.",
+    "3-7s: Hard cut into gameplay. Finger drag swipes across screen, red crowd snowballs from 12 → 180 stick figures sweeping pastel streets, score counter ticking up fast.",
+    "7-11s: Confrontation beat — red swarm chases a smaller blue crowd around a low-poly Eiffel Tower, blue figures flip to red on contact, satisfying convert-pop SFX implied by overlay.",
+    "11-14s: Final showdown vs a green crowd; timer at 0:05, red engulfs green, '#1' banner pops with a massive red wave filling the screen.",
+    "14-15s: Skin unlock flash (dinosaur/penguin) → CTA card with app icon."
+  ],
+  "visual_direction": "Open with warm, naturalistic live-action (handheld, slight motion blur, golden hour bedroom light) to sell the UGC authenticity, then snap into Crowd City's signature low-poly 3D world: pastel beige/mint city blocks as background, hero crowd in saturated #FF0000 red, rival crowds in pure #0000FF blue and #00FF00 green for instant readability. Keep the in-game camera at the canonical Crowd City top-down-tilted angle, retain the real HUD (timer top-center, crowd count above the leader, minimap-free clean frame). Contrast = the whole pitch: messy real bedroom → clean candy-colored swarm chaos.",
+  "text_overlays": [
+    "POV: I got home…",
+    "…and opened Crowd City 🏃‍♂️",
+    "12 → 180 in 4 seconds",
+    "Eat the blues. Crush the greens.",
+    "#1 CITY 🏆",
+    "Tap to Play"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Crowd City rotation is 100% raw gameplay video/playables with zero copy and zero UGC framing — they own the mechanic demo lane but have no human-relatable entry point. This brief grafts the trending \"POV: rushed home to play X\" satisfaction hook (proven in the market scan) onto authentic Crowd City footage, giving UA a fresh thumb-stop for TikTok/Reels placements where lifestyle-POV creatives outperform pure gameplay. Test against the Applovin playable as the control; expect lift on IPM from social-native channels.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, top-down tilted in-game camera of Crowd City: a massive swarm of ~150 simple stickman-like 3D characters in bright #FF0000 red flooding a pastel low-poly city street, chasing a smaller cluster of #0000FF blue stickmen fleeing toward a low-poly Eiffel Tower, a few #00FF00 green stickmen scattered in the distance, muted pastel beige and mint buildings, clean minimal HUD with a white crowd-count number '180' floating above the red leader and a timer '0:08' top-center, on-screen text overlay '12 → 180 in 4 seconds', low-poly colorful 3D environment with simple stickman-like character models, no realistic humans, no logos, vibrant saturated game render",
+    "Storyboard frame, aspect 9:16, in-game Crowd City moment of the red #FF0000 stickman swarm engulfing and converting a #0000FF blue crowd at a pastel low-poly plaza intersection, blue figures mid-flip turning red, scattered #00FF00 green stickmen running away in the background, low-poly pastel city buildings, authentic Crowd City HUD with timer top-center and crowd counter above the leader, on-screen text overlay 'Eat the blues. Crush the greens.', low-poly colorful 3D environment with simple stickman-like character models, top-down tilted camera, clean uncluttered UI, no realistic characters",
+    "Storyboard frame, aspect 9:16, victory beat in Crowd City: enormous #FF0000 red stickman crowd filling 80% of the screen on a pastel low-poly city block, last few #00FF00 green stickmen being absorbed, timer reading '0:00', big white '#1 CITY 🏆' banner overlay, low-poly colorful 3D environment with simple stickman-like character models, bright contrasting primary colors against muted pastel buildings, authentic Crowd City top-down tilted camera and HUD chrome, no realistic humans, no extra logos"
+  ]
+}

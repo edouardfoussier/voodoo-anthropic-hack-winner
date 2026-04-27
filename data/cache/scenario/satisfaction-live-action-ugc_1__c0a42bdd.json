@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_mMpKbH9M6BWvEKGA6Mqcc9iF?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfbU1wS2JIOU02Qld2RUtHQTZNcWNjOWlGP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qfc-sXG0qG1qGCADIP9XvMSbT1foZVuPhzCjDW0klwpjeAiCzfz2abI4rTQAk2KhkIMWSRyCNl0Vz%7EhnHIM%7EOLovkqvQ4In-fSMjmvaRNggz6rdXWYMUile08VxpsfEgHV1bGzomV0vRE4tsgxTTrm3BB-2P%7E1hAHSbkklEpZGRjKS7RiAxnQO5LjxXmiCTuWXtQudw8OKR3m5bwT5sX2BwVikAkSfIH-LoW7oQKuRhEjgJt09JHqF4QmXYQGSXeucEfVLECyh2QLrpWLBoUG1MjG9uAD2ygnwAtaGvB7BwT8u0AczuADa7lt2lmCEicWfJ0jhyDEbqpOJJVCcqAmA__",
+  "job_id": "job_KMGD86qkHdhTn2qc23igvEqj",
+  "asset_id": "asset_mMpKbH9M6BWvEKGA6Mqcc9iF",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, extreme close-up of a smartphone screen filling the entire frame showing authentic Helix Jump gameplay: cyan #5CE1E6 cylindrical helix tower with multiple rotating ring platforms, neon green #39FF14 ball smashing through a red #FF0000 trap segment that is shattering into small geometric polygon shards, motion blur on the ball, score '00482' top-left and 'x5 COMBO' multiplier badge top-center in clean sans-serif HUD matching Helix Jump UI, lighter cyan gradient background inside the tower, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, bold on-screen text overlay 'rotate \u2192 drop \u2192 SMASH'",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

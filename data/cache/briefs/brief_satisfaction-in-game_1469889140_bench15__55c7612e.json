@@ -1,0 +1,27 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "1469889140",
+  "title": "Smart / Genius / Psychopath Trick-Shot Ladder",
+  "hook_3s": "A stickman striker curves a glowing trajectory trail around three defenders into the top corner — net ripples, crowd flashes, \"SMART\" stamps the screen.",
+  "scene_flow": [
+    "0-3s HOOK: Tight POV swipe — finger drags across the screen, lime-green trajectory arcs past one defender into the goal. Overlay: SMART.",
+    "3-7s ESCALATE: Same camera, now two defenders sliding in. Swipe curves harder, ball bends mid-air, slots top-bin. Overlay: GENIUS.",
+    "7-12s PEAK: Chaotic level — 4 defenders, moving keeper, tiny goal window. Swipe traces an absurd S-curve, ball ricochets off post and in. Overlay: PSYCHOPATH. Level tracker jumps 1 → 7 → 23.",
+    "12-15s CTA: Phone-frame mockup of the App Store icon, finger taps install. Overlay: YOUR TURN — CAN YOU SCORE?"
+  ],
+  "visual_direction": "Lock to the game's sunny stadium DNA: sandy yellow (#F5D77F) pitch lines and sand textures, sky blue (#1CB4F0) sky and goal frame highlights, bright green (#99CC33) trajectory trails, level-tracker pills, and \"GENIUS\" stamp accents. Keep the 3D hyper-casual low-poly look — simple stickman striker, blocky defenders, chunky physics ball. Camera is the existing slightly-elevated behind-the-ball angle from the actual game; no cinematic reframes. Each \"stamp\" overlay snaps in with a quick zoom + chromatic punch but never covers the trajectory arc — the swipe is the star.",
+  "text_overlays": [
+    "SMART",
+    "GENIUS",
+    "PSYCHOPATH 🤯",
+    "Level 23 unlocked",
+    "YOUR TURN?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Crazy Kick rotation is all generic gameplay-video and \"street football\" bravado — zero meme-format / satisfaction-laddered creatives. This borrows the trending \"Smart/Genius/Psychopath\" overlay meme (high SoV velocity in the satisfaction archetype) and grafts it onto authentic trick-shot gameplay, giving UA a fresh thumb-stop angle without reskinning existing assets. Test against the Admob video set as the control — expect lift on IPM from the escalating-difficulty payoff structure.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic in-game screenshot of Crazy Kick! Fun Football game: 3D hyper-casual, low-poly, bright and colorful with simple stickman characters; behind-the-ball camera angle on a sandy yellow (#F5D77F) pitch with sky blue (#1CB4F0) sky and stadium, a stickman striker mid-swipe with a vivid bright green (#99CC33) curved trajectory trail bending around three blocky low-poly defenders into the top corner of a low-poly goal net, chunky white football frozen mid-flight, level progression tracker pill in the top-left HUD, swipe-aim arrow visible, bold white sans-serif on-screen text 'GENIUS' stamped center with a slight tilt, energetic competitive UI mood, no cinematic filters, reads as a real Crazy Kick gameplay moment.",
+    "Storyboard frame 1, aspect 9:16, in-game view of Crazy Kick! Fun Football game in 3D hyper-casual, low-poly, bright and colorful with simple stickman characters style: same behind-the-ball camera, sandy yellow (#F5D77F) pitch, sky blue (#1CB4F0) horizon, a single stickman defender lunging, the ball arcing along a glowing bright green (#99CC33) trajectory trail toward a low-poly goal, level tracker '#1' pill top-left, finger swipe indicator at the bottom, on-screen text 'SMART' in bold white block letters, authentic HUD chrome matching Crazy Kick screenshots.",
+    "Storyboard frame 2, aspect 9:16, chaotic late-level moment from Crazy Kick! Fun Football game, 3D hyper-casual, low-poly, bright and colorful with simple stickman characters: four blocky stickman defenders crowding a tiny goal, a wild S-shaped bright green (#99CC33) trajectory trail snaking through them, sandy yellow (#F5D77F) pitch with painted lines, sky blue (#1CB4F0) goal frame, level tracker pill showing '#23' top-left, ball ricocheting off the post, on-screen text 'PSYCHOPATH 🤯' stamped large in white with a red shadow, energetic competitive HUD, authentic Crazy Kick in-game feel, no stock-game tropes."
+  ]
+}

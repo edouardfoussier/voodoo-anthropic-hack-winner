@@ -1,0 +1,203 @@
+{
+  "target_game": {
+    "app_id": "1453989822",
+    "name": "aquapark.io",
+    "genre": "Racing",
+    "sub_genre": "Hypercasual",
+    "core_loop": "Slide down a water track, steer to overtake or bump opponents off the edge, and reach the finish line first to advance.",
+    "audience_proxy": "Broad, casual audience, skewing younger (7-25), looking for quick, competitive, and colorful gameplay.",
+    "visual_style": "3D, low-poly, bright, colorful, cartoonish.",
+    "palette": {
+      "primary_hex": "#42bcf5",
+      "secondary_hex": "#ffffff",
+      "accent_hex": "#ff8c1c",
+      "description": "Bright blue water and white slides contrasted with vibrant orange UI elements."
+    },
+    "key_mechanics": [
+      "sliding",
+      "steering",
+      "bumping",
+      "gliding",
+      "overtaking"
+    ],
+    "character_present": true,
+    "ui_mood": "energetic/competitive",
+    "screenshot_signals": [
+      "Water slide track",
+      "Animal avatars",
+      "Inner tubes",
+      "Hang glider",
+      "Power-up icons",
+      "Race progress bar",
+      "Multiplayer leaderboard"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 16,
+    "num_phashion_groups": 16
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "satisfaction-in-game",
+      "label": "Satisfaction · in-game",
+      "member_creative_ids": [
+        "67a7083d6f23bd94"
+      ],
+      "centroid_hook": {
+        "summary": "Rapid block placement clearing a green grid under a 'Smart/Genius/Psychopath' meter.",
+        "visual_action": "Blocks are snapped into place quickly, filling the grid until it shatters.",
+        "text_overlay": "SMART GENIUS PSYCHOPATH",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#4CAF50",
+        "#FFD700",
+        "#3F51B5"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.861,
+      "derivative_spread": 1.0,
+      "freshness_days": 3.0,
+      "overall_signal_score": 3.194,
+      "rationale": "1 creatives across 1 unique advertisers, average age 3d (velocity source: sov). Hook representative: \"Rapid block placement clearing a green grid under a 'Smart/Genius/Psychopath' me\""
+    },
+    {
+      "archetype_id": "curiosity-3d-render",
+      "label": "Curiosity · 3D-render",
+      "member_creative_ids": [
+        "9eb52675da998d86"
+      ],
+      "centroid_hook": {
+        "summary": "Police investigate a crime scene at a suburban home at night.",
+        "visual_action": "Flashing police lights outside a house followed by forensic teams taking photos of evidence inside.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#1A237E",
+        "#FFD54F",
+        "#E0E0E0"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.119,
+      "derivative_spread": 1.0,
+      "freshness_days": 5.0,
+      "overall_signal_score": 2.298,
+      "rationale": "1 creatives across 1 unique advertisers, average age 5d (velocity source: sov). Hook representative: \"Police investigate a crime scene at a suburban home at night.\""
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "label": "Satisfaction · animation",
+      "member_creative_ids": [
+        "f41b68dd7e9c7ab2",
+        "f8b53e0f8d3ee77a"
+      ],
+      "centroid_hook": {
+        "summary": "High-intensity anime action sequence featuring Goku's iconic Dragon Fist attack.",
+        "visual_action": "Goku in Super Saiyan 3 form charging energy and punching directly towards the camera.",
+        "text_overlay": "Dragon Fist!!!",
+        "voiceover_transcript": "Dragon Fist!!!",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#FFD700",
+        "#FF8C00",
+        "#000000"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.311,
+      "derivative_spread": 1.0,
+      "freshness_days": 367.0,
+      "overall_signal_score": 0.895,
+      "rationale": "2 creatives across 2 unique advertisers, average age 367d (velocity source: sov). Hook representative: \"High-intensity anime action sequence featuring Goku's iconic Dragon Fist attack.\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "satisfaction-in-game",
+      "visual_match": 18,
+      "mechanic_match": 10,
+      "audience_match": 55,
+      "overall": 22,
+      "rationale": "Major friction: this archetype is a block-fitting puzzle satisfaction hook (green grid, IQ-tier meter) that has zero mechanical overlap with aquapark.io's slide/steer/bump racing loop — adapting it would require fabricating gameplay the app doesn't have, which risks misleading-ad policy strikes and poor D1 retention. The palette (green/gold/indigo) also clashes with the signature blue-water/orange-accent identity, so visual borrowing is limited. Only the casual hypercasual audience overlaps; do not greenlight unless reworked into a racing-native \"Smart/Genius/Psychopath\" steering-decision meter, which is a heavy reinterpretation rather than a true archetype port."
+    },
+    {
+      "archetype_id": "curiosity-3d-render",
+      "visual_match": 8,
+      "mechanic_match": 5,
+      "audience_match": 15,
+      "overall": 10,
+      "rationale": "Hard pass for aquapark.io. The dark navy/yellow crime-scene palette and somber nighttime forensic imagery directly clash with the game's bright, sunny, cartoonish water-park identity, and a police investigation hook has zero connective tissue to sliding/bumping/racing mechanics. The mature, true-crime curiosity audience also skews far older and more dramatic than the 7-25 hypercasual racer demo — only viable if reworked into a wildly off-brand \"who pushed the player off the slide?\" parody, which isn't worth the production risk given the single-creative, low-evidence cluster."
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "visual_match": 15,
+      "mechanic_match": 8,
+      "audience_match": 45,
+      "overall": 18,
+      "rationale": "Hard pass for aquapark.io. The archetype is a licensed-IP anime power fantasy (Goku Super Saiyan 3, gold/black palette, punch-to-camera) which has zero overlap with sliding/steering/bumping water-slide mechanics and clashes with the bright blue/white/orange low-poly cartoon DNA — also a serious IP/legal risk to mimic. Only marginal redemption is partial age overlap on the younger male skew, but even there the tone (intense combat satisfaction) doesn't map to hypercasual race-and-bump fun; do not adapt this archetype."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-in-game",
+        "target_game_id": "1453989822",
+        "title": "Smart / Genius / Psychopath Slide",
+        "hook_3s": "A racer threads a razor-thin gap between two opponents at full speed — meter flashes \"SMART\".",
+        "scene_flow": [
+          "0–3s: POV slams onto a glossy white aquapark.io slide; first clean overtake bumps a rival into the void → meter pops 'SMART' in orange.",
+          "3–7s: Player chains two more bumps off a banked curve, weaving inner tubes — meter escalates to 'GENIUS' with a confetti splash.",
+          "7–12s: On the hang-glider section, racer dives between THREE opponents mid-air, knocking all of them off the edge — meter explodes 'PSYCHOPATH'.",
+          "12–15s: Finish-line splash, leaderboard slams to #1, app icon + CTA pulses."
+        ],
+        "visual_direction": "Authentic aquapark.io look: bright #42bcf5 water flumes, glossy #ffffff slide walls, low-poly cartoon animal racers on inner tubes, with #ff8c1c orange used for the IQ-tier meter, race progress bar, and CTA chrome. Camera stays close behind the lead racer (chase-cam, slight FOV punch on each bump) to mirror the actual in-game camera. Keep the same chunky 3D low-poly geometry, soft cel shading, and HUD layout (top-left progress bar, top-right multiplayer ranks) seen in real screenshots — no realistic water, no extra UI invented.",
+        "text_overlays": [
+          "Pick your line…",
+          "SMART",
+          "GENIUS",
+          "PSYCHOPATH 🔥",
+          "Can you finish #1?"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current aquapark.io rotation leans entirely on generic \"slide & knock-out\" gameplay copy with \"Install\"/\"Best game of 2025\" framing — there's zero satisfaction-meter or skill-tier hook in the lineup. This brief ports the market-trending Smart/Genius/Psychopath meter into a racing-native skill-judgement frame (clean overtakes = SMART, chained bumps = PSYCHOPATH), giving UA a fresh CTR angle without fabricating mechanics. Test against the evergreen \"knock out opponents\" video as the control.",
+        "scenario_prompts": [
+          "Aspect 9:16, 3D low-poly bright colorful cartoonish aquapark.io in-game frame, chase-cam behind a low-poly cartoon animal racer on a white inner tube sliding down a glossy bright blue (#42bcf5) water slide flume with white (#ffffff) walls, threading a razor-thin gap between two rival racers about to be bumped off the edge, splash particles, top-left orange (#ff8c1c) race progress bar and top-right multiplayer leaderboard HUD exactly like the real game, large bold orange '#ff8c1c' overlay text 'SMART' center-screen with subtle glow, no realistic water, no invented UI, authentic aquapark.io asset style. [Audio: VO (hyped male, gen-z) 'Okay that was smart…' / energetic competitive trap, 120 BPM, punchy 808s / whoosh on overtake at 1s, ding on meter pop at 2.5s].",
+          "Aspect 9:16, 3D low-poly bright colorful cartoonish aquapark.io gameplay still, banked curve on a white water slide with bright blue (#42bcf5) water, the lead cartoon animal racer on an inner tube sideswiping two opponents simultaneously off the rim into open sky, low-poly splash and motion-blur lines, in-game HUD with orange (#ff8c1c) progress bar and rank icons preserved, bold orange overlay text 'GENIUS' stamped across the upper third, palette locked to #42bcf5 / #ffffff / #ff8c1c, authentic in-game camera and asset fidelity, no stock racing tropes. [Audio: VO 'wait — GENIUS!' / building competitive electronic 124 BPM / double bump-thud at 0.8s and 1.4s, crowd 'ohhh' sting at 2s].",
+          "Aspect 9:16, 3D low-poly bright colorful cartoonish aquapark.io hang-glider section, cartoon animal racer gliding mid-air off a ramp above a bright blue (#42bcf5) pool, three rival racers tumbling off-screen below, white (#ffffff) clouds and slide structures, sun flare, signature orange (#ff8c1c) HUD with finish-line progress bar nearly full and 1st-place crown icon, massive bold overlay text 'PSYCHOPATH 🔥' shaking in orange with white outline, exact aquapark.io art direction, no fabricated mechanics. [Audio: VO (gleeful) 'PSYCHOPATH!!' / peak-drop competitive trap 128 BPM with bass hit / triple knockout whoosh, glass-shatter SFX at 1.2s, victory chime at 3s]."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_vtpnKkvCuLsEw3F8RomAVbUB?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdnRwbktrdkN1THNFdzNGOFJvbUFWYlVCP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Y-dpcnt4b5aff-xDvoC2JKoSbCBT%7EoFl2HaU6QLvOVBNjaSYfCh%7EE9Mvvfxfd4ialyQnUq2-rI3KNXormx-CuJDzn9263LtM0lnTH7u0UYwVyBdvyxM3tFlVVil96dun8uAutr4DOjV09JbYBoTT6XnUW6HnaBIcPHfzFUyHDhW81v0b5Xmo46IwNNoSxcnmibvfJixzAt-vq2OuUFxr6jT671TPGAyCALK4hqlBl82VbmAT7kt%7E1-XTMPgdbdtBJ-lFJ4fgpC%7EIM9CuvoJzO-YgAeSVwmtGHNh3DJu-62RjXU-fuoGoHMeoW-WAWP38SzBKMZcfi8m5sTzeby-XRA__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_4kw2DAVZvqM5BPTwEBzNnoAB?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNGt3MkRBVlp2cU01QlBUd0VCek5ub0FCP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ls62BgC8sK%7EiRxmUm9le%7EITL4mHMfau6gaogxmBb0Y16kEh0eiwMzDLACUFNN4vurMw6Xd%7E6YA9Lzqh6WtRHNLCofjitxlRbbtM2bSDP6wuTptyFkA-m8PI3mkLo%7EXOjUxDdYDUMPHPzwqVtuw4GOSvbz7KjseeubIRc6RreNAGWPXxEHf9cb%7EgHSCTSX48R4fwlBLR8teIukFszQ1QcOjVpV1YtpvS9Bfz3sg9Pfdih3Ec8%7E4XV-yCJ55BHsHX1Pz0-Ht4uviRPlnzDQ9R09qbzrp2CwuGyvXYq97PZ1gTJfKImtgw-D-ZUOjbuDUyzkiYSFqwb6xvSiKKS91JDBg__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_Fzeh9Dd8kkBjDNMCd5UmzCa8?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRnplaDlEZDhra0JqRE5NQ2Q1VW16Q2E4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=KjCSjew4xPCUsZi1aW8gl6VYz7DZ%7Ehf1Frxn0P5ITCv7HzvpqXkfs9WIC8OTHquPNqeNWhBuYxfaB0CXKQEQHEhMIaPsAsdilzVFJ%7El7x6pHH4WDBMSahqg8VZQ-GjeMm3bJeWPg-9KHWUavp5p6YIYN-cN7w4AtyrFNmKPxblstnfjIG0UyF%7ERvco14HNrMRQVedJesNZYxQtaT72eoUo4HCQgDm0O1Alknh9FOoCoJW3OKKx5qooC31%7EcDHwTumDseAo%7E4tU%7EwA0RNrJ9zkGZx%7ESY0PCkgc7qE7uePjJkRIYZxcMv6v1MeWYw%7EB9V71ZOkiPuv2ibD6YTWpGgUtg__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=3.19 × game_fit=22/100 ⇒ priority=0.70"
+    }
+  ],
+  "pipeline_duration_seconds": 463.12615079300303,
+  "total_cost_usd": 0.024729,
+  "generated_at": "2026-04-26T06:59:17.105217Z"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Q82BoCaoLDmrD4YLabmdhUPU?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUTgyQm9DYW9MRG1yRDRZTGFibWRoVVBVP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=rDWuDlun6FNNRX2W-IcpQXVH7usvDbWVXqKR%7EXCpaWt32wMqkSd933J4YNy%7ElvaptaYcD-BwupjQ5NrCkzE0b9XAj1CFv1gAluK2ILntbeRUDeIKfnd2xju8rctxHxt8kSOySoyBhBk4E5E5mdvC-Iteg7oi23CusgQj0JwvJP3PDsLBS3nfjXpj4BTStHz0c8lP3tCJRIwaRdDdmRVPS4rhGQXE52cQHxeyz7-pSwI2PEUMFOcVFOiRkJK11ObOTkoWgRxxCpJyYqj4M2hAgo8vVw3uJaN0noRDACAGi7RkN088skPFlhKZApIIkBlVUydm9vsgnEE4PNIJbeE84g__",
+  "job_id": "job_z6cFhb1pbwZQF5UDjweKQ7Kq",
+  "asset_id": "asset_Q82BoCaoLDmrD4YLabmdhUPU",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical aspect, 3D Casual Abstract style, same deep-charcoal #20232B background and purple #403F6D grid, a stylized translucent finger dragging the WRONG colored block into a tray, small red X icon pulsing, amber #FDBA4D balls fizzling against a wall, muted disappointed lighting, on-screen text 'NOT LIKE THAT \u274c' centered, clean mobile UI framing",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

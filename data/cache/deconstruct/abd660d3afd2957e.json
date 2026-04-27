@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "abd660d3afd2957e",
+    "ad_unit_id": "abd660d3afd2957e",
+    "app_id": "590ddbfc0211a601c0000114",
+    "advertiser_name": "Word Trip - Word Puzzle Game",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f22a691aabe11d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f22a691aabe11d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f22a691aabe11d/preview",
+    "phashion_group": "abd660d3afd2957e",
+    "share": null,
+    "first_seen_at": "2022-06-27T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 7.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "How do you play it!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid-fire word formation with escalating positive feedback overlays.",
+    "visual_action": "A player connects letters to form words, triggering immediate 'Good!', 'Great!', and 'Fantastic!' text pop-ups.",
+    "text_overlay": "This game is oddly encouraging",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Player connects letters to form the word 'OWN', triggering a 'Good!' message.",
+    "Player quickly forms 'WON' and 'NOW', triggering 'Great!' and 'Fantastic!' feedback.",
+    "Player completes the puzzle with 'ON' and 'NO', resulting in a 'Spectacular!' overlay and board completion."
+  ],
+  "on_screen_text": [
+    "Solved by 89.12% players",
+    "This game is oddly encouraging",
+    "Good!",
+    "Great!",
+    "Fantastic!",
+    "Spectacular!"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#E6D94D",
+    "#E91E63",
+    "#1976D2"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy word games and satisfying, high-frequency positive feedback.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001341
+}

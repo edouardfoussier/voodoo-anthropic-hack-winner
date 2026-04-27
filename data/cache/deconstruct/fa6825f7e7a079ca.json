@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "fa6825f7e7a079ca",
+    "ad_unit_id": "fa6825f7e7a079ca",
+    "app_id": "55d3a1a802ac64350a000d6e",
+    "advertiser_name": "Roblox",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/839b9875739f9ae7/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/839b9875739f9ae7/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/839b9875739f9ae7/preview",
+    "phashion_group": "fa6825f7e7a079ca",
+    "share": null,
+    "first_seen_at": "2026-03-25T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "For three neurodivergent kids, Roblox isn’t a game changer. It’s a life changer.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A split-screen introduction of three siblings and their digital avatars.",
+    "visual_action": "The video shows three children in their home environment transitioning into their stylized Roblox avatars.",
+    "text_overlay": "When we group up we're the main characters of the story.",
+    "voiceover_transcript": "When we group up, we're the main characters of the story.",
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "Introduction of three siblings and their corresponding Roblox avatars through a split-screen visual.",
+    "A father provides a testimonial about his children's autism diagnosis and their connection to the game.",
+    "Gameplay montage showcasing the children's avatars interacting in various social and skill-based environments.",
+    "The father explains the developmental benefits of the platform, including coordination and socialization.",
+    "Final emotional close with the father expressing pride over the Roblox logo."
+  ],
+  "on_screen_text": [
+    "When we group up",
+    "we're the main characters of the story.",
+    "All three of my kids have autism.",
+    "Roblox helped hand-and-eye coordination,",
+    "learning how to socialize, to be independent.",
+    "Seeing where they were and where they are now,",
+    "deeply proud.",
+    "ROBLOX"
+  ],
+  "cta_text": "ROBLOX",
+  "cta_timing_seconds": 13.5,
+  "palette_hex": [
+    "#000000",
+    "#FFFFFF",
+    "#4B3621"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Parents of neurodivergent children looking for safe and developmental social gaming platforms.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018579999999999998
+}

@@ -1,0 +1,50 @@
+{
+  "raw": {
+    "creative_id": "0d364815e2ca3d52",
+    "ad_unit_id": "0d364815e2ca3d52",
+    "app_id": "6573c39d5c3b423d5d04560f",
+    "advertiser_name": "Dark War:Survival",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/479f55e8080d623a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/479f55e8080d623a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/479f55e8080d623a/preview",
+    "phashion_group": "0d364815e2ca3d52",
+    "share": null,
+    "first_seen_at": "2025-06-02T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": "720:1280",
+    "width": 720,
+    "height": 1280,
+    "message": "Collect, build, survive. Do whatever it takes to live in the Zombie Apocalypse!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Revealing secret underground bunkers beneath famous landmarks like the Eiffel Tower.",
+    "visual_action": "A cross-section view pans down from the Eiffel Tower to show a complex multi-story underground shelter.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Cross-section of a multi-level bunker under the Eiffel Tower.",
+    "Transition to a bunker hidden beneath a bustling Times Square.",
+    "View of a bunker under a roadside convenience store in the rain.",
+    "Detailed look at a bunker under a residential house in a forest.",
+    "Final shot of a bunker hidden beneath a military tank in the woods."
+  ],
+  "on_screen_text": [],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#2c3e50",
+    "#d35400",
+    "#2d5a27"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of post-apocalyptic survival and base-building games who enjoy detailed cross-section illustrations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001425
+}

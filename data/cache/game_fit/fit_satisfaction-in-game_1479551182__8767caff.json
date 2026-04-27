@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 35,
+  "mechanic_match": 20,
+  "audience_match": 60,
+  "overall": 32,
+  "rationale": "Mechanic mismatch is the dealbreaker: rapid-fire grid-block placement is a puzzle/Tetris-style satisfaction loop with zero overlap with Push'em All's swipe-to-shove crowd physics — recreating this hook would misrepresent the product and tank IPM/retention. Palette also clashes (green/blue/yellow puzzle tones vs. our signature red-vs-blue stickman contrast), and there's no character or platform action to anchor it. Audience is the only partial bridge (broad hypercasual satisfaction-seekers), but not enough to justify production; skip this archetype or, at most, borrow the \"SMART GENIUS PSYCHOPATH\" escalating-text overlay device on top of native push gameplay."
+}

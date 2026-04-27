@@ -1,0 +1,19 @@
+{
+  "title": "Block Blast – Grid Collapse",
+  "gameplay_hook": "One wrong move and the entire grid locks up — watch what happens when every row clears at once",
+  "concept": "The player's 8x8 grid is one move from total lock-up. A perfect triple-piece placement triggers a catastrophic 6-line chain clear that nukes the board and sends the score into orbit.",
+  "scenario_prompt": "IMAGE-TO-VIDEO — continue directly from a real Block Blast! gameplay screenshot. The camera holds at the game's natural top-down isometric angle, 9:16 vertical, game UI fully visible throughout. BEAT 1 (0–2s): The dark #1E2744 grid is dangerously packed — glossy beveled blocks in cobalt #5469B9, amber, magenta, and lime crowd every row, only ONE column gap remaining on the right edge. A jagged L-shaped piece in gold #FFD700 sits in the tray at the bottom, the only piece that fits. Score counter reads 18,450. Collectible gem icons pulse yellow at the top. Voice spoken on screen: 'NOOOOO the grid is COMPLETELY LOCKED there's literally one square left!!' SFX: tense low rumble, single grid-slot glow pulsing with a tight ping. BEAT 2 (2–5s): The gold #FFD700 L-piece slams into that final column gap with a sharp CRUNCH — the instant it locks, three full rows ignite simultaneously in a blazing white horizontal sweep across the grid, blocks shattering outward with a SHATTER-POP-SHATTER sequence, debris fragments in #5469B9 and amber spinning off the edges of the screen. A second chain reaction fires — two more rows below detonate, then a full column on the left side CRACKS and clears vertically in a golden streak. Score counter rockets from 18,450 to 61,200 in one violent jump, digit wheels spinning. Stars and gem collectibles burst from the cleared cells like confetti — seven gems detonating with high-pitched POPS. Voice spoken on screen: 'OH MY GOD THE CHAIN REACTION WON'T STOP!! SIX LINES CLEARED AT ONCE WHAT IS HAPPENING!!' SFX: cascading SHATTER-POP chain, whooshing score-rocket sound, gem-collect chimes stacking over each other. BEAT 3 (5–7s): Camera cuts to extreme close-up of the grid center — the board is nearly empty, glossy beveled cells gleaming on the #1E2744 background. New blocks materialize in the tray at hyperspeed, player slams two more pieces down, FOUR MORE rows erupt in simultaneous white-flash clears, screen shaking with each CRUNCH. Score counter smashes past 120,000, the number glowing #FFD700 and vibrating. Gem and star icons overflow the collector bar at the top — the bar flashes red then gold. Grid cells pulse with a rippling cobalt #5469B9 shockwave radiating from the center outward. Voice spoken on screen: 'THIS IS THE MOST INSANE CHAIN I HAVE EVER SEEN I LITERALLY CANNOT STOP AHHHHH!!' SFX: massive BOOM on final clear, deep whoosh, score-counter explosion chime. FINAL FRAME (7–8s): Gameplay fades to 60% opacity behind bold centered white text: 'Block Blast！' — below it in smaller clean white sans-serif: 'Play now'. No animation. Static hold for one second.",
+  "narration_script": "NOOOOO the grid is COMPLETELY LOCKED there's literally one square left!! OH MY GOD THE CHAIN REACTION WON'T STOP!! SIX LINES CLEARED AT ONCE WHAT IS HAPPENING!! THIS IS THE MOST INSANE CHAIN I HAVE EVER SEEN I LITERALLY CANNOT STOP AHHHHH!!",
+  "style_tags": [
+    "brainrot",
+    "hyper-casual",
+    "first-person-pov",
+    "chain-reaction",
+    "score-escalation",
+    "9:16-vertical",
+    "mobile-ui-overlay",
+    "dark-grid-aesthetic",
+    "glossy-beveled-blocks",
+    "tiktok-hook-format"
+  ]
+}

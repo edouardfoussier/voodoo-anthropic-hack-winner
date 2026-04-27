@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_3KcGs5BPLtuGnk5oAduvnP5q?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM0tjR3M1QlBMdHVHbms1b0FkdXZuUDVxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VDfkB5VAO7lsUJmwD%7EQJ9n%7Et-Q%7E2blX0krFsK6U1L6WTEgak8BdR2u7a0lHUbS%7E-ldFGuvQX5Ew-UNIsSjwLuPFL%7EvRE9lyvjWkPXDaPD4LzeFxVcYvCLN002qMm9KCrEmVeg7mkXpajbxEyeKQBpXctrrWWrY0PEY4AqEj2dlUhkUzuaI0J-v8CSg8oHzClIXQMOBxhl1Yiq7kD6EMpDxV6dAPkQiSycgv5gvhcdvXHPhyfu3B%7E33HwGTHRpvw5dxrKdn0L70ekSzXB5UCacV83UDrIzF0j30tYEMwN0PW90297rTkF%7Et8HiKz7trVSpkCxvjHE-WQezRfnCYV25A__",
+  "job_id": "job_VwHPfTuYt7oKzPZN55EYteq7",
+  "asset_id": "asset_3KcGs5BPLtuGnk5oAduvnP5q",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style, dynamic mid-action shot of dozens of glossy 3D balls bouncing and chaining across a deep purple #403F6D grid, charcoal #20232B background, bright amber #FDBA4D spark bursts and trails, 'Level Complete' badge in purple frame with amber accent, on-screen text overlay 'chain reaction unlocked' in white sans-serif, cinematic depth of field, satisfying physics payoff, no characters",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

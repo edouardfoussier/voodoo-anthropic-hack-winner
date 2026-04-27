@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "app_id": "581e6493ddfcc54bb900494a",
+      "breakdown": [
+        {
+          "date": "2026-01-01",
+          "organic_abs": 2306,
+          "organic_browse_abs": 701,
+          "organic_search_abs": 1605,
+          "browser_abs": 94,
+          "paid_abs": 387,
+          "paid_search_abs": 36,
+          "organic_frac": 0.816861,
+          "organic_browse_frac": 0.248317,
+          "organic_search_frac": 0.568544,
+          "browser_frac": 0.033298,
+          "paid_frac": 0.137088,
+          "paid_search_frac": 0.012752
+        },
+        {
+          "date": "2026-02-01",
+          "organic_abs": 1254,
+          "organic_browse_abs": 334,
+          "organic_search_abs": 920,
+          "browser_abs": 42,
+          "paid_abs": 246,
+          "paid_search_abs": 47,
+          "organic_frac": 0.789176,
+          "organic_browse_frac": 0.210195,
+          "organic_search_frac": 0.57898,
+          "browser_frac": 0.026432,
+          "paid_frac": 0.154814,
+          "paid_search_frac": 0.029578
+        },
+        {
+          "date": "2026-03-01",
+          "organic_abs": 1577,
+          "organic_browse_abs": 400,
+          "organic_search_abs": 1177,
+          "browser_abs": 72,
+          "paid_abs": 484,
+          "paid_search_abs": 47,
+          "organic_frac": 0.723394,
+          "organic_browse_frac": 0.183486,
+          "organic_search_frac": 0.539908,
+          "browser_frac": 0.033028,
+          "paid_frac": 0.222018,
+          "paid_search_frac": 0.02156
+        },
+        {
+          "date": "2026-04-01",
+          "organic_abs": 1504,
+          "organic_browse_abs": 406,
+          "organic_search_abs": 1098,
+          "browser_abs": 59,
+          "paid_abs": 500,
+          "paid_search_abs": 35,
+          "organic_frac": 0.716873,
+          "organic_browse_frac": 0.193518,
+          "organic_search_frac": 0.523356,
+          "browser_frac": 0.028122,
+          "paid_frac": 0.238322,
+          "paid_search_frac": 0.016683
+        }
+      ]
+    }
+  ]
+}

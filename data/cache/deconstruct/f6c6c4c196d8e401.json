@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "f6c6c4c196d8e401",
+    "ad_unit_id": "f6c6c4c196d8e401",
+    "app_id": "6178e7bfdb622901de5dd950",
+    "advertiser_name": "Pikmin Bloom",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/39ff99f8399c0ce4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/39ff99f8399c0ce4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/39ff99f8399c0ce4/preview",
+    "phashion_group": "f6c6c4c196d8e401",
+    "share": null,
+    "first_seen_at": "2026-01-23T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Deine Pikmin begleiten dich, egal, wohin du gehst.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A fast-paced introduction of cute, accessorized Pikmin characters.",
+    "visual_action": "Three different Pikmin types (Popcorn, Toothbrush, Stamp) flash on screen sequentially against a white background.",
+    "text_overlay": "Popcorn-Deko-Pikmin, Zahnpflege-Deko-Pikmin, Briefmarke-Deko-Pikmin",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Rapid-fire presentation of three distinct 'Decor Pikmin' variants with unique accessories.",
+    "Text-based transition asking the viewer which Pikmin they will encounter today.",
+    "Gameplay demonstration of the player character walking through a flower-filled map.",
+    "Visual reward sequence showing a Pikmin discovery accompanied by confetti effects.",
+    "Final branding screen with a group shot of Pikmin and a clear call to action."
+  ],
+  "on_screen_text": [
+    "Popcorn-Deko-Pikmin",
+    "Zahnpflege-Deko-Pikmin",
+    "Briefmarke-Deko-Pikmin",
+    "Welches Deko-Pikmin triffst du heute?",
+    "PIKMIN BLOOM",
+    "Pikmin, immer mit dabei",
+    "Kostenlos herunterladen"
+  ],
+  "cta_text": "Kostenlos herunterladen",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#76C043",
+    "#E60012"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual mobile gamers and Nintendo fans who enjoy cute character collection and outdoor activity apps.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001909
+}

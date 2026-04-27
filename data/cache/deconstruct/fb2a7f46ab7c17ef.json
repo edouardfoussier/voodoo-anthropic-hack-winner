@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "fb2a7f46ab7c17ef",
+    "ad_unit_id": "fb2a7f46ab7c17ef",
+    "app_id": "68130c5dc1a38845781b32d1",
+    "advertiser_name": "WW2 Duty: FrontLine Zone",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/preview",
+    "phashion_group": "fb2a7f46ab7c17ef",
+    "share": null,
+    "first_seen_at": "2026-04-16T00:00:00",
+    "last_seen_at": "2026-04-17T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Intense first-person shooter combat in a train yard.",
+    "visual_action": "Player aims and fires a heavy weapon at airborne enemies.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Initial engagement with airborne enemies in a train yard setting.",
+    "Player maneuvers between train cars while firing a rocket launcher.",
+    "Close-up shots of enemies being hit and falling from the sky.",
+    "Continuous high-speed combat showcasing weapon mechanics and environment."
+  ],
+  "on_screen_text": [
+    "362",
+    "03:29",
+    "1000",
+    "32/64",
+    "RELOAD",
+    "Invitee44853816"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#4A5D23",
+    "#87CEEB",
+    "#A9A9A9"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy fast-paced first-person shooters and military-themed combat.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015760000000000001
+}

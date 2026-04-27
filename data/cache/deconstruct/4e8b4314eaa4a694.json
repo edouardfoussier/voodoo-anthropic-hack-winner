@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "4e8b4314eaa4a694",
+    "ad_unit_id": "4e8b4314eaa4a694",
+    "app_id": "67d61d6845ea3db694554f49",
+    "advertiser_name": "Gecko Out",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/preview",
+    "phashion_group": "4e8b4314eaa4a694",
+    "share": null,
+    "first_seen_at": "2026-01-10T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A 3D maze navigation challenge featuring a dynamic 'Brain Age' counter.",
+    "visual_action": "A finger icon guides a pink snake through an isometric maze while the 'Brain Age' score fluctuates at the top.",
+    "text_overlay": "NEXT GENERATION SNAKE GAME",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Introduction of the 3D isometric maze and the 'Brain Age' mechanic starting at 75.",
+    "The pink snake navigates the first few corridors, causing the 'Brain Age' to decrease.",
+    "The snake hits a complex junction, and the 'Brain Age' counter fluctuates as the player hesitates.",
+    "The player continues navigating deeper into the maze, attempting to lower the score further."
+  ],
+  "on_screen_text": [
+    "NEXT GENERATION SNAKE GAME",
+    "YOUR BRAIN AGE: 75",
+    "YOUR BRAIN AGE: 69"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#4A4A4A",
+    "#FF00FF",
+    "#D3D3D3"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle players interested in brain training and logic challenges.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001601
+}

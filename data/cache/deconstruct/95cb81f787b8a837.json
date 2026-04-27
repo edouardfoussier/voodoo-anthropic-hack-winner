@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "95cb81f787b8a837",
+    "ad_unit_id": "95cb81f787b8a837",
+    "app_id": "6736ab5cef93f345b08f9d79",
+    "advertiser_name": "피망 쇼다운 홀덤 : 텍사스 홀덤, 포커, 토너먼트",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1161b7a49ac835b5/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1161b7a49ac835b5/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1161b7a49ac835b5/preview",
+    "phashion_group": "95cb81f787b8a837",
+    "share": null,
+    "first_seen_at": "2025-08-11T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "홀덤 토너먼트 오픈!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Introduction to the Pmang Showdown Hold'em tournament with a futuristic city backdrop and live tournament footage.",
+    "visual_action": "Logo animation transitions into a wide shot of a massive live poker tournament hall.",
+    "text_overlay": "피망 쇼다운 홀덤 온라인 새틀라이트",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Intro logo over a cyberpunk city skyline.",
+    "Wide shot of a crowded professional poker tournament venue.",
+    "Close-up shots of professional dealers and players at the tables.",
+    "Close-up of poker chips and a winning hand being revealed.",
+    "Final branding screen with app store download links."
+  ],
+  "on_screen_text": [
+    "PMANG SHOWDOWN HOLD'EM",
+    "피망 쇼다운 홀덤 온라인 새틀라이트",
+    "진짜 승부의 세계로!",
+    "짜릿한 토너먼트를 즐겨보세요",
+    "우승의 시작! 피망 쇼다운 홀덤",
+    "Google Play",
+    "App Store"
+  ],
+  "cta_text": "우승의 시작! 피망 쇼다운 홀덤",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#1a0b2e",
+    "#00e5ff",
+    "#f9d423"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Competitive male poker enthusiasts in Korea looking for professional-grade tournament experiences.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00173
+}

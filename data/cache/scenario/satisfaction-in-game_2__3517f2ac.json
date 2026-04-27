@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_gPJtn71MGXuKJ1EG1CyAYXvg?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZ1BKdG43MU1HWHVLSjFFRzFDeUFZWHZnP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=rwAYqVZX9zAQAh370kfO8u%7EsjswAoFxMaX6w-qz2Bz44EDg87AiC58KtIc9P6o3UsL0xvpukRXNiRNY2a%7ESfvD-DlUdFGQD8lxjFYhsteX%7EJJ6FUtzE3K-Nq9NYLkvGv1L76PgZHjE8PCjujkvx0lLUNowl48EbY0DcEEcNVHwSPG-NQ1dRVLGA5Znb%7ESCL%7Ev3duIjZrVq2xI333iibrlmLaJu1ORe-RAvay1gi6K6UNz3iByzb6xMqc9zY68BO%7E0LcUdXuIDRKkkCz1JiGR4xHai0gWQFanqKKtpqlDDLnk16S0Tuql0fq5FtuVtVY6tvluKmJQfpv06CUyK51J0A__",
+  "job_id": "job_wbDfAn5FJPHtcUrTDG9iuxhN",
+  "asset_id": "asset_gPJtn71MGXuKJ1EG1CyAYXvg",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, Paper.io 2 climactic top-down shot: arena nearly entirely flooded gold #FFD700, last sliver of cyan #00BFFF rival being eliminated, magenta #FF00FF accent glow around the screen edge, native HUD shows 99% progress bar, kill-feed text stacked top-right, coin/gem rain animation, vibrant minimalist 3D bright solid colors, bottom-center meter overlay fully maxed with 'PSYCHOPATH' stamped in glitching neon magenta, screen-flash bloom, no added characters. [Audio: VO (unhinged shout) 'PSYCHOPATH!' / hard-hitting trap drop 128BPM with 808s / screen-flash whoosh, coin cascade chimes, deep bass impact at 0.8s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

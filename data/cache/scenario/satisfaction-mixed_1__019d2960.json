@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_PyZEvscPZoXucYBHnp8eWYEo?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUHlaRXZzY1Bab1h1Y1lCSG5wOGVXWUVvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=j6bAu74a92YDQm2%7EKgAIyyyjpBKLXMUiwJ80Sp99guSGw7HvWxVAqRGTUaR-Zj6MFB7vXRqqxhfHXXbl97iwG4w4z5NNq0yXgJnKRdTAti3a9czy6uNL0LNMAGZV0Rgr3BobIMoLBR9%7E3cP2Fi8IakQ%7Ew6OHbCLkdI9pkxT0rljSv-HIkNxjX5njNRTb9nIByYePs9d1FKX7UUOgBq%7Ea16xjwwpRSV7FO845wQGNEpR7PX3JiFzD79RpVvtkbHGOapcxe8yumMLF8vpQzc1FkB-qkvZi6H-X2j8uMpn7YwtMdUdk0w8uMbjVDmElncRAaKtp0O3JdApewUV%7EBaOgtg__",
+  "job_id": "job_SM1SWZmWmoJg7eYzBEE2Zjfu",
+  "asset_id": "asset_PyZEvscPZoXucYBHnp8eWYEo",
+  "stub": false,
+  "prompt": "Storyboard frame 1, 9:16 vertical, UGC-style: a hand holding a smartphone in portrait, phone screen clearly shows Push'em All gameplay \u2014 sandy-green (#56a38b) platform, blue (#2a7dfa) water, red (#e3001b) stickman crowd being pushed by a blue stickman with extending stick, minimalist 3D bright contrasting colors, slightly blurred living-room background, big white overlay text 'Ever played a game that\u2026' across the top of the frame, casual relatable feel",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

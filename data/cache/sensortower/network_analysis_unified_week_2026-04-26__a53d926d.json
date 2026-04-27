@@ -1,0 +1,793 @@
+[
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "AE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "AR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "AT",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "AU",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "BE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "BR",
+    "network": "Mintegral",
+    "date": "2026-03-23",
+    "sov": 0.000148
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "BR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CA",
+    "network": "Digital Turbine",
+    "date": "2026-03-23",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CA",
+    "network": "InMobi",
+    "date": "2026-03-23",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CA",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 2.9e-05
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CH",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CO",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CZ",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "DE",
+    "network": "Mintegral",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "DK",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "EC",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.00024
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "ES",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "FI",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "FR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "GB",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "HU",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 4.4e-05
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "ID",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "IT",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "MX",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "NL",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "NO",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "PH",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "PL",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "RO",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "SA",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "SE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "SG",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "TH",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 3.7e-05
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "VN",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "ZA",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "AU",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "BR",
+    "network": "Mintegral",
+    "date": "2026-03-30",
+    "sov": 0.000104
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CA",
+    "network": "Mintegral",
+    "date": "2026-03-30",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CH",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.000144
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "GB",
+    "network": "Mintegral",
+    "date": "2026-03-30",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "US",
+    "network": "Mintegral",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 1.2e-05
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "GB",
+    "network": "Mintegral",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "US",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 1.6e-05
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "AR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "AU",
+    "network": "Digital Turbine",
+    "date": "2026-04-13",
+    "sov": 3e-05
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "BE",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "BR",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "BR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CH",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CO",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CZ",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "DK",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "ES",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "FI",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "FR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "GR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "IT",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "MX",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "NL",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "NO",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 2.1e-05
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "PH",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "PT",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "SA",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "SE",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "TH",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "AE",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "AR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "AT",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "BE",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "BR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CH",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CL",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CO",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "CZ",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "EC",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.000514
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "ES",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "FR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "ID",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "IT",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "MX",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "MY",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 1.4e-05
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "NL",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "NO",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "PH",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "PL",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "RO",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "SE",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "SG",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "US",
+    "network": "Mintegral",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "VN",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "6334cb825c183338983c2280",
+    "country": "ZA",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  }
+]

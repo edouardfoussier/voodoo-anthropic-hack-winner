@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_XmstKbWYTaaz4XwgS6XxY6iT?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9YbXN0S2JXWVRhYXo0WHdnUzZYeFk2aVQqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qDoFSzed8re8C4djCGuJoBh4IlEJvwIWxZ6mb9B1WkxJ1PRIpbV7tw9tO2smjQ6JNf%7E4U8ieY59jYD-WtzmuFKZ8ohkgk3GeurhkvEiZeO5PBDiKIAU37g06hOITTZmId1bGf52myseAVJzVL42kSAjpWVaEQYV4B%7EA-nWqzXPJIlMDnDYr%7EcXM4ZkcYWBCyKJvHW-H1WZLaXHM1RFSbaw6mqcKPQHF9JSpVfYgSAmrDZ4JUCzmneNKTg5PRzD6JmA-zVWGoecnNm6bIu0uSBlzNx2eBIG8YsLYl6yK-GFrHb8%7ENKhwZIGnQAJ-Op-4f4dNfV4k6wbiV6U6CGrmdJQ__",
+  "job_id": "job_Ar5cEvuq9xrC6qoCCnKAL142",
+  "asset_id": "asset_XmstKbWYTaaz4XwgS6XxY6iT",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Storyboard frame \u2014 swarm wave, aspect 9:16, authentic Crowd City gameplay: 3-quarter overhead view of a massive red (#FF0000) crowd of low-poly stickmen flooding down a pastel low-poly city avenue, a wave of grey neutrals flipping red mid-step, a smaller blue (#0000FF) crowd scattering and being engulfed, green (#00FF00) rival dot in the distance, Crowd City HUD: timer top-left, score bubbles top-right showing red leading, on-screen text overlay '210\u2026 480\u2026 900?!', simple stickman characters, col",
+  "mode": "video",
+  "input_frames": 1
+}

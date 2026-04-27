@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Q3hPME5whFiLqftCUWQjPems?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUTNoUE1FNXdoRmlMcWZ0Q1VXUWpQZW1zP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=CIbF%7EEeks4nzGSwLUuy%7EueRHDzY5ocLIfC272f9IsrOtZ8hTHV9WR59nv2DUojQUK-9TJVy-Jqz3gcoUBxH1-rOu66P1VtiTds2tYJN7uaqhagIb2JXZy6lG6mMZuehXXIUsFkUN%7E9Vf3CEv5IeT0fIYm9WVLadlEEOdRE6spgVTuWBhioSRrnMxf2ArAR4SKFU2hjmcfBCG2-8bkkDId2XIqb9CMBJiDMQfeoKebnItEOqq9YtpryegpmcfNylpGWIN%7E-%7Eug8E4eSxw38Wn70%7EZqMvw0AVH2rjKtAi6mgyhZ3JehsCey4uKegy959einKUwfIlKo9mbpmnYGimQpQ__",
+  "job_id": "job_hTL4CMosG1whZPA9hpTczTGd",
+  "asset_id": "asset_Q3hPME5whFiLqftCUWQjPems",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical: arrow mid-flight slow-motion across Archery Clash! duel arena, motion-blur trail in #2A9DF4, opponent archer flinching as health bar cracks in #FFD700 numbers, #32CD32 rarity loot crate already glowing in foreground. In-game HUD intact \u2014 turn indicator, ammo count, character portrait. 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting. On-screen text: 'ONE SHOT. ONE DUEL.' in bold yellow. Authentic Archery Clash! gameplay still, not a render. [Audio: no VO / same 128bpm competitive trap drop / arrow whoosh 0-1s, heavy thud impact 1.5s, glass-shatter HP break 2s, coin chime on loot 3.5s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

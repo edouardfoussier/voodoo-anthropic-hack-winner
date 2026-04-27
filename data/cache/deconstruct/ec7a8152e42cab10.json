@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "ec7a8152e42cab10",
+    "ad_unit_id": "ec7a8152e42cab10",
+    "app_id": "55d2acec02ac64a768000016",
+    "advertiser_name": "LINE Rangers: Brown-Cony Wars!",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b9f591045f04463/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b9f591045f04463/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b9f591045f04463/preview",
+    "phashion_group": "ec7a8152e42cab10",
+    "share": null,
+    "first_seen_at": "2026-04-02T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 606,
+    "height": 1080,
+    "message": "LINEレンジャー×デッドアカウントのスペシャルイベントを無料で楽しもう✨\n今ならログインするだけで漆栖川希詠のレンジャーがもらえる！",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Introduction of chibi-style collaboration characters from the 'Dead Account' series.",
+    "visual_action": "A blue-haired character stands center-frame before transitioning to a group shot of five collaboration units against a stylized city backdrop.",
+    "text_overlay": "コラボ限定レンジャーと バトルを楽しもう！",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the main collaboration character in a stylized chibi art style.",
+    "Display of the full roster of five collaboration characters available in the event.",
+    "In-game battle footage featuring the collaboration characters using their special abilities.",
+    "Final call-to-action screen with the collaboration logo and 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "コラボ限定レンジャーと",
+    "バトルを楽しもう！",
+    "LINE レンジャー x デッドアカウント",
+    "今すぐプレイ！"
+  ],
+  "cta_text": "今すぐプレイ！",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#4A90E2",
+    "#F8E71C",
+    "#2D4B3B"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Japanese fans of the Dead Account manga and casual mobile gamers who enjoy character collection RPGs.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001333
+}

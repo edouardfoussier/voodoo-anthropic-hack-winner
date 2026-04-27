@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1562817072",
+  "title": "Gate Stack Frenzy: Oddly Satisfying Mob Multiplier",
+  "hook_3s": "A single blue stickman fires through a glowing ×5 gate and EXPLODES into a stampeding purple crowd — all in 3 seconds.",
+  "scene_flow": [
+    "0-3s HOOK: Top-down cannon POV fires one tiny stickman through a neon ×5 multiplier gate; crowd erupts into a satisfying wave with ASMR pop-pop-pop SFX.",
+    "3-7s ESCALATION: Finger drags cannon left/right, threading mob through stacked ×2, ×3, ×10 gates — counter spins from 5 → 47 → 312 with chunky number pops.",
+    "7-11s TENSION: Mob smashes into a rival red base; quick clash, purple crowd overwhelms it; coins and gems geyser out in yellow accent burst.",
+    "11-14s REWARD: Quick cut to base upgrade screen — a unit card levels up with golden shimmer, cannon visibly grows bigger.",
+    "14-15s CTA: End card with stampeding crowd silhouette behind bold logo + Play Now button pulsing in yellow."
+  ],
+  "visual_direction": "Stylized 3D Cartoon with chunky, low-poly characters and exaggerated squash-and-stretch on the mob. Dominant royal purple (#5824F5) battlefield floor with cyan (#00A3FF) glowing multiplier gates and yellow (#FFD12C) numbers/coins for maximum pop. High-contrast rim lighting on the crowd, slight motion blur on cannon shots, and tactile particle bursts at every gate hit. Camera stays in a slightly tilted top-down 'tabletop' angle for clarity, snap-zooming on the multiplier counter for satisfaction beats. UI mood is loud, kinetic, competitive — every action triggers a juicy SFX and number-pop.",
+  "text_overlays": [
+    "Can you stack ×1000?",
+    "HIT THE GATES →",
+    "×10 COMBO!",
+    "CRUSH THE BASE",
+    "UPGRADE & REPEAT",
+    "TAP TO PLAY"
+  ],
+  "cta": "Play Free",
+  "rationale": "We port only the 'oddly satisfying' emotional beat from the winning archetype and re-skin it onto Mob Control's signature multiplier-gate-to-crowd-explosion moment, eliminating the install-to-bounce risk of a literal jigsaw hook. The royal purple + cyan gates + yellow number-pop combo locks visual brand recall in under 3s and matches the 18-35 male action audience expectation of momentum and scale. Test this against a vanilla gameplay capture; expect higher IPM via the satisfaction loop while preserving truthful gameplay representation.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, stylized 3D cartoon mobile game shot, top-down tilted view of a glowing cyan #00A3FF multiplier gate marked '×10' with a massive royal purple #5824F5 crowd of chunky low-poly stickmen stampeding through it, yellow #FFD12C number '×10 COMBO!' popping in bold cartoon font above the gate, particle sparks and rim lighting, vibrant high-contrast palette (#5824F5, #00A3FF, #FFD12C), energetic competitive mood, clean mobile-ad composition.",
+    "Storyboard frame 1, aspect 9:16, stylized 3D cartoon, close-up of a cartoon cannon firing a single blue stickman toward a row of glowing cyan #00A3FF multiplier gates on a royal purple #5824F5 battlefield, bold yellow #FFD12C overlay text 'HIT THE GATES →' at top, motion blur trails, palette (#5824F5, #00A3FF, #FFD12C), playful action mood.",
+    "Storyboard frame 2, aspect 9:16, stylized 3D cartoon, huge purple #5824F5 stickman mob crashing into a red enemy base, explosion of yellow #FFD12C coins and gems erupting skyward, cyan #00A3FF energy ring on impact, bold overlay text 'CRUSH THE BASE' in chunky cartoon font, palette (#5824F5, #00A3FF, #FFD12C), satisfying victory moment."
+  ]
+}

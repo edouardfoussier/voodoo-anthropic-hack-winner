@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "0d488aeae6c2658f",
+    "ad_unit_id": "0d488aeae6c2658f",
+    "app_id": "595af2650335d6788a000243",
+    "advertiser_name": "Mega Hit Poker: Texas Holdem",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/136df4ee58e57cac/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/136df4ee58e57cac/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/136df4ee58e57cac/preview",
+    "phashion_group": "0d488aeae6c2658f",
+    "share": null,
+    "first_seen_at": "2025-12-23T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Use app",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A high-stakes poker hand is dealt with live-action reactions.",
+    "visual_action": "Cards are dealt on a digital poker table while a man reacts in a picture-in-picture window.",
+    "text_overlay": "TWO PAIR",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Initial poker hand deal showing a 'Two Pair' and potential 'Full House'.",
+    "A woman gestures 'shh' and goes 'All In'.",
+    "A man gestures 'come here' and also goes 'All In'.",
+    "Final transition to the game logo and a simulated app store search and click."
+  ],
+  "on_screen_text": [
+    "MEGA HOLD'EM",
+    "100K/200K",
+    "TWO PAIR",
+    "Possible Full House",
+    "ALL IN",
+    "MEGA HIT POKER",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#1b5e20",
+    "#4a148c",
+    "#ffca28"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Competitive adults who enjoy social casino games and poker strategy.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001613
+}

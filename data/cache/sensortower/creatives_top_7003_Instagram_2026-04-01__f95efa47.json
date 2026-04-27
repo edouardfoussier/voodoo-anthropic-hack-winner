@@ -1,0 +1,394 @@
+{
+  "count": 1370,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "9d0ac7da1544afd7",
+      "app_id": "6178e7bfdb622901de5dd950",
+      "network": "Instagram",
+      "phashion_group": "9d0ac7da1544afd7",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-17",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "9d0ac7da1544afd7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u30d4\u30af\u30df\u30f3\u3068\u4ef2\u826f\u3057",
+          "button_text": "Install Now",
+          "message": "\u30d4\u30af\u30df\u30f3\u3068\u6bce\u65e5\u3092\u904e\u3054\u3057\u3066\u3001\u4ef2\u826f\u3057\u5ea6\u3092\u3042\u3052\u3088\u3046"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6178e7bfdb622901de5dd950",
+        "canonical_country": "JP",
+        "name": "Pikmin Bloom",
+        "publisher_name": "Scopely",
+        "publisher_id": "560c44e48ac3506439005117",
+        "humanized_name": "Pikmin Bloom",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/de/2c/b2de2c1b-b477-9fdb-1ef6-9427d378f541/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6178e7bfdb622901de5dd950",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "ce89c9b2cd59a1e4",
+      "app_id": "582219400211a6c9240005fc",
+      "network": "Instagram",
+      "phashion_group": "ce89c9b2cd59a1e4",
+      "ad_type": "video",
+      "first_seen_at": "2025-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "ce89c9b2cd59a1e4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Now",
+          "button_text": "Play Game",
+          "message": "Fun puzzles & stories."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "582219400211a6c9240005fc",
+        "canonical_country": "US",
+        "name": "Gardenscapes",
+        "publisher_name": "Playrix",
+        "publisher_id": "5614b8de3f07e25d29001b9e",
+        "humanized_name": "Gardenscapes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/64/1e1964c3-4291-3b5f-c6e0-dae70c445d99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "582219400211a6c9240005fc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a94a5d25df6189dd",
+      "app_id": "55c5309f02ac64f9c0002dfe",
+      "network": "Instagram",
+      "phashion_group": "a94a5d25df6189dd",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a94a5d25df6189dd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Free Download",
+          "button_text": "Play Game",
+          "message": "Play with your friends"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5309f02ac64f9c0002dfe",
+        "canonical_country": "US",
+        "name": "Sniper 3D\uff1aGun Shooting Games",
+        "publisher_name": "Wildlife Studios",
+        "publisher_id": "5614e08d3f07e25d2901b7e7",
+        "humanized_name": "Sniper 3D\uff1aGun Shooting Games",
+        "icon_url": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E=s150",
+        "os": "unified",
+        "id": "55c5309f02ac64f9c0002dfe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "aacda5c73c3b6cf4",
+      "app_id": "66c292ff6bbfce0e306de36b",
+      "network": "Instagram",
+      "phashion_group": "aacda5c73c3b6cf4",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-21",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "aacda5c73c3b6cf4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0026696102e823b2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0026696102e823b2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0026696102e823b2/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u30b9\u30de\u30db\u3067\u624b\u8efd\u306b\u30dd\u30b1\u30e2\u30f3\u30ab\u30fc\u30c9",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66c292ff6bbfce0e306de36b",
+        "canonical_country": "US",
+        "name": "Pok\u00e9mon TCG Pocket",
+        "publisher_name": "The Pok\u00e9mon Company",
+        "publisher_id": "561542d73f07e25d2903e682",
+        "humanized_name": "Pok\u00e9mon TCG Pocket",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f4/f6/07f4f628-905e-6843-613f-2c59038004be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66c292ff6bbfce0e306de36b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "841a815551eec839",
+      "app_id": "618499119e5ed235096241dc",
+      "network": "Instagram",
+      "phashion_group": "841a815551eec839",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-12",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "841a815551eec839",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "School Hours? Bingo Time!",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "618499119e5ed235096241dc",
+        "canonical_country": "US",
+        "name": "Bingo Card Klondike Adventures",
+        "publisher_name": "Brightika",
+        "publisher_id": "5febff86d5651249c37b078b",
+        "humanized_name": "Bingo Card Klondike Adventures",
+        "icon_url": "https://play-lh.googleusercontent.com/iAkjsxv0dQFFtLHIp-xKZK-Vljbf2siokJohxVT_b2bTIvJRSIvdAMl40tvoqwykY7_CNBIxMt15rWRj8TiUVw=s150",
+        "os": "unified",
+        "id": "618499119e5ed235096241dc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "bd23c0b07b2d05fb",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "Instagram",
+      "phashion_group": "bd23c0b07b2d05fb",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "bd23c0b07b2d05fb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Epic update\uff01Photo upload feature\uff01",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "089e44e7b18205eb",
+      "app_id": "660dff47d4e03e76a49f832f",
+      "network": "Instagram",
+      "phashion_group": "089e44e7b18205eb",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-08",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "089e44e7b18205eb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "It\u2019s fun even without installing",
+          "button_text": "Install Now",
+          "message": "BIG NEWS!\nGet ready for the most epic gaming experience of your life!\nWhat secrets will you uncover?\nPlay now and find out!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "660dff47d4e03e76a49f832f",
+        "canonical_country": "KR",
+        "name": "\ud611\ub3d9 \ud0c0\uc6cc \ub514\ud39c\uc2a4 : \uce5c\uad6c\uc640 \ud568\uaed8",
+        "publisher_name": "Supermagic",
+        "publisher_id": "6234d6c2b1503f7859bb0e3d",
+        "humanized_name": "\ud611\ub3d9 \ud0c0\uc6cc \ub514\ud39c\uc2a4 : \uce5c\uad6c\uc640 \ud568\uaed8",
+        "icon_url": "https://play-lh.googleusercontent.com/Hlc2-66nb99p3dy5qJE095Di19ib_uSHaEwfJ5_j09vJb2mw98q3cSnGRg28Q-Auww=s150",
+        "os": "unified",
+        "id": "660dff47d4e03e76a49f832f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "eee688813706d9f3",
+      "app_id": "5db2fa73d4a95322499d8b94",
+      "network": "Instagram",
+      "phashion_group": "eee688813706d9f3",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-13",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "eee688813706d9f3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/007b09e35dc2563d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/007b09e35dc2563d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/007b09e35dc2563d/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u2705\u30df\u30cb\u30b2\u30fc\u30e0\u306e\u5b9d\u5eab\u3067\u3001\u697d\u3057\u3055\u304c\u7121\u9650\u5927",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5db2fa73d4a95322499d8b94",
+        "canonical_country": "US",
+        "name": "TopTop",
+        "publisher_name": "Newborn Town",
+        "publisher_id": "562947db3f07e236f9007bb1",
+        "humanized_name": "TopTop",
+        "icon_url": "https://play-lh.googleusercontent.com/7Wf96gNwbTxrSB4crk7QIW-mYzZL7mkwMYquLBJzdpN2Q8ECdHo0OI9FzLA11-C4h71s=s150",
+        "os": "unified",
+        "id": "5db2fa73d4a95322499d8b94",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d198b97344aa6d7",
+      "app_id": "5d5b97412abd3d12ef100cea",
+      "network": "Instagram",
+      "phashion_group": "5d198b97344aa6d7",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-29",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "5d198b97344aa6d7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d5b97412abd3d12ef100cea",
+        "canonical_country": "US",
+        "name": "Jewel Sliding - Block Puzzle",
+        "publisher_name": "Wisdom Network",
+        "publisher_id": "5c689d391109cd4b8d4500bf",
+        "humanized_name": "Jewel Sliding",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/50/b8/ec50b89b-ec72-0761-4751-cb7aadc43f70/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d5b97412abd3d12ef100cea",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "80123d39765f74c4",
+      "app_id": "63c0a80dedbc613cc4f954e4",
+      "network": "Instagram",
+      "phashion_group": "80123d39765f74c4",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-15",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "80123d39765f74c4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "63c0a80dedbc613cc4f954e4",
+        "canonical_country": "US",
+        "name": "Landlord Simulator",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Landlord Simulator",
+        "icon_url": "https://play-lh.googleusercontent.com/I5xiVnmCbJB1aKjbiUCtwokqqWHECt5KAHVD0PQ-gLRg4s4Xw1tU6xmT1gjqmiHc_QbM=s150",
+        "os": "unified",
+        "id": "63c0a80dedbc613cc4f954e4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

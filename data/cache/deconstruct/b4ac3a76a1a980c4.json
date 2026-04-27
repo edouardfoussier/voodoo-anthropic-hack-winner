@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "b4ac3a76a1a980c4",
+    "ad_unit_id": "b4ac3a76a1a980c4",
+    "app_id": "56fee3eff49ea42a540000d4",
+    "advertiser_name": "BURGER KING App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7163957c05501f67/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7163957c05501f67/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7163957c05501f67/preview",
+    "phashion_group": "b4ac3a76a1a980c4",
+    "share": null,
+    "first_seen_at": "2026-04-22T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Probiere den Long Nugget Burger! Jetzt nur noch bis zum 27.04. für nur 2,99 € – nur in der BK App.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced reveal of a Burger King Long Nugget Burger deal with vibrant yellow and red graphics.",
+    "visual_action": "The burger is displayed while a yellow flame background and price tag pop into view.",
+    "text_overlay": "Jetzt holen! Nur für kurze Zeit. Auch als Plant-based* LONG NUGGET BURGER FÜR NUR 2.99€",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Static shot of the Long Nugget Burger on a light background with promotional text.",
+    "Dynamic transition to a bright yellow background with a stylized flame graphic.",
+    "Product name 'LONG NUGGET BURGER' and price '2.99€' appear prominently.",
+    "Final frame holds on the complete offer with legal disclaimers at the bottom."
+  ],
+  "on_screen_text": [
+    "Jetzt holen!",
+    "Nur für kurze Zeit.",
+    "Auch als Plant-based*",
+    "LONG NUGGET BURGER",
+    "FÜR NUR 2.99€"
+  ],
+  "cta_text": "Jetzt holen!",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FDB913",
+    "#D62300",
+    "#F5EBD1"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Value-conscious fast food consumers in Germany looking for a quick deal.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001408
+}

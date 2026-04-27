@@ -1,0 +1,396 @@
+{
+  "count": 201,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "61172e4fb1ad247f",
+      "app_id": "690973a175ff8bcdf7a420e8",
+      "network": "Facebook",
+      "phashion_group": "61172e4fb1ad247f",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-14",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "61172e4fb1ad247f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a9b96dedc0007b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a9b96dedc0007b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a9b96dedc0007b/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u5f7c\u5973\u306e\u7518\u3044\u8a98\u3044\u3001\u30aa\u30fc\u30eb\u30a4\u30f3\u3067\u304d\u308b\u304b\uff1f",
+          "button_text": "Play Game",
+          "message": "\u5973\u795e\u304b\u3089\u306e\u7518\u3044\u62db\u5f85\u3002\u30aa\u30fc\u30eb\u30a4\u30f3\u3067\u5fdc\u3048\u3088"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "690973a175ff8bcdf7a420e8",
+        "canonical_country": "US",
+        "name": "Poker Fate: ACG Texas Hold'em",
+        "publisher_name": "7 points digital tech",
+        "publisher_id": "690973a175ff8bcdf7a420e7",
+        "humanized_name": "Poker Fate: ACG Texas Hold'em",
+        "icon_url": "https://play-lh.googleusercontent.com/gJbDZ6e2kF2XVZEhEfqsBuj7Ty5eyGUa1X-Us4jphfi05B1DqFeeGpUDOno17OUnwJDZ5rAlqYNYBFsa2XSrR10=s150",
+        "os": "unified",
+        "id": "690973a175ff8bcdf7a420e8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f42ba6d0196271bd",
+      "app_id": "5af5afad09c8b14d4327867e",
+      "network": "Facebook",
+      "phashion_group": "f42ba6d0196271bd",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "f42ba6d0196271bd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "Come Back Gift Awaits",
+          "button_text": "Play Game",
+          "message": "WE'VE MISSED YOU! \ud83e\udd17\nRejoin us and claim your surprise gift!\nLimited time only. What are you waiting for?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5af5afad09c8b14d4327867e",
+        "canonical_country": "US",
+        "name": "Jackpot World - Slots Casino",
+        "publisher_name": "Netmarble",
+        "publisher_id": "5614c62a3f07e25d2900a08c",
+        "humanized_name": "Jackpot World",
+        "icon_url": "https://play-lh.googleusercontent.com/GbSmufLwKwNJmOGukpGY-t0g4GLW23QL8YVDEowY3fgKZuDHrvRSivQmzsuLAsNPdVSf92GKjD6B7ON9z77YpA=s150",
+        "os": "unified",
+        "id": "5af5afad09c8b14d4327867e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2d640feefa21b85c",
+      "app_id": "60fb6ed2ea6f9e5e0737e01c",
+      "network": "Facebook",
+      "phashion_group": "2d640feefa21b85c",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-17",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "2d640feefa21b85c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/thumb",
+          "video_duration": 10,
+          "width": 720,
+          "height": 1280,
+          "title": "Claim your COMEBACK GIFTS now!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "60fb6ed2ea6f9e5e0737e01c",
+        "canonical_country": "US",
+        "name": "Jackpot Master - Slots - Casino",
+        "publisher_name": "Tripledot Studios",
+        "publisher_id": "5a63fb6f68c90d39d2db5430",
+        "humanized_name": "Jackpot Master",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/c4/a8/f9c4a8c5-2dd3-aee9-a905-59e80ae70797/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "60fb6ed2ea6f9e5e0737e01c",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "30feaac4fac5536a",
+      "app_id": "5d7d610eecda053b441077fe",
+      "network": "Facebook",
+      "phashion_group": "30feaac4fac5536a",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-18",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "30feaac4fac5536a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02896151e11fd170/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02896151e11fd170/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02896151e11fd170/thumb",
+          "video_duration": 13,
+          "width": 720,
+          "height": 1280,
+          "title": "Play now !!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d7d610eecda053b441077fe",
+        "canonical_country": "US",
+        "name": "Holdem or Foldem: Texas Poker",
+        "publisher_name": "AppLovin",
+        "publisher_id": "5b636e91197e97572b98422b",
+        "humanized_name": "Holdem or Foldem",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/22/d2/ba22d262-df91-cea3-add7-1e8aaadadea0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d7d610eecda053b441077fe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "4ed4b366fdc1dc92",
+      "app_id": "5622fcd702ac641c8800003a",
+      "network": "Facebook",
+      "phashion_group": "4ed4b366fdc1dc92",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-05",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "4ed4b366fdc1dc92",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/069b4e81029fee23/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/069b4e81029fee23/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/069b4e81029fee23/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u6700\u9ad8\u914d\u5f53\u3092\u76ee\u6307\u305b\uff01\u6bce\u65e5\u304c\u30dc\u30fc\u30ca\u30b9\u78ba\u5b9a\u796d\uff01",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5622fcd702ac641c8800003a",
+        "canonical_country": "US",
+        "name": "GoldenHoYeah Slots-Slots Games",
+        "publisher_name": "International Games System",
+        "publisher_id": "560c7f128ac35064390304f2",
+        "humanized_name": "GoldenHoYeah Slots-Slots Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/a8/70/dfa87035-1031-4ad1-1654-8e53ea49401d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5622fcd702ac641c8800003a",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3b5ba0b2a5ff183d",
+      "app_id": "5d7d610eecda053b441077fe",
+      "network": "Facebook",
+      "phashion_group": "3b5ba0b2a5ff183d",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-13",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "3b5ba0b2a5ff183d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/092c6b27be259a27/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/092c6b27be259a27/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/092c6b27be259a27/thumb",
+          "video_duration": 11,
+          "width": 720,
+          "height": 1280,
+          "title": "Play now !!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d7d610eecda053b441077fe",
+        "canonical_country": "US",
+        "name": "Holdem or Foldem: Texas Poker",
+        "publisher_name": "AppLovin",
+        "publisher_id": "5b636e91197e97572b98422b",
+        "humanized_name": "Holdem or Foldem",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/22/d2/ba22d262-df91-cea3-add7-1e8aaadadea0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d7d610eecda053b441077fe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "45a2ea16211dbd1f",
+      "app_id": "5622fcd702ac641c8800003a",
+      "network": "Facebook",
+      "phashion_group": "45a2ea16211dbd1f",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-27",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "45a2ea16211dbd1f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ded17f1de438fae/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ded17f1de438fae/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ded17f1de438fae/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u30b9\u30ed\u30c3\u30c8\u30fb\u91e3\u308a\u30fb\u30ab\u30b8\u30ce\u304c\u5168\u90e8\u4e00\u3064\u306b\uff01\ud83c\udfb0",
+          "button_text": "Download",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5622fcd702ac641c8800003a",
+        "canonical_country": "US",
+        "name": "GoldenHoYeah Slots-Slots Games",
+        "publisher_name": "International Games System",
+        "publisher_id": "560c7f128ac35064390304f2",
+        "humanized_name": "GoldenHoYeah Slots-Slots Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/a8/70/dfa87035-1031-4ad1-1654-8e53ea49401d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5622fcd702ac641c8800003a",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3c01b52253524c96",
+      "app_id": "5d7d610eecda053b441077fe",
+      "network": "Facebook",
+      "phashion_group": "3c01b52253524c96",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-25",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "3c01b52253524c96",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0e767eb74888ce8c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0e767eb74888ce8c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0e767eb74888ce8c/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play now !!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d7d610eecda053b441077fe",
+        "canonical_country": "US",
+        "name": "Holdem or Foldem: Texas Poker",
+        "publisher_name": "AppLovin",
+        "publisher_id": "5b636e91197e97572b98422b",
+        "humanized_name": "Holdem or Foldem",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/22/d2/ba22d262-df91-cea3-add7-1e8aaadadea0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d7d610eecda053b441077fe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "deb46fe663d9ddc4",
+      "app_id": "55c506cf02ac64f9c000215e",
+      "network": "Facebook",
+      "phashion_group": "deb46fe663d9ddc4",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-22",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "deb46fe663d9ddc4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "What are you waiting for?",
+          "button_text": "Learn More",
+          "message": "You are a WSOP player, of course you get a Daily Bonus \ud83e\udd11"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c506cf02ac64f9c000215e",
+        "canonical_country": "US",
+        "name": "WSOP Poker: Texas Holdem Game",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "WSOP Poker: Texas Holdem Game",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/a6/c5/04a6c543-1162-bb69-5e4f-289bb2fb6c95/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c506cf02ac64f9c000215e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a0033815fbd32d7d",
+      "app_id": "55d20e5802ac64ee73000618",
+      "network": "Facebook",
+      "phashion_group": "a0033815fbd32d7d",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-24",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "a0033815fbd32d7d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11121fb6bef22f07/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11121fb6bef22f07/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11121fb6bef22f07/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Huge Wins! \ud83d\udc3a",
+          "button_text": "Play Game",
+          "message": "Come back to the fun \ud83c\udf1f Spin now and WIN Massive Rewards! \ud83c\udf81\ud83d\udcb0"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d20e5802ac64ee73000618",
+        "canonical_country": "US",
+        "name": "Gold Fish Casino Slots Games",
+        "publisher_name": "Light & Wonder",
+        "publisher_id": "55f8936c8ac350426b0382e4",
+        "humanized_name": "Gold Fish Casino Slots Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/80/74/0580741d-0327-b975-42cd-c7217397178f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d20e5802ac64ee73000618",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

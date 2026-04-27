@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "fb3e1e24ca488158",
+    "ad_unit_id": "fb3e1e24ca488158",
+    "app_id": "67594de3d9e52a2021e5354f",
+    "advertiser_name": "Crossword Go!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2f97fa02faf4fd09/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2f97fa02faf4fd09/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2f97fa02faf4fd09/preview",
+    "phashion_group": "fb3e1e24ca488158",
+    "share": null,
+    "first_seen_at": "2026-02-11T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Think you're a true wordsmith? Solve challenging crosswords daily and train your brain!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Solving a food-themed crossword puzzle by dragging letters to complete a word.",
+    "visual_action": "Letters are dragged into slots to complete the word 'DONUT' next to a donut icon, triggering a visual reward.",
+    "text_overlay": "TACO, DONUT",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Crossword puzzle displayed with 'TACO' already filled and food icons as clues.",
+    "Player drags letters 'D', 'O', 'N', 'U', 'T' into the middle row to match the donut icon.",
+    "The word 'DONUT' is completed, triggering a large donut graphic and sparkle effects.",
+    "The puzzle remains with 'DONUT' filled and remaining letters 'G R' at the bottom."
+  ],
+  "on_screen_text": [
+    "TACO",
+    "DONUT",
+    "G O R T U",
+    "GO"
+  ],
+  "cta_text": "GO",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#4B2414",
+    "#2ECC71",
+    "#FFFFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle players who enjoy word games and food-themed visual rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001321
+}

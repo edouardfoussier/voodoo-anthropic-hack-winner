@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "b773f9810854a5c7",
+    "ad_unit_id": "b773f9810854a5c7",
+    "app_id": "5d7d610eecda053b441077fe",
+    "advertiser_name": "Holdem or Foldem: Texas Poker",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02896151e11fd170/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02896151e11fd170/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02896151e11fd170/preview",
+    "phashion_group": "b773f9810854a5c7",
+    "share": null,
+    "first_seen_at": "2026-03-18T00:00:00",
+    "last_seen_at": "2026-04-01T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Homer Simpson checks his poker hand and grins with confidence.",
+    "visual_action": "Close-up of yellow hands revealing a pair of 7s, followed by Homer's wide, toothy grin.",
+    "text_overlay": null,
+    "voiceover_transcript": "Heh heh heh heh",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Homer reveals a pair of 7s and smiles confidently at the poker table.",
+    "Reaction shots of other Springfield characters looking intimidated by his bet.",
+    "Homer pushes a massive stack of chips into the pot as the table glows.",
+    "Final title card for 'Hold'em or Fold'em' with app store links."
+  ],
+  "on_screen_text": [
+    "7",
+    "HOLD'EM OR FOLD'EM",
+    "Available on the App Store",
+    "GET IT ON Google Play"
+  ],
+  "cta_text": "Available on the App Store / GET IT ON Google Play",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#FFD90F",
+    "#2E7D32",
+    "#C62828"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult fans of The Simpsons and casual poker players looking for a themed gambling experience.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015930000000000002
+}

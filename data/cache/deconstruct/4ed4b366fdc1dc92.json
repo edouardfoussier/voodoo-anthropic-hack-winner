@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "4ed4b366fdc1dc92",
+    "ad_unit_id": "4ed4b366fdc1dc92",
+    "app_id": "5622fcd702ac641c8800003a",
+    "advertiser_name": "GoldenHoYeah Slots-Slots Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/069b4e81029fee23/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/069b4e81029fee23/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/069b4e81029fee23/preview",
+    "phashion_group": "4ed4b366fdc1dc92",
+    "share": null,
+    "first_seen_at": "2026-02-05T00:00:00",
+    "last_seen_at": "2026-04-17T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Aztec-themed slot machine with multiple scatter symbols and falling coins.",
+    "visual_action": "A 3x3 slot grid lands on multiple Aztec pyramid scatter symbols while gold coins rain down from the top of the screen.",
+    "text_overlay": "寂しかったよ。戻ってきて\n戻るだけで 最大50億コイン\nAZTEC",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Aztec slot machine gameplay showing a high-win scatter state with falling coins.",
+    "Transition to the game lobby featuring multiple themed slot machines.",
+    "Close-up of an anime-style slot machine showing a 'BONUS' screen and gameplay.",
+    "Final call-to-action screen with download instructions and a play button."
+  ],
+  "on_screen_text": [
+    "SCATTER",
+    "寂しかったよ。戻ってきて",
+    "戻るだけで 最大50億コイン",
+    "AZTEC",
+    "ゴールデンホイヤー",
+    "ダウンロードは ゴールデンホイヤー 検索",
+    "今すぐダウンロードで 100万コインゲット！",
+    "激アツ 超楽しい",
+    "プレイする"
+  ],
+  "cta_text": "プレイする",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#FFD700",
+    "#6A0DAD",
+    "#FFFFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Japanese adults who enjoy social casino games and anime-themed slot machines.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017720000000000001
+}

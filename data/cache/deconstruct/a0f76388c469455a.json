@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "a0f76388c469455a",
+    "ad_unit_id": "a0f76388c469455a",
+    "app_id": "590ddbfc0211a601c0000114",
+    "advertiser_name": "Word Trip - Word Puzzle Game",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bd3293271103139/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bd3293271103139/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bd3293271103139/preview",
+    "phashion_group": "a0f76388c469455a",
+    "share": null,
+    "first_seen_at": "2022-06-27T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "How do you play it!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A word puzzle challenge asking viewers to find hidden words.",
+    "visual_action": "Static word wheel with letters U, B, O, T, D and empty slots above a scenic background.",
+    "text_overlay": "How many words can you spot? Comment them!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Puzzle interface appears with a prompt to find and comment words.",
+    "The word 'OUT' is spelled out and fills a slot.",
+    "The word 'BUT' is spelled out and fills a slot.",
+    "The word 'DOT' is spelled out and fills a slot.",
+    "The word 'DOUBT' is spelled out, completing the puzzle."
+  ],
+  "on_screen_text": [
+    "Solved by 49.54% players",
+    "How many words can you spot? Comment them!",
+    "OUT",
+    "BUT",
+    "DOT",
+    "DOUBT"
+  ],
+  "cta_text": "Comment them!",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#87CEEB",
+    "#A0522D",
+    "#FFFFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy word-finding games and mental challenges.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014789999999999998
+}

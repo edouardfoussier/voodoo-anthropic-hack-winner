@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "a02d273ace9ffa77",
+    "ad_unit_id": "a02d273ace9ffa77",
+    "app_id": "681eb48a7a54db51c803a365",
+    "advertiser_name": "Foodie Sizzle",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ac393ba823a1be6/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ac393ba823a1be6/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ac393ba823a1be6/preview",
+    "phashion_group": "a02d273ace9ffa77",
+    "share": null,
+    "first_seen_at": "2025-12-18T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 540,
+    "height": 960,
+    "message": "Foodie Sizzle feels like a soft daydream, join with me pls",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A young man is shown lying on a bed, happily playing a mobile game with a text overlay suggesting the game makes him happy.",
+    "visual_action": "Man lying on a bed, looking at his phone and smiling.",
+    "text_overlay": "👩‍🦱: \"You look happy...\" Me: Thanks, I'm playing Foodie Sizzle",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Man lies on bed looking at phone with text overlays about being happy.",
+    "Man rolls over onto his back while continuing to play the game.",
+    "Close-up of the game interface on the phone screen.",
+    "Man rolls back to his stomach, showing continued engagement with the game."
+  ],
+  "on_screen_text": [
+    "👩‍🦱: \"You look happy...\"",
+    "Me: Thanks, I'm playing Foodie Sizzle"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#F5F5F5",
+    "#212121",
+    "#E0C097"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Young adults and teens looking for casual, mood-boosting mobile games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001163
+}

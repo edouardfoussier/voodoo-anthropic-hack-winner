@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "target_game_id": "1617391485",
+  "title": "Block Cascade ASMR — Pour, Snap, Clear",
+  "hook_3s": "A glossy waterfall of jewel-bright polyomino blocks pours from above and snaps into an 8x8 navy grid with a deep, satisfying click.",
+  "scene_flow": [
+    "0–3s HOOK: Camera tilts up as a stream of glossy beveled blocks (red, yellow, green, purple) pours like candy from off-screen into a hovering 8x8 navy grid; each block lands with a tactile snap and subtle bloom.",
+    "3–7s BUILD: Macro close-up — a single L-piece is dragged by a finger silhouette into the last empty slot of a row; the row flashes gold (#FFD700) and shatters into sparkling particles. Score counter ticks up rapidly.",
+    "7–11s PAYOFF: Pull back to full board. A chain of 4 simultaneous line clears cascades across rows AND columns, gold light sweeping the screen, stars and gems tumbling out.",
+    "11–14s STAKES: Quick cut — board nearly full, one perfect T-piece slot remains. Finger hovers, drops it: BOOM, full grid wipe, screen goes white-gold.",
+    "14–15s CTA: Logo lockup on royal blue background, glossy block CTA button pulses."
+  ],
+  "visual_direction": "Lean fully into Block Blast's DNA: deep royal blue (#5469B9) ambient backdrop, dark navy (#1E2744) game board with crisp inner shadow, and saturated jewel-tone blocks with glossy beveled edges and soft specular highlights. Use #FFD700 exclusively as the \"reward\" color — line-clear flashes, score pops, sparkle particles, CTA glow. Keep camera language clean and product-rendered: macro depth-of-field, slow-mo on snaps, ASMR-grade sound design (click, swoosh, chime). No characters, no clutter — just tactile geometry and satisfying physics.",
+  "text_overlays": [
+    "Can you clear it?",
+    "Drag. Snap. Clear.",
+    "+1,240 COMBO!",
+    "4-LINE CHAIN ⚡",
+    "Your turn.",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "Adapts the Satisfaction·3D-render archetype's \"pour into container\" sensory beat into a native Block Blast moment — blocks cascading into the 8x8 grid — so we keep the ASMR pull while bridging directly into gameplay by second 3 (fixing the archetype's biggest weakness for this title). The all-in commitment to the game's royal-blue + gold reward palette signals puzzle-intent to the right 25–55 casual audience and avoids the lifestyle/food skew. Recommend testing against a control with an early \"tap to clear\" interactive end-card to lift CTR.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect ratio, mobile ad still: a glossy stream of beveled polyomino blocks in saturated red, yellow, green and purple pouring from above and snapping into an 8x8 dark navy grid floating in mid-air, royal blue ambient background (#5469B9), dark navy board (#1E2744), gold accent sparkles (#FFD700) bursting on impact, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, macro depth of field, soft studio rim light, ASMR product-render quality, on-screen text overlay reading 'Drag. Snap. Clear.' in bold white sans-serif at top center, no characters, no clutter.",
+    "Storyboard frame 2, 9:16 vertical aspect ratio: extreme close-up of a single glossy L-shaped block being dropped into the final slot of a row on an 8x8 dark navy grid, the completed row flashing brilliant gold (#FFD700) and shattering into sparkle particles, royal blue (#5469B9) backdrop with dark navy board (#1E2744), clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, dramatic specular highlights, slow-motion 3D render, on-screen text overlay '+1,240 COMBO!' in bold gold numerals top-right, mobile game ad style.",
+    "Storyboard frame 3, 9:16 vertical aspect ratio: wide top-down hero shot of an 8x8 dark navy grid (#1E2744) with four simultaneous line clears cascading across rows and columns, gold light sweep (#FFD700), tumbling collectible stars and gems, royal blue (#5469B9) glowing background, glossy beveled multi-colored blocks mid-shatter, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, cinematic 3D render, on-screen text overlay '4-LINE CHAIN ⚡' in bold white centered, premium mobile puzzle ad."
+  ]
+}

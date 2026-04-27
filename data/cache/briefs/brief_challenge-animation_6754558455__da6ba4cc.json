@@ -1,0 +1,28 @@
+{
+  "archetype_id": "challenge-animation",
+  "target_game_id": "6754558455",
+  "title": "Beat the Belt: Sort Before Time Runs Out!",
+  "hook_3s": "A timer ticks down as a wave of colorful marbles tumbles toward mismatched boxes — \"Can you sort them all in 5 seconds?\"",
+  "scene_flow": [
+    "0–3s HOOK: Top-down close-up of pastel marbles cascading onto the conveyor as a soft '5… 4… 3…' timer pulses in orange. Overlay: 'Can You Sort It In Time?'",
+    "3–7s CHALLENGE: Camera pulls back to show trays full of red, blue, green, yellow marbles racing toward the wrong-colored boxes. A finger taps to release, marbles bounce satisfyingly into matching slots.",
+    "7–11s NEAR-FAIL: One stray marble heads to the wrong box — slow-mo wobble, timer flashes red. A last tap redirects it with a soft 'pop' chime. Overlay: 'So close!'",
+    "11–14s WIN: All boxes fill, confetti burst in pastel + orange, level-up stars pop. Overlay: '99% Can't Do It — Can You?'",
+    "14–15s CTA: Logo lockup over a clean conveyor still. Overlay: 'Play Free'"
+  ],
+  "visual_direction": "Lean fully into Marble Sort!'s clean 3D cartoon look: soft lavender (#E5DFFF) backdrop, light-grey (#F0F0F8) machine, with the vibrant orange (#FFB13B) reserved for the ticking timer, callout text, and win-state confetti to manufacture 'challenge' tension without breaking the calm aesthetic. Rounded shapes, glossy marbles with soft rim light, gentle depth-of-field, and ASMR-tier physics sound design (clinks, pops, soft thuds). No characters, no shouting — the urgency comes from the countdown and a near-miss marble, not from anime-style intensity.",
+  "text_overlays": [
+    "Can You Sort It In Time?",
+    "5… 4… 3…",
+    "So close!",
+    "99% Can't Do It",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "We're discarding the Dragon Ball Z combat framing entirely (IP risk + tonal mismatch) and re-channeling the archetype's 'challenge' emotional pitch into a beat-the-clock sorting fail-state — a proven puzzle UA pattern that fits the 25-55 female casual audience. The countdown timer and near-miss marble create stakes while preserving the satisfying ASMR pastel vibe that makes the game install. UA team: test this against a calmer 'pure satisfying sort' control to see if challenge framing lifts IPM for cold puzzle audiences.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, top-down three-quarter view of a soft-rounded 3D cartoon marble-sorting machine on a lavender #E5DFFF background, light grey #F0F0F8 conveyor belt mid-motion with glossy pastel marbles (red, blue, green, yellow) tumbling toward colored boxes, a vibrant orange #FFB13B circular countdown timer reading '3' pulsing in the upper third, bold rounded orange text overlay 'Can You Sort It In Time?', clean and colorful 3D cartoon style with soft rounded shapes, soft rim lighting, gentle depth of field, satisfying mobile puzzle ad aesthetic",
+    "Storyboard frame near-fail moment, aspect 9:16, close-up 3D cartoon shot of a single glossy red marble wobbling on the edge of a blue box on a light grey #F0F0F8 conveyor, lavender #E5DFFF background, orange #FFB13B timer flashing in the corner, motion blur trails on nearby marbles, bold rounded orange text overlay 'So close!', clean and colorful 3D cartoon style with soft rounded shapes, dramatic but cozy lighting",
+    "Storyboard win frame, aspect 9:16, wide 3D cartoon shot of four boxes filled with neatly sorted pastel marbles, confetti burst in #FFB13B orange and soft pastels exploding above, lavender #E5DFFF backdrop, light grey #F0F0F8 machine, bold rounded orange text overlay '99% Can't Do It', clean and colorful 3D cartoon style with soft rounded shapes, celebratory yet calm mood, mobile vertical ad framing"
+  ]
+}

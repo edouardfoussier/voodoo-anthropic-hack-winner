@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_TTyEbDPRteSaCiniXHFZQUWg?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVFR5RWJEUFJ0ZVNhQ2luaVhIRlpRVVdnP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=bXyOeNjovaeL%7EuT23yVD8FNJmaAomDkv0vGrHXt0v0ls-lVgGuy54E10s60f3L6Imu4njp9ohAQpK0UiUZhh--ihBokMvOaI8cgGB8BrbQKNtnYbqDmpYX9EKDOgHholuWKvQBgaGFJejs%7ELwAvrThCn4SjtOjCHLAl6xkLzu46NQdD6t-nmzR67IOW57QvSIZnmZPm4Cj45VDAjrYBiKSsgSZSYK-zqo0ExHymL1GELdpUP71-55DdpuV29ZgRQogxzp25BTzcgUyYnF52EkTQyLU7VT-Wv1oWyC2VtoQShPwu7X13nTXTXA5OnpCgjCMDo5eWCkNR-9kSCCZTbwQ__",
+  "job_id": "job_qLm8pYs1TFKJDvNgp4vcXvUn",
+  "asset_id": "asset_TTyEbDPRteSaCiniXHFZQUWg",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic Roof Rails in-game screenshot: low over-the-shoulder chase camera on a faceless minimalist runner sprinting down a stark white rooftop path, balancing an extremely long horizontal yellow (#FFC824) pole studded with collectible pole-piece segments, mid-slide entering a glowing cyan (#5CD6FF) rail that stretches between two pastel cyan (#EAF6FA) skyscraper blocks, tiny diamond currency icons floating along the path, top-left progress bar and level indicator HUD, bold white sans-serif overlay text 'PSYCHOPATH' slamming center-frame with a yellow flash, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, bright cyan sky, no clutter, no fabricated UI",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

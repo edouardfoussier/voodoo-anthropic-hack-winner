@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_vYnx7gHpty6ruNvtXGT3T7Lr?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdllueDdnSHB0eTZydU52dFhHVDNUN0xyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=JgmdN4pRQwT-iOjMDg4SX51vhPKSoFEbXTz8KC16yXSrJXJUOa9M-PFpoAzjjnJD2DSMVF8q9IcdKaljmVEK9Z0jUy6EzfYwiyhptXOCdRzmHvDCR1VTT6IV1FpojmHI3RuomN4VfVv1BViXu0BQIUyv4Ws9BJv8E99Gxy51UQ0gdcic3Kew5HTaBrP55B0jdvoR%7EeCq%7EvjJ3xoAgjA0P00Qn7JD3NPDc5k7CsMxn9APqlNACF1LI91nn4SqFOFzQrSrACkwgupmERkf1c9nUPYIsw-o2VdsHigGsNvGtC-dUsbaIqgOQDVHVJsSqKgj4uoTgC49AfbPCdbBh1ByTQ__",
+  "job_id": "job_EKYKRPvgVd8b8ypKKjmnPdZ4",
+  "asset_id": "asset_vYnx7gHpty6ruNvtXGT3T7Lr",
+  "stub": false,
+  "prompt": "Storyboard frame 1, aspect 9:16, stylized 3D cartoon, close-up of a cartoon cannon firing a single blue stickman toward a row of glowing cyan #00A3FF multiplier gates on a royal purple #5824F5 battlefield, bold yellow #FFD12C overlay text 'HIT THE GATES \u2192' at top, motion blur trails, palette (#5824F5, #00A3FF, #FFD12C), playful action mood.",
+  "model_id": "flux.1-dev"
+}

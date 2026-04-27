@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_eh6orpdcfvmQbaF5mY7NPusV?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZWg2b3JwZGNmdm1RYmFGNW1ZN05QdXNWP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qyHdVP1i2GZiGKiljV-VbIOiHGkvKv978WlLIOS5f991wa3jQkobxhbINj5VMTIyRKjQaEC5L7j-iWQITcioihYrze7526uk-P9aRqBW5RZYKwiy%7EmEy-QgKTsrvWYMRLXQC2I59KJ2AuOJrR7-%7E0eq30jzt%7EMtqotKk1fT6Ts5mDh-oAJbtgzTUQHH6v7R2EtIg1l4qdCLie-jdp14lmDM-EmkQW0kR667jfgekyOjv6jouUDCBfK8CyO5LYFK4CXRypqCADuN3QK2FTH3YRQ18p0W7jL1adWQx6LuTXb2RpXeH%7EyGqqkx9ZOsZ9ka4U-YYT7MQEtwLKAbQntnkJw__",
+  "job_id": "job_KESzS8yVC3rgfqoPPv5i7n81",
+  "asset_id": "asset_eh6orpdcfvmQbaF5mY7NPusV",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16: over-the-shoulder shot of a 32-year-old woman on a soft grey couch in soft natural daylight, holding a smartphone whose screen glows royal blue (#5469B9); on the phone, a clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark navy grid (#1E2744) with a row exploding into bright gold (#FFD700) sparks; her face shows a delighted gasp; on-screen text overlay reads 'this is my new stress reliever'; cinematic, premium mobile-ad still, shallow depth of field.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

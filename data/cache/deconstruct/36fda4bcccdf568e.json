@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "36fda4bcccdf568e",
+    "ad_unit_id": "36fda4bcccdf568e",
+    "app_id": "64b3d49432c4c106de15913b",
+    "advertiser_name": "Pokémon Sleep",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/94571721e8371a4c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/94571721e8371a4c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/94571721e8371a4c/preview",
+    "phashion_group": "36fda4bcccdf568e",
+    "share": null,
+    "first_seen_at": "2026-02-18T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "スマートフォンを枕元に置いてポケモンと楽しく睡眠管理 今すぐダウンロード",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A cute Fuecoco wakes up briefly before falling back into a deep sleep.",
+    "visual_action": "Fuecoco yawns and collapses back onto its belly in a cozy, dimly lit setting.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Fuecoco wakes up and falls back asleep in a cozy environment.",
+    "UI demonstration showing sleep tracking graphs and data on a smartphone.",
+    "A wide shot of various Pokémon sleeping around a Snorlax in a grassy field.",
+    "A close-up of a sleeping Charmander being recorded in the sleep dex.",
+    "Final logo reveal with App Store and Google Play download buttons."
+  ],
+  "on_screen_text": [
+    "ポケモンと一緒に毎朝楽しく",
+    "今日の睡眠グラフ",
+    "睡眠計測を始めよう！",
+    "No.4 ヒトカゲ / すやすや",
+    "# ぱちぱち寝",
+    "Pokémon Sleep",
+    "今すぐダウンロード"
+  ],
+  "cta_text": "今すぐダウンロード",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#78C8E1",
+    "#FFFFFF",
+    "#88C057"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Pokémon fans of all ages who want to gamify their sleep routine and collect cute characters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015999999999999999
+}

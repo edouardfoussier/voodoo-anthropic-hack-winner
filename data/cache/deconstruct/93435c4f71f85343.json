@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "93435c4f71f85343",
+    "ad_unit_id": "93435c4f71f85343",
+    "app_id": "576fc77df7b5cc0861000419",
+    "advertiser_name": "Empires & Puzzles: Match-3 RPG",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bbd727949bf5627/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bbd727949bf5627/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0bbd727949bf5627/preview",
+    "phashion_group": "93435c4f71f85343",
+    "share": null,
+    "first_seen_at": "2025-11-28T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Explore a new world above the clouds and recruit dragons ☁️",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapidly cycling through locked fantasy characters with interactive swipe prompts.",
+    "visual_action": "A barbarian, wolf-man, and blue-skinned woman appear behind chains and a padlock with directional arrows indicating a choice.",
+    "text_overlay": "CLAIM YOUR HERO!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Initial view of a locked barbarian hero with swipe arrows and 'CLAIM YOUR HERO!' text.",
+    "Transition to a locked wolf-man warrior character in the same dungeon setting.",
+    "Transition to a locked blue-skinned female character wearing a wide-brimmed hat.",
+    "Rapid cycling through all three characters to emphasize the variety of heroes available to unlock."
+  ],
+  "on_screen_text": [
+    "CLAIM YOUR HERO!",
+    "UNLOCK NOW",
+    "EMPIRES AND PUZZLES"
+  ],
+  "cta_text": "UNLOCK NOW",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFD700",
+    "#5C1010",
+    "#44C300"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Mid-core fantasy RPG enthusiasts who enjoy character collection and the thrill of unlocking new heroes.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016060000000000002
+}

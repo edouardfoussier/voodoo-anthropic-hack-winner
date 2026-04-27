@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "c3007b220a317a7a",
+    "ad_unit_id": "c3007b220a317a7a",
+    "app_id": "62429cefb3ae2756c91a89ac",
+    "advertiser_name": "Diablo Immortal",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e45bd8a845561d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e45bd8a845561d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e45bd8a845561d/preview",
+    "phashion_group": "c3007b220a317a7a",
+    "share": null,
+    "first_seen_at": "2026-03-23T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "No boundaries, just battles. Unleash Hell wherever your day takes you!",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Day 1 vs Day 200 progression hook featuring a female actor.",
+    "visual_action": "Split screen showing a woman talking on top and early-game combat on the bottom.",
+    "text_overlay": "Day 1 in DIABLO IMMORTAL",
+    "voiceover_transcript": "Day one in Diablo Immortal. I selected the Demon Hunter, picked up a rusty crossbow",
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "Introduction of Day 1 gameplay with a casual player testimonial and basic combat.",
+    "Transition to Day 200 showing the player in full armor cosplay and advanced gear.",
+    "High-level gameplay montage showcasing complex skills and group combat dynamics.",
+    "Final end card featuring the game logo, character art, and download buttons."
+  ],
+  "on_screen_text": [
+    "Day 1 in DIABLO IMMORTAL",
+    "Testimonial by Paid Actors",
+    "I selected the Demon Hunter,",
+    "picked up a Rusty Crossbow",
+    "and cleared my first dungeon",
+    "Day 200 in DIABLO IMMORTAL",
+    "I've climbed the ranks",
+    "of the Shadows",
+    "in the Cycle of Strife",
+    "battling alongside",
+    "even stronger allies.",
+    "ACCEPT THE CHALLENGE"
+  ],
+  "cta_text": "ACCEPT THE CHALLENGE",
+  "cta_timing_seconds": 11.5,
+  "palette_hex": [
+    "#000000",
+    "#8B0000",
+    "#FFD700"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Mid-core to hardcore gamers who enjoy dark fantasy RPGs and long-term character progression.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001927
+}

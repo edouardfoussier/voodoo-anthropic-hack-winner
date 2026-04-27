@@ -1,0 +1,29 @@
+{
+  "archetype_id": "other-animation",
+  "target_game_id": "1235581326",
+  "title": "Hero Pose: Champion Ball vs. Rival",
+  "hook_3s": "A glowing basketball charges up mid-air between two hoops as a magenta \"VS\" banner slams onto the screen — PLAY NOW!",
+  "scene_flow": [
+    "0-3s: Hero frame — the Flappy Dunk basketball hovers center-screen between two hoops, crackling with blue energy aura, beige court backdrop, giant magenta 'PLAY NOW!' banner slams in.",
+    "3-7s: Quick gameplay cut — finger taps, ball flap-bounces through three hoops in rapid succession, score counter ticks 1→2→3 with combo flash.",
+    "7-11s: Split-screen VS — player ball (blue trail) vs rival ball (magenta trail) racing through parallel hoop lanes, score comparison UI on top.",
+    "11-14s: Player ball nails a buzzer-beater hoop, rival ball clips the rim and falls, 'WINNER!' stamp explodes in magenta.",
+    "14-15s: End card — logo + giant blue 'PLAY NOW!' CTA button pulsing."
+  ],
+  "visual_direction": "Lean fully into Flappy Dunk's signature 2D cartoon look: thick black outlines, flat shading, warm beige (#EAD5A0) court/sky background, saturated magenta (#D81155) banners and rival accents, bright blue (#5CB3FF) energy aura and player trail. Hero frame mimics a comic-book splash page — static, iconic, poster-like — so the basketball reads as the \"character\" the way Goku does in the source archetype. Keep the in-game HUD (score counter, lives/hearts, combo burst) visible to anchor authenticity.",
+  "text_overlays": [
+    "PLAY NOW!",
+    "TAP TO FLY",
+    "3X COMBO!",
+    "VS RIVAL",
+    "WINNER!",
+    "FLAPPY DUNK"
+  ],
+  "cta": "Play Now!",
+  "rationale": "Voodoo's current Flappy Dunk rotation is all gameplay-video and a single playable — they have zero static \"hero pose + giant CTA\" poster creatives, which is exactly the underrepresented archetype trending in the scan. We adapt the Goku-splash formula by treating the basketball itself as the iconic hero (no IP risk, no invented character) and lean on the game's native magenta banner DNA. UA team: run this as a thumbnail-first asset on networks where strong static stopping power outperforms gameplay loops (Meta, TikTok feed).",
+  "scenario_prompts": [
+    "Hero splash frame, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors. A glowing orange basketball hovers center-frame between two cartoon basketball hoops with magenta nets, crackling blue (#5CB3FF) energy aura swirling around it, warm beige (#EAD5A0) sky background with simple flat clouds, in-game Flappy Dunk score counter '00' top-center and tiny heart lives indicator top-left, giant bold magenta (#D81155) banner across lower third reading 'PLAY NOW!' in chunky white outlined letters, poster-style composition, no human character. [Audio: VO 'Can you beat the champ? Play now!' / punchy upbeat trap 128 BPM with brassy hit / energy-charge whoosh at 0.5s, deep bass drop on banner slam at 1.2s]",
+    "Storyboard frame — combo moment, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors. Side-view of the Flappy Dunk basketball mid-flap arcing through a magenta (#D81155) hoop with net swooshing, bright blue (#5CB3FF) motion trail behind it, two more hoops lined up to the right, beige (#EAD5A0) background, score UI '03' top-center with combo burst star, bold white-outlined overlay text '3X COMBO!' diagonal across upper-right in magenta. [Audio: no VO / energetic competitive synth-trap 130 BPM / triple chime ascending on each hoop pass, crowd cheer swell at 1s]",
+    "Storyboard frame — VS split moment, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors. Vertical split-screen: left lane shows blue-trailed player basketball clearing a hoop, right lane shows magenta-trailed rival basketball clipping the rim, jagged black 'VS' bolt down the center seam, beige (#EAD5A0) court backdrop both sides, score comparison UI top reading 'YOU 4 — RIVAL 2', bold magenta (#D81155) banner bottom reading 'WINNER!'. [Audio: VO 'You win!' triumphant / competitive trap 132 BPM with stadium horn / rim-clang fail SFX right side at 0.8s, victory chime left side at 1.5s]"
+  ]
+}

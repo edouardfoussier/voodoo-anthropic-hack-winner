@@ -1,0 +1,32 @@
+{
+  "app_id": "1423046460",
+  "name": "Paper.io 2",
+  "genre": "Arcade",
+  "sub_genre": ".io",
+  "core_loop": "Draw trails to capture territory, expand your zone, and eliminate opponents by crossing their paths.",
+  "audience_proxy": "Broad casual audience, appealing to both male and female players across a wide age range (10-35) looking for quick, competitive bursts.",
+  "visual_style": "Vibrant, minimalist 3D top-down with bright, solid colors.",
+  "palette": {
+    "primary_hex": "#FFD700",
+    "secondary_hex": "#00BFFF",
+    "accent_hex": "#FF00FF",
+    "description": "Bright, high-contrast primary colors with neon accents."
+  },
+  "key_mechanics": [
+    "drawing-trails",
+    "capturing-territory",
+    "dodging-enemies",
+    "collecting-items"
+  ],
+  "character_present": true,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "progress-bar",
+    "kill-feed-text",
+    "bonus-level-screen",
+    "collectible-coins",
+    "collectible-gems",
+    "player-avatars",
+    "territory-colors"
+  ]
+}

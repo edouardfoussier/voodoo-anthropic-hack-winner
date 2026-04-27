@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_J1s7ndZTuZ5ntued52KBkUxn?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSjFzN25kWlR1WjVudHVlZDUyS0JrVXhuP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qjCgz2oXyg50cFEjQyM1rChMPJB1dg6vByYNLUeOY2VN1m9FyvdytJ7VDJwU%7EpsU7C59mWr2pioCy-FkXLijmkDAyjlby2Ekl74eQesnBK6xrpWR-CrvYXJZ-FLu3QFBJveWMNjF10vDTM50nWAQzeKqESXgAyPbiTWjjEDnP6x1rQQ24ED4o9F9f4tmUFRg2Rj-d5GIniYJNRiJqGc1brckAhoScCUMce9ZgBEiqDQoiUoECr66MVU2-EB9RkglFc4DEqi4vBqBRhfBtZcxeoH51Ik4lex5bemRSQrj0GmQXXs8Z95ZyzQbmDTGS2bizI7Y3oKLxTvTGip%7EP1%7EIQQ__",
+  "job_id": "job_G3mZi7uuePa4otNWN1aT8zKR",
+  "asset_id": "asset_J1s7ndZTuZ5ntued52KBkUxn",
+  "stub": false,
+  "prompt": "Storyboard frame 3 payoff, aspect 9:16: completed glowing pixel-art heart made of perfectly sorted red and gold (#FFD700) sand grains, sparkles and soft bokeh, white (#FFFFFF) frame edges, sky-blue (#4A90E2) gradient background, calm satisfying ASMR aesthetic, 3D stylized objects with vibrant colors and pixel-art sand compositions, bold on-screen text 'Oddly satisfying \u2728' bottom-center, mobile ad reveal shot",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

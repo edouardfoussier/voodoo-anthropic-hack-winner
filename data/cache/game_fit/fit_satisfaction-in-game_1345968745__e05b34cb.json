@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 25,
+  "mechanic_match": 15,
+  "audience_match": 55,
+  "overall": 28,
+  "rationale": "This is a puzzle/sort \"relaxation\" hook (Bus Jam-style hand-with-stylus gameplay) that fundamentally misrepresents Helix Jump's reflex-based rotating/bouncing core loop — running it would drive misleading installs and poor D1 retention. Visual frictions: muted blue/orange palette and top-down grid composition clash with Helix's neon vertical tower aesthetic, and the stylus-hand prop implies a slow tactile puzzle rather than a twitch arcade game. Only the broad casual audience overlaps, but the \"feel relaxed\" promise is the opposite of Helix's energetic/competitive mood — do not adapt this archetype."
+}

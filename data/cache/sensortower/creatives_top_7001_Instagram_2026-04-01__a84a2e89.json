@@ -1,0 +1,407 @@
+{
+  "count": 553,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "f0b19f737bf7f389",
+      "app_id": "682bcbd125e9f7477c41dde5",
+      "network": "Instagram",
+      "phashion_group": "f0b19f737bf7f389",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-29",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "f0b19f737bf7f389",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/24087fc62c62dd53/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/24087fc62c62dd53/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/24087fc62c62dd53/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Play Game",
+          "message": "Officially licensed FIFA\u00ae Football Game!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "682bcbd125e9f7477c41dde5",
+        "canonical_country": "US",
+        "name": "FIFA Rivals - Mobile Soccer",
+        "publisher_name": "Mythical Games",
+        "publisher_id": "63e5d5b537bb5354392a3f29",
+        "humanized_name": "FIFA Rivals",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/97/76/c69776f0-af4e-d282-caaa-aea2eaf04fa8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "682bcbd125e9f7477c41dde5",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a94a5d25df6189dd",
+      "app_id": "55c5309f02ac64f9c0002dfe",
+      "network": "Instagram",
+      "phashion_group": "a94a5d25df6189dd",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a94a5d25df6189dd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Free Download",
+          "button_text": "Play Game",
+          "message": "Play with your friends"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5309f02ac64f9c0002dfe",
+        "canonical_country": "US",
+        "name": "Sniper 3D\uff1aGun Shooting Games",
+        "publisher_name": "Wildlife Studios",
+        "publisher_id": "5614e08d3f07e25d2901b7e7",
+        "humanized_name": "Sniper 3D\uff1aGun Shooting Games",
+        "icon_url": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E=s150",
+        "os": "unified",
+        "id": "55c5309f02ac64f9c0002dfe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "6999610ff86a73c0",
+      "app_id": "64a95779c9c8441632c24e84",
+      "network": "Instagram",
+      "phashion_group": "6999610ff86a73c0",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-10",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "6999610ff86a73c0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9defeb36fbf7d21/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9defeb36fbf7d21/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9defeb36fbf7d21/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u4eca\u3053\u305d\u529b\u3092\u5408\u308f\u305b\u3088\u3046\uff0f\u540c\u3058\u62e0\u70b9\u306e\u30cf\u30f3\u30bf\u30fc\u3068\u5171\u306b\u6b21\u5143\u81e8\u754c\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u7acb\u3061\u5411\u304b\u3048",
+          "button_text": "Play Game",
+          "message": "\u30e2\u30f3\u30cf\u30f3Now\u3067\u62e0\u70b9\u8981\u6483\u6226\u304c\u958b\u5e55"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "64a95779c9c8441632c24e84",
+        "canonical_country": "JP",
+        "name": "Monster Hunter Now",
+        "publisher_name": "Scopely",
+        "publisher_id": "560c44e48ac3506439005117",
+        "humanized_name": "Monster Hunter Now",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/79/f4/0979f4d0-d2e9-97e9-fcc4-86f32e97db24/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "64a95779c9c8441632c24e84",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "cd1f483745036c18",
+      "app_id": "5a509f15f066e148b1fa5013",
+      "network": "Instagram",
+      "phashion_group": "cd1f483745036c18",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-10",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "cd1f483745036c18",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/acbf69bf657a5ce6/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/acbf69bf657a5ce6/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/acbf69bf657a5ce6/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "BEST Mobile Fighting Game!",
+          "button_text": "Install Now",
+          "message": "'Damn fun.' 'Wonderful mechanics.' 'A standout in this crowded mobile fighting genre.' - TouchArcade"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5a509f15f066e148b1fa5013",
+        "canonical_country": "US",
+        "name": "Skullgirls: Fighting RPG",
+        "publisher_name": "Autumn Games",
+        "publisher_id": "55f88a598ac350426b007ede",
+        "humanized_name": "Skullgirls: Fighting RPG",
+        "icon_url": "https://play-lh.googleusercontent.com/eYcjGgWCE-1yZy0Nmogmjs0ZW13bAN9jTKc4L4jndv76A_LjuBbCADLglWNXqe51_5XFZXnAlZwvF-nVQ7c9m3g=s150",
+        "os": "unified",
+        "id": "5a509f15f066e148b1fa5013",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fbb72896f188c783",
+      "app_id": "55d2acec02ac64a768000016",
+      "network": "Instagram",
+      "phashion_group": "fbb72896f188c783",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-02",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "fbb72896f188c783",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5a41ffb1822a5dfd/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5a41ffb1822a5dfd/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5a41ffb1822a5dfd/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u3010\u671f\u9593\u9650\u5b9a\u3011\u30c7\u30c3\u30c9\u30a2\u30ab\u30a6\u30f3\u30c8\u30b3\u30e9\u30dc\u958b\u50ac\u4e2d",
+          "button_text": "Install Now",
+          "message": "LINE\u30ec\u30f3\u30b8\u30e3\u30fc\u00d7\u30c7\u30c3\u30c9\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30a4\u30d9\u30f3\u30c8\u3092\u7121\u6599\u3067\u697d\u3057\u3082\u3046\u2728\n\u4eca\u306a\u3089\u30ed\u30b0\u30a4\u30f3\u3059\u308b\u3060\u3051\u3067\u6f06\u6816\u5ddd\u5e0c\u8a60\u306e\u30ec\u30f3\u30b8\u30e3\u30fc\u304c\u3082\u3089\u3048\u308b\uff01"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d2acec02ac64a768000016",
+        "canonical_country": "US",
+        "name": "LINE Rangers: Brown-Cony Wars!",
+        "publisher_name": "LY Corporation",
+        "publisher_id": "5ced8f28b9ab947b5a24b6e9",
+        "humanized_name": "LINE Rangers",
+        "icon_url": "https://play-lh.googleusercontent.com/xVh8l9h55SmARJ-DdIxf0dfvbDK0skLp3ceuDokfZozrQuepDoKGLDe9wrErh0XWPf4UIjkqFAtoPGYbmOhwHXw=s150",
+        "os": "unified",
+        "id": "55d2acec02ac64a768000016",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "34449a9a97b91f8e",
+      "app_id": "66193b9ead4adb2170e90f91",
+      "network": "Instagram",
+      "phashion_group": "34449a9a97b91f8e",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-07",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "34449a9a97b91f8e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "title": "Mais de 1 milh\u00e3o de jogadores j\u00e1 est\u00e3o em Amikin Village!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66193b9ead4adb2170e90f91",
+        "canonical_country": "US",
+        "name": "Amikin Village: Magic Sim RPG",
+        "publisher_name": "Helio Games",
+        "publisher_id": "5b87023f4fddd52212348725",
+        "humanized_name": "Amikin Village",
+        "icon_url": "https://play-lh.googleusercontent.com/ODkvCMWJFeb3-Wuhl6xJJVLRBGzmUIV3CPJlpLPCbsvCgkSdhnfC_o__7X6kddJVcQg=s150",
+        "os": "unified",
+        "id": "66193b9ead4adb2170e90f91",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "21019639de46a839",
+      "app_id": "6153b4a2f3e690163b93ec0b",
+      "network": "Instagram",
+      "phashion_group": "21019639de46a839",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-04",
+      "last_seen_at": "2026-04-07",
+      "creatives": [
+        {
+          "id": "21019639de46a839",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Best PvP Shooter on mobile \ud83c\udf96\ufe0f",
+          "button_text": "Play Game",
+          "message": "\ud83d\udd12 Lock on. \ud83c\udfaf Fire. \ud83d\udca5 Destroy the enemy in real PvP matches."
+        },
+        {
+          "id": "7086bfb94d0fb077",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Best PvP Shooter on mobile \ud83c\udf96\ufe0f",
+          "button_text": "Play Game",
+          "message": "Customize your loadout, master the dogfight, climb the global leaderboards. Play now.\ud83d\udcc8\ud83c\udf0d"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6153b4a2f3e690163b93ec0b",
+        "canonical_country": "US",
+        "name": "Metalstorm: Modern Air Combat",
+        "publisher_name": "Starform",
+        "publisher_id": "5a3025cbaccdbf4a39854b3a",
+        "humanized_name": "Metalstorm: Modern Air Combat",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/13/61/4713612f-3809-c8a1-4915-48fb34c441bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6153b4a2f3e690163b93ec0b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "9748f302dba86c86",
+      "app_id": "69a3b7065235fa4805fc68a4",
+      "network": "Instagram",
+      "phashion_group": "9748f302dba86c86",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-03",
+      "last_seen_at": "2026-04-06",
+      "creatives": [
+        {
+          "id": "9748f302dba86c86",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u3010\u65b0\u767a\u58f2\u3011No.1\u4e73\u6db2\u304c\u9032\u5316",
+          "button_text": "Learn more",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "69a3b7065235fa4805fc68a4",
+        "canonical_country": "US",
+        "name": "Arrow Cube Escape",
+        "publisher_name": "CyberAgent",
+        "publisher_id": "5614b4a13f07e2077c0010d8",
+        "humanized_name": "Arrow Cube Escape",
+        "icon_url": "https://play-lh.googleusercontent.com/k_9MZtpdy3gYNVgynIWwv-1omuSkl4WGr5bOKYT-PJDC5PsEdFQMXWEBU7Jr3TfyjeBviAD3DN3_2KpDhGfa=s150",
+        "os": "unified",
+        "id": "69a3b7065235fa4805fc68a4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fa534c5c7c1abb47",
+      "app_id": "68130c5dc1a38845781b32d1",
+      "network": "Instagram",
+      "phashion_group": "fa534c5c7c1abb47",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-14",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "fa534c5c7c1abb47",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01dd3c3f60c6ee23/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01dd3c3f60c6ee23/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01dd3c3f60c6ee23/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udc49 Take a gun and clear all the enermy",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "68130c5dc1a38845781b32d1",
+        "canonical_country": "US",
+        "name": "WW2 Duty: FrontLine Zone",
+        "publisher_name": "CSCMobi Studios",
+        "publisher_id": "5cd5d69faee0da279f450542",
+        "humanized_name": "WW2 Duty: FrontLine Zone",
+        "icon_url": "https://play-lh.googleusercontent.com/g8Pm5jM5YsY6NXC1h-WH9P68Hfv_jPrZgnYQ-Hfn9TjRFIWHeoBgSo-K-aUsZIUFyvc=s150",
+        "os": "unified",
+        "id": "68130c5dc1a38845781b32d1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "bcaa9a8d7e508e6c",
+      "app_id": "69ba2b56402af3e8a1508668",
+      "network": "Instagram",
+      "phashion_group": "bcaa9a8d7e508e6c",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-06",
+      "last_seen_at": "2026-04-09",
+      "creatives": [
+        {
+          "id": "bcaa9a8d7e508e6c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01f9a12ce717af40/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01f9a12ce717af40/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01f9a12ce717af40/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u2b55 GAME M\u1edaI RA M\u1eaeT: Tam Qu\u1ed1c 4D Nh\u1eadp Vai Si\u00eau Th\u1ef1c!",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "69ba2b56402af3e8a1508668",
+        "canonical_country": "VN",
+        "name": "Ho\u00e0n M\u1ef9 Tam Qu\u1ed1c",
+        "publisher_name": "VGP",
+        "publisher_id": "5659c48a02ac640f95000051",
+        "humanized_name": "Ho\u00e0n M\u1ef9 Tam Qu\u1ed1c",
+        "icon_url": "https://play-lh.googleusercontent.com/yCfSCmC3_fQiLf3f-7gRWRHeJy1CN5iQOdFlxFosNjnbNkJbn-DEGh0aKOXD8GFNWHA3RjhUK4WGaeiirOosQw=s150",
+        "os": "unified",
+        "id": "69ba2b56402af3e8a1508668",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

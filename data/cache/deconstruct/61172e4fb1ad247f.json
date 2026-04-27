@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "61172e4fb1ad247f",
+    "ad_unit_id": "61172e4fb1ad247f",
+    "app_id": "690973a175ff8bcdf7a420e8",
+    "advertiser_name": "Poker Fate: ACG Texas Hold'em",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a9b96dedc0007b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a9b96dedc0007b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a9b96dedc0007b/preview",
+    "phashion_group": "61172e4fb1ad247f",
+    "share": null,
+    "first_seen_at": "2026-04-14T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "女神からの甘い招待。オールインで応えよ",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Suggestive reveal of an anime character in a bunny suit.",
+    "visual_action": "Close-up of character licking a lollipop followed by a full-body pose.",
+    "text_overlay": "HOSHIMIYA KANA CV: 上坂すみれ",
+    "voiceover_transcript": "あ！会長！大好き！オールイン！",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Suggestive character reveal of Hoshimiya Kana with voiceover.",
+    "Transition to poker gameplay featuring the character's avatar.",
+    "Visual confirmation of a 'Royal Flush' win and 'All-in' bet.",
+    "Closing screen with game features and download prompt."
+  ],
+  "on_screen_text": [
+    "HOSHIMIYA KANA",
+    "CV: 上坂すみれ",
+    "ストロベリー ダイキリ",
+    "All in!!",
+    "ロイヤルフラッシュ",
+    "美少女 × ドレス × ポーカー！",
+    "好評配信中"
+  ],
+  "cta_text": "好評配信中",
+  "cta_timing_seconds": 3.0,
+  "palette_hex": [
+    "#FF85B2",
+    "#FFFFFF",
+    "#1A1A1A"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Young adult males interested in anime-style character collection and casual poker games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015699999999999998
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_yNDbSgsjDhWqNoKxsnPsoW2c?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeU5EYlNnc2pEaFdxTm9LeHNuUHNvVzJjP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Zjj2OCPmq5LZMaAMCsoTM5sbr0cpQuymvi5ZPgpQkty3LfbY%7E1NvCvBQE182OP4nzxyvfCMj%7E6Ny85O5jBpPlQ2%7EqEkMVu9YA47gHgq6E03J2DuBpHwhliRXJCcg6Nv3U3GnQVWU-Pe5yhQblfZ3cW7znhiWr060ovtyxP%7EzyKPabU-ttz4kZSgWo2rXUm372hCRoeOW9Q0g0b1LIZazwz8CamzqUijBzFySrLfce4taDyqUCoFG1fuhQEQvMt9hkfhrzEUcxGEiZgxouRIB3j6xNgjPXAq4QV1vDyqfglxwpIGqCJ7PQiNkEGro%7E-rUICYV32Uyv4sSrrJsqqeoEg__",
+  "job_id": "job_n6Jx3NJ6baSfgjy1eXqhtyNp",
+  "asset_id": "asset_yNDbSgsjDhWqNoKxsnPsoW2c",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical, authentic Paper.io 2 gameplay: top-down flat-shaded 3D arena, #FFD700 yellow player carving an aggressive trail loop around a huge uncaptured zone, two rival blobs in #00BFFF cyan and #FF00FF magenta closing in from opposite sides, scattered collectible gems and coins along the path, kill-feed text 'You eliminated Blue!' top-right, territory bar filling fast at '64%', bold overlay 'Capture it before they do' lower third, vibrant minimalist style solid colors no gradients. [Audio: VO 'Get it before they do!' / punchy upbeat competitive trap 130 BPM / whoosh on trail draw, chime on gem pickup at 2s, glass-shatter elimination SFX at 3.5s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

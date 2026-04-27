@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_u16nDbQcoSs4w2gqvHTJLqQF?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdTE2bkRiUWNvU3M0dzJncXZIVEpMcVFGP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=fmcA43PeLlRc61z7qW3tdDBhR5m3DOoOU1CguB7GsrR2SyVkdw8MGt63REAcUkjo2D6IrKHh26ACO0Nx4YBNJTsKe3zj%7EuAz%7EfrVlZahc4Y8cIxRgthdyqtu-ES9%7E9stn7jWKyKKA2maulhA-%7EVLwfULcXK30TXnmHyOASf8ePtjqXY1qGY8ridKIR79Ad5GtWAT2ue2y0is4Bep5RzV3aYiyVYcZV8JCuH%7ESgqqJopeos40OAhp7%7ELs255QZfP-S8HlpwKUQjVSCXJRPhIHLIyB-VKoZ59ZfBnxXzmxFmvnzwYO3F3ArQkrGXLkART9sV4ifgZ9WZQjo7j70IQtPQ__",
+  "job_id": "job_xhXUksKvqK86q8SmAbgnkAfx",
+  "asset_id": "asset_u16nDbQcoSs4w2gqvHTJLqQF",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, authentic Roof Rails in-game screenshot: long cyan (#5CD6FF) rail slide between two skyscrapers, runner balancing an extended yellow (#FFC824) pole, a spinning saw obstacle ahead about to shave off pole segments, pastel cyan (#EAF6FA) rooftops, native progress bar and level indicator HUD, bold white overlay text 'Can you hit Tier 4?' near the top, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

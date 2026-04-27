@@ -1,0 +1,30 @@
+{
+  "app_id": "proto_thesphinx",
+  "name": "TheSphinx",
+  "genre": "Trivia",
+  "sub_genre": "Guessing Game",
+  "core_loop": "The user asks yes/no questions via voice or text to an AI, analyzes the answers, and attempts to guess a secret famous person before running out of questions.",
+  "audience_proxy": "Educated adults aged 25-45 who enjoy intellectual challenges, trivia, and sophisticated puzzle games.",
+  "visual_style": "Mystical Minimalism",
+  "palette": {
+    "primary_hex": "#100D06",
+    "secondary_hex": "#D4A024",
+    "accent_hex": "#FCE588",
+    "description": "A dark, premium palette featuring a near-black background with glowing golden-yellow text and accents, creating a mysterious and sophisticated atmosphere."
+  },
+  "key_mechanics": [
+    "Questioning",
+    "Deducing",
+    "Voice Input",
+    "Guessing"
+  ],
+  "character_present": true,
+  "ui_mood": "tense/challenging",
+  "screenshot_signals": [
+    "Minimalist UI",
+    "Dark Mode Aesthetic",
+    "Voice-based Gameplay",
+    "Trivia/Guessing Game",
+    "Celebrity Content"
+  ]
+}

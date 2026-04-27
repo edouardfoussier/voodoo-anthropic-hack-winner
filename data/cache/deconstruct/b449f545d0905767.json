@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "b449f545d0905767",
+    "ad_unit_id": "b449f545d0905767",
+    "app_id": "56fee3eff49ea42a540000d4",
+    "advertiser_name": "BURGER KING App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ae9a75cb88e9056/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ae9a75cb88e9056/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ae9a75cb88e9056/preview",
+    "phashion_group": "b449f545d0905767",
+    "share": null,
+    "first_seen_at": "2026-04-14T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Blink and they’re gone.\nBacon & Cheese, Deluxe, or Steakhouse Bacon build your box of 2 or 6.",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Friends socializing in a lounge with a box of sliders in the foreground.",
+    "visual_action": "The camera focuses on a box of six sliders on a table while blurred friends eat and drink in the background.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Establishing shot of friends hanging out with a full box of sliders in the foreground.",
+    "The sliders begin to disappear from the box as the friends in the background grab them.",
+    "The Burger King logo and 'King-Sized Sliders Box' text appear over the scene.",
+    "A hand reaches in to take the final slider from the box as the branding remains on screen."
+  ],
+  "on_screen_text": [
+    "BURGER KING",
+    "KING-SIZED SLIDERS BOX",
+    "MIX 'N' MATCH YOUR WAY",
+    "Only at select restaurants in Portland, OR and Columbus, OH. Limited time, while supplies last. TM & (c) 2016 Burger King Company LLC."
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#8B4513",
+    "#FFFFFF",
+    "#E35205"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Young adults and social groups looking for shareable, casual fast food meals.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014659999999999999
+}

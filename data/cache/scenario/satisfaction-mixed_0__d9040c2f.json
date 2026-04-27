@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_jHqg3gzf9QE6kgqXcJr6BvjK?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfakhxZzNnemY5UUU2a2dxWGNKcjZCdmpLP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=SM5C6H9gcIQcJJf8ZCFrfYBOPXw7crGVkMlwlFfGO4zn0CwZZCXjHp-Gj65%7EXX9hIP6xt2bf1dt-LhEFk2DtJmeOkoIzFRaFbCcx8hkT9j9wrKGPTtT7bu7XquNXpsGbMI7h-fHAH01Yffkqlgc3CEucb7ozAZNN4VhtdSogPlXLOfPcBQVPDt64rNC%7EOYyS1-F6pm-Lriu-3sj6cHMslTqBF8DCvcBjnKN%7E5IIoRu90PtLLXYKpucMYZkdnXDl2IWd002XstRBD9zaE1LLX4jWMeeSBHrpmCZhNPulO6Dmb624DhTNA9ANi5MzhDX-K7ZCbSiSxUYtyuAY7FaIsbQ__",
+  "job_id": "job_HF7MHL6wsHjreoohqYwxTW7n",
+  "asset_id": "asset_jHqg3gzf9QE6kgqXcJr6BvjK",
+  "stub": false,
+  "prompt": "Vertical 9:16 mobile game screenshot, authentic in-game moment from Crazy Kick soccer game, 3D hyper-casual low-poly bright and colorful with simple stickman characters, sandy yellow pitch (#F5D77F), sky blue stadium background (#1CB4F0), glowing bright green (#99CC33) curved trajectory trail arcing from foreground around two low-poly stickman defenders toward a goal, white soccer ball mid-flight with motion blur, top-down-angled action camera, level progression tracker '27' visible top-center in chunky rounded HUD, large white sans-serif overlay text 'Ever played soccer that feels THIS good?' at top, finger silhouette swiping at bottom of screen, no extra invented characters, clean shadowless lighting, hero frame",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_t3PeMzss6icndXHfmz7jjrL1?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF90M1BlTXpzczZpY25kWEhmbXo3ampyTDEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=rROVj7dig-GEkzbIV5gf2Ja7dUoBLcxiiPJIDq30jQ-G-HLe2KZpdLFocNLo97QzAVMmIK-claTdqdegpxbwPrcR8BLB36Jpi0-iUyI8DxCPRy4FBhvfrBJ3eeylj43BG1PRE5LgzNbtfbkYh6Njr%7E8Gulup8CMYGhoAdTOa1YL7O-hI2706oYAVn4hD8LXKkaUkWtHpTymOoCPBZriqg7MgjxEqmr3iMfPIfuceQtvaecBDTnI4-rWEKrDY1wGETIadCfGQiK%7E4A4shq29Y7Dg5jIwI1VZbF4UVhnQ4Ny2eKSor4EZhFG27qT8SuC6CqgVTsZgsMmzOblfHwl77sg__",
+  "job_id": "job_4QNT4RgV54ircjF1NwhuT152",
+  "asset_id": "asset_t3PeMzss6icndXHfmz7jjrL1",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Storyboard frame, aspect 9:16, Push'em All cross-section payoff shot: split diorama view showing the sandy-green platform (#56a38b) on top and the underwater layer in vibrant blue (#2a7dfa) below, a single red stickman figure (#e3001b) caught mid-splash falling from platform into water where stylized flat-shaded sharks circle. 'SIZE UP!' power-up notification overlay in bright accent red, coin counter visible top-right, level progress timeline along top edge. Minimalist 3D, bright contrasting colors, simple stickman-like figures, no realism, authentic in-game Push'em All look.",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": true,
+  "audio": false
+}

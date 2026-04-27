@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_8b64GjqUk2C9CZDcQgBFVoQS?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOGI2NEdqcVVrMkM5Q1pEY1FnQkZWb1FTP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=rVE%7E-qltOAhukyKUBU53mpuGrNdBl3-L6UuZVbJ39SVqIIcMAkIJlIRHZK0Y2gvY4R-8%7Eb3%7EJgbX%7EcTwtKGKnmAXd0viugu-kwCq-plVN7LnmUigcTTMMjJX-jX6NzFaE59gBfOwNWDww0w0Jm0BxfcsAurLM0L7%7E-Fsjh3BI8eBGf46EyYetkidMIkwJttruBYIrqb%7EVqI29uyfVN1zJnzsMTmXC-OkkaBeJY22ukRpwQwtmksrR6OcI4xd6Xu87tqrXKc1PdQSU43%7ElPK6riHpHiweqanR0ZWEa-KI-iL5EVROjI8h99GX%7Er7lGbDVNxsL2aXwVan2eAsUfp1xAA__",
+  "job_id": "job_511Gg6uypdhZDabn3mWcVPL4",
+  "asset_id": "asset_8b64GjqUk2C9CZDcQgBFVoQS",
+  "stub": false,
+  "prompt": "Storyboard end-card frame, aspect 9:16, minimalist 3D with bright contrasting colors and simple geometric shapes: top-down view of a small turquoise rectangular pool centered on flat #AEE2FF ground, a tiny pinpoint #FF007F splash ripple at the exact center showing a perfect entry, a huge bold #C754D9 banner across the middle reading 'PERFECT ENTRY  -42m', clean depth counter UI at the bottom, authentic Flip & Dive 3D minimalist HUD, no character visible above water, calm mirror-like ripples, satisfying negative space. [Audio: VO (soft, smiling): 'Yeah\u2026 that kind of relaxing.' / lo-fi resolves on warm major chord / clean low-splash 'plip' SFX at 0.3s, soft success chime at 1.5s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

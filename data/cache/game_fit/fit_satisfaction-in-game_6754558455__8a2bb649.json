@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 35,
+  "mechanic_match": 25,
+  "audience_match": 75,
+  "overall": 38,
+  "rationale": "Audience overlap is strong — casual women 25-55 are the core demographic for both word puzzles and sorting games, and the \"satisfaction\" emotional pitch is on-brand for Marble Sort's calm/satisfying UI mood. However, the mechanic match is poor: a crossword/letter-tray hook misrepresents the physics-drop sorting loop and risks heavy install-to-IAP fall-off plus store policy flags for misleading creative. Visually the warm brown/green/yellow food palette also clashes with the lavender pastel DNA — if adapted, swap the crossword for an analogous \"tap-to-place colored marbles into matching slots\" satisfaction hook keeping the rapid-tap cadence but using the actual core loop."
+}

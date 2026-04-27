@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "6754558455",
+  "title": "Marble Sort! — Tap. Drop. Satisfy.",
+  "hook_3s": "Glossy pastel marbles tumble onto a conveyor — a single tap snaps each one into its color-matched box with a buttery click.",
+  "scene_flow": [
+    "0-3s HOOK: Top-down hero shot of a lavender machine; a finger taps a tray and rainbow marbles cascade in slow-mo onto the conveyor — one orange marble nails its orange box with a satisfying *plink*.",
+    "3-7s BUILD: Speed ramps up. Three trays release in rhythm — blue, pink, yellow marbles bouncing along the belt and dropping into matching slots. Combo counter ticks up.",
+    "7-11s TENSION: A 'wrong color' marble nearly drops into the wrong box — finger taps just in time to pause the tray. Near-miss = ASMR gasp moment.",
+    "11-14s PAYOFF: All boxes fill, machine glows orange (#FFB13B), confetti pops, level complete stamp.",
+    "14-15s CTA: Logo + 'Marble Sort!' lockup with download prompt."
+  ],
+  "visual_direction": "Clean and colorful 3D cartoon style with soft, rounded shapes — glossy marbles with subtle subsurface shading, matte pastel machine. Background is a soft lavender gradient (#E5DFFF) with light grey (#F0F0F8) machine chassis. Vibrant orange (#FFB13B) reserved for headlines, the win-state glow, and the CTA button. Camera favors slight top-down 3/4 angles to clearly read the conveyor + box mechanic. Sound design is tactile: wood-tap, glass-clink, soft whoosh — no music spikes, calm/satisfying ASMR pacing aligned with the UI mood.",
+  "text_overlays": [
+    "Tap to drop",
+    "Match the color",
+    "Don't mix them up!",
+    "So satisfying…",
+    "Level 1 Complete ✨",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "Keeps the archetype's proven rapid-tap satisfaction cadence but swaps the off-brand crossword for the actual physics-drop sorting loop — protecting install-to-IAP quality and avoiding store policy flags for misleading creative. The pastel lavender + orange-accent palette and ASMR sound design lean directly into the 25-55 female casual audience's calm/satisfying preference. UA team: ship as a 15s playable-ad lead with a forced near-miss beat at 7s — that's the scroll-stopper for retention testing.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect ratio, clean and colorful 3D cartoon style with soft rounded shapes, top-down 3/4 view of a glossy light grey (#F0F0F8) marble-sorting machine on a soft lavender background (#E5DFFF), vibrant pastel marbles in pink, blue, yellow and orange tumbling from a tray onto a conveyor belt and dropping into color-matched boxes below, one orange marble mid-air with a subtle motion blur, bold orange (#FFB13B) headline text 'Tap to drop' at the top, soft ambient lighting, satisfying mobile puzzle game ad still, ultra clean rendering",
+    "Storyboard frame 2, 9:16 vertical aspect ratio, clean and colorful 3D cartoon style with soft rounded shapes, close-up of a finger tapping a tray on the lavender (#E5DFFF) sorting machine, multiple pastel marbles rolling along a light grey (#F0F0F8) conveyor belt mid-motion, combo counter glowing in vibrant orange (#FFB13B), playful overlay text 'So satisfying…' in rounded orange letters, shallow depth of field, casual puzzle game ad aesthetic",
+    "Storyboard frame 3 win state, 9:16 vertical aspect ratio, clean and colorful 3D cartoon style with soft rounded shapes, the marble-sorting machine fully filled with neatly sorted pastel marbles in matching colored boxes, vibrant orange (#FFB13B) celebratory glow and confetti bursts, lavender background (#E5DFFF) with light grey (#F0F0F8) machine, large rounded orange button text 'Play Free' centered at bottom, joyful satisfying mood, mobile game ad final frame"
+  ]
+}

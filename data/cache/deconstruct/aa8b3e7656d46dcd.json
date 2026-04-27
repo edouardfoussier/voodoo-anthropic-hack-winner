@@ -1,0 +1,64 @@
+{
+  "raw": {
+    "creative_id": "aa8b3e7656d46dcd",
+    "ad_unit_id": "aa8b3e7656d46dcd",
+    "app_id": "63c0a80dedbc613cc4f954e4",
+    "advertiser_name": "Landlord Simulator",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/preview",
+    "phashion_group": "aa8b3e7656d46dcd",
+    "share": null,
+    "first_seen_at": "2026-04-15T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A landlord aggressively kicks down an apartment door while shouting for rent.",
+    "visual_action": "First-person perspective of a landlord kicking open a door to apartment 69 and entering a blue-walled living room.",
+    "text_overlay": "No rent, all excuses!",
+    "voiceover_transcript": "Rent! Come out!",
+    "emotional_pitch": "rage_bait"
+  },
+  "scene_flow": [
+    "Landlord kicks down the main apartment door and shouts for the tenant.",
+    "Landlord kicks down the bathroom door to find the tenant on the toilet.",
+    "A profile card for 'Annie P.' appears listing her infractions like 'Late Rent' and 'Suspicious'.",
+    "The player is presented with a choice to 'Evict' or 'Help her out'.",
+    "The 'Evict' option is selected, and the tenant is shown crying as she leaves the apartment."
+  ],
+  "on_screen_text": [
+    "No rent, all excuses!",
+    "69",
+    "RENT!",
+    "COME OUT!",
+    "RENT NOW",
+    "I can pay next month",
+    "ANNIE P.",
+    "LATE RENT",
+    "LOUD NOISES",
+    "SUSPICIOUS",
+    "Evict",
+    "Help her out",
+    "HANDLE WITH CARE"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#48A9C5",
+    "#E8B491",
+    "#F080B0"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual mobile gamers who enjoy dramatic simulation games and making moral or punitive choices.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018969999999999998
+}

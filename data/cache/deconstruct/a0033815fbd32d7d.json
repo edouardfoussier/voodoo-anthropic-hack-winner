@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "a0033815fbd32d7d",
+    "ad_unit_id": "a0033815fbd32d7d",
+    "app_id": "55d20e5802ac64ee73000618",
+    "advertiser_name": "Gold Fish Casino Slots Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11121fb6bef22f07/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11121fb6bef22f07/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11121fb6bef22f07/preview",
+    "phashion_group": "a0033815fbd32d7d",
+    "share": null,
+    "first_seen_at": "2026-03-24T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Come back to the fun 🌟 Spin now and WIN Massive Rewards! 🎁💰",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "An apology letter scroll drops down offering a massive coin reward.",
+    "visual_action": "A scroll unfolds to reveal an apology for delayed rewards and a 200 billion coin offer.",
+    "text_overlay": "APOLOGY LETTER WE APOLOGIZE FOR THE DELAYED REWARDS! UP TO 200 BILLION FREE COINS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "A scroll titled 'APOLOGY LETTER' drops down over a red temple background.",
+    "Text appears stating an apology for delayed rewards.",
+    "A massive reward of '200 BILLION FREE COINS' is offered.",
+    "The 'CLAIM NOW' button pulses at the bottom of the screen."
+  ],
+  "on_screen_text": [
+    "Gold Fish CASINO SLOTS",
+    "HUFF N' MORE PUFF MONEY MANSION",
+    "VOL. 127 - NO. 39",
+    "APOLOGY LETTER",
+    "WE APOLOGIZE FOR THE DELAYED REWARDS!",
+    "UP TO 200 BILLION FREE COINS",
+    "CLAIM NOW"
+  ],
+  "cta_text": "CLAIM NOW",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#E63946",
+    "#FFD700",
+    "#4CAF50"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult social casino players who are motivated by large currency bonuses and free-to-play rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00151
+}

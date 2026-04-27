@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-in-game",
+  "target_game_id": "1444062497",
+  "title": "Cornered Crowd — Can You Escape?",
+  "hook_3s": "A massive red crowd sprints around a Paris corner — and slams face-to-face with a BIGGER blue crowd. Score freezes. \"WHY IS THIS LEVEL SO HARD?\"",
+  "scene_flow": [
+    "0-3s: Top-down chase cam — player's RED crowd of ~80 stickmen swarms down a pastel low-poly Paris street, gobbling neutral grey civilians, counter ticking up fast.",
+    "3-6s: Camera whips around the Eiffel Tower corner — a BLUE crowd of 180 fills the screen. Red crowd skids, score counter flashes, overlay: 'WHY IS THIS LEVEL SO HARD?'",
+    "6-10s: Fake-fail beat — blue crowd chases red, red shrinks from 80→22, timer in red. Overlay: 'CAN YOU WIN?'",
+    "10-13s: Player pivots, ducks into an alley, scoops a hidden GREEN neutral cluster, snowballs back to 200+. Crowd recolors red as it consumes blue stragglers.",
+    "13-15s: Triumphant zoom out: red crowd floods the plaza under the Eiffel Tower, 'LARGEST CROWD' banner, CTA card."
+  ],
+  "visual_direction": "Authentic Crowd City top-down/3-quarter chase camera over a low-poly pastel Paris (cream buildings, mint trees, soft grey pavement). Player crowd in saturated #FF0000 red stickmen, rival crowd in pure #0000FF blue, neutral pickups glowing #00FF00 green. Keep the native HUD: top-center timer, crowd-size counter above each swarm, level pill, pause icon top-left. Motion is continuous swarm flow — no hand cursor, no tap UI, no static puzzle framing. Punchy zoom-ins on the score collision and the comeback moment to sell the fail-then-win arc.",
+  "text_overlays": [
+    "LEVEL 7",
+    "WHY IS THIS LEVEL SO HARD?",
+    "CAN YOU WIN?",
+    "WAIT… 👀",
+    "BIGGEST CROWD WINS"
+  ],
+  "cta": "PLAY FREE",
+  "rationale": "Voodoo's current Crowd City rotation is all silent gameplay videos and one playable with no copy hook — there's zero \"fail/challenge\" framing in market. This brief imports the trending Fail · in-game archetype but reworks it from puzzle-bus-blocked into an honest Crowd City scenario (outnumbered swarm, comeback alley pickup), avoiding fake-ad risk while adding the curiosity-driven hook copy the rotation is missing. UA: A/B test against the Applovin silent video as control; expect lift on IPM from the question-overlay stop-scroll.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, top-down 3-quarter mobile game screenshot of Crowd City gameplay: a massive swarm of low-poly stickman figures in bright #FF0000 red running through a pastel low-poly Paris street, colliding head-on with a larger swarm of #0000FF blue stickman figures near the Eiffel Tower, scattered #00FF00 green neutral stickmen on sidewalks, low-poly colorful 3D environment with simple stickman-like character models, native game HUD with top-center countdown timer and white crowd-size counters '82' and '184' floating above each crowd, level pill 'LVL 7' top-left, bold white sans-serif overlay text 'WHY IS THIS LEVEL SO HARD?' across upper third, energetic competitive mood, no hand cursor, no tap indicators",
+    "Storyboard frame, aspect 9:16, top-down Crowd City in-game shot: a shrinking #FF0000 red stickman crowd of ~22 figures fleeing down a narrow pastel low-poly alley, chased by a large #0000FF blue stickman swarm filling the street behind, a glowing cluster of #00FF00 green neutral stickmen waiting at the alley exit, low-poly colorful 3D city with simple stickman-like character models, native HUD timer ticking red, crowd counters above swarms, bold white overlay 'CAN YOU WIN?' centered, cinematic motion blur on running figures",
+    "Storyboard victory frame, aspect 9:16, wide top-down Crowd City shot: an enormous #FF0000 red stickman crowd of 200+ flooding a pastel low-poly plaza beneath a low-poly Eiffel Tower, a few last #0000FF blue stickmen being absorbed and turning red, faint #00FF00 green sparkle pickups, low-poly colorful 3D environment with simple stickman-like character models, native HUD shows '00:03' timer and '218' crowd counter, bold white overlay 'BIGGEST CROWD WINS' across top, celebratory energetic mood"
+  ]
+}

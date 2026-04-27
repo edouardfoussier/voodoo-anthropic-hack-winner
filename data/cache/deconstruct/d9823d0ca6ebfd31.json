@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "d9823d0ca6ebfd31",
+    "ad_unit_id": "d9823d0ca6ebfd31",
+    "app_id": "67f9b33c67bda8def67d85d8",
+    "advertiser_name": "Fanatics Casino - Real Money",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fd2b7a5892dd29f5/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fd2b7a5892dd29f5/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fd2b7a5892dd29f5/preview",
+    "phashion_group": "d9823d0ca6ebfd31",
+    "share": null,
+    "first_seen_at": "2026-01-05T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "New Customers Deposit and Wager $10 and get 1,000 free spins on Triple Cash Eruption over 10 days",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Direct promotional offer for 1,000 free spins with a high-quality product shot.",
+    "visual_action": "A smartphone displaying a slot game sits on a table next to a dessert and a large die while the brand logo fades in.",
+    "text_overlay": "New customers deposit and wager $10 for 1,000 FREE SPINS on Triple Cash Eruption over 10 days",
+    "voiceover_transcript": "With Fanatics Casino, new customers deposit and wager $10 and get 1,000 free spins on Triple Cash Eruption over 10 days.",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Static close-up of a smartphone displaying the Triple Cash Eruption slot game on a stylized table.",
+    "Promotional text overlay detailing the deposit bonus and free spins offer appears prominently.",
+    "The Fanatics Casino logo fades into the upper center of the frame to establish brand identity."
+  ],
+  "on_screen_text": [
+    "New customers deposit and wager $10 for 1,000 FREE SPINS on Triple Cash Eruption over 10 days",
+    "Fanatics Casino",
+    "TRIPLE CASH ERUPTION",
+    "MUST BE 21+ GAMBLING PROBLEM? CALL 1-800-GAMBLER"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#FFFFFF",
+    "#D2B48C",
+    "#000000"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Adult casino enthusiasts and sports bettors looking for high-value introductory gambling offers.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001555
+}

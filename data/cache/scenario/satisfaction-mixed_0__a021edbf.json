@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_qHQuPNrWMfmCpGkj1RQYz4RR?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcUhRdVBOcldNZm1DcEdrajFSUVl6NFJSP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=WdhmUUilhUO4rBL-1QuZjz5XpVbpG4hkyh2zIpJ2XT7CE1CWD6v0fBrlQZHBX-VjTmiOk4kxs6PDeGS1o0x9z43761cpygPo4BbLNgZPk6i2F5tKDGMpA7aUK-2f02sOc8kXAevoVNyHqW-LdhyVXtOHCgxUbfTgtSEnNOSleaEn89uC7NZ9ZDfAzhm2B4sXtAEHB68gOJj45ElneQxVK9R0xllqQUWQ4xIeN1c4Sgq3X3ld7-zrP4R%7ErsnetNb5o%7EkZfmmxcI2YmQn0z3yLBFIVXf7UuNJGugbVAFPhwyDAwNI10YekbglQOuLWu%7Ea0VkqpkigLmi22B5XPy1qOFQ__",
+  "job_id": "job_pM32PGaapAnQ8PUJyf886Er8",
+  "asset_id": "asset_qHQuPNrWMfmCpGkj1RQYz4RR",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, 3D Casual Abstract style, overhead close-up of a woman's thumb dragging a glowing yellow-orange (#FDBA4D) cube from a deep purple (#403F6D) tray onto a dark charcoal (#20232B) grid puzzle board on a smartphone screen, soft volumetric glow under the placed block, subtle bevels, glossy plastic materials, moody cinematic lighting, on-screen text overlay reading 'Tap to place.' in clean white sans-serif, premium mobile-game ad still, ultra-detailed, 4k",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

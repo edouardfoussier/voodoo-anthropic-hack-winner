@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "fb328935e2f374b4",
+    "ad_unit_id": "fb328935e2f374b4",
+    "app_id": "55c50c2b02ac64f9c000230f",
+    "advertiser_name": "edjing Mix - Music DJ app",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8368a6b2c1f70e16/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8368a6b2c1f70e16/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8368a6b2c1f70e16/preview",
+    "phashion_group": "fb328935e2f374b4",
+    "share": null,
+    "first_seen_at": "2025-12-07T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Drop your first beat today. Edjing Mix makes mixing simple for beginners. Start your DJ journey now!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A crowd reacts enthusiastically to a music mashup of two famous songs.",
+    "visual_action": "People are dancing and vibing in a dark club-like setting with album covers for Michael Jackson and Macklemore overlaid on the screen.",
+    "text_overlay": "This is crazy 🤯",
+    "voiceover_transcript": "They told him don't you ever come around here, don't want to see your face you better disappear",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the mashup concept with 'Beat It' and 'Can't Hold Us' album covers.",
+    "The crowd reacts with high energy to the beat drop of the mashup.",
+    "A UI overlay appears prompting the user to 'Add you 2 fav songs'.",
+    "The 'MASH-UP!' button is highlighted as the music continues to play."
+  ],
+  "on_screen_text": [
+    "This is crazy 🤯",
+    "The mashup...",
+    "Beat It",
+    "Can't Hold Us",
+    "Add you 2 fav songs",
+    "MASH-UP!"
+  ],
+  "cta_text": "MASH-UP!",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#000000",
+    "#FFFFFF",
+    "#E67E22"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Music enthusiasts and social media users who enjoy creative song remixes and mashups.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017070000000000002
+}

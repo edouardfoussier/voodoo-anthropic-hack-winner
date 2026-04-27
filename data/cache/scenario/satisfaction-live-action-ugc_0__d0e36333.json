@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_e5f8p8kUWyThDoBphVY7KKMn?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZTVmOHA4a1VXeVRoRG9CcGhWWTdLS01uP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Vhz1L5TV3bukTdsi0b%7EUn6aUYbrzPlPfMy1S4U2NtG2dj5GesqCaQplfjL96cHJlOJOa7xg4ywGYUPmimwZNhfUR2q0MQ6E9OkbVKcFnZNby8Czhv60RgXWtgJyrkyTjDstwPVr8S0ZGpmOKs3R2wwfWYWkzttGt9XOrdu0klul-yfDMm5sXeuGwOhQ2ZivuBIr8EB8JQYQgdwGp8yQx5ON8mvhOYUGuQ0JRpuevTKak6y%7ENnMkukYj9C2v-LRNNOFgRQS7UVawKYNu0pd9hbcJOYFtJM49AqkL4UWNDJgXFj2DYqdZ7bChwIUSKJHPBWKPV197Vu-13Z1uOeGM5mA__",
+  "job_id": "job_r8eUzdrnvYPu5YY1MLSkjbPE",
+  "asset_id": "asset_e5f8p8kUWyThDoBphVY7KKMn",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect ratio: cinematic split-screen mobile ad still. Top half: a relatable 35-year-old woman on a couch in a dim living room, face lit warmly by amber phone glow against deep purple ambient shadows, smiling in genuine surprise. Bottom half: close-up of a 3D Casual Abstract physics puzzle grid mid-chain-reaction with glowing yellow-orange balls bouncing and ricocheting off geometric blocks. Strict palette: dark charcoal background #20232B, deep purple UI frame #403F6D, bright amber accent #FDBA4D as the only warm light source. Bold white sans-serif on-screen text: 'wait\u2014 WAIT\u2014'. Premium mobile game ad aesthetic, soft bokeh, satisfying mood.",
+  "model_id": "flux.1-dev"
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_2e6z7aWmMehL9ZbnoRnVNSwS?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMmU2ejdhV21NZWhMOVpibm9SblZOU3dTP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=i0aHfALQi-316d6mGc%7Eqn%7EU3USIRDIShFaYCgn6VsJFM4H89gNobO7Nqf8GspGtOL41uanjp-YVHREezBfr0yExQE-L9TLnaqgbUKrfPM-aZQdP8NnxMKq61Ol%7EoglDmr2jZhpbM5wPLPsEgijwdLi6eE4JqYapuy7W-BFFcZLHGDXdZTab0Gq47C%7Eu7WYawEjbQxbzq16n4tVic1cfqPuxmcGagOgGPpPPhAY7CTbQCLBEuP%7E-5AjrONIv7PcxG3e7sGJ-tF81VSCM0VI5PdVRIbmZSORWpObfzoAcgo9OHe8TeOft0PIa-6oHvj-1aqffPQgtqQ9%7ERTteAt6Ui8w__",
+  "job_id": "job_AmZEGPUsjjBWYD3dHGudeRew",
+  "asset_id": "asset_2e6z7aWmMehL9ZbnoRnVNSwS",
+  "stub": false,
+  "prompt": "Storyboard frame mid-dive, aspect 9:16, minimalist 3D with bright contrasting colors and simple geometric shapes: the #FF007F ragdoll character tucked in a flip mid-air against a #AEE2FF sky gradient, motion-blur arc trailing behind in faint #C754D9, the small turquoise pool visible directly below in the lower third, a depth/height marker column on the right showing '20m', a clean #C754D9 banner overlay reading 'Time the flips \u2726', authentic Flip & Dive 3D HUD with simple geometric platform stub at top of frame, no extra characters, soft shadows, satisfying slow-mo feel. [Audio: silent VO / calm satisfying lo-fi 70 BPM continues / soft 'whoomp' whoosh per rotation, subtle chime on flip-complete at 2.5s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

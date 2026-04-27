@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "proto_thesphinx",
+  "title": "The Sphinx Knows — Guess Who in 20 Questions",
+  "hook_3s": "A glowing golden question mark pulses on black as a whispered voice asks, \"Is your person... still alive?\" — then YES ignites in gold.",
+  "scene_flow": [
+    "0–3s HOOK: Pitch-black screen, single golden question mark pulses to a heartbeat. Whispered voiceover: 'I'm thinking of someone famous…' Overlay: 'Can the AI read your mind?'",
+    "3–7s SETUP: Thumb taps the mic. User whispers 'Is your person an athlete?' Gold soundwave ripples. Answer reveals in elegant serif: 'YES.' Question counter ticks 19→18.",
+    "7–11s ESCALATION: Rapid-fire montage of 3 questions/answers (Olympic? YES. Alive? YES. American? NO.) — counter dwindles, tension builds, golden particles swirl tighter around a silhouette.",
+    "11–14s PAYOFF: User whispers a guess. Silhouette dissolves into a gold-lit portrait reveal. Confetti of golden dust. Overlay: 'Solved in 7 questions.'",
+    "14–15s CTA: Logo lockup, tagline, install button glowing gold on black."
+  ],
+  "visual_direction": "Mystical Minimalism rendered in deep obsidian (#100D06) negative space with a single luminous focal point in golden-yellow (#D4A024) and pale-gold highlights (#FCE588). Treat the screen like an oracle's chamber: thin serif typography, subtle film grain, candle-flicker glow, soft particle dust drifting upward. No clutter — every frame breathes. The only motion is the pulse of the question mark, the ripple of voice waveforms, and the slow reveal of gold-lit answers materializing from darkness. Channels the dopamine 'satisfaction' beat of the jigsaw archetype but earns it through the click of a deduced guess instead of a slotted piece.",
+  "text_overlays": [
+    "Can the AI read your mind?",
+    "Ask anything. Yes or No.",
+    "19 questions left…",
+    "Is it… Michael Jordan?",
+    "Solved in 7.",
+    "Outsmart The Sphinx"
+  ],
+  "cta": "Play Free",
+  "rationale": "We keep the archetype's 'satisfaction payoff' structure but swap tactile puzzle-piece placement for the deduction dopamine of nailing a celebrity in few questions — same emotional beat, native to TheSphinx's voice/Q&A loop. The dark gold-on-black palette and whispered VO differentiate hard from the pastel jigsaw clutter saturating the feed, signaling premium/intellectual to the 25–45 trivia audience. UA should A/B the hook question ('still alive?' vs 'athlete?') and the reveal celebrity to find the highest-CTR identity.",
+  "scenario_prompts": [
+    "9:16 vertical mobile ad still, Mystical Minimalism style, near-black background (#100D06) with a single large luminous golden-yellow (#D4A024) ornate serif question mark glowing at center, pale gold (#FCE588) particle dust drifting upward, thin elegant serif text overlay 'Can the AI read your mind?' in soft gold, cinematic vignette, premium oracle-chamber atmosphere, ultra-minimal UI, film grain, hero frame",
+    "9:16 vertical mobile gameplay frame, Mystical Minimalism, deep obsidian background #100D06, glowing golden voice waveform ripple #D4A024 across center, small pale gold #FCE588 counter '19 questions left' top right in thin serif, overlay text 'Ask anything. Yes or No.' in luminous gold serif, mysterious sophisticated mood, no clutter, candlelit glow",
+    "9:16 vertical mobile reveal frame, Mystical Minimalism, black #100D06 backdrop dissolving into a gold-lit silhouette portrait of a famous athlete rendered only in golden-yellow #D4A024 and pale gold #FCE588 light strokes, swirling gold dust confetti, elegant serif overlay text 'Solved in 7.' in #FCE588, triumphant minimal payoff frame, cinematic premium feel"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "be343a7a9e1c7cbd",
+    "ad_unit_id": "be343a7a9e1c7cbd",
+    "app_id": "558e14af9b83754564000655",
+    "advertiser_name": "Racing Post Newspaper",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/preview",
+    "phashion_group": "be343a7a9e1c7cbd",
+    "share": null,
+    "first_seen_at": "2026-04-03T00:00:00",
+    "last_seen_at": "2026-04-13T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "RUNNER ROULETTE IS LIVE.. Pick your horse the right way 🔥\nSpin the Runner Roulette and get your Grand National horse 🐎\n💰 Also win a share of £5,000\n🎟️ FREE to enter\nWill your runner bring it home? 👀\nT&Cs apply | 18+ Gamble responsibly",
+    "button_text": "Sign Up",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A roulette wheel featuring horse racing silks spins to reveal a potential winner for a giveaway.",
+    "visual_action": "A spinning wheel with various horse racing silks slows down and stops on a specific runner.",
+    "text_overlay": "RUNNER ROULETTE THE £5K GRAND NATIONAL GIVEAWAY FREE TO ENTER",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "The 'Runner Roulette' wheel begins spinning, showcasing the £5K Grand National Giveaway.",
+    "The wheel cycles through various horse racing silks, building anticipation.",
+    "The wheel lands on a specific red and white striped silk.",
+    "A 'SIGN UP HERE' call-to-action button appears at the bottom of the screen."
+  ],
+  "on_screen_text": [
+    "THE £5K GRAND NATIONAL GIVEAWAY",
+    "FREE TO ENTER",
+    "RUNNER ROULETTE",
+    "T&Cs Apply",
+    "18+",
+    "GAMBLE RESPONSIBLY",
+    "SIGN UP HERE"
+  ],
+  "cta_text": "SIGN UP HERE",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#003300",
+    "#FFFFFF",
+    "#E6E600"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult sports betting enthusiasts and horse racing fans interested in the Grand National.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00146
+}

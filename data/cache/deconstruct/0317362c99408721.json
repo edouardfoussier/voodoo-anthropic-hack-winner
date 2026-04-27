@@ -1,0 +1,64 @@
+{
+  "raw": {
+    "creative_id": "0317362c99408721",
+    "ad_unit_id": "0317362c99408721",
+    "app_id": "55c5337402ac64f9c0002ef6",
+    "advertiser_name": "実況パワフルプロ野球",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/991569fe0dbb28e2/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/991569fe0dbb28e2/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/991569fe0dbb28e2/preview",
+    "phashion_group": "0317362c99408721",
+    "share": null,
+    "first_seen_at": "2026-02-17T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "ビジュアルがアップデートしたeFootball™を楽しもう",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cinematic stadium reveal transitioning to a high-definition close-up of Lionel Messi.",
+    "visual_action": "The camera pans over a digital stadium with 'Lionel Messi' on the screens before cutting to Messi looking directly into the lens.",
+    "text_overlay": "LIONEL MESSI",
+    "voiceover_transcript": "Messi",
+    "emotional_pitch": "celebrity"
+  },
+  "scene_flow": [
+    "Grand stadium opening with digital banners featuring Lionel Messi.",
+    "Fast-paced montage alternating between live-action footage of Messi and in-game goal highlights.",
+    "Showcase of a special golden Messi statue and team celebrations within the game engine.",
+    "Detailed breakdown of the 'Leo Messi Pack' rewards including player cards and training programs.",
+    "Final branding screen with download instructions and the 30th-anniversary logo."
+  ],
+  "on_screen_text": [
+    "LIONEL MESSI",
+    "Excelente",
+    "eFootball: Leo Messi Pack",
+    "97 SS Lionel Messi",
+    "Epic: Lionel Messi (2024 Argentina)",
+    "Highlight x10 (In-game players)",
+    "Exp. 4,000 Training Program x22",
+    "In-game Strip",
+    "Avatar Sets",
+    "Stadium Choreo: Leo Messi Edition '24",
+    "Glent Prop: Leo Messi Golden Statue '24",
+    "基本プレイ無料",
+    "今すぐダウンロード！"
+  ],
+  "cta_text": "今すぐダウンロード！",
+  "cta_timing_seconds": 13.5,
+  "palette_hex": [
+    "#00FF00",
+    "#000000",
+    "#FF00FF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male football fans and gamers who follow Lionel Messi and enjoy realistic sports simulations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001993
+}

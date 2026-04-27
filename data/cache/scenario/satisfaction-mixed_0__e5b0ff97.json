@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_qDm72AWXnqzLjeoGdbQSt7k1?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcURtNzJBV1hucXpMamVvR2RiUVN0N2sxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=AXLsIKJhsOihk77EFK0DxVb8QZJoZ3g9-diYN-9TpUBqqoMJgGiLH9zJ36SKeevX6Kj2ma%7EWgJ7%7Eprwqa2mrTuAEFcKvRMuzfSQ0XMrtTgRePdNZoI%7Et-qC-G3ZBCOPGCdhapOJQfE0qYJq36uvvTU94JCJwsNBlExDVCyfTHDRJLGMV4b8CRa7Qau6fLYugVzxOWGOEYNBZtG3xvj%7EHOZV1PTexvCFaxiiIk3aXpwFXPULzE4JavMl94CivqQOqpaVmDWW4zPCYlrlnSwv3ogT0lFmalI6K0L2S9tjg2Opxlm0Acxvd4Y%7E6YcrBOXDEwMigKc5OdoNd7NMcUZ-opA__",
+  "job_id": "job_JL5gjWZASXZonVfJsCJdLW1o",
+  "asset_id": "asset_qDm72AWXnqzLjeoGdbQSt7k1",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16: extreme close-up POV of a woman's manicured finger tapping a small light-grey tray on a smartphone screen, glossy red yellow and blue marbles cascading out with bouncy physics onto a moving light-grey conveyor belt, soft lavender #E5DFFF background, light-grey #F0F0F8 machine, vibrant orange #FFB13B title text reading 'So satisfying\u2026' in the upper third, Clean and colorful 3D cartoon style with soft, rounded shapes, soft rim lighting, shallow depth of field, ASMR mood.",
+  "model_id": "flux.1-dev"
+}

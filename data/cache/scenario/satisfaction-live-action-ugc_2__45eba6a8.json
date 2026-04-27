@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_fEnV9LMXr3N5TiSKtgcz57FN?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZkVuVjlMTVhyM041VGlTS3RnY3o1N0ZOP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ROnwDRhdyoJa2HSijuutMYxF0WW8o%7Eo8%7EhEXPxeLNdGkMBkhtIpbKF3d5aQRsBJzW2CyiUeDZrC0BVEn89ns%7Egv23a3%7ECS7Nmg5ahaHUrjm-2m6g86X95fxk04NlLBFoiY4qMxVk08XTia-lWNagv8WMgmC1yeP9nCtGFh019OZWu6x26pdtWdUFr%7EJo0Bh0Z8ATWIZkk44XrVgP2-536Zh6UWYQTtEI7x-sB7UDAUz730aP6zcc5Uj%7EkLgOXcIfaEgrxI-Obel29f2w5%7EyTWvzDgD7j%7EWFalTnlZAGv0t5bJQktQ3mJWQJc7ErCeMpyt2ZLj4QIQsn62X2OL7fU9w__",
+  "job_id": "job_TXPP2BvDyRitXM4UGvF6VoiT",
+  "asset_id": "asset_fEnV9LMXr3N5TiSKtgcz57FN",
+  "stub": false,
+  "prompt": "Storyboard frame 2, vertical 9:16, 3D Casual Abstract style, explosive physics chain reaction with 20+ glossy #FDBA4D yellow-orange balls ricocheting across a dark #20232B grid bordered in #403F6D deep purple, dynamic motion trails and light streaks, sparks of accent color, bright combo counter in corner, bold white text overlay reading 'wait for it \ud83d\udc40', high-energy but clean composition, premium mobile game render",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

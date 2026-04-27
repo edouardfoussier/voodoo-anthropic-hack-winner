@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Qwp5UWCH5RwGni8V7it7MCB7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUXdwNVVXQ0g1UndHbmk4VjdpdDdNQ0I3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=JYdUM2wwhxzqSRTruIkFsFkwlGMvfkEcuP86R%7EAui2Iefs%7EcWgHZ6oU0uOkyefryuEy51xpRUGimpqbiz6SCEWGo1ECz8ZYYlsDhgszQDJ9upd4hZCAS%7E--BV1I79npk63PvzrO0ETjO-Y51v-e9-WC2ar2zK6Gt1lfU%7E9f%7ExLIV7DzK2QhluQvep8opFDpiIBopEKYXqMYd73G1ZE3%7E0UZFryNgnlmOsC6y8LkQ8tCAHxJRWQ9OwHtZmUwTyXA7DCuUG08boag4pZoxfcOewE6TqFv4m8abuP4JNSV5iZLlmHw2BIvu2Oz-yZJzFjHdDpL6CvsbWGzU%7EsUcfdTvqg__",
+  "job_id": "job_7DYJkeTkUBVGGavEjpbXsZFb",
+  "asset_id": "asset_Qwp5UWCH5RwGni8V7it7MCB7",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, Destiny Run judgment finish line: split outcome reveal with soft white heavenly light beam on left half and gentle red (#d92b2b) ember glow on right half over #5bc2ff sky backdrop, low-poly character mid-frame with one halo and one horn, alignment meter HUD centered showing 50/50 split, clean white (#ffffff) clouds framing, 3D stylized bright and clean simple low-poly geometry, big on-screen text overlay 'Which side are YOU?' top-center bold white with red accent. [Audio: VO (playful) 'so\u2026 which side are you?' / calm satisfying lo-fi swelling to warm pad / soft celestial chime left, low ember crackle right, satisfying button-pop on CTA at 4.5s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

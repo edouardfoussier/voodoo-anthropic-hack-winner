@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "78d0609d7512f42c",
+    "ad_unit_id": "78d0609d7512f42c",
+    "app_id": "55c5342c02ac64f9c0002f34",
+    "advertiser_name": "DRAGON BALL Z DOKKAN BATTLE",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/preview",
+    "phashion_group": "78d0609d7512f42c",
+    "share": null,
+    "first_seen_at": "2024-12-20T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Simple & Addictive Gameplay",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Static promotional splash screen featuring iconic Dragon Ball Z characters.",
+    "visual_action": "Goku, Yamcha, Krillin, and Tien stand in battle poses surrounded by floating Dragon Balls and energy auras.",
+    "text_overlay": "DRAGON BALL Z DOKKAN BATTLE Play Now",
+    "voiceover_transcript": null,
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Static display of the game's title and main characters in a battle-ready stance.",
+    "Visual focus on the 'Play Now' call-to-action button centered on the screen.",
+    "Legal disclaimers regarding character availability and copyright appear at the bottom."
+  ],
+  "on_screen_text": [
+    "DRAGON BALL Z DOKKAN BATTLE",
+    "Play Now",
+    "*The image is the characters' forms after Dokkan Awakening.",
+    "*Some characters featured in the video may not be available at certain times of the year.",
+    "©B.S./S., T.A. ©BNEI"
+  ],
+  "cta_text": "Play Now",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#2b4ba3",
+    "#f7941d",
+    "#ffffff"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Male anime fans aged 18-35 who are nostalgic for Dragon Ball Z.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001375
+}

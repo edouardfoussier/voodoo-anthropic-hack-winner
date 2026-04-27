@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_DPs7kReKmXWhusQ1EekaZQ6H?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9EUHM3a1JlS21YV2h1c1ExRWVrYVpRNkgqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=eBbLXTXThwPDNbo4bf4b6Egqn3uMSkQrUOZmCwJh8WHtNnmWKIDvvD1t%7Ei82Wyk30pBSMky1h4GdTQI7hizXiuNRTctLtYKtyNR6cTcKVnyvHsVNmdkhFqBc9FTdECx79KU9S8Yxc-UPVv%7EIiJs650a2csxZvS3gp87E-imZBC7zonPGA0cMAoe94MZKcy%7EsN%7E9Um3yNyZ6Ipaq-PDJ0cjTIFysMoJsTgc-6btoKpwEl55nmz8u4kJ9Z98qt94%7ERLS234aW4ZTIs8s2tIGiicLD9APOFBCBT9pneBvUJLgmm91dQ3MMs4kwNvIHw6EfkYMFxzLZMBk6PxTEZGHO7dQ__",
+  "job_id": "job_g7cAgH4f95V1bFghU4Datphv",
+  "asset_id": "asset_DPs7kReKmXWhusQ1EekaZQ6H",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Storyboard frame, aspect 9:16, Archery Clash! victory screen: opened loot chest spilling rarity-colored weapon cards (blue #2A9DF4, gold #FFD700, green #32CD32 backgrounds), female archer character idle-flexing her bow on left, level progression bar filling, install button glowing yellow at bottom, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text 'CAN YOU HIT IT?' in bold yellow caps. [Audio: VO confident 'your turn' / triumphant trap outro 128BPM / chest unlock chime, coin cascade SFX, UI tap on CTA]",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": true,
+  "audio": false
+}

@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "66b7d7e2b24bf03e",
+    "ad_unit_id": "66b7d7e2b24bf03e",
+    "app_id": "66e8a025d0a297e0b9d830ba",
+    "advertiser_name": "Boom Blast: Doomsday",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1437ec79b914097c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1437ec79b914097c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1437ec79b914097c/preview",
+    "phashion_group": "66b7d7e2b24bf03e",
+    "share": null,
+    "first_seen_at": "2026-03-05T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "The Most Innovative Free Game of 2026, Give It a Try Now!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "UGC creator addresses a viewer's complaint about fake mobile game ads.",
+    "visual_action": "A man speaks directly to the camera with a TikTok-style comment bubble overlay.",
+    "text_overlay": "I'm tired of all these fake game ads",
+    "voiceover_transcript": "i agree and there's also this game that i found called boom blast that agrees with us",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Creator reacts to a comment complaining about misleading game advertisements.",
+    "Creator introduces Boom Blast as the solution that matches the gameplay seen in ads.",
+    "Creator highlights key features: 6,000+ levels and no in-game ads.",
+    "Creator presents the App Store listing for Boom Blast: Doomsday with a download prompt."
+  ],
+  "on_screen_text": [
+    "I'm tired of all these fake game ads",
+    "i agree and there's also this game that i found",
+    "called boom blast that agrees with us",
+    "so they made a game",
+    "that is exactly like the ads that you see all the time",
+    "it's free to play and there's over six thousand",
+    "unique and challenging levels",
+    "and you don't have to worry about airplane mode",
+    "because there's no ads in this game",
+    "tap on the screen to download it for free today",
+    "Boom Blast: Doomsday",
+    "Get"
+  ],
+  "cta_text": "tap on the screen to download it for free today",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#4A5D3F",
+    "#E8C6B5"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual mobile gamers who are frustrated by misleading advertisements and want authentic gameplay.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001997
+}

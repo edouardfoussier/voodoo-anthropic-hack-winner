@@ -1,0 +1,8 @@
+{
+  "archetype_id": "curiosity-animation",
+  "visual_match": 15,
+  "mechanic_match": 10,
+  "audience_match": 35,
+  "overall": 18,
+  "rationale": "This cross-section bunker reveal is a curiosity/narrative hook built for sims, puzzle, or hidden-object games — it has zero connection to Flappy Dunk's tap-timing, hoop-scoring arcade loop and would mislead installers, tanking D1 retention and IPM quality. Palette (dark navy/olive/green) directly clashes with the game's warm beige + magenta + bright blue energetic look, and there's no character, VS framing, or score moment to anchor on. Skip — adapting this archetype would require abandoning every core DNA signal; only revisit if testing a 'what's hidden behind the hoop?' curiosity riff that still showcases the tap-to-fly mechanic."
+}

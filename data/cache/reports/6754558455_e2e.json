@@ -1,0 +1,335 @@
+{
+  "target_game": {
+    "app_id": "6754558455",
+    "name": "Marble Sort!",
+    "genre": "Puzzle",
+    "sub_genre": "Sorting",
+    "core_loop": "Tap to release marbles from trays, which fall with physics onto a moving conveyor belt, and then drop into correctly colored boxes below to clear levels.",
+    "audience_proxy": "Casual puzzle players, likely women aged 25-55, who enjoy satisfying and relaxing brain-training games.",
+    "visual_style": "Clean and colorful 3D cartoon style with soft, rounded shapes.",
+    "palette": {
+      "primary_hex": "#E5DFFF",
+      "secondary_hex": "#F0F0F8",
+      "accent_hex": "#FFB13B",
+      "description": "A soft, pastel palette with a lavender background, light grey machine, and a vibrant orange accent for titles and highlights."
+    },
+    "key_mechanics": [
+      "physics-tap",
+      "color sorting",
+      "timing",
+      "conveyor management"
+    ],
+    "character_present": false,
+    "ui_mood": "calm/satisfying",
+    "screenshot_signals": [
+      "Core sorting mechanic",
+      "Relaxing gameplay",
+      "Puzzle-solving challenge",
+      "Level progression with special blocks"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US"
+    ],
+    "networks": [
+      "TikTok"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 8,
+    "num_phashion_groups": 8
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "label": "Satisfaction · live-action-UGC",
+      "member_creative_ids": [
+        "e5f7659c7c52df69"
+      ],
+      "centroid_hook": {
+        "summary": "A young man dances energetically to express his excitement after playing Crossword Go.",
+        "visual_action": "A teenager in a room dances with high energy, moving his arms and making expressive faces.",
+        "text_overlay": "how I feel after playing Crossword Go all night after school",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#1A2B3C",
+        "#D2B48C",
+        "#556B2F"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.433,
+      "derivative_spread": 1.0,
+      "freshness_days": 11.0,
+      "overall_signal_score": 1.605,
+      "rationale": "1 creatives across 1 unique advertisers, average age 11d (velocity source: sov). Hook representative: \"A young man dances energetically to express his excitement after playing Crosswo\""
+    },
+    {
+      "archetype_id": "satisfaction-in-game",
+      "label": "Satisfaction · in-game",
+      "member_creative_ids": [
+        "e3c6af26067bd4c1",
+        "fb3e1e24ca488158"
+      ],
+      "centroid_hook": {
+        "summary": "A Suika-style fruit merging game where cute cartoon fruits drop and combine into larger ones.",
+        "visual_action": "Fruits with expressive faces are dropped into a container, merging upon contact to create larger fruits.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#E61E25",
+        "#F794B2",
+        "#7B5241"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.24,
+      "derivative_spread": 1.0,
+      "freshness_days": 113.0,
+      "overall_signal_score": 0.912,
+      "rationale": "2 creatives across 2 unique advertisers, average age 113d (velocity source: sov). Hook representative: \"A Suika-style fruit merging game where cute cartoon fruits drop and combine into\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "411c1c21e5a1009a"
+      ],
+      "centroid_hook": {
+        "summary": "A person starts a digital jigsaw puzzle on a smartphone.",
+        "visual_action": "Hands holding a phone, dragging a blue sky puzzle piece into a blank frame.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#FFFFFF",
+        "#4A90E2",
+        "#E91E63"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.632,
+      "derivative_spread": 1.0,
+      "freshness_days": 118.0,
+      "overall_signal_score": 0.666,
+      "rationale": "1 creatives across 1 unique advertisers, average age 118d (velocity source: sov). Hook representative: \"A person starts a digital jigsaw puzzle on a smartphone.\""
+    },
+    {
+      "archetype_id": "satisfaction-3d-render",
+      "label": "Satisfaction · 3D-render",
+      "member_creative_ids": [
+        "09b9a5138bab6a90"
+      ],
+      "centroid_hook": {
+        "summary": "Filling a spice jar with red pepper flakes",
+        "visual_action": "Red flakes pour into a clear jar labeled RED PEPPER on a kitchen counter",
+        "text_overlay": "No. 047 RED PEPPER",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#F8C8DC",
+        "#FFFFFF",
+        "#333333"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.628,
+      "derivative_spread": 1.0,
+      "freshness_days": 144.0,
+      "overall_signal_score": 0.653,
+      "rationale": "1 creatives across 1 unique advertisers, average age 144d (velocity source: sov). Hook representative: \"Filling a spice jar with red pepper flakes\""
+    },
+    {
+      "archetype_id": "challenge-animation",
+      "label": "Challenge · animation",
+      "member_creative_ids": [
+        "beca2534701d3666"
+      ],
+      "centroid_hook": {
+        "summary": "High-intensity anime combat sequence featuring Vegito Blue charging an attack.",
+        "visual_action": "Character charging a glowing energy sphere with lightning effects and intense facial expressions.",
+        "text_overlay": "\"Try and survive this!!!\"",
+        "voiceover_transcript": "Try and survive this!",
+        "emotional_pitch": "challenge"
+      },
+      "palette_hex": [
+        "#0070FF",
+        "#FFD700",
+        "#000000"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.5,
+      "derivative_spread": 1.0,
+      "freshness_days": 717.0,
+      "overall_signal_score": 0.56,
+      "rationale": "1 creatives across 1 unique advertisers, average age 717d (velocity source: sov). Hook representative: \"High-intensity anime combat sequence featuring Vegito Blue charging an attack.\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "visual_match": 20,
+      "mechanic_match": 15,
+      "audience_match": 25,
+      "overall": 20,
+      "rationale": "Major frictions: the hook is a high-energy teenage boy dancing in a dark earth-tone palette, which clashes hard with Marble Sort's pastel lavender, calm/satisfying tone, and 25-55 female casual audience. The UGC concept also never shows the sorting/physics core loop, so it fails to communicate mechanic or drive qualified installs. Skip this archetype, or only test a heavily reskinned variant featuring an adult woman expressing relaxation/relief with clear gameplay B-roll of marbles dropping into colored boxes."
+    },
+    {
+      "archetype_id": "satisfaction-in-game",
+      "visual_match": 45,
+      "mechanic_match": 55,
+      "audience_match": 75,
+      "overall": 55,
+      "rationale": "The \"satisfying drop-and-resolve\" emotional pitch maps well to Marble Sort's calm/satisfying tone and casual female 25-55 audience, so audience overlap is strong. However, there are real frictions: the archetype's reds/pinks/browns and expressive-faced fruit characters clash with Marble Sort's pastel lavender palette and characterless, rounded 3D style, and Suika-style merging is a fundamentally different mechanic from color-sorting via conveyor — using this hook risks bait-and-switch and IPM/retention drop. Only worth testing if reshot with the actual sorting loop styled to mimic Suika's \"drop & resolve\" satisfaction beats, not as a literal fruit-merge clone."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 42,
+      "mechanic_match": 35,
+      "audience_match": 78,
+      "overall": 48,
+      "rationale": "The audience overlap is strong — casual women 25-55 are the same demo that engages with jigsaw \"satisfaction\" hooks — but the mechanical mismatch is severe: dragging a flat 2D puzzle piece into a frame misrepresents Marble Sort's physics-tap + conveyor + color-bucket loop, risking misleading-ad complaints and bad D1 retention. Palette is also off (saturated blue/magenta vs. soft lavender/orange pastel). Only worth testing as a 3-second hook if the back half of the creative cuts hard to authentic marble-sorting gameplay; otherwise pass given the thin cluster (1 ad, 1 advertiser)."
+    },
+    {
+      "archetype_id": "satisfaction-3d-render",
+      "visual_match": 55,
+      "mechanic_match": 68,
+      "audience_match": 78,
+      "overall": 65,
+      "rationale": "The \"filling a container with small particles\" satisfaction hook maps reasonably well onto Marble Sort's core loop of marbles cascading into colored boxes — both deliver ASMR-style fill/sort gratification for the same 25-55 female casual audience. Frictions: the archetype's pink/white/black kitchen palette and realistic spice-jar context clash with the game's lavender pastel + cartoon 3D aesthetic, and the single-color single-jar hook undersells the multi-color sorting puzzle that drives retention. Recommend adapting the satisfaction-pour formula but swapping the spice jar for multiple colored marble boxes filling simultaneously, in-engine, with the game's lavender palette and orange accent title card."
+    },
+    {
+      "archetype_id": "challenge-animation",
+      "visual_match": 8,
+      "mechanic_match": 5,
+      "audience_match": 5,
+      "overall": 6,
+      "rationale": "Near-total mismatch: the high-intensity anime combat aesthetic (saturated blue/gold/black, shounen power fantasy, aggressive \"try and survive\" challenge framing) is the polar opposite of Marble Sort's pastel, calm, satisfying sorting loop targeted at casual women 25-55. There is no character in the game, no combat, and no way to authentically translate a Vegito energy-charge hook into conveyor-belt color sorting without a jarring bait-and-switch that will tank IPM and retention quality. Skip this archetype; if a \"challenge\" emotional pitch is desired, test a softer \"Can you sort this in time?\" failure-bait variant in the game's native pastel palette instead."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-in-game",
+        "target_game_id": "6754558455",
+        "title": "Drop & Resolve: ASMR Marble Cascade",
+        "hook_3s": "Pastel marbles tumble in slow-mo, plinking onto a lavender conveyor — one tap unleashes a chain of perfect color-matched drops.",
+        "scene_flow": [
+          "0-3s: Macro close-up of glossy pastel marbles trembling inside a tray, a finger taps — marbles cascade in buttery slow-mo with crisp 'plink' SFX onto the lavender conveyor.",
+          "3-7s: Camera pulls back to reveal the full Marble Sort! machine; conveyor moves marbles toward color-coded boxes, each marble drops with a satisfying 'thunk' into its matching slot, boxes glow on match.",
+          "7-11s: Difficulty ramps — multiple trays release at once, near-miss as a blue marble almost hits the yellow box; player taps to pause the tray just in time, ASMR click as it lands correctly.",
+          "11-14s: Level-clear burst: orange confetti pops, all boxes fill, satisfying chime stack, screen tilts into a gleaming 'LEVEL 12' card.",
+          "14-15s: CTA card — pastel lavender background, orange button pulses: 'Play Free'."
+        ],
+        "visual_direction": "Lean fully into the game's existing pastel lavender (#E5DFFF) and light grey (#F0F0F8) palette with the orange (#FFB13B) reserved for highlights, button glows, and the level title. Clean 3D cartoon render, soft rounded marbles with subtle subsurface gloss, no characters. Shoot tight macro angles for ASMR intimacy in the first 3s, then a clean 3/4 isometric of the full machine — identical framing to the actual in-game camera. Motion is slow, weighty, physics-driven; sound design is the star (plinks, thunks, soft chimes). Avoid the Suika red/pink/brown fruit palette entirely — translate the 'drop & resolve' satisfaction beat into Marble Sort's own visual grammar.",
+        "text_overlays": [
+          "Can you resist the drop?",
+          "Tap to release →",
+          "Match every color",
+          "Oddly satisfying 😌",
+          "LEVEL 12 CLEAR",
+          "Play Free"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current rotation leans on plain \"simple mechanics / right color, right box\" explainer copy with no sensory or ASMR framing — this brief brings the trending Suika-style 'drop & resolve' satisfaction hook that's winning in the market but is absent from their lineup, translated faithfully into Marble Sort's pastel sorting loop (no fruit, no merge bait-and-switch). Test against the existing Youtube explainer creatives; expect lift on female 25-55 thumb-stop rate via macro/ASMR opening. If CTR holds, fork a sound-on variant and a 'near-miss' tension cut.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, authentic in-game screenshot of Marble Sort!: macro close-up of glossy pastel-colored marbles (lavender, mint, peach, soft yellow) mid-fall in slow motion from a light grey rounded tray onto a moving light grey conveyor belt, color-coded sorting boxes visible below, soft lavender #E5DFFF background, light grey #F0F0F8 machine chrome, vibrant orange #FFB13B accent on the level counter HUD top-center, clean and colorful 3D cartoon style with soft rounded shapes, no characters, subtle motion blur on falling marbles, on-screen text overlay 'Can you resist the drop?' in bold rounded orange typography, soft studio lighting, depth of field, tactile and satisfying mood.",
+          "Storyboard frame, aspect 9:16, authentic in-game view of Marble Sort!: 3/4 isometric shot of the full sorting machine — multiple trays at top, light grey conveyor belt moving pastel marbles across the middle, four color-coded drop boxes (lavender, mint, peach, orange) at the bottom with one box glowing orange #FFB13B on a successful match, soft pastel lavender #E5DFFF backdrop, light grey #F0F0F8 machine, clean colorful 3D cartoon style with rounded soft shapes, no characters, HUD shows level progress bar and tap-prompt finger icon, on-screen text overlay 'Match every color' in rounded white-on-orange pill, calm and satisfying lighting.",
+          "Storyboard frame, aspect 9:16, authentic Marble Sort! level-clear moment: all four sorting boxes filled with correctly colored pastel marbles, soft orange #FFB13B confetti burst radiating from the machine, lavender #E5DFFF background, light grey #F0F0F8 machine body, clean 3D cartoon style with soft rounded shapes, no characters present, glowing 'LEVEL 12 CLEAR' banner in bold orange rounded type centered on screen, sparkle particles, celebratory but calm satisfying mood, gentle bloom lighting."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_QBJaJQ2acbJwbjwRiMSPdF5q?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUUJKYUpRMmFjYkp3Ymp3UmlNU1BkRjVxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=M9MLeGcttospk3LP08LyH%7EasNd0wY8K6EKRVkZBRR1XZELtVdWHQcQ5cjNDwcOQtPntpTl6v7mxqPpkkBe0BEKPTAOZaxjGlzPK2i9qEfgBZAnSyRYIham4zY42ykpTAsf%7Ec-GWDQpfOFSvG6QmYxJujo1fCOlDv9QrcrU8cMNxvQ0jIrCVdo0oex8gC0z2IHPCL77HfoRUZHxQ1WjwwvqwCPW8beljFjODj6faSS0X5mbHQ5vZvlGdaTF3Snpz36MKQ9uHd9Z90v1hFzYgPvcyZ20h%7ErZorMUZOmLk3k2wnJk8vyjERQlVfMczzGt4VtIz0zC%7EEtu8Fxnt6Q0%7EiYw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_DFUFadSUJZrryx8uRHdvpboh?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfREZVRmFkU1VKWnJyeXg4dVJIZHZwYm9oP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Eb8NeY77oPQz04nC7vzDzUQFInNyMfIOZ7-O2zHaPT4WFBKbkn6W2bQMwr8Ra2GhDpCRZcGjgcScE4e%7E5PU0lGBQ45d1IapUEcZG8mzsKiTDRdt7BSip0ILpJrmopjHFoLK6SzUZH1GlNyxOcJt7E0tE2EHWkr%7E3qG%7EXA-YGsCj-C7ARUT1MRbl%7Ew2HmzTOMmYXxAy-YZ-1aCqV1pStaUwvrv%7EwsSXizLblRDauoOoTM-krStZsVUqBizoGmglO4Xj1fqPp%7E73GfVH5t0SA6gOSrQDE50E-A6XZEQBzfcSS4DrCVUY1cs2IpRz6-PlTXmMTwNz3WNx%7ElqBoDTULJRg__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_8oJxhMfG1YnbXFeeF3mYA2ew?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOG9KeGhNZkcxWW5iWEZlZUYzbVlBMmV3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=SR432GeRdlK6HiFFw4V-rGNZQEheB1YO34u7Dw8TADJsEld30iY5Qnj5SaT7LMXF8i8p7VmIMb7S63c24CDAezbIEfC1afms5a-RGeIRfuBR9w48KWtCedQju0znRJbxGcbsrxZH1-g9n8hfj%7EGA5butQyyYZMFIh4svRhQvwwTQuW0QjPN264heO-kHY0R2n5Sg4zLAZFwsvoUvduPTWmQN5NfJx8HNvsDG-qkNABQtTaYlN0Zf9Qp9gwnuD3nzBIjEADxAIPzraErEjbJ7KeQ8dkAeycw1-eOIFeGSman3hQJGkKqa-czrv%7EVWle%7EMSMDR1rkwuq%7EfCriLVHXqYg__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=0.91 × game_fit=55/100 ⇒ priority=0.50"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-3d-render",
+        "target_game_id": "6754558455",
+        "title": "Fill The Rainbow — Multi-Box Marble Pour",
+        "hook_3s": "Marbles cascade onto the conveyor and rain into FOUR pastel boxes at once — each one filling to the brim in perfect rainbow harmony.",
+        "scene_flow": [
+          "0-3s: Extreme close-up on a tray of glossy multicolor marbles. A finger taps — marbles tumble in slow-mo onto the lavender conveyor belt with chunky physics bounces and soft clinks.",
+          "3-7s: Camera pulls back to reveal the full Marble Sort! machine. Marbles stream along the moving conveyor and drop into four colored boxes below — red, blue, green, yellow — each fill meter rising in sync.",
+          "7-11s: Quick montage of three escalating levels: more colors, faster belt, a special striped marble splits mid-air. Each box CLINKS full with a satisfying orange burst.",
+          "11-14s: A 'wrong color' marble nearly drops into the wrong box — finger taps to pause the tray just in time. Boxes all hit 100%, confetti pop in #FFB13B orange.",
+          "14-15s: End card: stacked filled boxes form a rainbow, app icon, CTA."
+        ],
+        "visual_direction": "Lock the entire spot inside the game's lavender (#E5DFFF) world with the light-grey (#F0F0F8) machine and orange (#FFB13B) accents for titles, fill-meter highlights, and confetti. Soft rounded 3D cartoon marbles with glossy specular highlights, gentle depth-of-field on close-ups, and ASMR-grade sound design (clinks, soft thuds, fill-meter chimes). Camera language is satisfying-pour: macro start, smooth pull-back to reveal, then crisp top-down montage. No human characters, no kitchen context — every frame must read as authentic in-game footage.",
+        "text_overlays": [
+          "Can you fill ALL 4?",
+          "Tap to release →",
+          "Right color, right box",
+          "Oops — wrong one!",
+          "100% Sorted ✨",
+          "Play Marble Sort!"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current rotation leans on generic \"simple mechanics / right color right box\" explainer videos with no sensory hook — they're missing the trending satisfaction-pour ASMR angle that's winning in the market scan. This brief brings that fill-gratification hook but multiplies it across four simultaneous color boxes, which both fits the lavender/orange Marble Sort! DNA and showcases the multi-color sorting depth the existing ads undersell. UA team: A/B test this against the top YouTube creative; expect lift on 3s-hold and IPM with the 25-55 female casual audience.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, in-game screenshot of Marble Sort! mobile puzzle: macro close-up of glossy multicolor 3D marbles (red, blue, green, yellow) cascading off a light-grey (#F0F0F8) rounded conveyor belt and streaming down into four soft-edged pastel collection boxes below, each box fill-meter rising in sync, lavender (#E5DFFF) background, vibrant orange (#FFB13B) title banner reading 'Can you fill ALL 4?' in chunky rounded sans-serif at top, soft rim lighting, clean and colorful 3D cartoon style with soft rounded shapes, mobile UI chrome with level counter and star meter visible at top-right, no characters, authentic Marble Sort! gameplay framing.",
+          "Storyboard frame 1, aspect 9:16, in-game screenshot of Marble Sort!: top-down three-quarter view of the full sorting machine — tray of mixed marbles at top, moving conveyor belt mid-frame, four colored drop-boxes at bottom filling up, one striped special marble splitting mid-air into two colored halves, lavender (#E5DFFF) background, light-grey (#F0F0F8) machine body, orange (#FFB13B) accent confetti burst around a full box, overlay text 'Right color, right box' in rounded white-on-orange pill, clean and colorful 3D cartoon style with soft rounded shapes, no characters, mobile HUD intact.",
+          "Storyboard frame 2, aspect 9:16, in-game screenshot of Marble Sort! end card: four pastel collection boxes stacked in a rainbow tower all showing 100% fill meters, orange (#FFB13B) starburst confetti, lavender (#E5DFFF) backdrop with subtle #F0F0F8 machine silhouette, large orange overlay text '100% Sorted ✨' centered, app icon and 'Play Free' button at bottom, clean and colorful 3D cartoon style with soft rounded shapes, no characters, glossy marble highlights."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_xGPPhetPoaa6dMPYdF6uTKiP?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeEdQUGhldFBvYWE2ZE1QWWRGNnVUS2lQP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=r6A6seAnPtBlUdPpqobdGhDPsp2nW6rXIT67zMI7qIhAc2-UQryyDUBmO1-iq7B61sdFLpPRH9R2wepRE5qCMx1F-L704F3zEuS3iCU3qNt7%7EAH492F2oP2v-JLwcIvdWeNTKaNovf%7E73cONVsKEncprHE3C9NsEXc4OX1ezB59IPkfI9eLJJs9i41rhbDjv-h9AxsGMWvVhJnff6bmlXhip%7E8Swz%7EzCm5QmsGupqSZV25XuToH8EutruM--xiICvVp0JFF5L6y3jKJJRI%7ECGb01h6vNfLebfHZSqRhrbgzlvqO7nT1rvlULR4y%7EUfDI8PgEyYGqe0jTFwymZ0EmrA__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_SXToEu1akbozhzLsSAHpSusS?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfU1hUb0V1MWFrYm96aHpMc1NBSHBTdXNTP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=pZKbAcmQPkJjfsKRdn8PqC0y3pqlfbPOB4K5YhXikTxI-pzhH3qXYYjzCzQnmIJh8OrxOVHEUqxTr6hBP8eGOzW8Q3wNDsBjrFVl9FzZ6R%7EfnY5Zje84WVQjM2KWW94-wvqYeaLh-crK8Eo8A0BzjPHfjBiboT8INp%7EutC7zbGTOKZJCk2D5etfr3KTCEneGFSlgAIxkyc8Z5do4Ho04-XjX0v%7ExOb5sYdkk%7EhFL1eERFQqcuocIMAA-2DM%7EHslWCJ5TRQ5kkpnh-8prwpgGk%7EaNcs8J0zbMcfAWoUN93WEgIBpVGFtxHj-xmI2npWSJyygEcX2zISj29J55quBZng__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_xPH6bSskkXLNxPP5AtxgGLXo?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeFBINmJTc2trWExOeFBQNUF0eGdHTFhvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=S1JmJBWFHBaypDr0nqIhYA46c84cZu1Dy2v5cYjZKarLAPU0TK-eBdbKW89h-gVzU-nWEw%7EzgTrv0wCGqecceWB3ApXMO6TKBqQu3tUccY0M44ky-wK7k2WwiOnNBqmryxInkPblOBoy%7EoVXgyxzcCVTAmomxD1cF-vRebKkf0ttJ45Krq2gY2CN8PGPxptcFmNVxnnOrCP68ZDrlD7WDJQK36wqn8pTyubNu0CIVh7P2t7YW1QjjO7ImAsXjYXoZEnhGX4IW-lCuF5NpvXKVW%7EhHFq%7EHF4NkWa904UBtyJU2jVJpY74ahqjbgWgpoGHFUZjspELCKb%7EU-5CiTFrtw__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.65 × game_fit=65/100 ⇒ priority=0.42"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "6754558455",
+        "title": "POV: The Most Satisfying Sort You'll See Today",
+        "hook_3s": "First-person hands holding a phone — a single lavender marble drops, bounces, and *clicks* into its color box. ASMR-soft.",
+        "scene_flow": [
+          "0–3s HOOK (POV): Hands hold a phone in soft lavender lighting; thumb taps a tray, one orange marble falls onto the conveyor and plops perfectly into the orange box. Crisp tactile SFX.",
+          "3–7s ESCALATE: Pull into full-screen authentic gameplay — multiple trays release mixed-color marbles onto the moving conveyor; player taps with timing to drop each color into its matching box. Combo counter ticks up.",
+          "7–11s TENSION: A 'wrong color' near-miss — marble teeters on conveyor edge, finger taps just in time to redirect. Overlay: 'Can you time it?'",
+          "11–14s PAYOFF: Level-clear burst, boxes glow, special striped marble unlocks the next level. Calm, satisfying chime.",
+          "14–15s CTA card: Logo + 'Play Free' over the lavender/orange palette."
+        ],
+        "visual_direction": "Lean fully into the game's existing DNA: soft #E5DFFF lavender background, #F0F0F8 light-grey machine chrome, and #FFB13B orange accents reserved for highlights, CTA, and combo flashes. Clean 3D cartoon marbles with soft rounded shapes, gentle rim light, shallow depth-of-field on the POV opener to feel premium and ASMR-y. No characters on screen — just hands-on-phone for the first beat, then pure authentic in-game footage. Sound design is the secret weapon: tactile taps, marble clinks, conveyor hum, level-clear chime. Keep motion calm; let the physics do the satisfaction.",
+        "text_overlays": [
+          "POV: the most satisfying 15 seconds",
+          "Tap to drop 🟠",
+          "Match the color…",
+          "…time the conveyor",
+          "Level 1 of 500+",
+          "Play Free"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Marble Sort! rotation is all straight-on gameplay demos with generic \"right color to the right box\" copy — zero POV/hands-on-phone framing despite that being the winning satisfaction archetype in the market scan. This brief grafts the trending jigsaw-POV hook onto authentic marble-sort gameplay in the first 3s, then cuts hard to real mechanic footage to protect D1 retention and avoid misleading-ad risk. UA action: test against the existing top-spend AppLovin video as the POV-hook variant for the 25–55 female casual cohort.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, first-person POV of two hands holding a smartphone in a softly lit lavender room, on the phone screen an authentic Marble Sort! gameplay scene: light-grey rounded 3D machine with two suspended trays full of glossy pastel marbles, a horizontal moving conveyor belt below, and three color-coded drop boxes (orange, purple, mint) at the bottom; one bright orange marble mid-fall toward the orange box, soft motion blur, tactile clean UI with level counter top-left and tap-tray buttons; background palette #E5DFFF lavender with #F0F0F8 light grey machine and #FFB13B orange accent on the level badge; on-screen text overlay 'POV: the most satisfying 15 seconds' in rounded white sans-serif; clean and colorful 3D cartoon style with soft, rounded shapes, no characters in the game scene, no humans beyond the hands, premium mobile ad still",
+          "Storyboard frame mid-gameplay, aspect 9:16, full-screen authentic Marble Sort! in-game view: light-grey #F0F0F8 rounded sorting machine centered, two trays releasing a stream of glossy multi-color marbles (orange, lavender, mint, pink) onto a moving conveyor belt, three matching color drop-boxes lined up below, one marble mid-bounce with soft physics motion lines, combo counter '+3' glowing in #FFB13B orange, lavender #E5DFFF background, minimal HUD with pause button top-right and level progress bar; on-screen text overlay 'Match the color… time the conveyor' in rounded white sans-serif; clean and colorful 3D cartoon style with soft, rounded shapes, no characters present, faithful to in-game UI chrome",
+          "Storyboard payoff frame, aspect 9:16, authentic Marble Sort! level-complete moment: all three color drop-boxes filled and gently glowing, last striped special marble dropping into its matching box, soft #FFB13B orange confetti burst, light-grey #F0F0F8 machine in center, #E5DFFF lavender background, 'Level Clear' badge in rounded orange pill, next-level arrow bottom-right; on-screen text overlay 'Play Free' in bold rounded white sans-serif over an orange button; clean and colorful 3D cartoon style with soft, rounded shapes, no characters, calm satisfying mood, matches in-game UI exactly"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_EM1T7LSyBkUvhBRv9iNqqm67?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRU0xVDdMU3lCa1V2aEJSdjlpTnFxbTY3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Na3AxL2pb6vsFez4SScu-SoNZkehtVPLWWzAf54W8SkrSue9%7EUPdo5nFz6LWTzoBvPH11ZibZ9t9me3Y%7EA8BzAUYsoDoQIaamVuF2HXG6SiGnddznJv0QP4lftw%7EefnmzHqkpfHmnpn-WWVyKPnplOKq2tL2ZLRxsGkkDF7IpeiOQmx5ak-lo0RbxeQLREMgRsX8mqe0uSMkIBaBpjx0J-O3hO%7EIpJafgBVeFflCEyKy447HwudaCDE2pOLqhTUR76km%7EscbW4%7EWxzuo0Iys8zdIAyPHihLH%7Eny27DlwQ6aEGLzqIoqyu4EwyH%7EpootE4YCs8xRGhW-m3s%7EB9Ov6xg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_QhZU2y3BDvpowgMsUEoRew44?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUWhaVTJ5M0JEdnBvd2dNc1VFb1JldzQ0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ayT9AMTcYEA2OyNirX1XWlFwHKdSr7zW3WbMvhBBAuiFz-6h5afoRzPzNbU0Y%7EQm5HdAUVjAqenn%7E0eWcnsBEpOM14ydi74e5fAVmPkGO-37TImQtCw6d68nTnKRtI4QFiseS6ay9JyOuouZPRm-BsfgTxrH2zSvQlr%7EzPHqnSnCJDPANMH-wPULkWWYtbqxnMN4ax3kfamz83GqX0QQdvTcS44c1k-LVoQUFoKtKfTuITag2G0fOh0R8lv-BXg6MM1W23snLlWI4QpPZBUNjyQKbjJSuPmk15CcfkJB8rSPbUHbnJL1YLflMo1PiXLcbWXheD7OsT7AtVB8QdepAg__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_UUbkzL4PbHD7DNJeAXsNx7Tw?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVVVia3pMNFBiSEQ3RE5KZUFYc054N1R3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ZZMCyWDIiE4dZ73fzfSW%7EyOVoTjxbbFi4Pl6w25Tv%7EYdHCJ23XmaqazZ3JDfmmFdrllXZxXsUIepymsUnk-VENyizQJ29mxTlddOxrASdy2fnHiWuJn7aA1eAYneDtQTkB5RGUicD4hqXLG9soiB95pjyXwzqBkeIFY-DeSUzi%7EDutaueMXk5NVonXRVB3iK4tcwnIcDyvrq6XBPa8GD-Km0G5V6AA8T3suClmIczviQivfGlIFB%7EkpM19ATNar3aEtHzLN4Y5hgjtwJbtTdAGo0PY8Qew9i-5yscKzYdYYV2IqLEYVRiHnJxanCsqk%7ES4LGA6Tg7k7cNoQpQyBMIA__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.67 × game_fit=48/100 ⇒ priority=0.32"
+    }
+  ],
+  "pipeline_duration_seconds": 656.7215993340014,
+  "total_cost_usd": 0.011922,
+  "generated_at": "2026-04-26T00:32:19.587791Z"
+}

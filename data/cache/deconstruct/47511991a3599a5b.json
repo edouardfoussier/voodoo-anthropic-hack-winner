@@ -1,0 +1,49 @@
+{
+  "raw": {
+    "creative_id": "47511991a3599a5b",
+    "ad_unit_id": "47511991a3599a5b",
+    "app_id": "63e3da9bad4adb156af213b3",
+    "advertiser_name": "Zombie Apocalypse: Doomsday-Z",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/031de425ae0b8d7e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/031de425ae0b8d7e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/031de425ae0b8d7e/preview",
+    "phashion_group": "47511991a3599a5b",
+    "share": null,
+    "first_seen_at": "2025-02-17T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Looking for cozy puzzle games?",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand connects 3D shorts to torsos using a string.",
+    "visual_action": "A hand with red nails pulls a yellow string to match colorful shorts with white torsos in a grid.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Hand initiates a connection between a white torso and striped shorts.",
+    "Multiple pairs of shorts are connected to torsos in a grid layout.",
+    "The hand rapidly matches different color patterns across the screen.",
+    "The final pair is matched, completing the set with a satisfying visual snap."
+  ],
+  "on_screen_text": [],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#87CEEB",
+    "#FFFF00",
+    "#0000FF"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual gamers who enjoy satisfying, tactile sorting and matching puzzles.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001382
+}

@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "cc311f0e9dd3be39",
+    "ad_unit_id": "cc311f0e9dd3be39",
+    "app_id": "6178e7bfdb622901de5dd950",
+    "advertiser_name": "Pikmin Bloom",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/preview",
+    "phashion_group": "cc311f0e9dd3be39",
+    "share": null,
+    "first_seen_at": "2026-01-23T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Gehe viele Schritte, um neue Arten von Deko-Pikmin zu entdecken.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Colorful Pikmin characters run across a stylized map background.",
+    "visual_action": "A variety of Pikmin carrying everyday objects run across a light green map.",
+    "text_overlay": "Los geht's mit den Pikmin!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "A group of diverse Pikmin run across a light green map background.",
+    "Individual Pikmin with unique accessories like a toothbrush and a toy train are shown in motion.",
+    "The video concludes with the Pikmin Bloom logo and a download button."
+  ],
+  "on_screen_text": [
+    "Los geht's mit den Pikmin!",
+    "PIKMIN BLOOM",
+    "Pikmin, immer mit dabei",
+    "Kostenlos herunterladen"
+  ],
+  "cta_text": "Kostenlos herunterladen",
+  "cta_timing_seconds": 6.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#E8F5E9",
+    "#00A859"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual mobile gamers and Nintendo fans who enjoy cute characters and outdoor activities.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001128
+}

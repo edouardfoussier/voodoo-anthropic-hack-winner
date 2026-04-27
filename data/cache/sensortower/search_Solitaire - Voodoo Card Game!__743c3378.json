@@ -1,0 +1,53 @@
+[
+  {
+    "canonical_country": "US",
+    "categories": [
+      6014
+    ],
+    "publisher_profile_url": "/publisher/ios/714804730",
+    "release_date": "2021-04-19T07:00:00Z",
+    "updated_date": "2021-04-19T00:00:00Z",
+    "app_id": "607d4a50eafbc66409dfa1b7",
+    "name": "Solitaire - Voodoo Card Game!",
+    "publisher_name": "Voodoo",
+    "publisher_id": "59bad4eb63f2dc0d0b9689e1",
+    "humanized_name": "Solitaire - Voodoo Card Game!",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/23/84/b7/2384b729-ae4c-dc43-29e4-8029de2fa330/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/150x150bb.jpg",
+    "os": "unified",
+    "id": "607d4a50eafbc66409dfa1b7",
+    "entity_type": "unified_app",
+    "is_unified": true,
+    "android_apps": [],
+    "ios_apps": [
+      {
+        "app_id": 1563230518,
+        "canonical_country": "US",
+        "name": "Solitaire - Voodoo Card Game!",
+        "publisher_name": "Voodoo",
+        "publisher_id": 714804730,
+        "humanized_name": "Solitaire - Voodoo Card Game!",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/23/84/b7/2384b729-ae4c-dc43-29e4-8029de2fa330/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/150x150bb.jpg",
+        "os": "ios",
+        "categories": [
+          6014
+        ],
+        "publisher_profile_url": "/publisher/ios/714804730",
+        "release_date": "2021-04-19T07:00:00Z",
+        "updated_date": "2021-04-19T00:00:00Z",
+        "active": true,
+        "valid_countries": [
+          "US"
+        ],
+        "global_rating_count": 9
+      }
+    ],
+    "active": true,
+    "publisher_ids": [
+      "59bad4eb63f2dc0d0b9689e1"
+    ],
+    "global_rating_count": 9,
+    "valid_countries": [
+      "US"
+    ]
+  }
+]

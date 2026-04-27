@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "c1c1518cdf990968",
+    "ad_unit_id": "c1c1518cdf990968",
+    "app_id": "55c50b2202ac64f9c00022c6",
+    "advertiser_name": "PlayStation App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20a65a6b91146a7d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20a65a6b91146a7d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20a65a6b91146a7d/preview",
+    "phashion_group": "c1c1518cdf990968",
+    "share": null,
+    "first_seen_at": "2026-03-02T00:00:00",
+    "last_seen_at": "2026-04-01T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Join PS Plus Extra from $14.99 per month",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced brand intro transitioning from the PlayStation logo to game footage cards.",
+    "visual_action": "The PlayStation logo fades into a series of sliding blue cards showcasing game characters.",
+    "text_overlay": "PlayStation Plus, MORE TO PLAY MORE TO LOVE",
+    "voiceover_transcript": "Put 'em up to the sky, put 'em up, put 'em up",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Iconic PlayStation logo animation on a blue background.",
+    "Dynamic blue cards slide across the screen, revealing game footage of Aloy from Horizon.",
+    "The slogan 'MORE TO PLAY MORE TO LOVE' animates into the center of the frame.",
+    "Final screen displays the call to action 'JOIN FOR MORE OF WHAT YOU LOVE' with the service logo."
+  ],
+  "on_screen_text": [
+    "PlayStation Plus",
+    "MORE TO PLAY MORE TO LOVE",
+    "JOIN FOR MORE OF WHAT YOU LOVE",
+    "Content and subscription features vary by tier, over time and region / country. Age restrictions & terms apply."
+  ],
+  "cta_text": "JOIN FOR MORE OF WHAT YOU LOVE",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#003087",
+    "#0072CE",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Core console gamers and PlayStation fans looking for a library of high-quality titles.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001411
+}

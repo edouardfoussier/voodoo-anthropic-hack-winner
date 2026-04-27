@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "a5436f4d1a8c950d",
+    "ad_unit_id": "a5436f4d1a8c950d",
+    "app_id": "55c502b302ac64f9c0001fdb",
+    "advertiser_name": "Texas Hold'em Poker: Pokerist",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/preview",
+    "phashion_group": "a5436f4d1a8c950d",
+    "share": null,
+    "first_seen_at": "2026-03-03T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Call or fold?",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A player slowly reveals their hole cards at a poker table to show pocket Aces.",
+    "visual_action": "Close-up of hands peeling back the corners of two cards on a blue felt table with chips nearby.",
+    "text_overlay": "A very nice feeling 😎",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Close-up of hands at a poker table peeling back cards.",
+    "The cards are revealed to be pocket Aces (Ace of Hearts and Ace of Diamonds).",
+    "A thumbs up is shown next to the winning hand.",
+    "Final end card with 'INSTALL NOW' and Pokerist game branding."
+  ],
+  "on_screen_text": [
+    "A very nice feeling 😎",
+    "INSTALL NOW",
+    "Pokerist"
+  ],
+  "cta_text": "INSTALL NOW",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#5B79A8",
+    "#3F9B54",
+    "#FFFFFF"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Competitive poker players and casino enthusiasts looking for a realistic mobile experience.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001552
+}

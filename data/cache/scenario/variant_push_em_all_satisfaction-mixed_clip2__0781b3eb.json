@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_DhqxZJDAbWHJ9JKCfPdPFguA?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9EaHF4WkpEQWJXSEo5SktDZlBkUEZndUEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=EXrlWyprmR%7Evjv8F5h9aJGGrc79LIxYRMsUTew0o8XZ8ThfFLKIp6Y%7E4Ykejky6-ezYfKJIuYjaLMvF9NvhLGW2I1i3Y945LZNzApicIak10rmoMkMzkiyZiDykHHWtJm7QfnmWy9QV2AVJJb8r91U4%7EbSFg4Nr4quyPGI3rHxICib-HZZav5U-8j6OZKeJUJAtfvUH3Jptpzpt0ZSt4vRQ2xRJZGwpP6Y%7EibrV6S7LV4cz1lvG8D5fd%7E6Ul4GIOzmROdw8A6GFRhMr-XqP9ieMHquYiQSr%7EwaDBR8cfVPpwp6nYrVHpYhIRxzayQE5SBmFLCPPailk612HrIDA0zg__",
+  "job_id": "job_wN7NcKJEwNwRtB3vYDuAoSKZ",
+  "asset_id": "asset_DhqxZJDAbWHJ9JKCfPdPFguA",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Storyboard frame 2, 9:16 vertical Push'em All in-game capture: blue stickman player on a #56a38b platform over #2a7dfa water, oversized power-up stick mid-swing flattening a wave of #e3001b red stickmen who fly off into the water as ragdolls, golden coins erupting upward, bright yellow 'SIZE UP!' power-up notification banner mid-screen, level progress timeline at top, minimalist 3D simple stickman figures with flat bright contrasting colors, exaggerated physics, authentic Push'em All HUD and asset style",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": true,
+  "audio": false
+}

@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "6748054540",
+  "title": "Tap, Place, Boom: Chain-Reaction Satisfaction",
+  "hook_3s": "Close-up: a finger taps a glowing yellow-orange block into a dark purple grid — it snaps, ignites, and erupts into bouncing balls ricocheting across the screen.",
+  "scene_flow": [
+    "0–3s HOOK: Macro shot of a phone screen, dark navy grid framed in deep purple. A finger lifts a vivid #FDBA4D 3D block from the tray and snaps it into place — a soft 'click' and gentle screen-shake.",
+    "3–7s PAYOFF: The placed block transforms into bouncing balls; physics chain reaction lights up the grid in cascading yellow-orange flashes, obstacles shatter in slow-mo.",
+    "7–11s ESCALATION: Quick cuts of 2 harder levels — bigger grids, more colors, more dramatic chain reactions. Combo counter ticks up; progress bar fills in #FDBA4D.",
+    "11–14s RELATABILITY: Split-second 'wrong place' fail (block doesn't fit), then a satisfying retry that clears the whole board — 'LEVEL COMPLETE' burst.",
+    "14–15s CTA: Logo lockup on dark background, App Store badge, pulsing yellow CTA button."
+  ],
+  "visual_direction": "Lean fully into Bounce Blast's moody 3D Casual Abstract DNA: deep #20232B background with #403F6D framed grid cells, blocks rendered as soft-shaded 3D cubes with subtle bevels. The hero accent #FDBA4D drives every satisfaction beat — block highlights, ball trails, particle bursts, progress bar, CTA. Camera stays tight and tactile (finger + screen macro), then pulls back for chain-reaction payoffs. Motion is calm and weighty: slow snap-in, then explosive bouncy physics with motion blur and soft bloom. No photographic textures — keep everything stylized 3D so the ad matches what players actually get.",
+  "text_overlays": [
+    "Tap to place.",
+    "Watch it BOUNCE.",
+    "Chain reaction unlocked 💥",
+    "Can you clear it all?",
+    "Level 1 of 500+",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "We keep the proven drag/tap-to-place satisfaction hook but re-skin it with Bounce Blast's actual 3D blocks and dark-navy/yellow palette so the first 3s previews the real game — protecting D1/D7 from bait-and-switch decay. The chain-reaction payoff hits by second 5, front-loading the game's most differentiated beat (physics balls) instead of a generic jigsaw moment. UA should A/B this against a pure-jigsaw-hook control to confirm we hold IPM while lifting retention.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, 3D Casual Abstract style, extreme close-up of a fingertip placing a glowing yellow-orange (#FDBA4D) beveled 3D cube into a deep purple (#403F6D) grid cell on a smartphone screen, dark moody navy background (#20232B), soft bloom and bouncing ball trails erupting from the placed block, on-screen text 'Tap to place.' in clean white sans-serif, tactile macro photography feel, cinematic lighting, high detail, mobile game ad still.",
+    "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style, mid-shot of a phone screen showing a chain reaction in progress: dozens of glowing yellow-orange (#FDBA4D) balls bouncing across a dark navy (#20232B) grid framed in deep purple (#403F6D), motion blur trails, shattering 3D block obstacles, particle sparks, on-screen text 'Watch it BOUNCE.' in bold white type, satisfying cascade composition, vibrant accent against moody background.",
+    "Storyboard frame 3, aspect 9:16, 3D Casual Abstract style, triumphant 'LEVEL COMPLETE' moment on a smartphone, cleared dark navy (#20232B) grid with deep purple (#403F6D) UI frame, a bright yellow-orange (#FDBA4D) progress bar filling and confetti-like ball burst, on-screen text 'Chain reaction unlocked 💥', clean stylized 3D rendering, calm satisfying mood, mobile puzzle ad final beat."
+  ]
+}

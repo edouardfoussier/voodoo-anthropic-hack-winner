@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "cfcf045a6b2cab74",
+    "ad_unit_id": "cfcf045a6b2cab74",
+    "app_id": "59baf8100211a6be9ed99da9",
+    "advertiser_name": "Paddy Power Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e4bfa44bc4f748f8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e4bfa44bc4f748f8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e4bfa44bc4f748f8/preview",
+    "phashion_group": "cfcf045a6b2cab74",
+    "share": null,
+    "first_seen_at": "2026-04-21T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Ein Sturm braut sich zusammen. Tägliche Phase-1-Turniere inkl. Preisgeldränge bis 10. Mai.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Announcement of the 15th anniversary Sunday Storm tournament with a €425,000 guarantee.",
+    "visual_action": "Static background with poker elements like cards and chips under a lightning sky, with a central logo appearing.",
+    "text_overlay": "DAS LEGENDÄRE €9 TURNIER WIRD 15 - €425.000 GARANTIE",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Tournament anniversary announcement with prize pool details.",
+    "Display of tournament benefits including more flights and faster payouts.",
+    "Final screen announcing that Phase 1 tournaments are currently live."
+  ],
+  "on_screen_text": [
+    "POKERSTARS",
+    "DAS LEGENDÄRE €9 TURNIER WIRD 15 - €425.000 GARANTIE",
+    "Ab 18 Jahre. Lizenziert in Deutschland. Glücksspiel kann süchtig machen. Infos und Hilfe unter buwei.de",
+    "15 YEAR SUNDAY STORM ANNIVERSARY",
+    "MEHR FLIGHTS, FRÜHERE AUSZAHLUNGEN",
+    "TÄGLICHE PHASE 1-TURNIERE LAUFEN AB SOFORT"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#000000",
+    "#FFFFFF",
+    "#E21E26"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "German-speaking poker players looking for high-value, low-entry tournaments.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001354
+}

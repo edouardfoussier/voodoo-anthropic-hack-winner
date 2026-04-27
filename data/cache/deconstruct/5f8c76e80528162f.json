@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "5f8c76e80528162f",
+    "ad_unit_id": "5f8c76e80528162f",
+    "app_id": "55de054a02ac6453fd0524b9",
+    "advertiser_name": "윈조이 포커 - 블랙잭, 바카라, 슬롯, 로우바둑이",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c53c4b1c461d36c4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c53c4b1c461d36c4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c53c4b1c461d36c4/preview",
+    "phashion_group": "5f8c76e80528162f",
+    "share": null,
+    "first_seen_at": "2026-02-26T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Anime character intro transitioning into a slot machine spin.",
+    "visual_action": "An anime girl with rabbit ears stands in a festival crowd, followed by a slot machine reel spin.",
+    "text_overlay": "지금 다운로드",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Intro with an anime girl in a traditional festival setting.",
+    "Transition to a slot machine interface with moon-themed symbols spinning.",
+    "A 'Free Game' splash screen appears with a moonlit background.",
+    "The sequence repeats, showing the anime girl and slot mechanics again.",
+    "Final end card with the game logo and a call to action."
+  ],
+  "on_screen_text": [
+    "WINJOY POKER",
+    "지금 다운로드",
+    "BONUS",
+    "Free Game",
+    "이기는 즐거움 윈조이 포커"
+  ],
+  "cta_text": "지금 다운로드",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#1a1a40",
+    "#ffd700",
+    "#e91e63"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult mobile gamers in Korea who enjoy social casino games and anime-style visuals.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001586
+}

@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "1617391485",
+  "title": "\"How I Feel After a 4-Line Combo\" — Block Blast Satisfaction UGC",
+  "hook_3s": "POV: it's 11pm, phone glow on your face, thumb hovers over a perfect L-block — and the whole grid is about to vanish.",
+  "scene_flow": [
+    "0-3s HOOK: Tight selfie-style shot of a 30-something woman on the couch, royal-blue phone glow lighting her face, eyebrows raised in quiet focus. Overlay teases the satisfaction payoff.",
+    "3-7s GAMEPLAY CUT-IN: Vertical phone screen-record fills the frame — finger drags a yellow polyomino into the last gap on the 8x8 navy grid. Hold for the snap.",
+    "7-10s PAYOFF: Four rows clear simultaneously with a gold particle burst and combo counter spiking; cut back to her doing a tiny seated shoulder-shimmy / fist-pump — understated adult satisfaction, not a teen dance.",
+    "10-13s RELATABILITY BEAT: She exhales, smiles, leans back into the couch. Quick montage of two more clears (gem collected, star bar filling).",
+    "13-15s CTA: End card — Block Blast logo on royal blue, gold 'PLAY FREE' button pulsing once."
+  ],
+  "visual_direction": "Live-action UGC shot vertically on a phone, but lit and graded to echo Block Blast's DNA: the dominant ambient light is the royal blue (#5469B9) of the phone screen washing over the talent, set against a dark navy (#1E2744) room. Gameplay cut-ins use the game's native glossy, beveled blocks on the high-contrast dark grid, with gold (#FFD700) accents on combos, stars, and the CTA button to create a consistent color trio across live action and screen capture. Mood is calm-satisfying, not hype — micro-reactions over big dance moves, matching the 25-45 relaxer audience.",
+  "text_overlays": [
+    "me at 11pm, 'one more round'",
+    "the gap is exactly an L-shape…",
+    "4-LINE COMBO 🔥",
+    "okay ONE more",
+    "Block Blast",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "Keeps the proven satisfaction-UGC structure but fixes every flagged friction: ages talent up to 25-45, swaps the dance for a subtle adult micro-reaction, and front-loads actual 8x8 drag-and-drop + line-clear gameplay so the hook earns the install. Color-grade the live action to match the #5469B9/#1E2744/#FFD700 palette so live and gameplay cuts feel like one creative. Test against a control with no gameplay cut-in to isolate whether the relatability hook or the combo payoff is doing the work.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical mobile ad still: close-up of a 35-year-old woman's face on a dark couch at night, lit entirely by the royal blue (#5469B9) glow of her phone screen, dark navy (#1E2744) room behind her, a soft gold (#FFD700) reflection in her eyes from an in-game combo, subtle satisfied half-smile. Phone screen visible at bottom edge showing glossy beveled multi-colored blocks on a high-contrast dark grid in the clean vibrant abstract aesthetic of Block Blast. Bold white sans-serif overlay text top-center: 'me at 11pm, one more round'. Photorealistic UGC selfie look, shallow depth of field, grainy phone-camera texture.",
+    "Storyboard frame 2, 9:16 vertical: extreme close-up screen-record POV of a thumb dragging a yellow L-shaped polyomino toward the final gap on an 8x8 navy (#1E2744) grid, surrounding cells filled with glossy beveled blocks in royal blue (#5469B9), red, green, and gold (#FFD700). Clean vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Gold particle sparkles anticipating the clear. Large overlay text centered: 'the gap is exactly an L-shape…'. Crisp UI, mobile screen recording style.",
+    "Storyboard frame 3, 9:16 vertical: split-screen — top half shows the same woman doing a small celebratory shoulder-shimmy on her couch, bathed in royal blue (#5469B9) phone light against a dark navy (#1E2744) background; bottom half shows the Block Blast 8x8 grid mid-clear with four rows exploding into gold (#FFD700) particles, glossy beveled blocks on a high-contrast dark grid, clean vibrant abstract aesthetic. Bold gold overlay text across the seam: '4-LINE COMBO 🔥'. Energetic but cozy mood, vertical mobile ad composition."
+  ]
+}

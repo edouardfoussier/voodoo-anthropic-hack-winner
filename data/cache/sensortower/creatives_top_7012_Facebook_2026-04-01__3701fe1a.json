@@ -1,0 +1,407 @@
+{
+  "count": 1176,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "a501f1d09aa3b810",
+      "app_id": "582219400211a6c9240005fc",
+      "network": "Facebook",
+      "phashion_group": "a501f1d09aa3b810",
+      "ad_type": "video",
+      "first_seen_at": "2025-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a501f1d09aa3b810",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Now",
+          "button_text": "Play Game",
+          "message": "Fun puzzles & stories."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "582219400211a6c9240005fc",
+        "canonical_country": "US",
+        "name": "Gardenscapes",
+        "publisher_name": "Playrix",
+        "publisher_id": "5614b8de3f07e25d29001b9e",
+        "humanized_name": "Gardenscapes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/64/1e1964c3-4291-3b5f-c6e0-dae70c445d99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "582219400211a6c9240005fc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "422f7b98098a7efe",
+      "app_id": "5d3fa01b5c6ace393f6dc2b4",
+      "network": "Facebook",
+      "phashion_group": "422f7b98098a7efe",
+      "ad_type": "video",
+      "first_seen_at": "2023-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "422f7b98098a7efe",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play MindPal Now!",
+          "button_text": "Play Game",
+          "message": "Play fun games to test your brain skills including problem solving, memory, attention and language. Play now to compare your brain score with your friends! \ud83d\ude80"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d3fa01b5c6ace393f6dc2b4",
+        "canonical_country": "US",
+        "name": "MindPal - Brain Training Games",
+        "publisher_name": "Elektron Labs",
+        "publisher_id": "5d3fa01b5c6ace393f6dc2b3",
+        "humanized_name": "MindPal - Brain Training Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/de/02/bede025c-9381-2b0e-f31e-a1fd8bd13d4f/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d3fa01b5c6ace393f6dc2b4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f09a99e1760e0859",
+      "app_id": "55d20e4002ac64ee73000128",
+      "network": "Facebook",
+      "phashion_group": "f09a99e1760e0859",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-08",
+      "last_seen_at": "2026-04-06",
+      "creatives": [
+        {
+          "id": "f09a99e1760e0859",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec2c38ec1c19de13/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec2c38ec1c19de13/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec2c38ec1c19de13/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Looking for a cute and clever way to unwind? Dive into thousands of beautiful image puzzles. It\u2019s the perfect daily brain workout that feels like a treat, not a chore. Can you guess the word?",
+          "button_text": "Install Now",
+          "message": "Only 5% can solve this level... \ud83e\udde0"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d20e4002ac64ee73000128",
+        "canonical_country": "US",
+        "name": "4 Pics 1 Word",
+        "publisher_name": "Lotum",
+        "publisher_id": "56049ba98ac350172201764d",
+        "humanized_name": "4 Pics 1 Word",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/89/f2/5389f291-e1b4-20fa-dc1c-860fac214143/AppIcon-0-0-1x_U007emarketing-0-4-sRGB-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d20e4002ac64ee73000128",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d0459abb846287bf",
+      "app_id": "5e62eb6af57acf2bd0bb6508",
+      "network": "Facebook",
+      "phashion_group": "d0459abb846287bf",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-06",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "d0459abb846287bf",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9e079464fda11127/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9e079464fda11127/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9e079464fda11127/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Choose Your House!",
+          "button_text": "Install Now",
+          "message": "Customize your magical Match-3 journey."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5e62eb6af57acf2bd0bb6508",
+        "canonical_country": "US",
+        "name": "Harry Potter: Puzzles & Spells",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Harry Potter",
+        "icon_url": "https://play-lh.googleusercontent.com/Z-5hlAbk7lLyNfXrh5rVVkaBrqTzoGGUtIVzhLa7zJGEEviLps7DxhQTKiCrXLDlKxw=s150",
+        "os": "unified",
+        "id": "5e62eb6af57acf2bd0bb6508",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "52b12f806ba15a1b",
+      "app_id": "62fe6a2713c3dd10370345d8",
+      "network": "Facebook",
+      "phashion_group": "52b12f806ba15a1b",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-15",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "52b12f806ba15a1b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Level Up\ud83d\udd25",
+          "button_text": "Play Game",
+          "message": "Everyone thinks Match 3 is boring...until they try Jolly Match\ud83d\ude00"
+        },
+        {
+          "id": "a769988dcfd411af",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Try Jolly Match \ud83d\udc49",
+          "button_text": "Play Game",
+          "message": "Everyone thinks Match 3 is boring... until they try Jolly Match\ud83d\ude00"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "62fe6a2713c3dd10370345d8",
+        "canonical_country": "US",
+        "name": "Jolly Match 3 - Puzzle Game",
+        "publisher_name": "JollyCo",
+        "publisher_id": "5c9d6e6c26a47257c3633ae9",
+        "humanized_name": "Jolly Match 3",
+        "icon_url": "https://play-lh.googleusercontent.com/VFMYyaFq_E7zhj9SrdiW5ozOtWBXXoewzai0ipAbOGKZwtZWbWLClX3kJFNyVz-V-CV106hhwyFyrkGh8pJg710=s150",
+        "os": "unified",
+        "id": "62fe6a2713c3dd10370345d8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "aa22b342f5d0f844",
+      "app_id": "6753a94a9049e6c00f8fd6ed",
+      "network": "Facebook",
+      "phashion_group": "aa22b342f5d0f844",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-15",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "aa22b342f5d0f844",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Queen Awaits, Claim Your Crown",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6753a94a9049e6c00f8fd6ed",
+        "canonical_country": "US",
+        "name": "Queens Master: Sudoku Puzzle",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Queens Master",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4a/38/cd4a3872-f4e8-8ad1-78e1-78ddf187ad5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6753a94a9049e6c00f8fd6ed",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "4e8b4314eaa4a694",
+      "app_id": "67d61d6845ea3db694554f49",
+      "network": "Facebook",
+      "phashion_group": "4e8b4314eaa4a694",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-10",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "4e8b4314eaa4a694",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Train Your Brain with Gecko Out",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67d61d6845ea3db694554f49",
+        "canonical_country": "US",
+        "name": "Gecko Out",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Gecko Out",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/9a/c0/099ac025-8303-98b3-32f3-8dbdebc1ab48/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "67d61d6845ea3db694554f49",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "67a7083d6f23bd94",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "Facebook",
+      "phashion_group": "67a7083d6f23bd94",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "67a7083d6f23bd94",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Epic update\uff01Photo upload feature\uff01",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "9eb52675da998d86",
+      "app_id": "61707ce0958b566083090400",
+      "network": "Facebook",
+      "phashion_group": "9eb52675da998d86",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-21",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "9eb52675da998d86",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Free Thrilling Story \ud83d\udd0d",
+          "button_text": "Play Game",
+          "message": "\ud83d\udd0d Ready for the investigation?\nFind hidden objects, solve puzzles, uncover crimes."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "61707ce0958b566083090400",
+        "canonical_country": "US",
+        "name": "Mystery Files: Hidden Objects",
+        "publisher_name": "Do Games",
+        "publisher_id": "5e645401bbe072287b609648",
+        "humanized_name": "Mystery Files",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/c9/24/79c9246d-2a63-5823-4a46-54551ba42e06/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "61707ce0958b566083090400",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "49c9a7bb8a05f567",
+      "app_id": "5c37fd70ad064218bb77a68b",
+      "network": "Facebook",
+      "phashion_group": "49c9a7bb8a05f567",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-29",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "49c9a7bb8a05f567",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5c37fd70ad064218bb77a68b",
+        "canonical_country": "US",
+        "name": "Jewel Sliding - Block Puzzle",
+        "publisher_name": "Grandfalls",
+        "publisher_id": "63519eb5a8c5f132df637396",
+        "humanized_name": "Jewel Sliding",
+        "icon_url": "https://play-lh.googleusercontent.com/N_g-sym3B3oXzPtO4htsl_jTX1A2dHdAYYGb_awzKs8JtW08513L-yx_1R4ej74dXhc=s150",
+        "os": "unified",
+        "id": "5c37fd70ad064218bb77a68b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

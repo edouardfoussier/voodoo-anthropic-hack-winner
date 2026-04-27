@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "8502977b3b4ea193",
+    "ad_unit_id": "8502977b3b4ea193",
+    "app_id": "5f2c232fc5c2ae151b46211f",
+    "advertiser_name": "Draw Coliseum",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/017754854ef0087c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/017754854ef0087c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/017754854ef0087c/preview",
+    "phashion_group": "8502977b3b4ea193",
+    "share": null,
+    "first_seen_at": "2026-01-24T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "【推しの子】初の公式パズル",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced introduction of the main characters from the hit anime 'Oshi no Ko' set to the popular theme song 'Idol'.",
+    "visual_action": "Split-screen character reveal followed by dynamic shots of Ai Hoshino performing on stage with colorful gem effects.",
+    "text_overlay": "アイ CV 高橋李依",
+    "voiceover_transcript": "誰もが目を奪われていく (Everyone's eyes are stolen away)",
+    "emotional_pitch": "celebrity"
+  },
+  "scene_flow": [
+    "Character spotlight for Ai Hoshino with performance clips and voice actor credit.",
+    "Character spotlight for Aqua Hoshino showcasing different expressions and voice actor credit.",
+    "Character spotlight for Ruby Hoshino with energetic poses and voice actor credit.",
+    "Announcement of the first-ever 'Oshi no Ko' puzzle game on a bright pink background.",
+    "Final ensemble shot with the game title 'Puzzle Star' and pre-registration call to action."
+  ],
+  "on_screen_text": [
+    "YOASOBI 「アイドル」",
+    "アイ CV 高橋李依",
+    "アクア CV 大塚剛央",
+    "ルビー CV 伊駒ゆりえ",
+    "【推しの子】初のパズルゲーム登場！",
+    "【推しの子】PUZZLE STAR",
+    "事前登録受付中"
+  ],
+  "cta_text": "事前登録受付中",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#FF007F",
+    "#00BFFF",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of the Oshi no Ko anime series who enjoy casual mobile puzzle games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001862
+}

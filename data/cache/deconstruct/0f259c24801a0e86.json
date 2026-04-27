@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "0f259c24801a0e86",
+    "ad_unit_id": "0f259c24801a0e86",
+    "app_id": "55c52ea602ac64f9c0002d3b",
+    "advertiser_name": "Praia Bingo: Jogos de Bingo",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/51cb7ade72a7fd5f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/51cb7ade72a7fd5f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/51cb7ade72a7fd5f/preview",
+    "phashion_group": "0f259c24801a0e86",
+    "share": null,
+    "first_seen_at": "2026-03-05T00:00:00",
+    "last_seen_at": "2026-04-13T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Jogue agora no maior bingo social da América Latina e venha se divertir com os amigos.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced bingo gameplay showing rapid number matching and a double line win.",
+    "visual_action": "Bingo balls roll out and numbers are automatically marked on multiple cards, leading to a 'LINHA DUPLA' celebration.",
+    "text_overlay": "LINHA DUPLA",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Rapid bingo ball drawing and automatic marking on four cards.",
+    "Celebration of a 'LINHA DUPLA' (Double Line) win.",
+    "Transition to an 'H DUPLO' win with slot machine elements.",
+    "Big 'JACKPOT' win animation with fireworks and rising coin counter.",
+    "Final end card with game logo, character, and download buttons."
+  ],
+  "on_screen_text": [
+    "IPANEMA",
+    "LINHA DUPLA",
+    "H DUPLO",
+    "JACKPOT",
+    "PRAIA BINGO",
+    "JOGUE AGORA"
+  ],
+  "cta_text": "JOGUE AGORA",
+  "cta_timing_seconds": 9.5,
+  "palette_hex": [
+    "#5E239D",
+    "#FFD200",
+    "#E91E63"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual adult players in Brazil who enjoy social bingo and casino-style games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001256
+}

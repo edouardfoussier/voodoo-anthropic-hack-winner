@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "533f467cac384b24",
+    "ad_unit_id": "533f467cac384b24",
+    "app_id": "622390aa2e0fa027dbdc26b8",
+    "advertiser_name": "Block Blast!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03e1d70de3d56c8d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03e1d70de3d56c8d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03e1d70de3d56c8d/preview",
+    "phashion_group": "533f467cac384b24",
+    "share": null,
+    "first_seen_at": "2025-12-06T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "BLOCK BLAST IS MY LIFE！",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Satisfying multi-row clear of golden blocks with 'THIS FEELING!' text.",
+    "visual_action": "A yellow T-block drops into a slot, triggering a massive row clear.",
+    "text_overlay": "THIS FEELING!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A T-shaped block completes a large section of golden blocks, triggering a satisfying clear.",
+    "A celebratory dancer is overlaid as 'Combo 5 Unbelievable!' appears on screen.",
+    "Rapid-fire block clears continue with high scores and colorful particle effects.",
+    "The dancer performs various poses against a backdrop of exploding blocks.",
+    "Final end card displays the game title, download links, and a search bar animation."
+  ],
+  "on_screen_text": [
+    "THIS FEELING!",
+    "1047",
+    "21808",
+    "Combo 5 Unbelievable!",
+    "720",
+    "300",
+    "1779",
+    "1059",
+    "1209",
+    "BLOCK BLAST Adventure Master"
+  ],
+  "cta_text": "BLOCK BLAST",
+  "cta_timing_seconds": 14.5,
+  "palette_hex": [
+    "#2b3a8c",
+    "#fcdb30",
+    "#ff4081"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual puzzle game players who enjoy high-energy, satisfying visual feedback and combo-based gameplay.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001804
+}

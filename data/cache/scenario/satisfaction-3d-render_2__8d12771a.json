@@ -1,0 +1,11 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_6Ptfa4XBKd3foczAfHA86pDX?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNlB0ZmE0WEJLZDNmb2N6QWZIQTg2cERYP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=q283LUQt%7EZ2GlnB%7E2LbllZceSVG2Od0wfwb-WK0xHhMHDHu2mYIUdlvddQMykpsUth6P%7EnkQVBtBYcKQHjlfqbU8MFSnb8FrYPlMhKfb2fkjd4z1F2ciYmBRK50D0WzXEechFxH9N7hhx41lOnyRZvSyoY2Cp7TKb0Y3hhXctvWkgVrs21eQmJAgEQzOzWFx7%7EeZVxkZDYcJQHcvGL7CiqXbJgzoXxtzo%7EP6eODmo6U9OuESeMlwLndu21AMGiO3WMEbbcmVgsXB0%7ELm%7EC1UFR2K5PbazLUu6sY6B6R0F7woba1HTkEIWYTob9BsCP21LmPl6Rx86Il92hOmyTjdVg__",
+  "job_id": "job_2XtQpwUHit71hAn5aBFkFkhV",
+  "asset_id": "asset_6Ptfa4XBKd3foczAfHA86pDX",
+  "stub": false,
+  "prompt": "Storyboard frame 3, aspect 9:16, 3D Casual Abstract style: end card showing the Bounce Blast 3D logo over a dark #20232B background with floating #FDBA4D amber cubes and a #403F6D purple jar silhouette, large pulsing yellow CTA button, on-screen text 'Tap to chain react' above a glowing PLAY FREE button, clean premium mobile ad composition.",
+  "model_id": "flux.1-dev",
+  "mode": "img2img",
+  "reference_image": "02.png",
+  "img2img_strength": 0.6
+}

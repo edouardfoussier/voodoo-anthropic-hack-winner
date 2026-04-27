@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_L5H1J6kqxV4WkhHTKGofkYwv?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTDVIMUo2a3F4VjRXa2hIVEtHb2ZrWXd2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VY4asUgqwA-RQ5aXO8I0m6D4OFFpxB-3IWfxu87G%7EWQhDNqEHbJBdJobAn3gx3SP6bVj%7E3w1oETKGaAX1N96NrbSfP%7EU7waDavTV04yFrLHqqRS9o1fXxlzfbiYMVuTmsE7tH48Rpw9FF7mKYs2D8w5Lj-YsziSouPA2NrW5lB%7EYTY7mpDYXHjkWUexxSYZ6-p8TvMd3D4casvrYsO0e6V-0dXX9vOG60ps59jqUQ3gQVzfKlRA9FQq3xeaSpyYtSkG0ZyydO-pHGdPVCMS6-laUkXi38CAMMJDQxEFRXZyK9KfNghi0KDCpCNFu%7EhE3tuFVAVCruEI35vnHUshOmQ__",
+  "job_id": "job_ZuUXxe9G5UR8WKroLt2weaGe",
+  "asset_id": "asset_L5H1J6kqxV4WkhHTKGofkYwv",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical aspect, first-person Knock'em All gameplay, three red crash-test dummies (#D91A1A) up close to the camera mid-collision with the player, screen-shake motion blur, large comic-book 'BIM' hit text in red and white burst across center, pastel #8ED4FF background, geometric platform edges visible, level progress bar frozen with #6B15E8 purple fill at 20%, minimalist 3D flat-color style, no characters on screen, overlay text '99% FAIL HERE' in bold white at bottom, faithful in-game HUD. [Audio: VO: 'Nooo!' / calm satisfying beat drops to muted / cartoon fail-buzzer at 0.4s, dummy thud impact, soft sad-trombone tail.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

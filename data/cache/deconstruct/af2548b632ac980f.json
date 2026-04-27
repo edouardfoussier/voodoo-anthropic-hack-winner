@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "af2548b632ac980f",
+    "ad_unit_id": "af2548b632ac980f",
+    "app_id": "556f4a4fa3f735a75800008a",
+    "advertiser_name": "bet365 - Sportsbook & Casino",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c858d96a306db151/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c858d96a306db151/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c858d96a306db151/preview",
+    "phashion_group": "af2548b632ac980f",
+    "share": null,
+    "first_seen_at": "2025-11-28T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "New Customer Offer",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Showcases live blackjack and slot games with a real dealer.",
+    "visual_action": "A live dealer sits at a blackjack table, transitioning into a multi-screen view of slots.",
+    "text_overlay": "NEXT GAME SOON",
+    "voiceover_transcript": "Check out our awesome table games and face off against a real live dealer",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Live dealer at a blackjack table invites the viewer to play.",
+    "Split-screen montage showcasing a variety of slot games and live dealer interactions.",
+    "Kinetic typography highlights the exclusivity of the games available.",
+    "The bet365 Casino logo is presented as the sole destination for these games.",
+    "A spokesperson in a suit explains why the app offers a superior experience.",
+    "Closing screen with the brand logo and a final prompt to download."
+  ],
+  "on_screen_text": [
+    "NEXT GAME SOON",
+    "TAKE A SEAT",
+    "PLAY EXCLUSIVE GAMES",
+    "ONLY AT bet365 Casino",
+    "bet365 Casino"
+  ],
+  "cta_text": "bet365 Casino",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#006644",
+    "#FFEB00",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult men 21-45 who enjoy the professional atmosphere of live-dealer casinos and slot games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017560000000000002
+}

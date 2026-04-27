@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "88778f5c4c2e7f08",
+    "ad_unit_id": "88778f5c4c2e7f08",
+    "app_id": "55d20e3902ac64ee7300002b",
+    "advertiser_name": "Zynga Poker - Texas Holdem Game",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1afad24eb63ffa90/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1afad24eb63ffa90/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1afad24eb63ffa90/preview",
+    "phashion_group": "88778f5c4c2e7f08",
+    "share": null,
+    "first_seen_at": "2026-01-22T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Get a Welcome Bonus of 2M FREE Chips!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rob Riggle aggressively challenges the viewer to crush their opponents.",
+    "visual_action": "Rob Riggle in a maroon suit points and gestures intensely at the camera.",
+    "text_overlay": "CRUSH YOUR OPPONENTS' DREAMS",
+    "voiceover_transcript": "Crush your opponents' dreams with Zynga Poker's new multi-table tournaments.",
+    "emotional_pitch": "celebrity"
+  },
+  "scene_flow": [
+    "Rob Riggle delivers an aggressive call to action in a formal suit.",
+    "Cinematic transition to a neon-lit poker stadium environment.",
+    "Gameplay footage showing a multi-table tournament win with exploding chips.",
+    "Rob Riggle celebrates on a mountain top as chips rain down.",
+    "Final CTA screen with 'Play Now' button and app store icons."
+  ],
+  "on_screen_text": [
+    "CRUSH YOUR OPPONENTS' DREAMS",
+    "ZYNGA POKER'S MULTI-TABLE TOURNAMENTS",
+    "WIN TRILLIONS OF CHIPS",
+    "IT'S POKER MADE EPIC",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 8.5,
+  "palette_hex": [
+    "#800020",
+    "#8A2BE2",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Competitive adult males 25-50 who enjoy high-stakes poker and sports-like presentation.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001575
+}

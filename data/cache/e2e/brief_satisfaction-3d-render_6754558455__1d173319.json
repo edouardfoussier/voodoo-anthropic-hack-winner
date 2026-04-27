@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "target_game_id": "6754558455",
+  "title": "No. 014 LAVENDER MARBLES — Satisfying Sort",
+  "hook_3s": "A soft lavender drawer slides open and a stream of glossy purple marbles pours into a clear labeled jar with a deep, satisfying clink.",
+  "scene_flow": [
+    "0–3s HOOK: Close-up of a pastel lavender drawer sliding open in a clean 3D scene; a cascade of glossy purple marbles pours into a clear glass jar labeled 'No. 014 LAVENDER' — ASMR clinks, jar fills to the brim.",
+    "3–6s TWIST: Camera pulls back — the 'jar' becomes a collection box on the actual Marble Sort conveyor belt; orange and grey marbles roll past, mis-sorted ones tumble into the wrong box (oh no!).",
+    "6–10s GAMEPLAY: Finger taps trays to release marbles, timing drops onto the moving conveyor so each color lands in its matching box; clean UI, satisfying snap when a box completes.",
+    "10–13s PROGRESSION: Quick montage of 3 levels clearing — boxes filling, sparkle confetti in lavender + orange, level counter ticking up.",
+    "13–15s CTA: Final hero jar overflowing with sorted marbles, logo lockup, tap-pulse on Install button."
+  ],
+  "visual_direction": "Casual 3D render with soft global illumination and a clean pastel studio backdrop. Lead with the game's lavender (#C7C2F8) as the dominant surface tone (drawer, background), neutral grey (#A0A8C0) for shadows and conveyor hardware, and pop accents in cheerful orange (#FFB33B) on labels, marbles, and the CTA button. Glossy marble materials with crisp specular highlights, shallow depth of field on hero shots, and tactile micro-animations (jar wobble, marble bounce) to amplify the ASMR/satisfaction beat. Keep camera moves slow and deliberate in the hook, then cut to a brighter, top-down gameplay angle for the conveyor reveal.",
+  "text_overlays": [
+    "No. 014 LAVENDER",
+    "Pour. Sort. Relax.",
+    "Tap to drop ✨",
+    "Match the color!",
+    "Level 12 Cleared",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "Adapts the proven 'satisfying pour into labeled jar' centroid to Marble Sort by reskinning the jar as an in-game collection box and swapping the kitchen palette for the game's lavender/orange brand — preserving the ASMR hook while honestly previewing the conveyor-and-timing core loop by second 3 to protect IPM. UA should A/B the hero overlay ('No. 014 LAVENDER' vs 'Pour. Sort. Relax.') and test a 6s cutdown leading with the jar pour for top-of-funnel CPM efficiency on female 25–55 casual audiences.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, Casual 3D render style, soft studio lighting: a pastel lavender (#C7C2F8) drawer slides open against a clean light-purple backdrop, a glossy stream of purple marbles pours into a clear glass jar with an orange (#FFB33B) label reading 'No. 014 LAVENDER', neutral grey (#A0A8C0) shadows, shallow depth of field, satisfying ASMR mood, ultra-clean composition",
+    "Storyboard frame 2, aspect 9:16, Casual 3D render style, top-down three-quarter view: a moving conveyor belt in neutral grey (#A0A8C0) carries glossy lavender (#C7C2F8) and orange (#FFB33B) marbles toward labeled collection boxes, a finger taps a tray above to release marbles, on-screen text 'Tap to drop ✨' in bold rounded sans, calm pastel background, soft global illumination",
+    "Storyboard frame 3, aspect 9:16, Casual 3D render style: hero glass jar overflowing with neatly sorted lavender (#C7C2F8) marbles next to a bright orange (#FFB33B) 'Play Free' button, neutral grey (#A0A8C0) pedestal, sparkle confetti, on-screen text 'Level 12 Cleared', glossy materials, satisfying celebratory mood"
+  ]
+}

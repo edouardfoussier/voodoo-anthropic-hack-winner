@@ -1,0 +1,4027 @@
+{
+  "generated_at": "2026-04-26T03:56:49Z",
+  "country": "US",
+  "limit": 50,
+  "downloads_window": {
+    "start_date": "2026-01-01",
+    "end_date": "2026-04-01"
+  },
+  "apps": [
+    {
+      "app_id": "1453989822",
+      "unified_app_id": "5c785cce5c6ace5ec53f23d8",
+      "name": "aquapark.io",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/79/df/ec79df63-b9e1-f8c0-f3dc-708d53b04cdb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7013,
+        7003
+      ],
+      "rating": 4.60261,
+      "rating_count": 2745446,
+      "description": "Reach to the end of the water slide, try to be the first. Bump other players during the race and have fun playing this colorful and sunny water slide game.",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Admob": 9,
+        "Youtube": 6,
+        "Unity": 3,
+        "Applovin": 2
+      },
+      "ads_latest_first_seen": "2026-04-09",
+      "ads_sample": [
+        {
+          "creative_id": "2f3a5f12d0e2f875",
+          "network": "Admob",
+          "ad_type": "full_screen",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a37b9fa3ad50416/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a37b9fa3ad50416/media",
+          "first_seen_at": "2026-04-09"
+        },
+        {
+          "creative_id": "c884b222658771af",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9d8954ca8fb08dcc/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9d8954ca8fb08dcc/media",
+          "first_seen_at": "2026-01-20"
+        },
+        {
+          "creative_id": "4c2b4bb036007d78",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/media",
+          "first_seen_at": "2026-01-06"
+        },
+        {
+          "creative_id": "0e7dd2e0642e1a26",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/media",
+          "first_seen_at": "2025-11-30"
+        },
+        {
+          "creative_id": "1e58ad12f6dcddbd",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a82da14a209e85f5/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a82da14a209e85f5/media",
+          "first_seen_at": "2025-11-30"
+        }
+      ],
+      "paid_share": 0.7174,
+      "organic_share": 0.2826,
+      "total_downloads_3mo": 904822,
+      "downloads_30d_curve": [
+        8177,
+        12038,
+        13719,
+        10787,
+        10112,
+        9420,
+        10310,
+        13821,
+        13639,
+        11915,
+        9389,
+        8325,
+        8416,
+        8062,
+        9059,
+        11982,
+        11250,
+        7302,
+        5910,
+        5858,
+        5467,
+        6746,
+        10385,
+        11119,
+        7364,
+        7413,
+        6935,
+        7100,
+        7744
+      ],
+      "downloads_trend_7d_pct": 0.06502797395212327
+    },
+    {
+      "app_id": "1423046460",
+      "unified_app_id": "5b6af0a62ba45d4cc3be4963",
+      "name": "Paper.io 2",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/a5/75/c6a575f0-ee28-4e37-f038-71a9829fd1cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003,
+        7001
+      ],
+      "rating": 4.5416,
+      "rating_count": 2661197,
+      "description": "Join millions of players in the world\u2019s most satisfying .io game!\n\nPaper.io 2 is a fun multiplayer game built around one simple idea: move across the arena, draw a trail to expand your territory, and capture the zone before an enemy crosses your path. It\u2019s a fast-paced territory capture battle that's easy to learn but hard to master!\n\nSATISFYING DRAWING &amp; ARCADE GAMEPLAY\nExperience the smoothest and most addictive experience in the io games genre. Everything is designed to feel right, from the smooth expansion to the addictive rush of watching your color conquer the entire map.\nPsst\u2014rumor has it something crazy happens if you capture the whole map at once. Think you can pull it off?\n\nFAST-PACED ONLINE MULTIPLAYER\nForget long tutorials and jump straight into the online area. The rules are simple: draw, close, claim. Whether you\u2019re looking for a quick 1-minute match or a deep strategic battle, it fits your schedule perfectly!\n\nCOLLECT &amp; CUSTOMIZE 100+ SKINS\nUnlock a massive library of skins and avatars to personalize your look. Show off your style to friends and rivals as you expand your territory and collect free daily rewards along the way!\n\nSo\u2026 will you play it safe, or are you going for the big steal? Download Paper.io 2 now and join the arena for free!",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Applovin": 10,
+        "Unity": 4,
+        "Admob": 3,
+        "Youtube": 2,
+        "TikTok": 1
+      },
+      "ads_latest_first_seen": "2026-02-22",
+      "ads_sample": [
+        {
+          "creative_id": "63337d3da557a89d",
+          "network": "Applovin",
+          "ad_type": "full_screen",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/61fc65163510066b/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/61fc65163510066b/media",
+          "first_seen_at": "2026-02-22"
+        },
+        {
+          "creative_id": "0e340005d8de4e7c",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12e13792979089d1/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12e13792979089d1/media",
+          "first_seen_at": "2026-01-28"
+        },
+        {
+          "creative_id": "5ad77be9ce35c268",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0fda9d0124023e0b/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0fda9d0124023e0b/media",
+          "first_seen_at": "2025-12-23"
+        },
+        {
+          "creative_id": "0e9fa9aab94fe067",
+          "network": "Applovin",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c50b18129084e91/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c50b18129084e91/media",
+          "first_seen_at": "2025-12-19"
+        },
+        {
+          "creative_id": "596721940719282f",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ef122dccd15b7067/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ef122dccd15b7067/media",
+          "first_seen_at": "2025-11-29"
+        }
+      ],
+      "paid_share": 0.6426,
+      "organic_share": 0.3574,
+      "total_downloads_3mo": 3006586,
+      "downloads_30d_curve": [
+        30252,
+        34456,
+        35025,
+        27900,
+        24161,
+        22201,
+        24296,
+        31890,
+        34292,
+        33612,
+        25891,
+        20427,
+        19580,
+        17729,
+        22991,
+        29820,
+        26988,
+        18193,
+        15691,
+        14933,
+        13430,
+        16374,
+        23234,
+        24323,
+        14290,
+        13459,
+        12721,
+        13187,
+        13750
+      ],
+      "downloads_trend_7d_pct": -0.15111239099454327
+    },
+    {
+      "app_id": "1389111413",
+      "unified_app_id": "5b08105695a243116dc61488",
+      "name": "Hole.io",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/0b/8f/980b8f8c-388b-ae75-011d-6dd707494ed4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7016,
+        7003
+      ],
+      "rating": 4.59098,
+      "rating_count": 1970581,
+      "description": "The most addictive black hole game! \n\nCan you move the black hole to swallow the buildings into the hole like an attacking hole master? The clock is ticking, tik tok, tik tok, will you succeed to swallow? \n\nEnter the arena and face the other black holes in a fierce battle. Eat everything in sight with your black hole and expand it to eat more! Choose your favorite black hole skin and go like a hoard master. Show them who is the biggest black hole in town! Play Hole.io now!",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Unity": 8,
+        "Admob": 5,
+        "Youtube": 4,
+        "Applovin": 3
+      },
+      "ads_latest_first_seen": "2026-01-26",
+      "ads_sample": [
+        {
+          "creative_id": "e242f4f542bc78a9",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b74f121da88b84ca/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b74f121da88b84ca/media",
+          "first_seen_at": "2026-01-26"
+        },
+        {
+          "creative_id": "c8b903dd4f19120e",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9db4e535a52eee6d/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9db4e535a52eee6d/media",
+          "first_seen_at": "2025-12-31"
+        },
+        {
+          "creative_id": "0cc427e8358cfdd3",
+          "network": "Applovin",
+          "ad_type": "banner",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0e0b3fc3a5cb5325/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0e0b3fc3a5cb5325/media",
+          "first_seen_at": "2025-12-17"
+        },
+        {
+          "creative_id": "e47474902565a3ed",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b1799278cf525f8e/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b1799278cf525f8e/media",
+          "first_seen_at": "2025-12-14"
+        },
+        {
+          "creative_id": "4928932b641a4871",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1c2575c38e2db412/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1c2575c38e2db412/media",
+          "first_seen_at": "2025-12-07"
+        }
+      ],
+      "paid_share": 0.6888,
+      "organic_share": 0.3112,
+      "total_downloads_3mo": 2557497,
+      "downloads_30d_curve": [
+        23320,
+        28105,
+        29213,
+        21979,
+        18494,
+        19292,
+        19945,
+        25910,
+        26931,
+        27271,
+        21144,
+        16993,
+        16455,
+        15494,
+        18135,
+        24086,
+        23335,
+        15763,
+        13504,
+        13632,
+        13161,
+        14766,
+        20456,
+        23132,
+        14179,
+        13716,
+        13280,
+        13750,
+        15578
+      ],
+      "downloads_trend_7d_pct": -0.035146769051223284
+    },
+    {
+      "app_id": "1345968745",
+      "unified_app_id": "5a7f8ef5cab16e7c9a178f24",
+      "name": "Helix Jump",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/c3/e4/50c3e436-a11d-eb83-0243-441554c12b48/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7003
+      ],
+      "rating": 4.59333,
+      "rating_count": 1509892,
+      "description": "Helix Jump is a 3d arcade game where players smash, bump and bounce through revolving helix platforms to reach the end.\nSound easy? You wish!\n\n\nYour ball drops like a brick through colorful helix platforms that block its descent, but if you hit a red spot, it's all over! Your ball shatters to pieces and you have to start your fall all over again.\n\n\nBut even traps platforms are no match for a fireball falling at full speed! Choose your strategy: speed up like a madman or stop and wait for your next chance to roll and jump. Other ball games wish they were this fun!\n\n\nWhy Helix Jump rules:\n- Crazy fast speed\n- Fun gameplay\n- Bright vibrant graphics\n- Simple and easy to play\n- Great time killer",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Admob": 10,
+        "Unity": 6,
+        "Youtube": 2,
+        "Applovin": 1,
+        "TikTok": 1
+      },
+      "ads_latest_first_seen": "2026-03-10",
+      "ads_sample": [
+        {
+          "creative_id": "6a84044eb0fc83f9",
+          "network": "Admob",
+          "ad_type": "full_screen",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3f89e2a65acb7f9a/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3f89e2a65acb7f9a/media",
+          "first_seen_at": "2026-03-10"
+        },
+        {
+          "creative_id": "e42ca3f400cbfc6f",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b121451ceafc000c/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b121451ceafc000c/media",
+          "first_seen_at": "2026-03-04"
+        },
+        {
+          "creative_id": "c6976c8801a8e6a3",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf2c87c12decdb97/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf2c87c12decdb97/media",
+          "first_seen_at": "2026-01-10"
+        },
+        {
+          "creative_id": "633a79e28e058731",
+          "network": "Unity",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4bccf1eb4508689/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4bccf1eb4508689/media",
+          "first_seen_at": "2025-12-23"
+        },
+        {
+          "creative_id": "727413c10359551f",
+          "network": "Unity",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e5f2a53d390c54a7/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e5f2a53d390c54a7/media",
+          "first_seen_at": "2025-12-13"
+        }
+      ],
+      "paid_share": 0.6175,
+      "organic_share": 0.3825,
+      "total_downloads_3mo": 406620,
+      "downloads_30d_curve": [
+        3066,
+        3735,
+        3727,
+        2958,
+        3008,
+        2331,
+        2431,
+        3174,
+        3156,
+        3300,
+        2472,
+        2391,
+        2390,
+        2653,
+        2736,
+        3276,
+        3001,
+        2549,
+        2273,
+        2465,
+        2436,
+        2729,
+        3218,
+        3395,
+        2574,
+        2454,
+        2300,
+        2446,
+        2699
+      ],
+      "downloads_trend_7d_pct": 0.01906134871055582
+    },
+    {
+      "app_id": "1444062497",
+      "unified_app_id": "5bf7a4d8a2750e17b585521e",
+      "name": "Crowd City",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/8e/c5/948ec558-6d01-bef3-30f2-14768a876463/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7015,
+        7003
+      ],
+      "rating": 4.69838,
+      "rating_count": 1039673,
+      "description": "Become the biggest crowd in town!\nGather people accross the city and crush your opponents with your overwhelming leadership!",
+      "ads_total": 13,
+      "ads_by_network": {
+        "Applovin": 8,
+        "Admob": 3,
+        "Unity": 2
+      },
+      "ads_latest_first_seen": "2026-04-24",
+      "ads_sample": [
+        {
+          "creative_id": "71931462e884ee75",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2958871341606bc2/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2958871341606bc2/media",
+          "first_seen_at": "2026-04-24"
+        },
+        {
+          "creative_id": "4eb39fcdb12c279f",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/16780cbc18c8a228/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/16780cbc18c8a228/media",
+          "first_seen_at": "2026-04-12"
+        },
+        {
+          "creative_id": "17321132380a64cd",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4ff9824391eee17a/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4ff9824391eee17a/media",
+          "first_seen_at": "2026-03-31"
+        },
+        {
+          "creative_id": "90c00c7aa8bb7967",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c5cdea92428c8504/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c5cdea92428c8504/media",
+          "first_seen_at": "2026-03-13"
+        },
+        {
+          "creative_id": "8fa6eb968c9a10e3",
+          "network": "Unity",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/18205d6ab6cf115b/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/18205d6ab6cf115b/media",
+          "first_seen_at": "2026-03-13"
+        }
+      ],
+      "paid_share": 0.5619,
+      "organic_share": 0.4381,
+      "total_downloads_3mo": 67073,
+      "downloads_30d_curve": [
+        615,
+        681,
+        738,
+        481,
+        429,
+        545,
+        612,
+        650,
+        637,
+        579,
+        529,
+        433,
+        414,
+        348,
+        390,
+        449,
+        517,
+        398,
+        375,
+        290,
+        312,
+        385,
+        478,
+        448,
+        395,
+        402,
+        396,
+        389,
+        454
+      ],
+      "downloads_trend_7d_pct": 0.08657373440939105
+    },
+    {
+      "app_id": "1469889140",
+      "unified_app_id": "5d152793b2a8d16fb5dc109e",
+      "name": "Crazy Kick! Fun Football game",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/9a/bf/ec9abf00-aca9-0aca-ccd9-6f7e918004b3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7016,
+        7001
+      ],
+      "rating": 4.68255,
+      "rating_count": 898580,
+      "description": "Crazy kick is the first football game where you control the ball and not the players! Overtake your opponents, move swiftly and shoot goals! Dribble, pass and kick.\n\nHave fun and show your football skills\nForget about traditional football games where you control 11 football players or play the soccer team manager. Here it's easy, you control the ball and can do crazy things to score!\n\nCan you score goals and reach the football World Cup Final?\nCompetition is fierce and the top eleven football players want to kick you! BUT you won't let them: dribble, tackle, make fun of them and score that goal!\n\nReal football experience with easy controls and enjoyable movements.\nCompete against your friends and show them your skills!\n\n\nLinks to our Terms of Service and Privacy Policy can be found below\n\nPrivacy Policy: https://www.voodoo.io/privacy/\nTerms of Use: https://www.voodoo.io/terms/\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Admob": 11,
+        "Youtube": 6,
+        "Applovin": 2,
+        "Unity": 1
+      },
+      "ads_latest_first_seen": "2026-04-21",
+      "ads_sample": [
+        {
+          "creative_id": "802da7b22739476a",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d520415acd0ebb09/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d520415acd0ebb09/media",
+          "first_seen_at": "2026-04-21"
+        },
+        {
+          "creative_id": "b4a379bafc65367b",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1ae9f521652ca18/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1ae9f521652ca18/media",
+          "first_seen_at": "2026-04-17"
+        },
+        {
+          "creative_id": "527427cd6a7c6f64",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0779c125804b9307/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0779c125804b9307/media",
+          "first_seen_at": "2026-03-30"
+        },
+        {
+          "creative_id": "33f762eee230be16",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66fa840608074275/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66fa840608074275/media",
+          "first_seen_at": "2026-03-29"
+        },
+        {
+          "creative_id": "30df635ea4017c54",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc1931ab139336a5/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc1931ab139336a5/media",
+          "first_seen_at": "2026-03-17"
+        }
+      ],
+      "paid_share": 0.8183,
+      "organic_share": 0.1817,
+      "total_downloads_3mo": 712141,
+      "downloads_30d_curve": [
+        8399,
+        10246,
+        9850,
+        7253,
+        7239,
+        6061,
+        6284,
+        8992,
+        9903,
+        8870,
+        6688,
+        5551,
+        5169,
+        4867,
+        5760,
+        7304,
+        6412,
+        4516,
+        3759,
+        3681,
+        3515,
+        4549,
+        6984,
+        7052,
+        4982,
+        4558,
+        4422,
+        4476,
+        4686
+      ],
+      "downloads_trend_7d_pct": 0.10149395304718994
+    },
+    {
+      "app_id": "1235581326",
+      "unified_app_id": "591d87e30211a6ba9500079c",
+      "name": "Flappy Dunk",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/a3/0b/d3a30b6b-1a57-1e20-c244-fc8e937f49f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003,
+        7016
+      ],
+      "rating": 4.62596,
+      "rating_count": 723960,
+      "description": "Tap to jump into as many hoops as possible. \nCollect skins and achieve crazy challenges.",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Youtube": 9,
+        "Admob": 5,
+        "Applovin": 4,
+        "Unity": 2
+      },
+      "ads_latest_first_seen": "2026-04-18",
+      "ads_sample": [
+        {
+          "creative_id": "1ea8bfb66f926c1e",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f1805c32fde19693/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f1805c32fde19693/media",
+          "first_seen_at": "2026-04-18"
+        },
+        {
+          "creative_id": "48068216cf60513b",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f9fe0bcaf78a9101/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f9fe0bcaf78a9101/media",
+          "first_seen_at": "2026-04-17"
+        },
+        {
+          "creative_id": "ae8a7d01c3fa2a3d",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/415d7c0f9092189c/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/415d7c0f9092189c/media",
+          "first_seen_at": "2026-04-11"
+        },
+        {
+          "creative_id": "4ca28133b4c5a902",
+          "network": "Admob",
+          "ad_type": "banner",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/19af67db5ef25561/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/19af67db5ef25561/media",
+          "first_seen_at": "2026-04-11"
+        },
+        {
+          "creative_id": "1b18e5b4bd4349ec",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1e7a5de388dde060/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1e7a5de388dde060/media",
+          "first_seen_at": "2026-04-10"
+        }
+      ],
+      "paid_share": 0.7415,
+      "organic_share": 0.2585,
+      "total_downloads_3mo": 713498,
+      "downloads_30d_curve": [
+        8286,
+        10174,
+        9788,
+        7293,
+        7283,
+        6758,
+        6881,
+        9651,
+        10682,
+        10429,
+        8967,
+        8054,
+        6761,
+        6439,
+        6542,
+        8536,
+        8190,
+        5562,
+        4278,
+        3752,
+        3730,
+        4175,
+        6935,
+        6718,
+        4462,
+        4017,
+        3672,
+        3936,
+        4207
+      ],
+      "downloads_trend_7d_pct": -0.11186981660256913
+    },
+    {
+      "app_id": "1570641170",
+      "unified_app_id": "60d09f51b3ae2757091b3d89",
+      "name": "Collect Em All! Clear the Dots",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/fb/e6/5bfbe6c3-73bd-3df7-cd54-3e51580ff45a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7012,
+        7003
+      ],
+      "rating": 4.66589,
+      "rating_count": 679302,
+      "description": "Collect Em All! \u2013 The Ultimate Color Match Puzzle Adventure\n\nGet ready for the most satisfying and addictive puzzle experience! In Collect Em All, your mission is simple: connect balls of the same color, crush through challenging puzzles, and climb your way to the top of the global leaderboard.\n\nConnect. Crush. Conquer.\n\nSwipe to link colorful balls and create explosive chains! The longer your chain, the bigger the blast\u2014and the better your score. Clear the board, beat the level goals, and unlock powerful boosters to help you on your journey.\n\nEasy to Play, Hard to Master!\n\n\u25c9 Tap and drag to connect adjacent balls of the same color\n\u25c9 Complete each level\u2019s objectives before running out of moves\n\u25c9 Use strategy to create super long chains and trigger combos\n\u25c9 Blast your way through thousands of handcrafted levels!\n\nPower-Ups &amp; Boosters:\n\n\u25c9 Rocket: Clears a full row or column\n\u25c9 Bomb: Blasts a big area in one tap\n\u25c9 Shuffle: Rearranges the board for fresh opportunities\nUnlock new boosters as you progress!\n\nGame Features:\n\n\u25c9 Satisfying color match gameplay that\u2019s perfect for quick sessions\n\u25c9 Thousands of fun and challenging levels with increasing difficulty\n\u25c9 Exciting daily rewards, missions, and special timed events\n\u25c9 Play anytime, anywhere \u2013 no Wi-Fi required\n\u25c9 Compete with friends and players worldwide on global leaderboards\n\u25c9 Beautiful, bright visuals and smooth animations\n\u25c9 Regular updates with new levels, challenges &amp; surprises!\n\nWhether you\u2019re looking to relax or seeking a brain-teasing challenge, Collect Em All delivers a colorful and dynamic puzzle experience that never gets boring.\n\nPerfect For Fans Of:\n\n\u25c9 Match 3 and blast games\n\u25c9 Color linking puzzles\n\u25c9 Strategy and logic-based mobile games\n\u25c9 Addictive games with progression and reward loops\n\nDownload Collect Em All now and start your ball-connecting adventure. The puzzle world is waiting\u2014can you collect them all?",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Youtube": 8,
+        "TikTok": 5,
+        "Unity": 4,
+        "Admob": 3
+      },
+      "ads_latest_first_seen": "2026-02-28",
+      "ads_sample": [
+        {
+          "creative_id": "44b90604c5520e5c",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dce853b79f9f30f5/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dce853b79f9f30f5/media",
+          "first_seen_at": "2026-02-28"
+        },
+        {
+          "creative_id": "4de787b8263d7267",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d5b6d20b7cf04cce/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d5b6d20b7cf04cce/media",
+          "first_seen_at": "2026-02-28"
+        },
+        {
+          "creative_id": "683ef9bba20147f7",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bfcc0eed8e1ca260/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bfcc0eed8e1ca260/media",
+          "first_seen_at": "2026-02-28"
+        },
+        {
+          "creative_id": "31fe9fd5273984ad",
+          "network": "Admob",
+          "ad_type": "full_screen",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64f3793dcd0e78ce/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64f3793dcd0e78ce/media",
+          "first_seen_at": "2026-02-26"
+        },
+        {
+          "creative_id": "4602792ee9b53344",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5bdf9819d4d07e7b/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5bdf9819d4d07e7b/media",
+          "first_seen_at": "2026-01-30"
+        }
+      ],
+      "paid_share": 0.8403,
+      "organic_share": 0.1597,
+      "total_downloads_3mo": 228899,
+      "downloads_30d_curve": [
+        1513,
+        1565,
+        1418,
+        1146,
+        1081,
+        1265,
+        1274,
+        1317,
+        1298,
+        1251,
+        1229,
+        1148,
+        1216,
+        1278,
+        1352,
+        1507,
+        1556,
+        1138,
+        1293,
+        1415,
+        1483,
+        1507,
+        1823,
+        1916,
+        1434,
+        1515,
+        1486,
+        1533,
+        1756
+      ],
+      "downloads_trend_7d_pct": 0.15799575714718658
+    },
+    {
+      "app_id": "1233739175",
+      "unified_app_id": "591620e60211a64f4e000bed",
+      "name": "Snake VS Block",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/cd/4b/b2cd4bcc-9b3e-d763-33ce-d9fc580d51c2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        6016,
+        7001,
+        7003
+      ],
+      "rating": 4.50854,
+      "rating_count": 597849,
+      "description": "Swipe your finger to guide a snake of balls and break the bricks.\nTry to break as many bricks as possible.\nGet additional balls and make the biggest snake ever!\n\nVery easy to play but very hard to reach high scores!\n\nGame Features:\n- Free to play\n- Endless gameplay\n- Simple swipe control\n- Challenge your friends with the best highscore",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Applovin": 20
+      },
+      "ads_latest_first_seen": "2026-04-02",
+      "ads_sample": [
+        {
+          "creative_id": "05ca9a173a99c2ae",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/370e0b018749c548/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/370e0b018749c548/media",
+          "first_seen_at": "2026-04-02"
+        },
+        {
+          "creative_id": "0c2a775f04a3ec7c",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3eeee649b973eb9a/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3eeee649b973eb9a/media",
+          "first_seen_at": "2026-03-16"
+        },
+        {
+          "creative_id": "8734d98e9535b69a",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b5f0489828e5b17c/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b5f0489828e5b17c/media",
+          "first_seen_at": "2026-03-11"
+        },
+        {
+          "creative_id": "ec00fc8d27383c8d",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dec46d9b9ae83b6b/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dec46d9b9ae83b6b/media",
+          "first_seen_at": "2026-03-05"
+        },
+        {
+          "creative_id": "92413c886bf98be1",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a085ad9ed6298c07/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a085ad9ed6298c07/media",
+          "first_seen_at": "2026-03-05"
+        }
+      ],
+      "paid_share": 0.7018,
+      "organic_share": 0.2982,
+      "total_downloads_3mo": 107893,
+      "downloads_30d_curve": [
+        706,
+        927,
+        762,
+        675,
+        673,
+        741,
+        805,
+        842,
+        1081,
+        1001,
+        648,
+        498,
+        396,
+        415,
+        683,
+        733,
+        666,
+        471,
+        402,
+        547,
+        619,
+        669,
+        818,
+        873,
+        631,
+        557,
+        436,
+        502,
+        536
+      ],
+      "downloads_trend_7d_pct": 0.05989773557341125
+    },
+    {
+      "app_id": "1383187127",
+      "unified_app_id": "5af590c59f479f436682507c",
+      "name": "Ball Blast Cannon blitz mania",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/69/86/d369860b-11b1-1dee-bdac-d8ea86f66d5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7003
+      ],
+      "rating": 4.55673,
+      "rating_count": 542511,
+      "description": "Get ready for an epic, action-packed gun-shooting adventure!\n\"Ball Blast\" brings you a thrilling bullet heaven experience with endless excitement and strategic depth. Survive waves of enemies using deadly guns, abilities, perks, and your own skill. \n\nCUSTOMIZE YOUR ULTIMATE CANNON\nCollect dozens of unique items! Pick your gun, abilities, drones, ultimates, and perks to build a setup that fits your play style.\n\nUNLOCK FULL POTENTIAL\nEvery item in the game changes the way it works with each upgrade, adding more options, combinations, and strategic depth. Choose wisely!\n\nBLAST YOUR WAY TO THE TOP\nCompete for glory against the best players in the world in multiple events, leagues, and leaderboards.\n\nSURVIVE THE CHAOS\nEach game is a unique experience due to its random nature. Survive bosses, blast your way through enemy hordes, and become a guardian in the castle defense challenge against an enemy raid! Can you adapt to the chaotic BallZ ****mayhem?\n\nJoin millions of players worldwide and see why \"Ball Blast\" game ****is the ultimate test of your reflexes and strategic thinking.\n\nReady, aim, blast!\n\n\n\n\nTERMS OF SERVICE - PURCHASE\n\n\nVoodoo offers to each of its account holder (the \u201cAccount Holder\u201d) the possibility to select a weekly subscription (the \u201cSubscription\u201d) after a three-day (3) free trial period (the \u201cFree Trial Period\u201d) for a weekly price of 5.99 USD (the \u201cPrice\u201d) for the purpose of accessing specific services expressly made available by Voodoo for use (the \u201cSubscribed Services\u201d).\n\nScope of the Subscription\n\nFollowing the Free Trial Period, the Account Holder will continue to have access to the Subscribed Services upon confirmation of purchase and after payment is charged to the Account Holders\u2019 personal iTunes Account.\n\nThe Subscribed Services will unlock certain games for the Account Holder as well as remove all ads.\n\nThe Account Holder agrees that the Price with respect to the Subscribed Services is final and will not be subject to refund.\n\nPurchases by Account Holders outside the U.S.A\n\nThe Price is labelled in US Dollars. If the Account Holder resides outside the U.S.A, and wishes to download the Subscription, the Price will be subject to certain variation including additional charges for conversion of the currency.\n\nIn addition, Voodoo reserves the right at any time to change and update the Price and inventory of the Subscribed Services available.\n\nTermination of the Subscription\n\nExcept as provided below regarding renewal of the Subscription, Voodoo may cancel, suspend or terminate the access by the Account Holder of the Subscribed Services if:\n\nthe Account Holder fails to comply with the terms ;\nVoodoo suspects any unlawful activity associated with the Account Holder; and\nVoodoo suspects certain event of fraud or misuse.\n\nThe Subscription is subject to automatic renewal unless the Account Holder withdraws from the Subscription 24-hours before the end of the current week corresponding to the subscription period. If the Account Holder does not withdraw, he will be charged for the following Subscription period.\n\nThe Account Holder may manage directly the automatic renewal by using the functionality provided for in the settings of its iTunes Account.\n\nWhen the Account Holder\u2019s Free Trial Period or the subscription period expires, and provided that he has withdrawn from the Subscription as described above, his personal account will be closed.\n\nThe Account Holder acknowledges that Voodoo is not required to provide a refund in the event that there remains any amount in his account. Voodoo will not grant any compensation for unused currency.\n\nIf you have any questions or comments, feel free to contact us at techsupport@voodoo.io\n\nTerms of services : http://www.voodoo.io/terms\nPrivacy policy : http://www.voodoo.io/privacy",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Admob": 9,
+        "Applovin": 4,
+        "TikTok": 3,
+        "Unity": 3,
+        "Youtube": 1
+      },
+      "ads_latest_first_seen": "2026-04-22",
+      "ads_sample": [
+        {
+          "creative_id": "843e1a2a0a2bbb36",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d133fcc2e01c4755/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d133fcc2e01c4755/media",
+          "first_seen_at": "2026-04-22"
+        },
+        {
+          "creative_id": "2f6a44876d07091b",
+          "network": "Admob",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a67a26f8730f578/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a67a26f8730f578/media",
+          "first_seen_at": "2026-02-01"
+        },
+        {
+          "creative_id": "25dcc1801221f087",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/70d12768f8160ce4/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/70d12768f8160ce4/media",
+          "first_seen_at": "2026-01-15"
+        },
+        {
+          "creative_id": "40047e3d320158f0",
+          "network": "TikTok",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5186ac246070f335/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5186ac246070f335/media",
+          "first_seen_at": "2025-12-04"
+        },
+        {
+          "creative_id": "1c35ed6d192c4a46",
+          "network": "TikTok",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b0fc01cb878cad4/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b0fc01cb878cad4/media",
+          "first_seen_at": "2025-12-04"
+        }
+      ],
+      "paid_share": 0.7183,
+      "organic_share": 0.2817,
+      "total_downloads_3mo": 248088,
+      "downloads_30d_curve": [
+        2390,
+        2699,
+        2691,
+        2108,
+        1787,
+        1579,
+        1421,
+        1637,
+        1728,
+        1793,
+        1425,
+        1445,
+        1470,
+        1411,
+        1560,
+        1695,
+        1838,
+        1484,
+        1475,
+        1483,
+        1338,
+        1477,
+        1757,
+        1767,
+        1408,
+        1473,
+        1433,
+        1402,
+        1464
+      ],
+      "downloads_trend_7d_pct": -0.007970342910101947
+    },
+    {
+      "app_id": "1291851950",
+      "unified_app_id": "59de644fd659584c3c3baec6",
+      "name": "Dune!",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/44/a1/8c44a1c7-d2e7-6054-fa1a-e9c607877998/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003,
+        7001,
+        6016
+      ],
+      "rating": 4.53936,
+      "rating_count": 542334,
+      "description": "Jump above the line to score, but beware! The higher you get, the harder the landing will be! Don't crash and keep it smooth!",
+      "ads_total": 19,
+      "ads_by_network": {
+        "Applovin": 19
+      },
+      "ads_latest_first_seen": "2026-03-20",
+      "ads_sample": [
+        {
+          "creative_id": "6f46f8f15b2df183",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/497bcdf82bd9a552/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/497bcdf82bd9a552/media",
+          "first_seen_at": "2026-03-20"
+        },
+        {
+          "creative_id": "6f2c97a94a803142",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4911a2a03a746593/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4911a2a03a746593/media",
+          "first_seen_at": "2026-03-15"
+        },
+        {
+          "creative_id": "d8df71af89d0407c",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fee244a6f92414ad/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fee244a6f92414ad/media",
+          "first_seen_at": "2026-03-13"
+        },
+        {
+          "creative_id": "edf0aeb57b0ddbcd",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cbcd9bbc0bf98f1c/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cbcd9bbc0bf98f1c/media",
+          "first_seen_at": "2026-02-18"
+        },
+        {
+          "creative_id": "f38ba2ad3ba27209",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d5b697a44b5626d8/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d5b697a44b5626d8/media",
+          "first_seen_at": "2026-02-14"
+        }
+      ],
+      "paid_share": 0.3602,
+      "organic_share": 0.6398,
+      "total_downloads_3mo": 120989,
+      "downloads_30d_curve": [
+        798,
+        904,
+        1002,
+        995,
+        1051,
+        1157,
+        1054,
+        991,
+        997,
+        954,
+        864,
+        836,
+        823,
+        829,
+        910,
+        970,
+        908,
+        677,
+        642,
+        703,
+        721,
+        837,
+        1020,
+        888,
+        666,
+        647,
+        636,
+        709,
+        755
+      ],
+      "downloads_trend_7d_pct": -0.025100769512641993
+    },
+    {
+      "app_id": "1333523965",
+      "unified_app_id": "5a682611bff88b5b7bbf76e1",
+      "name": "Baseball Boy!",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/aa/47/27aa478d-e59c-0785-3fb6-74c75feafadf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003,
+        7016
+      ],
+      "rating": 4.49891,
+      "rating_count": 525288,
+      "description": "Hit hard or go home!\n\nHit your baseball as hard as possible and upgrade your stats! Improve your best distance and unlock even better baseball bats! \n\nPrepare for some endless baseball fun!\n\n\nSUBSCRIPTION PRICING AND TERMS\n\nSubscription options\n\nIn our game we have the following subscription offer:\n\nWeekly All-star Subscription offers weekly subscription for $7.99 after 3-day free trial which unlocks 3 Premium Boys, Balls and Bats, 75 Free Diamonds Daily, Permanent Double Earnings and Removes All Ads.\n\n\nEnd of trial period and subscription renewal\n\nThis price is established for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence.\n\nPayment will be charged to your iTunes Account at confirmation of purchase.\n\nSubscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n\nAccount will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.\n\nSubscriptions may be managed by the user and auto-renewal may be turned off by going to the user\u2019s Account Settings after purchase.\n\nAny unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\n\nCanceling trial period or subscription\n\nYou can turn off the auto-renew for the subscription whenever you want in the settings if your iTunes account. Check https://support.apple.com/HT202039.\n\nWhen your current trial/subscription period expires, you will be unsubscribed. The current active subscription period cannot be canceled.\n\nTerms of use: https://www.voodoo.io/?open=terms-and-conditions",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Applovin": 9,
+        "Youtube": 6,
+        "Unity": 3,
+        "Admob": 2
+      },
+      "ads_latest_first_seen": "2026-04-23",
+      "ads_sample": [
+        {
+          "creative_id": "2df7b20e0da32441",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ca095dbe0f31a1db/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ca095dbe0f31a1db/media",
+          "first_seen_at": "2026-04-23"
+        },
+        {
+          "creative_id": "0f6cc7eaf2809fe2",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e892285af0121a78/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e892285af0121a78/media",
+          "first_seen_at": "2026-03-10"
+        },
+        {
+          "creative_id": "74da1c3503f1990e",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9324f38501631c94/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9324f38501631c94/media",
+          "first_seen_at": "2026-03-10"
+        },
+        {
+          "creative_id": "cc3e92e03983163b",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2bc07d503b1193a1/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2bc07d503b1193a1/media",
+          "first_seen_at": "2026-03-10"
+        },
+        {
+          "creative_id": "791e2ac5215e59c1",
+          "network": "Unity",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee989c391b0b5879/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee989c391b0b5879/media",
+          "first_seen_at": "2026-01-21"
+        }
+      ],
+      "paid_share": 0.7092,
+      "organic_share": 0.2908,
+      "total_downloads_3mo": 109178,
+      "downloads_30d_curve": [
+        899,
+        1204,
+        1334,
+        1140,
+        1052,
+        1158,
+        1219,
+        1535,
+        1467,
+        1631,
+        1383,
+        1235,
+        1248,
+        1219,
+        1243,
+        1343,
+        1576,
+        1216,
+        1085,
+        1299,
+        1245,
+        1327,
+        1776,
+        1904,
+        1308,
+        1297,
+        1226,
+        1156,
+        1309
+      ],
+      "downloads_trend_7d_pct": 0.0973490265097349
+    },
+    {
+      "app_id": "1497532365",
+      "unified_app_id": "5e40d139c848374197f15ba8",
+      "name": "Draw Joust!",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/4d/52/784d5287-8f94-9634-c34e-46a62d6bc90f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7003
+      ],
+      "rating": 4.66425,
+      "rating_count": 467033,
+      "description": "Draw your own cart and defeat other players!\n\n- Axes, spears, cannons, swords, all sorts of weapons attachable to your cart\n- Hundreds of cart types\n- Multiple Arenas\n- Endless enemies\n\n\n\nTerms of Service: \nhttps://www.ayaplay.com/tos\n\nPrivacy policy:\nhttps://voodoo.io/privacy",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Applovin": 11,
+        "Admob": 5,
+        "Unity": 4
+      },
+      "ads_latest_first_seen": "2026-03-09",
+      "ads_sample": [
+        {
+          "creative_id": "b59106d85efb3cc5",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9318cf6e68cd679a/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9318cf6e68cd679a/media",
+          "first_seen_at": "2026-03-09"
+        },
+        {
+          "creative_id": "b7308a1064d500ed",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91b943a652e35bb2/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91b943a652e35bb2/media",
+          "first_seen_at": "2026-03-04"
+        },
+        {
+          "creative_id": "b953164a86efdeab",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9fdadffcb0d985f4/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9fdadffcb0d985f4/media",
+          "first_seen_at": "2026-02-15"
+        },
+        {
+          "creative_id": "7450bd709e50837c",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52d974c6a866d823/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52d974c6a866d823/media",
+          "first_seen_at": "2026-02-13"
+        },
+        {
+          "creative_id": "a9e56b70923680a2",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fce88d9878017cc1/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fce88d9878017cc1/media",
+          "first_seen_at": "2026-02-07"
+        }
+      ],
+      "paid_share": 0.8016,
+      "organic_share": 0.1984,
+      "total_downloads_3mo": 213819,
+      "downloads_30d_curve": [
+        2229,
+        2921,
+        2972,
+        2231,
+        2051,
+        2228,
+        2530,
+        2896,
+        3074,
+        2600,
+        1849,
+        1526,
+        1520,
+        1494,
+        1830,
+        2278,
+        2086,
+        1332,
+        1137,
+        1022,
+        995,
+        1257,
+        1984,
+        1988,
+        1224,
+        1095,
+        1072,
+        1055,
+        1263
+      ],
+      "downloads_trend_7d_pct": -0.042149005639655686
+    },
+    {
+      "app_id": "1492451796",
+      "unified_app_id": "5dfe738a27d3056684fa79b7",
+      "name": "Woodturning 3D",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/80/1e/37801e57-66d7-92bc-ca1e-11eb5ad58e06/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7015,
+        7014
+      ],
+      "rating": 4.54274,
+      "rating_count": 439580,
+      "description": "The best woodturning simulator.\nComplete customer orders.\nTurn a piece of wood into the given shape.\nCut (carve), polish, paint and add a stencil to your work.\nEarn money and improve your lathe room.",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Youtube": 9,
+        "Admob": 5,
+        "Applovin": 3,
+        "TikTok": 2,
+        "Unity": 1
+      },
+      "ads_latest_first_seen": "2026-01-28",
+      "ads_sample": [
+        {
+          "creative_id": "e9d9e13ac388765c",
+          "network": "Admob",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bcd407d229bf8a3f/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bcd407d229bf8a3f/media",
+          "first_seen_at": "2026-01-28"
+        },
+        {
+          "creative_id": "c2481c228747c0b7",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9745faca6d703cd4/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9745faca6d703cd4/media",
+          "first_seen_at": "2025-12-29"
+        },
+        {
+          "creative_id": "99413a21675b70f8",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc4cdcc98d6c8c9b/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc4cdcc98d6c8c9b/media",
+          "first_seen_at": "2025-12-19"
+        },
+        {
+          "creative_id": "0f328dc3761f34e1",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a81964bbec6c862b/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a81964bbec6c862b/media",
+          "first_seen_at": "2025-12-10"
+        },
+        {
+          "creative_id": "1ff0c08bc6e9d972",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08b06a9028ea443a/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08b06a9028ea443a/media",
+          "first_seen_at": "2025-12-03"
+        }
+      ],
+      "paid_share": 0.811,
+      "organic_share": 0.189,
+      "total_downloads_3mo": 673407,
+      "downloads_30d_curve": [
+        6748,
+        7512,
+        6883,
+        5318,
+        5105,
+        5192,
+        5780,
+        7478,
+        8727,
+        8071,
+        6325,
+        5325,
+        5205,
+        5043,
+        5031,
+        6530,
+        6842,
+        4630,
+        3969,
+        4119,
+        3962,
+        4253,
+        6228,
+        7145,
+        4853,
+        4252,
+        3842,
+        3819,
+        4053
+      ],
+      "downloads_trend_7d_pct": -0.0032939804693193414
+    },
+    {
+      "app_id": "1342468799",
+      "unified_app_id": "5a72a9a00dc0bc2877db34be",
+      "name": "Color Road!",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/82/5d/42825d9c-8438-7340-42b0-136a2a3ac2b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003,
+        7013
+      ],
+      "rating": 4.58538,
+      "rating_count": 425104,
+      "description": "Roll to the ball which has the same color!\nAvoid the ball which has different color.\nGood luck!",
+      "ads_total": 6,
+      "ads_by_network": {
+        "Applovin": 6
+      },
+      "ads_latest_first_seen": "2026-04-17",
+      "ads_sample": [
+        {
+          "creative_id": "f6f3976fd0f543fd",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a0b0c67883ec7cc1/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a0b0c67883ec7cc1/media",
+          "first_seen_at": "2026-04-17"
+        },
+        {
+          "creative_id": "fce313826b8f61a4",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aaa0429538965e98/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aaa0429538965e98/media",
+          "first_seen_at": "2026-03-30"
+        },
+        {
+          "creative_id": "f3cf9167a6731e8a",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a58cc070f56a21b6/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a58cc070f56a21b6/media",
+          "first_seen_at": "2026-03-17"
+        },
+        {
+          "creative_id": "c2b4300bebda5b72",
+          "network": "Applovin",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/94f7611cb8c3644e/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/94f7611cb8c3644e/media",
+          "first_seen_at": "2026-01-15"
+        },
+        {
+          "creative_id": "6dcc3a55ecd5e527",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3b8f6b42bfccda1b/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3b8f6b42bfccda1b/media",
+          "first_seen_at": "2026-01-09"
+        }
+      ],
+      "paid_share": 0.6077,
+      "organic_share": 0.3923,
+      "total_downloads_3mo": 58836,
+      "downloads_30d_curve": [
+        766,
+        867,
+        761,
+        768,
+        720,
+        872,
+        724,
+        620,
+        594,
+        574,
+        449,
+        362,
+        374,
+        348,
+        350,
+        467,
+        537,
+        347,
+        301,
+        298,
+        277,
+        232,
+        326,
+        291,
+        218,
+        191,
+        159,
+        207,
+        221
+      ],
+      "downloads_trend_7d_pct": -0.34404229361529076
+    },
+    {
+      "app_id": "1562817072",
+      "unified_app_id": "60913111fdef5825277f7ba6",
+      "name": "Mob Control",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/d6/4d/fad64da5-7937-fcd6-186b-b849eb37645f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003
+      ],
+      "rating": 4.55699,
+      "rating_count": 405119,
+      "description": "ODDLY SATISFYING GAMEPLAY\nCreate massive mobs and lead them to victory in the most competitive and relaxing game in the App Store!\n\nUnlock all the Cannons, Mobs and Champions in the armory and discover their amazing evolutions as you level them up.\n\nChoose the best combo and rise to the top of the Champions League!\n\n\nODDLY SATISFYING GAMEPLAY\n- Aim and shoot at the multiplying gates and watch your mob grow huge!\n- Deploy your Champions to break through the enemy mob and reach their base.\n- Use the special elements in the levels, such as speed boosts, multipliers, moving gates, and many more.\n\n\nBECOME AN IMMORTAL PLAYER\n- Earn Championship Stars by winning battles, building your bases, and winning tournaments.\n- Use Championship Stars to climb the Champions League and become Immortal! Only the best players in the world can achieve this.\n\n\nPROTECT YOUR BASE\nWin battles to earn shields and protect your base from enemy raids.\n\n\nUNLOCK AND UPGRADE CARDS\nWin battles to earn booster packs of different rarities and upgrade your card collection.\n\n\nVARIOUS GAME MODES\n- Base invasion: Raid enemy bases and steal coins and bricks from other players.\n- Revenge or counter-attack: Fight back against attacking players.\n- Boss Levels: Challenge yourself in special level layouts for extra bonuses.\n\n\nSEASON PASS\nFresh content every month! Complete quests to advance in the Season Pass and claim the rewards.\n\n\nALWAYS IMPROVING\nA small team of 12 is working hard to release new mechanics and content every month. Connect with us via Settings &gt; Discord.\n\n\nA PREMIUM EXPERIENCE\nMob Control is free to download and uses ads to support its development. Purchase the Premium Pass or a permanent no-ads package to play without mandatory ads.\n\nSkip'Its allow you to speed up your progress and obtain extra rewards without watching the ads!\n\n\nSUPPORT:\nContact us in-game via Settings &gt; Help and Support.\n\n\nPRIVACY POLICY:\nhttps://www.voodoo.io/privacy\n\n\nTERMS OF SERVICE:\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Applovin": 9,
+        "Youtube": 5,
+        "Admob": 4,
+        "TikTok": 2
+      },
+      "ads_latest_first_seen": "2026-03-24",
+      "ads_sample": [
+        {
+          "creative_id": "05c840dcab1c15a6",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/media",
+          "first_seen_at": "2026-03-24"
+        },
+        {
+          "creative_id": "be2fc969264b7c60",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fee269e15a0c9a4c/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fee269e15a0c9a4c/media",
+          "first_seen_at": "2026-03-18"
+        },
+        {
+          "creative_id": "0317957285cbde5a",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "first_seen_at": "2026-03-13"
+        },
+        {
+          "creative_id": "4262c33aa18145bc",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/media",
+          "first_seen_at": "2026-02-21"
+        },
+        {
+          "creative_id": "95707ff935820eb0",
+          "network": "Admob",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c07d9911dfb5f2d3/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c07d9911dfb5f2d3/media",
+          "first_seen_at": "2026-02-15"
+        }
+      ],
+      "paid_share": 0.7044,
+      "organic_share": 0.2956,
+      "total_downloads_3mo": 1070725,
+      "downloads_30d_curve": [
+        8677,
+        9739,
+        9730,
+        7245,
+        7048,
+        7429,
+        7275,
+        10510,
+        10847,
+        10844,
+        9001,
+        8228,
+        8040,
+        8222,
+        9265,
+        11792,
+        12285,
+        9273,
+        8677,
+        8966,
+        8748,
+        9873,
+        12497,
+        14403,
+        11395,
+        11251,
+        11376,
+        11069,
+        13098
+      ],
+      "downloads_trend_7d_pct": 0.2222972390611084
+    },
+    {
+      "app_id": "1437370468",
+      "unified_app_id": "5bb178f3e2d95b5ef06914d8",
+      "name": "Fire Balls 3D",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/73/9f/63739f2d-900f-8109-cd95-71b25b0db1d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003,
+        7001
+      ],
+      "rating": 4.60436,
+      "rating_count": 356555,
+      "description": "Fire Balls 3D is a single-tap hyper casual game that will keep you hooked for hours!\n\nHold to make your dot fire forward, and be careful from moving obstacles.\n\nThe game features unlimited levels and 20 beautiful color themes.",
+      "ads_total": 0,
+      "ads_by_network": {},
+      "ads_latest_first_seen": null,
+      "ads_sample": [],
+      "paid_share": null,
+      "organic_share": null,
+      "total_downloads_3mo": null,
+      "downloads_30d_curve": [],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1448037588",
+      "unified_app_id": "5c3adc53b00dad0ee2cf0d3d",
+      "name": "Ball Mayhem",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/96/16/7796166c-d28e-5a93-705a-a14563e764a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7016
+      ],
+      "rating": 4.75071,
+      "rating_count": 351968,
+      "description": "Enter the stadium and face the other teams in a fierce battle.\nTackle everyone in sight to move forward and score a Touchdown!\nShow them who is the best team in the world!",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Unity": 17,
+        "Admob": 3
+      },
+      "ads_latest_first_seen": "2026-02-09",
+      "ads_sample": [
+        {
+          "creative_id": "5250e278086c9ef8",
+          "network": "Unity",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c5d6548432399f40/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c5d6548432399f40/media",
+          "first_seen_at": "2026-02-09"
+        },
+        {
+          "creative_id": "44b67e591b9c9e66",
+          "network": "Unity",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d330c8a521c99fde/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d330c8a521c99fde/media",
+          "first_seen_at": "2026-02-09"
+        },
+        {
+          "creative_id": "d08748d15f0ddb32",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/858aae39b53a2751/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/858aae39b53a2751/media",
+          "first_seen_at": "2026-02-08"
+        },
+        {
+          "creative_id": "73fd8d1517320568",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f06bfdfd05f90b/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f06bfdfd05f90b/media",
+          "first_seen_at": "2026-02-08"
+        },
+        {
+          "creative_id": "0654c64f5fdf228c",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/535920a7b5e8deef/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/535920a7b5e8deef/media",
+          "first_seen_at": "2026-01-02"
+        }
+      ],
+      "paid_share": 0.6717,
+      "organic_share": 0.3283,
+      "total_downloads_3mo": 76272,
+      "downloads_30d_curve": [
+        280,
+        382,
+        387,
+        340,
+        357,
+        336,
+        264,
+        220,
+        228,
+        243,
+        162,
+        137,
+        135,
+        130,
+        148,
+        205,
+        216,
+        158,
+        132,
+        143,
+        115,
+        128,
+        196,
+        225,
+        154,
+        128,
+        99,
+        97,
+        121
+      ],
+      "downloads_trend_7d_pct": -0.07019143117593436
+    },
+    {
+      "app_id": "1459811607",
+      "unified_app_id": "5ce2f2b2b660a474a53b35e3",
+      "name": "Flip Dunk",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/7d/42/a57d421c-5470-a9df-ac01-b26dbf0423af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7016,
+        7003
+      ],
+      "rating": 4.64992,
+      "rating_count": 335305,
+      "description": "Tap to jump and then hold your finger while in the air to flip.",
+      "ads_total": 0,
+      "ads_by_network": {},
+      "ads_latest_first_seen": null,
+      "ads_sample": [],
+      "paid_share": 0.1604,
+      "organic_share": 0.8396,
+      "total_downloads_3mo": 10087,
+      "downloads_30d_curve": [
+        89,
+        106,
+        99,
+        70,
+        65,
+        70,
+        85,
+        115,
+        121,
+        114,
+        82,
+        72,
+        87,
+        76,
+        98,
+        130,
+        110,
+        73,
+        64,
+        57,
+        66,
+        95,
+        119,
+        116,
+        77,
+        65,
+        65,
+        75,
+        88
+      ],
+      "downloads_trend_7d_pct": 0.01680672268907563
+    },
+    {
+      "app_id": "1556238786",
+      "unified_app_id": "60415b6fec1eca46ba2fc1d9",
+      "name": "Slice It All!",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/ec/dc/17ecdc52-7e25-8ad8-1c30-b65745a8243c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001
+      ],
+      "rating": 4.55686,
+      "rating_count": 326170,
+      "description": "Tap to flip the knife and slice amazing obstacles in juiciest way!\nCut or slice everything and become slice master!",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Youtube": 14,
+        "Applovin": 4,
+        "TikTok": 2
+      },
+      "ads_latest_first_seen": "2026-04-09",
+      "ads_sample": [
+        {
+          "creative_id": "2de51f7ff48ea8b7",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cce2703f6fabe23/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cce2703f6fabe23/media",
+          "first_seen_at": "2026-04-09"
+        },
+        {
+          "creative_id": "16677c35b2d1387a",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/41973f456f7ab671/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/41973f456f7ab671/media",
+          "first_seen_at": "2026-04-04"
+        },
+        {
+          "creative_id": "617274a6ac0497db",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a43c397bdc708ac4/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a43c397bdc708ac4/media",
+          "first_seen_at": "2026-03-21"
+        },
+        {
+          "creative_id": "98eabf7e496a3806",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1afc0e94c1b60d/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1afc0e94c1b60d/media",
+          "first_seen_at": "2026-03-14"
+        },
+        {
+          "creative_id": "27f0a3415ab3b079",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec731ea9d9f777a3/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec731ea9d9f777a3/media",
+          "first_seen_at": "2026-03-10"
+        }
+      ],
+      "paid_share": 0.6608,
+      "organic_share": 0.3392,
+      "total_downloads_3mo": 173051,
+      "downloads_30d_curve": [
+        1336,
+        1655,
+        1508,
+        1216,
+        1296,
+        1253,
+        1336,
+        1782,
+        2011,
+        1686,
+        1388,
+        1252,
+        1225,
+        1230,
+        1280,
+        1413,
+        1319,
+        885,
+        825,
+        763,
+        729,
+        957,
+        1194,
+        1332,
+        844,
+        713,
+        726,
+        750,
+        853
+      ],
+      "downloads_trend_7d_pct": -0.06951095631983747
+    },
+    {
+      "app_id": "1231932402",
+      "unified_app_id": "59a830a10211a6ce7e554e3d",
+      "name": "Rolly Vortex",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/74/46/667446e6-326c-a497-3dbf-6b67358ed12a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7002,
+        7003
+      ],
+      "rating": 4.59568,
+      "rating_count": 304991,
+      "description": "Roll quickly, be alert, manage your way through the obstacles, score high and challenge friends",
+      "ads_total": 0,
+      "ads_by_network": {},
+      "ads_latest_first_seen": null,
+      "ads_sample": [],
+      "paid_share": null,
+      "organic_share": null,
+      "total_downloads_3mo": null,
+      "downloads_30d_curve": [],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1490423596",
+      "unified_app_id": "5dea03d901281d5106a259eb",
+      "name": "Paper.io 3D",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ab/3a/a4ab3a8e-8b58-1c64-cc37-e933ac4f3ee4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003
+      ],
+      "rating": 4.53663,
+      "rating_count": 303906,
+      "description": "Discover the smooth drawing experience of Paper.io now in 3D! Create your zone, avoid others players and colors unique 3D shapes! Collect stars as you play and reach 100% to unlock new levels and bonuses!",
+      "ads_total": 1,
+      "ads_by_network": {
+        "Admob": 1
+      },
+      "ads_latest_first_seen": "2026-01-11",
+      "ads_sample": [
+        {
+          "creative_id": "b520f6a2a962c098",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e02d104a43553cfb/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e02d104a43553cfb/media",
+          "first_seen_at": "2026-01-11"
+        }
+      ],
+      "paid_share": 0.2957,
+      "organic_share": 0.7043,
+      "total_downloads_3mo": 88604,
+      "downloads_30d_curve": [
+        576,
+        587,
+        588,
+        431,
+        414,
+        535,
+        645,
+        712,
+        714,
+        621,
+        495,
+        421,
+        408,
+        323,
+        394,
+        404,
+        415,
+        282,
+        253,
+        216,
+        219,
+        250,
+        360,
+        312,
+        617,
+        631,
+        624,
+        610,
+        712
+      ],
+      "downloads_trend_7d_pct": 0.8960274644433546
+    },
+    {
+      "app_id": "1518267642",
+      "unified_app_id": "5efc3e17108f5009c1774577",
+      "name": "Scribble Rider",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/f8/be/40f8be47-d2e8-54fc-0554-845c8e73bf20/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014
+      ],
+      "rating": 4.55121,
+      "rating_count": 302272,
+      "description": "Roll, Swim, Stick and Fly with the ultimate 'All-Terrain' vehicle",
+      "ads_total": 10,
+      "ads_by_network": {
+        "TikTok": 8,
+        "Unity": 2
+      },
+      "ads_latest_first_seen": "2025-10-29",
+      "ads_sample": [
+        {
+          "creative_id": "897576119b3c8b2c",
+          "network": "Unity",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ef3c0eda1698a94/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ef3c0eda1698a94/media",
+          "first_seen_at": "2025-10-29"
+        },
+        {
+          "creative_id": "ee62bb07d9c343ed",
+          "network": "Unity",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/79e40dfbe3964255/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/79e40dfbe3964255/media",
+          "first_seen_at": "2025-10-29"
+        },
+        {
+          "creative_id": "7a1f1aa69d7f6d66",
+          "network": "TikTok",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7af3909e6ad2eae7/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7af3909e6ad2eae7/media",
+          "first_seen_at": "2022-02-07"
+        },
+        {
+          "creative_id": "bf1c7f9b44da17df",
+          "network": "TikTok",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bff0f5a3b377905e/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bff0f5a3b377905e/media",
+          "first_seen_at": "2022-02-07"
+        },
+        {
+          "creative_id": "0bf45ae3d0e87b1e",
+          "network": "TikTok",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ad9e677816b78bc/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ad9e677816b78bc/media",
+          "first_seen_at": "2021-01-08"
+        }
+      ],
+      "paid_share": 0.8343,
+      "organic_share": 0.1657,
+      "total_downloads_3mo": 712,
+      "downloads_30d_curve": [],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1263426717",
+      "unified_app_id": "598110010211a600ea0005f8",
+      "name": "Stack Jump",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/16/c2/f416c220-aa18-51a8-2b62-d2251dc70bb2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7003
+      ],
+      "rating": 4.56449,
+      "rating_count": 298808,
+      "description": "How high can you climb?\n\nJump to stack blocks and build the biggest tower imaginable!\n\nImprove your highscore in endless mode, complete the 36 challenges and unlock all 20 characters!",
+      "ads_total": 0,
+      "ads_by_network": {},
+      "ads_latest_first_seen": null,
+      "ads_sample": [],
+      "paid_share": null,
+      "organic_share": null,
+      "total_downloads_3mo": null,
+      "downloads_30d_curve": [],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1453402726",
+      "unified_app_id": "5c7a4d5f6f39cd5954dedbb1",
+      "name": "Flip & Dive 3D",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/38/20/083820e6-ac4d-c55e-c416-ca2d1c6527e5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7016,
+        7003
+      ],
+      "rating": 4.51736,
+      "rating_count": 281199,
+      "description": "Dive into water from platforms of different height.\n\nAim for:\n- a perfect entry into the water\n- backflips\n- depth\nand more...",
+      "ads_total": 14,
+      "ads_by_network": {
+        "Unity": 7,
+        "Applovin": 5,
+        "Admob": 2
+      },
+      "ads_latest_first_seen": "2026-03-31",
+      "ads_sample": [
+        {
+          "creative_id": "d82ddf0a0b330636",
+          "network": "Unity",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4fab69f63166078e/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4fab69f63166078e/media",
+          "first_seen_at": "2026-03-31"
+        },
+        {
+          "creative_id": "9e021461cd23f1cd",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cb0ff28927140dae/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cb0ff28927140dae/media",
+          "first_seen_at": "2026-03-27"
+        },
+        {
+          "creative_id": "5eb8c600c395071e",
+          "network": "Unity",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c93e70fcf9c006a6/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c93e70fcf9c006a6/media",
+          "first_seen_at": "2026-03-16"
+        },
+        {
+          "creative_id": "bf8b90e90963b651",
+          "network": "Unity",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/280d26153336b7e9/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/280d26153336b7e9/media",
+          "first_seen_at": "2026-01-15"
+        },
+        {
+          "creative_id": "4e3e1becd94ebe3b",
+          "network": "Unity",
+          "ad_type": "full_screen",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9b8ad10e31bbf83/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9b8ad10e31bbf83/media",
+          "first_seen_at": "2026-01-15"
+        }
+      ],
+      "paid_share": 0.5181,
+      "organic_share": 0.4819,
+      "total_downloads_3mo": 44918,
+      "downloads_30d_curve": [
+        419,
+        613,
+        598,
+        419,
+        480,
+        449,
+        499,
+        684,
+        975,
+        907,
+        625,
+        506,
+        425,
+        410,
+        471,
+        710,
+        646,
+        510,
+        522,
+        431,
+        369,
+        350,
+        658,
+        585,
+        399,
+        370,
+        308,
+        278,
+        333
+      ],
+      "downloads_trend_7d_pct": -0.17156585641605426
+    },
+    {
+      "app_id": "1482766542",
+      "unified_app_id": "5e1e1f8eb9ab944cf7f439e3",
+      "name": "Spiral Roll",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/28/83/47288359-a9f8-9dfe-c3dc-59a80c01b4db/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7013
+      ],
+      "rating": 4.54647,
+      "rating_count": 281111,
+      "description": "Dig wood to form spirals and use them to destroy obstacles ! \n\nHave Fun :)",
+      "ads_total": 9,
+      "ads_by_network": {
+        "Applovin": 9
+      },
+      "ads_latest_first_seen": "2026-04-24",
+      "ads_sample": [
+        {
+          "creative_id": "41490c3928c14d71",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a0ec78b66fdc82b6/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a0ec78b66fdc82b6/media",
+          "first_seen_at": "2026-04-24"
+        },
+        {
+          "creative_id": "b802dca96195b952",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/59a7a82626887695/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/59a7a82626887695/media",
+          "first_seen_at": "2026-04-24"
+        },
+        {
+          "creative_id": "fbe5d308258ef02b",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1a40a78762933fec/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1a40a78762933fec/media",
+          "first_seen_at": "2026-04-24"
+        },
+        {
+          "creative_id": "6f06a6c248872cad",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8ea3d24d0f9ae36a/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8ea3d24d0f9ae36a/media",
+          "first_seen_at": "2026-03-28"
+        },
+        {
+          "creative_id": "21d3ab1b597d9618",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c076df941e6059df/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c076df941e6059df/media",
+          "first_seen_at": "2026-03-26"
+        }
+      ],
+      "paid_share": 0.5795,
+      "organic_share": 0.4205,
+      "total_downloads_3mo": 25745,
+      "downloads_30d_curve": [
+        288,
+        335,
+        294,
+        226,
+        223,
+        223,
+        258,
+        314,
+        348,
+        329,
+        241,
+        209,
+        199,
+        214,
+        257,
+        270,
+        261,
+        195,
+        176,
+        142,
+        123,
+        179,
+        266,
+        263,
+        173,
+        154,
+        141,
+        166,
+        176
+      ],
+      "downloads_trend_7d_pct": -0.005200594353640416
+    },
+    {
+      "app_id": "1615768339",
+      "unified_app_id": "62482df1479fc7257378939d",
+      "name": "Puff Up",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/0f/ab/b60fabd0-5b72-87ca-0e0b-33af0396777b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7004,
+        6016,
+        7012
+      ],
+      "rating": 4.66434,
+      "rating_count": 262888,
+      "description": "\"Do you like bubble shooter, 2048 and match 3 puzzle games? YES, Puff up is made for you! Inflate balloons, shoot them and avoid spikes or they will pop! Use your brain to win the game and break the chains!\n\nHow to play this balloon puzzle game?\n1) Tap and hold to grow balloons and make them as big as possible. No need to match balloons by number like for 2048 games, it\u2019s way easier.\n2) Perfectly time the release of your balloon and avoid obstacles, or your ballooons will pop!\n3) No brain, no game! Play smart to reach the correct number and break the chain!\n\nCan you solve all the puzzles?\nWe have created numerous levels and obstacles to make the game more fun, and to let you rise up to the challenge. If you're too quick, you may be hit by spikes, lasers and other obstacles. Beware and remember that it's a puzzle game!\n\nEnjoy mini games\nWe have built 13 bonus mini games that will make you relax or rise to the challenge!\n\nMake your balloons unique!\nUnlock numerous skins in the game by solving puzzles and winning games: shapes and colour effects are waiting for you! Can you collect em all?\n\nChallenge your friends\nCan you reach the highest score and finish the game? Check the leaderboard and beat your friends score!\"\n\nTerms &amp; Conditions : https://www.voodoo.io/terms/\nPrivacy Policy : https://www.voodoo.io/privacy/",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Youtube": 11,
+        "Admob": 6,
+        "Applovin": 2,
+        "Unity": 1
+      },
+      "ads_latest_first_seen": "2026-04-18",
+      "ads_sample": [
+        {
+          "creative_id": "eb2b6f0f12b2fba8",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/be2689e7f88507cb/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/be2689e7f88507cb/media",
+          "first_seen_at": "2026-04-18"
+        },
+        {
+          "creative_id": "004fd5f70d22377f",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b4f3968215107697/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b4f3968215107697/media",
+          "first_seen_at": "2026-04-16"
+        },
+        {
+          "creative_id": "52435f3edbf81816",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2228bab303dac48/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2228bab303dac48/media",
+          "first_seen_at": "2026-04-12"
+        },
+        {
+          "creative_id": "07aad317f469b925",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/236112c4c2ba1ad4/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/236112c4c2ba1ad4/media",
+          "first_seen_at": "2026-04-09"
+        },
+        {
+          "creative_id": "1e3e23243efeb1e4",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa82605126ccf00c/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa82605126ccf00c/media",
+          "first_seen_at": "2026-04-05"
+        }
+      ],
+      "paid_share": 0.925,
+      "organic_share": 0.075,
+      "total_downloads_3mo": 570244,
+      "downloads_30d_curve": [
+        5539,
+        7355,
+        7395,
+        5951,
+        6011,
+        6941,
+        7725,
+        9196,
+        9112,
+        8282,
+        6466,
+        5226,
+        4929,
+        5924,
+        6419,
+        8584,
+        8908,
+        5985,
+        4736,
+        4718,
+        4667,
+        5424,
+        8430,
+        8483,
+        5811,
+        5253,
+        4756,
+        4689,
+        4958
+      ],
+      "downloads_trend_7d_pct": -0.01492259774069081
+    },
+    {
+      "app_id": "1189800250",
+      "unified_app_id": "587117ba0211a6e523000ca8",
+      "name": "TENKYU",
+      "publisher_name": "keepgamesimple LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/ba/5b/9fba5b75-3202-382f-2cd2-262596066495/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7009,
+        7003
+      ],
+      "rating": 4.55367,
+      "rating_count": 255628,
+      "description": "Swipe to roll. Stay on the path. Can you make it to the goal?\n\nSwipe your finger to roll the ball through tricky 3D levels.\nGuide the ball from platform to platform without falling off!\nIt\u2019s all about timing, precision, and control.\n\nFeatures:\n - Simple swipe controls\n - Satisfying physics-based gameplay\n - Hundreds of fun and challenging levels\n - Clean, minimalistic 3D visuals\n - Easy to pick up, hard to master\n\nStay focused and don\u2019t let the ball fall. One swipe can make all the difference!",
+      "ads_total": 0,
+      "ads_by_network": {},
+      "ads_latest_first_seen": null,
+      "ads_sample": [],
+      "paid_share": null,
+      "organic_share": null,
+      "total_downloads_3mo": null,
+      "downloads_30d_curve": [],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1390992134",
+      "unified_app_id": "5b11424cebf0fc1d6752fa19",
+      "name": "Soccer Kick",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/71/5a/fe715ad4-b28c-225d-d497-de79884bec62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7016,
+        7003
+      ],
+      "rating": 4.59998,
+      "rating_count": 253784,
+      "description": "Can you hoof your soccer ball past the Statue of Liberty? Or the Eiffel Tower, Big Ben or even the pyramids? And then all around the world!\n\nTime your kick perfectly for extra power - the further you kick, the more coins you earn. Then upgrade your power and ball bounciness and see the ball fly past these awesome global landmarks.\n\nHow far can you kick it? Maybe to space?!",
+      "ads_total": 14,
+      "ads_by_network": {
+        "Unity": 5,
+        "Admob": 4,
+        "TikTok": 3,
+        "Applovin": 2
+      },
+      "ads_latest_first_seen": "2025-12-28",
+      "ads_sample": [
+        {
+          "creative_id": "e13258ed23fa58db",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b43fbe05c9cda4b8/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b43fbe05c9cda4b8/media",
+          "first_seen_at": "2025-12-28"
+        },
+        {
+          "creative_id": "0c2082eb69bad12e",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/592d6403838d2d4d/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/592d6403838d2d4d/media",
+          "first_seen_at": "2025-12-28"
+        },
+        {
+          "creative_id": "23b908f9f398a500",
+          "network": "Unity",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b43fbe05c9cda4b8/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b43fbe05c9cda4b8/media",
+          "first_seen_at": "2025-11-30"
+        },
+        {
+          "creative_id": "f1ffce99e64e7399",
+          "network": "Unity",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66797865dc1b7221/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66797865dc1b7221/media",
+          "first_seen_at": "2025-10-29"
+        },
+        {
+          "creative_id": "47ac0f9c4d83e77f",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12a1e974a7b41b1c/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12a1e974a7b41b1c/media",
+          "first_seen_at": "2025-06-21"
+        }
+      ],
+      "paid_share": 0.5651,
+      "organic_share": 0.4349,
+      "total_downloads_3mo": 22501,
+      "downloads_30d_curve": [
+        68,
+        100,
+        90,
+        71,
+        63,
+        61,
+        67,
+        80,
+        64,
+        64,
+        46,
+        37,
+        50,
+        55,
+        70,
+        80,
+        61,
+        46,
+        40,
+        37,
+        34,
+        59,
+        84,
+        80,
+        49,
+        37,
+        36,
+        32,
+        37
+      ],
+      "downloads_trend_7d_pct": -0.0056022408963585435
+    },
+    {
+      "app_id": "1495369374",
+      "unified_app_id": "5e2d3c02b8729d681b8e8df5",
+      "name": "Draw Climber",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/90/53/939053ec-f22e-a04d-3be9-6b6b7e2b7c68/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        6016,
+        7002,
+        7013
+      ],
+      "rating": 4.65338,
+      "rating_count": 252437,
+      "description": "Funniest race you ever played!\n\nDraw your legs to win the race! \n\nAny drawing will make you run!\n\nWhen you are stuck you can draw another shape to pass!",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Applovin": 17,
+        "Admob": 3
+      },
+      "ads_latest_first_seen": "2026-04-24",
+      "ads_sample": [
+        {
+          "creative_id": "c7cca8bfe4307bc4",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b3709315865e5e50/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b3709315865e5e50/media",
+          "first_seen_at": "2026-04-24"
+        },
+        {
+          "creative_id": "f342c9d6454f1ffb",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/87fef27c27213a6f/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/87fef27c27213a6f/media",
+          "first_seen_at": "2026-04-11"
+        },
+        {
+          "creative_id": "ca05216097a55d86",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/beb91acaf5cb7812/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/beb91acaf5cb7812/media",
+          "first_seen_at": "2026-03-29"
+        },
+        {
+          "creative_id": "a2462278c3d332a0",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d6fa19d2a1bd1734/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d6fa19d2a1bd1734/media",
+          "first_seen_at": "2026-03-28"
+        },
+        {
+          "creative_id": "b05416a0d1e73a54",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e559f0483bd0c637/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e559f0483bd0c637/media",
+          "first_seen_at": "2026-03-22"
+        }
+      ],
+      "paid_share": 0.8422,
+      "organic_share": 0.1578,
+      "total_downloads_3mo": 206835,
+      "downloads_30d_curve": [
+        2515,
+        3294,
+        2971,
+        2196,
+        2201,
+        2197,
+        2526,
+        2937,
+        2941,
+        2663,
+        1890,
+        1564,
+        1577,
+        1700,
+        2060,
+        2635,
+        2555,
+        1371,
+        1360,
+        1354,
+        1439,
+        1242,
+        1998,
+        2075,
+        1234,
+        1256,
+        1201,
+        1309,
+        1434
+      ],
+      "downloads_trend_7d_pct": -0.1211943793911007
+    },
+    {
+      "app_id": "1524760095",
+      "unified_app_id": "5f2a64bebd1af730fbb197a2",
+      "name": "Roof Rails",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/07/19/c2071956-07b3-c0d4-c265-3b66cc1a0ca0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003,
+        7001
+      ],
+      "rating": 4.54176,
+      "rating_count": 250888,
+      "description": "Easy to pick up HARD to put down\n\nA new and original game, perfect for killing a few minutes!\n\nTry It",
+      "ads_total": 14,
+      "ads_by_network": {
+        "Applovin": 14
+      },
+      "ads_latest_first_seen": "2026-04-21",
+      "ads_sample": [
+        {
+          "creative_id": "18e919178fd24ba1",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a5434b90cf214a6a/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a5434b90cf214a6a/media",
+          "first_seen_at": "2026-04-21"
+        },
+        {
+          "creative_id": "1c8ede774d963871",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a1248cf00d6539ba/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a1248cf00d6539ba/media",
+          "first_seen_at": "2026-04-03"
+        },
+        {
+          "creative_id": "39c65dab740c7498",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/846c0f2c34ff7553/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/846c0f2c34ff7553/media",
+          "first_seen_at": "2026-04-03"
+        },
+        {
+          "creative_id": "f737ead441360174",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4a9db85301c500bf/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4a9db85301c500bf/media",
+          "first_seen_at": "2026-03-31"
+        },
+        {
+          "creative_id": "7124a8f65c620339",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc8efa711c9102f2/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc8efa711c9102f2/media",
+          "first_seen_at": "2026-03-31"
+        }
+      ],
+      "paid_share": 0.7028,
+      "organic_share": 0.2972,
+      "total_downloads_3mo": 68153,
+      "downloads_30d_curve": [
+        537,
+        960,
+        867,
+        683,
+        785,
+        839,
+        1043,
+        1402,
+        1448,
+        1149,
+        867,
+        759,
+        789,
+        776,
+        827,
+        1044,
+        1056,
+        663,
+        553,
+        481,
+        43,
+        231,
+        283,
+        275,
+        331,
+        414
+      ],
+      "downloads_trend_7d_pct": -0.6394533987386125
+    },
+    {
+      "app_id": "6458097001",
+      "unified_app_id": "65c10688a3c10e7e5fce4c64",
+      "name": "Archery Clash!",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/82/b1/f882b13c-8431-1167-2a3b-74f30139438f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7016
+      ],
+      "rating": 4.61573,
+      "rating_count": 247125,
+      "description": "\u25ba Archery Clash: Master Cold Weapon Combat in Epic 3D Archery Duels!\n\nEnter the thrilling arena of Archery Clash, where the essence of shooter sports and cold weapon mastery culminates in the ultimate showdown. Embrace your role as a legendary archer, mastering the bow, spear, and axe to outsmart and outmaneuver your adversaries. With every precise throw and strategic strike, engage in epic 3D duels that test your precision, strategy, and archery skills. Are you ready to claim your victory and ascend to the ranks of the bowmasters?\n\n\u25ba Strategic Shooter &amp; Archery Gameplay\n\nDive into strategic, turn-based duels where every decision can turn the tide of battle. Select your weapon wisely from a quiver full of bows, spears, and axes, and master the ancient art of knife throwing. Each weapon offers unique gameplay advantages, perfect for PvP enthusiasts and fans of combat archery simulators.\n\n\u25ba Progress &amp; Customize: RPG-Style Upgrades\n\nVictory in the arena unlocks a trove of upgrades and legendary gear, propelling your prowess in this competitive sports arena. From the classic bow to the formidable hatchet, customize your arsenal to fit your combat style, making every tournament and betting match a display of your unique talents.\n\n\u25ba Engage in Thrilling Competitions &amp; Betting Tournaments\n\nRise through the ranks in exhilarating PvP tournaments, showcasing your skills as a true master of archery and cold weapons. Engage in a unique betting system that adds a thrilling layer of strategy to every duel, rewarding the bold and the skilled.\n\n\u25ba Skill-Based Challenges for Archery Enthusiasts\n\nArchery Clash is a test of tactical intellect as much as it is of precision. Anticipate your opponent's moves and perfect your aim and timing to dominate the battlefield. This archery simulator offers a true skill-based challenge that will appeal to both experienced archers and newcomers.\n\n\u25ba Embark on an Unforgettable Archery Adventure\n\nArchery Clash isn't just a game\u2014it's a journey into the heart of archery, blending RPG elements, strategic depth, and intense PvP action. Whether you're here for the girls wielding bows or the adrenaline-pumping tournaments, Archery Clash has something for every archery enthusiast. Download now and step into a world where only the sharpest shooters and strategists prevail.\"",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Admob": 11,
+        "Youtube": 5,
+        "Applovin": 3,
+        "Unity": 1
+      },
+      "ads_latest_first_seen": "2026-03-20",
+      "ads_sample": [
+        {
+          "creative_id": "529e5de2d5b1c8f0",
+          "network": "Youtube",
+          "ad_type": "banner",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7ba23973ed439bdb/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7ba23973ed439bdb/media",
+          "first_seen_at": "2026-03-20"
+        },
+        {
+          "creative_id": "393761bc05a4bd36",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/460263885f2cf642/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/460263885f2cf642/media",
+          "first_seen_at": "2026-03-10"
+        },
+        {
+          "creative_id": "9bff29663635a620",
+          "network": "Admob",
+          "ad_type": "full_screen",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cef2cf8edc025a43/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cef2cf8edc025a43/media",
+          "first_seen_at": "2026-03-04"
+        },
+        {
+          "creative_id": "f0776fd0896eae0a",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/460263885f2cf642/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/460263885f2cf642/media",
+          "first_seen_at": "2026-02-23"
+        },
+        {
+          "creative_id": "2b4933ec3789e8b6",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6b7fbb76007edb54/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6b7fbb76007edb54/media",
+          "first_seen_at": "2025-12-17"
+        }
+      ],
+      "paid_share": 0.8549,
+      "organic_share": 0.1451,
+      "total_downloads_3mo": 675145,
+      "downloads_30d_curve": [
+        5068,
+        5923,
+        6416,
+        4919,
+        5246,
+        4473,
+        4665,
+        6005,
+        6332,
+        6399,
+        5216,
+        5020,
+        4479,
+        4202,
+        4315,
+        4999,
+        5599,
+        4987,
+        4898,
+        4119,
+        3759,
+        3423,
+        4323,
+        4545,
+        3574,
+        3560,
+        3347,
+        3251,
+        3189,
+        1511
+      ],
+      "downloads_trend_7d_pct": -0.2613797093995114
+    },
+    {
+      "app_id": "1479551182",
+      "unified_app_id": "5d7addd2e21e3306d616a714",
+      "name": "Push'em all",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/c2/ff/85c2ffdd-6e4f-8886-5b9d-77136f0d54ae/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7002
+      ],
+      "rating": 4.591,
+      "rating_count": 241922,
+      "description": "Trace your way to the end of the level and push the enemies with your stick on the way! \nMove your character and make all the ennemies fall down (and maybe you will learn how to use traps?!)\n\nBe careful with giant ennemies and the fast ones, It's their turn to try to take you down!\n\nOne-tap easy-to-learn controls with stunning visual effects and addictive gameplay mechanics!",
+      "ads_total": 7,
+      "ads_by_network": {
+        "Applovin": 7
+      },
+      "ads_latest_first_seen": "2026-04-14",
+      "ads_sample": [
+        {
+          "creative_id": "bf4f2c3ce4a35e24",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fdc30734007cee2a/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fdc30734007cee2a/media",
+          "first_seen_at": "2026-04-14"
+        },
+        {
+          "creative_id": "09f14227403a6376",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b7d692fa4e5d378/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b7d692fa4e5d378/media",
+          "first_seen_at": "2026-04-11"
+        },
+        {
+          "creative_id": "6a98f33d683f000a",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2814d8358ce0b004/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2814d8358ce0b004/media",
+          "first_seen_at": "2026-03-29"
+        },
+        {
+          "creative_id": "090f3d1908cf73f8",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b831611ec10c3f6/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b831611ec10c3f6/media",
+          "first_seen_at": "2026-03-29"
+        },
+        {
+          "creative_id": "e9b21745beb97399",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab3e3c4d5a66c397/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab3e3c4d5a66c397/media",
+          "first_seen_at": "2026-03-28"
+        }
+      ],
+      "paid_share": 0.7307,
+      "organic_share": 0.2693,
+      "total_downloads_3mo": 18097,
+      "downloads_30d_curve": [
+        167,
+        290,
+        323,
+        235,
+        242,
+        234,
+        236,
+        277,
+        302,
+        92,
+        72,
+        53,
+        62,
+        75
+      ],
+      "downloads_trend_7d_pct": -0.4597568037058483
+    },
+    {
+      "app_id": "1499118002",
+      "unified_app_id": "5e48da82c3b621447d544938",
+      "name": "Cube Surfer!",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/5a/78/505a78e2-19a7-020e-26ca-a720979f08c4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7002,
+        7001
+      ],
+      "rating": 4.50871,
+      "rating_count": 239234,
+      "description": "Try to pass over the blocks!\n\n9 different cube!",
+      "ads_total": 0,
+      "ads_by_network": {},
+      "ads_latest_first_seen": null,
+      "ads_sample": [],
+      "paid_share": null,
+      "organic_share": null,
+      "total_downloads_3mo": null,
+      "downloads_30d_curve": [],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1533397036",
+      "unified_app_id": "5f716c0ec46ae66c2d40292b",
+      "name": "Shortcut Run",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/8a/64/df8a64d9-f9fb-3f1a-8032-c868e96e6b53/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003,
+        7013
+      ],
+      "rating": 4.55744,
+      "rating_count": 239109,
+      "description": "Race against opponents, and stack up all the floorboards you can pick up along the way! \nIf you're clever enough, get out of the way and build bridges and take shortcuts to get to the finish line before everyone else! \n\nCheating has never been so stylish! \n\nSimple gameplay with efficient and easy to learn controls.",
+      "ads_total": 2,
+      "ads_by_network": {
+        "Applovin": 2
+      },
+      "ads_latest_first_seen": "2025-05-18",
+      "ads_sample": [
+        {
+          "creative_id": "a00b4a9d39dda477",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96e7ebeca755717a/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96e7ebeca755717a/media",
+          "first_seen_at": "2025-05-18"
+        },
+        {
+          "creative_id": "11ac78d24feb05af",
+          "network": "Applovin",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2740d9a3d163d0a2/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2740d9a3d163d0a2/media",
+          "first_seen_at": "2023-12-09"
+        }
+      ],
+      "paid_share": 0.5276,
+      "organic_share": 0.4724,
+      "total_downloads_3mo": 4615,
+      "downloads_30d_curve": [
+        14,
+        32,
+        25
+      ],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1601984093",
+      "unified_app_id": "60fb79afe80ea1667393996c",
+      "name": "Uboat Attack",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/90/6d/17906d7a-0d3f-da07-e1ac-86ff85fe9098/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7015,
+        7001
+      ],
+      "rating": 4.55124,
+      "rating_count": 237543,
+      "description": "\"Dive into the deep sea with the ww2 naval wargame \u201cUboat game - Submarine torpedo attack\u201d Be captain of a real submarine in tactical combat against ships from all over the water.\n\nGet the best tactical weapons, suitable for different marine battles and become a champion navy fighter of underwater simulator.\n\nSink enemies\u2019 armadas in Survival. Show honor in navy world and fight through the ranks to admiral of u-boat! Explore underwater areas of arctic wastelands, canyons, abyss, sunken temples to get tactical advantage in war and prepare an ambush.\n\nWarfare in marine events, tactical missions and navy challenges to get resources in the game. Dominate the sea!\n\n\nDozens of real ships\nTrack warships and make your best shot. \n\nRealistic damage\nIntense combat might cause fire events, propeller failure and other damages. Choose your tactics by launching torpedoes.\n\nBreathtaking graphics and locations\nEnjoy every second in the game with realistic graphics, stunning visual, detailed U-Boats, warships and locations! You can change graphic settings to improve visuals or performance.\n\nComfortable controls\nIntuitive controls, swipe left or right to navigate and zoom in or zoom out to see the best composition of blasts. But you will need skills to become a champion of the navy simulator!\n\nReady to fight in the naval warfare simulator? Launch the game and start to shoot and sink enemies\n\nNot sure what wargame to play? Choose \u201cUboat game - Submarine torpedo attack\u201d \n\nJoin real-time navy FREE wargame deep in the sea, armada is awaiting your commands, destroy enemy fighters with deadly torpedoes in intense and realistic 3D blitz shooter. Unique warship gameplay!\n\nWarfare simulator is finally here! Action packed as any shooter. It offers both first person ship shooter simulator and deep strategic decisions\"",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Applovin": 15,
+        "Unity": 3,
+        "TikTok": 1,
+        "Youtube": 1
+      },
+      "ads_latest_first_seen": "2026-03-24",
+      "ads_sample": [
+        {
+          "creative_id": "8c7defde1b537ec4",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8eb2f7f58b14d032/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8eb2f7f58b14d032/media",
+          "first_seen_at": "2026-03-24"
+        },
+        {
+          "creative_id": "f1eb48bfa4f16ae8",
+          "network": "Youtube",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c15de80843d86e7/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c15de80843d86e7/media",
+          "first_seen_at": "2026-03-20"
+        },
+        {
+          "creative_id": "c7b58a9e56d5efab",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d752645b3e1c57c/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d752645b3e1c57c/media",
+          "first_seen_at": "2026-03-15"
+        },
+        {
+          "creative_id": "b5fe1ae0332ba750",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ff3eb63bd61f8d87/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ff3eb63bd61f8d87/media",
+          "first_seen_at": "2026-03-14"
+        },
+        {
+          "creative_id": "5bb719585ea6b56e",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1177b583bb929fb9/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1177b583bb929fb9/media",
+          "first_seen_at": "2026-03-07"
+        }
+      ],
+      "paid_share": 0.7059,
+      "organic_share": 0.2941,
+      "total_downloads_3mo": 135450,
+      "downloads_30d_curve": [
+        1421,
+        1612,
+        1449,
+        1126,
+        946,
+        949,
+        976,
+        1092,
+        1092,
+        1047,
+        849,
+        761,
+        777,
+        751,
+        921,
+        1030,
+        1090,
+        826,
+        854,
+        937,
+        784,
+        898,
+        1070,
+        1130,
+        882,
+        853,
+        913,
+        859,
+        994,
+        438
+      ],
+      "downloads_trend_7d_pct": -0.06038086391082211
+    },
+    {
+      "app_id": "1454010667",
+      "unified_app_id": "5c7346353dba1c3e0fb7555e",
+      "name": "Castle Wreck",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/65/d5/2065d5ca-c4b3-b3e2-3a81-fca68c02fda7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7003
+      ],
+      "rating": 4.48083,
+      "rating_count": 226077,
+      "description": "Do you want to relax before work or school? Maybe you need some stress relief from the world? Or perhaps you just simply want to destroy stuff? If you answered yes to any of these questions you should get this game. If you answered no, then you should also get this game and find your own reason of why you need to play it.\n\nIn this game you get to shoot cannons, destroy castles and watch it all fall down! All from the safe space of your own mobile device.\n\nTap to aim horizontally, tap again to aim vertically and the cannon will shoot by itself.\n\n100% satisfaction guaranteed! 100% historically accurate! *\n\n* Disclaimer: we are not actually guaranteeing anything and we are also not sure if it's historically accurate.",
+      "ads_total": 3,
+      "ads_by_network": {
+        "Applovin": 3
+      },
+      "ads_latest_first_seen": "2025-12-17",
+      "ads_sample": [
+        {
+          "creative_id": "de69268181821c61",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/856fe1a09ccea769/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/856fe1a09ccea769/media",
+          "first_seen_at": "2025-12-17"
+        },
+        {
+          "creative_id": "12dc6a328b1d8845",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/49daad139651334d/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/49daad139651334d/media",
+          "first_seen_at": "2025-12-04"
+        },
+        {
+          "creative_id": "78f274b680b7492a",
+          "network": "Applovin",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/23f4b3979dfbf222/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/23f4b3979dfbf222/media",
+          "first_seen_at": "2023-10-20"
+        }
+      ],
+      "paid_share": 0.5849,
+      "organic_share": 0.4151,
+      "total_downloads_3mo": 17948,
+      "downloads_30d_curve": [
+        150,
+        201,
+        238,
+        168,
+        153,
+        212,
+        230,
+        506,
+        469,
+        453,
+        383,
+        332,
+        319,
+        203,
+        191,
+        223,
+        277,
+        229,
+        236,
+        222,
+        167,
+        179,
+        239,
+        229,
+        150,
+        228,
+        228,
+        220,
+        254,
+        211
+      ],
+      "downloads_trend_7d_pct": -0.01872175597159458
+    },
+    {
+      "app_id": "1591587100",
+      "unified_app_id": "6175a48eb3ae277b9a818c5c",
+      "name": "Slap And Run",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/d8/ac/22d8ace1-a3d0-80fe-ef4e-906e3e5f36ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014
+      ],
+      "rating": 4.63698,
+      "rating_count": 216397,
+      "description": "Thrilled to announce our newest game!\n\nGoal:\n-Hit pedestrians and run away without getting caught.\nControls:\n-Swipe left and right.\n\nHope you enjoy the game!",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Applovin": 14,
+        "Instagram": 2,
+        "Unity": 2,
+        "Admob": 1,
+        "Facebook": 1
+      },
+      "ads_latest_first_seen": "2026-04-24",
+      "ads_sample": [
+        {
+          "creative_id": "02e75f7dfa42aa15",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c3c1de20bd1c9b1/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c3c1de20bd1c9b1/media",
+          "first_seen_at": "2026-04-24"
+        },
+        {
+          "creative_id": "6670e1c7076354f6",
+          "network": "Unity",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f1f6573b3d36554e/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f1f6573b3d36554e/media",
+          "first_seen_at": "2026-03-28"
+        },
+        {
+          "creative_id": "1a0c798fa4cbbab3",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/18c361a4348c1445/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/18c361a4348c1445/media",
+          "first_seen_at": "2026-03-27"
+        },
+        {
+          "creative_id": "5d3da313dca7f3f2",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5ff2bb384ce05d04/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5ff2bb384ce05d04/media",
+          "first_seen_at": "2026-03-27"
+        },
+        {
+          "creative_id": "f3394f10ad71fbb8",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f1f6573b3d36554e/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f1f6573b3d36554e/media",
+          "first_seen_at": "2026-03-27"
+        }
+      ],
+      "paid_share": 0.8099,
+      "organic_share": 0.1901,
+      "total_downloads_3mo": 142245,
+      "downloads_30d_curve": [
+        740,
+        844,
+        898,
+        654,
+        641,
+        978,
+        1066,
+        1395,
+        1449,
+        1388,
+        1210,
+        1005,
+        977,
+        918,
+        1211,
+        1318,
+        1448,
+        984,
+        896,
+        796,
+        791,
+        1074,
+        1365,
+        1408,
+        914,
+        1391,
+        1376,
+        1351,
+        1578,
+        1355
+      ],
+      "downloads_trend_7d_pct": 0.27454446559695406
+    },
+    {
+      "app_id": "1424257445",
+      "unified_app_id": "5b6db5b7197e970a8a0db23d",
+      "name": "Knock Balls!",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/5d/a8/e55da816-c5dd-fd7b-e2b4-c520413e43b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7003
+      ],
+      "rating": 4.63309,
+      "rating_count": 210531,
+      "description": "Throw balls and crush as many structures as you can!\n\nHundreds of structures, levels and different visual ambiances to discover and to come!\n\nOne-tap easy-to-learn controls with stunning visual effects and addictive gameplay mechanics.",
+      "ads_total": 12,
+      "ads_by_network": {
+        "Applovin": 12
+      },
+      "ads_latest_first_seen": "2026-02-09",
+      "ads_sample": [
+        {
+          "creative_id": "ac9b0c38ad6c2e14",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ed2870a73034564/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ed2870a73034564/media",
+          "first_seen_at": "2026-02-09"
+        },
+        {
+          "creative_id": "951f1eef26847240",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/575695ddf8eb1930/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/575695ddf8eb1930/media",
+          "first_seen_at": "2026-02-09"
+        },
+        {
+          "creative_id": "7e1796af01f18826",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bc5e1d9ddf9ee356/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bc5e1d9ddf9ee356/media",
+          "first_seen_at": "2026-02-08"
+        },
+        {
+          "creative_id": "f7e720c7787d40b4",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/35aeabf5a6122bc4/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/35aeabf5a6122bc4/media",
+          "first_seen_at": "2026-02-05"
+        },
+        {
+          "creative_id": "bb109a6c28912405",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7959115ef6fe4f75/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7959115ef6fe4f75/media",
+          "first_seen_at": "2026-01-30"
+        }
+      ],
+      "paid_share": null,
+      "organic_share": null,
+      "total_downloads_3mo": null,
+      "downloads_30d_curve": [],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1499833702",
+      "unified_app_id": "5e54bc6be9f75b28aafff4d2",
+      "name": "Knock'em All",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/73/a1/2073a1a0-679f-a926-c5e1-e7037f162544/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7002,
+        7001
+      ],
+      "rating": 4.5771,
+      "rating_count": 199512,
+      "description": "The most impressive game of 2020 so far! \nJump from building to building and shoot the dummies to destabilize them and make them fall from the top!\n\nThe best players manage to chain sections together by stepping on them in just a few seconds. \n\nSimple and intuitive controls and addictive gameplay mechanics.",
+      "ads_total": 4,
+      "ads_by_network": {
+        "Applovin": 4
+      },
+      "ads_latest_first_seen": "2025-11-21",
+      "ads_sample": [
+        {
+          "creative_id": "116be6123dd54936",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5f60899a68b8ba6c/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5f60899a68b8ba6c/media",
+          "first_seen_at": "2025-11-21"
+        },
+        {
+          "creative_id": "486c301801e1a300",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/06675f90548c505a/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/06675f90548c505a/media",
+          "first_seen_at": "2025-09-24"
+        },
+        {
+          "creative_id": "ae8fbebe0e866de6",
+          "network": "Applovin",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e084d1365beb9ebc/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e084d1365beb9ebc/media",
+          "first_seen_at": "2025-09-24"
+        },
+        {
+          "creative_id": "61eb0707e9c6655e",
+          "network": "Applovin",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fe0688fbcab9604/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fe0688fbcab9604/media",
+          "first_seen_at": "2024-08-31"
+        }
+      ],
+      "paid_share": 0.626,
+      "organic_share": 0.374,
+      "total_downloads_3mo": 51338,
+      "downloads_30d_curve": [
+        590,
+        735,
+        805,
+        635,
+        639,
+        799,
+        915,
+        1038,
+        1031,
+        914,
+        721,
+        607,
+        559,
+        482,
+        483,
+        633,
+        768,
+        687,
+        609,
+        487,
+        417,
+        467,
+        547,
+        593,
+        474,
+        444,
+        430,
+        420,
+        451,
+        154
+      ],
+      "downloads_trend_7d_pct": -0.2551481667503767
+    },
+    {
+      "app_id": "1402499966",
+      "unified_app_id": "5b341ea6d50c3d5622dd1ffe",
+      "name": "Bumper.io",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/9e/2b/5a9e2bf0-c02d-a05e-53b5-2250d7118175/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014
+      ],
+      "rating": 4.57487,
+      "rating_count": 195843,
+      "description": "The most addictive game!\n\nKnock players off the stage with your bumper.\nEat ice cream to become bigger and stronger!\nYou must be the last on the map to win!",
+      "ads_total": 0,
+      "ads_by_network": {},
+      "ads_latest_first_seen": null,
+      "ads_sample": [],
+      "paid_share": null,
+      "organic_share": null,
+      "total_downloads_3mo": null,
+      "downloads_30d_curve": [],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1489188581",
+      "unified_app_id": "5e27f6923c2bc566fbe072de",
+      "name": "Dribble Hoops",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/6b/11/336b1132-52e2-10d8-2e4e-57f8c334023f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7016,
+        7003,
+        6004
+      ],
+      "rating": 4.69702,
+      "rating_count": 192266,
+      "description": "Dunking,  ankle breakers, crossovers, and all the cool stuff you enjoy at your fingertip!\n\nDribble hoops is the first person basketball experience you were waiting for.\n\nHOW TO PLAY:\n + Drag your finger to move.\n + Release to jump, Tap to shoot.\n + Tap inside the dunking zone to dunk.\n + Tap in the right spot to Power Dunk!\n + Score high and level up your skills.\n\nDribble hoops starts easy so anyone can play,\nand master all the skills.\nThe AI evolves overtime so be ready for a\nchallenge.\n\nCheck out all the bonus levels for even more fun:\n\n + Long shots\n + Trick shots\n + Shots in a row\n\n... and cool new features are added all the time!\nGet it now and have fun !!!",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Applovin": 11,
+        "Facebook": 4,
+        "Instagram": 4,
+        "Unity": 1
+      },
+      "ads_latest_first_seen": "2026-04-23",
+      "ads_sample": [
+        {
+          "creative_id": "9b577114c16cc981",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fa9a376a8c5d1430/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fa9a376a8c5d1430/media",
+          "first_seen_at": "2026-04-23"
+        },
+        {
+          "creative_id": "e092078f249b55b4",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/815f41f169aa8805/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/815f41f169aa8805/media",
+          "first_seen_at": "2026-04-21"
+        },
+        {
+          "creative_id": "9c0ca0c8c588b225",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fdc1e6b688b96f94/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fdc1e6b688b96f94/media",
+          "first_seen_at": "2026-04-05"
+        },
+        {
+          "creative_id": "f43a7bd653a4919d",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/95f73da81e954c2c/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/95f73da81e954c2c/media",
+          "first_seen_at": "2026-04-04"
+        },
+        {
+          "creative_id": "d07e918cc67c2572",
+          "network": "Unity",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/47f82770fc2924ca/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/47f82770fc2924ca/media",
+          "first_seen_at": "2026-04-02"
+        }
+      ],
+      "paid_share": 0.8135,
+      "organic_share": 0.1865,
+      "total_downloads_3mo": 257322,
+      "downloads_30d_curve": [
+        1745,
+        2311,
+        2178,
+        1550,
+        1546,
+        1708,
+        1642,
+        2319,
+        2438,
+        2338,
+        1678,
+        1434,
+        1280,
+        1266,
+        1518,
+        1711,
+        1745,
+        1246,
+        1213,
+        1311,
+        1236,
+        1501,
+        2046,
+        2189,
+        1188,
+        1257,
+        1252,
+        1152,
+        1350,
+        1681
+      ],
+      "downloads_trend_7d_pct": -0.02223732763643426
+    },
+    {
+      "app_id": "1576885656",
+      "unified_app_id": "60dde09994c2cf495780db57",
+      "name": "Destiny Run",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/91/54/5d91540b-1145-c134-abaf-e09c39583b03/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014
+      ],
+      "rating": 4.60193,
+      "rating_count": 191697,
+      "description": "Choose your destiny, make your life choices. \n\nBe Angel or be Devil!\n\nThen Go to Heaven! Or Go to Hell! It is your fate!\n\nSo are you a good person or a naughty one? \n\nDivine decision is in your hands now. Use it wisely!\n\nThis is the runner of your lifetime and after it! Where will you go in your afterlife? You will find it in this game!\n\nIt is your judgement day and gods will judge your choices. Your soul will find its place!\n\nBeing a celebrity or a student, an imposter or a doctor, rich or poor; they do not matter! There is only one important judgement: be merciful or be wicked. \n\nThe holy justice calls for you!",
+      "ads_total": 8,
+      "ads_by_network": {
+        "Applovin": 6,
+        "TikTok": 2
+      },
+      "ads_latest_first_seen": "2026-03-28",
+      "ads_sample": [
+        {
+          "creative_id": "b76e1c8d7fa5b45f",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c314ce4330fc1a21/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c314ce4330fc1a21/media",
+          "first_seen_at": "2026-03-28"
+        },
+        {
+          "creative_id": "3d18db0957ee9aa7",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/496209c718b734d9/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/496209c718b734d9/media",
+          "first_seen_at": "2026-02-15"
+        },
+        {
+          "creative_id": "cc046e5c4e31f665",
+          "network": "TikTok",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6773963092af4f7c/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6773963092af4f7c/media",
+          "first_seen_at": "2025-11-26"
+        },
+        {
+          "creative_id": "29629f1c62ca71af",
+          "network": "Applovin",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5d184dd22d93dfd1/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5d184dd22d93dfd1/media",
+          "first_seen_at": "2025-11-12"
+        },
+        {
+          "creative_id": "4a67467af4d33aec",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3e1d94b4bb8a9492/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3e1d94b4bb8a9492/media",
+          "first_seen_at": "2025-05-10"
+        }
+      ],
+      "paid_share": 0.8363,
+      "organic_share": 0.1637,
+      "total_downloads_3mo": 126203,
+      "downloads_30d_curve": [
+        938,
+        1051,
+        968,
+        620,
+        545,
+        650,
+        747,
+        1044,
+        1005,
+        876,
+        691,
+        618,
+        574,
+        594,
+        859,
+        962,
+        780,
+        538,
+        472,
+        478,
+        497,
+        657,
+        881,
+        882,
+        608,
+        438,
+        457,
+        438,
+        498,
+        388
+      ],
+      "downloads_trend_7d_pct": -0.13804322565651872
+    },
+    {
+      "app_id": "1474598066",
+      "unified_app_id": "5d43caa873f5ad7e1de50c8f",
+      "name": "Bikes Hill",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c0/b7/c1c0b70f-8fac-b437-ca6c-5020c7129a22/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7013
+      ],
+      "rating": 4.41605,
+      "rating_count": 182695,
+      "description": "A thrilling adventure into the mountains! Race with other bikers on this hilly ride! Fly and touch the sky! Time your movement by holding and releasing at the right time.  \n\nFeaturing:\n\n\u25c9 Bikes\n\u25c9 Hills\n\u25c9 Clouds\n\u25c9 Coins\n\u25c9 Dozens of levels\n\u25c9 Loads of fun\n\u25c9 And more!",
+      "ads_total": 0,
+      "ads_by_network": {},
+      "ads_latest_first_seen": null,
+      "ads_sample": [],
+      "paid_share": null,
+      "organic_share": null,
+      "total_downloads_3mo": null,
+      "downloads_30d_curve": [],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1580908333",
+      "unified_app_id": "60caa2b20d41df29ea6b7c3e",
+      "name": "Flex Run 3D",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/41/97/97/4197975b-1d6f-504e-3898-b0e143a2328f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7003
+      ],
+      "rating": 4.59915,
+      "rating_count": 181223,
+      "description": "Slide your finger to move your character into different positions!&nbsp;\nCan you fit through the incoming obstacles?",
+      "ads_total": 6,
+      "ads_by_network": {
+        "TikTok": 6
+      },
+      "ads_latest_first_seen": "2025-09-18",
+      "ads_sample": [
+        {
+          "creative_id": "0d09c94de410524e",
+          "network": "TikTok",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3925429df999e312/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3925429df999e312/media",
+          "first_seen_at": "2025-09-18"
+        },
+        {
+          "creative_id": "92cd934b6cc209be",
+          "network": "TikTok",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a6e1189b714bb8e2/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a6e1189b714bb8e2/media",
+          "first_seen_at": "2021-12-24"
+        },
+        {
+          "creative_id": "e16105b661853cf7",
+          "network": "TikTok",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d96baa1dd83323/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d96baa1dd83323/media",
+          "first_seen_at": "2021-11-18"
+        },
+        {
+          "creative_id": "4ae55884a2205aef",
+          "network": "TikTok",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de5d3698de7d553b/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de5d3698de7d553b/media",
+          "first_seen_at": "2021-11-18"
+        },
+        {
+          "creative_id": "03f6a7c7272b0262",
+          "network": "TikTok",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37da2c173aa2b33e/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37da2c173aa2b33e/media",
+          "first_seen_at": "2021-10-13"
+        }
+      ],
+      "paid_share": null,
+      "organic_share": null,
+      "total_downloads_3mo": null,
+      "downloads_30d_curve": [],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1504295793",
+      "unified_app_id": "5e7af5c7c7466a6b064b8ec1",
+      "name": "Stack Colors!",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/18/8f/e8188fb8-a8a0-ce19-9735-2eecbbdacd2f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7003
+      ],
+      "rating": 4.59697,
+      "rating_count": 181011,
+      "description": "Move and stack the right color platforms and finally kick them to get a huge score boost in a satisfying way!",
+      "ads_total": 2,
+      "ads_by_network": {
+        "Applovin": 2
+      },
+      "ads_latest_first_seen": "2025-11-11",
+      "ads_sample": [
+        {
+          "creative_id": "006b27f11874761f",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cdf821c78c34d597/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cdf821c78c34d597/media",
+          "first_seen_at": "2025-11-11"
+        },
+        {
+          "creative_id": "7f2dbb75b1072c54",
+          "network": "Applovin",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b2bebd4325478fdc/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b2bebd4325478fdc/media",
+          "first_seen_at": "2025-04-10"
+        }
+      ],
+      "paid_share": null,
+      "organic_share": null,
+      "total_downloads_3mo": null,
+      "downloads_30d_curve": [],
+      "downloads_trend_7d_pct": null
+    },
+    {
+      "app_id": "1524755868",
+      "unified_app_id": "5f334673cf6948627ddd4d8b",
+      "name": "100 Years - Life Simulator",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/4c/92/ff4c9259-eded-f8f4-6e5e-199b1c33c247/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7015,
+        7014
+      ],
+      "rating": 4.58169,
+      "rating_count": 167902,
+      "description": "Make choices and take charge of your life story. How old can you become in this 3d life simulator?\n\nPlay through all the stages of life in this interactive adventure, from baby to old person.",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Applovin": 11,
+        "Unity": 8,
+        "Admob": 1
+      },
+      "ads_latest_first_seen": "2026-04-23",
+      "ads_sample": [
+        {
+          "creative_id": "af5eea7392309b87",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4d93d6b26d51fc01/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4d93d6b26d51fc01/media",
+          "first_seen_at": "2026-04-23"
+        },
+        {
+          "creative_id": "3cf62bf0d57b53cf",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de3b17312a1a3449/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de3b17312a1a3449/media",
+          "first_seen_at": "2026-04-23"
+        },
+        {
+          "creative_id": "0b4c14b1773be310",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e9812870885a8496/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e9812870885a8496/media",
+          "first_seen_at": "2026-04-09"
+        },
+        {
+          "creative_id": "91ff09fe3e18f9ae",
+          "network": "Applovin",
+          "ad_type": "playable",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7332353fc1799e28/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7332353fc1799e28/media",
+          "first_seen_at": "2026-03-26"
+        },
+        {
+          "creative_id": "4f6295367c6680c3",
+          "network": "Unity",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d8e423ca4633817b/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d8e423ca4633817b/media",
+          "first_seen_at": "2026-03-21"
+        }
+      ],
+      "paid_share": 0.3235,
+      "organic_share": 0.6765,
+      "total_downloads_3mo": 95142,
+      "downloads_30d_curve": [
+        895,
+        1296,
+        1212,
+        968,
+        859,
+        993,
+        1062,
+        1282,
+        1394,
+        1202,
+        1021,
+        874,
+        830,
+        786,
+        815,
+        1044,
+        1041,
+        563,
+        491,
+        541,
+        536,
+        585,
+        1083,
+        1169,
+        666,
+        502,
+        470,
+        512,
+        592,
+        880
+      ],
+      "downloads_trend_7d_pct": -0.01012396694214876
+    },
+    {
+      "app_id": "1171814682",
+      "unified_app_id": "581e6493ddfcc54bb900494a",
+      "name": "Paper.io",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/0a/b3/500ab395-f5ea-78b9-b5d8-651d891f1234/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003,
+        6016
+      ],
+      "rating": 4.49465,
+      "rating_count": 156509,
+      "description": "Discover Voodoo's new game: Paper.io.\nYour goal? To conquer as much territory as possible. It's initially very simple, and the game can be mastered immediately, but watch out: there's competition, and not everyone can win!\nWhether you're bold or more careful, you have to be more cunning than your adversaries by finding the best strategy to conquer the most space. But be careful! You have a weak spot: your tail. If an enemy touches it, that's the end for you.\nTry to stay ahead, because victory in Paper.io is never certain until you possess all the territory. Stealing is allowed, and your enemies won't hesitate to do so.\nAfter the success of Quiz Run, 1 Pic 8 Words, and Bool, Voodoo now offers you a new gaming and graphics experience inspired by io type games (made popular by agar.io). Enjoy the simplicity and strategy of an io game in a world with unique graphics.\nPaper.io is for the whole family and doesn't require an Internet connection.",
+      "ads_total": 0,
+      "ads_by_network": {},
+      "ads_latest_first_seen": null,
+      "ads_sample": [],
+      "paid_share": 0.2051,
+      "organic_share": 0.7949,
+      "total_downloads_3mo": 8690,
+      "downloads_30d_curve": [
+        103,
+        117,
+        119,
+        84,
+        80,
+        105,
+        131,
+        135,
+        140,
+        125,
+        104,
+        84,
+        86,
+        74,
+        87,
+        101,
+        109,
+        76,
+        72,
+        64,
+        54,
+        64,
+        94,
+        82,
+        60,
+        62,
+        62,
+        59,
+        68
+      ],
+      "downloads_trend_7d_pct": -0.09814814814814815
+    },
+    {
+      "app_id": "1265145322",
+      "unified_app_id": "598496b30211a64b8c0002d9",
+      "name": "Dunk Hit",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/50/ba/1250ba26-121a-1c8c-76bf-6423ae8fe9c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7003,
+        7016
+      ],
+      "rating": 4.64953,
+      "rating_count": 156343,
+      "description": "Get on fire in this hot, epic and bouncy basketball game! \nScore as many point as you can before the time runs out!",
+      "ads_total": 0,
+      "ads_by_network": {},
+      "ads_latest_first_seen": null,
+      "ads_sample": [],
+      "paid_share": 0.1969,
+      "organic_share": 0.8031,
+      "total_downloads_3mo": 22308,
+      "downloads_30d_curve": [
+        186,
+        226,
+        232,
+        180,
+        155,
+        185,
+        177,
+        182,
+        202,
+        225,
+        151,
+        151,
+        139,
+        134,
+        138,
+        198,
+        181,
+        140,
+        111,
+        133,
+        129,
+        134,
+        173,
+        194,
+        158,
+        138,
+        124,
+        124,
+        125,
+        166
+      ],
+      "downloads_trend_7d_pct": 0.027972027972027972
+    },
+    {
+      "app_id": "1614813337",
+      "unified_app_id": "624c626d30bb4536dfbb5a53",
+      "name": "Rope and Demolish",
+      "publisher_name": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/11/e0/1f11e039-3281-4410-2e8e-ab3e91ce12ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+      "categories": [
+        6014,
+        7001,
+        7015
+      ],
+      "rating": 4.5149,
+      "rating_count": 155692,
+      "description": "You have never played a game like this before!\nDemolish different buildings!",
+      "ads_total": 20,
+      "ads_by_network": {
+        "Applovin": 10,
+        "Unity": 7,
+        "Admob": 3
+      },
+      "ads_latest_first_seen": "2026-04-21",
+      "ads_sample": [
+        {
+          "creative_id": "8665218145755e04",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9816907e790adf37/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9816907e790adf37/media",
+          "first_seen_at": "2026-04-21"
+        },
+        {
+          "creative_id": "ec428459a06be696",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b94f62b14a5c1af5/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b94f62b14a5c1af5/media",
+          "first_seen_at": "2026-03-13"
+        },
+        {
+          "creative_id": "d70ec558efb4dfe9",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c97d74a7d3cb5eda/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c97d74a7d3cb5eda/media",
+          "first_seen_at": "2026-03-11"
+        },
+        {
+          "creative_id": "1d12ecbcd2db83a9",
+          "network": "Applovin",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03615d43eea4029a/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03615d43eea4029a/media",
+          "first_seen_at": "2026-02-01"
+        },
+        {
+          "creative_id": "edca0f8161325874",
+          "network": "Admob",
+          "ad_type": "video",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b8c7e9698b05a417/thumb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b8c7e9698b05a417/media",
+          "first_seen_at": "2025-09-08"
+        }
+      ],
+      "paid_share": 0.9062,
+      "organic_share": 0.0938,
+      "total_downloads_3mo": 420620,
+      "downloads_30d_curve": [
+        3583,
+        4835,
+        5424,
+        4063,
+        4293,
+        4409,
+        4810,
+        5736,
+        6023,
+        5351,
+        4116,
+        3402,
+        3410,
+        3311,
+        3703,
+        4621,
+        4406,
+        2730,
+        2228,
+        2136,
+        1995,
+        2628,
+        3823,
+        4172,
+        3345,
+        3323,
+        3224,
+        3316,
+        3306,
+        2457
+      ],
+      "downloads_trend_7d_pct": 0.16028276346134562
+    }
+  ]
+}

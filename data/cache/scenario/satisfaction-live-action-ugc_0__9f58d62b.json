@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_ctdRmwNY6ib31Qo61MRufqmV?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfY3RkUm13Tlk2aWIzMVFvNjFNUnVmcW1WP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=mXrWGMIcYQggos4ROAGdgG4odPFsVFYQ1BqZwIPANWzukv5xZa2Hy2JHHBnGtCJ7V1cjJrWRSMT5WCqNvedFEbElm40sXUBO3Kw1qe%7EJMF-xJpc7FV-t1AP6Ktxg9VuPFGZJZu%7EgQ%7En-etFSoeyj2uH1LfY75Ncs26Bao2c04q1foPZsYn87PlWV52qvqszkNfGTf%7E%7EwQcV%7Ef3DqJuZA17UJEGyz5tRQqxm%7ECugnDLai0Q1ObjMgkrDn1oe8GI8Ppg5k0C2ZgsVJnan6VYXmFF5v2PA6FokydDTPpsfPREyjLHwxa8WG5wH34aQ6ZruS5JQkRnoZQF7mGNuT5jaR5A__",
+  "job_id": "job_98Q8M86SVbHDXHyT38Mfj48i",
+  "asset_id": "asset_ctdRmwNY6ib31Qo61MRufqmV",
+  "stub": false,
+  "prompt": "Hero frame, vertical 9:16 mobile screen recording of Flappy Dunk gameplay: a bright blue (#5CB3FF) basketball mid-air arcing through a saturated magenta (#D81155) horizontal hoop, warm beige (#EAD5A0) flat background, second magenta hoop visible above, large white score number '7' top-center with thick black outline, small heart/lives indicator top-left, combo flame burst around the ball, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors, on-screen text overlay 'COMBO x7' in bold white with black stroke, no characters, authentic Flappy Dunk HUD chrome, no 3D, no gradients",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

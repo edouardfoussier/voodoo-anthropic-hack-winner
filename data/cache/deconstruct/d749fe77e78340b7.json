@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "d749fe77e78340b7",
+    "ad_unit_id": "d749fe77e78340b7",
+    "app_id": "67ecf5e455b6d71ffc36536e",
+    "advertiser_name": "크랙 - 즉흥 서사 플레이, AI 채팅",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08cd1c2d20a5466d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08cd1c2d20a5466d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08cd1c2d20a5466d/preview",
+    "phashion_group": "d749fe77e78340b7",
+    "share": null,
+    "first_seen_at": "2026-03-13T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "이혼해달라니ㄲ",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Close-up of a blushing anime male character with dog ears looking submissively at the viewer.",
+    "visual_action": "The character smiles and blushes while looking directly into the camera with a submissive expression.",
+    "text_overlay": "어디가... 나 키워... 폭군황제가 이혼해주지 않는다",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Initial close-up of a blonde male character with dog ears and a submissive expression.",
+    "Slight shift in the character's pose and expression, maintaining the blushing look.",
+    "Introduction of the webtoon title with large text overlays.",
+    "Final call to action screen with the full title and a button-like text."
+  ],
+  "on_screen_text": [
+    "어디가... 나 키워...",
+    "폭군황제가 이혼해주지 않는다",
+    "폭군 황제 폐하의 주인이 되었습니다",
+    "나한테만 매달리는 폭군 황제 길들이기 >"
+  ],
+  "cta_text": "나한테만 매달리는 폭군 황제 길들이기 >",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#F5D0A9",
+    "#E8C170",
+    "#000000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Women who enjoy romance webtoons and otome games featuring submissive male leads.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001552
+}

@@ -1,0 +1,30 @@
+{
+  "app_id": "1453402726",
+  "name": "Flip & Dive 3D",
+  "genre": "Hypercasual",
+  "sub_genre": "Physics Arcade",
+  "core_loop": "Jump from a high platform, control the fall to perform tricks, and aim for a perfect entry into the water pool to maximize depth.",
+  "audience_proxy": "Broad casual audience, teens and young adults, looking for quick, satisfying physics-based gameplay.",
+  "visual_style": "Minimalist 3D with bright, contrasting colors and simple geometric shapes.",
+  "palette": {
+    "primary_hex": "#AEE2FF",
+    "secondary_hex": "#FF007F",
+    "accent_hex": "#C754D9",
+    "description": "Vibrant contrast between light blue environments and a bright pink character, with bold purple and blue UI banners."
+  },
+  "key_mechanics": [
+    "jumping",
+    "falling-physics",
+    "aiming",
+    "timing"
+  ],
+  "character_present": true,
+  "ui_mood": "calm/satisfying",
+  "screenshot_signals": [
+    "humanoid ragdoll",
+    "swimming pool target",
+    "depth counter",
+    "bold text banners",
+    "height markers"
+  ]
+}

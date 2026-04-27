@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 45,
+  "mechanic_match": 30,
+  "audience_match": 75,
+  "overall": 42,
+  "rationale": "Audience overlaps strongly — casual women 25-55 who enjoy relaxing puzzle content are the same demo for both jigsaw and marble sorting. However, the mechanic mismatch is the dealbreaker: a drag-to-place jigsaw hook misrepresents Marble Sort's tap-and-release physics + conveyor loop, which risks high IPM but poor D1 retention and Meta/TikTok policy flags for misleading creative. Palette is also off (saturated blue/green vs. the game's lavender/orange pastel) — only worth testing as a hybrid where the jigsaw hook hard-cuts at ~3s into authentic marble sorting gameplay."
+}

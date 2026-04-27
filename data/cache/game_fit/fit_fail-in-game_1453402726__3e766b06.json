@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 15,
+  "mechanic_match": 20,
+  "audience_match": 55,
+  "overall": 22,
+  "rationale": "Hard pass on adapting this archetype literally — the bus-crash/parking-puzzle hook is mechanically alien to Flip & Dive's jump-aim-splash loop, and the white/red/green palette clashes with the game's signature pink-on-cyan identity. The only transferable element is the broader \"fail bait + WHY IS THIS SO HARD\" framing, which does map to hypercasual audiences; if we test it, abstract just the text-overlay/fail-loop structure (e.g., diver belly-flops onto concrete, missing the pool) rather than the bus scenario itself. Low confidence cluster anyway (1 creative, 259d old, single advertiser) — not worth prioritizing over fresher fail-bait references."
+}

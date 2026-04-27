@@ -1,0 +1,27 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "1453989822",
+  "title": "Smart / Genius / Psychopath Slide",
+  "hook_3s": "A racer threads a razor-thin gap between two opponents at full speed — meter flashes \"SMART\".",
+  "scene_flow": [
+    "0–3s: POV slams onto a glossy white aquapark.io slide; first clean overtake bumps a rival into the void → meter pops 'SMART' in orange.",
+    "3–7s: Player chains two more bumps off a banked curve, weaving inner tubes — meter escalates to 'GENIUS' with a confetti splash.",
+    "7–12s: On the hang-glider section, racer dives between THREE opponents mid-air, knocking all of them off the edge — meter explodes 'PSYCHOPATH'.",
+    "12–15s: Finish-line splash, leaderboard slams to #1, app icon + CTA pulses."
+  ],
+  "visual_direction": "Authentic aquapark.io look: bright #42bcf5 water flumes, glossy #ffffff slide walls, low-poly cartoon animal racers on inner tubes, with #ff8c1c orange used for the IQ-tier meter, race progress bar, and CTA chrome. Camera stays close behind the lead racer (chase-cam, slight FOV punch on each bump) to mirror the actual in-game camera. Keep the same chunky 3D low-poly geometry, soft cel shading, and HUD layout (top-left progress bar, top-right multiplayer ranks) seen in real screenshots — no realistic water, no extra UI invented.",
+  "text_overlays": [
+    "Pick your line…",
+    "SMART",
+    "GENIUS",
+    "PSYCHOPATH 🔥",
+    "Can you finish #1?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current aquapark.io rotation leans entirely on generic \"slide & knock-out\" gameplay copy with \"Install\"/\"Best game of 2025\" framing — there's zero satisfaction-meter or skill-tier hook in the lineup. This brief ports the market-trending Smart/Genius/Psychopath meter into a racing-native skill-judgement frame (clean overtakes = SMART, chained bumps = PSYCHOPATH), giving UA a fresh CTR angle without fabricating mechanics. Test against the evergreen \"knock out opponents\" video as the control.",
+  "scenario_prompts": [
+    "Aspect 9:16, 3D low-poly bright colorful cartoonish aquapark.io in-game frame, chase-cam behind a low-poly cartoon animal racer on a white inner tube sliding down a glossy bright blue (#42bcf5) water slide flume with white (#ffffff) walls, threading a razor-thin gap between two rival racers about to be bumped off the edge, splash particles, top-left orange (#ff8c1c) race progress bar and top-right multiplayer leaderboard HUD exactly like the real game, large bold orange '#ff8c1c' overlay text 'SMART' center-screen with subtle glow, no realistic water, no invented UI, authentic aquapark.io asset style. [Audio: VO (hyped male, gen-z) 'Okay that was smart…' / energetic competitive trap, 120 BPM, punchy 808s / whoosh on overtake at 1s, ding on meter pop at 2.5s].",
+    "Aspect 9:16, 3D low-poly bright colorful cartoonish aquapark.io gameplay still, banked curve on a white water slide with bright blue (#42bcf5) water, the lead cartoon animal racer on an inner tube sideswiping two opponents simultaneously off the rim into open sky, low-poly splash and motion-blur lines, in-game HUD with orange (#ff8c1c) progress bar and rank icons preserved, bold orange overlay text 'GENIUS' stamped across the upper third, palette locked to #42bcf5 / #ffffff / #ff8c1c, authentic in-game camera and asset fidelity, no stock racing tropes. [Audio: VO 'wait — GENIUS!' / building competitive electronic 124 BPM / double bump-thud at 0.8s and 1.4s, crowd 'ohhh' sting at 2s].",
+    "Aspect 9:16, 3D low-poly bright colorful cartoonish aquapark.io hang-glider section, cartoon animal racer gliding mid-air off a ramp above a bright blue (#42bcf5) pool, three rival racers tumbling off-screen below, white (#ffffff) clouds and slide structures, sun flare, signature orange (#ff8c1c) HUD with finish-line progress bar nearly full and 1st-place crown icon, massive bold overlay text 'PSYCHOPATH 🔥' shaking in orange with white outline, exact aquapark.io art direction, no fabricated mechanics. [Audio: VO (gleeful) 'PSYCHOPATH!!' / peak-drop competitive trap 128 BPM with bass hit / triple knockout whoosh, glass-shatter SFX at 1.2s, victory chime at 3s]."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "fb28e2ef67f3840c",
+    "ad_unit_id": "fb28e2ef67f3840c",
+    "app_id": "68130c5dc1a38845781b32d1",
+    "advertiser_name": "WW2 Duty: FrontLine Zone",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/preview",
+    "phashion_group": "fb28e2ef67f3840c",
+    "share": null,
+    "first_seen_at": "2026-04-16T00:00:00",
+    "last_seen_at": "2026-04-17T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Intense first-person shooter gameplay featuring high-mobility combat in a train yard.",
+    "visual_action": "The player uses a semi-automatic rifle to shoot down enemies jumping and flying through the air.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Initial engagement with a flying enemy in a train yard setting.",
+    "Fast-paced shooting sequence targeting enemies jumping between train cars.",
+    "Close-quarters combat and reloading while navigating the industrial environment.",
+    "Final sequence showing multiple kills and high-action gameplay."
+  ],
+  "on_screen_text": [
+    "362",
+    "03:29",
+    "500",
+    "RELOAD",
+    "32/64",
+    "Invitee44853816",
+    "654",
+    "02:20",
+    "1010"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#5C6B8C",
+    "#4A5D23",
+    "#8B7D6B"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers 18-35 who enjoy fast-paced, competitive first-person shooters with a military or historical theme.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001696
+}

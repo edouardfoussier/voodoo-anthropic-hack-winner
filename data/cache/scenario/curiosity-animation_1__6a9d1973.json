@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_WqGdAq2BGZsFoxHrjPGcbCkf?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfV3FHZEFxMkJHWnNGb3hIcmpQR2NiQ2tmP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=k4eSG2JguH9iKqFtxpppaktQSAQDIdtQUJwtwxiff9toaakiNRDXWsMqFFWjRD9zx3ooDtv321zFSlULvjcJT08wPNhE4cJ7yWhAsOI9-m7y8%7EFJoRLzxew61tfHQCR-HvptYBlyHcAYw%7ETygkBx2FEH%7EF4Gb1UBySdEaAdAHyhMz59i905WUwVhuPSAxEtc-k1goBtuCUFlSlofc7xc0Hd8J7XwCwpCwwXNF1xMPQ6e3cHug0FtRNAkAfVtk%7Et4f8q9n9YU%7EOGlf62Ra4Y3HZXAeyz6sD6iAe07OnMHmSLi0kZVjkSBPexiRKfAKB9SHoNUYIj%7ENkyvON1jp79Qdg__",
+  "job_id": "job_81ZzwuuHJsVsQNWeK3Bf82iW",
+  "asset_id": "asset_WqGdAq2BGZsFoxHrjPGcbCkf",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16: aquapark.io gameplay shot, side-angle of the charged animal racer on inner tube rocketing forward in a streak of #ff8c1c orange motion-blur trail, bumping two rival animal racers off the edge of the white slide into the #42bcf5 blue water splash below, race position HUD showing '1st', power-up meter maxed in orange, 3D low-poly bright colorful cartoonish style, on-screen text 'MAX BOOST!' in bold orange caps.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

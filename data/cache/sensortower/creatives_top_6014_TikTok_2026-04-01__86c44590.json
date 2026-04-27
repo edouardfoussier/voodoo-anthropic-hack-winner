@@ -1,0 +1,154 @@
+{
+  "count": 386,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "b3c96cade8debbc6",
+      "app_id": "55c5020a02ac64f9c0001f66",
+      "network": "TikTok",
+      "phashion_group": "b3c96cade8debbc6",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-21",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "b3c96cade8debbc6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/thumb",
+          "video_duration": 15,
+          "width": 2160,
+          "height": 3840,
+          "message": "You Know YOU Deserve it - Play Now & Enjoy!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5020a02ac64f9c0001f66",
+        "canonical_country": "US",
+        "name": "Slotomania Slots Casino Games",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "Slotomania Slots Casino Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/82/a8/2882a853-e34a-0d37-3c54-158f11f1a697/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5020a02ac64f9c0001f66",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2276ee7990ab21be",
+      "app_id": "568a601402ac64a409000104",
+      "network": "TikTok",
+      "phashion_group": "2276ee7990ab21be",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-04",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "2276ee7990ab21be",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01492c7c7105f706/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01492c7c7105f706/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01492c7c7105f706/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "Get ready to play now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "568a601402ac64a409000104",
+        "canonical_country": "US",
+        "name": "Clash Royale",
+        "publisher_name": "Supercell",
+        "publisher_id": "560c48b48ac350643900b82d",
+        "humanized_name": "Clash Royale",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a2/1c/1fa21ca0-610d-b058-2cae-ea4a6d785c76/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "568a601402ac64a409000104",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "4e144911bc7a0b84",
+      "app_id": "66f18c8527e2c1ad893fb4da",
+      "network": "TikTok",
+      "phashion_group": "4e144911bc7a0b84",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-03",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "4e144911bc7a0b84",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0220ba616ebd9ce2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0220ba616ebd9ce2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0220ba616ebd9ce2/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Drive fast, crash harder. Can you handle the chaos?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66f18c8527e2c1ad893fb4da",
+        "canonical_country": "US",
+        "name": "DriveCSX: Car Crash Simulator",
+        "publisher_name": "Hippo Kids Games",
+        "publisher_id": "562957fe3f07e28dd1036ef6",
+        "humanized_name": "DriveCSX: Car Crash Simulator",
+        "icon_url": "https://play-lh.googleusercontent.com/FoY6sxMbgKa8iLQwl6lAaZpkjjDRhd71YkMpj-InHj6WtLLET1W2Bv4tygsso92bcg=s150",
+        "os": "unified",
+        "id": "66f18c8527e2c1ad893fb4da",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "47511991a3599a5b",
+      "app_id": "63e3da9bad4adb156af213b3",
+      "network": "TikTok",
+      "phashion_group": "47511991a3599a5b",
+      "ad_type": "video",
+      "first_seen_at": "2025-02-17",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "47511991a3599a5b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/031de425ae0b8d7e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/031de425ae0b8d7e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/031de425ae0b8d7e/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "Looking for cozy puzzle games?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "63e3da9bad4adb156af213b3",
+        "canonical_country": "US",
+        "name": "Zombie Apocalypse: Doomsday-Z",
+        "publisher_name": "Freeplay",
+        "publisher_id": "6838add143283a86a3f8120d",
+        "humanized_name": "Zombie Apocalypse",
+        "icon_url": "https://play-lh.googleusercontent.com/Lb26WrD6Jt6ISq-uMGyTm816k1cZSd8JM8vhtT6-bJOJ6-tITaUZbVsuW0xeDnnTXQ=s150",
+        "os": "unified",
+        "id": "63e3da9bad4adb156af213b3",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

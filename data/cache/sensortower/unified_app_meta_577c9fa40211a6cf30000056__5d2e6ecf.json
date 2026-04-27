@@ -1,0 +1,29 @@
+{
+  "apps": [
+    {
+      "unified_app_id": "577c9fa40211a6cf30000056",
+      "name": "Pok\u00e9mon GO",
+      "canonical_app_id": 1094591345,
+      "cohort_id": "cohort_4c823fd06e21b388274ad0ed",
+      "itunes_apps": [
+        {
+          "app_id": 1094591345
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.nianticlabs.pokemongo"
+        }
+      ],
+      "unified_publisher_ids": [
+        "560c44e48ac3506439005117"
+      ],
+      "itunes_publisher_ids": [
+        1037205060
+      ],
+      "android_publisher_ids": [
+        "Niantic,+Inc."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_j2Edaaor4bM1N9TfoP1Pcktj?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfajJFZGFhb3I0Yk0xTjlUZm9QMVBja3RqP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=fg30R-Y6dFmzg-D65LjwvS-eHi3%7EbdOevdwHsietDzM8ay%7El1N8cRM-scnzh6LMmhLPqoiOAsbbVYmYQNPwFwfG8Bg-FuRpWWp2EsWcK2bVrVA2JlaFuMG8efWHrARsjwoIPbhNa%7EicMjP6YP4hsJc21tU6vLeCIKcg6DEEEbP%7EnYc6Y2JnxBMjIUF0ZrgBWxwWBLgaVKr3-PKc5IvBi6K5Qxaj-JxqUrWDLZw7jKVLsaMY8JpulNof0LR6fyLa4dL4tk0TZ3bjXc8H08Y7y9TvP0KsquLumU%7Ev4ar3k7QEk6sWd6GNV-cVO%7EnBD6jBQawr7zlr%7EPdlnrRsU5mHffw__",
+  "job_id": "job_xt9rYFumZertDxQ4fwidjPZS",
+  "asset_id": "asset_j2Edaaor4bM1N9TfoP1Pcktj",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic Color Road! in-game screenshot: glossy pastel-pink rolling ball mid-track on a dark navy #152238 ribbon track, threading a perfectly matched pink color-gate with a tiny burst of #FF4C4C sparks, soft pastel #FADADD blurred city skyline background, minimalist 3D abstract geometric shapes, no characters, top-left score counter '0124' and top-right pause button visible, low chase camera, shallow depth of field, soft bloom, on-screen text 'Ever played a game that ACTUALLY relaxes you?' in clean white sans-serif at upper third. [Audio: VO 'Ever played a game that actually relaxes you?' / chill lo-fi-meets-energetic 95 BPM pastel beat / soft click on gate pass at 1.5s, coin chime at 2.5s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

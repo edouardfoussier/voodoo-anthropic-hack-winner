@@ -1,0 +1,406 @@
+{
+  "count": 406,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "5d683378596d7773",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "5d683378596d7773",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "5d683378596d7773",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "792477e9b3afca48",
+      "app_id": "5cb9b9223ea98344e0401fcf",
+      "network": "Facebook",
+      "phashion_group": "792477e9b3afca48",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-14",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "792477e9b3afca48",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Install Now",
+          "message": ""
+        },
+        {
+          "id": "e07b7d9e159bd647",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "title": "Crush the Court Now!",
+          "button_text": "Install Now",
+          "message": "Slam dunk on the tennis court with Tennis Clash! \ud83c\udfbe\nThis game is for you if you're ready to crush some serious serves and volleys. \u2728"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5cb9b9223ea98344e0401fcf",
+        "canonical_country": "US",
+        "name": "Tennis Clash\uff1aSports Stars Game",
+        "publisher_name": "Wildlife Studios",
+        "publisher_id": "5614e08d3f07e25d2901b7e7",
+        "humanized_name": "Tennis Clash",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/8e/1c/258e1c1d-2466-7348-27cc-39be0ace913e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5cb9b9223ea98344e0401fcf",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b49edd341709ed34",
+      "app_id": "5b2014aba05ac723e5d99392",
+      "network": "Facebook",
+      "phashion_group": "b49edd341709ed34",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "b49edd341709ed34",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5716d05decfc0497/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5716d05decfc0497/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5716d05decfc0497/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Upgrade Your Plane",
+          "button_text": "Install Now",
+          "message": "Air raids and dogfights are waiting!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b2014aba05ac723e5d99392",
+        "canonical_country": "US",
+        "name": "Bomber Ace: WW2 war plane game",
+        "publisher_name": "MadFatCat",
+        "publisher_id": "55f893c08ac350426b039e0b",
+        "humanized_name": "Bomber Ace: WW2 war plane game",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e4/be/90e4be6f-ad0c-a119-7868-dd267561330c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5b2014aba05ac723e5d99392",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f4c3b85043ca9d2c",
+      "app_id": "66193b9ead4adb2170e90f91",
+      "network": "Facebook",
+      "phashion_group": "f4c3b85043ca9d2c",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-05",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "f4c3b85043ca9d2c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "title": "Mais de 1 milh\u00e3o de jogadores j\u00e1 est\u00e3o em Amikin Village!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66193b9ead4adb2170e90f91",
+        "canonical_country": "US",
+        "name": "Amikin Village: Magic Sim RPG",
+        "publisher_name": "Helio Games",
+        "publisher_id": "5b87023f4fddd52212348725",
+        "humanized_name": "Amikin Village",
+        "icon_url": "https://play-lh.googleusercontent.com/ODkvCMWJFeb3-Wuhl6xJJVLRBGzmUIV3CPJlpLPCbsvCgkSdhnfC_o__7X6kddJVcQg=s150",
+        "os": "unified",
+        "id": "66193b9ead4adb2170e90f91",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a81704bba2a56f5d",
+      "app_id": "5b5fd880dfeda93ee511a10d",
+      "network": "Facebook",
+      "phashion_group": "a81704bba2a56f5d",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-15",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "a81704bba2a56f5d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "You are on the RUN",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b5fd880dfeda93ee511a10d",
+        "canonical_country": "US",
+        "name": "Police Pursuit: Burnout Rush!",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Police Pursuit",
+        "icon_url": "https://play-lh.googleusercontent.com/8wW8j4n19lBfzTfkMTsWSB9_flZ03EopLJC6cYC41GAmW5bejFHpCLOvmyGY6hdGnw=s150",
+        "os": "unified",
+        "id": "5b5fd880dfeda93ee511a10d",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "03b1a320f8d25986",
+      "app_id": "5cb9b9223ea98344e0401fcf",
+      "network": "Facebook",
+      "phashion_group": "03b1a320f8d25986",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-01",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "03b1a320f8d25986",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0235427436e4fb69/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0235427436e4fb69/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0235427436e4fb69/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Install Now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5cb9b9223ea98344e0401fcf",
+        "canonical_country": "US",
+        "name": "Tennis Clash\uff1aSports Stars Game",
+        "publisher_name": "Wildlife Studios",
+        "publisher_id": "5614e08d3f07e25d2901b7e7",
+        "humanized_name": "Tennis Clash",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/8e/1c/258e1c1d-2466-7348-27cc-39be0ace913e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5cb9b9223ea98344e0401fcf",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "729bbbfba8c7d8df",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "729bbbfba8c7d8df",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-09",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "729bbbfba8c7d8df",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02bee3184c958852/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02bee3184c958852/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02bee3184c958852/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2af032a7957b4a2b",
+      "app_id": "5a452ae0a14c91063e845ddd",
+      "network": "Facebook",
+      "phashion_group": "2af032a7957b4a2b",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-04",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "2af032a7957b4a2b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "title": "Punch now",
+          "button_text": "Install Now",
+          "message": "One punch to become a boxing legend!\ud83d\udcaa"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5a452ae0a14c91063e845ddd",
+        "canonical_country": "US",
+        "name": "Boxing Star:Sports Action Game",
+        "publisher_name": "THUMBAGE",
+        "publisher_id": "5a3d9bd4d9491b4758f040ac",
+        "humanized_name": "Boxing Star",
+        "icon_url": "https://play-lh.googleusercontent.com/Sqk3RJ5wPlN_ze2EdjblqXSXJfmGW9BLgrgalDYjUt95gAEWLbe3Wpmfv3DLYpjU6tRt6MyZvIzkBFuahccz9fQ=s150",
+        "os": "unified",
+        "id": "5a452ae0a14c91063e845ddd",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f7bc67e3255fa31e",
+      "app_id": "66193b9ead4adb2170e90f91",
+      "network": "Facebook",
+      "phashion_group": "f7bc67e3255fa31e",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-05",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "f7bc67e3255fa31e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032e0029019d56d9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032e0029019d56d9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032e0029019d56d9/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u00a1M\u00e1s de 1 mill\u00f3n de jugadores ya est\u00e1n en Amikin Village!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66193b9ead4adb2170e90f91",
+        "canonical_country": "US",
+        "name": "Amikin Village: Magic Sim RPG",
+        "publisher_name": "Helio Games",
+        "publisher_id": "5b87023f4fddd52212348725",
+        "humanized_name": "Amikin Village",
+        "icon_url": "https://play-lh.googleusercontent.com/ODkvCMWJFeb3-Wuhl6xJJVLRBGzmUIV3CPJlpLPCbsvCgkSdhnfC_o__7X6kddJVcQg=s150",
+        "os": "unified",
+        "id": "66193b9ead4adb2170e90f91",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c595642d65d1646f",
+      "app_id": "60892aef62e4301a2eb3aee1",
+      "network": "Facebook",
+      "phashion_group": "c595642d65d1646f",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-16",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "c595642d65d1646f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0366cf97d71eb992/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0366cf97d71eb992/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0366cf97d71eb992/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Harder than you think",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "60892aef62e4301a2eb3aee1",
+        "canonical_country": "US",
+        "name": "Wing Fighter",
+        "publisher_name": "Joyfort (Minigame Entertainment)",
+        "publisher_id": "5cdf90ef1e30143bd65f9251",
+        "humanized_name": "Wing Fighter",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/f1/3b/e3f13b04-d154-526b-9cbb-eccb4a09f36b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "60892aef62e4301a2eb3aee1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

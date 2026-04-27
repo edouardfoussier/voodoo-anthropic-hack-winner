@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "e5827f7e2941b855",
+    "ad_unit_id": "e5827f7e2941b855",
+    "app_id": "55d9589402ac645ad22f9717",
+    "advertiser_name": "한게임 포커",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f41ee190d48544d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f41ee190d48544d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f41ee190d48544d/preview",
+    "phashion_group": "e5827f7e2941b855",
+    "share": null,
+    "first_seen_at": "2025-11-26T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A live-action shot of hands fanning out playing cards, building anticipation for a winning hand.",
+    "visual_action": "Hands fan out a deck of cards, revealing a near-perfect spade sequence.",
+    "text_overlay": "언젠가... 나오겠죠? ㅠ",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Live-action hands fanning poker cards, attempting to complete a Royal Straight Flush.",
+    "Graphic transition with bold yellow background and Korean text.",
+    "In-game poker footage featuring a player reaction and a winning hand.",
+    "Fast-paced motion graphics montage with poker symbols and 'dopamine' themed text.",
+    "Final gameplay screen showing a massive chip win and the game logo."
+  ],
+  "on_screen_text": [
+    "언젠가... 나오겠죠? ㅠ",
+    "로티플 스!",
+    "하면 할수록",
+    "즐거움이 커지는",
+    "요즘 나의 도파민",
+    "POKER",
+    "money",
+    "한게임 포커"
+  ],
+  "cta_text": "한게임 포커",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#F7FF00",
+    "#5D2E8C",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Korean men 25-45 who enjoy the thrill of social casino games and competitive poker.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00164
+}

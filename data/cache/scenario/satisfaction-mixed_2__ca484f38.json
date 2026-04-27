@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_GQXhSbKg9Q7WpaBhPJaZ8BtG?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfR1FYaFNiS2c5UTdXcGFCaFBKYVo4QnRHP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=sv9mgZMg0lRdwiTJwBxRBNHGl2wn%7E4LIkEKws88I9BbgUhihkL%7EeMRH5A7wPGOVA8WDvrm4INe%7EwwnAvC74syAs9p0h7%7EOvaG9n-g0aqYKJlgQFpcopJX-X9AkaV2ZkpnV0sA1qWy1ihyx-KU86K4SfWlXJk5M1ud8-gWvLAQSS6WgcbAj7zcS3eAsZ4YGUYn9qGGYYV0jBll6XXN3gDe84223ZZfCKGUu2FTXXQUkdUfwgp8RRMrm9npGJY76CoXxoUn1ogI8kiX0PihXQ2dSvgvl15dpU-PmTtGi6WWSlIccvxM-5ZeH5Bw8uxn1oTIPE-LJqoXLhpj7SkO7QCWQ__",
+  "job_id": "job_ogBWRx4Rdan37xFr5Q7EcnZd",
+  "asset_id": "asset_GQXhSbKg9Q7WpaBhPJaZ8BtG",
+  "stub": false,
+  "prompt": "Storyboard CTA frame, aspect ratio 9:16, Helix Jump end-card style: centered cyan (#5CE1E6) helix tower icon with a single ball resting on a neon green (#39FF14) disc, faint red (#FF0000) accent ring behind, soft pale background, large pulsing button overlay text 'TAP TO SMASH' in bold white rounded sans-serif, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, authentic Helix Jump end-screen layout with small level icons row at bottom",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

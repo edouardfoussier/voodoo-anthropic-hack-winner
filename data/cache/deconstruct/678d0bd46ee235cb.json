@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "678d0bd46ee235cb",
+    "ad_unit_id": "678d0bd46ee235cb",
+    "app_id": "5622fcd702ac641c8800003a",
+    "advertiser_name": "GoldenHoYeah Slots-Slots Games",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ded17f1de438fae/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ded17f1de438fae/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ded17f1de438fae/preview",
+    "phashion_group": "678d0bd46ee235cb",
+    "share": null,
+    "first_seen_at": "2026-03-28T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman expresses exhaustion after work and introduces a slot game as the perfect way to unwind.",
+    "visual_action": "A woman in a pink sweater wipes her brow looking tired, then points excitedly at a phone screen showing a slot machine win.",
+    "text_overlay": "仕事終わり どこにも寄れない日",
+    "voiceover_transcript": "仕事終わり、どこにも寄れない日。そんな夜はこれ！",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A woman appears tired after work next to a mobile slot game interface.",
+    "She points to the screen as the slot machine hits a massive 'YOU WON' jackpot of 1.7 billion.",
+    "The game logo 'Golden Hoiyah' and download buttons appear as she smiles and points."
+  ],
+  "on_screen_text": [
+    "仕事終わり",
+    "どこにも寄れない日",
+    "そんな夜はこれ！",
+    "鈴木ユリア",
+    "ゴールデンホイヤー"
+  ],
+  "cta_text": "ゴールデンホイヤー",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#E889B4",
+    "#F7D348",
+    "#5B2C84"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Japanese office workers looking for a rewarding and low-effort mobile game to play after a long day.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001375
+}

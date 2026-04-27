@@ -1,0 +1,65 @@
+{
+  "raw": {
+    "creative_id": "eee688813706d9f3",
+    "ad_unit_id": "eee688813706d9f3",
+    "app_id": "5db2fa73d4a95322499d8b94",
+    "advertiser_name": "TopTop",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/007b09e35dc2563d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/007b09e35dc2563d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/007b09e35dc2563d/preview",
+    "phashion_group": "eee688813706d9f3",
+    "share": null,
+    "first_seen_at": "2026-03-13T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced rhythm gameplay with 'PERFECT' feedback and upbeat pop music.",
+    "visual_action": "Black tiles fall down a four-lane track and are tapped in sync with the music against a blue and purple gradient background.",
+    "text_overlay": "PERFECT",
+    "voiceover_transcript": "You're all I can think of, every drop I drink of",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction to the rhythm mechanics with single taps on black tiles.",
+    "Introduction of a long-press blue note requiring sustained contact.",
+    "Increasing speed and complexity of tile patterns as the song progresses.",
+    "Continuous 'PERFECT' feedback loops to reinforce player success."
+  ],
+  "on_screen_text": [
+    "1",
+    "PERFECT",
+    "3",
+    "6",
+    "9",
+    "19",
+    "22",
+    "24",
+    "32",
+    "34",
+    "37",
+    "39",
+    "46",
+    "50",
+    "54"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#7FB2F0",
+    "#C084F5",
+    "#000000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile gamers who enjoy rhythm-based music games and pop music.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001721
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_oRcPRukNgLCkuqjNzYzvfEVj?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfb1JjUFJ1a05nTENrdXFqTnpZenZmRVZqP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=g4oD43dRqT6r5X-sUVcEzRFjxW7m-pa1%7EE7SlAOvEFO81hK9f5z2BC2q1rpyqDbnJBZum1nK40IWCTP%7EqIxEnA4BqUzws%7EZCEI4387EmsLZosgF6UgPZp1-rQZhA1aGFchoHgI690fmnYV9%7Eut7fNkX0zM8ilTm%7EE-K7VsUN2zjZbFFWraOaB8nmGoYXmQyq5V1pxgn8sUn4KjTqS22EuWEgdrWk3ic%7EEKVs-1At-tbCY7q225YymWAalWAdhxgBCjbsvG8b77bTI2yx-uGZ6oJJ5kTga3TVq5Zy0RFTCZk4ji--fuyHQmyhJR67SGJ%7EhrT1HSEUrqGNvWSNUoDdSg__",
+  "job_id": "job_AHdg8yL45V8kV4N7E3KnLixH",
+  "asset_id": "asset_oRcPRukNgLCkuqjNzYzvfEVj",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, 3D Casual Abstract slightly tilted top-down view of a puzzle board mid chain-reaction, dozens of #FDBA4D bouncing balls ricocheting between deep #403F6D purple blocks on a #20232B dark background, golden light trails and soft amber glow flashes where balls impact, particles of broken obstacles dissolving into sparks, on-screen overlay text 'CHAIN REACTION x8' in glowing yellow-orange, calm satisfying mobile game ad aesthetic",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_9eUqV84oMFps8gmrbiTH9NQE?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOWVVcVY4NG9NRnBzOGdtcmJpVEg5TlFFP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=p9TLQJpi4wOUoWZg3wJIEFzjo5tePpRTddK7jB917bu9KR2rQs3mM5VNakMc7gWtbHWVzfbpPbCKmwKePmSaCt2CrsiOSy2JF58jq0owDfW4otxATfAb8gratkMspKacGbxt7F0Xqu7bfCBp6KXtZMzr8BOaYoXdZwK056A6E1JSBki3qzr4ISRxExTrp7SZ4qX9FYQVTEEP1HgnDx8u6PeKvV8oBRNNnNWUIaih8PdCkBWtqRwIFLlK2agunnKHKKF69vyhwLtH1FymiKBvA6rGr4WxBu-od9YsQ0Xdcdmn2gr4udg5WUG9JTufHJQB2tPvw0ps0%7EyTy28hTXY72w__",
+  "job_id": "job_FW6mtPi314CnfEYo4F42aSqL",
+  "asset_id": "asset_9eUqV84oMFps8gmrbiTH9NQE",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect, minimalist 3D with abstract geometric shapes and a soft pastel background. A glossy saturated red (#FF4C4C) ball rolls along a dark navy (#152238) ribbon track that floats above a soft pastel pink (#FADADD) abstract city skyline. The world is sliced open in a clean orthogonal cross-section revealing three stacked underground chambers below the track: a coin vault glowing gold, a pink paint-pumping color engine, and a maze of mismatched ball wreckage. In-game HUD visible: score counter top-left, pause button top-right, coin tally. Bold white sans-serif overlay text reads 'What's UNDER the track?'. Crisp toy-diorama lighting, saturated accents, no characters, no realism. [Audio: VO (curious whisper) 'Wait... what's under the track?' / energetic competitive synth-pop at 128 BPM with rising arpeggio / ground-crack rumble at 1s, reveal whoosh at 2s, coin chime at 4s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

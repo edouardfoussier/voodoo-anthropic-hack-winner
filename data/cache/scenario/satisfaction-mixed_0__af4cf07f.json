@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Eu8fD1Bemao5tvvW6V4cBJZc?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRXU4ZkQxQmVtYW81dHZ2VzZWNGNCSlpjP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=WtcqZ7aNMhUzIFQtFRcwYd7CsvS8BiFmEx0u9CObrVVlC9%7EY870wqO3Prey8ry0NpNjq7agTsp9PzRzOp1TTngjS7dyekTKKfxco5ZyfBYvZKwdOP6ypfojiYPjeb4JJgcWiT%7EWE3fyxCCWMZj92XYNR7Z0yqenTekrtFbiareWUsFsvq9DnAzlI5Lmnx%7EOJC3JNxoc3j9Wftj19710svrajJqCW7%7EfLl4KOoUrfAETLaZJiSVSrB2VDiWGWi5Dl%7EnEnNIWInxRVhwrqaaAtnpKdeunzA6b3Jh-HyryKJ94GgqT2ADFcRCsTZc11jhHeaF0DCaKAjIuYQaaKosyGPQ__",
+  "job_id": "job_ZbTatuyiv4u3rFhngyqxCfj4",
+  "asset_id": "asset_Eu8fD1Bemao5tvvW6V4cBJZc",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, in-game moment from Destiny Run mobile runner: bright sky-blue (#5bc2ff) low-poly track stretching to horizon, fluffy white (#ffffff) cloud guardrails, a glowing white halo collectible floating mid-lane on the left and a red (#d92b2b) devil-horn obstacle on the right, split choice gate ahead labeled ANGEL / DEVIL, top-right Angel-Devil alignment meter HUD half-filled white, top progress bar, a real human thumb entering from bottom-right mid-swipe, 3D stylized bright and clean simple low-poly geometry, soft diffuse lighting, on-screen text overlay reading 'Wait\u2026 a game that ACTUALLY relaxes you?' in friendly white sans-serif at top. [Audio: VO (warm female, curious) 'Ever played a game that actually relaxes you?' / calm satisfying lo-fi 80bpm with soft marimba / whoosh on thumb swipe at 0.8s, gentle chime on halo glint at 1.5s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,419 @@
+{
+  "count": 417,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "f0b19f737bf7f389",
+      "app_id": "682bcbd125e9f7477c41dde5",
+      "network": "Instagram",
+      "phashion_group": "f0b19f737bf7f389",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-29",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "f0b19f737bf7f389",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/24087fc62c62dd53/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/24087fc62c62dd53/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/24087fc62c62dd53/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Play Game",
+          "message": "Officially licensed FIFA\u00ae Football Game!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "682bcbd125e9f7477c41dde5",
+        "canonical_country": "US",
+        "name": "FIFA Rivals - Mobile Soccer",
+        "publisher_name": "Mythical Games",
+        "publisher_id": "63e5d5b537bb5354392a3f29",
+        "humanized_name": "FIFA Rivals",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/97/76/c69776f0-af4e-d282-caaa-aea2eaf04fa8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "682bcbd125e9f7477c41dde5",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a94a5d25df6189dd",
+      "app_id": "55c5309f02ac64f9c0002dfe",
+      "network": "Instagram",
+      "phashion_group": "a94a5d25df6189dd",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a94a5d25df6189dd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Free Download",
+          "button_text": "Play Game",
+          "message": "Play with your friends"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5309f02ac64f9c0002dfe",
+        "canonical_country": "US",
+        "name": "Sniper 3D\uff1aGun Shooting Games",
+        "publisher_name": "Wildlife Studios",
+        "publisher_id": "5614e08d3f07e25d2901b7e7",
+        "humanized_name": "Sniper 3D\uff1aGun Shooting Games",
+        "icon_url": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E=s150",
+        "os": "unified",
+        "id": "55c5309f02ac64f9c0002dfe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "cd1f483745036c18",
+      "app_id": "5a509f15f066e148b1fa5013",
+      "network": "Instagram",
+      "phashion_group": "cd1f483745036c18",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-10",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "cd1f483745036c18",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/acbf69bf657a5ce6/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/acbf69bf657a5ce6/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/acbf69bf657a5ce6/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "BEST Mobile Fighting Game!",
+          "button_text": "Install Now",
+          "message": "'Damn fun.' 'Wonderful mechanics.' 'A standout in this crowded mobile fighting genre.' - TouchArcade"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5a509f15f066e148b1fa5013",
+        "canonical_country": "US",
+        "name": "Skullgirls: Fighting RPG",
+        "publisher_name": "Autumn Games",
+        "publisher_id": "55f88a598ac350426b007ede",
+        "humanized_name": "Skullgirls: Fighting RPG",
+        "icon_url": "https://play-lh.googleusercontent.com/eYcjGgWCE-1yZy0Nmogmjs0ZW13bAN9jTKc4L4jndv76A_LjuBbCADLglWNXqe51_5XFZXnAlZwvF-nVQ7c9m3g=s150",
+        "os": "unified",
+        "id": "5a509f15f066e148b1fa5013",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "35c1a41738c48406",
+      "app_id": "5f233c9ae9bbdb01538c8eda",
+      "network": "Instagram",
+      "phashion_group": "35c1a41738c48406",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-27",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "35c1a41738c48406",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play FREE now \u26bd\ufe0f\ud83d\udd25",
+          "button_text": "Play Game",
+          "message": "How Many Goals Can You Score in This Epic Football Game? \u26bd\ufe0f\ud83c\udfc6"
+        },
+        {
+          "id": "ef7fbffee93e0349",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play FREE now \u26bd\ufe0f\ud83d\udd25",
+          "button_text": "Play Game",
+          "message": "Who will be the 2026 Champion? \u26bd\ufe0f\ud83c\udfc6"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5f233c9ae9bbdb01538c8eda",
+        "canonical_country": "US",
+        "name": "Mini Football - Soccer Games",
+        "publisher_name": "Miniclip",
+        "publisher_id": "65670b56ad4adb650837a435",
+        "humanized_name": "Mini Football",
+        "icon_url": "https://play-lh.googleusercontent.com/qewy1PbGTItgxpuu0_TveEtrZdoypH5ugqFU3-zxy_6hOwjAeB7ZiSG-s2RLGsTFVcA=s150",
+        "os": "unified",
+        "id": "5f233c9ae9bbdb01538c8eda",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "21019639de46a839",
+      "app_id": "6153b4a2f3e690163b93ec0b",
+      "network": "Instagram",
+      "phashion_group": "21019639de46a839",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "21019639de46a839",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Best PvP Shooter on mobile \ud83c\udf96\ufe0f",
+          "button_text": "Play Game",
+          "message": "\ud83d\udd12 Lock on. \ud83c\udfaf Fire. \ud83d\udca5 Destroy the enemy in real PvP matches."
+        },
+        {
+          "id": "7086bfb94d0fb077",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Best PvP Shooter on mobile \ud83c\udf96\ufe0f",
+          "button_text": "Play Game",
+          "message": "Customize your loadout, master the dogfight, climb the global leaderboards. Play now.\ud83d\udcc8\ud83c\udf0d"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6153b4a2f3e690163b93ec0b",
+        "canonical_country": "US",
+        "name": "Metalstorm: Modern Air Combat",
+        "publisher_name": "Starform",
+        "publisher_id": "5a3025cbaccdbf4a39854b3a",
+        "humanized_name": "Metalstorm: Modern Air Combat",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/13/61/4713612f-3809-c8a1-4915-48fb34c441bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6153b4a2f3e690163b93ec0b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fb28e2ef67f3840c",
+      "app_id": "68130c5dc1a38845781b32d1",
+      "network": "Instagram",
+      "phashion_group": "fb28e2ef67f3840c",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-17",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "fb28e2ef67f3840c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "\ud83d\udc49 Take a gun and clear all the enermy",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "68130c5dc1a38845781b32d1",
+        "canonical_country": "US",
+        "name": "WW2 Duty: FrontLine Zone",
+        "publisher_name": "CSCMobi Studios",
+        "publisher_id": "5cd5d69faee0da279f450542",
+        "humanized_name": "WW2 Duty: FrontLine Zone",
+        "icon_url": "https://play-lh.googleusercontent.com/g8Pm5jM5YsY6NXC1h-WH9P68Hfv_jPrZgnYQ-Hfn9TjRFIWHeoBgSo-K-aUsZIUFyvc=s150",
+        "os": "unified",
+        "id": "68130c5dc1a38845781b32d1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "bcec2911b2a34d17",
+      "app_id": "698be7c6f1fceaadc22c2ce0",
+      "network": "Instagram",
+      "phashion_group": "bcec2911b2a34d17",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "bcec2911b2a34d17",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "title": "\uae30\ub2e4\ub824\uc628 \uc7ac\ud68c, \ucc3d\uc138\uae30\uc804\uc758 \uadc0\ud658",
+          "button_text": "Install Now",
+          "message": "\ucc3d\uc138\uae30\uc804\uc758 \uac10\ub3d9\uc740 \uadf8\ub300\ub85c, \uc131\uc7a5\uc740 \ub354 \ube60\ub974\uac8c."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "698be7c6f1fceaadc22c2ce0",
+        "canonical_country": "KR",
+        "name": "\ucc3d\uc138\uae30\uc804 \ud0a4\uc6b0\uae30",
+        "publisher_name": "New Normal Soft",
+        "publisher_id": "66b3e504f2bdaa36e5bcf7ff",
+        "humanized_name": "\ucc3d\uc138\uae30\uc804 \ud0a4\uc6b0\uae30",
+        "icon_url": "https://play-lh.googleusercontent.com/4piT6-Ynexl-A6zBFNhaggAtgaXySGDy6s4267zDVqxklJcZtv-WIJ112PuVD85CPQVcg1MSBdZtRZKSZVcdlg=s150",
+        "os": "unified",
+        "id": "698be7c6f1fceaadc22c2ce0",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "828e07f4822e7654",
+      "app_id": "5b5fd880dfeda93ee511a10d",
+      "network": "Instagram",
+      "phashion_group": "828e07f4822e7654",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-17",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "828e07f4822e7654",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "You are on the RUN",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b5fd880dfeda93ee511a10d",
+        "canonical_country": "US",
+        "name": "Police Pursuit: Burnout Rush!",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Police Pursuit",
+        "icon_url": "https://play-lh.googleusercontent.com/8wW8j4n19lBfzTfkMTsWSB9_flZ03EopLJC6cYC41GAmW5bejFHpCLOvmyGY6hdGnw=s150",
+        "os": "unified",
+        "id": "5b5fd880dfeda93ee511a10d",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "eb7b235b5bdb7c17",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Instagram",
+      "phashion_group": "eb7b235b5bdb7c17",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-05",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "eb7b235b5bdb7c17",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02bee3184c958852/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02bee3184c958852/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02bee3184c958852/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "8c3d719da82a2130",
+      "app_id": "5a452ae0a14c91063e845ddd",
+      "network": "Instagram",
+      "phashion_group": "8c3d719da82a2130",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "8c3d719da82a2130",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "title": "Punch now",
+          "button_text": "Install Now",
+          "message": "One punch to become a boxing legend!\ud83d\udcaa"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5a452ae0a14c91063e845ddd",
+        "canonical_country": "US",
+        "name": "Boxing Star:Sports Action Game",
+        "publisher_name": "THUMBAGE",
+        "publisher_id": "5a3d9bd4d9491b4758f040ac",
+        "humanized_name": "Boxing Star",
+        "icon_url": "https://play-lh.googleusercontent.com/Sqk3RJ5wPlN_ze2EdjblqXSXJfmGW9BLgrgalDYjUt95gAEWLbe3Wpmfv3DLYpjU6tRt6MyZvIzkBFuahccz9fQ=s150",
+        "os": "unified",
+        "id": "5a452ae0a14c91063e845ddd",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

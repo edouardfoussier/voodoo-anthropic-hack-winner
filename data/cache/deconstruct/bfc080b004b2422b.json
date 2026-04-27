@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "bfc080b004b2422b",
+    "ad_unit_id": "bfc080b004b2422b",
+    "app_id": "67f9b33c67bda8def67d85d8",
+    "advertiser_name": "Fanatics Casino - Real Money",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8a4e9ec19406d11e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8a4e9ec19406d11e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8a4e9ec19406d11e/preview",
+    "phashion_group": "bfc080b004b2422b",
+    "share": null,
+    "first_seen_at": "2026-03-27T00:00:00",
+    "last_seen_at": "2026-04-18T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Every day you get a free spin on FanCash Spins. Open the app, spin the wheel, and see what rewards show up.",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A corporate accountant character expresses frustration over a generous promotion.",
+    "visual_action": "A woman in a business vest sits at a desk, looking at papers with a skeptical expression.",
+    "text_overlay": "SPIN EVERYDAY ON FANCASH SPINS",
+    "voiceover_transcript": "Okay. Whose dumb idea was this?",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Close-up of Fran, Director of Accounting, looking annoyed at her desk.",
+    "Fran looks up and asks 'Whose dumb idea was this?'",
+    "Fran points aggressively at a document off-camera.",
+    "Final logo reveal for Fanatics Casino."
+  ],
+  "on_screen_text": [
+    "SPIN EVERYDAY ON FANCASH SPINS",
+    "FRAN Director of Accounting",
+    "Fanatics Casino"
+  ],
+  "cta_text": "Fanatics Casino",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#000000",
+    "#C49A6C"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Adult sports fans and casual gamblers 21+ looking for value-driven casino promotions.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001273
+}

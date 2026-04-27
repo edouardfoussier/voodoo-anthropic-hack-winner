@@ -1,0 +1,29 @@
+{
+  "archetype_id": "curiosity-animation",
+  "target_game_id": "1345968745",
+  "title": "What's Beneath the Helix? — Cross-Section Curiosity Drop",
+  "hook_3s": "\"How deep does the tower REALLY go?\" — neon helix slices open to reveal layer after hidden layer plunging into the dark.",
+  "scene_flow": [
+    "0–3s: Standard Helix Jump POV — neon ball bouncing on a cyan helix platform. Camera pulls back fast and the tower 'cracks open' like a cross-section diagram, revealing dozens more layers stacked far below.",
+    "3–7s: Animated downward scroll through the cross-section: ring 10 (easy), ring 50 (red trap maze), ring 100 (boss ring with pulsing accent-red core), ring 250 (mystery '???' layer glowing green).",
+    "7–11s: Cut back to gameplay — ball smashes through 5 platforms in a combo streak, multiplier x5 pops, screen shakes, neon-green shards explode.",
+    "11–14s: Player 'fails' on a red trap near the top. Cross-section reappears showing how FAR they could have gone — 95% of the tower still unexplored, glowing below.",
+    "14–15s: CTA card — tower silhouette with depth markers, finger-tap prompt on the helix."
+  ],
+  "visual_direction": "Lean fully into Helix Jump's 3D minimalist DNA — cyan (#5CE1E6) helix discs, neon-green (#39FF14) safe zones, accent-red (#FF0000) traps — but borrow the cross-section's \"diagram reveal\" device. The tower is shown as an architectural cutaway against a clean off-white/light-grey background, with thin schematic lines, depth labels, and floor numbers in a technical-blueprint font, all rendered in the game's flat geometric style. No illustrated humans, no earth tones. The reveal moment uses a clean horizontal \"slice\" wipe so the tower's interior pops open like a science diagram while preserving in-game lighting and bounce physics.",
+  "text_overlays": [
+    "How deep does it go?",
+    "Layer 50: Trap Maze",
+    "Layer 100: BOSS",
+    "Layer 250: ???",
+    "You quit at Layer 4.",
+    "Tap to descend"
+  ],
+  "cta": "Tap to Descend",
+  "rationale": "Voodoo's current Helix Jump rotation is dominated by silent, copy-less direct-gameplay videos and Unity playables — zero curiosity-driven \"what's hidden below\" framing. This brief imports the trending cross-section/reveal hook (underrepresented in their stack) and reskins it natively in the neon helix palette, giving UA a fresh thumb-stopper that promises depth and mystery instead of just showing the loop. Test against the Admob video baseline; the \"Layer ???\" tease is the IPM lever.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical mobile game screenshot, authentic in-game moment from Helix Jump: a 3D minimalist neon cyan (#5CE1E6) spiral helix tower shown as a vertical architectural cross-section cutaway against a soft light-grey background, stacked rotating disc platforms descending deep into the frame, small glowing neon-green (#39FF14) bouncing ball mid-bounce on an upper ring, scattered bright red (#FF0000) trap segments on lower rings, thin white schematic depth lines and floor-number labels along the right edge, score multiplier HUD '×3' top-left and high-score counter top-right in clean sans-serif, bold on-screen text overlay 'How deep does it go?' centered upper third, bright contrasting colors, simple geometric shapes, flat 3D minimalist render, no characters, no people, no illustrated humans, sharp clean edges, mobile game UI chrome",
+    "Storyboard frame mid-video, 9:16 vertical, authentic Helix Jump gameplay still: neon cyan (#5CE1E6) helix tower mid-rotation, small green (#39FF14) ball smashing through three stacked platforms in a combo streak, exploding shards of neon green debris, red (#FF0000) danger segments visible on adjacent rings, light minimalist background, score multiplier 'x5 COMBO' large bold overlay center-screen, top HUD shows current depth 'Layer 47', 3D minimalist with bright contrasting colors and simple geometric shapes, no character on screen, dynamic motion blur on the ball, in-game camera angle looking slightly down the tower axis",
+    "Storyboard CTA frame, 9:16 vertical, Helix Jump cross-section reveal: full vertical neon cyan (#5CE1E6) helix tower silhouette as an architectural diagram against off-white background, depth markers labeled 'Layer 10', 'Layer 100 BOSS' in red (#FF0000), 'Layer 250 ???' glowing neon green (#39FF14) at the bottom, a tiny ball icon stuck near the very top labeled 'YOU', large bold text overlay 'Tap to Descend' lower third, animated finger-tap icon on the helix, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, clean mobile game HUD, schematic blueprint feel rendered in the game's flat neon style"
+  ]
+}

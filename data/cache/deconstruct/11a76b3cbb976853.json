@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "11a76b3cbb976853",
+    "ad_unit_id": "11a76b3cbb976853",
+    "app_id": "55d9396602ac645ad201489c",
+    "advertiser_name": "Unibet Paris Sportifs et Poker",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/preview",
+    "phashion_group": "11a76b3cbb976853",
+    "share": null,
+    "first_seen_at": "2026-03-26T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "1ER PARI DOUBLÉ jusqu'à 100€ 🤝",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-contrast text reveal of a doubled first bet offer.",
+    "visual_action": "Bold yellow and white text overlays flash onto a vibrant green background, followed by a smartphone mockup showing the app interface.",
+    "text_overlay": "1ER PARI DOUBLÉ RECOIS JUSQU'À 100€ DE BONUS*",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Initial offer display with '1ER PARI DOUBLÉ' and '100€ DE BONUS' text.",
+    "Transition to a smartphone mockup showing the Unibet betting interface for a football match.",
+    "Call to action 'PLACE TON 1ER PARI' appears alongside the app UI.",
+    "Explanation of the promotion: 'ON TE VERSE LA MÊME SOMME EN CRÉDITS DE JEU'.",
+    "End card featuring the App Store listing and a 'JE TÉLÉCHARGE' button."
+  ],
+  "on_screen_text": [
+    "UNIBET",
+    "1ER PARI DOUBLÉ",
+    "RECOIS JUSQU'À 100€ DE BONUS*",
+    "PLACE TON 1ER PARI",
+    "ON TE VERSE LA MÊME SOMME EN CRÉDITS DE JEU",
+    "JE TÉLÉCHARGE"
+  ],
+  "cta_text": "JE TÉLÉCHARGE",
+  "cta_timing_seconds": 6.0,
+  "palette_hex": [
+    "#005a31",
+    "#f9ff00",
+    "#ffffff"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "French-speaking sports fans and casual bettors looking for a high-value welcome incentive.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001682
+}

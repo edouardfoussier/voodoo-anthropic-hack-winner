@@ -1,0 +1,386 @@
+{
+  "count": 11,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "e4df6b4cfcf177ad",
+      "app_id": "55c502b302ac64f9c0001fdb",
+      "network": "TikTok",
+      "phashion_group": "e4df6b4cfcf177ad",
+      "ad_type": "video",
+      "first_seen_at": "2024-10-25",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "e4df6b4cfcf177ad",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c634143cdc6060d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c634143cdc6060d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c634143cdc6060d/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Play now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c502b302ac64f9c0001fdb",
+        "canonical_country": "US",
+        "name": "Texas Hold'em Poker: Pokerist",
+        "publisher_name": "KamaGames",
+        "publisher_id": "5840c2760211a64f0b0001a5",
+        "humanized_name": "Texas Hold'em Poker",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/13/ed/a713ed3f-a921-0f25-2c97-d8e502e3a27e/AppIcon-com.iphonesoft3g.texaspoker-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c502b302ac64f9c0001fdb",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b3c96cade8debbc6",
+      "app_id": "55c5020a02ac64f9c0001f66",
+      "network": "TikTok",
+      "phashion_group": "b3c96cade8debbc6",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "b3c96cade8debbc6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/thumb",
+          "video_duration": 15,
+          "width": 2160,
+          "height": 3840,
+          "message": "You Know YOU Deserve it - Play Now & Enjoy!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5020a02ac64f9c0001f66",
+        "canonical_country": "US",
+        "name": "Slotomania Slots Casino Games",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "Slotomania Slots Casino Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/82/a8/2882a853-e34a-0d37-3c54-158f11f1a697/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5020a02ac64f9c0001f66",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "cd7902bc836246a3",
+      "app_id": "60c2ee36c168494d243056a1",
+      "network": "TikTok",
+      "phashion_group": "cd7902bc836246a3",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-04",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "cd7902bc836246a3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bffb87f9f5afc60/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bffb87f9f5afc60/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bffb87f9f5afc60/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "\u672c\u683c\u30dd\u30fc\u30ab\u30fc\u304c\u697d\u3057\u3081\u308b\u30a2\u30d7\u30ea\u3067\u4e2d\u6bd2\u8005\u7d9a\u51fa"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "60c2ee36c168494d243056a1",
+        "canonical_country": "JP",
+        "name": "\u3010\u30dd\u30fc\u30ab\u30fc\u3011\uff4dHOLD'EM(\u30a8\u30e0\u30db\u30fc\u30eb\u30c7\u30e0)",
+        "publisher_name": "Sammy Corporation",
+        "publisher_id": "561dbec03f07e2c9bd00029e",
+        "humanized_name": "\u3010\u30dd\u30fc\u30ab\u30fc\u3011\uff4dHOLD'EM",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/af/f4/6caff42d-5bf5-ecc3-3540-fe54633ab2c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "60c2ee36c168494d243056a1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f244c27f2c814231",
+      "app_id": "55c5020a02ac64f9c0001f66",
+      "network": "TikTok",
+      "phashion_group": "f244c27f2c814231",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-28",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f244c27f2c814231",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/40ab95c0490a5f5d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/40ab95c0490a5f5d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/40ab95c0490a5f5d/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "You Know YOU Deserve it - Play Now & Enjoy!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5020a02ac64f9c0001f66",
+        "canonical_country": "US",
+        "name": "Slotomania Slots Casino Games",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "Slotomania Slots Casino Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/82/a8/2882a853-e34a-0d37-3c54-158f11f1a697/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5020a02ac64f9c0001f66",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a5fbef83188ade41",
+      "app_id": "60c2ee36c168494d243056a1",
+      "network": "TikTok",
+      "phashion_group": "a5fbef83188ade41",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-16",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a5fbef83188ade41",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/537d554004b26482/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/537d554004b26482/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/537d554004b26482/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "\u672c\u683c\u30dd\u30fc\u30ab\u30fc\u304c\u697d\u3057\u3081\u308b\u30a2\u30d7\u30ea\u3067\u4e2d\u6bd2\u8005\u7d9a\u51fa"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "60c2ee36c168494d243056a1",
+        "canonical_country": "JP",
+        "name": "\u3010\u30dd\u30fc\u30ab\u30fc\u3011\uff4dHOLD'EM(\u30a8\u30e0\u30db\u30fc\u30eb\u30c7\u30e0)",
+        "publisher_name": "Sammy Corporation",
+        "publisher_id": "561dbec03f07e2c9bd00029e",
+        "humanized_name": "\u3010\u30dd\u30fc\u30ab\u30fc\u3011\uff4dHOLD'EM",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/af/f4/6caff42d-5bf5-ecc3-3540-fe54633ab2c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "60c2ee36c168494d243056a1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0f1d08a2d1f37cb0",
+      "app_id": "559edb17d2a0f9042f002a52",
+      "network": "TikTok",
+      "phashion_group": "0f1d08a2d1f37cb0",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-16",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "0f1d08a2d1f37cb0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/84b1c1ba25362fd4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/84b1c1ba25362fd4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/84b1c1ba25362fd4/thumb",
+          "video_duration": 12,
+          "width": 576,
+          "height": 1024,
+          "message": "Boost your skills"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "559edb17d2a0f9042f002a52",
+        "canonical_country": "US",
+        "name": "Casino Roulette: Roulettist",
+        "publisher_name": "KamaGames",
+        "publisher_id": "5840c2760211a64f0b0001a5",
+        "humanized_name": "Casino Roulette",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/59/b7/4159b7f9-67a5-8f4b-f767-f8d4a053a9d0/AppIcon-com.iphonesoft3g.roulette-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "559edb17d2a0f9042f002a52",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a5436f4d1a8c950d",
+      "app_id": "55c502b302ac64f9c0001fdb",
+      "network": "TikTok",
+      "phashion_group": "a5436f4d1a8c950d",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-09",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a5436f4d1a8c950d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "message": "Call or fold?"
+        },
+        {
+          "id": "efc558e0bb4eda8c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "message": "Show your skills!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c502b302ac64f9c0001fdb",
+        "canonical_country": "US",
+        "name": "Texas Hold'em Poker: Pokerist",
+        "publisher_name": "KamaGames",
+        "publisher_id": "5840c2760211a64f0b0001a5",
+        "humanized_name": "Texas Hold'em Poker",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/13/ed/a713ed3f-a921-0f25-2c97-d8e502e3a27e/AppIcon-com.iphonesoft3g.texaspoker-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c502b302ac64f9c0001fdb",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "8457d7521673cb07",
+      "app_id": "5fdc269d0dd7512c9bb6675f",
+      "network": "TikTok",
+      "phashion_group": "8457d7521673cb07",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-22",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "8457d7521673cb07",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7634a00ff874f21/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7634a00ff874f21/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7634a00ff874f21/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "\u6700\u65b0\u6a5f\u7a2e\u304c\u7121\u6599\u3067\u904a\u3079\u308b\uff01"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5fdc269d0dd7512c9bb6675f",
+        "canonical_country": "JP",
+        "name": "777Real(777\u30ea\u30a2\u30eb) \u30d1\u30c1\u30f3\u30b3\uff65\u30d1\u30c1\u30b9\u30ed\u30a2\u30d7\u30ea",
+        "publisher_name": "Sammy Corporation",
+        "publisher_id": "561dbec03f07e2c9bd00029e",
+        "humanized_name": "777Real(777\u30ea\u30a2\u30eb) \u30d1\u30c1\u30f3\u30b3\uff65\u30d1\u30c1\u30b9\u30ed\u30a2\u30d7\u30ea",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/72/0a/48720a22-b95f-8297-139e-ca2f616b5297/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5fdc269d0dd7512c9bb6675f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5aabb2c43028f069",
+      "app_id": "60c2ee36c168494d243056a1",
+      "network": "TikTok",
+      "phashion_group": "5aabb2c43028f069",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-12",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "5aabb2c43028f069",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b500bc6a980f9326/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b500bc6a980f9326/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b500bc6a980f9326/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "\u6709\u540d\u30a4\u30e9\u30b9\u30c8\u30ec\u30fc\u30bf\u30fc\u3084\u58f0\u512a\u9663\u304c\u624b\u639b\u3051\u308b\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u304c\u591a\u6570\u767b\u5834"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "60c2ee36c168494d243056a1",
+        "canonical_country": "JP",
+        "name": "\u3010\u30dd\u30fc\u30ab\u30fc\u3011\uff4dHOLD'EM(\u30a8\u30e0\u30db\u30fc\u30eb\u30c7\u30e0)",
+        "publisher_name": "Sammy Corporation",
+        "publisher_id": "561dbec03f07e2c9bd00029e",
+        "humanized_name": "\u3010\u30dd\u30fc\u30ab\u30fc\u3011\uff4dHOLD'EM",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/af/f4/6caff42d-5bf5-ecc3-3540-fe54633ab2c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "60c2ee36c168494d243056a1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c80e74766739b3e6",
+      "app_id": "5fdc269d0dd7512c9bb6675f",
+      "network": "TikTok",
+      "phashion_group": "c80e74766739b3e6",
+      "ad_type": "video",
+      "first_seen_at": "2025-07-04",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "c80e74766739b3e6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c0fc23c937cbd8b2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c0fc23c937cbd8b2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c0fc23c937cbd8b2/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "\uff3c\u30d1\u30c1\u30f3\u30b3\u30fb\u30d1\u30c1\u30b9\u30ed\u304c\u7121\u6599\u3067\u904a\u3079\u308b\uff01\uff0f"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5fdc269d0dd7512c9bb6675f",
+        "canonical_country": "JP",
+        "name": "777Real(777\u30ea\u30a2\u30eb) \u30d1\u30c1\u30f3\u30b3\uff65\u30d1\u30c1\u30b9\u30ed\u30a2\u30d7\u30ea",
+        "publisher_name": "Sammy Corporation",
+        "publisher_id": "561dbec03f07e2c9bd00029e",
+        "humanized_name": "777Real(777\u30ea\u30a2\u30eb) \u30d1\u30c1\u30f3\u30b3\uff65\u30d1\u30c1\u30b9\u30ed\u30a2\u30d7\u30ea",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/72/0a/48720a22-b95f-8297-139e-ca2f616b5297/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5fdc269d0dd7512c9bb6675f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

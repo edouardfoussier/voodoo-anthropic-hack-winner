@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "e6ce7e4fc722581e",
+    "ad_unit_id": "e6ce7e4fc722581e",
+    "app_id": "6178e7bfdb622901de5dd950",
+    "advertiser_name": "Pikmin Bloom",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/190b4315a28119a4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/190b4315a28119a4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/190b4315a28119a4/preview",
+    "phashion_group": "e6ce7e4fc722581e",
+    "share": null,
+    "first_seen_at": "2026-02-06T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Deine Pikmin begleiten dich, egal, wohin du gehst.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A diverse group of Pikmin wearing various costumes walk across a lush green field.",
+    "visual_action": "Multiple Pikmin with unique accessories like chef hats and acorns move around while a heart icon pops up.",
+    "text_overlay": "PIKMIN BLOOM",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A large group of Pikmin in different costumes walk together on a green field.",
+    "Focus shifts to a single red Pikmin consuming a glowing nectar drop.",
+    "The red Pikmin reacts with joy as a heart symbol and sparkles appear.",
+    "The leaf on the Pikmin's head transforms into a white flower.",
+    "Final screen displays the game logo and a download button in German."
+  ],
+  "on_screen_text": [
+    "PIKMIN BLOOM",
+    "Pikmin, immer mit dabei",
+    "Kostenlos herunterladen"
+  ],
+  "cta_text": "Kostenlos herunterladen",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#76C759",
+    "#FFFFFF",
+    "#E63946"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual gamers and Nintendo fans who enjoy collecting cute characters and light outdoor interaction.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001569
+}

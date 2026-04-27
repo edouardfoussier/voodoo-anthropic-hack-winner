@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "9731e3b48bd348e7",
+    "ad_unit_id": "9731e3b48bd348e7",
+    "app_id": "5cb9b9223ea98344e0401fcf",
+    "advertiser_name": "Tennis Clash：Sports Stars Game",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e3cf82017cfb803d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e3cf82017cfb803d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e3cf82017cfb803d/preview",
+    "phashion_group": "9731e3b48bd348e7",
+    "share": null,
+    "first_seen_at": "2026-03-30T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Slam dunk on the tennis court with Tennis Clash! 🎾\nThis game is for you if you're ready to crush some serious serves and volleys. ✨",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-intensity tennis rally with excited commentary.",
+    "visual_action": "Two players exchanging fast shots on a purple tennis court in a stadium setting.",
+    "text_overlay": "commentator: no way! NO WAY!",
+    "voiceover_transcript": "no way! NO WAY!",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Fast-paced tennis rally between two players in a stadium setting.",
+    "Dramatic dive and return shot by the player in the foreground.",
+    "Winning point scored followed by a transition to a cinematic character pose.",
+    "Final splash screen with game logo and 'PLAY' button."
+  ],
+  "on_screen_text": [
+    "SECOND SEMIFINAL",
+    "LEO 6 | 3 | 4 30",
+    "JONAH 4 | 6 | 5 30",
+    "TENNIS CLASH",
+    "commentator: no way! NO WAY!",
+    "PLAY",
+    "WILD LIFE"
+  ],
+  "cta_text": "PLAY",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#6A4C93",
+    "#4B7F52",
+    "#3A86FF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Competitive sports fans and casual gamers who enjoy fast-paced, high-stakes athletic simulations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001582
+}

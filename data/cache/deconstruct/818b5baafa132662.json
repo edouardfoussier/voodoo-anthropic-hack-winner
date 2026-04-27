@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "818b5baafa132662",
+    "ad_unit_id": "818b5baafa132662",
+    "app_id": "67f9b33c67bda8def67d85d8",
+    "advertiser_name": "Fanatics Casino - Real Money",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4d2b87eb0bf7bbd/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4d2b87eb0bf7bbd/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4d2b87eb0bf7bbd/preview",
+    "phashion_group": "818b5baafa132662",
+    "share": null,
+    "first_seen_at": "2026-04-02T00:00:00",
+    "last_seen_at": "2026-04-18T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "New customers get up to 1000 FREE SPINS on Triple Cash Eruption! Wager $10, get 100 free spins/day for 10 days!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Dramatic volcano visual with a bold promotional offer and high-energy voiceover.",
+    "visual_action": "A swirling red vortex over a lava landscape with large text overlays appearing.",
+    "text_overlay": "SPIN HOT, WIN HOTTER",
+    "voiceover_transcript": "Spin hot, win hotter. New customers get up to one thousand free spins",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Intro with dramatic volcano visuals and 'Spin Hot, Win Hotter' headline.",
+    "Presentation of the '1000 Free Spins' offer for new customers.",
+    "In-game footage showing a 'Big Win' animation on a mobile device.",
+    "Closing summary of the offer with a direct call to download the app."
+  ],
+  "on_screen_text": [
+    "TRIPLE CASH ERUPTION",
+    "Fanatics Casino",
+    "SPIN HOT, WIN HOTTER",
+    "New Customers 1000 FREE SPINS",
+    "Wager $10, get 100 free spins a day for 10 days on Triple Cash Eruption™",
+    "BIG WIN",
+    "Download Fanatics Casino now to play"
+  ],
+  "cta_text": "Download Fanatics Casino now to play",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#000000",
+    "#D32F2F",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult casino enthusiasts and sports bettors looking for high-value introductory offers.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001804
+}

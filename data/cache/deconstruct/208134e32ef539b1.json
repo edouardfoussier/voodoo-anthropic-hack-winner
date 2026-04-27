@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "208134e32ef539b1",
+    "ad_unit_id": "208134e32ef539b1",
+    "app_id": "63578175c82d250ace5dc66a",
+    "advertiser_name": "Mortal Kombat: Onslaught",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2cfac8cf2459f562/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2cfac8cf2459f562/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2cfac8cf2459f562/preview",
+    "phashion_group": "208134e32ef539b1",
+    "share": null,
+    "first_seen_at": "2026-04-11T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 7.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "WE DO NOT KNEEL.\nThe tournament begins. Give us your best Mortal Kombat katchphrase for a chance to be featured in our fan round-up. #MortalKombatMovie",
+    "button_text": "Get showtimes",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Introduction and combat sequence of the character Kitana.",
+    "visual_action": "Kitana poses with her fans and engages in fast-paced combat in two different environments.",
+    "text_overlay": "KITANA",
+    "voiceover_transcript": "We do not kneel.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Kitana is introduced in a dark arena holding her signature bladed fans.",
+    "Transition to a jungle fight where Kitana strikes an opponent.",
+    "Return to the arena for a sequence of acrobatic fan attacks and sweeps.",
+    "Close-up of Kitana throwing and catching her fan as the scene ends."
+  ],
+  "on_screen_text": [
+    "KITANA"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#0a0a0a",
+    "#1a3a5a",
+    "#4a5d23"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Male gamers and action movie fans aged 18-35 who enjoy high-intensity combat.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001224
+}

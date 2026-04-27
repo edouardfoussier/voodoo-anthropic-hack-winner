@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_M7mpfgXogwVVyNA1n2Fa8GHC?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTTdtcGZnWG9nd1ZWeU5BMW4yRmE4R0hDP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=S2ILEEauedV9iiaCnMxHt7j62moS5Lii344aQ3mnxtpxxHGoV5-NuTppcOR9fR5aceohyZzjf-HiBTQhawuT3QKCUl6-CftB6sxYBJMHKPMuFOEoJM4JfuFoONOhGMWBLvAs32GhURnJ%7EqYQQmhrfVwoo6rrFiJjnQDuu6KxeImQZRflDCbaffE0Yvo2k6IY5Kfjy8sCH8IH-co71Vo9VD3ert%7E8v29ULd9ASrMf6uv2tSmjm9mT6jomFcARrL1vk4l-bwTUge2I%7ETDVkKwjkxN1pSXCYrp6-JUI0z4Q2hfXHwBaZoMyJQgLeY5Fdi7N4IfEPOGxcdRsMadf7M3PAA__",
+  "job_id": "job_2ZEp5bpyVv5ziD3sMtJijVN1",
+  "asset_id": "asset_M7mpfgXogwVVyNA1n2Fa8GHC",
+  "stub": false,
+  "prompt": "Storyboard frame, 9:16 vertical aspect ratio, Push'em All cutaway diagram style frame: architectural cross-section of the level showing four themed underground floors beneath the sandy-green (#56a38b) surface platform \u2014 floor 1 normal red (#e3001b) stickman crowd, floor 2 ice-blue tinted, floor 3 lava-orange tinted, floor 4 a giant red boss stickman, surrounded by vibrant blue (#2a7dfa) water on the sides, clean labeled floors 'FLOOR 1 / FLOOR 2 / FLOOR 3 / BOSS', bold overlay text 'Wait... there are FLOORS?!', minimalist 3D flat-shaded simple stickman figures, bright contrasting colors, authentic Push'em All asset style not documentary realism. [Audio: VO (curious, rising) 'There are FLOORS?!' / energetic competitive synth riser 140bpm / elevator-ding on each floor label reveal, deep boss-roar SFX on bottom floor at 3.5s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

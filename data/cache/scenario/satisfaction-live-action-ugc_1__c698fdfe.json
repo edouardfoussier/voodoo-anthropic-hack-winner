@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_sbrFFTzAVDZLGDiQ58TH4VbL?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfc2JyRkZUekFWRFpMR0RpUTU4VEg0VmJMP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=G4Onzk9FAmSxv6QpgAp1RF7-UM3og--lgK2xBAzJhCmGySynybvzyB9YCtWahUqZq9A%7EamOrMZERoT4QPJ42LVeIABjLcFe7EjXIEtOpmax6lS6VMH0lNjeI8ps301OExFi9ux9pm50lgsZyERIqmYPe94CptALwZ5VG49Ueu012tmEp1aJxvsmYVNLdItZI6CtKYwP1z-Cx5ME1zxHSXnPG1Aka-MOS0phMsiM3Sl3m5SOAcRz08%7EtVKKJsmvJXxJ1%7EEyePcZPZEvMx5fMgqPDSAi6wmoucd3vZ43kXVLTjkdWVuqjFmSd57CQlW-B7wuqG9kjHQqCsUws%7Eec4w5g__",
+  "job_id": "job_nu7SrLBbSLHXo5oFXyCz9U7u",
+  "asset_id": "asset_sbrFFTzAVDZLGDiQ58TH4VbL",
+  "stub": false,
+  "prompt": "Storyboard frame, vertical 9:16: split composition \u2014 top two-thirds is warm grainy UGC bedroom footage of a young man's hands holding a vertical smartphone, face partially visible smiling, soft window daylight, messy white duvet; bottom third is the phone screen showing authentic Helix Jump gameplay \u2014 cyan #5CE1E6 helix tower discs, white ball falling through a #39FF14 green gap, a #FF0000 red trap ring just below, no on-screen character. Overlay text in white tilted sticker style: '\"why are you smiling at your phone?\"'. 3D minimalist with bright, contrasting colors and simple geometric shapes inside the phone; realistic UGC outside.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

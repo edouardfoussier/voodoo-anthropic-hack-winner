@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_Q5Kcw1RzV5opuedt8ME3WxNt?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9RNUtjdzFSelY1b3B1ZWR0OE1FM1d4TnQqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=c2OAmhRb9jKpw34PLvgpGODIdjcMoDso%7EnzPAI1sRsulfxSW4DX%7ERXwnr1Wj-TLxuDZLuJszgwWiP6YmM1FgqFqhuGvuYCtmq%7EJKv6IOEGo1zdl8JzF-4Gf6s7dplPOzE6uVUqPzQTRZ5BbIlqaSX0g-9Am7fL0x6OfMlgTlr%7EUccAVz%7EoCTPMGLVF38WUsBbzO5J8TmFPeztdnH0WWWQofGudTTDrJEUtEABW173pS4t0ovOnDd081f%7Ecvao-CWV8mAJS0cjdZW1zG5gaUpzWowGy68Iu1fHS1hWuorbyVetkhhWcV7njcvAPffc8A5QbXxIgOcjHkFjwJqGMmK3g__",
+  "job_id": "job_f13BC5ZoWqT5oKXBXaJ8EfWf",
+  "asset_id": "asset_Q5Kcw1RzV5opuedt8ME3WxNt",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Storyboard end card, aspect 9:16, Paper.io 2 logo centered on a neon grid floor with #FFD700 #00BFFF #FF00FF territory tiles radiating outward, minimalist 3D top-down with bright solid colors, glowing 'Play Free' CTA button pulsing at bottom, faint % bar and coin HUD framing, on-screen text 'Can YOU survive?'. [Audio: VO (punchy): 'Can you survive?' / energetic competitive synth stinger 130 BPM / UI click on CTA, rising whoosh into logo reveal]",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": true,
+  "audio": false
+}

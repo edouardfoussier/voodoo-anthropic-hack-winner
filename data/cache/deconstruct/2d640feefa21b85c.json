@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "2d640feefa21b85c",
+    "ad_unit_id": "2d640feefa21b85c",
+    "app_id": "60fb6ed2ea6f9e5e0737e01c",
+    "advertiser_name": "Jackpot Master - Slots - Casino",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/preview",
+    "phashion_group": "2d640feefa21b85c",
+    "share": null,
+    "first_seen_at": "2026-01-17T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A high-contrast re-engagement screen promising a massive coin bonus.",
+    "visual_action": "A cartoon bee mascot pulses while holding gold coins against a background of falling currency.",
+    "text_overlay": "WE MISS YOU COME BACK TO WIN 99,999,999,999 COINS & GEMS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction of the 'We Miss You' re-engagement offer with a massive 99 billion coin balance.",
+    "Subtle pulsing animation on the 'START' button to drive user interaction.",
+    "Persistent display of the reward breakdown and legal disclaimer to establish legitimacy."
+  ],
+  "on_screen_text": [
+    "WE MISS YOU",
+    "COME BACK TO WIN",
+    "99,999,999,999",
+    "COINS & GEMS",
+    "START",
+    "*Total amount includes coins, gems, gift spins, chips, etc."
+  ],
+  "cta_text": "START",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFD700",
+    "#FF4500",
+    "#32CD32"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual social casino players who have lapsed and are motivated by massive virtual currency rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015179999999999998
+}

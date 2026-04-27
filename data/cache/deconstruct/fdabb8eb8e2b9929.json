@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "fdabb8eb8e2b9929",
+    "ad_unit_id": "fdabb8eb8e2b9929",
+    "app_id": "644c8bf45d8ef66c95a36ed2",
+    "advertiser_name": "StarGames: Slots mit Echtgeld",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/026a882e1b57fb58/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/026a882e1b57fb58/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/026a882e1b57fb58/preview",
+    "phashion_group": "fdabb8eb8e2b9929",
+    "share": null,
+    "first_seen_at": "2026-02-28T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Die StarGames-iOS-App macht Ihr Spiel flexibler! 🚀 Jetzt holen und Slots auf dem iPhone genießen.",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A blonde character whispers 'shh' to the viewer against a pink background.",
+    "visual_action": "Character puts finger to lips in a whispering gesture.",
+    "text_overlay": "STARGAMES",
+    "voiceover_transcript": "Pst. Es knistert in der Luft.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Animated blonde woman whispers to the camera.",
+    "Close-up of a mobile phone playing Lucky Lady's Charm Deluxe slot.",
+    "Text overlay announcing up to 100 free spins.",
+    "StarGames logo reveal with BVB partnership branding.",
+    "Final call to action to download the app."
+  ],
+  "on_screen_text": [
+    "STARGAMES",
+    "Lucky Lady's Charm deluxe",
+    "BIS ZU 100 FREISPIELE!",
+    "BVB 09 PREMIUM PARTNER",
+    "JETZT DOWNLOADEN"
+  ],
+  "cta_text": "JETZT DOWNLOADEN",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#FFD700",
+    "#000000",
+    "#C71585"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "German-speaking adults interested in mobile casino games and sports betting.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016419999999999998
+}

@@ -1,0 +1,396 @@
+{
+  "count": 2608,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "ef1402a924956332",
+      "app_id": "594990020211a674a00013c6",
+      "network": "Facebook",
+      "phashion_group": "ef1402a924956332",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-12",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "ef1402a924956332",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71115af62aa08b79/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71115af62aa08b79/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71115af62aa08b79/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "What are you waiting for?",
+          "button_text": "Play Game",
+          "message": "Don't Miss Out On Your Gifts!\nCome Back Now And Collect Them!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "594990020211a674a00013c6",
+        "canonical_country": "US",
+        "name": "Solitaire Grand Harvest",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "Solitaire Grand Harvest",
+        "icon_url": "https://play-lh.googleusercontent.com/4dsPtcGXkfF3ylgSZgkb54ay86InZVQdKvs6UrBwYdsCPpv1AegcN_V38sWqCqopDPsGYiPvQ48mgY5lyMtdzw=s150",
+        "os": "unified",
+        "id": "594990020211a674a00013c6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a501f1d09aa3b810",
+      "app_id": "582219400211a6c9240005fc",
+      "network": "Facebook",
+      "phashion_group": "a501f1d09aa3b810",
+      "ad_type": "video",
+      "first_seen_at": "2025-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a501f1d09aa3b810",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Now",
+          "button_text": "Play Game",
+          "message": "Fun puzzles & stories."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "582219400211a6c9240005fc",
+        "canonical_country": "US",
+        "name": "Gardenscapes",
+        "publisher_name": "Playrix",
+        "publisher_id": "5614b8de3f07e25d29001b9e",
+        "humanized_name": "Gardenscapes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/64/1e1964c3-4291-3b5f-c6e0-dae70c445d99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "582219400211a6c9240005fc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d683378596d7773",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "5d683378596d7773",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "5d683378596d7773",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3ec1beb98ec9c392",
+      "app_id": "6495957f54a0f87c94cce15f",
+      "network": "Facebook",
+      "phashion_group": "3ec1beb98ec9c392",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "3ec1beb98ec9c392",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a5499fea41ef51d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a5499fea41ef51d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a5499fea41ef51d/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "title": "Create Your Dream Venue Today! \ud83c\udff0\u2728",
+          "button_text": "Install Now",
+          "message": "From weddings \ud83d\udc8d to corporate events, it\u2019s your chance to build and run the perfect venue. 'Venue' gives you the freedom to design, manage, and succeed in style! \ud83c\udfa9"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6495957f54a0f87c94cce15f",
+        "canonical_country": "US",
+        "name": "Venue - Relaxing Design Games",
+        "publisher_name": "Superbloom",
+        "publisher_id": "6628546fa7e2ff623fcca4e0",
+        "humanized_name": "Venue - Relaxing Design Games",
+        "icon_url": "https://play-lh.googleusercontent.com/XUEaRmJcqykvbRQlrkhloBwZFD8NYF6QfQHQokbDLw9KHlnMHQwfJnxDk7ZMuOUUxjSElrje3BppJHT97ISo=s150",
+        "os": "unified",
+        "id": "6495957f54a0f87c94cce15f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fa6825f7e7a079ca",
+      "app_id": "55d3a1a802ac64350a000d6e",
+      "network": "Facebook",
+      "phashion_group": "fa6825f7e7a079ca",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-25",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "fa6825f7e7a079ca",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/839b9875739f9ae7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/839b9875739f9ae7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/839b9875739f9ae7/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Skill-building siblings",
+          "button_text": "Learn More",
+          "message": "For three neurodivergent kids, Roblox isn\u2019t a game changer. It\u2019s a life changer."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d3a1a802ac64350a000d6e",
+        "canonical_country": "US",
+        "name": "Roblox",
+        "publisher_name": "Roblox",
+        "publisher_id": "560c44d98ac3506439005015",
+        "humanized_name": "Roblox",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/dd/94/65dd942b-8464-d063-bdc2-c818c136e301/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d3a1a802ac64350a000d6e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f451eb4c03a87e76",
+      "app_id": "55d3a1a802ac64350a000d6e",
+      "network": "Facebook",
+      "phashion_group": "f451eb4c03a87e76",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-10",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "f451eb4c03a87e76",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d7907b6332630a1d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d7907b6332630a1d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d7907b6332630a1d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Creation runs in the family",
+          "button_text": "Learn More",
+          "message": "Like son, like father. Roblox inspires families to create worlds together."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d3a1a802ac64350a000d6e",
+        "canonical_country": "US",
+        "name": "Roblox",
+        "publisher_name": "Roblox",
+        "publisher_id": "560c44d98ac3506439005015",
+        "humanized_name": "Roblox",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/dd/94/65dd942b-8464-d063-bdc2-c818c136e301/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d3a1a802ac64350a000d6e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a769988dcfd411af",
+      "app_id": "62fe6a2713c3dd10370345d8",
+      "network": "Facebook",
+      "phashion_group": "a769988dcfd411af",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-15",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "a769988dcfd411af",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Try Jolly Match \ud83d\udc49",
+          "button_text": "Play Game",
+          "message": "Everyone thinks Match 3 is boring... until they try Jolly Match\ud83d\ude00"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "62fe6a2713c3dd10370345d8",
+        "canonical_country": "US",
+        "name": "Jolly Match 3 - Puzzle Game",
+        "publisher_name": "JollyCo",
+        "publisher_id": "5c9d6e6c26a47257c3633ae9",
+        "humanized_name": "Jolly Match 3",
+        "icon_url": "https://play-lh.googleusercontent.com/VFMYyaFq_E7zhj9SrdiW5ozOtWBXXoewzai0ipAbOGKZwtZWbWLClX3kJFNyVz-V-CV106hhwyFyrkGh8pJg710=s150",
+        "os": "unified",
+        "id": "62fe6a2713c3dd10370345d8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e0a8ce4fe65b7056",
+      "app_id": "55c01a43e6d79ac5ed0599e3",
+      "network": "Facebook",
+      "phashion_group": "e0a8ce4fe65b7056",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-22",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "e0a8ce4fe65b7056",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7a8dc0e928bc40e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7a8dc0e928bc40e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7a8dc0e928bc40e/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Make Graduation Extra Special \ud83c\udf93",
+          "button_text": "Shop Now",
+          "message": "It\u2019s time to celebrate the Class of 2026! \ud83c\udf93 Furry friends make thoughtful surprises and cuddly keepsakes \u2013 and our online Graduation Giftshop makes it easy to send celebratory hugs their way!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c01a43e6d79ac5ed0599e3",
+        "canonical_country": "US",
+        "name": "Promise Pets by Build-A-Bear: A Virtual Pet Game",
+        "publisher_name": "Build-A-Bear Workshop",
+        "publisher_id": "561549153f07e25d290435c3",
+        "humanized_name": "Promise Pets by Build-A-Bear",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple42/v4/50/50/35/5050359d-f544-b900-224e-0df4a970d455/mzl.sqwnxxcn.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c01a43e6d79ac5ed0599e3",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e97cea064e36fc2a",
+      "app_id": "618499119e5ed235096241dc",
+      "network": "Facebook",
+      "phashion_group": "e97cea064e36fc2a",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-12",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "e97cea064e36fc2a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "School Hours? Bingo Time!",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "618499119e5ed235096241dc",
+        "canonical_country": "US",
+        "name": "Bingo Card Klondike Adventures",
+        "publisher_name": "Brightika",
+        "publisher_id": "5febff86d5651249c37b078b",
+        "humanized_name": "Bingo Card Klondike Adventures",
+        "icon_url": "https://play-lh.googleusercontent.com/iAkjsxv0dQFFtLHIp-xKZK-Vljbf2siokJohxVT_b2bTIvJRSIvdAMl40tvoqwykY7_CNBIxMt15rWRj8TiUVw=s150",
+        "os": "unified",
+        "id": "618499119e5ed235096241dc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "4e8b4314eaa4a694",
+      "app_id": "67d61d6845ea3db694554f49",
+      "network": "Facebook",
+      "phashion_group": "4e8b4314eaa4a694",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "4e8b4314eaa4a694",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Train Your Brain with Gecko Out",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67d61d6845ea3db694554f49",
+        "canonical_country": "US",
+        "name": "Gecko Out",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Gecko Out",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/9a/c0/099ac025-8303-98b3-32f3-8dbdebc1ab48/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "67d61d6845ea3db694554f49",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

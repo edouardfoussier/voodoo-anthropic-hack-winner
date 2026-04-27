@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "6754558455",
+  "title": "Drop & Resolve: ASMR Marble Cascade",
+  "hook_3s": "Pastel marbles tumble in slow-mo, plinking onto a lavender conveyor — one tap unleashes a chain of perfect color-matched drops.",
+  "scene_flow": [
+    "0-3s: Macro close-up of glossy pastel marbles trembling inside a tray, a finger taps — marbles cascade in buttery slow-mo with crisp 'plink' SFX onto the lavender conveyor.",
+    "3-7s: Camera pulls back to reveal the full Marble Sort! machine; conveyor moves marbles toward color-coded boxes, each marble drops with a satisfying 'thunk' into its matching slot, boxes glow on match.",
+    "7-11s: Difficulty ramps — multiple trays release at once, near-miss as a blue marble almost hits the yellow box; player taps to pause the tray just in time, ASMR click as it lands correctly.",
+    "11-14s: Level-clear burst: orange confetti pops, all boxes fill, satisfying chime stack, screen tilts into a gleaming 'LEVEL 12' card.",
+    "14-15s: CTA card — pastel lavender background, orange button pulses: 'Play Free'."
+  ],
+  "visual_direction": "Lean fully into the game's existing pastel lavender (#E5DFFF) and light grey (#F0F0F8) palette with the orange (#FFB13B) reserved for highlights, button glows, and the level title. Clean 3D cartoon render, soft rounded marbles with subtle subsurface gloss, no characters. Shoot tight macro angles for ASMR intimacy in the first 3s, then a clean 3/4 isometric of the full machine — identical framing to the actual in-game camera. Motion is slow, weighty, physics-driven; sound design is the star (plinks, thunks, soft chimes). Avoid the Suika red/pink/brown fruit palette entirely — translate the 'drop & resolve' satisfaction beat into Marble Sort's own visual grammar.",
+  "text_overlays": [
+    "Can you resist the drop?",
+    "Tap to release →",
+    "Match every color",
+    "Oddly satisfying 😌",
+    "LEVEL 12 CLEAR",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current rotation leans on plain \"simple mechanics / right color, right box\" explainer copy with no sensory or ASMR framing — this brief brings the trending Suika-style 'drop & resolve' satisfaction hook that's winning in the market but is absent from their lineup, translated faithfully into Marble Sort's pastel sorting loop (no fruit, no merge bait-and-switch). Test against the existing Youtube explainer creatives; expect lift on female 25-55 thumb-stop rate via macro/ASMR opening. If CTR holds, fork a sound-on variant and a 'near-miss' tension cut.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic in-game screenshot of Marble Sort!: macro close-up of glossy pastel-colored marbles (lavender, mint, peach, soft yellow) mid-fall in slow motion from a light grey rounded tray onto a moving light grey conveyor belt, color-coded sorting boxes visible below, soft lavender #E5DFFF background, light grey #F0F0F8 machine chrome, vibrant orange #FFB13B accent on the level counter HUD top-center, clean and colorful 3D cartoon style with soft rounded shapes, no characters, subtle motion blur on falling marbles, on-screen text overlay 'Can you resist the drop?' in bold rounded orange typography, soft studio lighting, depth of field, tactile and satisfying mood.",
+    "Storyboard frame, aspect 9:16, authentic in-game view of Marble Sort!: 3/4 isometric shot of the full sorting machine — multiple trays at top, light grey conveyor belt moving pastel marbles across the middle, four color-coded drop boxes (lavender, mint, peach, orange) at the bottom with one box glowing orange #FFB13B on a successful match, soft pastel lavender #E5DFFF backdrop, light grey #F0F0F8 machine, clean colorful 3D cartoon style with rounded soft shapes, no characters, HUD shows level progress bar and tap-prompt finger icon, on-screen text overlay 'Match every color' in rounded white-on-orange pill, calm and satisfying lighting.",
+    "Storyboard frame, aspect 9:16, authentic Marble Sort! level-clear moment: all four sorting boxes filled with correctly colored pastel marbles, soft orange #FFB13B confetti burst radiating from the machine, lavender #E5DFFF background, light grey #F0F0F8 machine body, clean 3D cartoon style with soft rounded shapes, no characters present, glowing 'LEVEL 12 CLEAR' banner in bold orange rounded type centered on screen, sparkle particles, celebratory but calm satisfying mood, gentle bloom lighting."
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "dab02f7b99afab4b",
+    "ad_unit_id": "dab02f7b99afab4b",
+    "app_id": "55d93b9302ac645ad207f208",
+    "advertiser_name": "Betfair Sports Betting",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92846e12ec11196e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92846e12ec11196e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92846e12ec11196e/preview",
+    "phashion_group": "dab02f7b99afab4b",
+    "share": null,
+    "first_seen_at": "2025-12-01T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🎰 Introducing Brett Flair & The New Slots\nDropping the newest games every week on Betfair Casino.\n18+ | T&Cs apply | Please gamble responsibly.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A man in a vibrant yellow fur coat announces weekly new slot releases.",
+    "visual_action": "A man wearing a bright yellow faux-fur coat and matching flat cap speaks directly to the camera in a narrow urban alleyway.",
+    "text_overlay": "We've got New Slots dropping every week",
+    "voiceover_transcript": "We've got new slots dropping every week.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Man in yellow fur coat addresses the camera directly in a street setting.",
+    "Text overlays highlight the frequency of new slot additions.",
+    "Man points to the viewer while mentioning the brand name and latest releases."
+  ],
+  "on_screen_text": [
+    "We've got New Slots",
+    "dropping every week",
+    "releases at Betfair Casino",
+    "18+ GambleAware",
+    "betfair CASINO"
+  ],
+  "cta_text": "releases at Betfair Casino",
+  "cta_timing_seconds": 3.0,
+  "palette_hex": [
+    "#FFD700",
+    "#A9A9A9",
+    "#000000"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Adult male casino enthusiasts in the UK who respond to high-energy, personality-driven promotional content.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001286
+}

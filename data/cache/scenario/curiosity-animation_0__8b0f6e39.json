@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_dGDkKtpRk2GX3GTazs7TktXv?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZEdEa0t0cFJrMkdYM0dUYXpzN1RrdFh2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=TZs-2wKH84D4Heb5He21SRQE1LOsT4B32VEMXkIW5xb-7J-H45TU%7EozEusuKdqIMj%7EE1BFobFzE2gRHYou7fVizmLroYNzYZkXuxqt%7ETYmHmU1xk3i0ZRoPuiNx7YDzxFWZeuIChtI3Kn-MNM2CQdtstlijr1RiAG4ShqfMdWeF3YKVp-lnXOL-v31cZmJuNAr1fhQ38NiGv1TWoggv2wsMxxeuOEsYntM%7Ewz2qednom2dwoL3iiMRGHZtPJBYiWxAq4qJARAhzFaiiZhj1hcpeYDtxYyJ4Brli3M3ATDpxcTVDCD20K4mGqQ2DhIoPCwkDClPc0rEnP9D2N4fyQWg__",
+  "job_id": "job_uG2upLuzTGhr4AE3kFvNkUpE",
+  "asset_id": "asset_dGDkKtpRk2GX3GTazs7TktXv",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16: in-game screenshot of aquapark.io, low-angle third-person view of a cartoon animal racer on a translucent inner tube sliding down a glossy white #ffffff water slide chute, bright #42bcf5 turquoise water rushing beneath, glowing cyan-and-#ff8c1c orange energy rings pulsing around the inner tube as a charge-up VFX, soft rainbow halo behind the racer, race progress bar and power-up icons visible at top of HUD, leaderboard chip in corner, 3D low-poly bright colorful cartoonish style, on-screen text 'Charging\u2026' in bold white sans-serif with orange outline.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

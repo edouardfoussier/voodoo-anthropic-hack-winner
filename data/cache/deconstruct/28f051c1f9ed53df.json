@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "28f051c1f9ed53df",
+    "ad_unit_id": "28f051c1f9ed53df",
+    "app_id": "641484dd02fbee78c17c735e",
+    "advertiser_name": "Bingo Voyage: Live Bingo Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4700917e12aa0bc1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4700917e12aa0bc1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4700917e12aa0bc1/preview",
+    "phashion_group": "28f051c1f9ed53df",
+    "share": null,
+    "first_seen_at": "2025-11-22T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "🐰 Fair! Free! Fun! 🥚 No purchase needed! No rigged games! Grab your Easter luck for FREE! 🚢🍀",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid-fire bingo wins with festive Santa overlays and high-energy calling.",
+    "visual_action": "A hand taps bingo cards as multiple 'Triple' and 'Quadra' bingo pop-ups appear over a 6-card layout.",
+    "text_overlay": "QUADRA BINGO",
+    "voiceover_transcript": "O 70... G 51... I 18...",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Fast-paced gameplay showing multiple bingo cards being filled simultaneously with celebratory pop-ups.",
+    "Santa Claus 'Jackpot Bingo' overlays cover all active cards in quick succession as numbers are called.",
+    "Transition to a festive winter landscape featuring Santa, Mrs. Claus, and a snowman.",
+    "Final end card with game logo, search bar, and 'Play Now' call to action."
+  ],
+  "on_screen_text": [
+    "O 70",
+    "G 47",
+    "I 18",
+    "G 59",
+    "QUADRA BINGO",
+    "TRIPLE BINGO",
+    "JACKPOT BINGO",
+    "N 40",
+    "B 14",
+    "Bingo Voyage",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#1E90FF",
+    "#FF0000",
+    "#FFD700"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual players, particularly seniors and bingo enthusiasts, who enjoy festive themes and high-frequency winning mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001832
+}

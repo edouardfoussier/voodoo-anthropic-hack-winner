@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Mj4rYnq3RLtJXuMNk7RQUH4a?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTWo0cllucTNSTHRKWHVNTms3UlFVSDRhP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Ta2afsOuS8Z4uxos7djDEGwUyDIZvIaiUw%7E7OOGbfUCA6ICJhbp02vq8cZ8ZKEC0MXCnsQAt3gco5t15y78TISVZ0Gzd8iRigrB-%7EerdglyZ2HE-%7EhxDdUUWHkjBOR1D-h9TpuIoqcxgFJmkCQhBvUAAnNEjT30SNkZ3uuw6jGj%7EL99Z%7EpB56xOfM4xro8bHWfaQlSrWa41evc6L5nc1egothIdYvia8dYCSf4RlsobPcDwrUR1IqXji6xuD7ri-gr93Z5ZxO%7ECXaw8o-S1tEvFcYw1qd9AyaX4qVAskFvNbAY-0a72sKtvAVZ2TAgsOu3SJu8IDV3oCGi%7Ev2x%7ELCQ__",
+  "job_id": "job_dcRsj7GoyTTxDoeEbRhrwcJV",
+  "asset_id": "asset_Mj4rYnq3RLtJXuMNk7RQUH4a",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, top-down Crowd City in-game shot: a shrinking #FF0000 red stickman crowd of ~22 figures fleeing down a narrow pastel low-poly alley, chased by a large #0000FF blue stickman swarm filling the street behind, a glowing cluster of #00FF00 green neutral stickmen waiting at the alley exit, low-poly colorful 3D city with simple stickman-like character models, native HUD timer ticking red, crowd counters above swarms, bold white overlay 'CAN YOU WIN?' centered, cinematic motion blur on running figures",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

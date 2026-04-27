@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "197ba02e72c45d92",
+    "ad_unit_id": "197ba02e72c45d92",
+    "app_id": "62953454fd69866b6a658256",
+    "advertiser_name": "鋼の錬金術師 MOBILE",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bf296f5ba267b01/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bf296f5ba267b01/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bf296f5ba267b01/preview",
+    "phashion_group": "197ba02e72c45d92",
+    "share": null,
+    "first_seen_at": "2026-01-02T00:00:00",
+    "last_seen_at": "2026-03-31T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Mille façons de jouer",
+    "button_text": "En savoir plus",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A cinematic introduction to the vibrant world and diverse activities of Final Fantasy XIV.",
+    "visual_action": "A Miqo'te character looks at the camera, followed by scenes of characters playing music and crafting.",
+    "text_overlay": "JOUEZ GRATUITEMENT FINAL FANTASY XIV ONLINE",
+    "voiceover_transcript": "Rejoignez un monde merveilleux dans Final Fantasy XIV Online.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction to the game's world and characters with a call to join.",
+    "Montage of non-combat activities like music, fishing, and blacksmithing.",
+    "Action sequences showcasing solo and cooperative combat.",
+    "Travel montage featuring a character riding a Chocobo.",
+    "Final call to action screen with platform logos and free trial information."
+  ],
+  "on_screen_text": [
+    "JOUEZ GRATUITEMENT FINAL FANTASY XIV ONLINE",
+    "16 www.pegi.info",
+    "COMMENCE VOTRE AVENTURE DÈS AUJOURD'HUI !",
+    "JOUEZ GRATUITEMENT",
+    "ESSAI GRATUIT FFXIV",
+    "PS5, PS4, XBOX SERIES X|S, PC",
+    "SQUARE ENIX"
+  ],
+  "cta_text": "JOUEZ GRATUITEMENT",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#87CEEB",
+    "#9370DB",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of anime and MMORPGs looking for a free-to-play fantasy adventure.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018640000000000002
+}

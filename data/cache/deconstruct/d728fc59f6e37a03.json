@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "d728fc59f6e37a03",
+    "ad_unit_id": "d728fc59f6e37a03",
+    "app_id": "67ecf5e455b6d71ffc36536e",
+    "advertiser_name": "크랙 - 즉흥 서사 플레이, AI 채팅",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b861008e7341dd1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b861008e7341dd1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b861008e7341dd1/preview",
+    "phashion_group": "d728fc59f6e37a03",
+    "share": null,
+    "first_seen_at": "2025-12-31T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "남녀역전! 신병의 수상한 여군생활~❤️\n#남녀역전군대 #크랙 #밀리터리 #여캐플",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Static anime-style collage of three female characters in military and casual attire.",
+    "visual_action": "A static illustration featuring three anime girls against a vibrant pink background with bold Korean text overlays.",
+    "text_overlay": "도도한 중대장님? ㅋㅋ",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Static display of three anime characters in military-themed outfits with a pink background.",
+    "Korean text overlays describing the game's premise of dating a superior officer."
+  ],
+  "on_screen_text": [
+    "바나나툰 인기소설 <남녀역전군대>",
+    "도도한 중대장님? ㅋㅋ",
+    "상관하고 연애하기"
+  ],
+  "cta_text": "상관하고 연애하기",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FF4081",
+    "#4B5320",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Young adult males interested in anime-style dating simulators and military-themed romance stories.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001347
+}

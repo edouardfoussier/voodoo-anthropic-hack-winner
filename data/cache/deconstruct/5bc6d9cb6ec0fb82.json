@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "5bc6d9cb6ec0fb82",
+    "ad_unit_id": "5bc6d9cb6ec0fb82",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/preview",
+    "phashion_group": "5bc6d9cb6ec0fb82",
+    "share": null,
+    "first_seen_at": "2025-02-23T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 7.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Energy guns, lasers and rockets - equip your robot and annihilate your opponents!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A giant mech jumps into a canyon and immediately engages an enemy in a high-intensity firefight.",
+    "visual_action": "Third-person perspective of a blue and red robot jumping and firing missiles at a red-outlined enemy.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Robot jumps into a canyon to engage an enemy robot.",
+    "Intense exchange of missile fire and energy beams creates a smoke-filled battlefield.",
+    "Player achieves a kill and immediately pivots to target a new enemy across the river."
+  ],
+  "on_screen_text": [
+    "KILL",
+    "[Sheriff Magnetar]",
+    "[Zenit]",
+    "[Experimental Spark]",
+    "Pilot Y52JTA"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#2C3E50",
+    "#7F8C8D",
+    "#E74C3C"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy competitive multiplayer mech combat and tactical shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001266
+}

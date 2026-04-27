@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "80fc0460d6a6dacb",
+    "ad_unit_id": "80fc0460d6a6dacb",
+    "app_id": "55fac6f202ac64c13c000081",
+    "advertiser_name": "Quick Hit Casino - Vegas Slots",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/39225dcedd8d24a1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/39225dcedd8d24a1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/39225dcedd8d24a1/preview",
+    "phashion_group": "80fc0460d6a6dacb",
+    "share": null,
+    "first_seen_at": "2025-01-09T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "6,000,000 Welcome Free Coins",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Pigs in hard hats pop up from holes in a Whac-A-Mole style game in front of a slot machine mansion.",
+    "visual_action": "Pigs and a wolf pop up from holes in the ground in front of a large slot machine building.",
+    "text_overlay": "Huff N' Puff MONEY MANSION",
+    "voiceover_transcript": "Hehehe",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Pigs in construction hats pop up from holes in the foreground.",
+    "A wolf character pops up and laughs mischievously among the pigs.",
+    "The background features a 'Money Mansion' slot machine displaying various jackpot values.",
+    "The animation loops the popping pigs and wolf while the 'PLAY NOW!' button remains static."
+  ],
+  "on_screen_text": [
+    "Quick Hit SLOTS",
+    "Huff N' Puff MONEY MANSION",
+    "MAJOR $200,000",
+    "MINI $1,000",
+    "MINOR $5,000",
+    "PLAY NOW!"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFD700",
+    "#B22222",
+    "#228B22"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults 40+ who enjoy casual casino games and classic slot machine mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001738
+}

@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "f0b19f737bf7f389",
+    "ad_unit_id": "f0b19f737bf7f389",
+    "app_id": "682bcbd125e9f7477c41dde5",
+    "advertiser_name": "FIFA Rivals - Mobile Soccer",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/24087fc62c62dd53/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/24087fc62c62dd53/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/24087fc62c62dd53/preview",
+    "phashion_group": "f0b19f737bf7f389",
+    "share": null,
+    "first_seen_at": "2026-01-29T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Officially licensed FIFA® Football Game!",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A glowing soccer ball pulses with electricity on a pitch before revealing legendary player cards.",
+    "visual_action": "A soccer ball on a field pulses with electricity and opens to reveal player cards.",
+    "text_overlay": "UNLOCK LEGENDS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A glowing soccer ball pulses with electricity on a pitch.",
+    "Rapid reveal of high-tier player cards like Ronaldo and Correa.",
+    "More player cards are revealed in quick succession with flashy effects.",
+    "Final logo reveal with FIFA RIVALS and app store links.",
+    "Closing screen with the tagline YOUR PATH TO FIFA WORLD CUP 26 STARTS HERE."
+  ],
+  "on_screen_text": [
+    "UNLOCK LEGENDS",
+    "CRISTIANO RONALDO",
+    "ANGEL CORREA",
+    "JORDAN PICKFORD",
+    "HUGO EKITIKE",
+    "GABRIEL",
+    "LAUTARO MARTINEZ",
+    "RIVALS",
+    "FIFA RIVALS",
+    "YOUR PATH TO FIFA WORLD CUP 26 STARTS HERE"
+  ],
+  "cta_text": "Download on the App Store / Get it on Google Play",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#000000",
+    "#FFD700",
+    "#00AEEF"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Male soccer fans and gamers aged 13-35 who enjoy card collection and sports management games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016589999999999999
+}

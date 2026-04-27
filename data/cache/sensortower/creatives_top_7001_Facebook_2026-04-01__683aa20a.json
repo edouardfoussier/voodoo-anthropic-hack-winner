@@ -1,0 +1,407 @@
+{
+  "count": 402,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "5d683378596d7773",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "5d683378596d7773",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "5d683378596d7773",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b5d9e57e3a6a4288",
+      "app_id": "6153b4a2f3e690163b93ec0b",
+      "network": "Facebook",
+      "phashion_group": "b5d9e57e3a6a4288",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "b5d9e57e3a6a4288",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Best PvP Shooter on mobile \ud83c\udf96\ufe0f",
+          "button_text": "Play Game",
+          "message": "\ud83d\udd12 Lock on. \ud83c\udfaf Fire. \ud83d\udca5 Destroy the enemy in real PvP matches."
+        },
+        {
+          "id": "e45eccfea9235ac6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Best PvP Shooter on mobile \ud83c\udf96\ufe0f",
+          "button_text": "Play Game",
+          "message": "Customize your loadout, master the dogfight, climb the global leaderboards. Play now.\ud83d\udcc8\ud83c\udf0d"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6153b4a2f3e690163b93ec0b",
+        "canonical_country": "US",
+        "name": "Metalstorm: Modern Air Combat",
+        "publisher_name": "Starform",
+        "publisher_id": "5a3025cbaccdbf4a39854b3a",
+        "humanized_name": "Metalstorm: Modern Air Combat",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/13/61/4713612f-3809-c8a1-4915-48fb34c441bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6153b4a2f3e690163b93ec0b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fb2a7f46ab7c17ef",
+      "app_id": "68130c5dc1a38845781b32d1",
+      "network": "Facebook",
+      "phashion_group": "fb2a7f46ab7c17ef",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-17",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "fb2a7f46ab7c17ef",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a6928c7b2fd168/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "\ud83d\udc49 Take a gun and clear all the enermy",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "68130c5dc1a38845781b32d1",
+        "canonical_country": "US",
+        "name": "WW2 Duty: FrontLine Zone",
+        "publisher_name": "CSCMobi Studios",
+        "publisher_id": "5cd5d69faee0da279f450542",
+        "humanized_name": "WW2 Duty: FrontLine Zone",
+        "icon_url": "https://play-lh.googleusercontent.com/g8Pm5jM5YsY6NXC1h-WH9P68Hfv_jPrZgnYQ-Hfn9TjRFIWHeoBgSo-K-aUsZIUFyvc=s150",
+        "os": "unified",
+        "id": "68130c5dc1a38845781b32d1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "624969382e3ed6a2",
+      "app_id": "698be7c6f1fceaadc22c2ce0",
+      "network": "Facebook",
+      "phashion_group": "624969382e3ed6a2",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "624969382e3ed6a2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "title": "\uae30\ub2e4\ub824\uc628 \uc7ac\ud68c, \ucc3d\uc138\uae30\uc804\uc758 \uadc0\ud658",
+          "button_text": "Install Now",
+          "message": "\ucc3d\uc138\uae30\uc804\uc758 \uac10\ub3d9\uc740 \uadf8\ub300\ub85c, \uc131\uc7a5\uc740 \ub354 \ube60\ub974\uac8c."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "698be7c6f1fceaadc22c2ce0",
+        "canonical_country": "KR",
+        "name": "\ucc3d\uc138\uae30\uc804 \ud0a4\uc6b0\uae30",
+        "publisher_name": "New Normal Soft",
+        "publisher_id": "66b3e504f2bdaa36e5bcf7ff",
+        "humanized_name": "\ucc3d\uc138\uae30\uc804 \ud0a4\uc6b0\uae30",
+        "icon_url": "https://play-lh.googleusercontent.com/4piT6-Ynexl-A6zBFNhaggAtgaXySGDy6s4267zDVqxklJcZtv-WIJ112PuVD85CPQVcg1MSBdZtRZKSZVcdlg=s150",
+        "os": "unified",
+        "id": "698be7c6f1fceaadc22c2ce0",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a81704bba2a56f5d",
+      "app_id": "5b5fd880dfeda93ee511a10d",
+      "network": "Facebook",
+      "phashion_group": "a81704bba2a56f5d",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-17",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "a81704bba2a56f5d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "You are on the RUN",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b5fd880dfeda93ee511a10d",
+        "canonical_country": "US",
+        "name": "Police Pursuit: Burnout Rush!",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Police Pursuit",
+        "icon_url": "https://play-lh.googleusercontent.com/8wW8j4n19lBfzTfkMTsWSB9_flZ03EopLJC6cYC41GAmW5bejFHpCLOvmyGY6hdGnw=s150",
+        "os": "unified",
+        "id": "5b5fd880dfeda93ee511a10d",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "729bbbfba8c7d8df",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "729bbbfba8c7d8df",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-05",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "729bbbfba8c7d8df",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02bee3184c958852/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02bee3184c958852/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02bee3184c958852/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2af032a7957b4a2b",
+      "app_id": "5a452ae0a14c91063e845ddd",
+      "network": "Facebook",
+      "phashion_group": "2af032a7957b4a2b",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "2af032a7957b4a2b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "title": "Punch now",
+          "button_text": "Install Now",
+          "message": "One punch to become a boxing legend!\ud83d\udcaa"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5a452ae0a14c91063e845ddd",
+        "canonical_country": "US",
+        "name": "Boxing Star:Sports Action Game",
+        "publisher_name": "THUMBAGE",
+        "publisher_id": "5a3d9bd4d9491b4758f040ac",
+        "humanized_name": "Boxing Star",
+        "icon_url": "https://play-lh.googleusercontent.com/Sqk3RJ5wPlN_ze2EdjblqXSXJfmGW9BLgrgalDYjUt95gAEWLbe3Wpmfv3DLYpjU6tRt6MyZvIzkBFuahccz9fQ=s150",
+        "os": "unified",
+        "id": "5a452ae0a14c91063e845ddd",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "4589811d74f031cb",
+      "app_id": "62429cefb3ae2756c91a89ac",
+      "network": "Facebook",
+      "phashion_group": "4589811d74f031cb",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-19",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "4589811d74f031cb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0403671236b3d78b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0403671236b3d78b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0403671236b3d78b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Diablo Anytime",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "62429cefb3ae2756c91a89ac",
+        "canonical_country": "US",
+        "name": "Diablo Immortal",
+        "publisher_name": "Microsoft",
+        "publisher_id": "5628910002ac648b28002389",
+        "humanized_name": "Diablo Immortal",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/2e/33/9f2e33d4-668f-4222-4cb2-60a03d9a0b26/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "62429cefb3ae2756c91a89ac",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2d00dcebf767bb33",
+      "app_id": "69896ab17c8562d1b066bed6",
+      "network": "Facebook",
+      "phashion_group": "2d00dcebf767bb33",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-09",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "2d00dcebf767bb33",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/04f15dd52052fdce/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/04f15dd52052fdce/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/04f15dd52052fdce/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "\ucd9c\uc2dc \uae30\ub150 \uc774\ubca4\ud2b8 HOT\ud55c \uc9c4\ud589 \uc911",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "69896ab17c8562d1b066bed6",
+        "canonical_country": "KR",
+        "name": "\uc601\ud63c \uc778\ub3c4\uc790\uff1a\uc2e0\uc758 \uc774\ub984\uc73c\ub85c",
+        "publisher_name": "Play Cat Network Technology",
+        "publisher_id": "689305d5329de762047bc2c0",
+        "humanized_name": "\uc601\ud63c \uc778\ub3c4\uc790\uff1a\uc2e0\uc758 \uc774\ub984\uc73c\ub85c",
+        "icon_url": "https://play-lh.googleusercontent.com/bqkLzXeH27p4NRhCedB1qaNbHPB4CrLcn-T3MHeB2xDSN-gG5LNT_oWIvqO3HgDJhyiKGQItus-8jV6NM_vciw=s150",
+        "os": "unified",
+        "id": "69896ab17c8562d1b066bed6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "9d67904c27f73076",
+      "app_id": "67626c544cbbe35e2515ca7a",
+      "network": "Facebook",
+      "phashion_group": "9d67904c27f73076",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-21",
+      "last_seen_at": "2026-04-02",
+      "creatives": [
+        {
+          "id": "9d67904c27f73076",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/060be77a994adba7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/060be77a994adba7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/060be77a994adba7/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67626c544cbbe35e2515ca7a",
+        "canonical_country": "KR",
+        "name": "I9: \uc778\ud398\ub974\ub178 \ub098\uc778 - 1\uc8fc\ub144",
+        "publisher_name": "Leniu Technology",
+        "publisher_id": "6658df83000c10fb2dc7680d",
+        "humanized_name": "I9: \uc778\ud398\ub974\ub178 \ub098\uc778",
+        "icon_url": "https://play-lh.googleusercontent.com/jZ0P5ZxOE4VorYhs9QmbcxzXi7VYiNqh4I5YlO2JXUdh_5D80ymAagbYxjtP6pGnU_7f_W0gWUVWUm9mIkCI5A=s150",
+        "os": "unified",
+        "id": "67626c544cbbe35e2515ca7a",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

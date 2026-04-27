@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_YiKYQeQAkHKvtAqsbyPNeUhc?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9ZaUtZUWVRQWtIS3Z0QXFzYnlQTmVVaGMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=H3-SYNDUZexBW9qnqh%7ECjr93o4e00UM3CuviWSb-FprskXULKEA%7EdixkCi9ZD5Q4mbZbvgBMuTbEvSgq4sYIXnEMVlQhKq0TNUO1kCIryLMMiwmhcubRTbj4GPtASxelKTKs4OKipQ4xOqNCp6U0-9bxA9alYQWV3cLVa73gzJXwtzs37NLljsHzfEmVVzwb2BdIefQTDSnNQOfALppd9BPj56dggC24%7Emtyu%7ER0SipjRsEjNgp29k1I8z-D9jgIXtPSK27yuc%7E8N7-IXaKOaRHESREUChz3EdUEJDh3kNhLrphMwdMxGnsxBiSoOazVbVGiWQw9nCx-wyGljeZP2w__",
+  "job_id": "job_pTMoVpBhjQDt3mRRfYyQG55j",
+  "asset_id": "asset_YiKYQeQAkHKvtAqsbyPNeUhc",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Storyboard frame, vertical 9:16: full-screen Helix Jump gameplay end-beat \u2014 white ball smashing through a cluster of red #FF0000 trap discs, debris shards flying outward, cyan #5CE1E6 tower segments rotating, neon green #39FF14 confetti burst, light minimalist background. Bold banner across upper third reads 'BOSS LEVEL 50' in chunky white caps with red drop shadow. No characters, no humans, no avatars. 3D minimalist with bright, contrasting colors and simple geometric shapes, authentic Helix Jump HUD with high score counter top-right.",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": true,
+  "audio": false
+}

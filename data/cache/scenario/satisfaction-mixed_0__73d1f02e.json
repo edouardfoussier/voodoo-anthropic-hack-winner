@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_bVEinVe9y28XhhTC1ztmPeGF?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfYlZFaW5WZTl5MjhYaGhUQzF6dG1QZUdGP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=LuUfDLRD60SpK%7E59a6ytDbV6Hy1BZNWzqwPWfpj5qMdyklXQSSNyzws3tnx-jSWYwGVzgbhr4dLu9KlTVZcDdw2rwfk0urFaxveagfdB6N4D-MB06yJZ92y-DMDCAz73JWM52zIaFnptdmYhgBtAYYr9nJYnYrW1DkjQwtYI%7Ej7ug-F2KgxbaTQmK-WxSwr9VjJHQy6d3RmMDvhk7BlIUZ9lG7DWLkaTclaSHM7TeFPYCdBq8GvvFsYS8OCXo6RrBrlh-xx4s3MiskvnVxe1qbUAWtfl-zwW4VRi3Cc9OGfJMF-RUWyA2hDCY1MpPdr4CDqdhuOKtfbP4mO8JHixEQ__",
+  "job_id": "job_tJzvFSg4e3r5bkMY1gWDdX5g",
+  "asset_id": "asset_bVEinVe9y28XhhTC1ztmPeGF",
+  "stub": false,
+  "prompt": "Roof Rails authentic in-game frame, 9:16 vertical aspect, third-person chase camera low behind the runner on a stark white #EAF6FA rooftop ribbon path between bright pastel #5CD6FF cyan blocky skyscrapers, character holding a long horizontal balancing pole studded with glowing #FFC824 yellow pole-piece segments, more yellow pole pieces floating in a row ahead waiting to be collected, top-left diamond currency counter and top horizontal level progress bar HUD visible, 3D minimalist with simple geometry, bright pastel colors, clean uncluttered aesthetic, soft ambient occlusion, no textures, on-screen text overlay reading 'Ever played a game that ACTUALLY relaxes you?' in bold white sans-serif at top. [Audio: VO warm female 'Hey \u2014 ever played a game that actually relaxes you?' / chill energetic-competitive lo-fi trap 95 BPM with crisp hi-hats / rhythmic click-click chime as each yellow pole piece snaps onto the pole, soft whoosh of forward run.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

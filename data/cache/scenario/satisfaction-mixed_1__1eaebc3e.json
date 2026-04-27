@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_fwpgDSgEu72e1hY9gXErmRH5?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZndwZ0RTZ0V1NzJlMWhZOWdYRXJtUkg1P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=PbBCBngE0g88-V6awVk07KQC2k3p5SvQHt%7EbceiAfZ1gJCnTR9IVet2XW7kti4RcbXINxTRPe7PHljSDknsSolBVhyt-zH22YGtxdaJxukdUnyeJarnLejTZuhNY71Evy2xuL2m9lkNAq9VIPlbFtOwfB%7EV9D6A9HKvwodGAsZ0VBBBdx7IJhhiLcJFH9u0zoI%7E1GRcnsOSv12tAgXsET2RmBHdU%7EIYHXHgWki4qrP70SA2yIzMWGwFvjpFsiZxkyDHuLeMgGzPJarnbZtRjewgYp6csuge3QfEq5DqfK7ECu1GQ7jnileu26mFha6%7E0HoMrpPYoHPU5kFlMzTitgg__",
+  "job_id": "job_FZjJWUABouykmaRcMLMcpyMG",
+  "asset_id": "asset_fwpgDSgEu72e1hY9gXErmRH5",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, Stylized 3D Cartoon: low-angle hero shot of a massive cartoon mob of purple-uniformed stickmen units charging through a glowing yellow #FFD12C multiplier gate labeled 'x10', cyan #00A3FF energy trails, royal purple #5824F5 sky and lane, gold coin sparks flying, exaggerated perspective, vibrant high-contrast palette, bold yellow on-screen text 'x5\u2026 x10\u2026 x50!', Mob Control style.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

@@ -1,0 +1,257 @@
+{
+  "count": 6,
+  "available_networks": [
+    "Supersonic",
+    "TikTok"
+  ],
+  "ad_units": [
+    {
+      "id": "03f6a7c7272b0262",
+      "app_id": "60caa2b20d41df29ea6b7c3e",
+      "network": "TikTok",
+      "phashion_group": "03f6a7c7272b0262",
+      "ad_type": "video",
+      "first_seen_at": "2021-10-13",
+      "last_seen_at": "2026-01-31",
+      "creatives": [
+        {
+          "id": "03f6a7c7272b0262",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37da2c173aa2b33e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37da2c173aa2b33e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37da2c173aa2b33e/thumb",
+          "video_duration": 20,
+          "width": 720,
+          "height": 1280,
+          "message": "The most addictive game!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "0d09c94de410524e",
+      "app_id": "60caa2b20d41df29ea6b7c3e",
+      "network": "TikTok",
+      "phashion_group": "0d09c94de410524e",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-18",
+      "last_seen_at": "2026-01-07",
+      "creatives": [
+        {
+          "id": "0d09c94de410524e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3925429df999e312/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3925429df999e312/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3925429df999e312/thumb",
+          "video_duration": 30,
+          "width": 720,
+          "height": 1280,
+          "message": "The most addictive game!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "e16105b661853cf7",
+      "app_id": "60caa2b20d41df29ea6b7c3e",
+      "network": "TikTok",
+      "phashion_group": "e16105b661853cf7",
+      "ad_type": "video",
+      "first_seen_at": "2021-11-18",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "e16105b661853cf7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d96baa1dd83323/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d96baa1dd83323/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/75d96baa1dd83323/thumb",
+          "video_duration": 29,
+          "width": 720,
+          "height": 1280,
+          "message": "Can she survive 60 sec?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "a47324e4b8edaf0e",
+      "app_id": "60caa2b20d41df29ea6b7c3e",
+      "network": "TikTok",
+      "phashion_group": "a47324e4b8edaf0e",
+      "ad_type": "video",
+      "first_seen_at": "2021-10-13",
+      "last_seen_at": "2026-03-12",
+      "creatives": [
+        {
+          "id": "a47324e4b8edaf0e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/905faf34a5641e52/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/905faf34a5641e52/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/905faf34a5641e52/thumb",
+          "video_duration": 20,
+          "width": 720,
+          "height": 1280,
+          "message": "The most addictive game!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "92cd934b6cc209be",
+      "app_id": "60caa2b20d41df29ea6b7c3e",
+      "network": "TikTok",
+      "phashion_group": "92cd934b6cc209be",
+      "ad_type": "video",
+      "first_seen_at": "2021-12-24",
+      "last_seen_at": "2026-02-08",
+      "creatives": [
+        {
+          "id": "92cd934b6cc209be",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a6e1189b714bb8e2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a6e1189b714bb8e2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a6e1189b714bb8e2/thumb",
+          "video_duration": 30,
+          "width": 720,
+          "height": 1280,
+          "message": "The most addictive game!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "4ae55884a2205aef",
+      "app_id": "60caa2b20d41df29ea6b7c3e",
+      "network": "TikTok",
+      "phashion_group": "4ae55884a2205aef",
+      "ad_type": "video",
+      "first_seen_at": "2021-11-18",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "4ae55884a2205aef",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de5d3698de7d553b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de5d3698de7d553b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de5d3698de7d553b/thumb",
+          "video_duration": 29,
+          "width": 720,
+          "height": 1280,
+          "message": "Can she survive 60 sec?"
+        },
+        {
+          "id": "74b7522054c29db8",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de5d3698de7d553b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de5d3698de7d553b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de5d3698de7d553b/thumb",
+          "video_duration": 29,
+          "width": 720,
+          "height": 1280,
+          "message": "Harder than you think!"
+        },
+        {
+          "id": "8994d821778d9014",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de5d3698de7d553b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de5d3698de7d553b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de5d3698de7d553b/thumb",
+          "video_duration": 29,
+          "width": 720,
+          "height": 1280,
+          "message": "How long can you survive?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    }
+  ]
+}

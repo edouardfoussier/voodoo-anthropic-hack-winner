@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 35,
+  "mechanic_match": 55,
+  "audience_match": 75,
+  "overall": 52,
+  "rationale": "The drag-from-tray-to-grid placement gesture maps cleanly onto Bounce Blast's tap-to-place loop and the 25-55 casual relaxation audience overlaps strongly, so the hook framing is reusable. However, frictions are significant: the archetype's bright/light jigsaw palette (#EBEBEB/sky blue/green) clashes with the game's dark moody navy + yellow-orange brand, and a photographic jigsaw image hook misrepresents the actual physics-ball chain-reaction payoff — risking high IPM but poor D1/D7 retention from mismatched expectations. Recommend testing only if we re-skin the hook with the game's actual 3D blocks and pivot the satisfaction beat to the bouncing-ball chain reaction within 3-4 seconds to avoid bait-and-switch penalties."
+}

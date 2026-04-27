@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_BjFGSVSatRipDjWpgDJ1jGBM?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQmpGR1NWU2F0UmlwRGpXcGdESjFqR0JNP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=p7NdfPJlfcimX%7EyHEXgvUL%7EH6-SSS-z24b-RXTI4tr-9umnCJTvld-q8acpAFnpkeq8VwJhMEMlm-s1%7EXZpNwTpwIV1tLy39bxqujgd--cooQxsujxLJVrwUOcr0rpIjSHIkxZh568gIfhuU6fRHXi9IbjaY-t3rdNyU5tmnG-0mHl3l0Jgx8QtAnzUzMe8RmQVrs3lunoJ310aIj95UG4-DRCo4jnh5mbls6-ej1q2%7EKlnBlB4rNExGSLWzw-OZG88eKBF-7AHV6CMix-5EoBZQwhTNo7dvm41PrplqhFtVlZTWETadBHUtcpH1jNcZI80w8YBiDrkw7AqqZRX6bg__",
+  "job_id": "job_viipagKbtLRDQ8myamcU9CvM",
+  "asset_id": "asset_BjFGSVSatRipDjWpgDJ1jGBM",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, dynamic in-game moment of Push'em All: blue stickman triggers a 'SIZE UP!' power-up, glowing yellow burst on the HUD, stick doubling in length on a green platform (#56a38b) surrounded by blue water (#2a7dfa), wiping a full row of red stickman enemies (#e3001b) into the water with physics ragdolls, minimalist 3D bright contrasting colors and simple stickman figures, native HUD visible with combo multiplier and progress timeline, bold white overlay text 'SIZE UP!' center-screen, authentic Push'em All gameplay still",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

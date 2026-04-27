@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_EM1T7LSyBkUvhBRv9iNqqm67?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRU0xVDdMU3lCa1V2aEJSdjlpTnFxbTY3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Na3AxL2pb6vsFez4SScu-SoNZkehtVPLWWzAf54W8SkrSue9%7EUPdo5nFz6LWTzoBvPH11ZibZ9t9me3Y%7EA8BzAUYsoDoQIaamVuF2HXG6SiGnddznJv0QP4lftw%7EefnmzHqkpfHmnpn-WWVyKPnplOKq2tL2ZLRxsGkkDF7IpeiOQmx5ak-lo0RbxeQLREMgRsX8mqe0uSMkIBaBpjx0J-O3hO%7EIpJafgBVeFflCEyKy447HwudaCDE2pOLqhTUR76km%7EscbW4%7EWxzuo0Iys8zdIAyPHihLH%7Eny27DlwQ6aEGLzqIoqyu4EwyH%7EpootE4YCs8xRGhW-m3s%7EB9Ov6xg__",
+  "job_id": "job_aBWRwZLDA9pnfURqBBG8Q4G2",
+  "asset_id": "asset_EM1T7LSyBkUvhBRv9iNqqm67",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, first-person POV of two hands holding a smartphone in a softly lit lavender room, on the phone screen an authentic Marble Sort! gameplay scene: light-grey rounded 3D machine with two suspended trays full of glossy pastel marbles, a horizontal moving conveyor belt below, and three color-coded drop boxes (orange, purple, mint) at the bottom; one bright orange marble mid-fall toward the orange box, soft motion blur, tactile clean UI with level counter top-left and tap-tray buttons; background palette #E5DFFF lavender with #F0F0F8 light grey machine and #FFB13B orange accent on the level badge; on-screen text overlay 'POV: the most satisfying 15 seconds' in rounded white sans-serif; clean and colorful 3D cartoon style with soft, rounded shapes, no characters in the game scene, no humans beyond the hands, premium mobile ad still",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

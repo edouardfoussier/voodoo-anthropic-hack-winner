@@ -1,0 +1,11 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_97gnw2hJSWBsxiSDndhgdtDT?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOTdnbncyaEpTV0JzeGlTRG5kaGdkdERUP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qFU0ur2oBbTz09kjCbADPwbDa6ptUe1zp7ZUiFuL8%7E1NAmj7wVz6NxL5kzMYWKAhLAzk07rSCSTZWLY059OEytCzPpRNqmf62XkjsK6uQ2jlHFhtAXtMfFdjsFr4vdWKZUwvI-3UMbcm7IhF%7EpDERV5rbIXfbPN8yU7xtxhLJOC0cbke75qQxgRSPuzwKalPbooe9phK1LqUTSKFGffoJ1JtzVaFBsQOMZxC92R6WC5hmjjE6-nfhQp7qM%7EakKRc08h9pTuGK6n8J7nbLrqaVZj2djv8zlWYPgKNBVqwr1GDHo0ntcDlDn6oYtBR4GQguL0TTyuudZ0QJWBMItxUEQ__",
+  "job_id": "job_TP3rKEeztQbMyG6ZspDrxJpi",
+  "asset_id": "asset_97gnw2hJSWBsxiSDndhgdtDT",
+  "stub": false,
+  "prompt": "Storyboard frame 3, aspect 9:16, 3D Casual Abstract style, triumphant 'LEVEL COMPLETE' moment on a smartphone, cleared dark navy (#20232B) grid with deep purple (#403F6D) UI frame, a bright yellow-orange (#FDBA4D) progress bar filling and confetti-like ball burst, on-screen text 'Chain reaction unlocked \ud83d\udca5', clean stylized 3D rendering, calm satisfying mood, mobile puzzle ad final beat.",
+  "model_id": "flux.1-dev",
+  "mode": "img2img",
+  "reference_image": "02.png",
+  "img2img_strength": 0.6
+}

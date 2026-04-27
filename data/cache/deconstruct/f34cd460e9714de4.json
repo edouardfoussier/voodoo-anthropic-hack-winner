@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "f34cd460e9714de4",
+    "ad_unit_id": "f34cd460e9714de4",
+    "app_id": "5c77ba4ab9ab940c3f6bc822",
+    "advertiser_name": "Blockudoku: Block Puzzle Game",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bddbd94ef96d7c9c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bddbd94ef96d7c9c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bddbd94ef96d7c9c/preview",
+    "phashion_group": "f34cd460e9714de4",
+    "share": null,
+    "first_seen_at": "2026-01-21T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Super addictive block puzzle game! Bet you won’t be able to stop playing!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand uses a stylus to fill a plane-shaped grid with blue blocks, framed as an IQ test.",
+    "visual_action": "Stylus dragging blue polyomino blocks into a plane silhouette.",
+    "text_overlay": "Fill up the plane for IQ 120+",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "A hand begins placing blue blocks into a plane-shaped grid.",
+    "The IQ counter increments as more pieces are successfully placed.",
+    "The player fails to fit the final pieces, resulting in a large red 'FAIL' stamp.",
+    "The ad ends with the game logo 'Blockudoku' and a small disclaimer."
+  ],
+  "on_screen_text": [
+    "Fill up the plane for IQ 120+",
+    "IQ = 0",
+    "10 PTS",
+    "FAIL",
+    "Blockudoku",
+    "This feature is not included in the actual gameplay yet. The game is not an actual IQ test."
+  ],
+  "cta_text": "Blockudoku",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#1A47A1",
+    "#FFFFFF",
+    "#D32F2F"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy brain-training challenges and IQ-based competition.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001658
+}

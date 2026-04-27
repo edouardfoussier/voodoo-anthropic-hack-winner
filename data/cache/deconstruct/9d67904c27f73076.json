@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "9d67904c27f73076",
+    "ad_unit_id": "9d67904c27f73076",
+    "app_id": "67626c544cbbe35e2515ca7a",
+    "advertiser_name": "I9: 인페르노 나인 - 1주년",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/060be77a994adba7/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/060be77a994adba7/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/060be77a994adba7/preview",
+    "phashion_group": "9d67904c27f73076",
+    "share": null,
+    "first_seen_at": "2026-03-21T00:00:00",
+    "last_seen_at": "2026-04-02T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Introduction of a 3D character model named 'Soul Eater' with detailed stats and skills.",
+    "visual_action": "A female character in a red and black outfit holding a large scythe rotates 360 degrees against a dark background.",
+    "text_overlay": "모델 보기, 소울 이터, 공격 897, 방어 687, 치명타 799, 스피드 750, HP 690",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Display of character 'Soul Eater' with detailed RPG stats and skill icons.",
+    "The character performs a full 360-degree rotation to show off the 3D model.",
+    "The rotation highlights the weapon design and character costume from all angles."
+  ],
+  "on_screen_text": [
+    "모델 보기",
+    "소울 이터",
+    "난투",
+    "치명타",
+    "공격 897",
+    "방어 687",
+    "치명타 799",
+    "스피드 750",
+    "HP 690",
+    "스킬"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#121212",
+    "#990000",
+    "#D3D3D3"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Male gamers interested in dark fantasy RPGs and stylized character designs.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016589999999999999
+}

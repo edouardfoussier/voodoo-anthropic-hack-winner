@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 25,
+  "mechanic_match": 20,
+  "audience_match": 65,
+  "overall": 30,
+  "rationale": "Hard pass on direct adaptation: the archetype is a word/crossword satisfaction hook with warm food-themed palette (browns, greens, yellow), which clashes with Bounce Blast 3D's dark moody 3D physics aesthetic and tells the wrong gameplay story — players clicking through expect letter tiles, not block-placement chain reactions, creating a major bait-and-switch / IPM risk. Audience overlap is the only redeeming factor (casual 25-55 puzzle players skew similar), so if anything, only borrow the \"satisfying completion + chain payoff\" emotional beat and rebuild it natively around block placement → ball bounce cascades. Do not whitelist this archetype as-is."
+}

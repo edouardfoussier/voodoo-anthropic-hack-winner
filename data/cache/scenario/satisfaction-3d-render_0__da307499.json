@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_FVaVLPXL5CLJYKVtuxhf89k4?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRlZhVkxQWEw1Q0xKWUtWdHV4aGY4OWs0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VmBf-2br1LyCHduuQbEst4HHN5p5DkpMcZQp2pdLR67u0OZ951v9RWZEa8rRHc3g-N7MXLfttYlyfsD957kV-XkY3uXKxTGimy-F6J6o0yz9P39vMkpG2nvghArzX403u2Fxy8pXkmHmvwG2%7EMXfh2KfGajCZzUfkoJjMPKwAHHHJXHIJ6dAyOpgFg2qaZh3YScUc%7EuHeSNR3qtPGVDcxLpxkzHFh96P3dGwHbMXVpTWa9r7Q1QYjshp1rY514q%7EHHZIjfx9wyYSygJ3bD-judarEGPY-oXO21ouPGavKtaTJBiuT0uJBF1dAp3cVrKxu4geaju6v%7EYNtbLLn%7E2-Iw__",
+  "job_id": "job_1uEK4TJEjg2ga1rRb6ed4ru1",
+  "asset_id": "asset_FVaVLPXL5CLJYKVtuxhf89k4",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, 3D Casual Abstract style, macro studio render of glossy amber #FDBA4D spheres pouring in a slow-motion stream into a deep purple #403F6D rounded-square grid 'jar', moody dark #20232B background, soft rim lighting, shallow depth of field, subtle golden particles, on-screen text 'No. 001 BOUNCE BLAST' in clean sans-serif top-center, premium mobile-game ad aesthetic, ultra-detailed, octane render",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

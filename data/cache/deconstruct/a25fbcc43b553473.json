@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "a25fbcc43b553473",
+    "ad_unit_id": "a25fbcc43b553473",
+    "app_id": "55d93a4202ac645ad203fe75",
+    "advertiser_name": "Betclic Paris Sportifs & Poker",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3a1a9fc97135aa36/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3a1a9fc97135aa36/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3a1a9fc97135aa36/preview",
+    "phashion_group": "a25fbcc43b553473",
+    "share": null,
+    "first_seen_at": "2026-04-06T00:00:00",
+    "last_seen_at": "2026-04-09T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🇪🇸 R. MADRID vs MUNICH 🇩🇪\nParie sur le meilleur du foot européen avec Betclic ! 🏆",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A high-energy sports betting promotion featuring a match between Madrid and Munich with a 100€ bonus offer.",
+    "visual_action": "Two football jerseys are displayed in a stadium setting with betting odds and a large promotional banner appearing.",
+    "text_overlay": "JUSQU'À 100€ FEEBETS remboursés*",
+    "voiceover_transcript": "We're about to change the game, we're on your team today",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Introduction of the Madrid vs Munich football matchup.",
+    "Display of the 100€ freebet promotional offer.",
+    "Presentation of specific betting odds for win, draw, and loss outcomes.",
+    "Static display of the full offer with mandatory gambling health warnings."
+  ],
+  "on_screen_text": [
+    "100€",
+    "JUSQU'À 100€",
+    "FEEBETS remboursés*",
+    "MADRID",
+    "MUNICH",
+    "VS",
+    "R. Madrid 2,90",
+    "Nul 3,70",
+    "B. Munich 2,05",
+    "*MONTANT DE TON 1ER PARI REVERSÉ EN CRÉDITS DE JEU NON RETIRABLES S'IL EST PERDANT",
+    "LES JEUX D'ARGENT ET DE HASARD PEUVENT ÊTRE DANGEREUX : PERTES D'ARGENT, CONFLITS FAMILIAUX, ADDICTION... RETROUVEZ NOS CONSEILS SUR JOUEURS-INFO-SERVICE.FR (09 74 75 13 13, APPEL NON SURTAXÉ)"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#E20613",
+    "#0033A0",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "French-speaking male football fans aged 18-35 interested in sports betting and promotional offers.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0019190000000000001
+}

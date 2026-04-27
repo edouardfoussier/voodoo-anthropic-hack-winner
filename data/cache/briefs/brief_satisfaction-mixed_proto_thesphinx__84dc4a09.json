@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "proto_thesphinx",
+  "title": "The Sphinx Knows: 20 Questions to Unmask a Legend",
+  "hook_3s": "A glowing golden question mark pulses in the dark — \"I'm thinking of someone famous. Can you guess in 20 questions?\"",
+  "scene_flow": [
+    "0–3s HOOK: Black screen, single golden question mark pulses to a heartbeat. Whisper: 'I'm thinking of someone famous…' Overlay: CAN YOU GUESS THEM?",
+    "3–7s SETUP: User taps mic; voice waveform glows gold. They ask 'Is it a man?' — AI answers YES in elegant serif. Question counter ticks 19/20.",
+    "7–11s DEDUCTION MONTAGE: Rapid-fire Q&A snaps into place like puzzle fragments of clues assembling — 'Athlete? YES.' 'Still alive? NO.' Each answer satisfyingly locks a golden glyph onto a silhouette.",
+    "11–14s REVEAL: Final question — silhouette shatters into golden particles, reforming into a recognizable celebrity portrait. Overlay: YOU CRACKED IT.",
+    "14–15s CTA: Logo + 'Outsmart The Sphinx' with download button glowing gold."
+  ],
+  "visual_direction": "Mystical Minimalism rendered in near-black (#100D06) negative space with glowing golden-yellow (#D4A024) typography and pale-gold (#FCE588) particle accents. Every interaction — voice waveforms, answer reveals, clue glyphs — uses a satisfying snap-and-glow micro-animation that borrows the archetype's \"pieces clicking into place\" dopamine, but reframed as deductive clues assembling a portrait rather than jigsaw tiles. Premium serif typography, candle-flicker lighting, no clutter. Think occult oracle meets high-end iOS app.",
+  "text_overlays": [
+    "I'm thinking of someone famous…",
+    "CAN YOU GUESS THEM?",
+    "20 QUESTIONS. YES OR NO.",
+    "EVERY ANSWER LOCKS A CLUE",
+    "YOU CRACKED IT.",
+    "OUTSMART THE SPHINX"
+  ],
+  "cta": "Outsmart The Sphinx",
+  "rationale": "We reject the jigsaw archetype's literal visuals but steal its proven dopamine mechanic — the satisfying snap of pieces locking — and reskin it as deductive clues assembling a celebrity silhouette, preserving the \"satisfaction\" emotional pitch in a palette and pace that match TheSphinx's premium dark-mystical brand. UA team should A/B the celebrity-reveal moment (11s) as the thumbnail-worthy beat and test voice-input vs. text-input variants to see which drives stronger educated 25–45 install intent.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical mobile aspect ratio, Mystical Minimalism style, near-black background (#100D06) with a single large glowing golden-yellow question mark (#D4A024) emitting soft pale-gold particles (#FCE588), elegant serif overlay text reading 'CAN YOU GUESS THEM?' centered below, candle-flicker lighting, premium occult-oracle mood, ultra-minimal UI, cinematic depth, sharp focus, no clutter",
+    "Storyboard frame mid-gameplay, 9:16 vertical aspect ratio, Mystical Minimalism aesthetic, dark near-black canvas (#100D06), golden voice-waveform (#D4A024) glowing across the lower third, elegant serif answer 'YES' in pale gold (#FCE588) materializing center-screen, small counter '19/20' in top corner, on-screen text 'EVERY ANSWER LOCKS A CLUE', tense sophisticated atmosphere, premium mobile UI",
+    "Storyboard reveal frame, 9:16 vertical aspect, Mystical Minimalism, pitch-black background (#100D06) as a faceless silhouette shatters into swirling golden particles (#D4A024 and #FCE588) reforming into a recognizable celebrity portrait outline, dramatic gold rim-light, serif overlay 'YOU CRACKED IT.' in glowing yellow, cinematic, mysterious, high-end editorial feel"
+  ]
+}

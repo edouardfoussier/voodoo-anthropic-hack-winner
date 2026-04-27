@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 20,
+  "mechanic_match": 10,
+  "audience_match": 55,
+  "overall": 22,
+  "rationale": "This is a bus-sorting/traffic-jam puzzle fail hook — a completely different genre (logic puzzle) with no overlap to Hole.io's swallow-and-grow arcade loop, so a direct port would be misleading creative and likely trigger high IPM-but-poor-retention or store policy issues. Palette (green/red/blue puzzle tiles) and gameplay visuals don't match the bright orange/blue low-poly cityscape DNA, and the \"blocked path\" frustration mechanic has no analog in a free-roam .io game. Only the broad casual audience overlaps; do not adapt this archetype — if testing a \"fail\" angle, build a Hole.io-native version (e.g., player too small to swallow a building, gets stuck) instead."
+}

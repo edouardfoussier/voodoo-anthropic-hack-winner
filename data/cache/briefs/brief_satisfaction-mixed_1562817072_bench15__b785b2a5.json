@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1562817072",
+  "title": "POV: Rushed Home to Multiply My Mob",
+  "hook_3s": "POV smash-cut: keys hit the door, phone already glowing purple — \"I had to get home to multiply my mob.\"",
+  "scene_flow": [
+    "0-3s: Live-action POV — hand fumbles keys, kicks off shoes, sprints down hallway. Phone screen flashes Mob Control's purple/cyan glow on the walls. Overlay: 'POV: I rushed home just to play this.'",
+    "3-6s: Belly-flop onto bed, phone fills frame. Hard cut into Stylized 3D Cartoon gameplay: cannon fires a tiny squad of 5 stickmen toward a x5 multiplier gate.",
+    "6-10s: Crowd EXPLODES through stacked gates (x3 → x5 → x10). Camera pulls back to reveal a tidal wave of purple-clad mob units flooding the lane — yellow coin sparks fly.",
+    "10-13s: Mob crashes the enemy base; tower shatters in cyan debris, victory confetti, level-up card pops with a satisfying 'CHA-CHING.'",
+    "13-15s: Cut back to live-action POV — face lit purple, smug grin, thumbs-up. End card: logo + 'Play Free' CTA button pulsing yellow."
+  ],
+  "visual_direction": "Hybrid live-action POV → Stylized 3D Cartoon gameplay. Live-action grade is desaturated and warm so the cut to gameplay POPS with Mob Control's signature royal purple (#5824F5) flooding the frame, cyan (#00A3FF) rim-light on the mob units, and yellow (#FFD12C) accents on multiplier gates, coins, and the CTA. Energetic handheld camera in live action; punchy zoom-and-shake on multiplier moments. UI minimal — let the crowd-growth spectacle and color contrast carry the satisfaction beat.",
+  "text_overlays": [
+    "POV: I rushed home just to play this",
+    "Tiny squad…",
+    "x5… x10… x50!",
+    "One shot. Whole army.",
+    "Your turn 👇"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current rotation leans hard on in-game satisfaction-pour hooks (\"Multiply faster than they can react\", \"Grow your Mob\") with zero lifestyle/UGC framing — this brief brings the trending POV \"rushed-home-to-play\" angle they're missing, which over-indexes with the 18-35 male casual audience. Critical guardrail: live-action is capped at 3s and seconds 3-15 hard-cut to multiplier-gate + crowd-explosion gameplay so install intent stays high. Test as a top-funnel TikTok/Reels variant against the existing gameplay-first creatives.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, Stylized 3D Cartoon: first-person POV of a young man belly-flopping onto a messy bed holding a glowing smartphone, phone screen blasts royal purple #5824F5 and cyan #00A3FF light across his face and the bedroom walls, warm yellow #FFD12C lamp accent, cinematic shallow depth of field, energetic handheld feel, large bold white on-screen text 'POV: I rushed home just to play this', high contrast, mobile-ad composition.",
+    "Storyboard frame, aspect 9:16, Stylized 3D Cartoon: low-angle hero shot of a massive cartoon mob of purple-uniformed stickmen units charging through a glowing yellow #FFD12C multiplier gate labeled 'x10', cyan #00A3FF energy trails, royal purple #5824F5 sky and lane, gold coin sparks flying, exaggerated perspective, vibrant high-contrast palette, bold yellow on-screen text 'x5… x10… x50!', Mob Control style.",
+    "Storyboard frame, aspect 9:16, Stylized 3D Cartoon: enemy fortress base exploding into cyan #00A3FF debris and yellow #FFD12C confetti as a tidal wave of purple #5824F5 mob units overruns it, dynamic camera shake, victory level-up card popping in foreground, glossy cartoon rendering, high-energy composition, bold white on-screen text 'One shot. Whole army.', pulsing yellow 'Play Free' CTA button at bottom."
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "a372808901bcfa42",
+    "ad_unit_id": "a372808901bcfa42",
+    "app_id": "55d939bf02ac645ad2026001",
+    "advertiser_name": "Ladbrokes Sports Betting App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/77bf03e24608e28e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/77bf03e24608e28e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/77bf03e24608e28e/preview",
+    "phashion_group": "a372808901bcfa42",
+    "share": null,
+    "first_seen_at": "2026-04-09T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Explore hidden treasures 🏺💎 Unlock rewards! That's Ladisfaction! 🤩",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Bold text animation inviting the viewer to explore hidden treasures.",
+    "visual_action": "Text 'EXPLORE' expands into 'EXPLORE FOR HIDDEN TREASURES' against a red-tinted temple backdrop with lightning effects.",
+    "text_overlay": "EXPLORE FOR HIDDEN TREASURES",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "The ad opens with the Ladbrokes logo and the word 'EXPLORE' centered on a red background.",
+    "The text updates to 'EXPLORE FOR HIDDEN TREASURES' as lightning effects flicker across the screen.",
+    "The game title 'WILD TOMB' is revealed as a 'THRILLING NEW EXCLUSIVE' with cinematic music.",
+    "A rhetorical question 'UNLOCKING MYSTERIOUS REWARDS?' appears to pique interest.",
+    "The ad concludes with the brand's signature slogan 'THAT'S LADISFACTION' and legal disclaimers."
+  ],
+  "on_screen_text": [
+    "Ladbrokes",
+    "EXPLORE",
+    "EXPLORE FOR HIDDEN TREASURES",
+    "IN A THRILLING NEW EXCLUSIVE",
+    "WILD TOMB",
+    "UNLOCKING MYSTERIOUS REWARDS?",
+    "THAT'S LADISFACTION",
+    "18+ T&Cs apply.",
+    "TAKE TIME TO THINK",
+    "GambleAware"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#E1001A",
+    "#FFFFFF",
+    "#F9E100"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult male gamblers in the UK interested in exclusive, high-production-value slot games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001461
+}

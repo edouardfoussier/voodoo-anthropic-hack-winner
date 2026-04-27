@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 25,
+  "mechanic_match": 15,
+  "audience_match": 55,
+  "overall": 25,
+  "rationale": "This is a classic puzzle/sort \"relaxation\" hook (bus jam / stylus ASMR genre) that has almost zero overlap with Paper.io 2's competitive territory-capture loop — showing a calm sorting puzzle would misrepresent the product and drive low-intent installs that churn fast. Palette (muted blue/purple/orange) and the \"relaxed\" emotional pitch directly conflict with the game's energetic, high-contrast neon visual identity and competitive .io tension. Audience demographics partially overlap (broad casual), but mechanic and tonal mismatch make this a poor fit; only worth testing as a misleading-style hybrid hook that pivots into actual Paper.io gameplay after 3s, and even then expect IPM but ROAS risk."
+}

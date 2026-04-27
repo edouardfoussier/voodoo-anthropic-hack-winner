@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_4nHVxyJKPcgJcaGzj46182Pp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNG5IVnh5SktQY2dKY2FHemo0NjE4MlBwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=UwWuJ7lt3zAS7QmG02QOihOeevqyUxP7e-CS3KuvO0AledbnsMEg6reCAZ5t%7ELM1ZVM8A4QZ3TZhzYU3rleZ361CkvC9JGYaY4ChPy6w9Up0bej2P7gOj69mmr3SN4m9xCr--yKy3-cbDJlLcARPuE9t4B7OmcqkxcotzzHwMtUWHuh0n%7EuBTiroFwwY7desbxN%7Euh6d9tD5Df%7EvCb8W6oOoRsn0JwYD3xWRjaS6EeznNNTqaVt22yQ6R3As2HkN2cWRI9%7EUkSLvIKwpjD0meSXzHCNU63-ahCnEjUvKJEwHnrQ5k0Zgd1qbjLv5bvyYsFSHPjsX6g40KGUm0JAyVQ__",
+  "job_id": "job_wr51DMV1JsUVdf2ta8EBtsVJ",
+  "asset_id": "asset_4nHVxyJKPcgJcaGzj46182Pp",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, payoff moment showing colored marbles dropping perfectly into matching color-labeled boxes with a soft glow and sparkle particles, lavender (#E5DFFF) background, light grey (#F0F0F8) machine, vibrant orange (#FFB13B) 'Level Clear \u2728' badge popping in center, Clean and colorful 3D cartoon style with soft, rounded shapes, glossy marbles, cheerful satisfying lighting",
+  "model_id": "flux.1-dev"
+}

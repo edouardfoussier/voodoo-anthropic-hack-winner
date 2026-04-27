@@ -1,0 +1,88 @@
+{
+  "apps": [
+    {
+      "app_id": 1563230518,
+      "canonical_country": "US",
+      "name": "Solitaire - Voodoo Card Game!",
+      "publisher_name": "Voodoo",
+      "publisher_id": 714804730,
+      "humanized_name": "Solitaire - Voodoo Card Game!",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/23/84/b7/2384b729-ae4c-dc43-29e4-8029de2fa330/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/150x150bb.jpg",
+      "os": "ios",
+      "active": true,
+      "url": "https://apps.apple.com/US/app/id1563230518?l=en",
+      "categories": [
+        6014
+      ],
+      "valid_countries": [
+        "US"
+      ],
+      "top_countries": [],
+      "app_view_url": "/ios/us/voodoo/app/solitaire-voodoo-card-game/1563230518/",
+      "publisher_profile_url": "/publisher/ios/714804730",
+      "release_date": null,
+      "updated_date": "2021-04-19T00:00:00Z",
+      "in_app_purchases": "",
+      "rating": 2.11111,
+      "price": 0.0,
+      "global_rating_count": 9,
+      "rating_count": 9,
+      "rating_count_for_current_version": 9,
+      "rating_for_current_version": 2.11111,
+      "version": "1.1.0",
+      "apple_watch_enabled": false,
+      "imessage_enabled": false,
+      "imessage_icon": null,
+      "humanized_worldwide_last_month_downloads": {
+        "downloads": 1000,
+        "downloads_rounded": 5,
+        "prefix": "< ",
+        "string": "< 5k",
+        "units": "k"
+      },
+      "humanized_worldwide_last_month_revenue": {
+        "prefix": "< $",
+        "revenue": 1000,
+        "revenue_rounded": 5,
+        "string": "< $5k",
+        "units": "k"
+      },
+      "bundle_id": "com.Voodoo.KlondikeSolitaire",
+      "support_url": "https://www.voodoo.io",
+      "website_url": null,
+      "privacy_policy_url": "https://www.voodoo.io/privacy",
+      "eula_url": null,
+      "publisher_email": null,
+      "publisher_address": "17 Rue Henry Monnier\n75009 Paris\nFrance",
+      "publisher_country": "France",
+      "feature_graphic": null,
+      "short_description": null,
+      "advisories": [
+        "Infrequent/Mild Simulated Gambling",
+        "Infrequent/Mild Mature/Suggestive Themes"
+      ],
+      "content_rating": "13+",
+      "unified_app_id": "607d4a50eafbc66409dfa1b7",
+      "screenshot_urls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/5c/fc/36/5cfc36ce-60df-17e2-4d3a-9e6261804f93/e7269719-f80b-428a-abf0-9222fa283a1c_5_U002c8_-_Screen_1.png/462x1000bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/9a/4d/fa/9a4dfa8c-d8c4-c071-3866-ef2f733267e2/6182a11a-4bcf-4bf6-a66e-7fcfed7591ee_5_U002c8_-_Screen_2.png/462x1000bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d5/3c/d0/d53cd0c9-eb44-b3cf-148a-5cdaac19e940/2380e167-16a8-47fb-a217-d40d0a96c66e_5_U002c8_-_Screen_3.png/462x1000bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/7f/a3/73/7fa373b4-3734-d56c-3639-dcac2ca41e84/c6786d65-0f5c-4b51-b469-6e1b36f4e640_5_U002c8_-_Screen_4.png/462x1000bb.png"
+      ],
+      "tablet_screenshot_urls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/94/66/3b/94663bd0-b7af-d2bb-c307-1e9962f0bd08/7582feec-ed44-43f2-a64d-5b1f4805e54b_iPad_-_Screen_1.png/2048x2732bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/dc/15/9e/dc159e4d-3b03-938f-3b48-4013819650d5/53fd2f27-811e-4c93-b170-5aa49ef90417_iPad_-_Screen_2.png/2048x2732bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/2e/dd/87/2edd8774-6ec2-8b92-4f1a-94fcf5f37280/e747102c-f11e-479e-ad78-b2eeb27deed1_iPad_-_Screen_3.png/2048x2732bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/f2/e8/b9/f2e8b9ea-9afa-928d-839f-b3b104c236df/e8f8c690-21aa-4307-9512-ad8754dec64c_iPad_-_Screen_4.png/2048x2732bb.png"
+      ],
+      "description": "Race against the clock to finish the deck and get the highest score!\n\nHow to play:\n- Move all the cards to the top-left stack\n- Draw new cards from the waste pile\n- Stack cards of alternating colors on the board\n- Each game has a time limit, finish early to earn bonus time",
+      "subtitle": "Classic Solitaire Game",
+      "promo_text": "Classic Solitaire Free Game",
+      "permissions": null,
+      "supported_languages": [
+        "en"
+      ],
+      "country_release_date": "2021-04-19T00:00:00Z"
+    }
+  ]
+}

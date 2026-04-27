@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "1b7daf112178ee80",
+    "ad_unit_id": "1b7daf112178ee80",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/56ff6b3e2bfee636/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/56ff6b3e2bfee636/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/56ff6b3e2bfee636/preview",
+    "phashion_group": "1b7daf112178ee80",
+    "share": null,
+    "first_seen_at": "2025-01-10T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Feel the power of robots!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Intense mech-on-mech combat with heavy weaponry firing.",
+    "visual_action": "A bipedal robot fires missiles and cannons at an enemy mech on a lunar landscape.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Mech robot locks onto an enemy target at a distance.",
+    "Robot unleashes a barrage of missiles and gunfire.",
+    "The enemy mech explodes into a ball of fire.",
+    "A 'KILL' notification appears as the robot stands victorious.",
+    "Final call to action screen with 'START NOW!' text."
+  ],
+  "on_screen_text": [
+    "292m",
+    "175m",
+    "149m",
+    "KILL",
+    "START NOW!"
+  ],
+  "cta_text": "START NOW!",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#000000",
+    "#808080",
+    "#FF4500"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy tactical combat and giant robot warfare.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014069999999999998
+}

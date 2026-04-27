@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_hUaADijYNwRUxf55U7hbuQTK?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfaFVhQURpallOd1JVeGY1NVU3aGJ1UVRLP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=hcVvQB2fvHFgTwLsZzo4uYA49Its9W6ax5qmKHwr4O-KIug8Y0fuLGN6RWZ9vN--zBw9PbgdXgs%7Ep6MPqYAXwi%7Eb8jwv-mNvK%7EYoe3oaqe4h9lodys6oROVCifGw1EaHRdD29suWJTtM0HYWFL3f%7Eve9OysyE8kJc623c1BHleisx9u9-aoFM0wF6w0MrLAlystbEEl-qPdhJ2ezrD4NnbF8q2r2BmIWtm3%7EUpS1Qt5YAHgzkBNJ5VwlWs3q%7E58Wz7zNvo2Cc3g6Z72oJ5%7Egig0sFts%7E8AjVhfRvxhk3efu62iGhwG0tM0pJpuX9sfIP7tQS-DS0QTo1aS2MkZTAuw__",
+  "job_id": "job_zyoUvBzbh91tv6jC721rq5Ur",
+  "asset_id": "asset_hUaADijYNwRUxf55U7hbuQTK",
+  "stub": false,
+  "prompt": "Storyboard frame, vertical 9:16 aspect ratio: pure in-game shot, vibrant minimalist 3D top-down with bright solid colors, hero #FFD700 yellow square mid-sweep carving a massive loop across the arena, trailing line glowing, a #00BFFF cyan opponent and #FF00FF magenta opponent visible, kill-feed text in upper right, on-screen text overlay '87% of the map. MINE.' in chunky yellow stroked type, energetic competitive mood, crisp solid colors, no gradients",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

@@ -1,0 +1,162 @@
+{
+  "count": 1936,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "fd80ecd7d5cb6ce6",
+      "app_id": "6178e7bfdb622901de5dd950",
+      "network": "Facebook",
+      "phashion_group": "fd80ecd7d5cb6ce6",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-17",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "fd80ecd7d5cb6ce6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u30d4\u30af\u30df\u30f3\u3068\u4ef2\u826f\u3057",
+          "button_text": "Install Now",
+          "message": "\u30d4\u30af\u30df\u30f3\u3068\u6bce\u65e5\u3092\u904e\u3054\u3057\u3066\u3001\u4ef2\u826f\u3057\u5ea6\u3092\u3042\u3052\u3088\u3046"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6178e7bfdb622901de5dd950",
+        "canonical_country": "JP",
+        "name": "Pikmin Bloom",
+        "publisher_name": "Scopely",
+        "publisher_id": "560c44e48ac3506439005117",
+        "humanized_name": "Pikmin Bloom",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/de/2c/b2de2c1b-b477-9fdb-1ef6-9427d378f541/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6178e7bfdb622901de5dd950",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f337c160f6261433",
+      "app_id": "5a9e98aa2d1d806724ed6091",
+      "network": "Facebook",
+      "phashion_group": "f337c160f6261433",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-25",
+      "last_seen_at": "2026-04-05",
+      "creatives": [
+        {
+          "id": "f337c160f6261433",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2e23a7ab41958d13/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2e23a7ab41958d13/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2e23a7ab41958d13/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u6700\u9ad8\u30ec\u30a2\u57ce\u5a18\u304c12\u4f53\u3082\u3089\u3048\u308b",
+          "button_text": "Install Now",
+          "message": "\u6700\u5927\u3067\u30ac\u30c1\u30e31,000\u9023\u5206\u76f8\u5f53\u306e\u30a2\u30a4\u30c6\u30e0\u304c\u3082\u3089\u3048\u308b\uff01\u5f37\u529b\u306a\u57ce\u5a18\u3092\u30b2\u30c3\u30c8\u3057\u3088\u3046"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5a9e98aa2d1d806724ed6091",
+        "canonical_country": "JP",
+        "name": "\u5fa1\u57ce\u30d7\u30ed\u30b8\u30a7\u30af\u30c8:RE",
+        "publisher_name": "DMM.com",
+        "publisher_id": "561dd116dc0be5be49000196",
+        "humanized_name": "\u5fa1\u57ce\u30d7\u30ed\u30b8\u30a7\u30af\u30c8:RE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/2d/29/b32d2979-9f2d-01aa-55b1-95d53b34a776/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5a9e98aa2d1d806724ed6091",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "ec7a8152e42cab10",
+      "app_id": "55d2acec02ac64a768000016",
+      "network": "Facebook",
+      "phashion_group": "ec7a8152e42cab10",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-02",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "ec7a8152e42cab10",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b9f591045f04463/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b9f591045f04463/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b9f591045f04463/thumb",
+          "video_duration": 6,
+          "width": 606,
+          "height": 1080,
+          "title": "\u3010\u671f\u9593\u9650\u5b9a\u3011\u30c7\u30c3\u30c9\u30a2\u30ab\u30a6\u30f3\u30c8\u30b3\u30e9\u30dc\u958b\u50ac\u4e2d",
+          "button_text": "Install Now",
+          "message": "LINE\u30ec\u30f3\u30b8\u30e3\u30fc\u00d7\u30c7\u30c3\u30c9\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30a4\u30d9\u30f3\u30c8\u3092\u7121\u6599\u3067\u697d\u3057\u3082\u3046\u2728\n\u4eca\u306a\u3089\u30ed\u30b0\u30a4\u30f3\u3059\u308b\u3060\u3051\u3067\u6f06\u6816\u5ddd\u5e0c\u8a60\u306e\u30ec\u30f3\u30b8\u30e3\u30fc\u304c\u3082\u3089\u3048\u308b\uff01"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d2acec02ac64a768000016",
+        "canonical_country": "US",
+        "name": "LINE Rangers: Brown-Cony Wars!",
+        "publisher_name": "LY Corporation",
+        "publisher_id": "5ced8f28b9ab947b5a24b6e9",
+        "humanized_name": "LINE Rangers",
+        "icon_url": "https://play-lh.googleusercontent.com/xVh8l9h55SmARJ-DdIxf0dfvbDK0skLp3ceuDokfZozrQuepDoKGLDe9wrErh0XWPf4UIjkqFAtoPGYbmOhwHXw=s150",
+        "os": "unified",
+        "id": "55d2acec02ac64a768000016",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d683378596d7773",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "5d683378596d7773",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "5d683378596d7773",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

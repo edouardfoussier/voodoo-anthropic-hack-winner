@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "86ac9a16b9469fb3",
+    "ad_unit_id": "86ac9a16b9469fb3",
+    "app_id": "55ea2eb392e74c8309005260",
+    "advertiser_name": "Star Wars: Galaxy of Heroes",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0108a4f7e1e69551/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0108a4f7e1e69551/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0108a4f7e1e69551/preview",
+    "phashion_group": "86ac9a16b9469fb3",
+    "share": null,
+    "first_seen_at": "2026-01-11T00:00:00",
+    "last_seen_at": "2026-04-17T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "In-game event now live!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid level-up progression and character stat increases.",
+    "visual_action": "Text 'ACCELERATE TO LEVEL 85' transitions into a character leveling up with rising stats.",
+    "text_overlay": "ACCELERATE TO LEVEL 85",
+    "voiceover_transcript": "Accelerate to level 85 and level up faster.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Introduction showing rapid level-up mechanics and stat growth.",
+    "Montage of unlocking legendary Star Wars characters like Darth Vader and Obi-Wan.",
+    "Action-packed gameplay snippets showing squad combat and special abilities.",
+    "Final call to action with a cinematic starfield background.",
+    "End card featuring iconic key art and download links."
+  ],
+  "on_screen_text": [
+    "ACCELERATE TO LEVEL 85",
+    "LEVEL UP FASTER",
+    "UNLOCK MORE HEROES",
+    "AND MASTER YOUR ABILITIES",
+    "BEGIN YOUR JOURNEY TODAY"
+  ],
+  "cta_text": "BEGIN YOUR JOURNEY TODAY",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#000000",
+    "#FFFF00",
+    "#00CCFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male Star Wars fans aged 18-45 who enjoy character collection and strategic RPGs.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016840000000000002
+}

@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "cd6634d0d4f5cc05",
+    "ad_unit_id": "cd6634d0d4f5cc05",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c9e4b0dc0302ca61/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c9e4b0dc0302ca61/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c9e4b0dc0302ca61/preview",
+    "phashion_group": "cd6634d0d4f5cc05",
+    "share": null,
+    "first_seen_at": "2024-09-20T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Experience the full power of combat robots!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Intense mech combat with heavy gunfire and explosions.",
+    "visual_action": "A large mech is firing multiple weapons at enemy mechs in a futuristic, lunar-like environment.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Mech engages multiple enemies with heavy artillery in a lunar base setting.",
+    "Close-up of the mech's weapons firing and hitting targets with sparks and smoke.",
+    "The mech continues to advance while taking fire and destroying enemies.",
+    "Transition to a black screen with 'START NOW!' text and fire sparks."
+  ],
+  "on_screen_text": [
+    "START NOW!"
+  ],
+  "cta_text": "START NOW!",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#1A1A1A",
+    "#FFA500",
+    "#00BFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy tactical combat and sci-fi machinery.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001302
+}

@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "e9a2312cc63200b7",
+    "ad_unit_id": "e9a2312cc63200b7",
+    "app_id": "622390aa2e0fa027dbdc26b8",
+    "advertiser_name": "Block Blast!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/13b01fefa29c0c25/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/13b01fefa29c0c25/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/13b01fefa29c0c25/preview",
+    "phashion_group": "e9a2312cc63200b7",
+    "share": null,
+    "first_seen_at": "2026-02-23T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Happy New Year",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A man in a trench coat slaps people in a hallway, synced to game score increases.",
+    "visual_action": "A man in a black trench coat slaps several men in a hallway, with game overlays showing scores and combos.",
+    "text_overlay": "When you thought you were the big brother in Block Blast, you met...",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Man in a trench coat slaps a series of men in a hallway, synced to block placement sounds.",
+    "Game overlays show the slapper's high score vs the victims' lower scores.",
+    "The slapper encounters a man with a higher score and gets hit back.",
+    "Final screen displays the game logo and app store download links."
+  ],
+  "on_screen_text": [
+    "When you thought you were the big brother in Block Blast, you met...",
+    "110191",
+    "1540 Combo 13",
+    "58 Combo 2",
+    "888 Combo 10",
+    "112755 Combo 10",
+    "BLOCK BLAST"
+  ],
+  "cta_text": "Download now",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#000000",
+    "#4A148C",
+    "#F5F5F5"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Young men who enjoy competitive casual games and meme-style humor.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001693
+}

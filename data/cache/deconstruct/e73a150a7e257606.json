@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "e73a150a7e257606",
+    "ad_unit_id": "e73a150a7e257606",
+    "app_id": "62be6a5fbab10c69c5a0a42a",
+    "advertiser_name": "MONOPOLY GO!",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/preview",
+    "phashion_group": "e73a150a7e257606",
+    "share": null,
+    "first_seen_at": "2026-03-13T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Come Back to Hello Kitty®!",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Mr. Monopoly and Hello Kitty dance together to announce a collaboration.",
+    "visual_action": "Mr. Monopoly and Hello Kitty are dancing against a vibrant pink background with floating music notes and brand logos.",
+    "text_overlay": "MONOPOLY GO! HELLO KITTY AND FRIENDS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Mr. Monopoly and Hello Kitty dance together on a pink background.",
+    "Pochacco and Cinnamoroll are introduced with sparkling star effects.",
+    "Pompompurin and Kuromi join the celebration with confetti and music notes.",
+    "The full cast of characters dances on a Monopoly board in a colorful city setting under a rainbow.",
+    "Final call to action screen showing the event dates and a 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "MONOPOLY GO!",
+    "HELLO KITTY AND FRIENDS",
+    "JOIN THE HELLO KITTY CELEBRATION!",
+    "MARCH 10 - 29",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#FF69B4",
+    "#00AEEF",
+    "#FFF200"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Fans of Sanrio characters and casual mobile gamers who enjoy social, upbeat experiences.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017439999999999999
+}

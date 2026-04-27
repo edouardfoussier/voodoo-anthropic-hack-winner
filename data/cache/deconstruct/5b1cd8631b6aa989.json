@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "5b1cd8631b6aa989",
+    "ad_unit_id": "5b1cd8631b6aa989",
+    "app_id": "69ba2b56402af3e8a1508668",
+    "advertiser_name": "Hoàn Mỹ Tam Quốc",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01f9a12ce717af40/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01f9a12ce717af40/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01f9a12ce717af40/preview",
+    "phashion_group": "5b1cd8631b6aa989",
+    "share": null,
+    "first_seen_at": "2026-04-09T00:00:00",
+    "last_seen_at": "2026-04-09T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-intensity combat gameplay featuring Guan Yu with flashy skill effects and high combo counts.",
+    "visual_action": "Guan Yu attacks a group of soldiers with a polearm, displaying damage numbers and a combo counter.",
+    "text_overlay": "RA MẮT HÔM NAY",
+    "voiceover_transcript": "Chiêm ngưỡng đồ họa sắc nét tại Hoàn Mỹ Tam Quốc với võ tướng Quan Vũ dũng mãnh.",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Continuous combat gameplay showing a high-combo attack sequence with Guan Yu.",
+    "Display of ultimate skill with explosive fire effects and massive damage numbers.",
+    "Cinematic 3D render transition showing a character performing a whirlwind attack.",
+    "Final promotional screen with gift codes and app store download links."
+  ],
+  "on_screen_text": [
+    "Hoàn Mỹ Tam Quốc",
+    "RA MẮT HÔM NAY",
+    "TẶNG NGAY BỘ GIFTCODE",
+    "VIP666",
+    "VIP888",
+    "TOPITAMQUOC",
+    "HOANMYTAMQUOC",
+    "Hoàn Mỹ Đồ Họa",
+    "Đột Phá Cách Chơi"
+  ],
+  "cta_text": "Tải ngay trên Google Play App Store",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#FFD700",
+    "#B22222",
+    "#4B3621"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male gamers in Vietnam interested in Three Kingdoms action RPGs and high-fidelity mobile graphics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001873
+}

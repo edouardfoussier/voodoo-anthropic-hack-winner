@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_vJKEZc1Eycqhi5CRem1aj7Z1?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdkpLRVpjMUV5Y3FoaTVDUmVtMWFqN1oxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=defw23-FWT9GOIFk5ZyL2hdvifqw5qJEFY77m56CmVA8rZc8Eykguyn9AqB-DVnHSt8eeWatd1pJI7elNDTdbO8WPCItvxg5yzvODR4%7E-BUU1fMp5yhncwJgWwWvlFLYSMWnLPhs36O%7EfhbXrGsZi9OkGp2LjY5zwP%7EySTG74tKP96o2%7E76zjnvv-9wRKpNSt2ZROf-WT6WjW4vo7pBXU81uVoBF%7ENiuqeq30Ws8I1Reru7ZuR0Vxiysfss7-BjDweOPkPgYWIfy4wfY1ExuXYoykDL2DjVABUSdyHv2Zqi-kM7k4znvkc6E36FmxqNL1ms%7ENq%7E4NFMbjfv3hgQBqw__",
+  "job_id": "job_hakmkQ1UwozMdRGqZRYs3Hz6",
+  "asset_id": "asset_vJKEZc1Eycqhi5CRem1aj7Z1",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic in-game screenshot of Knock'em All: first-person perspective looking down a chunky colorful toy-like gun barrel, three vibrant red crash-test dummies (#D91A1A) standing on a simple flat-shaded geometric platform floating in a pastel sky-blue (#8ED4FF) void, a single ball mid-flight with a soft accent-purple (#6B15E8) motion trail, comic-book 'BIM' burst exploding on the lead dummy, level progress bar UI pinned to bottom, top-center level number pill, minimalist 3D with bright flat colors and simple geometric environments, no textures, on-screen text 'Ever played a game this satisfying?' in bold white with purple outline at top. [Audio: VO (warm female, near-whisper) 'Ever played a game that actually feels this satisfying?' / chill lo-fi tap-house 80 BPM, calm and pillowy / soft whoosh on ball release at 1s, deep thud + comic 'BIM' on dummy impact at 2.5s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

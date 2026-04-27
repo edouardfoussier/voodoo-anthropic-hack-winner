@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "afb667a1f77da453",
+    "ad_unit_id": "afb667a1f77da453",
+    "app_id": "551b7f69e3943916f200005b",
+    "advertiser_name": "Pixel Gun 3D: Online Shooter",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/83ef86631957e492/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/83ef86631957e492/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/83ef86631957e492/preview",
+    "phashion_group": "afb667a1f77da453",
+    "share": null,
+    "first_seen_at": "2025-09-04T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "PvP",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A fast-paced montage of diverse blocky combat environments emphasizing the game's long history.",
+    "visual_action": "Rapid cuts between a warehouse map and a toy-themed bedroom map with active shooting.",
+    "text_overlay": "1 game, 11 years, 1M memories",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Montage of warehouse combat with blocky vehicles and shooting.",
+    "Transition to a toy-themed bedroom map featuring a large red plane and colorful blocks.",
+    "Nighttime urban combat scene with police cars and explosions.",
+    "Natural cave environment showing exploration and shooting near water.",
+    "Final end card with game title, gameplay on a device, and a 'PLAY' button."
+  ],
+  "on_screen_text": [
+    "1 game, 11 years, 1M memories",
+    "PIXEL GUN 3D",
+    "PLAY",
+    "Download on the App Store",
+    "GET IT ON Google Play"
+  ],
+  "cta_text": "PLAY",
+  "cta_timing_seconds": 8.5,
+  "palette_hex": [
+    "#1A1A2E",
+    "#7CFC00",
+    "#FF0000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 13-25 who enjoy blocky, Minecraft-style aesthetics and fast-paced FPS action.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001732
+}

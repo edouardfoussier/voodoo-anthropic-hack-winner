@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_JgKAH74F7JQzkcMGXqrgE11F?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSmdLQUg3NEY3SlF6a2NNR1hxcmdFMTFGP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=jOAiWrs3kBgNGIcB6muwOjj6dQpjfrTvNryJeIVXr9sj8UXSEdN2swrk4LYNG-FL2W2ys7AeWv6SNBTMdODDm3sRTdILfrGE43XHx3wTFz0IgPrWtdAfSABfsmtJ8aQPwIQI1BzkH-Mf8kIoHQY%7EC%7Ec-M3UQ7ExZhsolewEDrq9LH0TlngVxZsUYtwvG8FLDVta7MdJ8IZeaiiZhucxEZLDkNdQfZfbeGyC1nk8aGmSjmps%7Elk2UDLXAMDWKhAESo4sb3Y1dgldgoq7ry0OeOukkPIdR6jXnZKOoQeCfty%7EINg3RI6N0mAeivVZDT8jpal9-RsOFobsT-lmT73Zrmw__",
+  "job_id": "job_e45zaMCxy4ALdj3GLEwHLJUt",
+  "asset_id": "asset_JgKAH74F7JQzkcMGXqrgE11F",
+  "stub": false,
+  "prompt": "Storyboard frame, 9:16 vertical aspect, Mystical Minimalism aesthetic. A fully revealed celebrity portrait rendered entirely in glowing golden filigree lines (#D4A024) with luminous highlights (#FCE588) against a deep near-black background (#100D06), surrounded by faint constellation-like dots. A small gold counter reads '0 questions left.' Bold gold serif text overlay at bottom: 'Outsmart The Sphinx.' Triumphant, mystical, premium reveal moment.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "411c1c21e5a1009a",
+    "ad_unit_id": "411c1c21e5a1009a",
+    "app_id": "5a38f32e0211a6dc806a3282",
+    "advertiser_name": "Jigsaw Puzzles - Puzzle Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00220605010137c5/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00220605010137c5/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00220605010137c5/preview",
+    "phashion_group": "411c1c21e5a1009a",
+    "share": null,
+    "first_seen_at": "2025-12-29T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Start playing now - get free puzzles every day!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Hand dragging puzzle pieces onto a digital board.",
+    "visual_action": "A person's hands hold a smartphone and drag a blue sky puzzle piece into the corner of a grey grid.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Close-up of a user starting a jigsaw puzzle on a smartphone.",
+    "Animated sequence of puzzle pieces snapping into place on a grey background.",
+    "The user completes the puzzle on the phone screen, revealing a scenic river town.",
+    "A gallery of diverse puzzle categories (animals, food, nature) scrolls into view.",
+    "Final branding screen with the title 'JIGSAW PUZZLES'."
+  ],
+  "on_screen_text": [
+    "JIGSAW PUZZLES"
+  ],
+  "cta_text": "JIGSAW PUZZLES",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#4A90E2",
+    "#E0E0E0"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual puzzle enthusiasts and adults looking for a relaxing, low-stress mobile gaming experience.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015530000000000001
+}

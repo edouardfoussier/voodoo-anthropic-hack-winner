@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "4589811d74f031cb",
+    "ad_unit_id": "4589811d74f031cb",
+    "app_id": "62429cefb3ae2756c91a89ac",
+    "advertiser_name": "Diablo Immortal",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0403671236b3d78b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0403671236b3d78b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0403671236b3d78b/preview",
+    "phashion_group": "4589811d74f031cb",
+    "share": null,
+    "first_seen_at": "2025-12-19T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cinematic introduction of the Blood Knight character with a hook question.",
+    "visual_action": "Close-up of a character in red armor followed by fast-paced combat scenes.",
+    "text_overlay": "YOU MIGHT BE A BLOOD KNIGHT IF...",
+    "voiceover_transcript": "You might be a Blood Knight if...",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Cinematic close-up of the Blood Knight character with a hook question.",
+    "Gameplay footage showing the character fighting enemies in a dark dungeon.",
+    "Close-up of a demonic monster followed by more combat gameplay.",
+    "Cinematic shot of the character's face and armor.",
+    "End card with game logo, download links, and 'PLAY NOW' button."
+  ],
+  "on_screen_text": [
+    "BEST ROLE PLAYING GAME WINNER DICE AWARDS",
+    "DIABLO IMMORTAL",
+    "YOU MIGHT BE A BLOOD KNIGHT IF...",
+    "YOU DOMINATE IN THE DARK",
+    "YOU'RE NOT AFRAID TO EMBRACE YOUR RAGE",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#000000",
+    "#8B0000",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Hardcore RPG fans and Diablo series enthusiasts who enjoy dark fantasy and action-heavy gameplay.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017620000000000001
+}

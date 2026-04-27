@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "f695f1c1d8e8d92e",
+    "ad_unit_id": "f695f1c1d8e8d92e",
+    "app_id": "660032374e1bbd3e53984ac5",
+    "advertiser_name": "StickerHub - Sticker Exchange",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/281d1816ae06ad44/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/281d1816ae06ad44/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/281d1816ae06ad44/preview",
+    "phashion_group": "f695f1c1d8e8d92e",
+    "share": null,
+    "first_seen_at": "2026-03-30T00:00:00",
+    "last_seen_at": "2026-04-20T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Warning: You're missing out on completing your Monopoly album!\nDownload our app now and start filling those gaps!\nWill you be the first to finish?",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Monopoly Go characters watch a shower of sticker packs fall from a portal.",
+    "visual_action": "Mr. Monopoly and a scientist look up in awe as sticker packs emerge from a swirling portal.",
+    "text_overlay": "STICKERHUB",
+    "voiceover_transcript": "Huh?",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Monopoly Go characters witness a portal raining sticker packs.",
+    "Transition through a glass-shattering effect to the StickerHub app interface.",
+    "Step-by-step tutorial showing how to select duplicate cards and match with other players.",
+    "Demonstration of a successful instant trade and set completion.",
+    "Final branding scene with Mr. Monopoly facilitating a 'Quick Match' between real people."
+  ],
+  "on_screen_text": [
+    "STICKERHUB",
+    "Open StickerHub",
+    "Select your extra cards",
+    "Match with the right people instantly",
+    "Choose what you need",
+    "Complete your trade in seconds",
+    "QUICK MATCH",
+    "NEED"
+  ],
+  "cta_text": "QUICK MATCH",
+  "cta_timing_seconds": 11.5,
+  "palette_hex": [
+    "#6A1B9A",
+    "#26A69A",
+    "#FF9800"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Monopoly Go players who are frustrated with incomplete sticker sets and want a trading tool.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016589999999999999
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_uShmQ1kVtue42fuBSL5AJJWA?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdVNobVExa1Z0dWU0MmZ1QlNMNUFKSldBP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=QYZTBiUAoHd%7E%7EwqdnpG-Lt1he7jm8ddjCx%7Ex7kQ1HMvWlgtTrxaBnZ4v%7EZUZ99Q3NLyhLD3wv%7EESjUQDVabLUW2-Y4tpM72tUhiYBCkZ6w7QegX29NdEwIZRtPvCeZTZZOocbJO00TKnnHPzhdjZ3jGAb4VW9v98wIA2ga7QbstEJ1vIIjOsmNWXeCKjT0V%7ECitC1gag%7E2WjidSPv%7EWtt%7EZsKHC%7ESF%7EMEt1krLJ6w9A2MoTvT56505m0WTMRhwq9cq5jaaImF7dGF%7E1SdtLFXs%7ETM%7ErBWEIIU5iif8WTwpX5YHeVwdd2wZKd2C8zCePzrjNei0c%7EBfmomhXkUIXzfQ__",
+  "job_id": "job_bV5P9WpAJqaV44BexrGVj2W9",
+  "asset_id": "asset_uShmQ1kVtue42fuBSL5AJJWA",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16: authentic Archery Clash! reward screen, legendary bow item card center-frame with vibrant yellow (#FFD700) rarity background and golden glow rays, green (#32CD32) +ATK and +CRIT stat pop-ups floating upward, bright blue (#2A9DF4) banner header reading 'LEGENDARY BOW UNLOCKED', female archer protagonist celebrating in background on duel platform, gear collection slots and coin/gem counters in HUD, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, confetti particles, on-screen text '+LEGENDARY BOW' in bold yellow. [Audio: VO 'Legendary unlocked!' (satisfied female) / triumphant competitive sting at 110 BPM / chest-burst whoosh at 0.5s, coin-cascade chimes at 1-3s, power-up swell on stat pop.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,43 @@
+{
+  "count": 2276,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "28bb033a4ed283ad",
+      "app_id": "6024d92ffc2aa03e6d63fad7",
+      "network": "TikTok",
+      "phashion_group": "28bb033a4ed283ad",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "28bb033a4ed283ad",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/565169f3516e8b04/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Trainers Wanted!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6024d92ffc2aa03e6d63fad7",
+        "canonical_country": "JP",
+        "name": "Umamusume: Pretty Derby",
+        "publisher_name": "CyberAgent",
+        "publisher_id": "5614b4a13f07e2077c0010d8",
+        "humanized_name": "Umamusume: Pretty Derby",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/43/25/a2432599-0e6e-7976-055c-bb1a7511348e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6024d92ffc2aa03e6d63fad7",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

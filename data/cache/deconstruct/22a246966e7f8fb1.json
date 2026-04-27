@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "22a246966e7f8fb1",
+    "ad_unit_id": "22a246966e7f8fb1",
+    "app_id": "647db77c25186e7cb5c12245",
+    "advertiser_name": "Polygun Arena: Online Shooter",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/042e0c4548f258f7/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/042e0c4548f258f7/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/042e0c4548f258f7/preview",
+    "phashion_group": "22a246966e7f8fb1",
+    "share": null,
+    "first_seen_at": "2026-01-09T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Join the ULTIMATE Low-Poly SHOOTER!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Intense first-person shooter gameplay showing a kill through a sniper scope in a barn.",
+    "visual_action": "Player aims down sights and shoots an enemy character in a low-poly barn environment.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "First-person perspective sniper shot in a barn setting.",
+    "Rapid montage of close-quarters combat and different weapon types.",
+    "Outdoor gameplay showing character movement and damage indicators.",
+    "Final end card featuring the game logo, character lineup, and a call to action."
+  ],
+  "on_screen_text": [
+    "39 KILLS TO WIN",
+    "2306",
+    "1633",
+    "782",
+    "564",
+    "POLYGUN ARENA",
+    "12 suitable for",
+    "PLAY NOW!"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#8B4513",
+    "#87CEEB",
+    "#FF0000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy low-poly, fast-paced competitive first-person shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014880000000000002
+}

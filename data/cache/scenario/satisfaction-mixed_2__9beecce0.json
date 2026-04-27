@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_nV8gN9yxE8XWBQTfmeeGjpnp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfblY4Z045eXhFOFhXQlFUZm1lZUdqcG5wP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=D7wu%7ECk86%7EFBytXWzkk5Ozn6PN2jPv5VX9cu0pw6EMN7O3rxSb%7EEoVUsgwtsKniTO2l5kBrt3p6CXh5o9TBSfcRTN9EgQDSLlV5pZPLBDWkoiCHRDBkk4qJwiQL1ePigUusrTccIwfGq-z5A8xc2lXCd%7ElWrFV%7EltQA%7E5ix2VDs3WsfmnE8i-s%7E0nMwKsVWsOzVN0KNgjqqU60UIGHF7NmRh4ltvD2NeK%7EA9t82XFax3q%7EmrqG-6MJHN3fCnLG4psb7PYJKxjIVaX6gHSVfUCZD1FNoDMMkIqVC6fYvKO0TUN6bD6p2Cc3xxShOkummzk3nE51%7EM4sy3xPJBDBFcSQ__",
+  "job_id": "job_TTjSHhQ2U8xhzDv15jYBnPD9",
+  "asset_id": "asset_nV8gN9yxE8XWBQTfmeeGjpnp",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical aspect ratio, full-screen authentic Helix Jump gameplay capture: dramatic downward camera angle following the neon ball plummeting through a long open gap in the helix tower, cyan #5CE1E6 platforms blurring past, a #39FF14 green safe-zone glow trailing behind the ball, one #FF0000 red trap ring narrowly avoided, bold overlay text 'Don't. Touch. Red.' centered in white, score multiplier and level dots HUD intact, 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters, light off-white background tower, glossy and high contrast.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "1c2a051cbb2b29a6",
+    "ad_unit_id": "1c2a051cbb2b29a6",
+    "app_id": "687b11979e9180125316e665",
+    "advertiser_name": "Courtyard - Trading Cards",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d6b02d1ccf5c1ddb/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d6b02d1ccf5c1ddb/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d6b02d1ccf5c1ddb/preview",
+    "phashion_group": "1c2a051cbb2b29a6",
+    "share": null,
+    "first_seen_at": "2026-02-14T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Mystery Packs. Real Cards. Instant Buyback.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A PSA-graded Pikachu card on a pedestal is struck by lightning.",
+    "visual_action": "Lightning bolts strike a PSA-graded Pikachu card on a white pedestal against a clean white background.",
+    "text_overlay": "IF YOUR FAVORITE CARDS CAN EVOLVE...",
+    "voiceover_transcript": null,
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "Pikachu card displayed on a futuristic pedestal with lightning effects.",
+    "Lightning intensifies and the card transforms into a Raichu card.",
+    "Text overlay asks if the user's collection should also evolve.",
+    "Final screen shows digital packs and physical cards with download links."
+  ],
+  "on_screen_text": [
+    "IF YOUR FAVORITE CARDS CAN EVOLVE...",
+    "SHOULDN'T YOUR COLLECTION?",
+    "Courtyard.io",
+    "DIGITAL PACKS PHYSICAL CARDS™",
+    "Download Now"
+  ],
+  "cta_text": "Download Now",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#0056B3",
+    "#FFCB05"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Male collectors and Pokemon enthusiasts aged 18-35 interested in card trading and digital assets.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016389999999999998
+}

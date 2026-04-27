@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_1E1yfYcbVSrtEFPpdDvWkS2J?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMUUxeWZZY2JWU3J0RUZQcGREdldrUzJKP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=nybjekQ0SDcJg3KPiRnnRXesDxVpAfTAYz6XBujbcvAEzSmBsZalY4ByeB4VGQb4GCNZ1G0AoOigeBZwqVK2sTWG%7EU4OaYpsN-zVdQL2wDJqzjDnRI0sgtuRPOXj%7Eht1ccjkdUQ4%7ESA7vEqvslZ9tnecw9Lzj5-bwxXAif5UZWP3yEDChajebTCWFp%7E1704UmC3sU7YvvxUc27rwh17uIvuAI3xt13WUFO6BiFmmZIAf8TjP-kFDrBk7NXdSl2kdaksceXHwa3%7EIRKgp41-D7Q8DOtOPGejQtoQysTW4AUC2VALsPobhIqx-FgJcDb9ygeEIZOOmkv%7EWHGKsqRA9gg__",
+  "job_id": "job_k3GENtZgP8pNvcBVsWYnfigK",
+  "asset_id": "asset_1E1yfYcbVSrtEFPpdDvWkS2J",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, Stylized 3D Cartoon: extreme close-up on a cartoon cannon charging up with swirling cyan #00A3FF energy, a tiny nervous purple #5824F5 mob of 5 stick-figures clustered at its base, warm yellow #FFD12C sparks flying, deep purple gradient sky, player's finger silhouette dragging an aim line, punchy cel-shading, on-screen text 'AIM THE CANNON' in white with yellow outline",
+  "model_id": "flux.1-dev"
+}

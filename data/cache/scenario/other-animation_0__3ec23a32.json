@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_a57PbNQ9Nb5VMCaY7UQkfPYT?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfYTU3UGJOUTlOYjVWTUNhWTdVUWtmUFlUP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=RcBjxRHejeFOh4sFfjo65zsLIuFWBh6JMiOF9Fh9YRBRL%7E5AbDqoAJb4hNav0I9U7T%7EbP%7Ea8LPaaqH3mfKU%7EjNgi6zHOBxuvIWFnlVcSzg8g4DOAmIBQdYeqDUQBCwuqIV7Iitrp5IbvG0abRut0xoaeiuuZjbh%7Ex2dPUafFEmZlMxJHXstYeuJmPaJmmO29p%7ElHQEhlBM5KrM%7EMUENZE2qYDJ9M8Fiahb3rKfHTXhSe4j1%7ExRl5Gcrx3MHTnNnR0UYh6zvdZeqn-J7RcAawh-izl7HERyMgtISPaOjUXNfwqv3rtDYy2McXlxQZtzvIPE4v%7E3s5BbQrBquhHQc4Gg__",
+  "job_id": "job_EVyiioFgH1KTtavYMuCcu9NS",
+  "asset_id": "asset_a57PbNQ9Nb5VMCaY7UQkfPYT",
+  "stub": false,
+  "prompt": "Hero splash frame, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors. A glowing orange basketball hovers center-frame between two cartoon basketball hoops with magenta nets, crackling blue (#5CB3FF) energy aura swirling around it, warm beige (#EAD5A0) sky background with simple flat clouds, in-game Flappy Dunk score counter '00' top-center and tiny heart lives indicator top-left, giant bold magenta (#D81155) banner across lower third reading 'PLAY NOW!' in chunky white outlined letters, poster-style composition, no human character. [Audio: VO 'Can you beat the champ? Play now!' / punchy upbeat trap 128 BPM with brassy hit / energy-charge whoosh at 0.5s, deep bass drop on banner slam at 1.2s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "55a473bed643ae9e",
+    "ad_unit_id": "55a473bed643ae9e",
+    "app_id": "622390aa2e0fa027dbdc26b8",
+    "advertiser_name": "Block Blast!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1123cf80aa06a49e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1123cf80aa06a49e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1123cf80aa06a49e/preview",
+    "phashion_group": "55a473bed643ae9e",
+    "share": null,
+    "first_seen_at": "2026-02-07T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "New version, challenge higher scores!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Satisfying block placement and line clearing.",
+    "visual_action": "A hand places colorful blocks into a grid, clearing lines with each move.",
+    "text_overlay": "8888598969865",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Hand places a purple block to complete a horizontal line.",
+    "Hand places a green block to complete a vertical line.",
+    "Hand places a pink block to complete a vertical line.",
+    "Hand places a red block, triggering an 'Amazing' animation.",
+    "Hand places a blue block, triggering a 'Great!' animation.",
+    "Hand places a yellow block, triggering a 'Good!' animation."
+  ],
+  "on_screen_text": [
+    "8888598969865",
+    "Amazing",
+    "Great!",
+    "Good!"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#1a3a8a",
+    "#facc15",
+    "#ef4444"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle gamers who enjoy satisfying, high-score-driven block matching games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001411
+}

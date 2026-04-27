@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 20,
+  "mechanic_match": 15,
+  "audience_match": 65,
+  "overall": 25,
+  "rationale": "The \"fail-state bus parking puzzle\" hook is mechanically incompatible with Helix Jump — there are no vehicles, top-down puzzle layouts, or hand-drag interactions in a vertical bouncing-ball tower, so adapting this concept would require fabricating gameplay that misrepresents the app (ASA/store policy risk). The muted gray/green/white palette also clashes hard with Helix Jump's neon high-contrast identity, further weakening visual reuse. Audience overlap (broad hypercasual fail-bait viewers) is the only redeeming axis; recommend skipping this archetype and instead testing fail-bait framings built around the rotate-to-avoid-red-platforms moment."
+}

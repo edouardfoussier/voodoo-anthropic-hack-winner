@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "bcaa9a8d7e508e6c",
+    "ad_unit_id": "bcaa9a8d7e508e6c",
+    "app_id": "69ba2b56402af3e8a1508668",
+    "advertiser_name": "Hoàn Mỹ Tam Quốc",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01f9a12ce717af40/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01f9a12ce717af40/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01f9a12ce717af40/preview",
+    "phashion_group": "bcaa9a8d7e508e6c",
+    "share": null,
+    "first_seen_at": "2026-04-09T00:00:00",
+    "last_seen_at": "2026-04-09T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-action combat gameplay featuring a legendary general with sharp graphics.",
+    "visual_action": "Guan Yu performing rapid, flashy attacks against multiple enemies in a 3D environment.",
+    "text_overlay": "RA MẮT HÔM NAY",
+    "voiceover_transcript": "Chiêm ngưỡng đồ họa sắc nét tại Hoàn Mỹ Tam Quốc với võ tướng Quan Vũ dũng mãnh.",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Intense combat gameplay showcasing Guan Yu's skills and high combo counts.",
+    "Transition to a cinematic 3D render of a character performing a powerful move.",
+    "Character spinning in a red vortex, transitioning to a wide shot of a battlefield.",
+    "Final splash screen with game logo and download buttons."
+  ],
+  "on_screen_text": [
+    "RA MẮT HÔM NAY",
+    "TẶNG NGAY BỘ GIFTCODE",
+    "VIP666",
+    "VIP888",
+    "TOPITAMQUOC",
+    "HOANMYTAMQUOC",
+    "Hoàn Mỹ Tam Quốc",
+    "Hoàn Mỹ Đồ Họa",
+    "Đột Phá Cách Chơi",
+    "Tải ngay"
+  ],
+  "cta_text": "Tải ngay",
+  "cta_timing_seconds": 14.0,
+  "palette_hex": [
+    "#D4AF37",
+    "#4B3621",
+    "#8B0000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male gamers interested in Three Kingdoms lore and high-action RPGs.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001846
+}

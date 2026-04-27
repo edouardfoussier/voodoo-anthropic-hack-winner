@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_hou2xAbDfvVNLaWTSqW6ycRm?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9ob3UyeEFiRGZ2Vk5MYVdUU3FXNnljUm0qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YdAyxT67bRrC0y%7ENtiun9BJ2vYYL9gSkCCjjfmm4oCBYdC-V0umCXyAfC9l8dUNlQUlw4KuMCdcn1JN-YNFmp890hl9wKiIT2TSJs4%7ErQN89%7EAdsqjx4E2LtRWnPBiZjdykcEWHWExFyhE3zfXiQ-7TuZBK%7EB8I6ufqff0hz0sOrSTKDhtJ96YZoMCECCoAQwNgwxDCd%7E6rMzw1iiUKpP5%7ESq6KtrZzF5i5v4iCLwIhO5K-VTtp287pORzZXI0HnKKsclKE6JITNclCqJBowUYdA5Yt0j-8BsgxI8NvvUw28wfIIpU7HduNOlt3os8Ue1UW0XKwBAnnqmPwl6K0e7Q__",
+  "job_id": "job_bsuAwLWNtLjMCUHfC51kLSSB",
+  "asset_id": "asset_hou2xAbDfvVNLaWTSqW6ycRm",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Hero frame, 9:16 vertical mobile gameplay screenshot of Push'em All: minimalist 3D low-poly scene, sandy-green (#56a38b) rectangular platform floating over vibrant blue (#2a7dfa) water, a blue stickman player at center wielding a long horizontal extending stick sweeping a dense crowd of bright red (#e3001b) stickman enemies off the edge, red ragdolls mid-air splashing into the water, flat shading, soft sun shadow, native HUD: thin level progress timeline across the top, large white 'COMBO x12' multiplier text center-screen, small coin counter top-right, bold overlay text 'actually feels GOOD?' in white sans-serif near top third, bright contrasting colors, energetic competitive mood, authentic in-game Push'em All moment",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": false,
+  "audio": false
+}

@@ -1,0 +1,336 @@
+{
+  "target_game": {
+    "app_id": "6748054540",
+    "name": "Bounce Blast 3D",
+    "genre": "Puzzle",
+    "sub_genre": "Physics Puzzle",
+    "core_loop": "Players tap to select and place colored blocks from a tray into a main grid to clear obstacles, which then transform into bouncing balls that trigger physics-based chain reactions to clear the level.",
+    "audience_proxy": "Casual puzzle players, aged 25-55, who enjoy satisfying physics-based games as a relaxing time-filler.",
+    "visual_style": "3D Casual Abstract",
+    "palette": {
+      "primary_hex": "#20232B",
+      "secondary_hex": "#403F6D",
+      "accent_hex": "#FDBA4D",
+      "description": "A dark, moody background with deep purple UI frames and a bright yellow-orange accent for progress bars and highlights."
+    },
+    "key_mechanics": [
+      "Tapping to place",
+      "Area filling",
+      "Physics-based clearing",
+      "Chain reaction"
+    ],
+    "character_present": false,
+    "ui_mood": "calm/satisfying",
+    "screenshot_signals": [
+      "Block-clearing puzzle",
+      "Physics-based ball bouncing",
+      "Level progression",
+      "Satisfying chain reactions",
+      "Varied level types",
+      "Difficulty indicators"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US"
+    ],
+    "networks": [
+      "TikTok"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 13,
+    "num_phashion_groups": 13
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "label": "Satisfaction · live-action-UGC",
+      "member_creative_ids": [
+        "e5f7659c7c52df69"
+      ],
+      "centroid_hook": {
+        "summary": "A young man dances energetically in a blue-lit room, expressing his happiness after playing a mobile game all night.",
+        "visual_action": "A young man waves his arms above his head and dances to a beat in a dimly lit room.",
+        "text_overlay": "how I feel after playing Crossword Go all night after school",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#1A2E5A",
+        "#5D613D",
+        "#D9D1C2"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 2.0,
+      "derivative_spread": 1.0,
+      "freshness_days": 10.0,
+      "overall_signal_score": 1.9,
+      "rationale": "1 creatives across 1 unique advertisers, average age 10d. Hook representative: \"A young man dances energetically in a blue-lit room, expressing his happiness af\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "411c1c21e5a1009a",
+        "2d1cb76ebe18267b"
+      ],
+      "centroid_hook": {
+        "summary": "A user interacts with a digital jigsaw puzzle on their phone, dragging pieces into place to start solving it.",
+        "visual_action": "A close-up shot of a woman's hand holding a smartphone and dragging a puzzle piece from a selection tray onto the main puzzle board.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#E9EAEB",
+        "#5DB3F7",
+        "#78A943"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.319,
+      "derivative_spread": 1.0,
+      "freshness_days": 94.0,
+      "overall_signal_score": 0.557,
+      "rationale": "2 creatives across 2 unique advertisers, average age 94d. Hook representative: \"A user interacts with a digital jigsaw puzzle on their phone, dragging pieces in\""
+    },
+    {
+      "archetype_id": "other-mixed",
+      "label": "Other · mixed",
+      "member_creative_ids": [
+        "5ba7458dea1165c1"
+      ],
+      "centroid_hook": {
+        "summary": "A person rushes home and dives into bed, eager to play the mobile game Tetris Block Party.",
+        "visual_action": "A person in a black hoodie enters a house, runs down a hallway, and dramatically jumps onto their bed to grab a tablet.",
+        "text_overlay": "POV: When I got home, I opened Tetris Block Party.",
+        "voiceover_transcript": null,
+        "emotional_pitch": "other"
+      },
+      "palette_hex": [
+        "#5D2E8C",
+        "#0084FF",
+        "#FBC100"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.291,
+      "derivative_spread": 1.0,
+      "freshness_days": 103.0,
+      "overall_signal_score": 0.539,
+      "rationale": "1 creatives across 1 unique advertisers, average age 103d. Hook representative: \"A person rushes home and dives into bed, eager to play the mobile game Tetris Bl\""
+    },
+    {
+      "archetype_id": "fail-animation",
+      "label": "Fail · animation",
+      "member_creative_ids": [
+        "9345a90e836db846"
+      ],
+      "centroid_hook": {
+        "summary": "The ad opens on an animated puzzle where one stick figure tries to steal another's phone, but fails. A voiceover introduces the game's name and premise.",
+        "visual_action": "A stick figure with an extendable arm attempts to steal a phone from another student in a library setting. The arm gets caught in a fan, showing a failed puzzle attempt.",
+        "text_overlay": "WELCOME TO THIEF PUZZLE",
+        "voiceover_transcript": "Welcome to Thief Puzzle where you get to enjoy funny puzzle levels, brain tests and much more.",
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#655752",
+        "#FBE137",
+        "#49F80B"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.248,
+      "derivative_spread": 1.0,
+      "freshness_days": 121.0,
+      "overall_signal_score": 0.511,
+      "rationale": "1 creatives across 1 unique advertisers, average age 121d. Hook representative: \"The ad opens on an animated puzzle where one stick figure tries to steal another\""
+    },
+    {
+      "archetype_id": "satisfaction-3d-render",
+      "label": "Satisfaction · 3D-render",
+      "member_creative_ids": [
+        "09b9a5138bab6a90"
+      ],
+      "centroid_hook": {
+        "summary": "A drawer opens in a kitchen, and then red pepper is satisfyingly poured into a glass jar.",
+        "visual_action": "A pink kitchen drawer opens, and then red pepper flakes are poured into a clear jar labeled \"RED PEPPER\".",
+        "text_overlay": "No. 047 RED PEPPER",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#F9A9E4",
+        "#E1F2FF",
+        "#8D8D8D"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.21,
+      "derivative_spread": 1.0,
+      "freshness_days": 143.0,
+      "overall_signal_score": 0.486,
+      "rationale": "1 creatives across 1 unique advertisers, average age 143d. Hook representative: \"A drawer opens in a kitchen, and then red pepper is satisfyingly poured into a g\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "visual_match": 25,
+      "mechanic_match": 15,
+      "audience_match": 55,
+      "overall": 28,
+      "rationale": "This live-action UGC archetype shows zero gameplay and references a different game (\"Crossword Go\"), so it does nothing to communicate Bounce Blast 3D's physics chain-reaction loop — which is the entire reason this game converts. The dancing-young-man hook also skews younger and more hype-driven than the calm 25-55 casual physics-puzzle audience, and the warm beige/blue UGC palette clashes with the moody dark-purple/amber game aesthetic. Only worth testing if rebuilt as a \"satisfied older player + screen-recorded chain reaction B-roll\" hybrid; as-is, do not greenlight."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 35,
+      "mechanic_match": 55,
+      "audience_match": 75,
+      "overall": 52,
+      "rationale": "Audience overlap is strong — the calm, satisfaction-led jigsaw hook targets the same 25-55 casual puzzle demographic Bounce Blast 3D wants. However, there are two real frictions: (1) the member palette is light/airy (greys, sky blue, green) which clashes hard with the game's dark moody purple + yellow-orange accent, so creatives would need a full recolor pass; (2) jigsaw drag-and-place only partially mirrors the core loop — tap-to-place tray onto grid is on-brand, but the hook completely misses the physics chain-reaction payoff that is the game's actual \"satisfaction\" beat. Recommend testing only if reshot with the game's dark palette AND extending past 3s into a ball-bounce chain reaction reveal."
+    },
+    {
+      "archetype_id": "other-mixed",
+      "visual_match": 35,
+      "mechanic_match": 55,
+      "audience_match": 40,
+      "overall": 42,
+      "rationale": "The \"POV: rushing home to play\" UGC hook skews young Gen-Z TikTok, which is a poor fit for Bounce Blast 3D's 25-55 casual relaxer audience — they're looking for calm/satisfying vibes, not hyped bedroom-dive energy. Visually the member palette (purple/blue/yellow) is roughly compatible with the game's deep-purple + amber accent scheme, but the live-action hoodie/bedroom setting clashes hard with the 3D abstract no-character aesthetic. Mechanic-wise the concept name-drops a competitor block puzzle and never showcases the physics chain-reaction payoff that's actually this game's hook — only worth testing as a low-budget UGC variant if the back half is re-cut to feature satisfying ball-bounce gameplay and the brand reference is removed."
+    },
+    {
+      "archetype_id": "fail-animation",
+      "visual_match": 15,
+      "mechanic_match": 10,
+      "audience_match": 25,
+      "overall": 15,
+      "rationale": "This is a Thief Puzzle / \"pull-the-pin\" style fail-bait archetype with stick-figure 2D animation, bright yellow/green palette, and a narrative-driven character gag — none of which align with Bounce Blast 3D's character-free, calm/satisfying 3D abstract physics-puzzle DNA (dark purple/orange palette, block placement + chain reactions). Mechanic match is near zero: there's no thief/draw-puzzle hook to graft onto tap-to-place block clearing without misrepresenting the product, which risks installs but terrible D1/D7 retention. Audience skews younger and meme-driven vs. the 25-55 relaxed casual target — do not greenlight; if testing fail-emotion creatives, build a native version using a \"wrong block placement → physics fail → satisfying retry\" beat instead."
+    },
+    {
+      "archetype_id": "satisfaction-3d-render",
+      "visual_match": 22,
+      "mechanic_match": 28,
+      "audience_match": 45,
+      "overall": 30,
+      "rationale": "Palette clash is severe: the archetype's pastel pink/baby blue kitchen aesthetic directly conflicts with Bounce Blast's dark moody purple + amber UI, so a literal port would feel off-brand. Mechanically, \"pouring into a jar\" is a weak analog for the game's tap-to-place + physics chain-reaction loop — there's no block placement, no bounce payoff, and no level-clear moment to anchor the satisfaction beat. Only worth pursuing as a loose inspiration: borrow the ASMR pour cadence and apply it to balls cascading into a grid, but don't commission this archetype as-is (also note n=1 advertiser, low velocity 0.21 — weak signal)."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "6748054540",
+        "title": "Tap. Place. Bounce. — Chain-Reaction Satisfaction",
+        "hook_3s": "Close-up: a manicured thumb taps a glowing amber block from the tray and snaps it into a dark purple grid — the block pulses gold, then the whole row erupts into bouncing balls.",
+        "scene_flow": [
+          "0–3s HOOK: Tight overhead phone-in-hand shot. Thumb drags a #FDBA4D block from the tray onto a moody #20232B grid. Satisfying click + amber glow on placement.",
+          "3–7s BUILD: Camera pushes in. Player taps two more blocks, completing a row. Tension beat — the placed blocks shimmer and tremble.",
+          "7–11s PAYOFF: Blocks transform into glowing yellow-orange balls that ricochet across the board, smashing purple obstacles in a physics chain reaction. Slow-mo on the biggest combo.",
+          "11–14s ESCALATE: Quick montage of 3 harder levels clearing in cascading bounces, level meter fills, 'LEVEL 7' badge pops.",
+          "14–15s CTA: Game logo over a final satisfying clear. Download button pulses in #FDBA4D."
+        ],
+        "visual_direction": "Lean fully into the game's dark, moody DNA: deep charcoal #20232B background with rich #403F6D purple UI frames and tray, every interactive moment kissed with bright #FDBA4D yellow-orange light (block glow, ball trails, progress bar, CTA). 3D Casual Abstract style — soft global illumination, subtle bevels on blocks, glossy spherical balls with motion blur trails. No characters; the hero is the player's thumb plus the board. ASMR-grade SFX cues: soft tactile click on placement, low whoosh on transform, popcorn-pop chain on chain-reaction. Camera stays phone-POV/overhead until the payoff, where it tilts in for a 3D parallax reveal of bouncing physics.",
+        "text_overlays": [
+          "Tap to place.",
+          "Fill the row…",
+          "Watch what happens 👀",
+          "CHAIN REACTION!",
+          "Can you clear Level 10?",
+          "Play Free"
+        ],
+        "cta": "Play Free",
+        "rationale": "Keeps the winning satisfaction/drag-place hook that scores 75/100 on audience but fixes both flagged frictions: full recolor into the game's signature dark purple + amber palette, and an extended 15s arc that pays off the physics chain-reaction beat the jigsaw reference completely misses. Test against a control that cuts at the 7s placement beat to isolate whether the bounce payoff lifts IPM — our bet is the chain-reaction reveal is the true 'satisfaction' moment for this game and will outperform pure jigsaw mimicry.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, 3D Casual Abstract style, overhead close-up of a woman's thumb dragging a glowing yellow-orange (#FDBA4D) cube from a deep purple (#403F6D) tray onto a dark charcoal (#20232B) grid puzzle board on a smartphone screen, soft volumetric glow under the placed block, subtle bevels, glossy plastic materials, moody cinematic lighting, on-screen text overlay reading 'Tap to place.' in clean white sans-serif, premium mobile-game ad still, ultra-detailed, 4k",
+          "Storyboard frame — payoff, aspect 9:16, 3D Casual Abstract style, dynamic 3D view of multiple glossy yellow-orange (#FDBA4D) spheres bouncing and ricocheting across a dark #20232B grid framed in #403F6D purple, motion-blur light trails, purple obstacle blocks shattering into particles mid-air, dramatic rim lighting, satisfying physics chain reaction, on-screen text overlay 'CHAIN REACTION!' in bold amber caps, mobile-game ad keyframe, cinematic",
+          "Storyboard frame — CTA, aspect 9:16, 3D Casual Abstract style, fully cleared puzzle board glowing in #FDBA4D against a #20232B background with #403F6D purple UI frame, level progress bar filled to max in amber, large rounded 'Play Free' button in #FDBA4D pulsing at center, soft confetti of yellow-orange spheres settling, calm satisfying mood, on-screen text overlay 'Can you clear Level 10?', polished mobile-ad endcard"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_qHQuPNrWMfmCpGkj1RQYz4RR?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcUhRdVBOcldNZm1DcEdrajFSUVl6NFJSP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=WdhmUUilhUO4rBL-1QuZjz5XpVbpG4hkyh2zIpJ2XT7CE1CWD6v0fBrlQZHBX-VjTmiOk4kxs6PDeGS1o0x9z43761cpygPo4BbLNgZPk6i2F5tKDGMpA7aUK-2f02sOc8kXAevoVNyHqW-LdhyVXtOHCgxUbfTgtSEnNOSleaEn89uC7NZ9ZDfAzhm2B4sXtAEHB68gOJj45ElneQxVK9R0xllqQUWQ4xIeN1c4Sgq3X3ld7-zrP4R%7ErsnetNb5o%7EkZfmmxcI2YmQn0z3yLBFIVXf7UuNJGugbVAFPhwyDAwNI10YekbglQOuLWu%7Ea0VkqpkigLmi22B5XPy1qOFQ__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_GU3UL8B9PqZxt95hFVm2Geow?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfR1UzVUw4QjlQcVp4dDk1aEZWbTJHZW93P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ok4XNdbtT9Er2Mz2MDmSgtsTIjpPI0S06zXKAn4xrls0MWq-7ba6oGzfz6IHc-miJwhW9TborYIpS189i7r5n5zM%7EndQUpe-NE6l9dWaTPPegN5JxvNkTy8BMiE17gjn3ul31JRTysmmASTO8DBTbSKSaHaFSbKL9MDltMYGp7JwyVmT40XrKlZjpBgV0OzNBB%7ENKYdP5ZmBz94PlFZdM8ZZcVbVaZ-P8%7Eo--zYzFqEMfBmFnq7ZZH5D5kAcglugiUKpvQ8m%7E%7EoeiKyAWxniPRlgHOrlAkyI6X-P-zMGRx%7EqCy4j4gU-imbsHkGbnm9No0%7E4b4olAa0Py%7EgoEFMs%7Eg__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_R7dY6KiMWyadG4cKJjhgdYRW?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUjdkWTZLaU1XeWFkRzRjS0pqaGdkWVJXP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=pmc0ZbpBimnFk4fD72aQxf3fr1HiBxwW4rd67r-RvBbGnrKFM5az%7EcNeyCxe7x-vpFykf-926Seb%7Ed8KyEC7CnugYulN0gOPSm3sdlp4C0DwdPJ215GFrhQ1Suw2Oihq4ppeY5dd6ZnCilYM%7ETY4MK8LoyAQT4LvTPtlyRh%7EViLp9RjuxUbacGTBL7PtVeFRzez6Vxe6AaKPwCp7be1uxWEq1paHFhW%7ECr7RUT6M9T80Vlkz0kf2XbMSesxOVtt8fG0f6bv8ESPAk3x%7EzDrmaBEKAxLoJRO8mLDeXXAQcYRtYNttkJfOk259c32P6LQUHlHg0d8BD-EMLQxjixn7Nw__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=0.56 × game_fit=52/100 ⇒ priority=0.29"
+    },
+    {
+      "brief": {
+        "archetype_id": "other-mixed",
+        "target_game_id": "6748054540",
+        "title": "POV: My Nightly Unwind Ritual",
+        "hook_3s": "POV: it's 10pm — phone tilts up, one tap drops a glowing amber block, and the whole grid erupts into a cascade of bouncing balls.",
+        "scene_flow": [
+          "0-3s: Dim bedroom ambience implied via soft purple glow on a phone screen (no on-camera person). Phone shows the Bounce Blast 3D grid waiting; finger hovers. Overlay: 'POV: my 10pm wind-down.'",
+          "3-7s: Tap places a yellow-orange block into the tray slot. Obstacles transform into bouncing balls — first chain reaction begins with satisfying thuds and amber sparks. Overlay: 'one tap…'",
+          "7-11s: Camera pushes in on the grid as balls ricochet, clearing rows in a cascading combo. Progress bar fills in #FDBA4D amber. Overlay: 'chain reaction unlocked.'",
+          "11-14s: 'Level Complete' burst in deep purple frame; next harder level previews. Overlay: 'level 47 — still hooked.'",
+          "14-15s: End card: logo + CTA. Overlay: 'Tap to bounce.'"
+        ],
+        "visual_direction": "Lean fully into the 3D Casual Abstract aesthetic — no live action, no characters. Frame the phone screen as the entire world: deep charcoal #20232B background with subtle bokeh, deep purple #403F6D UI frames and tray, and the hero amber #FDBA4D accent reserved for the tappable block, progress bar, and chain-reaction sparks. Soft rim lighting on 3D blocks, glossy bouncing balls with motion blur trails, ASMR-grade satisfying micro-animations. Calm, cinematic, late-night-lamp mood — the opposite of frantic UGC. Audio: muted tap clicks, soft ball thuds, gentle synth pad.",
+        "text_overlays": [
+          "POV: my 10pm wind-down",
+          "one tap…",
+          "chain reaction unlocked",
+          "level 47 — still hooked",
+          "Tap to bounce"
+        ],
+        "cta": "Play Free",
+        "rationale": "We're keeping the archetype's high-performing 'POV' framing but swapping the Gen-Z bedroom-dive energy for a calm, late-night unwind ritual that matches Bounce Blast 3D's 25-55 relaxer audience. The back half is fully re-cut to showcase the physics chain-reaction payoff (the actual differentiator) instead of generic block-stacking, and we drop any competitor name. Test as a low-cost UGC-adjacent variant against pure-gameplay control; expect stronger IPM with women 30+ on Facebook/TikTok.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, 3D Casual Abstract style mobile puzzle game screenshot, top-down tilted view of a deep purple #403F6D grid on a moody charcoal #20232B background, a single glowing amber #FDBA4D cube hovering above a tray slot with soft sparks, glossy bouncing balls with motion-blur trails ricocheting across cleared rows, calm cinematic rim lighting, on-screen text overlay 'one tap…' in clean white sans-serif, satisfying ASMR mood, no characters, no people",
+          "Storyboard frame 1, aspect 9:16, 3D Casual Abstract style, close-up of a smartphone screen floating in dark space, screen shows a Bounce Blast 3D puzzle grid in deep purple #403F6D with charcoal #20232B background and a pulsing amber #FDBA4D progress bar, soft bokeh purple glow around the phone suggesting a dim bedroom, on-screen text overlay 'POV: my 10pm wind-down' in minimal white sans-serif, calm and cozy, no characters",
+          "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style, dynamic mid-action shot of dozens of glossy 3D balls bouncing and chaining across a deep purple #403F6D grid, charcoal #20232B background, bright amber #FDBA4D spark bursts and trails, 'Level Complete' badge in purple frame with amber accent, on-screen text overlay 'chain reaction unlocked' in white sans-serif, cinematic depth of field, satisfying physics payoff, no characters"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_BWiZVqnVghtNM2ufAv4wUK5d?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQldpWlZxblZnaHROTTJ1ZkF2NHdVSzVkP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=AUMK8R88-PfxICij9M-IVRyWRzjYzGpOGLeA7nLCXYVCqih4Ala3Z60bNjNvrEtwPPeFFnExfrmr9EYg2X1FwZnwjhqR4UVOwjsmV3r7UEaxeyaXAPelZFu3anqiVoGEazWF8plXezmKCIt1zAt3opfB12I14SOXHWJtt8BHyeBrz%7E6IZJOW9mTAeyYCDEAUHqufonBmxttioC3MwpOmfyATqCPqRMTS55XWWIlkLb4yKwkBhJIoShbmD1tuWG6nWNZ32VCB0SC41qKi8NmqkMzgzyI3hTgujCUy41W8RkfCUTpaT7QQ%7EXlw%7EBoiIFMveFz5GvSoSN2kPQOLIcvvjw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_E5k2fQrYhRG2euSLGMpPwp3w?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRTVrMmZRclloUkcyZXVTTEdNcFB3cDN3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Iso2Ee6YJrd8IYtGJ4zT9qL7u8O5s93-2BjECDNm0IglmLizXYs5buJ3bIRtpOIECyQaTcTrGVwcF5AJP6CoUJ8158spN-vaQH-HTcBdH0IohhAEB8pX-6MmnZ5jXui77DKVPNix-TfG%7ESu8ZgEaV7cnkAhbGVnqqkWZmbu7n0jmdPMEsZqbRrZS2dzxSoXpDVvAtU-gWNDPkquj8zl8vrnNtBFZmLBMhsBZLYHVK-aduna1f7k7I3K0bOnZaz8g-UEHyupqIYaxuFq8nPyi9AOf5D6pApp36TNNbYwEtzLnhr2rNA262F9z9K8jxVGNCZgDKQLNH0HwvQzqSCYrVA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_3KcGs5BPLtuGnk5oAduvnP5q?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM0tjR3M1QlBMdHVHbms1b0FkdXZuUDVxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VDfkB5VAO7lsUJmwD%7EQJ9n%7Et-Q%7E2blX0krFsK6U1L6WTEgak8BdR2u7a0lHUbS%7E-ldFGuvQX5Ew-UNIsSjwLuPFL%7EvRE9lyvjWkPXDaPD4LzeFxVcYvCLN002qMm9KCrEmVeg7mkXpajbxEyeKQBpXctrrWWrY0PEY4AqEj2dlUhkUzuaI0J-v8CSg8oHzClIXQMOBxhl1Yiq7kD6EMpDxV6dAPkQiSycgv5gvhcdvXHPhyfu3B%7E33HwGTHRpvw5dxrKdn0L70ekSzXB5UCacV83UDrIzF0j30tYEMwN0PW90297rTkF%7Et8HiKz7trVSpkCxvjHE-WQezRfnCYV25A__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.54 × game_fit=42/100 ⇒ priority=0.23"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-3d-render",
+        "target_game_id": "6748054540",
+        "title": "No. 001 — Pour the Bounce",
+        "hook_3s": "A glowing amber ball pours like liquid into a dark grid — then BOUNCES.",
+        "scene_flow": [
+          "0-3s: Macro ASMR shot of a velvet-purple drawer sliding open to reveal a single glowing amber sphere, against a moody #20232B void.",
+          "3-7s: A stream of glossy amber balls pours from above into a deep-purple grid jar, each impact a soft satisfying 'tok' — balls settle, filling rows.",
+          "7-11s: A finger taps to place the final colored block; the grid ignites and balls cascade in a physics chain reaction, bouncing off walls and clearing obstacles in a golden shower.",
+          "11-14s: Wide shot — level COMPLETE banner, the jar/grid empties with a satisfying whoosh, progress bar fills to next level.",
+          "14-15s: Phone-in-hand product shot with CTA pulse."
+        ],
+        "visual_direction": "Lean into the game's existing dark/moody DNA: rich #20232B background, deep #403F6D purple frames acting as the 'jar', and #FDBA4D amber balls as the hero accent that does all the lighting work. Studio-grade 3D Casual Abstract render — soft rim lights, shallow DOF, glossy subsurface on the balls so they read like honey or molten gold. Borrow the archetype's slow ASMR pour cadence and macro framing, but swap pastel kitchen for premium 'puzzle in a jar' minimalism. Every impact triggers a subtle screen-shake and particle sparkle in the accent hue.",
+        "text_overlays": [
+          "No. 001 BOUNCE BLAST",
+          "Pour…",
+          "Tap to place",
+          "CHAIN REACTION!",
+          "Level 1 Complete",
+          "Can you clear it?"
+        ],
+        "cta": "Play Free",
+        "rationale": "We keep the winning ASMR pour-and-fill cadence but reskin it entirely in Bounce Blast's dark-purple + amber palette to fix the 22/100 visual fit and avoid the off-brand pastel kitchen. The pour becomes the literal block-placement → physics-cascade payoff, anchoring the satisfaction beat to the actual core loop so users who tap through see the same mechanic they were sold. Ship this as the hero variant for 25-55 casual puzzle audiences; A/B the 'No. 001' label vs. a pure gameplay cold-open to isolate which drives IPM.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, 3D Casual Abstract style, macro studio render of glossy amber #FDBA4D spheres pouring in a slow-motion stream into a deep purple #403F6D rounded-square grid 'jar', moody dark #20232B background, soft rim lighting, shallow depth of field, subtle golden particles, on-screen text 'No. 001 BOUNCE BLAST' in clean sans-serif top-center, premium mobile-game ad aesthetic, ultra-detailed, octane render",
+          "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style, top-down hero angle of a deep purple #403F6D puzzle grid mid chain-reaction with dozens of amber #FDBA4D balls bouncing and ricocheting off walls, motion blur trails, sparks and glow, dark moody #20232B vignette background, on-screen text 'CHAIN REACTION!' in bold yellow-orange, satisfying explosion of light, cinematic mobile ad still",
+          "Storyboard frame 3, aspect 9:16, 3D Casual Abstract style, clean centered composition of a finished puzzle grid in deep purple #403F6D against a #20232B background with a glowing amber #FDBA4D progress bar filling to 100%, single hero ball resting at center with soft caustics, on-screen text 'Level 1 Complete' in crisp white, calm satisfying afterglow, premium casual game render"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_FVaVLPXL5CLJYKVtuxhf89k4?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRlZhVkxQWEw1Q0xKWUtWdHV4aGY4OWs0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VmBf-2br1LyCHduuQbEst4HHN5p5DkpMcZQp2pdLR67u0OZ951v9RWZEa8rRHc3g-N7MXLfttYlyfsD957kV-XkY3uXKxTGimy-F6J6o0yz9P39vMkpG2nvghArzX403u2Fxy8pXkmHmvwG2%7EMXfh2KfGajCZzUfkoJjMPKwAHHHJXHIJ6dAyOpgFg2qaZh3YScUc%7EuHeSNR3qtPGVDcxLpxkzHFh96P3dGwHbMXVpTWa9r7Q1QYjshp1rY514q%7EHHZIjfx9wyYSygJ3bD-judarEGPY-oXO21ouPGavKtaTJBiuT0uJBF1dAp3cVrKxu4geaju6v%7EYNtbLLn%7E2-Iw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_pRCMyphDiszEvb31mN5xHWrh?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcFJDTXlwaERpc3pFdmIzMW1ONXhIV3JoP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VAX1feNj5kKG0gxTeimIjp6x5vu3Qj2Lf0O%7E4h4jyP9SGVfvYOpE9xTOBZW6lFRBYGfaLJdim-TY88iVvhufRQgKoZFlfFguU-r4BTLNmFzCqceHdUQwcV892VUuxmbckKl4EFbvDte0d6OtyyNDJC0VV0kzjVT3aRGH-ve21kJZIio71N0oKXYe0tG79vGbR1leV1yKjwsowPiO%7ERV99WDcFpkHizmq140JLGJoiQpjN66bi-NmYpnFjXn6n0IG1uX5IBsHD7xbGhoF2NUoJDpUs4pNjP2vFvMCxBZujF3zi6R%7Egqom5qdhtpP8ZX2mJesDQ5ATVtYwQawKpE0RqA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_7LfDTjigJa8GZB13SBHm5Pvc?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfN0xmRFRqaWdKYThHWkIxM1NCSG01UHZjP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=A81gnoF4MRLJCqrlEOTuxHHVDsBgjf2rVHMqi424sG-KVu6yQ7c5jQV0QY1VCK%7EI1tHcaDx49BzYEvKtc9Hn6iWQfVtll2djiV4XAuwpTxfdvijzNrXRdwvA2Pvs%7EPycP%7EYRLOoRFaX33l8O4OuR1z5uzKEbU2icm1I-DchOj2I3PylFLtOHCR1ovNxgsKhO0LTTgajKqGq3KeXPIG6Fvi%7EtHy3-YkmtPgRe65C45DxcjXJ%7ESdcbErHz2spp9l6cq12tTo63vTfXM90UMu0N7Pl5Xd5lLqBJIl4J-mP9bff1YBeQUoYT0z0WMH3TXRCHjEQbt%7EPeAf1Q4ec3ezdDAg__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.49 × game_fit=30/100 ⇒ priority=0.15"
+    }
+  ],
+  "pipeline_duration_seconds": 845.4660290839965,
+  "total_cost_usd": 0.06962375,
+  "generated_at": "2026-04-25T17:32:28.637931Z"
+}

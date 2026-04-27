@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_8YG546Qutqnny4C2SDGwimxM?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOFlHNTQ2UXV0cW5ueTRDMlNER3dpbXhNP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=gQ8-yYQ%7ERQQc-SDvmBWoTlgLcDIkokD9KUDTjOX0j4OULpu5WzxHXRJB01Gy6jQ7kLp6T4d0P8tTvnWmigPd5I-C3u81cIj9orOTCr5NkZ2x5pcczHCKQ4X-iV1rNvSoME%7E-IQiMPvPaAhkD7jiZo0CwH653Nl-3FOZvYjbXozWTJnMfzfSn5awIuoJgZE0BSu76BMVy%7EztCo6Mhdv5vT%7Ee8q%7EFJm8-bGZN9aDU%7EaXAT4oSaQV154aVluKMLS4bgpV51s05TbryhFUHAf15rk1XQubSqinn8-d4smsGJz%7EcWCqZufWrREGZNVWVqJIy6WxGQrj4SS7rBMytgFazHhA__",
+  "job_id": "job_43QjxZkNLu7157sYeQ5LpJrw",
+  "asset_id": "asset_8YG546Qutqnny4C2SDGwimxM",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic aquapark.io in-game screenshot style: 3D low-poly bright colorful cartoonish chunky animal avatar riding an inflatable inner tube down a glossy white (#ffffff) curved water slide over bright cyan (#42bcf5) water, two rival avatars getting bumped off the slide edge mid-air with splash particles, vibrant orange (#ff8c1c) HUD with race progress bar at top and power-up icon at bottom-right, motion blur on the slide rails, on-screen text overlay 'BUMP 'EM OFF \ud83d\udca6' in bold rounded white font with orange outline, sunny sky backdrop, same UI chrome as aquapark.io.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

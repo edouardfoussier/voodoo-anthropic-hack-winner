@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "5bf9b51fe3aecb63",
+    "ad_unit_id": "5bf9b51fe3aecb63",
+    "app_id": "5b62be8c197e970588471cfd",
+    "advertiser_name": "DraftKings Sportsbook & Casino",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b0c4278f438262d1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b0c4278f438262d1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b0c4278f438262d1/preview",
+    "phashion_group": "5bf9b51fe3aecb63",
+    "share": null,
+    "first_seen_at": "2026-02-12T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "The safety of our customers is our top priority. We utilize cutting-edge technology and resources to empower customers to play responsibly. Check out our Responsible Gaming tools!",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A group of friends in a living room discuss a football kicker's reliability before a musical transition.",
+    "visual_action": "A man in a Kansas City Chiefs jersey stands and talks to his friends while holding a phone.",
+    "text_overlay": "DRAFTKINGS legal disclaimer and responsible gaming text.",
+    "voiceover_transcript": "He's automatic from the 40. You should never count your money...",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Friends in a living room debate a kicker's stats during a game.",
+    "A woman begins singing 'The Gambler' as a comedic response to the overconfidence.",
+    "The scene shifts to a snowy outdoor tailgate with fans singing and celebrating together.",
+    "Responsible gaming messaging appears over a dark background followed by the brand logo reveal.",
+    "The ad cuts back to the living room for a final comedic remark telling the friend to stop talking."
+  ],
+  "on_screen_text": [
+    "DRAFTKINGS",
+    "CONCERNED ABOUT YOUR GAMBLING? CALL CONNEXONTARIO 1-866-531-2600.",
+    "It's more fun when it's for fun",
+    "19+ iGaming ONTARIO",
+    "Play responsibly",
+    "DRAFTKINGS THE CROWN IS YOURS"
+  ],
+  "cta_text": "DRAFTKINGS THE CROWN IS YOURS",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#E31837",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Adult sports fans in Ontario who enjoy the social and competitive aspects of sports betting.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0019450000000000001
+}

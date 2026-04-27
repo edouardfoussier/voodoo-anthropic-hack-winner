@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "52b12f806ba15a1b",
+    "ad_unit_id": "52b12f806ba15a1b",
+    "app_id": "62fe6a2713c3dd10370345d8",
+    "advertiser_name": "Jolly Match 3 - Puzzle Game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3471e0e8f7e0e68/preview",
+    "phashion_group": "52b12f806ba15a1b",
+    "share": null,
+    "first_seen_at": "2026-04-15T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Everyone thinks Match 3 is boring...until they try Jolly Match😀",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand triggers a booster on a grid of rabbit tiles, causing a satisfying chain reaction that reveals colorful items.",
+    "visual_action": "A finger taps a purple booster, shattering rabbit-themed tiles to reveal gems and shells.",
+    "text_overlay": "Jolly Match",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Hand taps a purple booster on a grid of rabbit-engraved tiles.",
+    "Tiles shatter in a satisfying animation, revealing colorful gems and items.",
+    "New items fall into the cleared spaces as the 'Jolly Match' logo remains centered.",
+    "The sequence loops, emphasizing the core matching and clearing mechanic."
+  ],
+  "on_screen_text": [
+    "Jolly Match",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#F7E7CE",
+    "#FFD700",
+    "#4A90E2"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle gamers who enjoy satisfying tile-matching and collection mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001219
+}

@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 25,
+  "mechanic_match": 30,
+  "audience_match": 55,
+  "overall": 32,
+  "rationale": "The \"fail\" hook concept is broadly transferable in hyper-casual UA, but this specific archetype is anchored to a Bus Jam / parking puzzle context — the visuals (top-down vehicle grid, primary red/green/blue palette) and the tap-to-route mechanic clash hard with Crazy Kick's swipe-based, third-person stickman soccer loop and sunny yellow/sky-blue palette. We'd have to rebuild the creative from scratch (swap to a missed shot or own-goal fail, restyle to pitch/stickman), at which point we're only borrowing the \"WHY IS THIS LEVEL SO HARD\" overlay pattern. Recommend testing the fail-bait copy formula on a custom soccer-fail shoot, but do not adapt this asset directly."
+}

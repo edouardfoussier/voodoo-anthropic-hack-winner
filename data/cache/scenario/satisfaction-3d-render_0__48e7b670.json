@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_hdqxv1vzZ9oa3Hh5oJwfxWEZ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfaGRxeHYxdnpaOW9hM0hoNW9Kd2Z4V0VaP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ZCqaN%7EaiLVbBWwaaSMFKMX5E-4PSUbufBpfb%7EpPQ8REuiwFAgs7BUstFMU0q7xvcC8wLbOGe1Fq36tKx8pWN7dbJO8owE8gkQPGXIFtkTPN-z7aXlaavwghp4dV3q%7EPMmOHVUmNc3F-gYnq%7EAIbR5vC9GwvyfMYUV-eYtj%7EKAv2GjU-Fli76lXV150VbnN3OWADaB6qaKPbD4SIlhO6GAstzAX3AxYQFXrqECLhCn1d4z3YaqT3bMKUwTOZOg97IdJizU41tVSkKw5e3D178HUpmfRkZ5hL-p8mV2j446Jhjjw9uNDLJU5fU8MPZlXwmlipS6jiTxf7jG-OX9k79Ww__",
+  "job_id": "job_3YPvZGg57CgwbFucvVcrZ29D",
+  "asset_id": "asset_hdqxv1vzZ9oa3Hh5oJwfxWEZ",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, 3D Casual Abstract style: a clear glass jar tilted in mid-pour above a dark puzzle grid, cascading glossy spheres in amber #FDBA4D and deep purple #403F6D bouncing into a moody #20232B background with soft studio rim light, shallow depth of field, subsurface-scattered glossy plastic, premium mobile-game render, on-screen text 'SO SATISFYING' in bold rounded sans-serif, ultra-detailed, octane render",
+  "model_id": "flux.1-dev"
+}

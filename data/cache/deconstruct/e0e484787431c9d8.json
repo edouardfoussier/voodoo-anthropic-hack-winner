@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "e0e484787431c9d8",
+    "ad_unit_id": "e0e484787431c9d8",
+    "app_id": "55d93a4202ac645ad203fe75",
+    "advertiser_name": "Betclic Paris Sportifs & Poker",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f827b60a1063dd93/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f827b60a1063dd93/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f827b60a1063dd93/preview",
+    "phashion_group": "e0e484787431c9d8",
+    "share": null,
+    "first_seen_at": "2026-03-20T00:00:00",
+    "last_seen_at": "2026-04-07T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Signe chez les pros ✍️\nTélécharge dès maintenant ton App Betclic ! 🫡",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A young man addresses the viewer with urgency about joining a team.",
+    "visual_action": "Close-up of a UGC speaker talking directly to the camera with red and white graphic borders.",
+    "text_overlay": "C'est maintenant ou jamais",
+    "voiceover_transcript": "C'est maintenant ou jamais pour changer de couleurs !",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "UGC speaker introduces the 'now or never' opportunity to join the brand's team.",
+    "Transition to a full-screen graphic detailing a 100€ cash-back welcome offer.",
+    "Dynamic montage of professional soccer players in action wearing branded jerseys.",
+    "Final branding screen with the slogan 'Signe chez les pros' and the offer repeated."
+  ],
+  "on_screen_text": [
+    "C'est maintenant ou jamais",
+    "Rejoins l'équipe Betclic",
+    "Jusqu'à 100€ en cash",
+    "Bienvenue",
+    "100€ en cash",
+    "Betclic Signe chez les pros"
+  ],
+  "cta_text": "Signe chez les pros",
+  "cta_timing_seconds": 8.5,
+  "palette_hex": [
+    "#E2001A",
+    "#FFFFFF",
+    "#FFED00"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "French-speaking sports fans and bettors looking for a low-risk entry offer.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016650000000000002
+}

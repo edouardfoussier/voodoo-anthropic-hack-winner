@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "62202f474255395d",
+    "ad_unit_id": "62202f474255395d",
+    "app_id": "5945b0784e7c854f2400a04e",
+    "advertiser_name": "Cashman Casino Slots Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c854ef1a78f2db5e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c854ef1a78f2db5e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c854ef1a78f2db5e/preview",
+    "phashion_group": "62202f474255395d",
+    "share": null,
+    "first_seen_at": "2026-01-13T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Claim 5,000,000 Virtual Coins: Exclusive For New Users!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cinematic wolf howl intro with a gold coin explosion.",
+    "visual_action": "Three wolves howl at a full moon as the game title appears and gold coins burst across the screen.",
+    "text_overlay": "TIMBER WOLF TRIPLE POWER",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Cinematic intro with howling wolves and game branding.",
+    "Transition to slot reels showing the three different Timber Wolf pot features.",
+    "Demonstration of the combined Gold + Rising + Bucks gameplay mechanic with expanding reels.",
+    "Large Big Win celebration with a rapidly increasing coin counter and visual effects.",
+    "End card with game logo and Play Now call to action."
+  ],
+  "on_screen_text": [
+    "CASHMAN CASINO",
+    "TIMBER WOLF TRIPLE POWER",
+    "TIMBER WOLF RISING",
+    "TIMBER WOLF GOLD",
+    "TIMBER WOLF BUCKS",
+    "RISING GOLD BUCKS",
+    "GOLD + RISING + BUCKS",
+    "COLLECT 4 TO CHANGE ALL TO",
+    "BIG WIN!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#120b4a",
+    "#f7e018",
+    "#00aaff"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult social casino players who enjoy high-energy slot machines with multiple bonus features.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001804
+}

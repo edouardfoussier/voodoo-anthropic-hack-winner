@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "530a1f2a92748335",
+    "ad_unit_id": "530a1f2a92748335",
+    "app_id": "65bc21a632c4c13a4e185cef",
+    "advertiser_name": "Block Rush - Block Puzzle Game",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/011e79ac3b0b8f2d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/011e79ac3b0b8f2d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/011e79ac3b0b8f2d/preview",
+    "phashion_group": "530a1f2a92748335",
+    "share": null,
+    "first_seen_at": "2026-03-12T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid placement of red blocks into a grid, clearing lines with satisfying sound effects.",
+    "visual_action": "Red blocks are dropped into a grid, clearing horizontal and vertical lines quickly.",
+    "text_overlay": "These weird blocks>>",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Initial sequence of red blocks clearing multiple lines in a grid.",
+    "Montage of gameplay with various colored blocks and positive feedback text like 'Great!' and 'Wonderful!'.",
+    "Text overlays emphasizing the game is free and good for boredom.",
+    "Final gameplay sequence showing high-speed line clears and a high score.",
+    "End card with the game title 'Block Rush' and app store download buttons."
+  ],
+  "on_screen_text": [
+    "These weird blocks>>",
+    "Great!",
+    "This game is perfect for killing boredom",
+    "Wonderful!",
+    "it's totally free",
+    "Brilliant!",
+    "Fantastic!",
+    "Easy to solve but hard to get high score",
+    "Good!",
+    "Block Rush"
+  ],
+  "cta_text": "Block Rush",
+  "cta_timing_seconds": 11.5,
+  "palette_hex": [
+    "#2B3A8C",
+    "#E53935",
+    "#FFFFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle game players looking for a satisfying and free way to pass the time.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001721
+}

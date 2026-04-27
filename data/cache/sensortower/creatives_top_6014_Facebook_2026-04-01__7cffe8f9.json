@@ -1,0 +1,222 @@
+{
+  "count": 3836,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "11a76b3cbb976853",
+      "app_id": "55d9396602ac645ad201489c",
+      "network": "Facebook",
+      "phashion_group": "11a76b3cbb976853",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-26",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "11a76b3cbb976853",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udcf2 T\u00e9l\u00e9charge l'app d\u00e8s maintenant !",
+          "button_text": "Install Now",
+          "message": "1ER PARI DOUBL\u00c9 jusqu'\u00e0 100\u20ac \ud83e\udd1d"
+        },
+        {
+          "id": "363632bf3da1e02f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udcf2 T\u00e9l\u00e9charge l'app d\u00e8s maintenant !",
+          "button_text": "Install Now",
+          "message": "1ER PARI DOUBL\u00c9 jusqu'\u00e0 100\u20ac \ud83e\udd1d"
+        },
+        {
+          "id": "c6429a7216a31981",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udcf2 T\u00e9l\u00e9charge l'app d\u00e8s maintenant !",
+          "button_text": "Install Now",
+          "message": "1ER PARI DOUBL\u00c9 jusqu'\u00e0 100\u20ac \ud83e\udd1d"
+        },
+        {
+          "id": "f8df9fb683c3b921",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udcf2 T\u00e9l\u00e9charge l'app d\u00e8s maintenant !",
+          "button_text": "Install Now",
+          "message": "1ER PARI DOUBL\u00c9 jusqu'\u00e0 100\u20ac \ud83e\udd1d"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d9396602ac645ad201489c",
+        "canonical_country": "FR",
+        "name": "Unibet Paris Sportifs et Poker",
+        "publisher_name": "La Fran\u00e7aise des Jeux",
+        "publisher_id": "5614c1043f07e25d29005242",
+        "humanized_name": "Unibet Paris Sportifs et Poker",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/76/5b/af765b0b-e770-da86-8d40-d0b2173885af/AppIconProd-0-0-1x_U007epad-0-1-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d9396602ac645ad201489c",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f2bb3b51aa47cc24",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Facebook",
+      "phashion_group": "f2bb3b51aa47cc24",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-01",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "f2bb3b51aa47cc24",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "5 parties de Spin & Rush offertes*\ud83d\udd25",
+          "button_text": "Download",
+          "message": "Les Smash KO d\u00e9barquent sur Betclic : \u00e9limine tes adversaires et d\u00e9couvre le montant de la prime que tu r\u00e9cup\u00e8res ! \ud83e\udd29"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c4650f4b843024fd",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Facebook",
+      "phashion_group": "c4650f4b843024fd",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-16",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "c4650f4b843024fd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5fafcc71648b9f07/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5fafcc71648b9f07/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5fafcc71648b9f07/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jusqu'\u00e0 100\u20ac revers\u00e9s en Feebets* \ud83d\udd25",
+          "button_text": "Download",
+          "message": "Parie et regarde les matchs de tennis en live sur l'appli avec Betclic ! \ud83c\udfbe\ud83d\udcfa"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "16ae876f863e7b2e",
+      "app_id": "55c500f702ac64f9c0001f07",
+      "network": "Facebook",
+      "phashion_group": "16ae876f863e7b2e",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-17",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "16ae876f863e7b2e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "2 mois offerts ! Je teste",
+          "button_text": "Learn More",
+          "message": "2 mois offerts sur la nouvelle Appli Coyote ! Je rejoins la Communaut\u00e9 de 5 millions de membres et Esteban Ocon."
+        },
+        {
+          "id": "6718d37044904a21",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "2 mois offerts ! Je teste",
+          "button_text": "Learn More",
+          "message": "2 mois offerts sur l'Appli Coyote. Comme Esteban Ocon, je rejoins la Communaut\u00e9 Coyote pour b\u00e9n\u00e9ficier d'alertes immanquables"
+        },
+        {
+          "id": "ac059bad6bfa694b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/45b9f69de88bc55b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "2 mois offerts ! Je teste",
+          "button_text": "Learn More",
+          "message": "2 mois offerts sur l'Appli Coyote ! Comme Esteban Ocon, je rejoins la Communaut\u00e9 pour anticiper les dangers sur ma route."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c500f702ac64f9c0001f07",
+        "canonical_country": "FR",
+        "name": "Coyote : Carplay, GPS & radar",
+        "publisher_name": "Coyote Group",
+        "publisher_id": "55f88fa38ac350426b0283fa",
+        "humanized_name": "Coyote : Carplay",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/df/ef/80dfefd2-e32e-5493-3682-acb8313b3acb/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c500f702ac64f9c0001f07",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "72130d4aaf41c033",
+    "ad_unit_id": "72130d4aaf41c033",
+    "app_id": "66271eb3ee079c7e0aa09239",
+    "advertiser_name": "Dream Master-Match Buster",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138b49b7385c36f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138b49b7385c36f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138b49b7385c36f/preview",
+    "phashion_group": "72130d4aaf41c033",
+    "share": null,
+    "first_seen_at": "2026-04-12T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Satisfying match-3 gameplay clearing tomato boxes.",
+    "visual_action": "Matching red hearts to trigger chain reactions and clear board obstacles.",
+    "text_overlay": "DREAM MASTER",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "The ad opens on a match-3 puzzle board with a bear character at the top and various goals to achieve.",
+    "A player matches red heart pieces, which triggers a sequence of explosions clearing tomato boxes.",
+    "A rainbow power-up is used to clear a large portion of the board, accompanied by bright visual effects.",
+    "The video ends with a branded end card featuring the game title and a 'PLAY NOW' button."
+  ],
+  "on_screen_text": [
+    "Goal",
+    "Moves",
+    "DREAM MASTER",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#E91E63",
+    "#2196F3",
+    "#F44336"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile gamers who enjoy satisfying, high-polish match-3 puzzle games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001304
+}

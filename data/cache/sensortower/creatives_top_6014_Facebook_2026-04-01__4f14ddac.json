@@ -1,0 +1,162 @@
+{
+  "count": 2441,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "d728fc59f6e37a03",
+      "app_id": "67ecf5e455b6d71ffc36536e",
+      "network": "Facebook",
+      "phashion_group": "d728fc59f6e37a03",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-31",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "d728fc59f6e37a03",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b861008e7341dd1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b861008e7341dd1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b861008e7341dd1/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u2642\ub0a8\ub140\u2640\uc5ed\uc804 \uc774\uc138\uacc4 \uad70\ubd80\ubb3c\ud83e\ude96\ud83d\udc97",
+          "button_text": "Install Now",
+          "message": "\ub0a8\ub140\uc5ed\uc804! \uc2e0\ubcd1\uc758 \uc218\uc0c1\ud55c \uc5ec\uad70\uc0dd\ud65c~\u2764\ufe0f\n#\ub0a8\ub140\uc5ed\uc804\uad70\ub300 #\ud06c\ub799 #\ubc00\ub9ac\ud130\ub9ac #\uc5ec\uce90\ud50c"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67ecf5e455b6d71ffc36536e",
+        "canonical_country": "KR",
+        "name": "\ud06c\ub799 - \uc989\ud765 \uc11c\uc0ac \ud50c\ub808\uc774, AI \ucc44\ud305",
+        "publisher_name": "wrtn",
+        "publisher_id": "64435e6c6287e503ee722b66",
+        "humanized_name": "\ud06c\ub799 - \uc989\ud765 \uc11c\uc0ac \ud50c\ub808\uc774",
+        "icon_url": "https://play-lh.googleusercontent.com/FZyGa-a0Yct-SGk64tQBjC08jUlPGU9D3Qg6BkkvFS5OXghH9sePY528um-CRWeva5jwn2Aurobplqum9W1w0Q=s150",
+        "os": "unified",
+        "id": "67ecf5e455b6d71ffc36536e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d749fe77e78340b7",
+      "app_id": "67ecf5e455b6d71ffc36536e",
+      "network": "Facebook",
+      "phashion_group": "d749fe77e78340b7",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "d749fe77e78340b7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08cd1c2d20a5466d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08cd1c2d20a5466d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08cd1c2d20a5466d/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ub098\ub9cc \ubcf4\ub294 \ub315\ub315\uc774 \ud669\uc81c \ud3d0\ud558 \ud83d\udc36",
+          "button_text": "Learn More",
+          "message": "\uc774\ud63c\ud574\ub2ec\ub77c\ub2c8\u3132"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67ecf5e455b6d71ffc36536e",
+        "canonical_country": "KR",
+        "name": "\ud06c\ub799 - \uc989\ud765 \uc11c\uc0ac \ud50c\ub808\uc774, AI \ucc44\ud305",
+        "publisher_name": "wrtn",
+        "publisher_id": "64435e6c6287e503ee722b66",
+        "humanized_name": "\ud06c\ub799 - \uc989\ud765 \uc11c\uc0ac \ud50c\ub808\uc774",
+        "icon_url": "https://play-lh.googleusercontent.com/FZyGa-a0Yct-SGk64tQBjC08jUlPGU9D3Qg6BkkvFS5OXghH9sePY528um-CRWeva5jwn2Aurobplqum9W1w0Q=s150",
+        "os": "unified",
+        "id": "67ecf5e455b6d71ffc36536e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d314d3eea35e0b5d",
+      "app_id": "67ecf5e455b6d71ffc36536e",
+      "network": "Facebook",
+      "phashion_group": "d314d3eea35e0b5d",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "d314d3eea35e0b5d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3d5ab494e51891c5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3d5ab494e51891c5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3d5ab494e51891c5/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ub2f9\uc2e0\uc758 \uc120\ud0dd\uc740?",
+          "button_text": "Learn More",
+          "message": "\ud53c\ud3d0 \ub0a8\uc8fc\ub0d0...\ud587\uc0b4\uce90 \uc12d\ub0a8\uc774\ub0d0...\n\uadf8\uac83\uc774 \ubb38\uc81c\ub85c\ub2e4...\n#\uc11c\ube0c\ub0a8\uc8fc #\ube59\uc758\ubb3c #\uc545\ub140 #\ud06c\ub799"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67ecf5e455b6d71ffc36536e",
+        "canonical_country": "KR",
+        "name": "\ud06c\ub799 - \uc989\ud765 \uc11c\uc0ac \ud50c\ub808\uc774, AI \ucc44\ud305",
+        "publisher_name": "wrtn",
+        "publisher_id": "64435e6c6287e503ee722b66",
+        "humanized_name": "\ud06c\ub799 - \uc989\ud765 \uc11c\uc0ac \ud50c\ub808\uc774",
+        "icon_url": "https://play-lh.googleusercontent.com/FZyGa-a0Yct-SGk64tQBjC08jUlPGU9D3Qg6BkkvFS5OXghH9sePY528um-CRWeva5jwn2Aurobplqum9W1w0Q=s150",
+        "os": "unified",
+        "id": "67ecf5e455b6d71ffc36536e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fd9b150a7469591e",
+      "app_id": "67ecf5e455b6d71ffc36536e",
+      "network": "Facebook",
+      "phashion_group": "fd9b150a7469591e",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-08",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "fd9b150a7469591e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14e18adafc5b2bfe/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14e18adafc5b2bfe/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14e18adafc5b2bfe/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ub098\ub9cc\uc758 \ubb38\uba85 \ud1b5\uce58\ud558\uae30",
+          "button_text": "Learn More",
+          "message": "\uc5b4\ub5a4 \uc138\uacc4\ub97c \ub9cc\ub4dc\uc2dc\uaca0\uc2b5\ub2c8\uae4c? \ud83c\udf0f\n#\uc2dc\ubbac\ub808\uc774\uc158 #\ubb38\uba85 #\ud06c\ub799"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67ecf5e455b6d71ffc36536e",
+        "canonical_country": "KR",
+        "name": "\ud06c\ub799 - \uc989\ud765 \uc11c\uc0ac \ud50c\ub808\uc774, AI \ucc44\ud305",
+        "publisher_name": "wrtn",
+        "publisher_id": "64435e6c6287e503ee722b66",
+        "humanized_name": "\ud06c\ub799 - \uc989\ud765 \uc11c\uc0ac \ud50c\ub808\uc774",
+        "icon_url": "https://play-lh.googleusercontent.com/FZyGa-a0Yct-SGk64tQBjC08jUlPGU9D3Qg6BkkvFS5OXghH9sePY528um-CRWeva5jwn2Aurobplqum9W1w0Q=s150",
+        "os": "unified",
+        "id": "67ecf5e455b6d71ffc36536e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "7fa4db1cf728d108",
+    "ad_unit_id": "7fa4db1cf728d108",
+    "app_id": "69340df4df84cd0b0b8487d8",
+    "advertiser_name": "The Cozy Florist",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e19732a25e8407/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e19732a25e8407/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e19732a25e8407/preview",
+    "phashion_group": "7fa4db1cf728d108",
+    "share": null,
+    "first_seen_at": "2026-04-13T00:00:00",
+    "last_seen_at": "2026-04-13T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A customer arrives at a flower shop and the player instantly grows roses to fulfill the order.",
+    "visual_action": "Customer approaches counter; player taps a rose bush which grows into a tall pillar.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Customer arrives at the outdoor florist counter.",
+    "Player taps a rose bush, causing it to grow instantly into a tall column.",
+    "Player harvests the roses and hands them to the customer.",
+    "Customer pays with a stack of coins and displays heart icons.",
+    "Final splash screen with game title and promotional text."
+  ],
+  "on_screen_text": [
+    "10",
+    "The Cozy Florist",
+    "Play to Win real flowers!",
+    "Gift Code: COZY666 COZY888 COZY999"
+  ],
+  "cta_text": "Play to Win real flowers!",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#76B947",
+    "#D2B48C",
+    "#E63946"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual female gamers aged 25-50 who enjoy cozy management and gardening simulators.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001165
+}

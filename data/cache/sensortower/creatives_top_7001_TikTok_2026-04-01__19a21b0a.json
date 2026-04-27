@@ -1,0 +1,396 @@
+{
+  "count": 377,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "c4cf06bb6bccc1e2",
+      "app_id": "55d3a1a802ac64350a000d6e",
+      "network": "TikTok",
+      "phashion_group": "c4cf06bb6bccc1e2",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-06",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "c4cf06bb6bccc1e2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029cf0d0e1ada3f1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029cf0d0e1ada3f1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029cf0d0e1ada3f1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Dive Into Limitless Fun"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d3a1a802ac64350a000d6e",
+        "canonical_country": "US",
+        "name": "Roblox",
+        "publisher_name": "Roblox",
+        "publisher_id": "560c44d98ac3506439005015",
+        "humanized_name": "Roblox",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/dd/94/65dd942b-8464-d063-bdc2-c818c136e301/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d3a1a802ac64350a000d6e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f41b68dd7e9c7ab2",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "f41b68dd7e9c7ab2",
+      "ad_type": "video",
+      "first_seen_at": "2024-05-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f41b68dd7e9c7ab2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "afb667a1f77da453",
+      "app_id": "551b7f69e3943916f200005b",
+      "network": "TikTok",
+      "phashion_group": "afb667a1f77da453",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-04",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "afb667a1f77da453",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/83ef86631957e492/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/83ef86631957e492/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/83ef86631957e492/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "PvP"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "551b7f69e3943916f200005b",
+        "canonical_country": "US",
+        "name": "Pixel Gun 3D: Online Shooter",
+        "publisher_name": "Cubic Games",
+        "publisher_id": "5614e16f3f07e25d2901bfea",
+        "humanized_name": "Pixel Gun 3D",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/3b/98/203b9853-ad9a-d8bd-407d-e6256d3e354e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "551b7f69e3943916f200005b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d287f88cf4759b9",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "5d287f88cf4759b9",
+      "ad_type": "video",
+      "first_seen_at": "2024-08-14",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "5d287f88cf4759b9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        },
+        {
+          "id": "ea99fbfc48af6696",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "The Best DBZ Battle Experience is Here"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3583f8c4dee189d7",
+      "app_id": "55d691cf13fa38db45013a70",
+      "network": "TikTok",
+      "phashion_group": "3583f8c4dee189d7",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-12",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "3583f8c4dee189d7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/thumb",
+          "video_duration": 6,
+          "width": 720,
+          "height": 1280,
+          "message": "The Best DBZ Battle Experience is Here"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d691cf13fa38db45013a70",
+        "canonical_country": "US",
+        "name": "PAC-MAN 256 - Endless Maze",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "PAC-MAN 256",
+        "icon_url": "https://play-lh.googleusercontent.com/KK7mP_etdtFFzdNBa6XTAenfnXEXiGTtqT8Lv4bffra99bT4e_JvK6n5Xp5rvEVQZEA=s150",
+        "os": "unified",
+        "id": "55d691cf13fa38db45013a70",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "229628308cdbdd28",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "229628308cdbdd28",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-29",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "229628308cdbdd28",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "Throw your new robots into the thick of battle!"
+        },
+        {
+          "id": "d78f1b1290f537d2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "New robots, new epic victories!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "de17b4be74ff515c",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "de17b4be74ff515c",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-21",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "de17b4be74ff515c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "New robots, new epic victories!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "cd6634d0d4f5cc05",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "cd6634d0d4f5cc05",
+      "ad_type": "video",
+      "first_seen_at": "2024-09-20",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "cd6634d0d4f5cc05",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c9e4b0dc0302ca61/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c9e4b0dc0302ca61/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c9e4b0dc0302ca61/thumb",
+          "video_duration": 10,
+          "width": 720,
+          "height": 1280,
+          "message": "Experience the full power of combat robots!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "12add798153c0b6f",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "12add798153c0b6f",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-15",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "12add798153c0b6f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c87ba0c4515ea153/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c87ba0c4515ea153/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c87ba0c4515ea153/thumb",
+          "video_duration": 13,
+          "width": 576,
+          "height": 1024,
+          "message": "Your favorite robot PvP just got hotter!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "beca2534701d3666",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "beca2534701d3666",
+      "ad_type": "video",
+      "first_seen_at": "2024-05-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "beca2534701d3666",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3dce6156bb04eff/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3dce6156bb04eff/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3dce6156bb04eff/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Simple & Addictive Gameplay"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

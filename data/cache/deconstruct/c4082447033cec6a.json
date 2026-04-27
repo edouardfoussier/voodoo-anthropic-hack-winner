@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "c4082447033cec6a",
+    "ad_unit_id": "c4082447033cec6a",
+    "app_id": "614c82f25f0ecd1938ee04dd",
+    "advertiser_name": "Heart Bingo: Casino & Slots",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8542151866ccfcc/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8542151866ccfcc/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8542151866ccfcc/preview",
+    "phashion_group": "c4082447033cec6a",
+    "share": null,
+    "first_seen_at": "2026-04-03T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Looking for fun? Play £15 and get £40 plus 50 Free Spins ❤️",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Promotional offer display with a jumping fish animation.",
+    "visual_action": "A golden fish jumps over text detailing a £40 slot bonus and 50 free spins against a desert and water backdrop.",
+    "text_overlay": "PLAY £15 AND ENJOY £40 SLOT BONUS + 50 FREE SPINS",
+    "voiceover_transcript": "Enjoy 40 slot bonus plus 50 free spins on Big Bass Splash",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introductory offer screen with a jumping fish animation and promotional text.",
+    "Transition to the Big Bass Splash game logo.",
+    "Mobile screen showing active slot machine gameplay.",
+    "Branded monster truck driving through a desert landscape.",
+    "Final brand logo and tagline on a solid red background."
+  ],
+  "on_screen_text": [
+    "heart Bingo",
+    "PLAY £15 AND ENJOY £40 SLOT BONUS + 50 FREE SPINS",
+    "BIG BASS SPLASH",
+    "heart Bingo IS BINGO WITH A WHOLE LOT OF HEART"
+  ],
+  "cta_text": "Visit the Heart Bingo App",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#C4002B",
+    "#007B8F",
+    "#FFD700"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "UK-based casual gamblers looking for slot bonuses and bingo variety.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001735
+}

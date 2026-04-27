@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_HgxsK9QdkduZFwL5SioNLEBo?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSGd4c0s5UWRrZHVaRndMNVNpb05MRUJvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=uksnOEZFmQPVy2qpQapjaiuW%7EYFlziYzBEE4IEU3-BmDj1sfW8CWBK9kcBD4GBcbHI1Kkcx3OWjdS9sWiAJQrm%7E5kHm09Hba024%7E-Y1dhrHA3VJsrWcrC5ahjsK-nCyJkKyb%7ERazVM2KRIPVy4xXiijJMbr7Ml%7EVPbIthgw62-yMNsXxEkVCXm661FEh3zTOy1S3YPzdRyxBj5SfRSwX8xCErFvCAMBXf-dEfWhqu11nwuD1IJE2Ck%7EXXXyd5h58vXQhkGluhP2O1simwl2%7EeO6qwipcdXD4FyOqQUhsr3kSiHZQx8OSKWvIgODgRME8OhTwx2CCwuYXf03YXMT6WA__",
+  "job_id": "job_GphizvmuGaTNo6KU7mYyX8HW",
+  "asset_id": "asset_HgxsK9QdkduZFwL5SioNLEBo",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical, authentic Paper.io 2 in-game moment: vibrant minimalist 3D top-down view, flat solid colors #FFD700 yellow player territory mid-screen with a thick yellow trail line extending into uncaptured white space, #00BFFF cyan and #FF00FF magenta rival territories on edges, a glowing crack splitting the paper map open to reveal a hidden lower layer with floating gems and coins beneath, top-left territory progress bar reading '32%', right-side kill-feed text, bold white sans-serif overlay 'What's UNDER the map?' centered top, no characters, bright high-contrast solid colors no gradients no textures. [Audio: VO (curious whisper) 'Wait... what's under the map?' / energetic competitive synth 124 BPM building tension / paper-peel rip SFX at 1s, low bass reveal hit at 2s, coin shimmer at 3s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

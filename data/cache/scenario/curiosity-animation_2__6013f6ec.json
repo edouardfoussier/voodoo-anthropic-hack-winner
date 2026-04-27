@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_BaJuyYQNYUPfo9AzZNBXXVZN?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQmFKdXlZUU5ZVVBmbzlBelpOQlhYVlpOP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=jaghf5p2yJ5m9nlC0Ar8sEOT4aVPZAeFmvXNe2tFEeiH8LjaedMHvSrHZJcqdLOhrFvrkeFAwlF9Dma8-szIOd6atZ60ie2spO8D4C3L9lWypBcIYhx2yBNcunkJiVV5xn%7EjQqpk4lcwdaXz5ds6US04XtNqKuNujPvRN4bpl5MdJkBFle7sxaJOq4GhgDISaPfCYQpC4isaG4XcbaXoMm-mP9tY%7EyBfDlswbaOiWpNXTtGIuJRFjXyEUUGmnxxdE8W6tjfnIK4rV1abLHBN7ayO0sR1TQHS3HfY9n6mSt0CeVxbzhY-jxXjTbDJRCY5h9zCjYGMnsnBbrqibHR97A__",
+  "job_id": "job_XCFgq5yrHh1cWzQXrUZCLX1n",
+  "asset_id": "asset_BaJuyYQNYUPfo9AzZNBXXVZN",
+  "stub": false,
+  "prompt": "Storyboard frame 3, aspect 9:16, clean and colorful 3D cartoon style with soft rounded shapes, overhead three-quarter view of pastel colored sorting boxes filled with perfectly matched marbles glowing softly, light grey (#F0F0F8) machine, lavender (#E5DFFF) background with gentle confetti puff, vibrant orange (#FFB13B) 'Play Free' CTA button pulsing at the bottom, on-screen text 'Oddly satisfying \u2728', calm and rewarding end-card mood",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

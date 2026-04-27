@@ -1,0 +1,164 @@
+{
+  "count": 481,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "6a74efc874daf90e",
+      "app_id": "61706f68479fc7789c180167",
+      "network": "TikTok",
+      "phashion_group": "6a74efc874daf90e",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "6a74efc874daf90e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4495d5bcf15f8270/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4495d5bcf15f8270/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4495d5bcf15f8270/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "Bored? We've got some teas for you ;)"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "61706f68479fc7789c180167",
+        "canonical_country": "US",
+        "name": "Episode: Reality Stars",
+        "publisher_name": "Pocket Gems",
+        "publisher_id": "5614bf093f07e25d29003e54",
+        "humanized_name": "Episode: Reality Stars",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/cd/1a/8acd1a4c-0c76-c885-abed-2b310e361255/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "61706f68479fc7789c180167",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "1e43389e60ed25c4",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "1e43389e60ed25c4",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-17",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "1e43389e60ed25c4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b3730631166494a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b3730631166494a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b3730631166494a/thumb",
+          "video_duration": 6,
+          "width": 576,
+          "height": 1024,
+          "message": "Upgrade your bot, dominate the arena, win glory!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "63dcdf142447f70a",
+      "app_id": "65c2051af92d245931d53910",
+      "network": "TikTok",
+      "phashion_group": "63dcdf142447f70a",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-01",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "63dcdf142447f70a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e75a4515d535bb00/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e75a4515d535bb00/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e75a4515d535bb00/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "Can you solve them all?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "65c2051af92d245931d53910",
+        "canonical_country": "US",
+        "name": "Brain Test All-Star: IQ Boost",
+        "publisher_name": "Unico Studio",
+        "publisher_id": "5cec389405a5de78e6a8b627",
+        "humanized_name": "Brain Test All-Star",
+        "icon_url": "https://play-lh.googleusercontent.com/SzEe_ECgXwVMxZuwLvRPadVmDKW2-iEssT-nMB-Nuk5fcdgcPtDFUyTlClQdKIWs1IQ=s150",
+        "os": "unified",
+        "id": "65c2051af92d245931d53910",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "102283ce7bc83b5a",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "102283ce7bc83b5a",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-29",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "102283ce7bc83b5a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "Play real-time 6v6 robot battles with players worldwide!"
+        },
+        {
+          "id": "e81ad6dc3f581cac",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "Create your own epic robot builds and dominate!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

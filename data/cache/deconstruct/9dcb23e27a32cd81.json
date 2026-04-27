@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "9dcb23e27a32cd81",
+    "ad_unit_id": "9dcb23e27a32cd81",
+    "app_id": "55c52ea602ac64f9c0002d3b",
+    "advertiser_name": "Praia Bingo: Jogos de Bingo",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00878a3f33c48b46/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00878a3f33c48b46/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00878a3f33c48b46/preview",
+    "phashion_group": "9dcb23e27a32cd81",
+    "share": null,
+    "first_seen_at": "2026-04-14T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Escolha seu time e jogue no bingo mais emocionante!\nBaixe agora e participe da disputa! Quem vai ser o vencedor?",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced bingo gameplay showing numbers being marked on multiple cards simultaneously.",
+    "visual_action": "Bingo cards are displayed with numbers being highlighted in blue and yellow as balls fill the bottom bar.",
+    "text_overlay": "PRAIA BINGO",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Fast-paced bingo gameplay showing multiple cards being filled as numbers are called.",
+    "A celebratory 'BINGO!' splash screen appears with a zoom effect.",
+    "Final call-to-action screen with the game logo and 'JOGUE AGORA' button over a grid of bingo cards."
+  ],
+  "on_screen_text": [
+    "BINGO 1.000",
+    "DUAS DUPLAS",
+    "PRAIA BINGO",
+    "BINGO!",
+    "GRÁTIS",
+    "JOGUE AGORA"
+  ],
+  "cta_text": "JOGUE AGORA",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#800080",
+    "#FFD700",
+    "#00BFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual Brazilian players who enjoy social bingo games and vibrant, tropical-themed aesthetics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001493
+}

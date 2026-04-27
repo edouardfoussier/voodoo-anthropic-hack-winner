@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_sMUeuLrqYfCHDa7enHvsnwmK?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfc01VZXVMcnFZZkNIRGE3ZW5IdnNud21LP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=KX3Ah3AhR2kclrP8m3QI2M0BGAMdG-3QDE5OqQaTG%7Ekzd4azZNqbn9ra94bcz8fFh2BWp5Much0pcWP8Y3M0BmLpCNBN9TZ1G3IlQShLiG2sXnvHkec0LsHwErH%7EBNRkvAttkZ7oXEwEDLfz42%7Et1WdgQwecpG8AlCzkhlIZfnBSRfjZ4X7bcQP0kkHo86itheKNrJ8C-VPwfBCig1V7X401STni9u6nPa3ZL6uRZ0T-a8KjPzp7CkUeROU1YUpU95uKg1lvOYLpG0fv6y1o59aX1s7y9x9zCr7t9BqwnFUUcQqqNWAt%7E2eLecj1vzrgj-OK06YaGhYie5dz3-gWDQ__",
+  "job_id": "job_eWrchCXTmbWM6mLMQUTkh7Ye",
+  "asset_id": "asset_sMUeuLrqYfCHDa7enHvsnwmK",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical mobile aspect ratio, Mystical Minimalism style, near-black background (#100D06) with a single large glowing golden-yellow question mark (#D4A024) emitting soft pale-gold particles (#FCE588), elegant serif overlay text reading 'CAN YOU GUESS THEM?' centered below, candle-flicker lighting, premium occult-oracle mood, ultra-minimal UI, cinematic depth, sharp focus, no clutter",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

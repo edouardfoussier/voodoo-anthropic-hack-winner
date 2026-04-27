@@ -1,0 +1,21 @@
+{
+  "title": "Crowd City — The Swarm That Ate Everything",
+  "gameplay_hook": "Your tiny red crowd is one second from getting eaten — then YOU become the predator",
+  "concept": "Player's #FF0000 red crowd starts dangerously outnumbered by a massive #0000FF blue swarm bearing down fast — survival flips into total domination as the red crowd explodes to city-eating scale",
+  "scenario_prompt": "START from a real Crowd City isometric low-poly city screenshot — grid streets, boxy buildings, flat-shaded sidewalks, stickman figures — 9:16 vertical, 8 seconds, game UI overlay always visible (timer top-center showing 0:47, red crowd counter top-left showing '12'). BEAT 1 (0–2s): First-person-adjacent isometric POV locked just behind the #FF0000 red crowd of 12 stick figures scrambling left down a low-poly boulevard — a #0000FF blue crowd of 74 figures stampedes from the right edge of screen, score badge above them reading '74' in bold white, gap closing fast to 3 tile-widths, crunch-stomp SFX building like a bass drum roll, red counter flashing warning red — voice: 'NOOOOOO the blue crowd is 74 DEEP and they're coming RIGHT FOR US!!'. BEAT 2 (2–5s): Red crowd cuts hard into a packed neutral grey cluster of 31 stick figures standing idle on a low-poly park tile — ABSORPTION EVENT: grey figures instantly recolor to #FF0000 with a sharp POP-POP-POP SFX burst, each figure snapping to red in rapid chain, counter rockets from '12' → '43' with white digit-flip animation, then red crowd pivots and SLAMS into a second neutral cluster of 28 on the adjacent sidewalk, POP chain again, counter hits '71', whoosh-merge SFX crescendo, score badge above red crowd now reads '71' overtaking the blue '74' badge by 1 digit — voice: 'OH MY GOD WE JUST ABSORBED SIXTY PEOPLE IN TWO SECONDS!! THE COUNTER WON'T STOP FLIPPING!!'. BEAT 3 (5–8s): Camera snaps to extreme close-up isometric — the #FF0000 crowd now a dense wall of 140+ red stick figures filling the entire screen width, stampeding directly into the #0000FF blue crowd head-on, blue figures vanish row by row recoloring red with rapid-fire CRUNCH-POP-CRUNCH SFX, blue counter badge shrinks '74'→'51'→'29'→'0' and disappears with a shatter-glass SFX, red counter badge slams to '214' in oversized white numerals, timer reads 0:08, full city-block of red figures floods every street visible — voice: 'THIS IS THE BIGGEST CROWD IN CITY HISTORY I LITERALLY CANNOT STOP AHHHHH' — SFX: crowd-roar whoosh + score-rocket chime. FINAL FRAME (7–8s): gameplay dims 30%, centered bold white text 'Crowd City', below it smaller clean white text 'Play now', no animation, static on top of the red-flooded low-poly city.",
+  "narration_script": "NOOOOOO the blue crowd is 74 DEEP and they're coming RIGHT FOR US!! OH MY GOD WE JUST ABSORBED SIXTY PEOPLE IN TWO SECONDS!! THE COUNTER WON'T STOP FLIPPING!! THIS IS THE BIGGEST CROWD IN CITY HISTORY I LITERALLY CANNOT STOP AHHHHH",
+  "style_tags": [
+    "brainrot",
+    "hyper-casual",
+    "low-poly",
+    "isometric",
+    "crowd-mechanic",
+    "chain-reaction",
+    "mobile-ad",
+    "9:16",
+    "tiktok-hook",
+    "reels-format",
+    "swarm-gameplay",
+    "scale-escalation"
+  ]
+}

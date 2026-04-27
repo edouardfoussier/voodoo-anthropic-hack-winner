@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "8202d7e26b4fd442",
+    "ad_unit_id": "8202d7e26b4fd442",
+    "app_id": "657764bcad4adb78f0c03332",
+    "advertiser_name": "DraftKings Casino - Real Money",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/47fda0d5ad0de0de/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/47fda0d5ad0de0de/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/47fda0d5ad0de0de/preview",
+    "phashion_group": "8202d7e26b4fd442",
+    "share": null,
+    "first_seen_at": "2026-02-12T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "The safety of our customers is our top priority. We utilize cutting-edge technology and resources to empower customers to play responsibly. Check out our Responsible Gaming tools!",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A sports fan at a basketball game expresses frustration over a losing bet.",
+    "visual_action": "Two men in Boston Celtics jerseys sit in the stands; one checks his phone while the other laughs.",
+    "text_overlay": "CONCERNED ABOUT YOUR GAMBLING? CALL CONNEXONTARIO 1-866-531-2600",
+    "voiceover_transcript": "It is not my night. You got to know when to hold 'em.",
+    "emotional_pitch": "fail"
+  },
+  "scene_flow": [
+    "Fans at a basketball game reacting to a play while checking a betting app.",
+    "Transition to a group of friends playing a casual game of poker in a home setting.",
+    "A woman decides to fold her hand, demonstrating responsible gambling behavior.",
+    "Text-based screens emphasizing that gambling is 'more fun when it's for fun'.",
+    "Final brand reveal with the DraftKings logo and tagline."
+  ],
+  "on_screen_text": [
+    "CONCERNED ABOUT YOUR GAMBLING? CALL CONNEXONTARIO 1-866-531-2600",
+    "It's more fun when it's for fun",
+    "Play responsibly",
+    "DRAFTKINGS THE CROWN IS YOURS"
+  ],
+  "cta_text": "DRAFTKINGS THE CROWN IS YOURS",
+  "cta_timing_seconds": 10.5,
+  "palette_hex": [
+    "#008348",
+    "#000000",
+    "#ffffff"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Sports fans and casual bettors in Ontario, Canada, aged 19-45 who value responsible gaming.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001921
+}

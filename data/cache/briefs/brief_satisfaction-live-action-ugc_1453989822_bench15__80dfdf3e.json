@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "1453989822",
+  "title": "\"Thanks, I knocked 7 people off the slide\" — UGC Bragging Cut",
+  "hook_3s": "Teen sprawled on bed, grinning at phone — \"Why are you smiling like that?\" Hard cut to a rival flying off a blue water slide.",
+  "scene_flow": [
+    "0-3s: Selfie-style vertical UGC. Teen lying on bed, phone held above face, can't stop laughing. Off-screen voice: 'Bro why are you smiling like that?'",
+    "3-6s: Teen flips onto stomach, phone tilted toward camera: 'I just bumped 7 people off the slide in Aquapark.' Phone screen flashes vibrant blue/orange gameplay.",
+    "6-11s: Hard cut to full-screen aquapark.io gameplay — character slides down white track, steers, body-checks an opponent off the edge into the void. Race progress bar fills, leaderboard ticks up to #1.",
+    "11-14s: Cut back to teen pumping fist on bed, then split-screen: his face + a glider section overtaking three rivals at the finish line.",
+    "14-15s: App icon snap-zoom with orange CTA button pulse."
+  ],
+  "visual_direction": "Two visual worlds spliced together: (1) authentic phone-shot UGC bedroom footage — natural light, slightly shaky, real teen energy — and (2) hyper-saturated aquapark.io gameplay with the signature #42bcf5 blue water, #ffffff slick white slides, and #ff8c1c orange HUD/CTA accents. The 3D low-poly cartoonish gameplay should feel like a sugar rush after the muted bedroom shots. Cuts get faster as the video progresses; gameplay segments must show clear sliding, bumping, and overtaking with the real in-game progress bar and leaderboard visible.",
+  "text_overlays": [
+    "why are you smiling??",
+    "I knocked 7 people off 😂",
+    "aquapark.io",
+    "last one splashing WINS",
+    "FREE • tap to play"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current aquapark.io rotation is 100% polished gameplay-only ads with generic \"Install Now\" copy — there is zero UGC/live-action presence despite satisfaction-UGC being a proven trending archetype. This brief injects the freshness/bragging-UGC angle they don't have, while front-loading vibrant gameplay by second 3 to fix the archetype's biggest fit gap (no gameplay footage). Test as a top-funnel hook variant against TikTok/Reels placements where UGC outperforms studio creative.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect ratio, split composition: top half is authentic phone-shot UGC of a teenager lying on a bed grinning at his phone in a sunlit bedroom, bottom half is an in-game aquapark.io moment showing a low-poly cartoon character on an inflatable inner tube sliding down a bright cyan #42bcf5 water slide with glossy white #ffffff track edges, body-checking a rival character off the edge into the void below, vibrant orange #ff8c1c race progress bar and multiplayer leaderboard HUD visible at the top of the screen, 3D low-poly bright colorful cartoonish style, bold white on-screen text overlay 'I knocked 7 people off 😂', authentic mobile gameplay UI chrome matching aquapark.io",
+    "Storyboard frame, 9:16 vertical aspect ratio, full-screen aquapark.io in-game shot from a chase camera behind a low-poly cartoon character riding an inner tube down a winding white #ffffff water slide track suspended over bright #42bcf5 blue water, three rival characters visible ahead being overtaken, splash particles, orange #ff8c1c power-up icons and race progress bar pinned to the top HUD, multiplayer leaderboard widget in corner, 3D low-poly bright colorful cartoonish style, large punchy on-screen text 'last one splashing WINS', authentic aquapark.io UI chrome and asset style",
+    "Storyboard frame, 9:16 vertical aspect ratio, in-game aquapark.io glider section: a low-poly cartoon character deploying a hang glider off a ramp at the end of a white #ffffff slide, soaring over bright #42bcf5 cyan water toward a finish line banner, two rivals tumbling below, vivid #ff8c1c orange finish-line markers and HUD progress bar, 3D low-poly bright colorful cartoonish style, bold yellow-white on-screen text 'aquapark.io — Play Free', authentic in-game HUD and character style matching aquapark.io screenshots"
+  ]
+}

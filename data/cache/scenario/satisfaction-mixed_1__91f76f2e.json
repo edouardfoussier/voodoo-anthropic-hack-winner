@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_YdoK9qiDxghUpyhGkuARzyGY?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWWRvSzlxaUR4Z2hVcHloR2t1QVJ6eUdZP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=MHO9UHqxZEC%7EOyPrckHQTQkQqPMFDr8F7bJryBnwiYXI%7ESUos5aI2uHe39IcuUjuZhouzDmo0TPnfslCzpb8s3IIQAx%7EqkuZK-cyXqgj-FOd5ardsrbfk-vocymwDL4AzgJlrppiR4HD-0itbmR%7E-CINTcFnKNivdVSJRC0w%7E1s4ch-ubCEQu3Nz-4zdV13dDtgGD-1U4YGECurNwEh-KfCEW0VlGtw3JoBMuAlqzVtWfWlpS2JVyit-u9rHN6AcHWatySXSWN1a88IOPqIvhmzM1A0Htr87vW914If8TtjCoRb1LvMhUTk09wmnht7%7E-bFet9henbCO5oXL5gi8gA__",
+  "job_id": "job_g4d7wwQGokzXdkBoPJHetRqj",
+  "asset_id": "asset_YdoK9qiDxghUpyhGkuARzyGY",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, Destiny Run gameplay mid-combo: low-poly character running down #5bc2ff sky-blue track collecting a stream of white (#ffffff) halos, three red (#d92b2b) devil horns being dodged on right lane, alignment meter HUD top-right glowing white/gold near full, level progress bar advancing, sparkle particles on each pickup, 3D stylized bright and clean simple low-poly geometry, on-screen text overlay 'Just swipe \u279c collect halos \ud83d\ude07' bottom-center in rounded white font. [Audio: VO 'just swipe\u2026 collect\u2026 breathe.' / calm satisfying 80bpm lo-fi marimba / stacking chime combo SFX every 0.4s, soft whoosh on each swipe]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_xgR2enutsez6DTNpmvvBFPWd?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeGdSMmVudXRzZXo2RFROcG12dkJGUFdkP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Rl6v3Oh8SM9Dehmc220ysERoivg-tG30dZ9w2m4Qp-CrGh9JIMw2fzyVNJM2YAAXEsmU0nCS-jdmbFfvsrzavLB9qh-ONPjBU%7E9fd1IQMh18ueFgp2UytoIf2vZyP-2kYojQg7TJyRdEoeQjMjv3WeQyBZ0bdRyEBHspHQSt-9uRnfPP5wJQhL2JvdJ6i0B3g4-XAXfctdPT13Hv%7EsnBbo6VmfMuBLGIp9QkZdb4mBwou6OQCSEeleeIGC1w1F7qmvhTcL71mai22GNkOoDYCuLDNJqtR0V5iv1OaFsa%7Ek1%7EkiCJi1IeJQ9Hs5pEftW1GCSSlN9RWexmbLpKV7fYbg__",
+  "job_id": "job_pn2An38iqBKPJNJvuy2RLcTL",
+  "asset_id": "asset_xgR2enutsez6DTNpmvvBFPWd",
+  "stub": false,
+  "prompt": "9:16 vertical hero frame, authentic Color Road! in-game moment: a glossy pastel-pink rolling ball speeding along a winding dark navy (#152238) ribbon track, a giant cartoon white hand-cursor clumsily dragging the ball off-line toward a saturated accent-red (#FF4C4C) wall obstacle directly ahead, soft pastel-pink (#FADADD) sky background dotted with abstract floating geometric cubes and arches, native HUD visible: score counter top-left, pause button top-right, small coin tally, minimalist 3D with abstract geometric shapes and a soft pastel background, bold white sans-serif overlay text centered top: 'WHY IS THIS LEVEL SO HARD?', no characters, low chase camera angle behind the ball. [Audio: VO (frustrated female, 22yo): 'Wait \u2014 why is this so hard?!' / energetic competitive 128 BPM punchy electro-pop with hand-clap percussion / cursor-grab whoosh at 0.5s, ominous low hum building under text slam]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

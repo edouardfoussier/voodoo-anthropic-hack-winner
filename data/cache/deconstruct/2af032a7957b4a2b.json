@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "2af032a7957b4a2b",
+    "ad_unit_id": "2af032a7957b4a2b",
+    "app_id": "5a452ae0a14c91063e845ddd",
+    "advertiser_name": "Boxing Star:Sports Action Game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/preview",
+    "phashion_group": "2af032a7957b4a2b",
+    "share": null,
+    "first_seen_at": "2026-04-04T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "One punch to become a boxing legend!💪",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A boxer recovers from a knockdown to deliver a winning knockout punch.",
+    "visual_action": "A boxer in red is knocked down, then the camera rotates as he rises and punches his opponent.",
+    "text_overlay": "RISE FROM DEFEAT",
+    "voiceover_transcript": "You wake up and believe",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Boxer is knocked down to the canvas in a dramatic slow-motion shot.",
+    "Camera rotates around the fallen boxer as he regains his footing.",
+    "The boxer delivers a powerful counter-punch to the opponent's face.",
+    "Final splash screen with game logo and app store download buttons."
+  ],
+  "on_screen_text": [
+    "Boxing Star",
+    "RISE FROM DEFEAT",
+    "Get it on Google Play",
+    "Download on the App Store"
+  ],
+  "cta_text": "Boxing Star",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#E60012",
+    "#004A99",
+    "#FFD700"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Young males who enjoy competitive sports games and stylized action combat.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001244
+}

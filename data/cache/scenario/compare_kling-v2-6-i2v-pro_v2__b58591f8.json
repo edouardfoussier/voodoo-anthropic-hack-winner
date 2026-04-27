@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_4kkyeVZTAjrBAZc7ePhrjkSv?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF80a2t5ZVZaVEFqckJBWmM3ZVBocmprU3YqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Tu1fDhntsNpAmCHw8%7E0izoDa5bZjKqlB9Q6u%7EgX7J5z2L4DtiayQtjEd3WHA48V5O7UGVgxFYDPtKx3Sxb4nInUVke4hq7IBFF4P07e7XJ3QNAT-v5ZV7793Pz8Pic5-f0GWa%7EoATjXhAlejfm13taR%7E-K5-sPusg6UGXU7Oz6xcCpMfUrfozCV6ock1q9f9SUziz-sdB4qHF6Lk-v-cDIZTokKoypQrFKuvI5lbWc-WQ67XxCsy0WXQ-Q8ySJvyhaGpEOVqRzQsGr%7El1IpJ6GhcL4MpN0KLUeAwkbMCv-HGQJfjPtOH1sXSYnY%7EF9BRkoplibxuCK7tcPotEPlYIg__",
+  "job_id": "job_BVZGtHBPxPdVqoh2Yf9Cbmnj",
+  "asset_id": "asset_4kkyeVZTAjrBAZc7ePhrjkSv",
+  "stub": false,
+  "model_id": "model_kling-v2-6-i2v-pro",
+  "prompt": "Friend on couch: \"You look happier lately\u2026\" \u2014 cut to phone screen exploding with a red stickman swarm devouring a blue crowd.",
+  "mode": "video",
+  "input_frames": 1
+}

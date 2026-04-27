@@ -1,0 +1,5553 @@
+[
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000396
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 2.2e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.002097
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.001076
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000559
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.00023
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.001806
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000578
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000359
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 4.5e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.00042
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000908
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.001194
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.000413
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.000419
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000502
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000636
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 1.4e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000861
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.001918
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.001495
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Unity",
+    "date": "2026-03-02",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 4.6e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000217
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.000877
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.000889
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.001066
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 5.4e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000974
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000196
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000623
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000277
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000407
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.000365
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.000367
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000457
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.000547
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.000543
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000654
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.00026
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000248
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 2e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.001381
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000475
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000849
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 2.6e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 2.6e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 3.1e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000129
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000105
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000349
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.00081
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000152
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000133
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.002182
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000263
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 5.1e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 5.2e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 6.3e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000684
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 4.4e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000117
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 5.7e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 5.7e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 6.6e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.001264
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Instagram",
+    "date": "2026-03-02",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-02",
+    "sov": 0.000367
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000504
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 7.1e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.001848
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.0012
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000544
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000316
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.001617
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.00068
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000413
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.00017
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000589
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000942
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.001608
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.000406
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.000412
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.00049
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000797
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.001423
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.001754
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.001502
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000253
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000288
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.001013
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.001026
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.00123
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000167
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.001111
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000267
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000722
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000409
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000592
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.000382
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.000385
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000478
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.00074
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.000744
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.00089
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000357
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000325
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 6e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.001822
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000567
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000429
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.000109
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.000109
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000126
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000524
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000219
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Unity",
+    "date": "2026-03-09",
+    "sov": 0.001513
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000633
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.001
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Unity",
+    "date": "2026-03-09",
+    "sov": 0.000445
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000319
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000464
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.002357
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.00027
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.000171
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.000174
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000216
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.00072
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.00012
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000273
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.000187
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.000188
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000213
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.001122
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 3.6e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Instagram",
+    "date": "2026-03-09",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-09",
+    "sov": 0.000472
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000777
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 7.5e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001595
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001191
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001004
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000392
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001529
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000804
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000616
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000398
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CY",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 8.6e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CY",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 8.7e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CY",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000104
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000606
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000948
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001821
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.000543
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.000554
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000653
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000942
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001471
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001564
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001297
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000286
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000412
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.001271
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.001285
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001561
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000245
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001116
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000324
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000908
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000468
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000806
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.000443
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.000447
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000561
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.000957
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.000964
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001154
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000565
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000189
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 7.7e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001543
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000821
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000169
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.000432
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.000449
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000505
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.00073
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000322
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001155
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001078
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000405
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000756
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.002175
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000349
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.000257
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.000262
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000319
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000996
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.00018
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.00034
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.000203
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.000205
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.00023
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.001037
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000135
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Instagram",
+    "date": "2026-03-16",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-16",
+    "sov": 0.000793
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 1.8e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.00044
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000242
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001254
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001005
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.00102
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000366
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001187
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000391
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000839
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000697
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CY",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000166
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CY",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.000168
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CY",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000199
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000103
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000506
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001746
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000654
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.000668
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000779
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000903
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001228
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001159
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001088
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000527
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000107
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.001589
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.001604
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001921
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000458
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001278
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000386
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000817
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000501
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000776
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000486
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.000491
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000612
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.001047
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.001055
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001265
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000688
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000266
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 4.3e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001055
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000685
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000197
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000751
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.000762
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000876
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000868
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000479
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000402
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001123
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000587
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000883
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001661
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 5.7e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000355
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.000364
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000438
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.001217
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.00036
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000332
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000185
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.000186
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000208
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000845
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000439
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000824
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 2e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000264
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000604
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000946
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "AU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000709
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000963
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000206
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.001015
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000445
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000556
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000782
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CY",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 3.6e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CY",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 3.6e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CY",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 4.2e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "CZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 2e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000251
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "DK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000938
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000379
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.000386
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "EC",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000437
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ES",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.00059
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FI",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000785
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "FR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.0007
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GB",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000764
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "GR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000338
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 3.9e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.001315
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.00133
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "HU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.001543
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ID",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000571
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.001093
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IN",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000328
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "IT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.00047
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "JP",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000244
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "KR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000401
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000256
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.000258
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "LU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000314
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000446
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.000452
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.00053
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MX",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000622
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "MY",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000371
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 1.2e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000745
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000474
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "NZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000193
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000615
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.000635
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000702
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000482
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000841
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.00024
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "PT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000713
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "RO",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000462
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000521
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000694
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 2.4e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000252
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.000259
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "SK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000301
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.001004
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.00051
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "TW",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000156
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 8.8e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 8.8e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "UA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 9.7e-05
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000597
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "US",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "VN",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.0005
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "61707ce0958b566083090400",
+    "country": "ZA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.001204
+  }
+]

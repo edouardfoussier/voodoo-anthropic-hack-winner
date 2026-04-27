@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_FFWyLc1KT3LDiXQ5uQVPREBp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRkZXeUxjMUtUM0xEaVhRNXVRVlBSRUJwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=iituI8kOjx0O1DNOxHnvpyOj30xK%7EzDVl4wAC99xpdrIr8svTs0NzO4KMyn8wzkydi6Y6Vl6W74zGdK5fFzMSEuCGi7NKvpCTvP-IRPfWKzfv2OfBMTF7PrLhpho3G9VC%7EAZ7FWLhlqbVcbNN2o3DoEdhwosnNGyn1IE7Ao04p0wHj%7ECjYTjMXKT5AyU9I-ufoRP9RMTWUcknGxomPIiXC-Szv3hnUwOSfutlc8caNCYewAS6LoU6XltTsNUNXqOuskeCMK1EdMQ1wenecqF3yoCUDgH-77hxqH6SRZLCZeZSblkdUoWjNz%7E28C7ZyB6BUDEmQtHLw4A7-0BGBbX%7Ew__",
+  "job_id": "job_5DrKpNh2vFsZfM5udd79hcTp",
+  "asset_id": "asset_FFWyLc1KT3LDiXQ5uQVPREBp",
+  "stub": false,
+  "prompt": "Storyboard frame 3, 9:16 vertical: split-screen \u2014 top half shows the same woman doing a small celebratory shoulder-shimmy on her couch, bathed in royal blue (#5469B9) phone light against a dark navy (#1E2744) background; bottom half shows the Block Blast 8x8 grid mid-clear with four rows exploding into gold (#FFD700) particles, glossy beveled blocks on a high-contrast dark grid, clean vibrant abstract aesthetic. Bold gold overlay text across the seam: '4-LINE COMBO \ud83d\udd25'. Energetic but cozy mood, vertical mobile ad composition.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

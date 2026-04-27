@@ -1,0 +1,65 @@
+{
+  "raw": {
+    "creative_id": "b779846d6d258517",
+    "ad_unit_id": "b779846d6d258517",
+    "app_id": "55d20e3902ac64ee7300002b",
+    "advertiser_name": "Zynga Poker - Texas Holdem Game",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f4d97f9734008f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f4d97f9734008f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f4d97f9734008f/preview",
+    "phashion_group": "b779846d6d258517",
+    "share": null,
+    "first_seen_at": "2025-03-30T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Get a Welcome Bonus of 2M FREE Chips!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A man in a suit challenges the viewer to win big at poker.",
+    "visual_action": "A man in a maroon suit speaks directly to the camera against a blurred background.",
+    "text_overlay": "Build and crush your opponent's dreams",
+    "voiceover_transcript": "Build stacks and crush your opponent's dreams with",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "A man in a maroon suit challenges the viewer to \"crush\" their opponents.",
+    "Transition to a vibrant, neon-lit poker arena with the Zynga Poker logo.",
+    "Gameplay montage showcasing the new Multi-Table Tournament feature with player avatars.",
+    "The man returns, snapping his fingers to call the viewer to action.",
+    "Final shot of the man celebrating on a mountain of chips in a snowy landscape."
+  ],
+  "on_screen_text": [
+    "zynga poker",
+    "Build",
+    "and",
+    "crush your",
+    "opponent's",
+    "dreams",
+    "MULTI-TABLE",
+    "MULTI-TABLE TOURNAMENT",
+    "Register",
+    "and play",
+    "today",
+    "IT'S POKER MADE EPIC",
+    "ZYNG",
+    "ZYNGA POKER"
+  ],
+  "cta_text": "ZYNGA POKER",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#800000",
+    "#4B0082",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Competitive men 25-50 who enjoy the prestige and high-stakes thrill of professional poker.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001531
+}

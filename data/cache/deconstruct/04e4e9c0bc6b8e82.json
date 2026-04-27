@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "04e4e9c0bc6b8e82",
+    "ad_unit_id": "04e4e9c0bc6b8e82",
+    "app_id": "66cd51e99e7c3b9775dd562b",
+    "advertiser_name": "Drop Away: Color Puzzle",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00c1f90e6ce09519/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00c1f90e6ce09519/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00c1f90e6ce09519/preview",
+    "phashion_group": "04e4e9c0bc6b8e82",
+    "share": null,
+    "first_seen_at": "2025-12-08T00:00:00",
+    "last_seen_at": "2026-04-20T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Quickly solving a simple sorting puzzle level.",
+    "visual_action": "Orange and blue characters are moved into their respective colored boxes on a grid.",
+    "text_overlay": "Level 17",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Level 17: Quick demonstration of basic sorting mechanics with two colors.",
+    "Transition to Level 18: A significantly more complex grid with six different colors.",
+    "Fast-paced gameplay showing characters being moved to clear paths for others.",
+    "Continuous sorting action as the timer counts down, highlighting the challenge."
+  ],
+  "on_screen_text": [
+    "Level 17",
+    "00:34",
+    "Level 18",
+    "01:15"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#B0E0E6",
+    "#7B2CBF",
+    "#C0C0C0"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle gamers who enjoy satisfying organization and sorting challenges.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001502
+}

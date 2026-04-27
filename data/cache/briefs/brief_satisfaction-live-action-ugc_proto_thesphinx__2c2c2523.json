@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "proto_thesphinx",
+  "title": "\"It Guessed Beyoncé in 7 Questions\" — Reaction Hybrid",
+  "hook_3s": "POV: an AI just read your mind in 7 yes/no questions — phone glowing gold in a dark room, jaw on the floor.",
+  "scene_flow": [
+    "0-3s: Selfie-style live-action shot of a 30-something woman in a dimly lit room, face lit only by the golden glow of her phone screen, eyes wide, whispering 'no way…'",
+    "3-7s: Cut to vertical screen-recording of TheSphinx UI — dark canvas, glowing #D4A024 text. User taps/voices yes/no answers: 'Female? Yes. Musician? Yes. Alive? Yes.'",
+    "7-11s: Tension beat — question counter ticks down, golden particles swirl, the Sphinx silhouette pulses. Reveal card flips: 'BEYONCÉ.'",
+    "11-14s: Cut back to the woman — hands on head, laughing in disbelief, golden phone-light reflecting on her face.",
+    "14-15s: End card on near-black background with glowing gold logo and CTA."
+  ],
+  "visual_direction": "Mystical Minimalism meets intimate live-action reaction. Shoot the human moments in a near-black room (#100D06) with a single warm key light mimicking phone glow in #FCE588, so the live action and in-game UI share the same palette and feel like one continuous world. In-game footage stays uncluttered: deep black canvas, glowing #D4A024 yes/no prompts, subtle gold particle accents. No bright blues, no Gen-Z hypercasual energy — replace teen-dance excitement with a quieter, more sophisticated 'how did it know?' awe suited to educated 25-45 trivia players.",
+  "text_overlays": [
+    "I bet an AI it couldn't guess my favorite celebrity",
+    "Just yes or no questions…",
+    "Question 7 of 20",
+    "It said one name.",
+    "I'm never sleeping again."
+  ],
+  "cta": "Outsmart the Sphinx",
+  "rationale": "Salvages a low-fit archetype by keeping its proven reaction-emotion engine but swapping Gen-Z dance energy for a sophisticated 'mind-read' awe beat that actually demonstrates the deductive Q&A core loop. Test as a cheap UGC variant against concept-driven control creatives — green-light scaling only if CTR/IPM beats the premium cinematic baseline by 15%+, otherwise retire.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 aspect ratio, mystical minimalism style: a thoughtful woman in her early 30s in a near-black room (#100D06), face lit only by the warm golden-yellow glow (#FCE588) of a phone held just off-camera, eyes wide in disbelief, hand half-covering her mouth, soft gold rim light, premium cinematic grain, shallow depth of field, glowing serif text overlay across the lower third in #D4A024 reading 'It said one name.', sophisticated and mysterious atmosphere, no busy background",
+    "Storyboard frame 2, vertical 9:16 aspect ratio, mystical minimalism style: extreme close-up of a smartphone screen filling the frame, deep black UI background (#100D06), centered glowing golden-yellow serif text (#D4A024 and #FCE588) reading 'Question 7 of 20', faint swirling gold particles, a subtle sphinx silhouette watermark, dark premium trivia game aesthetic, ultra clean minimalist layout",
+    "Storyboard frame 3, vertical 9:16 aspect ratio, mystical minimalism style: dramatic reveal card on a near-black canvas (#100D06), large luminous golden serif name 'BEYONCÉ' centered with soft #FCE588 bloom and #D4A024 underline flourish, fine gold particles radiating outward, on-screen text overlay at top reading 'I'm never sleeping again.', sophisticated mysterious tone, cinematic, high-end mobile game key art"
+  ]
+}

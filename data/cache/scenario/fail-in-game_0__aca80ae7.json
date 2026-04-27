@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_N1LBi6SLanmMkJPQZB2WcEdc?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTjFMQmk2U0xhbm1Na0pQUVpCMldjRWRjP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=aeIbG4n9ofHw1gag6aMAhA%7EXEvL0iMWz-jV-wDdkI61OMD8n9C-b2Ii0rWCsBMmgiJdx8sZgR05uxwWEdgXfVIZHegku1t4vsRJ19EBGscdLafNaqnfm37zy1efschhTqv0OYPIzbqAEnJAYFGxhP1xD-7YaqKdlqwPAPtIvqGQ%7Eg1%7Eh4HiXd8X%7EnIv%7E8zDHp0fCz2pzEYZjvsHMr6PpLFjeMQ9FuYxwbD%7E6Sr-BgnrUiY0-Z0BnS94ChNtWDwZz7qrOHmm-%7E19s0yFyagOF2Pz%7E6US%7EdC4Eqq6hF0DSkSImDpOWeHBHstFHXRZDWCmwmVthLRR3T0SKg%7Eh6yJCWvg__",
+  "job_id": "job_yrnFX1Qogybi92cH6ejggUEm",
+  "asset_id": "asset_N1LBi6SLanmMkJPQZB2WcEdc",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect ratio, authentic in-game moment from Flip & Dive 3D: bright hot-pink (#FF007F) humanoid ragdoll mid-belly-flop, frozen one inch above a pastel cyan (#AEE2FF) tiled pool deck, tiny square swimming pool just out of reach, tall minimalist 3D diving tower in background, purple (#C754D9) depth-counter HUD reading 0.0m in top corner, bold purple banner across the middle reading 'WHY IS THIS LEVEL SO HARD?', minimalist 3D with bright contrasting colors and simple geometric shapes, no textures, soft shadows, toy-like proportions, same UI chrome as Flip & Dive 3D screenshots. [Audio: VO (frustrated male, gen-z): 'bro why is this so hard' / lo-fi calm-satisfying beat 90 BPM with playful marimba / wet SPLAT thud at 1.5s, soft whoosh on fall]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

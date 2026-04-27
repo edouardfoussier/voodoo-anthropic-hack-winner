@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "568df3e727d3bde2",
+    "ad_unit_id": "568df3e727d3bde2",
+    "app_id": "5aad42d99f479f0a74d40440",
+    "advertiser_name": "PUBG MOBILE",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/216cde822a10c1b0/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/216cde822a10c1b0/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/216cde822a10c1b0/preview",
+    "phashion_group": "568df3e727d3bde2",
+    "share": null,
+    "first_seen_at": "2026-04-12T00:00:00",
+    "last_seen_at": "2026-04-12T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Summer is here, and so is the heat 🥵\nMake the outside temperature match your outfit with the Phoenixtra X-Suit! Share your hottest killstreak with the Phoenixtra X-Suit in the comments!\n#PUBGMOBILE #PUBGM #PUBGMXSUIT430",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Meme-style static image with a caption about matching outfits to the temperature.",
+    "visual_action": "A static 3D render of a female character in golden armor with fire effects zooms in slowly.",
+    "text_overlay": "WHEN YOU WANT YOUR OUTFIT TO MATCH THE TEMPERATURE OUTSIDE",
+    "voiceover_transcript": null,
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Display of a meme-style frame with a caption about matching outfits to the temperature.",
+    "Slow camera zoom into a high-fidelity 3D render of a female character in golden armor.",
+    "The character stands amidst a background of fire, emphasizing the 'hot' theme."
+  ],
+  "on_screen_text": [
+    "PUBG MOBILE",
+    "WHEN YOU WANT YOUR OUTFIT TO MATCH THE TEMPERATURE OUTSIDE",
+    "KRAFTON",
+    "LEVEL INFINITE",
+    "LIGHTSPEED STUDIOS",
+    "MEMES",
+    "BEYOND BATTLE ROYALE"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#FFD700",
+    "#000000",
+    "#FF8C00"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Competitive mobile gamers interested in exclusive character cosmetics and internet humor.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001453
+}

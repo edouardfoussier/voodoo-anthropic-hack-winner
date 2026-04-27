@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_r8xucCo8zgHSwYh3s3ETYXTn?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9yOHh1Y0NvOHpnSFN3WWgzczNFVFlYVG4qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=nF3gVoOGbFkHnDiYzgB0cesEz18vp-pGZn55vyzKmPGxa81Dd8rE0behwpfsqWMA9ZBJhP%7EbnKLJStCrgoLDrD2myhIDiNNHxWFtLu3SYko3Y8adnSJltAi2nQLi6i3Ty5B076hNyAhH6VVld7-4apXec1e1kwTWryDdOcfqsPwYyb76YGRJOXfX1-hmElBdGEL5l5Ap1XtU3mS96vf1zqTZbRFNqDaM-ajZIEEwHXVLOIVQb9IaA8B8ytOPNoNd%7EnWPe6wU%7EMhPEg2MO5zMMN2fGIVwcf0iFDyOZ-ABsLT8v2uGy2MrwIjEszR3I-3XS1ILaYboKR0PDjxL-SJLpQ__",
+  "job_id": "job_KA9BGgLxXEmWFL9tvYMbu5PN",
+  "asset_id": "asset_r8xucCo8zgHSwYh3s3ETYXTn",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Storyboard frame, aspect 9:16: authentic Archery Clash! gameplay moment, slow-motion golden arrow piercing through three concentric target rings mid-air above the duel arena, vibrant yellow (#FFD700) impact sparks and motion-blur trail, bright blue (#2A9DF4) arena background with stylized crowd silhouettes, opponent's red HP bar shattering into green (#32CD32) damage numbers, in-game HUD with turn indicator and gear icons preserved at screen edges, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, screen-shake debris particles, on-screen text 'BULLSEYE!' in massive yellow display font centered. [Audio: VO 'Bullseye!' (triumphant male hype) / energetic competitive trap drop at 100 BPM / whoosh on arrow flight, triple-chime on ring pierce, bass-boom impact at 2.5s.]",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": false,
+  "audio": false
+}

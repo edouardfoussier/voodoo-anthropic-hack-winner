@@ -1,0 +1,8 @@
+{
+  "archetype_id": "curiosity-animation",
+  "visual_match": 18,
+  "mechanic_match": 15,
+  "audience_match": 55,
+  "overall": 25,
+  "rationale": "The dark, earthy palette (navy, burnt orange, forest green) and cross-section landmark reveal aesthetic clash hard with Paper.io 2's bright, flat top-down minimalist look — there's no natural way to render territory-capture gameplay as an underground bunker reveal without abandoning the brand. Mechanically the curiosity-reveal hook doesn't map to drawing trails or zone capture, so any adaptation would be a bait-and-switch that risks low IPM quality and install-to-play drop-off. Audience overlap on broad casual curiosity content is the only redeeming axis; recommend skipping unless the team wants to test a heavily reskinned \"what's hidden under the map\" reveal that pivots into actual gameplay within 2 seconds."
+}

@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1235581326",
+  "title": "POV: Home From School → Flappy Dunk 1v1",
+  "hook_3s": "Front door slams open — backpack drops — phone lights up with a magenta \"VS FRIEND\" challenge banner.",
+  "scene_flow": [
+    "0-3s: Live-action POV — hand pushes open front door, sneakers thud across floor, backpack drops mid-stride. Phone buzzes in hand showing a magenta 'Sam wants to dunk 🏀' notification.",
+    "3-6s: POV leaps onto bed, phone fills frame. Hard cut into Flappy Dunk's VS matchmaking screen — beige court, magenta VS banner, two avatars locking in.",
+    "6-11s: Full gameplay capture: tapping rhythm sends the ball-character arcing through hoops, combo counter explodes in blue, score climbs against opponent's split-screen feed. One near-miss heart lost.",
+    "11-14s: Final hoop — slow-mo swish, opponent's score frozen lower, 'YOU WIN' magenta banner detonates with confetti.",
+    "14-15s: End card: logo + 'Who's home first wins' + Install CTA pulsing blue."
+  ],
+  "visual_direction": "Open with grainy, handheld vertical live-action (warm afternoon light tinted toward the #EAD5A0 beige primary) to sell authenticity, then snap into Flappy Dunk's signature 2D cartoon world: thick black outlines, flat shading, beige court backdrop, screaming #D81155 magenta UI banners, and #5CB3FF blue combo bursts. Keep transitions hard-cut and rhythmic to mirror the tap cadence. The contrast between dim bedroom IRL and saturated cartoon arcade is the whole point — it should feel like diving headfirst into the game.",
+  "text_overlays": [
+    "POV: home from school",
+    "my friend just challenged me 😤",
+    "1v1. no excuses.",
+    "COMBO x5",
+    "GG 🏆"
+  ],
+  "cta": "Dunk Now",
+  "rationale": "Voodoo's current Flappy Dunk rotation leans on generic \"best basketball game\" video and a silent playable — zero UGC/POV satisfaction hooks, which is the trending live-action-to-gameplay format we're missing. This brief grafts the proven \"rushed home to play\" archetype onto Flappy Dunk's differentiator (the VS head-to-head loop) so we don't just copy the Tetris reference, we weaponize the magenta VS banner the IRL footage transitions into. Ship as a low-budget probe against the existing video stack; if CTR beats the YouTube control, scale with friend-name variants.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic in-game Flappy Dunk moment: vertical mobile screenshot of the VS matchmaking screen on a warm beige #EAD5A0 basketball court background, large saturated magenta #D81155 'VS' banner slashing diagonally across center, two cartoon basketball avatars facing off with thick black outlines, bright #5CB3FF blue accent glow and lives/hearts indicator at top, score 0-0 HUD, on-screen text 'my friend just challenged me 😤' in bold white with black outline at top, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors, energetic competitive UI mood, no realistic humans, pure in-game render",
+    "Storyboard frame, aspect 9:16, authentic Flappy Dunk gameplay capture: cartoon basketball mid-arc swishing through a magenta #D81155 hoop on a beige #EAD5A0 court, blue #5CB3FF combo explosion particles radiating outward, 'COMBO x5' burst text in chunky blue letters, score counter '14' top-left and opponent score '11' top-right with split scoreline, hearts indicator visible, thick black outlines, flat shading, high-contrast vibrant colors, on-screen text 'COMBO x5' overlay, 2D cartoon hypercasual arcade style, no characters beyond the ball, in-game HUD chrome only",
+    "Storyboard frame, aspect 9:16, end-card style: Flappy Dunk court background in beige #EAD5A0 with confetti in magenta #D81155 and blue #5CB3FF, giant magenta 'YOU WIN 🏆' banner across middle with thick black outline, final score 21-18 in cartoon scoreboard HUD, pulsing blue 'Dunk Now' install button at bottom, on-screen text 'GG 🏆', 2D cartoon style with thick black outlines, flat shading, vibrant high-contrast colors, energetic competitive mood, authentic Flappy Dunk UI chrome, no human characters"
+  ]
+}

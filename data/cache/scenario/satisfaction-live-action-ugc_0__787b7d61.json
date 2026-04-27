@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_MwCzmeh6agX6kNGJ5BRgxv4L?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTXdDem1laDZhZ1g2a05HSjVCUmd4djRMP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=i2lRl4MO1I6BUFW8JEprKtJU59QYtLx6Uf9PA-5f3MNNEruRsXl1x3nMo78ol13P7AHQTBI1bUpCkuN68mkJtb3j4j1gwKZFGbDD89BuwuIsmGNl5k-3bNsrsojrPyed0mZ8idTPW-g0itcMelmjOxJTXvx4bs7vx1F-VRLelzebSlf6sUQmG8Qg83OZzaMmUn9oWPoI0YPEZ5YdH-SB3R8T3FcVUY4PzquIARsqn78bTvFJw-AHJogVDeKOOQ6FuWZ84jMLDlEv39mSY5wSBbKCsZogfJ6UCltdDMo9NLE2DGDOHWMudflmyQ30vYGygY5Vpz7-BtRTkiQPi96tnw__",
+  "job_id": "job_arrUzxzXU1sDsr4c1anr8hBG",
+  "asset_id": "asset_MwCzmeh6agX6kNGJ5BRgxv4L",
+  "stub": false,
+  "prompt": "Hero frame, vertical 9:16 mobile ad still: a full-bleed screen capture of Helix Jump gameplay \u2014 a single glossy white sphere mid-bounce on a stacked cylindrical helix tower made of thin disc platforms in vibrant cyan #5CE1E6, with one platform segment glowing neon green #39FF14 as a safe gap and two segments marked in danger red #FF0000 as trap zones, central vertical axis pole, soft pastel light background, no characters, no human figures. Top-center HUD shows score multiplier text 'x3 MULTIPLIER' in bold white sans-serif. 3D minimalist with bright, contrasting colors and simple geometric shapes. Clean, energetic, competitive mobile-game UI chrome identical to Helix Jump screenshots.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

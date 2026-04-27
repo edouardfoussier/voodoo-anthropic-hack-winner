@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_9HxTNCYoTnKU6ymtPdYJTU3H?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOUh4VE5DWW9UbktVNnltdFBkWUpUVTNIP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=kCANyHE1m6rIg9OeqMlaCPJ-LAo2TKGtOG1v3qldhhusWNnMXVULML8wUuFkl8dMdN1eE4EPgx12Tda576mR7Kt66XgG18vfxi59MioxaTwuGZxd7Znnh8x--AB74wwG%7Exh9XKBmrrrSraOjRJhF6lFSUcdFAy21VPpxsKpBS0bNH1Q7FOw7%7EOudp8PHHXhUH2xiLbLNBJrxFKVbNSuv2bHZ92O9n9AEs1QzOA-l9kCaxAff6GuUHAkqRvyEgW4obwXbK3APbMer%7EIOyQQahDHVUBFk70n6aTG-Y1wsG4NeSUMaLgfvRAW5ikbvPg5YXbZYk8y4HsDHNeLJuQzVfGQ__",
+  "job_id": "job_iG14nGy6AncRtuQUMUxL8bKs",
+  "asset_id": "asset_9HxTNCYoTnKU6ymtPdYJTU3H",
+  "stub": false,
+  "prompt": "Storyboard frame near-fail moment, aspect 9:16, close-up 3D cartoon shot of a single glossy red marble wobbling on the edge of a blue box on a light grey #F0F0F8 conveyor, lavender #E5DFFF background, orange #FFB13B timer flashing in the corner, motion blur trails on nearby marbles, bold rounded orange text overlay 'So close!', clean and colorful 3D cartoon style with soft rounded shapes, dramatic but cozy lighting",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

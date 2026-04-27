@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_cSsWRHVbA2BW9MM6CMd4YNVa?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9jU3NXUkhWYkEyQlc5TU02Q01kNFlOVmEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=WTpDv-laFUs0XgYy4ulARFbGB4tK5ufCbZBDCLFAtUDR02ndb1Qpr9AWFk7JZ9tXRf387N6VehaLANRFs0gENqykXOnoLU9zFprzQYicTID6lb9IW4d0aLN9uLkrML%7E%7EhRvAbDOMKgOWQrtN5ik9tZTJb3HbactImuLVTLQd9s-41Vuhp69IqPtKTWKQwO0uryzT9HtOUErGvZuNzryj6KWLLXPmnqRZbyp6%7EGo8LNOXk6wNiFeH9%7EqsDjwi9rtuQEzLk4jkA9VRLitMUIWrd87wD8tHiRR3pUhdwj9BPGGX1pG-7X4bgHgfJrJRvzMK9cdFAdEtGmdRHzcaOBabaw__",
+  "job_id": "job_QCbmsHGa3tGGH64mfrRu1auP",
+  "asset_id": "asset_cSsWRHVbA2BW9MM6CMd4YNVa",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Hero frame, aspect 9:16, authentic Paper.io 2 in-game moment: minimalist 3D top-down view of a bright #FFD700 yellow square avatar mid-draw, extruding a thin glowing yellow trail across a soft pastel grid floor, a #FF00FF magenta rival square approaching from the right edge on a collision course, #00BFFF cyan captured territory visible in the background, faithful Paper.io 2 HUD with territory percentage bar top-left and kill-feed text top-right, vibrant minimalist 3D top-down with bright solid colors, on-screen text overlay 'Ever played a game that ACTUALLY relaxes you?' in bold white sans-serif. [Audio: VO (calm female): 'Ever played a game that actually relaxes you?' / soft lo-fi ASMR pads 70 BPM building tension / pen-on-paper scratch SFX, faint heartbeat at 2.5s]",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": false,
+  "audio": false
+}

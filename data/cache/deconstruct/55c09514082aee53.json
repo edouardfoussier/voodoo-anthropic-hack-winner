@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "55c09514082aee53",
+    "ad_unit_id": "55c09514082aee53",
+    "app_id": "66d211d85ca5ed0dbdb92d59",
+    "advertiser_name": "Capybara Go!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a9d7bf91b130f95e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a9d7bf91b130f95e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a9d7bf91b130f95e/preview",
+    "phashion_group": "55c09514082aee53",
+    "share": null,
+    "first_seen_at": "2025-05-18T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Star a capybara in this text-based roguelike RPG!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A 'this or that' game item choice presented over a video of people petting capybaras.",
+    "visual_action": "A man and woman sit on a bench petting two large capybaras.",
+    "text_overlay": "DRAGON'S OR REVIVAL CAPE",
+    "voiceover_transcript": "Dragon's Armor or Revival Cape? Revival Cape.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Woman presents a 'this or that' choice between game items while petting capybaras.",
+    "Man selects his preferred items as game icons appear on screen.",
+    "Woman asks for the secret to his high-level gear.",
+    "Man reveals a promo code and directs the viewer to download the game."
+  ],
+  "on_screen_text": [
+    "DRAGON'S",
+    "OR",
+    "REVIVAL CAPE",
+    "BLADE OF JUSTICE",
+    "OR",
+    "SHADOWLANDS",
+    "AND HOW DID YOU GET ALL THAT?",
+    "I USED THE CODE",
+    "\"LUCKY2025\"",
+    "CODE",
+    "TAPPING THE SCREEN NOW"
+  ],
+  "cta_text": "TAPPING THE SCREEN NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#8B5E3C",
+    "#6E6E6E",
+    "#D2B48C"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual gamers who enjoy cute animals and simple RPG progression mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001778
+}

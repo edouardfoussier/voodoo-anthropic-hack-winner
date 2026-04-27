@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "proto_thesphinx",
+  "title": "\"It Guessed Me in 12 Questions\" — Reaction UGC × Mystical Minimalism",
+  "hook_3s": "Candle-lit face, phone glowing gold: \"I tried to outsmart an AI sphinx. It read my mind in 12 questions.\"",
+  "scene_flow": [
+    "0-3s HOOK: Educated 30-something sits in a dark room, only a warm gold phone-glow on their face. Smirk to camera. Overlay sets the dare.",
+    "3-7s SETUP: Over-the-shoulder of TheSphinx UI — black screen, glowing #D4A024 prompt 'Think of a famous person.' User whispers/taps a yes/no question. Golden answer pulses back.",
+    "7-11s ESCALATION: Quick-cut montage of 3 questions getting eerily specific ('Are they still alive?' → 'Did they win an Oscar?'). User's eyes widen, leans closer. Question counter ticks down in gold.",
+    "11-14s PAYOFF: Sphinx reveals the exact celebrity name in glowing #FCE588 serif type. User throws hands up — the satisfaction-archetype reaction beat — but contained, impressed, not goofy.",
+    "14-15s CTA: Logo lockup on near-black, gold CTA button pulses."
+  ],
+  "visual_direction": "Translate the archetype's bedroom-UGC energy into \"premium midnight UGC\": shoot handheld vertical in a dim room lit ONLY by the phone screen, so the user's face is washed in #D4A024 gold against #100D06 near-black negative space. Keep wardrobe muted (charcoal, black knit). All on-screen UI cards float in true black with hairline gold borders and #FCE588 highlight text in a refined serif — Mystical Minimalism, no clutter, no neon. Reaction beats stay restrained and intelligent (lean-in, raised brow, single fist-pump) rather than teen dance, matching the 25-45 intellectual audience while preserving the satisfaction payoff that makes the archetype work.",
+  "text_overlays": [
+    "I challenged an AI to read my mind",
+    "I picked the most obscure celebrity I could think of",
+    "Question 7… how does it know this",
+    "It guessed in 12.",
+    "Your turn."
+  ],
+  "cta": "Outsmart The Sphinx",
+  "rationale": "We're salvaging a low-fit archetype (20/15/25) by keeping its proven satisfaction-reaction structure but swapping bedroom-blue teen energy for a candle-lit, premium \"I just got mind-read\" beat that actually surfaces the AI questioning loop — the thing that sells this game. UA should test this against a pure gameplay-demo control; if reaction-style wins, it unlocks the UGC creator pipeline for an otherwise hard-to-UGC trivia title. Cap spend until CTR/IPM clears benchmark given the documented audience and tonal friction.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical mobile ad still: a thoughtful 35-year-old in a charcoal sweater sitting in a pitch-black room, face lit only by the warm golden glow of a phone screen, eyes wide with disbelief, leaning toward camera. Mystical Minimalism visual style, premium cinematic UGC. Strict palette: near-black background #100D06, glowing golden-yellow #D4A024 light wash, #FCE588 highlight on the eyes. Elegant serif on-screen text overlay reads 'It guessed in 12.' in #FCE588. High contrast, shallow depth of field, grain.",
+    "Storyboard frame 2, 9:16 vertical: over-the-shoulder shot of a smartphone held in dim room, screen showing a minimalist trivia app UI on pure #100D06 black with a single glowing #D4A024 line of text 'Is your person still alive?' and a small gold question counter. Mystical Minimalism, hairline gold borders, no clutter. On-screen text overlay in elegant serif: 'Question 7… how does it know this' in #FCE588. Cinematic, mysterious, sophisticated.",
+    "Storyboard frame 3, 9:16 vertical: close-up of the same user mid-reaction, restrained fist-pump, half-smile of impressed defeat, phone glow painting their face gold. Background pure #100D06 near-black. Mystical Minimalism premium UGC aesthetic, palette locked to #100D06 / #D4A024 / #FCE588. Bold serif overlay across upper third: 'Outsmart The Sphinx' in glowing #FCE588. Vertical mobile ad framing, cinematic grain."
+  ]
+}

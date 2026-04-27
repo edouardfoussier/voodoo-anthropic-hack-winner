@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "ff1e4ade3524495f",
+    "ad_unit_id": "ff1e4ade3524495f",
+    "app_id": "66ed24f29286178a2635c1a7",
+    "advertiser_name": "Dream Master-Travel Puzzle",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138b49b7385c36f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138b49b7385c36f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138b49b7385c36f/preview",
+    "phashion_group": "ff1e4ade3524495f",
+    "share": null,
+    "first_seen_at": "2026-04-18T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-satisfaction chain reaction in a match-3 puzzle.",
+    "visual_action": "A player matches items, triggering a cascade of tomatoes and hearts being cleared.",
+    "text_overlay": "Goal, Moves",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Match-3 board setup with tomatoes, hearts, and a polar bear character.",
+    "Player triggers a large combo, clearing multiple rows of items.",
+    "Board fills with mice characters and more tomatoes as the combo continues.",
+    "A rainbow power-up is activated, causing a screen-wide explosion of effects.",
+    "End card appears with the game logo and a 'PLAY NOW' call to action."
+  ],
+  "on_screen_text": [
+    "Goal",
+    "Moves",
+    "DREAM MASTER",
+    "Delicious",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#FF69B4",
+    "#00BFFF",
+    "#7CFC00"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle gamers who enjoy satisfying, high-combo match-3 mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015710000000000001
+}

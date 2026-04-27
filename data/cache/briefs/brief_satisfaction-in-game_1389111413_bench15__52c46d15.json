@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "1389111413",
+  "title": "Swallow the City — ASMR Edit",
+  "hook_3s": "\"Ever played a game that actually feels this satisfying?\" — a black hole silently gulps a tiny orange car off a sunny low-poly street.",
+  "scene_flow": [
+    "0–3s HOOK: Close-up on a quiet low-poly intersection. A small black hole slides under a parked car — *thwoop* — it vanishes. Soft ASMR pop. Overlay question hook.",
+    "3–7s ESCALATION: Hole drifts down the block swallowing mailboxes, benches, then a hot-dog stand. Each gulp triggers a satisfying low-poly crunch and a tiny '+50' burst in yellow.",
+    "7–11s PAYOFF: Hole is now huge — it inhales an entire bright-orange building in one smooth pull. Camera pulls back to reveal the cityscape shrinking. Score counter spins up.",
+    "11–14s COMPETITION TWIST: A rival blue hole appears on the leaderboard sneaking up — our hole gulps a skyscraper just in time to claim #1.",
+    "14–15s CTA: Hole fills the screen, logo punches in over black. Tap prompt pulses."
+  ],
+  "visual_direction": "Lean fully into Hole.io's native low-poly 3D look — bright orange (#FF9800) buildings and props, cyan-blue (#29B6F6) sky and water, with yellow (#FFEB3B) used only for score pops and the CTA. Shoot from a slightly top-down 'tabletop diorama' angle that emphasizes the toy-like cleanliness of each gulp. Sound design is the star: muted city ambience, crisp ASMR pops/crunches per swallow, no aggressive music bed — let the satisfaction breathe. Motion is smooth and deliberate (not frantic) for the first 7 seconds, then accelerates into competitive payoff.",
+  "text_overlays": [
+    "Ever played a game that's THIS satisfying?",
+    "Just… swallow the whole city 🕳️",
+    "+1,250",
+    "Rival incoming…",
+    "#1 — gotcha",
+    "Tap to Play"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Hole.io rotation is all unlabeled action/gameplay video and playables — there's zero ASMR/satisfaction framing in market, despite satisfaction hooks trending across casual. This brief grafts the proven \"relaxing question hook\" onto native Hole.io footage (no palette clash, no mechanic reach) so UA gets a fresh thumb-stopper for calm-browsing audiences without abandoning the competitive payoff that drives installs. Ship as a low-cost B-variant against the existing energetic creatives and read CTR + IPM lift on Admob/Unity placements.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, low-poly 3D bright colorful cartoonish style, top-down diorama view of a sunny city intersection in vibrant orange #FF9800 buildings under a cyan #29B6F6 sky, a small glossy black hole in the center of the street mid-swallow with a tiny orange car tilting into it, soft shadows, clean toy-like rendering, bold yellow #FFEB3B on-screen text at top reading 'Ever played a game that's THIS satisfying?', mobile ad composition, high contrast, playful.",
+    "Storyboard frame, aspect 9:16, low-poly 3D bright colorful cartoonish style, mid-shot of an enlarged black hole swallowing an entire orange #FF9800 skyscraper that tilts and folds inward, cyan #29B6F6 sky background with a few low-poly clouds, bright yellow #FFEB3B floating score popup '+1,250' beside the hole, dynamic but clean composition, mobile ad framing, overlay text 'Just… swallow the whole city 🕳️'.",
+    "Storyboard frame, aspect 9:16, low-poly 3D bright colorful cartoonish style, dramatic low-angle of a massive black hole dominating a shrinking cartoon cityscape of orange #FF9800 rooftops with cyan #29B6F6 rivers cutting through, glowing yellow #FFEB3B '#1' leaderboard badge in the upper right, energetic competitive mood, bottom overlay text 'Tap to Play' in bold yellow."
+  ]
+}

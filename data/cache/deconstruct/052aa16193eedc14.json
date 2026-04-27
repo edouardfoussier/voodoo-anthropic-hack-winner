@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "052aa16193eedc14",
+    "ad_unit_id": "052aa16193eedc14",
+    "app_id": "65de8b6d03f922307316de62",
+    "advertiser_name": "Fable Town: Merging Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cb027392bcdfca2/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cb027392bcdfca2/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cb027392bcdfca2/preview",
+    "phashion_group": "052aa16193eedc14",
+    "share": null,
+    "first_seen_at": "2025-10-16T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Challenge: Play Now and Win",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A whimsical, fairy-tale scene featuring a flower-covered hill house under a blooming pink tree.",
+    "visual_action": "Slow zoom into a vibrant magical garden with a rose-covered cottage and hanging strawberries.",
+    "text_overlay": "FABLE TOWN",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Establishing shot of a magical garden with a flower-covered hill house and a pink tree.",
+    "Subtle zoom and animation of floating petals and swaying strawberries.",
+    "Continuous loop of the serene fantasy environment with the game logo visible."
+  ],
+  "on_screen_text": [
+    "FABLE TOWN",
+    "+12"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#FFB7C5",
+    "#4E7026",
+    "#A7D8DE"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual gamers who enjoy fantasy aesthetics and cozy, world-building games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014529999999999999
+}

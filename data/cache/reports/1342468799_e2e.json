@@ -1,0 +1,344 @@
+{
+  "target_game": {
+    "app_id": "1342468799",
+    "name": "Color Road!",
+    "genre": "Hypercasual",
+    "sub_genre": "Runner",
+    "core_loop": "Steer a rolling ball along a track, matching its color with obstacles to pass through while avoiding mismatched colors and collecting coins.",
+    "audience_proxy": "Casual gamers of all ages looking for quick, reflex-based gameplay.",
+    "visual_style": "Minimalist 3D with abstract geometric shapes and a soft pastel background.",
+    "palette": {
+      "primary_hex": "#152238",
+      "secondary_hex": "#FADADD",
+      "accent_hex": "#FF4C4C",
+      "description": "High contrast between the dark track and soft pastel background, with bright, saturated colors for interactive elements."
+    },
+    "key_mechanics": [
+      "steering",
+      "color-matching",
+      "dodging",
+      "collecting"
+    ],
+    "character_present": false,
+    "ui_mood": "energetic/competitive",
+    "screenshot_signals": [
+      "rolling ball",
+      "dark track",
+      "pastel city background",
+      "coin collection",
+      "color matching",
+      "score counter",
+      "pause button"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 8,
+    "num_phashion_groups": 8
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "other-animation",
+      "label": "Other · animation",
+      "member_creative_ids": [
+        "5d287f88cf4759b9"
+      ],
+      "centroid_hook": {
+        "summary": "Static character art of Goku Ultra Instinct with a prominent 'PLAY NOW!' call to action.",
+        "visual_action": "Goku is depicted charging a blue energy blast against a vibrant, rainbow-colored background with glowing orbs.",
+        "text_overlay": "Dragon Ball Z Dokkan Battle PLAY NOW!",
+        "voiceover_transcript": null,
+        "emotional_pitch": "other"
+      },
+      "palette_hex": [
+        "#00BFFF",
+        "#FFFF00",
+        "#FF00FF"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.745,
+      "derivative_spread": 1.0,
+      "freshness_days": 620.0,
+      "overall_signal_score": 1.06,
+      "rationale": "1 creatives across 1 unique advertisers, average age 620d (velocity source: sov). Hook representative: \"Static character art of Goku Ultra Instinct with a prominent 'PLAY NOW!' call to\""
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "label": "Satisfaction · animation",
+      "member_creative_ids": [
+        "f41b68dd7e9c7ab2"
+      ],
+      "centroid_hook": {
+        "summary": "Goku SSJ3 performs his iconic Dragon Fist attack.",
+        "visual_action": "Goku charges energy and punches forward, summoning a massive golden dragon.",
+        "text_overlay": "Dragon Fist!!!",
+        "voiceover_transcript": "Dragon Fist!!!",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#FFD700",
+        "#1E3A8A",
+        "#4B0082"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.745,
+      "derivative_spread": 1.0,
+      "freshness_days": 717.0,
+      "overall_signal_score": 1.058,
+      "rationale": "1 creatives across 1 unique advertisers, average age 717d (velocity source: sov). Hook representative: \"Goku SSJ3 performs his iconic Dragon Fist attack.\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "bdf6fd7b1032fa14",
+        "5ba7458dea1165c1"
+      ],
+      "centroid_hook": {
+        "summary": "A hand uses a stylus to solve a bus-sorting puzzle while the narrator asks a question about relaxation.",
+        "visual_action": "A hand with a stylus slides colorful buses around a crowded parking lot to clear a path for passengers.",
+        "text_overlay": "Hey! Played a game that Actually makes you Feel relaxed?",
+        "voiceover_transcript": "Hey! Have you ever played a game that actually makes you feel relaxed?",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#4A90E2",
+        "#9B51E0",
+        "#F2994A"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.034,
+      "derivative_spread": 1.0,
+      "freshness_days": 114.0,
+      "overall_signal_score": 0.829,
+      "rationale": "2 creatives across 2 unique advertisers, average age 114d (velocity source: sov). Hook representative: \"A hand uses a stylus to solve a bus-sorting puzzle while the narrator asks a que\""
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "label": "Curiosity · animation",
+      "member_creative_ids": [
+        "0d364815e2ca3d52"
+      ],
+      "centroid_hook": {
+        "summary": "Revealing secret underground bunkers beneath famous landmarks like the Eiffel Tower.",
+        "visual_action": "A cross-section view pans down from the Eiffel Tower to show a complex multi-story underground shelter.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#2c3e50",
+        "#d35400",
+        "#2d5a27"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.128,
+      "derivative_spread": 1.0,
+      "freshness_days": 328.0,
+      "overall_signal_score": 0.824,
+      "rationale": "1 creatives across 1 unique advertisers, average age 328d (velocity source: sov). Hook representative: \"Revealing secret underground bunkers beneath famous landmarks like the Eiffel To\""
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "label": "Fail · in-game",
+      "member_creative_ids": [
+        "0f1d747b3e7d863f"
+      ],
+      "centroid_hook": {
+        "summary": "A player attempts a difficult level and immediately fails by crashing a bus.",
+        "visual_action": "A hand cursor moves a purple bus, then crashes a red bus into a green one.",
+        "text_overlay": "WHY THIS LEVEL IS SO HARD, CAN YOU WIN?",
+        "voiceover_transcript": null,
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#FFFFFF",
+        "#4CAF50",
+        "#F44336"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.976,
+      "derivative_spread": 1.0,
+      "freshness_days": 259.0,
+      "overall_signal_score": 0.769,
+      "rationale": "1 creatives across 1 unique advertisers, average age 259d (velocity source: sov). Hook representative: \"A player attempts a difficult level and immediately fails by crashing a bus.\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "other-animation",
+      "visual_match": 12,
+      "mechanic_match": 5,
+      "audience_match": 20,
+      "overall": 11,
+      "rationale": "This is a licensed-IP anime hero shot for a gacha RPG — it has nothing in common with Color Road's minimalist abstract geometry, pastel palette, or reflex color-matching loop. Beyond the obvious IP/legal blocker, the saturated rainbow + character-charging-energy hook signals a mid-core anime RPG audience, which is a poor overlap with hypercasual reflex players and would attract low-LTV, low-intent installs. Do not adapt; skip this archetype entirely."
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "visual_match": 15,
+      "mechanic_match": 8,
+      "audience_match": 20,
+      "overall": 14,
+      "rationale": "Hard pass. The archetype is anime IP fan-art (Goku Dragon Fist) with deep gold/indigo/purple tones and a power-fantasy beat — none of which maps to Color Road's minimalist pastel runner aesthetic, color-matching loop, or all-ages casual audience. Beyond the stylistic mismatch, using DBZ likeness creates clear IP/legal risk and would mislead installers, tanking retention. Skip unless rebuilt from scratch as an abstract \"satisfying ball smash\" beat using the game's own palette."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 38,
+      "mechanic_match": 25,
+      "audience_match": 60,
+      "overall": 35,
+      "rationale": "The \"relaxation/satisfaction\" puzzle-sort hook clashes with Color Road!'s reflex-driven, energetic runner loop — players come for fast color-matching dodge action, not slow top-down sorting, so a misleading bus-puzzle hook risks high install-but-churn cost and potential ad-network policy flags. Palette is also off (warm orange/blue/purple vs. Color Road's pastel + dark track signature), and there's no rolling-ball or color-gate imagery to anchor recognition. Audience overlap on broad hypercasual/casual demo is the only redeeming axis; recommend skipping or, if testing, restage the satisfaction angle around oddly-satisfying ball+color-gate ASMR footage instead of bus-sort."
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "visual_match": 15,
+      "mechanic_match": 8,
+      "audience_match": 25,
+      "overall": 15,
+      "rationale": "This documentary-style \"secret bunker reveal\" hook is fundamentally incompatible with Color Road!'s abstract minimalist 3D rolling-ball gameplay — there's no narrative, landmark, or cross-section element in the game to anchor the curiosity payoff. The earthy bunker palette (#2c3e50/#d35400/#2d5a27) also clashes with the game's bright pastel-and-saturated-accent look. Skip this archetype; curiosity hooks for Color Road! should be built around \"will the ball make it?\" near-fail moments or color-switch puzzles, not landmark/lore reveals."
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "visual_match": 22,
+      "mechanic_match": 30,
+      "audience_match": 55,
+      "overall": 32,
+      "rationale": "The \"fail bait\" hook concept (cursor-driven mistake + provocative \"can you win?\" text) is a proven hypercasual UA pattern that overlaps with Color Road!'s broad casual audience, but the specific execution is a poor fit: buses, crashes, and a green/red/white palette have no relationship to the game's minimalist pastel rolling-ball-and-color-match DNA. Mechanic match is weak because steering a bus into traffic doesn't translate the color-matching/dodging core loop — viewers who click expecting traffic puzzles will mis-install. Recommendation: borrow the fail-bait STRUCTURE (cursor steers ball into wrong-colored obstacle, \"why is this so hard?\" overlay) but do not reuse this asset; rebuild it natively in the game's pastel/dark-track aesthetic."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "1342468799",
+        "title": "\"Actually Relaxing?\" — Color Road! ASMR Restage",
+        "hook_3s": "\"Ever played a game that ACTUALLY relaxes you?\" — finger glides a pink ball through a perfect pink color-gate, crisp click on impact.",
+        "scene_flow": [
+          "0–3s: Close-up POV of a thumb steering a pastel-pink ball down the dark track; ball threads a matching pink gate with a satisfying click. VO question hooks the viewer.",
+          "3–7s: Pull back — chain of 5 color gates (pink → red → pink) cleared in rhythm, coins vacuumed up, combo counter climbs. Each match pops a soft chime.",
+          "7–11s: Tension beat — a mismatched red wall approaches while ball is pink; thumb swipes sideways at the last frame to grab a red paint-splash power-up, ball flips red, smashes through. Score juice.",
+          "11–14s: Speed ramp — long satisfying run of perfect matches, screen blooms pastel, coin counter ticks up fast.",
+          "14–15s: End card — ball rolls into giant glossy logo; CTA stamps in over pastel city skyline."
+        ],
+        "visual_direction": "Authentic Color Road! in-game framing: deep navy (#152238) ribbon track floating over a soft pastel-pink (#FADADD) blurred city skyline, saturated #FF4C4C accents on hazard gates and the score HUD. Minimalist 3D abstract geometry — no characters, just the rolling ball, color gates, coin pickups, and the standard top-right pause button + top-left score counter. Camera is the signature low-chase angle behind the ball, with one tight thumb-on-screen overlay shot to sell the \"oddly satisfying\" tactile angle. Soft bloom, shallow DOF on background buildings, crisp specular highlight on the ball.",
+        "text_overlays": [
+          "Ever played a game that ACTUALLY relaxes you?",
+          "Just match the color…",
+          "…and don't blink 👀",
+          "Combo x12 🔥",
+          "Your brain will thank you"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Color Road! rotation is all unlabeled Applovin playables/videos with no clear emotional angle — the satisfaction/ASMR-question hook is trending market-wide but absent here. We restage the bus-sort archetype's \"relaxing question\" VO onto Color Road!'s native rolling-ball + color-gate ASMR footage, which keeps install intent honest (no bait-and-switch churn) while stealing the scroll-stopping hook. UA: test against the existing playables as a top-funnel video; if CTR lifts, port the same VO into a playable variant.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, authentic Color Road! in-game screenshot: glossy pastel-pink rolling ball mid-track on a dark navy #152238 ribbon track, threading a perfectly matched pink color-gate with a tiny burst of #FF4C4C sparks, soft pastel #FADADD blurred city skyline background, minimalist 3D abstract geometric shapes, no characters, top-left score counter '0124' and top-right pause button visible, low chase camera, shallow depth of field, soft bloom, on-screen text 'Ever played a game that ACTUALLY relaxes you?' in clean white sans-serif at upper third. [Audio: VO 'Ever played a game that actually relaxes you?' / chill lo-fi-meets-energetic 95 BPM pastel beat / soft click on gate pass at 1.5s, coin chime at 2.5s]",
+          "Storyboard frame, aspect 9:16, Color Road! gameplay still: long dark #152238 track snaking over pastel #FADADD city, pink ball mid-roll about to hit a #FF4C4C red wall while a red paint-splash pickup glows just left, combo counter 'x8' pulsing top-center, coin trail behind ball, minimalist 3D abstract geometric style, no characters, signature pause button top-right, on-screen text '…and don't blink 👀' bottom third in white. [Audio: VO whisper 'don't blink' / rising 100 BPM competitive synth swell / whoosh on swipe at 2s, deep thud-then-shatter on red wall break at 3.5s]",
+          "Storyboard end-card frame, aspect 9:16, Color Road! style: pastel-pink ball resting beside oversized glossy 'Color Road!' wordmark on dark navy #152238 track, pastel #FADADD sky, scattered #FF4C4C confetti, minimalist 3D abstract geometry, no characters, big white 'Play Free' CTA button center-bottom, score '999+' and coin icon top HUD, on-screen text 'Your brain will thank you' upper third. [Audio: VO 'Your brain will thank you — play free' / triumphant 110 BPM pastel-pop sting / cash-register coin cascade at 1s, soft button-tap pop on CTA at 3s]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_j2Edaaor4bM1N9TfoP1Pcktj?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfajJFZGFhb3I0Yk0xTjlUZm9QMVBja3RqP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=fg30R-Y6dFmzg-D65LjwvS-eHi3%7EbdOevdwHsietDzM8ay%7El1N8cRM-scnzh6LMmhLPqoiOAsbbVYmYQNPwFwfG8Bg-FuRpWWp2EsWcK2bVrVA2JlaFuMG8efWHrARsjwoIPbhNa%7EicMjP6YP4hsJc21tU6vLeCIKcg6DEEEbP%7EnYc6Y2JnxBMjIUF0ZrgBWxwWBLgaVKr3-PKc5IvBi6K5Qxaj-JxqUrWDLZw7jKVLsaMY8JpulNof0LR6fyLa4dL4tk0TZ3bjXc8H08Y7y9TvP0KsquLumU%7Ev4ar3k7QEk6sWd6GNV-cVO%7EnBD6jBQawr7zlr%7EPdlnrRsU5mHffw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_ubmFaberQeRuD1ssTXTnrFPP?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdWJtRmFiZXJRZVJ1RDFzc1RYVG5yRlBQP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ibh9ORJ9Z1AL03kY17OTsIyKSKvb-h%7EFHcIAZQkQwzIFVkEfMCzeMVqSTMN1qv7EA-BU3GNgX%7EvxN9-n4iEIhQOhRrFt1GADX%7EiXtV9abEpWFlCmXaU0bWmPE4CnE6%7EtzENpYW8sCvZ1S98ZObO6mftLHw6IclxYPUM7UsYZN81apTUTYJt0lyVv7EEARePxrhz4dQlB5b1wE2O%7EbwcDMrqYippU6cSJ9oNs7LlHGGuI5hY-DmsvRzwJOTWCblWZfiIf41a4rIkKBLDjJjE1MauLSIvGko5J9E5Zivo4wW6Q71WXPMMUqPegEswqvs3u9j7ds0LQJ5fQH%7Eu0uZo6fg__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_gsw5xjd5F88NbBWQSVNAkQX7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZ3N3NXhqZDVGODhOYkJXUVNWTkFrUVg3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=uJR-BqjMGp2nLdZofaMEtp8I064KWKmkJibthIAtJPE2n0TjGbD-5ywN3C8Q4sEuAWs5KFmWJv7e4QzAxj41P86E0%7E-CMz0G0%7E1q%7ENWqmnqvXIewsNLDQkdlZw0pUJI2hTYLRhr0O1wkE7i0GxrB2NCnmfHjohvgBqy%7ELnIYCAYsDOBdNSR1Yi6NDM7SPx-B-scba4QyMVUkkL3nJ4BEagPHV8B%7Eu-z0ZCCL9g0kG2MAmyNOo--ohgzuaW%7E5MprNrf8sT5396sVT1%7E5cVRRwOnTLkGET-fw0oK4k%7E-kMxWLLp45CpQ-JC7qY1fEhMfo9M-kKNqTFOsL364dhkyf0aw__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=0.83 × game_fit=35/100 ⇒ priority=0.29"
+    },
+    {
+      "brief": {
+        "archetype_id": "fail-in-game",
+        "target_game_id": "1342468799",
+        "title": "\"Why Is This Level So Hard?\" — Pastel Fail Bait",
+        "hook_3s": "A clumsy finger drags a pink ball straight into a red wall — SMASH — pastel shards explode across the dark track.",
+        "scene_flow": [
+          "0-3s: Cold open on the dark track. A giant cartoon hand-cursor grabs the rolling pastel-pink ball. Overlay slams in: 'WHY IS THIS LEVEL SO HARD?'",
+          "3-7s: Cursor steers the pink ball directly into a RED obstacle wall. Buzzer. Ball shatters into pastel shards. Overlay: '99% FAIL HERE 😬'",
+          "7-11s: Replay attempt — cursor wobbles, ball clips a mismatched accent-red gate, misses three coin stacks. Overlay: 'STILL CAN'T DO IT?'",
+          "11-14s: Speed ramp: a clean run shows the ball flipping through matching pink/red/navy gates, snagging coins, score counter spiking. Overlay: 'CAN YOU BEAT IT?'",
+          "14-15s: Freeze on score screen with pastel city skyline behind. CTA pulses."
+        ],
+        "visual_direction": "Lock to Color Road!'s native look: deep navy (#152238) ribbon track snaking through a soft pastel-pink (#FADADD) sky with abstract geometric shapes (floating cubes, pylons, arches) in the background. The ball and gate colors pop in saturated accent red (#FF4C4C) and pastel pink. No characters. Keep the real HUD chrome — score counter top-left, pause button top-right, coin tally — exactly as it appears in-game. Cursor is an oversized white glove-style pointer, intentionally clumsy. Fail moments use a quick red flash + pastel shard burst; success moments use chromatic gate-pass shimmer. Camera stays in the signature low-chase angle behind the ball.",
+        "text_overlays": [
+          "WHY IS THIS LEVEL SO HARD?",
+          "99% FAIL HERE 😬",
+          "STILL CAN'T DO IT?",
+          "CAN YOU BEAT IT?",
+          "TAP TO TRY"
+        ],
+        "cta": "Tap To Try",
+        "rationale": "Voodoo's current Color Road! rotation is all uncaptioned playables and silent gameplay videos — zero fail-bait or text-driven provocation hooks, despite fail-bait being a proven hypercasual UA pattern. This brief imports the trending \"cursor crashes, can you win?\" structure but rebuilds it natively in the pastel/dark-track DNA so click-through audiences land on a matching mechanic (no bus-crash mis-install). Ship as a 15s video first; if CTR lifts, port the same beat structure into a playable variant to refresh the AppLovin slot dated 2024-10-09.",
+        "scenario_prompts": [
+          "9:16 vertical hero frame, authentic Color Road! in-game moment: a glossy pastel-pink rolling ball speeding along a winding dark navy (#152238) ribbon track, a giant cartoon white hand-cursor clumsily dragging the ball off-line toward a saturated accent-red (#FF4C4C) wall obstacle directly ahead, soft pastel-pink (#FADADD) sky background dotted with abstract floating geometric cubes and arches, native HUD visible: score counter top-left, pause button top-right, small coin tally, minimalist 3D with abstract geometric shapes and a soft pastel background, bold white sans-serif overlay text centered top: 'WHY IS THIS LEVEL SO HARD?', no characters, low chase camera angle behind the ball. [Audio: VO (frustrated female, 22yo): 'Wait — why is this so hard?!' / energetic competitive 128 BPM punchy electro-pop with hand-clap percussion / cursor-grab whoosh at 0.5s, ominous low hum building under text slam]",
+          "9:16 vertical storyboard frame, authentic Color Road! fail beat: the pastel-pink ball mid-shatter into bright pastel shards and accent-red (#FF4C4C) sparks after smashing a mismatched red gate on the dark navy (#152238) track, motion blur lines, scattered uncollected coins bouncing off-track, soft pastel-pink (#FADADD) sky with abstract geometric shapes, native HUD score counter frozen and pause button top-right, minimalist 3D abstract geometric style, big bold white overlay text bottom-center: '99% FAIL HERE 😬', no characters, dramatic low angle. [Audio: VO: 'Nope.' / same 128 BPM competitive track drops out for impact / loud cartoon fail-buzzer + glass-shard tinkle SFX at 0.3s, beat re-enters at 1.5s]",
+          "9:16 vertical storyboard frame, authentic Color Road! success beat: the pastel-pink ball flips through a perfectly matched pink color gate while a saturated accent-red (#FF4C4C) ball-state passes a red gate next, golden coins streaming into the score counter, dark navy (#152238) ribbon track curving through a soft pastel-pink (#FADADD) sky filled with abstract geometric pylons and cubes, native HUD with rising score top-left and pause button top-right, minimalist 3D with abstract geometric shapes and a soft pastel background, bold white overlay text top: 'CAN YOU BEAT IT?', no characters, dynamic chase camera. [Audio: VO (confident): 'Think you can?' / 128 BPM energetic competitive synth-pop swelling to peak / rapid coin-chime combo SFX, satisfying gate-pass shimmer at 0.4s and 1.8s, riser into CTA]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_xgR2enutsez6DTNpmvvBFPWd?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeGdSMmVudXRzZXo2RFROcG12dkJGUFdkP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Rl6v3Oh8SM9Dehmc220ysERoivg-tG30dZ9w2m4Qp-CrGh9JIMw2fzyVNJM2YAAXEsmU0nCS-jdmbFfvsrzavLB9qh-ONPjBU%7E9fd1IQMh18ueFgp2UytoIf2vZyP-2kYojQg7TJyRdEoeQjMjv3WeQyBZ0bdRyEBHspHQSt-9uRnfPP5wJQhL2JvdJ6i0B3g4-XAXfctdPT13Hv%7EsnBbo6VmfMuBLGIp9QkZdb4mBwou6OQCSEeleeIGC1w1F7qmvhTcL71mai22GNkOoDYCuLDNJqtR0V5iv1OaFsa%7Ek1%7EkiCJi1IeJQ9Hs5pEftW1GCSSlN9RWexmbLpKV7fYbg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_1LSt3eUgsyWRTPLB8J7Vy8Cx?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMUxTdDNlVWdzeVdSVFBMQjhKN1Z5OEN4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Hm6Xllhq-vzPQUhw0wsvfdL-UxddPxEGDSmSXoWDwMphJNkKRaswWPtMA-n1IaeD84ch7zHC0eOwYMpQNya0zs2iCX%7EmdbhciRGkqg3luFuef0FxYLwLC75sEztFVE5RDyEZaKqVhxUi82jipF4tjcOFIQfSKis3L9kNMEu4XISheeuXEyvLiMQXwVOzGtqFCNuJrrmLWb%7E3Jzb5eYfWdIaG0mFibYuHepQjHm9GU2mUiK92hD1NQIs5QBsTHpsL%7E7CgAdTgIQkDYAzQ0Y0OjE2mwR9O3C5agxteQgVwDq29GIIGLtGIzGuA0gOlURGxOLGCKKbcHO6lRe8xxttP6g__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_PVZUDe2N7RGGnkKCcWq6RRpj?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUFZaVURlMk43UkdHbmtLQ2NXcTZSUnBqP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=JFTrsxNEZwo35ISpFLETUoepe2lknX0mgO5JmV3vafJpKP4TvDFA1hCMgKzbavZ-izhfuqZR3yFxnllRlgXeFS4pt5-vQyP%7EBm6PocqaZkKr1vPGKE%7ED4Gb6lQhZ0V9S0jfUrwl5kvt-jxuxdmAnsD0IY3eL2LqJnW9vOE-WUZncwxsxN6j6-X%7ED7xa7UzhKJPE4Oa%7EBHJ2gFnaF8bW4-nZSY8e76LC1Jny4sqgeTPBGDSTFOkg%7E8hd4OCnF5Uaaaw1uB-OxHoueWOFxnPw1wtZT1Cc%7Efc8QSEa86-OboCBB7LrX9X4uOG80dYbEmwJ9jBFJ1VNOCGUu-Ej1tI-yAA__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.77 × game_fit=32/100 ⇒ priority=0.25"
+    },
+    {
+      "brief": {
+        "archetype_id": "curiosity-animation",
+        "target_game_id": "1342468799",
+        "title": "What's Hiding Under the Track?",
+        "hook_3s": "The pastel city splits open — what's beneath the Color Road track?",
+        "scene_flow": [
+          "0-3s: Rolling ball cruises a dark track over pastel city skyline; camera suddenly tilts and the world cross-sections open like a diorama, revealing the track is actually floating on stacked layers below.",
+          "3-7s: Camera pans DOWN through the cross-section — layer 1 shows hidden coin vaults, layer 2 shows a giant color-swap machine pumping pink/red paint into the track, layer 3 shows a maze of failed mismatched balls piled up.",
+          "7-11s: Snap back to gameplay POV — ball charges a wall of red blocks, swaps to red just in time (near-fail), shatters through them in a satisfying burst of pastel particles.",
+          "11-14s: Cross-section flashes back ONE more time to show the secret 'next level' chamber lighting up as score multiplier ticks: x2 → x5 → x10.",
+          "14-15s: CTA card with rolling ball icon and tap prompt."
+        ],
+        "visual_direction": "Lean fully into Color Road!'s minimalist 3D language — dark navy (#152238) ribbon track suspended over a soft pastel pink (#FADADD) city silhouette, with saturated accent red (#FF4C4C) for the rolling ball and matching gates. Adapt the \"cross-section reveal\" archetype by literally slicing the diorama open: clean orthogonal cuts, abstract geometric chambers stacked vertically, no realism or grit. Keep the in-game HUD intact (score counter top-left, pause button top-right, coin tally) so every frame reads as authentic Color Road! UI. Camera moves are snappy, almost toy-like; particle bursts on color matches stay bright and saturated against the muted pastel backdrop.",
+        "text_overlays": [
+          "What's UNDER the track?",
+          "Layer 1: Coin Vault 💰",
+          "Layer 2: Color Engine",
+          "Don't mismatch...",
+          "Combo x10!",
+          "Tap to Roll"
+        ],
+        "cta": "Tap to Roll",
+        "rationale": "Voodoo's current Color Road! rotation is all gameplay-loop video and playables with no narrative framing — this brief injects the trending curiosity/cross-section reveal archetype that's winning across the market but is absent from their lineup. The \"what's under the track\" twist gives the UA team a thumb-stopping hook that still anchors to authentic color-match gameplay, so it differentiates without breaking IP recognizability. Run as a 15s video alongside existing playables to test top-funnel CTR lift on curiosity-driven scrollers.",
+        "scenario_prompts": [
+          "Hero frame, 9:16 vertical aspect, minimalist 3D with abstract geometric shapes and a soft pastel background. A glossy saturated red (#FF4C4C) ball rolls along a dark navy (#152238) ribbon track that floats above a soft pastel pink (#FADADD) abstract city skyline. The world is sliced open in a clean orthogonal cross-section revealing three stacked underground chambers below the track: a coin vault glowing gold, a pink paint-pumping color engine, and a maze of mismatched ball wreckage. In-game HUD visible: score counter top-left, pause button top-right, coin tally. Bold white sans-serif overlay text reads 'What's UNDER the track?'. Crisp toy-diorama lighting, saturated accents, no characters, no realism. [Audio: VO (curious whisper) 'Wait... what's under the track?' / energetic competitive synth-pop at 128 BPM with rising arpeggio / ground-crack rumble at 1s, reveal whoosh at 2s, coin chime at 4s]",
+          "Storyboard frame 2, 9:16 vertical aspect, minimalist 3D with abstract geometric shapes and a soft pastel background. POV close-up of the saturated red (#FF4C4C) Color Road ball charging toward a wall of mismatched navy (#152238) blocks on a dark ribbon track suspended over a pastel pink (#FADADD) cityscape. Color-swap gate flashes red just before impact, particles bursting in saturated pinks and reds. In-game HUD intact: score counter top-left ticking up, pause button top-right, coin tally. Overlay text reads 'Don't mismatch...'. No characters, clean geometric style. [Audio: no VO / driving competitive electro at 130 BPM / sharp color-swap zap at 1s, glass-shatter break-through at 2.5s, combo chime stack at 4s]",
+          "Storyboard frame 3, 9:16 vertical aspect, minimalist 3D with abstract geometric shapes and a soft pastel background. Cross-section diorama view: dark navy (#152238) track on top, glowing chamber below revealing a hidden 'next level' room with floating accent red (#FF4C4C) multiplier numbers x2, x5, x10 stacking in mid-air against pastel pink (#FADADD) walls. Coins streaming up into the ball above. Color Road HUD preserved: score counter, pause button, coin tally. Bold overlay text 'Combo x10!'. No characters, toy-diorama lighting. [Audio: VO (excited) 'Ten times combo!' / competitive trap-pop at 135 BPM with triumphant brass stab / ascending coin chimes at 0.5s/1.5s/2.5s, bass drop at 3s]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_9eUqV84oMFps8gmrbiTH9NQE?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOWVVcVY4NG9NRnBzOGdtcmJpVEg5TlFFP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=p9TLQJpi4wOUoWZg3wJIEFzjo5tePpRTddK7jB917bu9KR2rQs3mM5VNakMc7gWtbHWVzfbpPbCKmwKePmSaCt2CrsiOSy2JF58jq0owDfW4otxATfAb8gratkMspKacGbxt7F0Xqu7bfCBp6KXtZMzr8BOaYoXdZwK056A6E1JSBki3qzr4ISRxExTrp7SZ4qX9FYQVTEEP1HgnDx8u6PeKvV8oBRNNnNWUIaih8PdCkBWtqRwIFLlK2agunnKHKKF69vyhwLtH1FymiKBvA6rGr4WxBu-od9YsQ0Xdcdmn2gr4udg5WUG9JTufHJQB2tPvw0ps0%7EyTy28hTXY72w__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_znUfUp8yK2BL4oFC4MCLdmMZ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfem5VZlVwOHlLMkJMNG9GQzRNQ0xkbU1aP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=a9sEy6elBQM91BqfbRcO7YaOui4xex3K%7Es85EZamh5PNrqd5saic-m3oAvLgMUwVdRbi2xotVHx%7EdrpYYnCTnwjTOp9LL7P%7EpkZXdJRdnZARFUwaa6CQpscqcK3z-CD6pedZ7CGfZt%7EeqZgK6N6rlSbaI6V4W0Nnar-I7NFx3EYVjCQ7Xc%7EPBra1L903SjhtUJYcLTlb28d9ogWo9TuKb3E%7EzXnupXLR7LGTVVbXjjiVGjXTYO-CkEjPCQEHylDjmWnaCAB-o6fmxOfbaumXsB5TuUVY4IDiXMxUw37ytCbwgjU8So8dkZ25jnxSw8bNExB24Os%7EnwoNy4fDOpQpZw__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_JunZpmeb1oBkP1Hdwtjudx4C?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSnVuWnBtZWIxb0JrUDFIZHd0anVkeDRDP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=idFdT4f8SrvU68wLNaZo5DAzdCt20C8QyxlogHclj0zUcI7aNiQbtAoALzhfyEdAwrzejV5Xnl%7EiBs7HwHdu0QDQ%7Exbm-7k0mM9DblWvD7JxHwW6oqjx0vldmEw0G4dCcS5%7E9kGiRF73VFeoXsWcDc27E5YH5y-k6wMQ720tIs4lR3UBvemyO7IQf2f-jzw3DGJTEmN1PY9%7E1krLh6XvtWj5mfpQrDtH0E-7kDiV5sfCtmvXRpuYL0eDNOTKUtfXIC4M32c-IK88AZnSGHyjFvwzBNOQ6N2rGESX3rpbPK4bkTp5Xzv-F2uc4cnA7Bfsxq5NvP7rCRN5IVqxlzX-aA__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.82 × game_fit=15/100 ⇒ priority=0.12"
+    }
+  ],
+  "pipeline_duration_seconds": 689.9135763339873,
+  "total_cost_usd": 0.012067000000000001,
+  "generated_at": "2026-04-26T12:41:40.305667Z"
+}

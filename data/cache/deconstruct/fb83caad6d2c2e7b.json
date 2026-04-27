@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "fb83caad6d2c2e7b",
+    "ad_unit_id": "fb83caad6d2c2e7b",
+    "app_id": "55c50b2202ac64f9c00022c6",
+    "advertiser_name": "PlayStation App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4535bd3b14d78e39/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4535bd3b14d78e39/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4535bd3b14d78e39/preview",
+    "phashion_group": "fb83caad6d2c2e7b",
+    "share": null,
+    "first_seen_at": "2026-04-01T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "MLB The Show 26 is here! Start your road to The Show with 11 new schools.",
+    "button_text": "Shop Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Aaron Judge introduces the game's new features with a celebrity endorsement.",
+    "visual_action": "Close-up of Aaron Judge speaking, followed by fast-paced in-game highlights of hitting and pitching.",
+    "text_overlay": "MLB THE SHOW 26, EXPANDED AMATEUR EXPERIENCE, COOPERSTOWN HALL OF FAME",
+    "voiceover_transcript": "MLB The Show 26 has more roads to greatness than ever before,",
+    "emotional_pitch": "celebrity"
+  },
+  "scene_flow": [
+    "Aaron Judge introduces the game's expanded features and 'roads to greatness'.",
+    "Fast-paced montage of in-game baseball action, including home runs and pitching.",
+    "Aaron Judge discusses the variety of ways to play, including Diamond Dynasty.",
+    "Humorous behind-the-scenes clip of Aaron Judge at a photoshoot being called 'stiff'.",
+    "Final end card with the game logo, 'Available Now', and 'Make Your Mark' slogan."
+  ],
+  "on_screen_text": [
+    "MLB THE SHOW 26",
+    "EXPANDED AMATEUR EXPERIENCE",
+    "COOPERSTOWN HALL OF FAME",
+    "TO GREATNESS",
+    "DIAMOND DYNASTY'S BIGGEST STAGE",
+    "TO PLAY,",
+    "TO STEAL TIME",
+    "ELSE.",
+    "AARON.",
+    "AVAILABLE NOW",
+    "MAKE YOUR MARK."
+  ],
+  "cta_text": "AVAILABLE NOW",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#003087",
+    "#E4002B",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male baseball fans and gamers aged 18-45 who follow MLB and enjoy sports simulations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001934
+}

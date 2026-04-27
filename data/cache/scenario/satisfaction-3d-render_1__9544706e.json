@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_SXToEu1akbozhzLsSAHpSusS?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfU1hUb0V1MWFrYm96aHpMc1NBSHBTdXNTP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=pZKbAcmQPkJjfsKRdn8PqC0y3pqlfbPOB4K5YhXikTxI-pzhH3qXYYjzCzQnmIJh8OrxOVHEUqxTr6hBP8eGOzW8Q3wNDsBjrFVl9FzZ6R%7EfnY5Zje84WVQjM2KWW94-wvqYeaLh-crK8Eo8A0BzjPHfjBiboT8INp%7EutC7zbGTOKZJCk2D5etfr3KTCEneGFSlgAIxkyc8Z5do4Ho04-XjX0v%7ExOb5sYdkk%7EhFL1eERFQqcuocIMAA-2DM%7EHslWCJ5TRQ5kkpnh-8prwpgGk%7EaNcs8J0zbMcfAWoUN93WEgIBpVGFtxHj-xmI2npWSJyygEcX2zISj29J55quBZng__",
+  "job_id": "job_FQ2xCmMGXqmCN39RmcBSbSAx",
+  "asset_id": "asset_SXToEu1akbozhzLsSAHpSusS",
+  "stub": false,
+  "prompt": "Storyboard frame 1, aspect 9:16, in-game screenshot of Marble Sort!: top-down three-quarter view of the full sorting machine \u2014 tray of mixed marbles at top, moving conveyor belt mid-frame, four colored drop-boxes at bottom filling up, one striped special marble splitting mid-air into two colored halves, lavender (#E5DFFF) background, light-grey (#F0F0F8) machine body, orange (#FFB13B) accent confetti burst around a full box, overlay text 'Right color, right box' in rounded white-on-orange pill, clean and colorful 3D cartoon style with soft rounded shapes, no characters, mobile HUD intact.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

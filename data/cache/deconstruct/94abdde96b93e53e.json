@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "94abdde96b93e53e",
+    "ad_unit_id": "94abdde96b93e53e",
+    "app_id": "576fc77df7b5cc0861000419",
+    "advertiser_name": "Empires & Puzzles: Match-3 RPG",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f4b73069b92fc73/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f4b73069b92fc73/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f4b73069b92fc73/preview",
+    "phashion_group": "94abdde96b93e53e",
+    "share": null,
+    "first_seen_at": "2025-12-03T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Come back to the game! 💥",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A static reward screen with a ticking countdown timer creating urgency.",
+    "visual_action": "Display of blue gems, a treasure chest, and a 'COLLECT NOW' button with a timer counting down.",
+    "text_overlay": "HURRY UP AND COLLECT YOUR GEMS!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Display of a treasure hoard including blue gems and a gold chest.",
+    "A countdown timer in the bottom right corner begins ticking down from 10.",
+    "The 'COLLECT NOW' button remains static as the primary call to action.",
+    "The timer reaches zero and the sequence loops."
+  ],
+  "on_screen_text": [
+    "HURRY UP AND COLLECT YOUR GEMS!",
+    "250K",
+    "COLLECT NOW",
+    "EMPIRES AND PUZZLES"
+  ],
+  "cta_text": "COLLECT NOW",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#00AEEF",
+    "#FFCC00",
+    "#4CAF50"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual mobile gamers who enjoy fantasy RPGs and are motivated by time-limited rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001597
+}

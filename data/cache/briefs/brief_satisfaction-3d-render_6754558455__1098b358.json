@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "target_game_id": "6754558455",
+  "title": "Marble Pour ASMR — Sort the Rainbow",
+  "hook_3s": "A glossy stream of rainbow marbles cascades from above onto a soft lavender conveyor, plinking into perfectly color-matched jars in crisp 3D ASMR.",
+  "scene_flow": [
+    "0–3s HOOK: Top-down 3D shot. A pastel tray tilts open and a glossy stream of multi-colored marbles pours down with a satisfying ASMR clack onto a lavender conveyor belt.",
+    "3–7s REVEAL: Camera pulls back to show 4 labeled glass jars (RED, BLUE, YELLOW, GREEN) gliding on the conveyor below — marbles begin dropping into their matching jars, each landing with a soft 'plink' and bounce.",
+    "7–11s TENSION: A rogue red marble drifts toward the BLUE jar — UI finger taps a tray to release a green marble that nudges it back on course. 'Tap to sort!' overlay pops.",
+    "11–14s PAYOFF: Jars fill to the top in synchronized satisfaction, level-complete confetti bursts in orange (#FFB13B), stars fly up.",
+    "14–15s CTA: Logo lockup with 'Marble Sort!' and download button pulsing on lavender background."
+  ],
+  "visual_direction": "Clean and colorful 3D cartoon style with soft, rounded shapes. Lavender (#E5DFFF) studio backdrop with light-grey (#F0F0F8) machinery and conveyor; vibrant orange (#FFB13B) accents on labels, sparkles, and CTA. Glossy marbles with subtle subsurface scattering, soft global illumination, shallow depth of field on hero pours, ASMR-style close-ups with crisp Foley sound design (clack, plink, bounce). Calm, premium, satisfying — feels like a Pinterest organization reel.",
+  "text_overlays": [
+    "No. 001 RAINBOW SORT",
+    "Tap to release",
+    "Match the color",
+    "Oddly satisfying 🫧",
+    "Can YOU sort them all?",
+    "Play Free →"
+  ],
+  "cta": "Play Free",
+  "rationale": "Keeps the winning ASMR-pour archetype's audience pull (25–55 women, satisfaction emotion) but fixes the mechanic gap by showing multi-color marbles, conveyor, and tap-to-release in the first 5 seconds — so viewers instantly grasp the core loop. Lavender + orange palette preserves Marble Sort!'s brand recognition from store screenshots, improving CTR-to-install conversion. Run as primary hook variant against the spice-jar control; expect lift on IPM and D1 retention from intent-matched installs.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, top-down 3D cartoon render of a glossy stream of multi-colored marbles (red, blue, yellow, green) pouring from a pastel tray onto a soft light-grey (#F0F0F8) conveyor belt, four labeled glass jars below catching color-matched marbles, lavender (#E5DFFF) studio background, vibrant orange (#FFB13B) accent label reading 'No. 001 RAINBOW SORT', clean and colorful 3D cartoon style with soft rounded shapes, soft global illumination, shallow depth of field, ASMR product-shot aesthetic, ultra crisp.",
+    "Storyboard frame 1, aspect 9:16, 3D cartoon scene of a cartoon finger tapping a pastel tray that releases a single glossy green marble mid-air with motion trail, conveyor belt with colored jars below, lavender (#E5DFFF) background, light-grey (#F0F0F8) machinery, orange (#FFB13B) UI button glowing with text 'Tap to release', clean and colorful 3D cartoon style with soft rounded shapes, playful and satisfying mood.",
+    "Storyboard frame 2, aspect 9:16, 3D cartoon hero shot of four glass jars filled to the brim with perfectly sorted red, blue, yellow, and green marbles on a light-grey (#F0F0F8) conveyor, orange (#FFB13B) confetti and sparkles bursting, lavender (#E5DFFF) backdrop, big bold orange overlay text 'Oddly satisfying 🫧', clean and colorful 3D cartoon style with soft rounded shapes, celebratory and calming."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_xFWgXAf3nuxY63KrRHdispAq?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeEZXZ1hBZjNudXhZNjNLclJIZGlzcEFxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=hAZgYtsYdvgDfhTmPNEypuN%7EEqnX4RHXnOZkSvGbQzWyDsdV-cnpyGYSJKiGs1%7EOZ-etgOxa5z-%7EVSwQZHkx7yGG6mBAvDFH-hR7X00GsYvIJFrJxmKydfqgHUzHEQQr9CSYyH0viWpPvKUJRxBVrQPG0DRjSPNnF7pjpibqB30xS6hHBjbGkH5mZsQy3rbT--nRLUB6WHy0iEEBLkP3N1lhymEPUoUpwEhnY5oJUZb06lubIBxKrzNqT69%7EE9cqGJmYMrP7JTviVu-mfs8ZYq23j%7EDayOgz%7EE0U0hLm1UgoEW0xtB5nT1yBy3KInIVKiZ1BZrmqtQI2Pe00eGFgyw__",
+  "job_id": "job_XzcQiV8CbKHrSri92Dbn8vcC",
+  "asset_id": "asset_xFWgXAf3nuxY63KrRHdispAq",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical: over-the-shoulder shot of a smartphone held in dim room, screen showing a minimalist trivia app UI on pure #100D06 black with a single glowing #D4A024 line of text 'Is your person still alive?' and a small gold question counter. Mystical Minimalism, hairline gold borders, no clutter. On-screen text overlay in elegant serif: 'Question 7\u2026 how does it know this' in #FCE588. Cinematic, mysterious, sophisticated.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

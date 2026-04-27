@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1617391485",
+  "title": "Hands-On Satisfaction: One Perfect Clear",
+  "hook_3s": "Close-up: a thumb drags a glowing gold polyomino toward a nearly-full 8x8 navy grid — one block away from a massive multi-line clear.",
+  "scene_flow": [
+    "0–3s HOOK: ASMR close-up of a hand holding a phone in portrait. The 8x8 dark-navy Block Blast grid fills the screen. Three bright polyomino pieces wait at the bottom; rows are dangerously close to filling. Text snaps in: 'Can you clear it?'",
+    "3–7s TENSION: Thumb drags a blue L-piece into place — one row clears with a glossy shimmer and gold sparks. Score jumps. Camera pushes slightly closer. Overlay: 'One more move...'",
+    "7–11s PAYOFF: Thumb slots the final gold square piece. FOUR lines clear simultaneously in a cascading bevel-flash, gold stars burst, combo counter pops 'x4!'. Satisfying chime + haptic shimmer.",
+    "11–14s SOCIAL PROOF: Quick split: score rockets past a leaderboard number. Overlay: '97% can't beat this board.'",
+    "14–15s CTA: Logo lockup on royal blue, glossy gold button pulses. Overlay: 'Play Free.'"
+  ],
+  "visual_direction": "Shot in vertical 9:16 with a real human hand (warm neutral skin tone, no jewelry) holding a clean white phone against a soft royal-blue (#5469B9) gradient backdrop — echoing the in-game palette so the device feels like a natural extension of the brand. The on-screen gameplay dominates 80% of frame: dark-navy (#1E2744) 8x8 board, glossy beveled polyominoes in saturated brand colors, and #FFD700 gold accents on score, stars, and clear-flashes. Camera uses subtle macro push-ins on each drop, with crisp tactile sound design (click, whoosh, sparkle). Mood is calm-then-triumphant — never frantic. Every line-clear must feel buttery, glossy, and inevitable.",
+  "text_overlays": [
+    "Can you clear it?",
+    "One more move...",
+    "x4 COMBO!",
+    "97% can't beat this board.",
+    "Play Free."
+  ],
+  "cta": "Play Free",
+  "rationale": "This adapts the proven 'hands-on-phone satisfaction' framing but reshoots it with authentic Block Blast gameplay — real 8x8 grid, brand palette, and a line-clear payoff — eliminating the IPM risk of misleading jigsaw visuals flagged in the fit scan. Lead with this as a low-spend test ($200–500/day) against 25–55 casual puzzle lookalikes; if CTR/IPM clear benchmark within 72 hours, scale and build variants swapping the hook question and combo size. Treat as low-confidence archetype evidence — cap budget until signal stabilizes.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 aspect ratio, photorealistic close-up of a human hand holding a white smartphone in portrait orientation against a soft royal blue #5469B9 gradient backdrop. On the phone screen: an 8x8 dark navy #1E2744 puzzle grid filled with glossy beveled polyomino blocks in saturated brand colors, a glowing gold #FFD700 L-shaped block hovering mid-drag above a nearly-complete row, gold sparks anticipating a line clear. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Bold white sans-serif on-screen text overlay reads 'Can you clear it?' at the top. Cinematic macro lens, soft key light, tactile and satisfying mood.",
+    "Storyboard frame 2, vertical 9:16 aspect ratio, dynamic close-up of a smartphone screen mid-action: four horizontal rows simultaneously clearing on an 8x8 dark navy #1E2744 grid, explosive gold #FFD700 sparks and beveled glossy block fragments cascading outward, score counter glowing gold in the top-right. Background royal blue #5469B9 bokeh. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Large punchy yellow-gold text overlay 'x4 COMBO!' centered with subtle motion blur. High-contrast, celebratory, ASMR-satisfying lighting.",
+    "Storyboard CTA frame, vertical 9:16 aspect ratio, clean end-card composition on a deep royal blue #5469B9 background with a centered glossy beveled Block Blast logo lockup, a single floating gold #FFD700 polyomino block and three sparkle stars, a pulsing gold rounded CTA button at the bottom. Dark navy #1E2744 subtle grid pattern fading in the background. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Bold white text overlay 'Play Free' on the button. Premium, calm, inviting finish."
+  ]
+}

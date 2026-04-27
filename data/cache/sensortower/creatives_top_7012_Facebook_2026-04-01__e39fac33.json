@@ -1,0 +1,394 @@
+{
+  "count": 638,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "67a7083d6f23bd94",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "Facebook",
+      "phashion_group": "67a7083d6f23bd94",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "67a7083d6f23bd94",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Epic update\uff01Photo upload feature\uff01",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e2c747649a3a65e2",
+      "app_id": "6884386ecaf624b94c5544cd",
+      "network": "Facebook",
+      "phashion_group": "e2c747649a3a65e2",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-13",
+      "last_seen_at": "2026-04-03",
+      "creatives": [
+        {
+          "id": "e2c747649a3a65e2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "Puzzle Deslizante",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6884386ecaf624b94c5544cd",
+        "canonical_country": "IN",
+        "name": "Jigblock Puzzle - Jigsaw",
+        "publisher_name": "April 21 Studio",
+        "publisher_id": "5ea87f3c5b50212e97b9ca88",
+        "humanized_name": "Jigblock Puzzle",
+        "icon_url": "https://play-lh.googleusercontent.com/FDdsAEU8XmX-uOM56XqwmTYd_HTe_GSwxN1aPyDsjS67sAcfE7p9-_SvLLOqrwPVkI5LAEmxLAfmTVqZ71u3=s150",
+        "os": "unified",
+        "id": "6884386ecaf624b94c5544cd",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "aa8b3e7656d46dcd",
+      "app_id": "63c0a80dedbc613cc4f954e4",
+      "network": "Facebook",
+      "phashion_group": "aa8b3e7656d46dcd",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-20",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "aa8b3e7656d46dcd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "63c0a80dedbc613cc4f954e4",
+        "canonical_country": "US",
+        "name": "Landlord Simulator",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Landlord Simulator",
+        "icon_url": "https://play-lh.googleusercontent.com/I5xiVnmCbJB1aKjbiUCtwokqqWHECt5KAHVD0PQ-gLRg4s4Xw1tU6xmT1gjqmiHc_QbM=s150",
+        "os": "unified",
+        "id": "63c0a80dedbc613cc4f954e4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f8c6782d0148b33f",
+      "app_id": "66cd51e99e7c3b9775dd562b",
+      "network": "Facebook",
+      "phashion_group": "f8c6782d0148b33f",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-08",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "f8c6782d0148b33f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00c1f90e6ce09519/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00c1f90e6ce09519/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00c1f90e6ce09519/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Relax with Drop Away",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66cd51e99e7c3b9775dd562b",
+        "canonical_country": "US",
+        "name": "Drop Away: Color Puzzle",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Drop Away: Color Puzzle",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/99/90/4e999058-cf79-6bd4-15fa-d45acfbf7df4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66cd51e99e7c3b9775dd562b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a7b00a740fdf90d5",
+      "app_id": "5b0bf793add5fb1967fd21ad",
+      "network": "Facebook",
+      "phashion_group": "a7b00a740fdf90d5",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-31",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "a7b00a740fdf90d5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udd25 Tap to play! \ud83d\udc49\ud83c\udffb\ud83d\udc49\ud83c\udffb\ud83d\udc49\ud83c\udffb",
+          "button_text": "Play Game",
+          "message": "Time-limited events starting soon! \ud83c\udf89\ud83d\udd25"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b0bf793add5fb1967fd21ad",
+        "canonical_country": "US",
+        "name": "Viola\u2019s Quest: Marble Blast",
+        "publisher_name": "Two Desperados",
+        "publisher_id": "56511f5202ac640e66000002",
+        "humanized_name": "Viola\u2019s Quest",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/e9/fe/49e9fe59-af13-8b48-ac5f-9ac978d18e9a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5b0bf793add5fb1967fd21ad",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "17cc39c998c9fc2c",
+      "app_id": "65bc21a632c4c13a4e185cef",
+      "network": "Facebook",
+      "phashion_group": "17cc39c998c9fc2c",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-12",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "17cc39c998c9fc2c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/011e79ac3b0b8f2d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/011e79ac3b0b8f2d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/011e79ac3b0b8f2d/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Fun And Easy Block Puzzle Game",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "65bc21a632c4c13a4e185cef",
+        "canonical_country": "US",
+        "name": "Block Rush - Block Puzzle Game",
+        "publisher_name": "Oakever Games",
+        "publisher_id": "65dcc4c25d0a0d46ffa216a3",
+        "humanized_name": "Block Rush",
+        "icon_url": "https://play-lh.googleusercontent.com/RggwpePb-kE2RnnYumlrldaARRdKmCV3S9HVt9nYHDQEwfHWs7cxXfyPQRwRCpCHlWA6TFovdZ3fLTaQUS7iYg=s150",
+        "os": "unified",
+        "id": "65bc21a632c4c13a4e185cef",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "ced4015d06ee3982",
+      "app_id": "6511e2671af9fc394fd13946",
+      "network": "Facebook",
+      "phashion_group": "ced4015d06ee3982",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-07",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "ced4015d06ee3982",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0184b2deb274387e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0184b2deb274387e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0184b2deb274387e/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Free Block Puzzle Game!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6511e2671af9fc394fd13946",
+        "canonical_country": "US",
+        "name": "Wood Block Puzzle Games",
+        "publisher_name": "Vita Studio",
+        "publisher_id": "6459b09cfbea7c79994f1aba",
+        "humanized_name": "Wood Block Puzzle Games",
+        "icon_url": "https://play-lh.googleusercontent.com/58a4eAFYvA6m-dRNwg88sl-t3PspLTAyCaIoUgAal5YIXlT6WPLdYhl_HGHvTC1O3Qt4BJfMJIrcBRfG8uW4TA=s150",
+        "os": "unified",
+        "id": "6511e2671af9fc394fd13946",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "9888fad6ae816caf",
+      "app_id": "57d6bb900211a6b7290001a8",
+      "network": "Facebook",
+      "phashion_group": "9888fad6ae816caf",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-13",
+      "last_seen_at": "2026-04-13",
+      "creatives": [
+        {
+          "id": "9888fad6ae816caf",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01b340af0f4e4063/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01b340af0f4e4063/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01b340af0f4e4063/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Merge Now",
+          "button_text": "Play Game",
+          "message": "Check out new exciting events!\ud83e\udd29"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "57d6bb900211a6b7290001a8",
+        "canonical_country": "US",
+        "name": "Merge Dragons!",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Merge Dragons!",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ff/18/f9ff18e4-e3df-44b8-0d1c-b07c55df3b22/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "57d6bb900211a6b7290001a8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "51872020baa08917",
+      "app_id": "69c32dc29ed60e3ebdd07cea",
+      "network": "Facebook",
+      "phashion_group": "51872020baa08917",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-14",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "51872020baa08917",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01cd1f31d3379420/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01cd1f31d3379420/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01cd1f31d3379420/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Chicken challenge now",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "69c32dc29ed60e3ebdd07cea",
+        "canonical_country": "US",
+        "name": "Chicken Rage Scavenger",
+        "publisher_name": "Onesoft",
+        "publisher_id": "5b6de3cab80f52168dc0abc3",
+        "humanized_name": "Chicken Rage Scavenger",
+        "icon_url": "https://play-lh.googleusercontent.com/Df8bRYFgOvXQpkoFxOiI8W-UU-FMJVZ3ew4Y0ioj2_d6zNQ9mS7oQEJHpTzFieh2ajaeDLOgZC1mBkzcEWtnfA=s150",
+        "os": "unified",
+        "id": "69c32dc29ed60e3ebdd07cea",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "806b49d300a0bc59",
+      "app_id": "664831db335788e1f4f04311",
+      "network": "Facebook",
+      "phashion_group": "806b49d300a0bc59",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-09",
+      "last_seen_at": "2026-04-12",
+      "creatives": [
+        {
+          "id": "806b49d300a0bc59",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022f32da7e3d7b9c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022f32da7e3d7b9c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022f32da7e3d7b9c/thumb",
+          "video_duration": 6,
+          "width": 720,
+          "height": 1280,
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "664831db335788e1f4f04311",
+        "canonical_country": "US",
+        "name": "Tile Explorer - Triple Match",
+        "publisher_name": "Oakever Games",
+        "publisher_id": "65dcc4c25d0a0d46ffa216a3",
+        "humanized_name": "Tile Explorer",
+        "icon_url": "https://play-lh.googleusercontent.com/kwa0XzNS0QNIWthk_gQ5Jrzc0myF56RNXuehCN5YSMKjNeFesOnvkvXEBYi5zIAtC6aM=s150",
+        "os": "unified",
+        "id": "664831db335788e1f4f04311",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

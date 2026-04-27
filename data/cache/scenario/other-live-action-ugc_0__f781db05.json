@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_AfApBDPTvMqnPMytkikaSK9o?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQWZBcEJEUFR2TXFuUE15dGtpa2FTSzlvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=RNSg%7EArrip0UCHMoIy4TUf-esQTOeMWBLV7gdJFnJN9Hx4-mbI9qlL%7E3i-ph9OTOqFulonoDyhPok9XHPfkpQillEIcpN9StJEeGdu5HTQFbCQbwnVaRNZ8kTSaeozzzMWRHGCKzRT6mJp2gVzi4Mun6OgBSKZzultwEMbgeXtyl-quKOkD9Mm7z4QiSNhryNprGsoyfQ4qRYLSoZv7IXmyG1tBUareLOXBulwqsOV5SeM1V9PvJcKn3ba4oO7zpkNE6SUU-XxKxOyBl8kUCliUjbv7ir%7EIy6cLUe%7Ekz9z84gX7nsfD-kxIm1KnRlky74VMDPpLfyS03FRClp9jZFA__",
+  "job_id": "job_ExucmFaoLqksLiFHSkMTFXU7",
+  "asset_id": "asset_AfApBDPTvMqnPMytkikaSK9o",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical, cinematic UGC photography: close-up of a 35-year-old woman's face half-lit by the warm golden glow of a smartphone in a near-pitch-black study, single candle bokeh behind her, expression of focused curiosity, phone screen visible showing minimalist dark UI with glowing serif text 'Are they still alive? \u2014 YES', color palette strictly #100D06 deep black background, #D4A024 golden screen light, #FCE588 cream skin highlights, Mystical Minimalism visual style, shallow depth of field, 35mm, grain, premium and mysterious mood",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

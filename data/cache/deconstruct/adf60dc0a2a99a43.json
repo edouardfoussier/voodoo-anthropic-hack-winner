@@ -1,0 +1,63 @@
+{
+  "raw": {
+    "creative_id": "adf60dc0a2a99a43",
+    "ad_unit_id": "adf60dc0a2a99a43",
+    "app_id": "60d53af5c1238e1ac89812f6",
+    "advertiser_name": "Tower War - Tactical Conquest",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c33b890d25a65545/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c33b890d25a65545/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c33b890d25a65545/preview",
+    "phashion_group": "adf60dc0a2a99a43",
+    "share": null,
+    "first_seen_at": "2023-11-09T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Capture all bases!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "UGC creator advises players to stop using multipliers linearly.",
+    "visual_action": "Split screen with a male creator talking over gameplay of a tower defense game.",
+    "text_overlay": "STOP THE MULTIPLIER NOT",
+    "voiceover_transcript": "You need to stop going straight through the multiplier.",
+    "emotional_pitch": "tutorial"
+  },
+  "scene_flow": [
+    "Creator introduces a 'secret' looping strategy for multipliers.",
+    "Gameplay shows a pencil drawing circular paths around a +1 gate.",
+    "Blue units rapidly multiply and swarm the red enemy base.",
+    "Final end card with game title and download prompt."
+  ],
+  "on_screen_text": [
+    "STOP",
+    "THE MULTIPLIER",
+    "NOT",
+    "LAPS",
+    "THINGS?",
+    "RELAX",
+    "MULTIPLY",
+    "SECRET",
+    "EASIER",
+    "RED",
+    "TOWER WAR",
+    "NOW!",
+    "DOWNLOAD"
+  ],
+  "cta_text": "TOWER WAR NOW! DOWNLOAD",
+  "cta_timing_seconds": 13.5,
+  "palette_hex": [
+    "#76B947",
+    "#3B66B0",
+    "#FFFFFF"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual gamers who enjoy tower defense and satisfying strategy games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001658
+}

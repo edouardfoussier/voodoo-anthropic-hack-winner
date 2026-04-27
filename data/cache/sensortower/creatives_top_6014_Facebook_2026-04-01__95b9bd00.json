@@ -1,0 +1,173 @@
+{
+  "count": 2907,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "a04a955726f522b5",
+      "app_id": "55c50b2202ac64f9c00022c6",
+      "network": "Facebook",
+      "phashion_group": "a04a955726f522b5",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "a04a955726f522b5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a0e5273880cdd96/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a0e5273880cdd96/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a0e5273880cdd96/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Desafie-se em SAROS no PS5",
+          "button_text": "Learn More",
+          "message": "Voc\u00ea n\u00e3o controla Carcosa. Sob a influ\u00eancia do Eclipse, tudo muda. Desafie-se e enfrente o caos. Saros j\u00e1 dispon\u00edvel no PS5"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50b2202ac64f9c00022c6",
+        "canonical_country": "US",
+        "name": "PlayStation App",
+        "publisher_name": "Sony",
+        "publisher_id": "5628902202ac648b280004e7",
+        "humanized_name": "PlayStation App",
+        "icon_url": "https://play-lh.googleusercontent.com/zi6QgTtIiAnGqQMizfoj2LnE85kzHyZlgTruSzJ7Zw_79NAmB3fhxuDegwxby7P0yw=s150",
+        "os": "unified",
+        "id": "55c50b2202ac64f9c00022c6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d683378596d7773",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "5d683378596d7773",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "5d683378596d7773",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c3feec33792dcf7f",
+      "app_id": "55c50b2202ac64f9c00022c6",
+      "network": "Facebook",
+      "phashion_group": "c3feec33792dcf7f",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-02",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "c3feec33792dcf7f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6bf9850ca6bb2c66/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6bf9850ca6bb2c66/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6bf9850ca6bb2c66/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Descubra novos jogos",
+          "button_text": "Subscribe",
+          "message": "Conhce\u00e7a o PlayStation Plus com uma cole\u00e7\u00e3o de jogos ic\u00f4nicos, t\u00edtulos mensais, benef\u00edcios exclusivos e muito mais para explorar."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50b2202ac64f9c00022c6",
+        "canonical_country": "US",
+        "name": "PlayStation App",
+        "publisher_name": "Sony",
+        "publisher_id": "5628902202ac648b280004e7",
+        "humanized_name": "PlayStation App",
+        "icon_url": "https://play-lh.googleusercontent.com/zi6QgTtIiAnGqQMizfoj2LnE85kzHyZlgTruSzJ7Zw_79NAmB3fhxuDegwxby7P0yw=s150",
+        "os": "unified",
+        "id": "55c50b2202ac64f9c00022c6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "792477e9b3afca48",
+      "app_id": "5cb9b9223ea98344e0401fcf",
+      "network": "Facebook",
+      "phashion_group": "792477e9b3afca48",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-14",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "792477e9b3afca48",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Install Now",
+          "message": ""
+        },
+        {
+          "id": "e07b7d9e159bd647",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "title": "Crush the Court Now!",
+          "button_text": "Install Now",
+          "message": "Slam dunk on the tennis court with Tennis Clash! \ud83c\udfbe\nThis game is for you if you're ready to crush some serious serves and volleys. \u2728"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5cb9b9223ea98344e0401fcf",
+        "canonical_country": "US",
+        "name": "Tennis Clash\uff1aSports Stars Game",
+        "publisher_name": "Wildlife Studios",
+        "publisher_id": "5614e08d3f07e25d2901b7e7",
+        "humanized_name": "Tennis Clash",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/8e/1c/258e1c1d-2466-7348-27cc-39be0ace913e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5cb9b9223ea98344e0401fcf",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1342468799",
+  "title": "\"Actually Relaxing?\" — Color Road! ASMR Restage",
+  "hook_3s": "\"Ever played a game that ACTUALLY relaxes you?\" — finger glides a pink ball through a perfect pink color-gate, crisp click on impact.",
+  "scene_flow": [
+    "0–3s: Close-up POV of a thumb steering a pastel-pink ball down the dark track; ball threads a matching pink gate with a satisfying click. VO question hooks the viewer.",
+    "3–7s: Pull back — chain of 5 color gates (pink → red → pink) cleared in rhythm, coins vacuumed up, combo counter climbs. Each match pops a soft chime.",
+    "7–11s: Tension beat — a mismatched red wall approaches while ball is pink; thumb swipes sideways at the last frame to grab a red paint-splash power-up, ball flips red, smashes through. Score juice.",
+    "11–14s: Speed ramp — long satisfying run of perfect matches, screen blooms pastel, coin counter ticks up fast.",
+    "14–15s: End card — ball rolls into giant glossy logo; CTA stamps in over pastel city skyline."
+  ],
+  "visual_direction": "Authentic Color Road! in-game framing: deep navy (#152238) ribbon track floating over a soft pastel-pink (#FADADD) blurred city skyline, saturated #FF4C4C accents on hazard gates and the score HUD. Minimalist 3D abstract geometry — no characters, just the rolling ball, color gates, coin pickups, and the standard top-right pause button + top-left score counter. Camera is the signature low-chase angle behind the ball, with one tight thumb-on-screen overlay shot to sell the \"oddly satisfying\" tactile angle. Soft bloom, shallow DOF on background buildings, crisp specular highlight on the ball.",
+  "text_overlays": [
+    "Ever played a game that ACTUALLY relaxes you?",
+    "Just match the color…",
+    "…and don't blink 👀",
+    "Combo x12 🔥",
+    "Your brain will thank you"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Color Road! rotation is all unlabeled Applovin playables/videos with no clear emotional angle — the satisfaction/ASMR-question hook is trending market-wide but absent here. We restage the bus-sort archetype's \"relaxing question\" VO onto Color Road!'s native rolling-ball + color-gate ASMR footage, which keeps install intent honest (no bait-and-switch churn) while stealing the scroll-stopping hook. UA: test against the existing playables as a top-funnel video; if CTR lifts, port the same VO into a playable variant.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic Color Road! in-game screenshot: glossy pastel-pink rolling ball mid-track on a dark navy #152238 ribbon track, threading a perfectly matched pink color-gate with a tiny burst of #FF4C4C sparks, soft pastel #FADADD blurred city skyline background, minimalist 3D abstract geometric shapes, no characters, top-left score counter '0124' and top-right pause button visible, low chase camera, shallow depth of field, soft bloom, on-screen text 'Ever played a game that ACTUALLY relaxes you?' in clean white sans-serif at upper third. [Audio: VO 'Ever played a game that actually relaxes you?' / chill lo-fi-meets-energetic 95 BPM pastel beat / soft click on gate pass at 1.5s, coin chime at 2.5s]",
+    "Storyboard frame, aspect 9:16, Color Road! gameplay still: long dark #152238 track snaking over pastel #FADADD city, pink ball mid-roll about to hit a #FF4C4C red wall while a red paint-splash pickup glows just left, combo counter 'x8' pulsing top-center, coin trail behind ball, minimalist 3D abstract geometric style, no characters, signature pause button top-right, on-screen text '…and don't blink 👀' bottom third in white. [Audio: VO whisper 'don't blink' / rising 100 BPM competitive synth swell / whoosh on swipe at 2s, deep thud-then-shatter on red wall break at 3.5s]",
+    "Storyboard end-card frame, aspect 9:16, Color Road! style: pastel-pink ball resting beside oversized glossy 'Color Road!' wordmark on dark navy #152238 track, pastel #FADADD sky, scattered #FF4C4C confetti, minimalist 3D abstract geometry, no characters, big white 'Play Free' CTA button center-bottom, score '999+' and coin icon top HUD, on-screen text 'Your brain will thank you' upper third. [Audio: VO 'Your brain will thank you — play free' / triumphant 110 BPM pastel-pop sting / cash-register coin cascade at 1s, soft button-tap pop on CTA at 3s]"
+  ]
+}

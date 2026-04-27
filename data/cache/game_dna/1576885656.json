@@ -1,0 +1,30 @@
+{
+  "app_id": "1576885656",
+  "name": "Destiny Run",
+  "genre": "Hypercasual",
+  "sub_genre": "Runner",
+  "core_loop": "Swipe left or right to steer the character, collect items that match your chosen moral alignment (Angel or Devil), pass through choice gates, and reach the end of the track for judgment.",
+  "audience_proxy": "Broad casual audience, skewing female, ages 13-35.",
+  "visual_style": "3D stylized, bright and clean, with simple low-poly geometry.",
+  "palette": {
+    "primary_hex": "#5bc2ff",
+    "secondary_hex": "#ffffff",
+    "accent_hex": "#d92b2b",
+    "description": "Bright sky blue and white environment with stark red and green accents highlighting gameplay choices."
+  },
+  "key_mechanics": [
+    "swiping",
+    "collecting",
+    "obstacle-avoidance",
+    "path-choosing"
+  ],
+  "character_present": true,
+  "ui_mood": "calm/satisfying",
+  "screenshot_signals": [
+    "Split path choice gates",
+    "Moral alignment meter",
+    "Thematic collectibles (halos, horns)",
+    "Character evolution based on choices",
+    "Level progress bar"
+  ]
+}

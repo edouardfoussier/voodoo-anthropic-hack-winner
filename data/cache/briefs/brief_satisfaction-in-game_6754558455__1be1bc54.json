@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "6754558455",
+  "title": "Tap. Drop. Sort. — The Most Satisfying 15 Seconds",
+  "hook_3s": "A finger taps a lavender tray — rainbow marbles cascade onto a conveyor with a soft *plink*, each one snapping into its matching pastel box.",
+  "scene_flow": [
+    "0–3s HOOK: Close-up on a single tray packed with glossy marbles. A finger taps — marbles tumble in slow-mo onto the conveyor with ASMR plinks. Overlay: 'Can you sort them all?'",
+    "3–7s BUILD: Camera pulls back to reveal the full machine. Marbles roll along the belt and *pop* into color-matched boxes — green→green, orange→orange. Counter ticks up. Overlay: 'Match the colors'",
+    "7–11s TENSION: A wrong-colored marble approaches the wrong box. Belt slows. Red flash hint: 'Tap to release!' Player taps a second tray just in time — correct marble drops in. Satisfying chime + confetti puff.",
+    "11–14s PAYOFF: All boxes fill simultaneously. Boxes glow, marbles sparkle, screen washes in soft lavender-to-orange gradient. Level complete stamp lands with a bouncy squash.",
+    "14–15s CTA: Game logo + bright orange 'Play Free' button pulses. Finger taps screen."
+  ],
+  "visual_direction": "Lean fully into Marble Sort's soft pastel identity: lavender (#E5DFFF) background sky, light-grey (#F0F0F8) machine and conveyor with rounded edges and gentle ambient occlusion, and a vibrant orange (#FFB13B) reserved for UI accents, the CTA, and the celebratory burst. Clean 3D cartoon style with chunky rounded shapes, glossy marble specular highlights, and shallow depth-of-field on the hero tap. Motion is slow, weighty, and physics-driven — every marble lands with a squish-and-settle. Sound design is ASMR-forward: plinks, soft thuds, gentle chimes — no aggressive SFX. Camera stays at a comfortable 3/4 top-down so both trays and boxes are always legible.",
+  "text_overlays": [
+    "Can you sort them all?",
+    "Tap to release",
+    "Match the colors",
+    "So satisfying 😌",
+    "Level 1 Complete!",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "We keep the archetype's winning 'tap → snap-into-place → satisfying payoff' rhythm but swap the mismatched crossword shell for Marble Sort's actual core loop, protecting D1 retention while still capturing the satisfaction-seeking 25–55 female audience. Test against a control with no tension beat (scene 3) to isolate whether the near-miss moment lifts IPM, and A/B the hook overlay 'Can you sort them all?' vs 'So satisfying 😌' to see which intent signal converts better.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 mobile ad still: a close-up 3/4 view of a glossy light-grey rounded sorting machine on a soft lavender #E5DFFF background, light-grey #F0F0F8 conveyor belt with pastel marbles (mint, pink, sky-blue, orange) tumbling from a tray, a large cartoon finger tapping the tray, color-matched rounded boxes glowing below, vibrant orange #FFB13B headline text 'Can you sort them all?' at top, clean and colorful 3D cartoon style with soft rounded shapes, soft studio lighting, shallow depth of field, ASMR mood",
+    "Storyboard frame 2, vertical 9:16: top-down 3D cartoon view of a pastel sorting machine mid-action, glossy marbles rolling along a light-grey #F0F0F8 conveyor belt against a lavender #E5DFFF backdrop, marbles snapping into color-matched rounded boxes with tiny sparkle bursts, bold orange #FFB13B overlay text 'Match the colors' centered, clean and colorful 3D cartoon style with soft rounded shapes, calm satisfying lighting",
+    "Storyboard payoff frame, vertical 9:16: celebratory hero shot of all pastel boxes filled with sorted glossy marbles glowing softly, confetti puffs in lavender #E5DFFF and orange #FFB13B, light-grey #F0F0F8 machine framing the scene, big bouncy orange #FFB13B stamp text 'Level 1 Complete!' across the middle, clean and colorful 3D cartoon style with soft rounded shapes, joyful satisfying mood"
+  ]
+}

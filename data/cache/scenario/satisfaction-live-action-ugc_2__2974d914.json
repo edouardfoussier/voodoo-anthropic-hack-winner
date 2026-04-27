@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_kfBW6h4qU2Poe55PYYraunW2?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfa2ZCVzZoNHFVMlBvZTU1UFlZcmF1blcyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=szXEO5QlKU3DFMuLLvYnmkbVTyAP-2k3TDkzT1xZ49F5pu-P8eaQMgisIEiO8CUIVkEnjtSPJr6IGIayFaQVIHuRyLSYswa9vXTiRix81V6bW4o4J3llq%7ExNE1ofQjNiIpaCVbjv8ZCFPKZH0fZcFEO4L84NmicrKrJDbxqfw6Ht%7EGfWTyK5CpnZ4y5u8Lj4c5iWatOd6AiclU6UeH2OvtIqB3jY5XkMvzMyu5dVo20PDpOWaKhN%7EVIw7J7-Xbni133f52r0aChLEaGbQeOb503R-8qRyF-wFojl81Zs4rDsigUOLxf0PSPkwSsyMosLifosn07zqvC%7EuBK%7E9qt%7EBQ__",
+  "job_id": "job_2GSwsQn4uR19kFxcQkjkXirP",
+  "asset_id": "asset_kfBW6h4qU2Poe55PYYraunW2",
+  "stub": false,
+  "prompt": "Storyboard frame 3, 9:16 vertical: close-up of the same user mid-reaction, restrained fist-pump, half-smile of impressed defeat, phone glow painting their face gold. Background pure #100D06 near-black. Mystical Minimalism premium UGC aesthetic, palette locked to #100D06 / #D4A024 / #FCE588. Bold serif overlay across upper third: 'Outsmart The Sphinx' in glowing #FCE588. Vertical mobile ad framing, cinematic grain.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

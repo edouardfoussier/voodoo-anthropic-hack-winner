@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 28,
+  "mechanic_match": 25,
+  "audience_match": 68,
+  "overall": 35,
+  "rationale": "The \"satisfaction payoff\" emotional beat is on-brand for Marble Sort's calm/satisfying mood and the casual female 25-55 audience overlaps well with word/crossword players, but the actual hook is fundamentally mismatched: it shows word-spelling and letter-tapping mechanics, not color sorting, timing, or physics drops, which will mislead installs and tank D1 retention. The warm brown/yellow/green donut palette also clashes with Marble Sort's soft lavender/orange identity. Recommend rebuilding the archetype around the same satisfaction arc but using a marble drop into matching boxes with a crisp clear-animation payoff — keep the structure, swap the content."
+}

@@ -1,0 +1,29 @@
+{
+  "archetype_id": "other-mixed",
+  "target_game_id": "6748054540",
+  "title": "POV: My Calm-Down Ritual",
+  "hook_3s": "POV: the only thing that shuts my brain off — tap, drop, and watch the whole grid explode into bouncing balls.",
+  "scene_flow": [
+    "0–2s: Quick first-person shot of hands setting down a coffee mug and picking up a phone in a dim, moody-lit room — phone screen glows deep purple and amber.",
+    "2–5s: Hard cut to fullscreen gameplay. A finger taps a colored block from the tray and snaps it into the grid. Overlay: 'Just one move…'",
+    "5–9s: The placed blocks transform into bouncing balls. Slow-mo physics chain reaction: balls ricochet, obstacles shatter, screen shakes gently with satisfying SFX.",
+    "9–13s: Rapid montage of 3 escalating levels clearing in giant chain reactions, amber progress bar filling each time. Overlay: 'I cannot stop.'",
+    "13–15s: Return to the hand holding the phone, screen shows 'Level Complete'. CTA card slams in over the deep-purple palette."
+  ],
+  "visual_direction": "Lean fully into Bounce Blast 3D's moody, premium-casual DNA: deep charcoal #20232B backgrounds, plush purple #403F6D UI frames and grid wells, with #FDBA4D amber as the only warm light source — used on the progress bar, highlighted blocks, and the glow trails of bouncing balls. Render gameplay in clean 3D Casual Abstract style with soft global illumination, subtle bloom on the amber accents, and exaggerated but elegant ball physics (squash-stretch, motion blur trails). Live-action bookend shots are short, ambient, and color-graded to match the palette — desaturated with warm amber phone-screen spill — so the cut into gameplay feels seamless rather than jarring. No character face shown; keep it POV/hands-only to preserve the game's character-free identity.",
+  "text_overlays": [
+    "POV: my 5-minute reset",
+    "Just one move…",
+    "wait for it 👀",
+    "I cannot stop.",
+    "Level 12 in one chain",
+    "Your turn."
+  ],
+  "cta": "Play Free",
+  "rationale": "Adapts the proven 'POV moment' hook to Bounce Blast's 25–55 calm-puzzle audience by reframing it as a relaxing reset ritual instead of a teen rush-home trope, and replaces the Tetris name-drop with a 2-second cut to actual chain-reaction gameplay — the game's true selling point. Live-action bookends are hands-only and color-matched to the palette so we keep the scroll-stopping POV format without inventing a character the game doesn't have. UA should A/B the hook overlay ('5-minute reset' vs 'shuts my brain off') and test a 6s cutdown that opens directly on the chain reaction for feeds where POV setup underperforms.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, 3D Casual Abstract style, first-person POV of a hand holding a smartphone in a dim moody living room, phone screen fills 70% of frame showing a physics puzzle: deep charcoal #20232B background, plush purple #403F6D rounded grid frame with colored blocks mid-placement, glowing amber #FDBA4D progress bar at top and bouncing balls leaving warm light trails, soft bloom, cinematic depth of field, on-screen text overlay reading 'POV: my 5-minute reset' in clean bold white sans-serif, premium casual mobile game ad still",
+    "Storyboard frame, aspect 9:16, 3D Casual Abstract style, extreme close-up of a colorful 3D puzzle grid mid-chain-reaction, multiple glossy bouncing balls ricocheting with motion blur and amber #FDBA4D glow trails, obstacles shattering into soft particles, deep #20232B background with #403F6D purple grid walls, dramatic rim lighting, satisfying physics moment frozen in time, on-screen text overlay 'wait for it 👀' in white rounded sans-serif at top, mobile gameplay capture aesthetic",
+    "Storyboard frame, aspect 9:16, 3D Casual Abstract style, top-down hero shot of a completed Bounce Blast 3D level with amber #FDBA4D 'Level Complete' banner glowing across the center, deep #20232B background, #403F6D purple UI frame and tray, scattered pastel blocks and a few residual bouncing balls with light trails, calm satisfying mood, soft ambient bloom, on-screen text overlay 'I cannot stop.' in bold white sans-serif at bottom third, premium casual puzzle ad still"
+  ]
+}

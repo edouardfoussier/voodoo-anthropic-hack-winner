@@ -1,0 +1,408 @@
+{
+  "count": 1641,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "cc311f0e9dd3be39",
+      "app_id": "6178e7bfdb622901de5dd950",
+      "network": "Instagram",
+      "phashion_group": "cc311f0e9dd3be39",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-23",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "cc311f0e9dd3be39",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Unterwegs mit den Pikmin",
+          "button_text": "Install Now",
+          "message": "Gehe viele Schritte, um neue Arten von Deko-Pikmin zu entdecken."
+        },
+        {
+          "id": "d07600848a30dac6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Pikmin zum Mitnehmen",
+          "button_text": "Install Now",
+          "message": "Deine Pikmin begleiten dich, egal, wohin du gehst."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6178e7bfdb622901de5dd950",
+        "canonical_country": "JP",
+        "name": "Pikmin Bloom",
+        "publisher_name": "Scopely",
+        "publisher_id": "560c44e48ac3506439005117",
+        "humanized_name": "Pikmin Bloom",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/de/2c/b2de2c1b-b477-9fdb-1ef6-9427d378f541/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6178e7bfdb622901de5dd950",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "ce89c9b2cd59a1e4",
+      "app_id": "582219400211a6c9240005fc",
+      "network": "Instagram",
+      "phashion_group": "ce89c9b2cd59a1e4",
+      "ad_type": "video",
+      "first_seen_at": "2025-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "ce89c9b2cd59a1e4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Now",
+          "button_text": "Play Game",
+          "message": "Fun puzzles & stories."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "582219400211a6c9240005fc",
+        "canonical_country": "US",
+        "name": "Gardenscapes",
+        "publisher_name": "Playrix",
+        "publisher_id": "5614b8de3f07e25d29001b9e",
+        "humanized_name": "Gardenscapes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/64/1e1964c3-4291-3b5f-c6e0-dae70c445d99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "582219400211a6c9240005fc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a94a5d25df6189dd",
+      "app_id": "55c5309f02ac64f9c0002dfe",
+      "network": "Instagram",
+      "phashion_group": "a94a5d25df6189dd",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a94a5d25df6189dd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Free Download",
+          "button_text": "Play Game",
+          "message": "Play with your friends"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5309f02ac64f9c0002dfe",
+        "canonical_country": "US",
+        "name": "Sniper 3D\uff1aGun Shooting Games",
+        "publisher_name": "Wildlife Studios",
+        "publisher_id": "5614e08d3f07e25d2901b7e7",
+        "humanized_name": "Sniper 3D\uff1aGun Shooting Games",
+        "icon_url": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E=s150",
+        "os": "unified",
+        "id": "55c5309f02ac64f9c0002dfe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "df2c1e3d2e59732b",
+      "app_id": "6178e7bfdb622901de5dd950",
+      "network": "Instagram",
+      "phashion_group": "df2c1e3d2e59732b",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-23",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "df2c1e3d2e59732b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20e923674bfa3291/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20e923674bfa3291/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20e923674bfa3291/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Pikmin zum Mitnehmen",
+          "button_text": "Install Now",
+          "message": "Deine Pikmin begleiten dich, egal, wohin du gehst."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6178e7bfdb622901de5dd950",
+        "canonical_country": "JP",
+        "name": "Pikmin Bloom",
+        "publisher_name": "Scopely",
+        "publisher_id": "560c44e48ac3506439005117",
+        "humanized_name": "Pikmin Bloom",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/de/2c/b2de2c1b-b477-9fdb-1ef6-9427d378f541/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6178e7bfdb622901de5dd950",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e6ce7e4fc722581e",
+      "app_id": "6178e7bfdb622901de5dd950",
+      "network": "Instagram",
+      "phashion_group": "e6ce7e4fc722581e",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-06",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "e6ce7e4fc722581e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/190b4315a28119a4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/190b4315a28119a4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/190b4315a28119a4/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "title": "Pikmin zum Mitnehmen",
+          "button_text": "Install Now",
+          "message": "Deine Pikmin begleiten dich, egal, wohin du gehst."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6178e7bfdb622901de5dd950",
+        "canonical_country": "JP",
+        "name": "Pikmin Bloom",
+        "publisher_name": "Scopely",
+        "publisher_id": "560c44e48ac3506439005117",
+        "humanized_name": "Pikmin Bloom",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/de/2c/b2de2c1b-b477-9fdb-1ef6-9427d378f541/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6178e7bfdb622901de5dd950",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fc56ff0c4567b016",
+      "app_id": "60892102ac0f8f01806ccc94",
+      "network": "Instagram",
+      "phashion_group": "fc56ff0c4567b016",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-20",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "fc56ff0c4567b016",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7bc7f70746e1719/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7bc7f70746e1719/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7bc7f70746e1719/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "title": "Peep Peep Parade! \ud83c\udf3f",
+          "button_text": "Install Now",
+          "message": "Wait... did that baby duckling just go \"peep peep\" and stumble over its own feet? \ud83e\udd86\ud83d\udc24\ud83d\udc24\ud83d\udc24\nWatch mama duck lead her tiny fluffy squad across your island! The peeping, waddling, splashing chaos is almost too cute to handle.\nYour heart doesn't stand a chance! \ud83d\udc9b"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "60892102ac0f8f01806ccc94",
+        "canonical_country": "US",
+        "name": "Forest Island",
+        "publisher_name": "Nanali Studios",
+        "publisher_id": "5791ba87d1a6d2298f00086d",
+        "humanized_name": "Forest Island",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/d8/b7/2dd8b7f8-2073-17e9-33cc-fbadf2a465cd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "60892102ac0f8f01806ccc94",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "80bbb00dd55be14d",
+      "app_id": "6753a94a9049e6c00f8fd6ed",
+      "network": "Instagram",
+      "phashion_group": "80bbb00dd55be14d",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-16",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "80bbb00dd55be14d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Queen Awaits, Claim Your Crown",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6753a94a9049e6c00f8fd6ed",
+        "canonical_country": "US",
+        "name": "Queens Master: Sudoku Puzzle",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Queens Master",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4a/38/cd4a3872-f4e8-8ad1-78e1-78ddf187ad5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6753a94a9049e6c00f8fd6ed",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "841a815551eec839",
+      "app_id": "618499119e5ed235096241dc",
+      "network": "Instagram",
+      "phashion_group": "841a815551eec839",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-12",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "841a815551eec839",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "School Hours? Bingo Time!",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "618499119e5ed235096241dc",
+        "canonical_country": "US",
+        "name": "Bingo Card Klondike Adventures",
+        "publisher_name": "Brightika",
+        "publisher_id": "5febff86d5651249c37b078b",
+        "humanized_name": "Bingo Card Klondike Adventures",
+        "icon_url": "https://play-lh.googleusercontent.com/iAkjsxv0dQFFtLHIp-xKZK-Vljbf2siokJohxVT_b2bTIvJRSIvdAMl40tvoqwykY7_CNBIxMt15rWRj8TiUVw=s150",
+        "os": "unified",
+        "id": "618499119e5ed235096241dc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "bd23c0b07b2d05fb",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "Instagram",
+      "phashion_group": "bd23c0b07b2d05fb",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "bd23c0b07b2d05fb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Epic update\uff01Photo upload feature\uff01",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "47cf72a7a33e1c39",
+      "app_id": "658ea0be1fc48c4dbb3065e6",
+      "network": "Instagram",
+      "phashion_group": "47cf72a7a33e1c39",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-29",
+      "last_seen_at": "2026-04-02",
+      "creatives": [
+        {
+          "id": "47cf72a7a33e1c39",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "Left or right, it's all up to you",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "658ea0be1fc48c4dbb3065e6",
+        "canonical_country": "US",
+        "name": "Last Z: Survival Shooter",
+        "publisher_name": "Florere Game",
+        "publisher_id": "6736d19c146810f6057add10",
+        "humanized_name": "Last Z: Survival Shooter",
+        "icon_url": "https://play-lh.googleusercontent.com/DVXTZpTR02_xoN1kOqnhOOuW9p1LiUHiu_Vw0xjzdu1SswhIbLp3OdV4x6skiarMGcE=s150",
+        "os": "unified",
+        "id": "658ea0be1fc48c4dbb3065e6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

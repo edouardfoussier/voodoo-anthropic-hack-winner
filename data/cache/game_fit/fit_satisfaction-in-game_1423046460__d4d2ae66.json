@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 25,
+  "mechanic_match": 20,
+  "audience_match": 55,
+  "overall": 28,
+  "rationale": "This is a Bus Jam / parking-puzzle satisfaction hook — its slow, deliberate \"relax\" pitch directly contradicts Paper.io 2's energetic, competitive arcade DNA, and the muted white/red palette clashes with the game's neon primaries. Mechanically there is no overlap: trail-drawing/territory capture cannot be faked into a grid-clearing puzzle without misleading-ad risk and poor IPM post-install. Only the casual broad audience loosely overlaps; recommend skipping this archetype and instead testing satisfying-territory-fill or near-miss tension hooks that stay native to the .io loop."
+}

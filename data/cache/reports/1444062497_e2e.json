@@ -1,0 +1,343 @@
+{
+  "target_game": {
+    "app_id": "1444062497",
+    "name": "Crowd City",
+    "genre": "Action",
+    "sub_genre": "Hypercasual",
+    "core_loop": "Run around the city gathering neutral people to grow your crowd, then consume smaller crowds to become the largest group before time runs out.",
+    "audience_proxy": "Broad, casual audience of all ages looking for quick, competitive, and satisfying gameplay.",
+    "visual_style": "Low-poly, colorful 3D environments with simple, stickman-like character models.",
+    "palette": {
+      "primary_hex": "#FF0000",
+      "secondary_hex": "#0000FF",
+      "accent_hex": "#00FF00",
+      "description": "Bright, contrasting primary colors used to distinguish different player crowds against a more muted, pastel city background."
+    },
+    "key_mechanics": [
+      "Swarming",
+      "Chasing",
+      "Fleeing",
+      "Collecting",
+      "Unlocking"
+    ],
+    "character_present": true,
+    "ui_mood": "energetic/competitive",
+    "screenshot_signals": [
+      "Large crowds of stick figures",
+      "City environments",
+      "Timer and level indicators",
+      "Score counters above crowds",
+      "Skin unlock screen with various characters (dinosaur, deer, penguin, etc.)",
+      "Eiffel Tower landmark"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 8,
+    "num_phashion_groups": 8
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "curiosity-animation",
+      "label": "Curiosity · animation",
+      "member_creative_ids": [
+        "0d364815e2ca3d52"
+      ],
+      "centroid_hook": {
+        "summary": "Detailed cross-section views of elaborate underground bunkers hidden beneath famous landmarks and everyday locations.",
+        "visual_action": "The camera reveals multi-level subterranean living spaces beneath the Eiffel Tower and a neon-lit city square.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#2C3E50",
+        "#7D6608",
+        "#229954"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.194,
+      "derivative_spread": 1.0,
+      "freshness_days": 328.0,
+      "overall_signal_score": 0.85,
+      "rationale": "1 creatives across 1 unique advertisers, average age 328d (velocity source: sov). Hook representative: \"Detailed cross-section views of elaborate underground bunkers hidden beneath fam\""
+    },
+    {
+      "archetype_id": "satisfaction-in-game",
+      "label": "Satisfaction · in-game",
+      "member_creative_ids": [
+        "bdf6fd7b1032fa14"
+      ],
+      "centroid_hook": {
+        "summary": "A hand clears buses in a crowded lot while a voiceover asks if the viewer wants a relaxing game.",
+        "visual_action": "A hand uses a stylus to move colorful buses out of a grid to clear a path.",
+        "text_overlay": "Hey! Played a game that Actually makes you Feel relaxed?",
+        "voiceover_transcript": "Hey! Have you ever played a game that actually makes you feel relaxed?",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#D9E2EC",
+        "#2196F3",
+        "#FF5733"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.028,
+      "derivative_spread": 1.0,
+      "freshness_days": 124.0,
+      "overall_signal_score": 0.822,
+      "rationale": "1 creatives across 1 unique advertisers, average age 124d (velocity source: sov). Hook representative: \"A hand clears buses in a crowded lot while a voiceover asks if the viewer wants \""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "5ba7458dea1165c1"
+      ],
+      "centroid_hook": {
+        "summary": "A young man rushes home and dives onto his bed to immediately start playing Tetris Block Party.",
+        "visual_action": "The person enters through a front door, runs down a hallway, and jumps onto a bed with a tablet in hand.",
+        "text_overlay": "POV: When I got home, I opened Tetris Block Party.",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#6A0DAD",
+        "#FFD700",
+        "#FFFFFF"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.989,
+      "derivative_spread": 1.0,
+      "freshness_days": 101.0,
+      "overall_signal_score": 0.82,
+      "rationale": "1 creatives across 1 unique advertisers, average age 101d (velocity source: sov). Hook representative: \"A young man rushes home and dives onto his bed to immediately start playing Tetr\""
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "label": "Fail · in-game",
+      "member_creative_ids": [
+        "0f1d747b3e7d863f"
+      ],
+      "centroid_hook": {
+        "summary": "A gameplay demonstration showing a successful move followed by a blocked path.",
+        "visual_action": "A hand cursor selects a purple bus to pick up passengers, then attempts to move a blue bus that is blocked.",
+        "text_overlay": "WHY THIS LEVEL IS SO HARD, CAN YOU WIN?",
+        "voiceover_transcript": null,
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#5A6C7C",
+        "#4CAF50",
+        "#F44336"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.028,
+      "derivative_spread": 1.0,
+      "freshness_days": 259.0,
+      "overall_signal_score": 0.79,
+      "rationale": "1 creatives across 1 unique advertisers, average age 259d (velocity source: sov). Hook representative: \"A gameplay demonstration showing a successful move followed by a blocked path.\""
+    },
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "label": "Satisfaction · live-action-UGC",
+      "member_creative_ids": [
+        "9136fdde919cd968",
+        "a02d273ace9ffa77"
+      ],
+      "centroid_hook": {
+        "summary": "A young man lying on a bed playing a game, appearing visibly happier due to his progress.",
+        "visual_action": "Man lying on his back on a bed, holding a tablet and playing a game with text overlays.",
+        "text_overlay": "\"You look happier\" / \"Thanks I've been playing Foodie Sizzle all day and finally reached level 55!\"",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#87CEEB",
+        "#000000",
+        "#DCDCDC"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.153,
+      "derivative_spread": 0.5,
+      "freshness_days": 129.0,
+      "overall_signal_score": 0.694,
+      "rationale": "2 creatives across 1 unique advertisers, average age 129d (velocity source: sov). Hook representative: \"A young man lying on a bed playing a game, appearing visibly happier due to his \""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "curiosity-animation",
+      "visual_match": 22,
+      "mechanic_match": 15,
+      "audience_match": 45,
+      "overall": 25,
+      "rationale": "Major frictions: the archetype's muted dark/earth palette (navy, ochre, green) and detailed cross-section animation style clash hard with Crowd City's bright primary-color, low-poly stickman aesthetic, and \"hidden bunkers\" curiosity bait has no plausible bridge to a swarm/consume crowd loop. The only weak overlap is the Eiffel Tower landmark (which Crowd City does feature) and a broad casual curiosity-driven audience — but you'd need to fully reskin the hook into \"what's hiding beneath the city your crowd is taking over?\" to make it work, which is a heavy creative lift on a single-advertiser, low-velocity reference. Recommend skipping unless testing a bespoke landmark-reveal variant tied directly to crowd gameplay."
+    },
+    {
+      "archetype_id": "satisfaction-in-game",
+      "visual_match": 25,
+      "mechanic_match": 15,
+      "audience_match": 60,
+      "overall": 28,
+      "rationale": "The \"relaxing bus-clearing puzzle\" hook is fundamentally misaligned with Crowd City's energetic, competitive swarm-and-chase loop — promising relaxation would mis-set expectations and tank post-install retention/IPM quality. Visuals (top-down grid puzzle, stylus interaction, muted blues) clash with Crowd City's bright primary-color crowds and 3D city chase action; only the broad casual hypercasual audience overlaps. Do not adapt this archetype as-is; if testing the \"satisfaction\" emotional pitch, rebuild around a swarm-growth ASMR angle (crowd snowballing, consuming rivals) rather than puzzle-clearing."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 22,
+      "mechanic_match": 15,
+      "audience_match": 55,
+      "overall": 25,
+      "rationale": "This is a live-action POV \"rush home to play\" hook built explicitly around Tetris Block Party — the palette (purple/gold/white), block-puzzle context, and solo cozy framing have nothing to do with Crowd City's bright primary-color, low-poly stickman swarm loop. Mechanic fit is near-zero: there's no way to demo crowd-gathering or consume-to-grow satisfaction inside this format without rebuilding the creative from scratch. Audience overlap exists at the broad-casual level, but a single-creative cluster from one advertiser with no proven crowd-genre lift makes this a low-priority test — skip unless you reshoot a Crowd City–specific POV variant."
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "visual_match": 25,
+      "mechanic_match": 20,
+      "audience_match": 55,
+      "overall": 28,
+      "rationale": "The archetype's hook is built around a puzzle/parking-style \"blocked path\" fail — a static, tap-to-solve mechanic that has no analog in Crowd City's continuous swarm-and-consume loop, so adapting it would feel deceptive (classic fake-ad risk). Visually the muted bus/grid palette and hand-cursor framing clash with Crowd City's bright primary-color crowd swarms and free-roam city camera. Audience overlap exists at the broad hypercasual level, but mechanic and visual friction are severe — do not greenlight unless reworked into a \"crowd gets stuck/outnumbered, can you win?\" fail scenario using actual gameplay footage."
+    },
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "visual_match": 20,
+      "mechanic_match": 25,
+      "audience_match": 55,
+      "overall": 30,
+      "rationale": "Live-action UGC testimonial bypasses Crowd City's biggest creative asset — the visceral, instantly-readable visual of a swarming stickman crowd consuming rivals — so the hook does almost no work to communicate the core loop. The muted bedroom palette and \"reached level 55\" progression framing also misalign with a hypercasual game that has no meaningful long-term progression and sells on 5-second satisfaction clips, not retention bragging. Audience skew (broad casual) is the only mild positive; recommend skipping unless reshot with on-screen gameplay B-roll showing the crowd-swarm payoff."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-in-game",
+        "target_game_id": "1444062497",
+        "title": "Snowball ASMR: One Red Dot Eats the City",
+        "hook_3s": "A single red stickman jogs down a pastel street — tap, and 200 bystanders flip red in a satisfying wave.",
+        "scene_flow": [
+          "0–3s: Top-down close-up of ONE lone red stickman on a muted pastel plaza; finger taps screen, nearby neutrals instantly convert red with a soft 'pop' SFX cascade.",
+          "3–7s: Camera pulls back as the red crowd snowballs through low-poly streets, sweeping past parked cars and benches — counter ticks 12 → 84 → 210 in sync with ASMR footstep rumble.",
+          "7–11s: Red wave slams into a smaller BLUE crowd; blues flee, get swallowed, flip red one-by-one. Counter explodes past 400. Timer in HUD shows 0:30.",
+          "11–14s: Massive red ocean of stickmen floods past the Eiffel Tower landmark, consuming a green rival crowd in one satisfying gulp. Score: #1.",
+          "14–15s: Freeze on victory crowd; CTA button pulses."
+        ],
+        "visual_direction": "Authentic Crowd City top-down/3-quarter camera with the signature low-poly pastel city (cream sidewalks, soft beige buildings, mint trees) so the bright primary-red crowd reads as the only saturated element on screen. Lean into the existing HUD chrome: top-left timer, top-right player-count score bubbles in red/blue/green, bottom progress bar. Motion language is swarm-flow — wave-like conversions, fleeing blue stragglers, green crowds getting engulfed — shot to feel ASMR-satisfying (smooth camera glides, no jump cuts), contrasting the competitive chase mechanic with a calm, hypnotic pacing. Palette discipline: #FF0000 hero crowd dominates, #0000FF and #00FF00 rivals as shrinking accents, pastel city as neutral canvas.",
+        "text_overlays": [
+          "Can 1 person take the whole city?",
+          "Tap to swarm →",
+          "210… 480… 900?!",
+          "Eat the blues. Eat the greens.",
+          "You're #1 🏆"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Crowd City rotation is all no-copy video + one playable with zero narrative hook — they're not exploiting the trending 'satisfaction/ASMR' emotional pitch at all. This brief brings that winning archetype but rebuilt around swarm-snowballing (not puzzle-clearing), so it fits Crowd City's actual core loop and won't mis-set expectations like a literal relaxation promise would. UA team: test this against the silent videos as the copy-led, emotion-led variant — expect lift on CTR from the '1 person → whole city' curiosity gap and stronger IPM from accurate gameplay representation.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, authentic Crowd City in-game screenshot: top-down 3-quarter camera over a low-poly pastel city street, one single bright red (#FF0000) stickman character standing alone on a cream sidewalk surrounded by dozens of neutral grey low-poly stickmen mid-conversion, a shrinking blue (#0000FF) rival crowd fleeing in the background, a tiny green (#00FF00) crowd visible near a low-poly Eiffel Tower, signature Crowd City HUD with top-left countdown timer '0:42' and top-right red/blue/green player-count score bubbles, bottom progress bar, on-screen text overlay 'Can 1 person take the whole city?', simple stickman-like character models, colorful low-poly 3D environment, muted pastel buildings, no realistic humans, mobile game UI chrome",
+          "Storyboard frame — swarm wave, aspect 9:16, authentic Crowd City gameplay: 3-quarter overhead view of a massive red (#FF0000) crowd of low-poly stickmen flooding down a pastel low-poly city avenue, a wave of grey neutrals flipping red mid-step, a smaller blue (#0000FF) crowd scattering and being engulfed, green (#00FF00) rival dot in the distance, Crowd City HUD: timer top-left, score bubbles top-right showing red leading, on-screen text overlay '210… 480… 900?!', simple stickman characters, colorful low-poly 3D city, pastel beige buildings and mint trees, no character close-ups, in-game UI fidelity",
+          "Storyboard frame — landmark victory, aspect 9:16, authentic Crowd City endgame shot: huge red (#FF0000) ocean of low-poly stickmen swarming around the low-poly Eiffel Tower in a pastel Paris-style city block, last green (#00FF00) crowd being consumed and flipping red, no blue remaining, Crowd City HUD with timer '0:03' top-left and score bubbles top-right showing red #1, on-screen text overlay 'You're #1 🏆', stickman-like character models, colorful low-poly 3D environment, muted pastel background buildings, mobile hypercasual game UI"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_TwycSsPTi6ByopPN88BSaJyv?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVHd5Y1NzUFRpNkJ5b3BQTjg4QlNhSnl2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=eKkw3cumANjtyPlehH6ea5BHAuNUQWHuCEGIWPz-aGDwlWoKanFN2Is0t1Bqxf7d0xoFiEig3swUgv3qaL7JA%7EZhq39SvKC0o8Od19aiYKMf6FJkX9cDawbXfAZaZg9sfvWVbwa6dYlrlmPPOOM%7Ewa8IrH34U8VtJSkZfb3BtwyvFmDzXh4tHceDpa3dF%7EgvvEXF9A1YaGtivLqNMK9Jj5gyXJ0hOVVjG2uNIoaXWIsmov52bbyAJ59fTpTJhg5fVNvIjSwo5Mol8k9pt0LFVefxvPnu%7E7mufp9eqQ1jkMTJt-9yPu-8bqyn9saNNu1K585fjJ566ckffOAyWW9mfw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_T9kjsnoSbMqB4MqtgMNfs1Vx?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVDlranNub1NiTXFCNE1xdGdNTmZzMVZ4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=iFYBvWu83sxVTgJSXKD9vOyxghfGLlAZnk3BzaI6Tj7ZdVevYNaGcfIS9CXJokVbfgqKsfIs733TVsa-q4NsF86jopkikZk86avlOkFKlZ9KqDZnme1R6dkc86mJ6z5vzDoX7wr01cU75xCEizHwMHkhhfT5kgK5PnrOHPbfdtNRn-x-l2LmqJ4U6B-7fSWq9Em5fxCjeLZSyqyBPyUnYHVB9JKNY1RBtbDMF99CZAk55u4rP0YqrCrhFRyGwVPveElH%7EzXTGh9H%7EQBWCj%7ErdQe5xaLGNV9UT9tMCXiCMgcfBAUSiycrJrHCYRzaY4Qmk5dpYSC2gF4j9DIkJoLzAA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_LiKLtx1btkdv3cqi7TervJGL?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTGlLTHR4MWJ0a2R2M2NxaTdUZXJ2SkdMP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=S0pbpKhsDKg0I5Ow55byHo2%7ErqqDg5wKplfLcTIk6CR8cqDzoByp0856J94PryvjRcKDFBiGUgcCTPBMv10PxVGi7QGwsj3LVaqMVaiBo6atmfBRtxYZBdgJJFUso1pBd1woV8j3wZspewVNkFpbjsuD67VHWiLQzG6uzwhmK5H5XvduU%7ECsxAAcDxlkkUGAUvlbqm7f9LHeYlB2uOObE03KNDZrAbc%7E9QZiuyZQBWKkIjn2OzykJtUYj97Rrw3E4Cy-kF%7EgOzh3nNMsD3En9w3L%7EXdNfCZwYhie77CzYDswtJCSkhEvJYEFHxT7wcE22hgWYzRI5jtQVEEQ%7EwRajQ__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=0.82 × game_fit=28/100 ⇒ priority=0.23"
+    },
+    {
+      "brief": {
+        "archetype_id": "fail-in-game",
+        "target_game_id": "1444062497",
+        "title": "Cornered Crowd — Can You Escape?",
+        "hook_3s": "A massive red crowd sprints around a Paris corner — and slams face-to-face with a BIGGER blue crowd. Score freezes. \"WHY IS THIS LEVEL SO HARD?\"",
+        "scene_flow": [
+          "0-3s: Top-down chase cam — player's RED crowd of ~80 stickmen swarms down a pastel low-poly Paris street, gobbling neutral grey civilians, counter ticking up fast.",
+          "3-6s: Camera whips around the Eiffel Tower corner — a BLUE crowd of 180 fills the screen. Red crowd skids, score counter flashes, overlay: 'WHY IS THIS LEVEL SO HARD?'",
+          "6-10s: Fake-fail beat — blue crowd chases red, red shrinks from 80→22, timer in red. Overlay: 'CAN YOU WIN?'",
+          "10-13s: Player pivots, ducks into an alley, scoops a hidden GREEN neutral cluster, snowballs back to 200+. Crowd recolors red as it consumes blue stragglers.",
+          "13-15s: Triumphant zoom out: red crowd floods the plaza under the Eiffel Tower, 'LARGEST CROWD' banner, CTA card."
+        ],
+        "visual_direction": "Authentic Crowd City top-down/3-quarter chase camera over a low-poly pastel Paris (cream buildings, mint trees, soft grey pavement). Player crowd in saturated #FF0000 red stickmen, rival crowd in pure #0000FF blue, neutral pickups glowing #00FF00 green. Keep the native HUD: top-center timer, crowd-size counter above each swarm, level pill, pause icon top-left. Motion is continuous swarm flow — no hand cursor, no tap UI, no static puzzle framing. Punchy zoom-ins on the score collision and the comeback moment to sell the fail-then-win arc.",
+        "text_overlays": [
+          "LEVEL 7",
+          "WHY IS THIS LEVEL SO HARD?",
+          "CAN YOU WIN?",
+          "WAIT… 👀",
+          "BIGGEST CROWD WINS"
+        ],
+        "cta": "PLAY FREE",
+        "rationale": "Voodoo's current Crowd City rotation is all silent gameplay videos and one playable with no copy hook — there's zero \"fail/challenge\" framing in market. This brief imports the trending Fail · in-game archetype but reworks it from puzzle-bus-blocked into an honest Crowd City scenario (outnumbered swarm, comeback alley pickup), avoiding fake-ad risk while adding the curiosity-driven hook copy the rotation is missing. UA: A/B test against the Applovin silent video as control; expect lift on IPM from the question-overlay stop-scroll.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, top-down 3-quarter mobile game screenshot of Crowd City gameplay: a massive swarm of low-poly stickman figures in bright #FF0000 red running through a pastel low-poly Paris street, colliding head-on with a larger swarm of #0000FF blue stickman figures near the Eiffel Tower, scattered #00FF00 green neutral stickmen on sidewalks, low-poly colorful 3D environment with simple stickman-like character models, native game HUD with top-center countdown timer and white crowd-size counters '82' and '184' floating above each crowd, level pill 'LVL 7' top-left, bold white sans-serif overlay text 'WHY IS THIS LEVEL SO HARD?' across upper third, energetic competitive mood, no hand cursor, no tap indicators",
+          "Storyboard frame, aspect 9:16, top-down Crowd City in-game shot: a shrinking #FF0000 red stickman crowd of ~22 figures fleeing down a narrow pastel low-poly alley, chased by a large #0000FF blue stickman swarm filling the street behind, a glowing cluster of #00FF00 green neutral stickmen waiting at the alley exit, low-poly colorful 3D city with simple stickman-like character models, native HUD timer ticking red, crowd counters above swarms, bold white overlay 'CAN YOU WIN?' centered, cinematic motion blur on running figures",
+          "Storyboard victory frame, aspect 9:16, wide top-down Crowd City shot: an enormous #FF0000 red stickman crowd of 200+ flooding a pastel low-poly plaza beneath a low-poly Eiffel Tower, a few last #0000FF blue stickmen being absorbed and turning red, faint #00FF00 green sparkle pickups, low-poly colorful 3D environment with simple stickman-like character models, native HUD shows '00:03' timer and '218' crowd counter, bold white overlay 'BIGGEST CROWD WINS' across top, celebratory energetic mood"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_UJ2ooibTX59g8msPgnv56sSS?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVUoyb29pYlRYNTlnOG1zUGdudjU2c1NTP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=k2vaWhyvS8sl22ZsulLWY0ESp-Jx0tAfMeuGxHQRrz-0xkmIzjwwI%7EcgC%7ERpGEASoqNdvrf0dZ-rb%7EZGtTZBxcY28AF5q24DLTI9QKmwYFrdclFTntgTdeEpZlLkz0TtTo0kkI4mcPxcJCnkDyhxNr4XE5ITG5ZHyqxF%7EX%7EvBEN6oAmvlGqnz7m0eevRF1HLndVdZgq3qre6C4A5JvL1aSgY%7EffMqq0OQfFR5OyA0UJaHFJlseRN3iLIsvqsm6gQe3Q7b7m9Y1DikTTlfK5jY21a20YdpRQvSlLj8SEcMcXbM0xlaDR0AJ9uCRs94lJxFIbg9TEE2j-0rB7FZrVqvg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_Mj4rYnq3RLtJXuMNk7RQUH4a?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTWo0cllucTNSTHRKWHVNTms3UlFVSDRhP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Ta2afsOuS8Z4uxos7djDEGwUyDIZvIaiUw%7E7OOGbfUCA6ICJhbp02vq8cZ8ZKEC0MXCnsQAt3gco5t15y78TISVZ0Gzd8iRigrB-%7EerdglyZ2HE-%7EhxDdUUWHkjBOR1D-h9TpuIoqcxgFJmkCQhBvUAAnNEjT30SNkZ3uuw6jGj%7EL99Z%7EpB56xOfM4xro8bHWfaQlSrWa41evc6L5nc1egothIdYvia8dYCSf4RlsobPcDwrUR1IqXji6xuD7ri-gr93Z5ZxO%7ECXaw8o-S1tEvFcYw1qd9AyaX4qVAskFvNbAY-0a72sKtvAVZ2TAgsOu3SJu8IDV3oCGi%7Ev2x%7ELCQ__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_YZVTjSpzc5gSgVu2tD1SBQE4?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWVpWVGpTcHpjNWdTZ1Z1MnREMVNCUUU0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YmqEuzQtFxv0klSoWYDJs3FeDuCIeMqi%7El4IdDP3yki2UmgU9jBuqJOH9pDK2G6rxw11IANCQhzFwsupjZpzN1GEaEFVbiPI9wdPreeZNiCinEgQW38RQW%7EmnvP1CPBbiXM6rEpY9vaVbcf%7E4M0O4bJmhwyieEeAZYAmFRDqeM9iy-NeiThfDpxOihpq3X5LUn0-WnxFbh6d-DLCIKTqiFnLUZ1bJJYFwz7IjbaUu7FxyeFtOwntRjpos7C%7EEAPT6GvBjfN9pcQG3XD2%7Eg2XsT%7EFhVNAuCNdHiqEkocvRgAP0gpDOQixiyhLk1EiFujuzbpX0e0d8AY4gXcYXJQjag__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.79 × game_fit=28/100 ⇒ priority=0.22"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-live-action-ugc",
+        "target_game_id": "1444062497",
+        "title": "\"You Look Happier\" — Crowd City UGC Testimonial",
+        "hook_3s": "Friend on couch: \"You look happier lately…\" — cut to phone screen exploding with a red stickman swarm devouring a blue crowd.",
+        "scene_flow": [
+          "0-3s: Selfie-style vertical shot, young woman lounging on bed grinning at her phone. Friend off-camera: 'Okay… why do you look so happy today?'",
+          "3-7s: She flips the phone to camera — full-screen Crowd City gameplay: a red stickman swarm sprinting through a pastel low-poly city, snowballing neutral pedestrians (counter ticks 47 → 112 → 240).",
+          "7-11s: Quick gameplay montage — red crowd chases and consumes a smaller blue crowd, screen flashes green '+58'. She giggles: 'I made the BIGGEST crowd in the city.'",
+          "11-14s: Final beat — timer hits 0:00, red crowd dominates the map, 'WINNER' banner pops. She shrugs at camera: 'It's stupid. I can't stop.'",
+          "14-15s: End card — game logo, finger-tap CTA, app store badge."
+        ],
+        "visual_direction": "Phone-shot UGC aesthetic (slight handheld jitter, natural bedroom lighting, no studio polish) for the live-action wrapper, cutting hard to vibrant in-engine Crowd City footage. The swap from desaturated bedroom to the saturated #FF0000 red swarm vs #0000FF blue rivals against pastel low-poly buildings is the entire visual punchline — the contrast sells the dopamine hit. Keep #00FF00 reserved for score pop-ups and the WINNER flash. Low-poly stickman crowd must read instantly: dense, chunky, swarming.",
+        "text_overlays": [
+          "why do you look so happy?",
+          "watch this 👀",
+          "+240 followers",
+          "I OWN the city 😤",
+          "can't stop playing"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Crowd City rotation is 100% pure-gameplay video and playables with zero copy or human presence — there is no UGC/testimonial angle in market. This brief imports the trending live-action \"you look happier\" satisfaction hook but fixes the archetype's biggest weakness (no gameplay payoff) by front-loading the phone-flip reveal so the swarm-consume loop lands inside 5 seconds. UA team: test against the Applovin video baseline on TikTok/Reels placements where UGC outperforms polished gameplay creatives.",
+        "scenario_prompts": [
+          "Hero frame, 9:16 vertical aspect, authentic in-game Crowd City screenshot: top-down third-person view of a massive dense swarm of bright red (#FF0000) low-poly stickman figures sprinting through a pastel low-poly city street, chasing a smaller cluster of blue (#0000FF) stickmen who are fleeing, neutral grey stickmen being absorbed mid-swarm, green (#00FF00) '+58' score popup floating above the crowd, top-center HUD showing crowd counter '240' and countdown timer '0:32', minimalist mobile game UI chrome, low-poly colorful 3D environment with simple stickman-like character models, on-screen text overlay 'I OWN the city 😤', vibrant saturated colors, clean hypercasual mobile aesthetic",
+          "Storyboard frame 1, 9:16 vertical aspect, live-action UGC selfie shot: young woman lying on her back on a bed holding a vertical smartphone above her face, grinning, natural warm bedroom lighting, slightly grainy phone-camera look, the phone screen visibly displays Crowd City gameplay — a red (#FF0000) low-poly stickman swarm running through a pastel city with a blue (#0000FF) rival crowd and green (#00FF00) score popup, low-poly colorful 3D environment with simple stickman-like character models visible on the phone screen, large white on-screen text overlay 'why do you look so happy?', authentic TikTok UGC framing",
+          "Storyboard frame 2, 9:16 vertical aspect, authentic in-game Crowd City screenshot: victorious end-of-round moment, enormous red (#FF0000) stickman crowd flooding an entire pastel low-poly city block with Eiffel Tower landmark in background, tiny remaining blue (#0000FF) stickmen being chased into a corner, bright green (#00FF00) 'WINNER' banner flashing across center screen, HUD timer reading '0:00' and final crowd count '847', low-poly colorful 3D environment with simple stickman-like character models, on-screen text overlay 'can't stop playing', saturated hypercasual mobile game UI"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_M4T4JQNq6gqux65oqFD1gbbk?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTTRUNEpRTnE2Z3F1eDY1b3FGRDFnYmJrP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=V5kRE3ahGH6lI-ghiofleqV3wwfKxFETV0rPUu6rc0LvSHU3kJcMH4WeQ%7EES5mTaTEQsvVH2GLgxa%7Ewfp8%7EUiC%7Ef6lAMq3ejEwvstZ%7EKpT1dUSZY1GtSPaTB2o7hqq%7ERmV9SPYbPmC3HIJE8yIC3WAga2QIs%7EKCXSqz9qCcr3ycyXjaBd%7EUoHybwJjBIRPscvxASwzCvKfaOnPewf0WHN7qRXYKHjqW3lEmjA9ZsvWvdSJ5GDlX0cD9U6S56nFKig3Y4mUDCy34-L7syBZB-KW77ev36E8ayc92aR%7Ea9XkvMr3bz%7ExA0j7DvjyxJrykBQpr5fhN3Aq%7EfEMDW9iQfLg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_bD85QFLzMyemgtNpB3CaK1C7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfYkQ4NVFGTHpNeWVtZ3ROcEIzQ2FLMUM3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=MI2wdNV0xOu9upw2RF1m33MBZ2S36YX-o1GZsBg%7EBHP4xH%7ED4psa3tpX0jUM8uTy4bUoBXg4tQcgKRnCoXW5VBw0SWTRSDTo-1NZ1eMBiOUggFlyGYx5qetOBYQ%7E0hesPT2X33VSf2yUE2FUbYSOPYKgId8%7ElJhVKgkozIIKzUhZ1MOHLYPBfHNncrlMAbE4GemR6d7rxi06AS7WcrA6W2%7EPT9wRhtKOl9DXiBbsm6wcF%7EqpvR4AyXnlSbjmP-2ffTeRq7k2mrjhul1LsR6jAwDQsn%7EXaPp66JcD1F3QX-z3xHkZdmFRllIKMnGEBar%7Ew18NcgmxRrLUY36vhiYfPA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_QQC5kSmM5AaTkZVnWJXKMECs?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUVFDNWtTbU01QWFUa1pWbldKWEtNRUNzP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=vv%7EdcdRWdNP3Z95603krEgdojyGk8rOrZgT%7EShL3o2xyKqjN-e7C9J1MbBxTccGJ1E4I5ZKOhWKspmgwSzUZvJhM1YNb5LwE7pyz5lIhO-9kWVTFuN29a0Ld1qu7kHjevj5-iwXUihpv5YusDjCcot0SnBtq-cam9EUNEfFVUVlF5yHcmOwo708cY3XDwnIa2RM4jJmKrVuZYIYiHauSvUVHHPuRfo8Qn3EDDkNg4jB57hgpWQ%7EzELvkqqOsLP6cVr0Ks-aaTk6lQWCINJqfbDzVX8NrXJezTqEJ0xEQEiVlwYsKwTxLBxPGCCg5e-QpvGD5x-VeWYbjWf951Hl7rQ__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.69 × game_fit=30/100 ⇒ priority=0.21"
+    }
+  ],
+  "pipeline_duration_seconds": 682.5077611680008,
+  "total_cost_usd": 0.012316,
+  "generated_at": "2026-04-26T00:58:46.899552Z"
+}

@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "12add798153c0b6f",
+    "ad_unit_id": "12add798153c0b6f",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c87ba0c4515ea153/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c87ba0c4515ea153/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c87ba0c4515ea153/preview",
+    "phashion_group": "12add798153c0b6f",
+    "share": null,
+    "first_seen_at": "2025-08-15T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Your favorite robot PvP just got hotter!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-intensity mech combat with rapid gunfire and energy effects.",
+    "visual_action": "A blue mech fires dual machine guns at an enemy, triggering purple energy rings on the ground.",
+    "text_overlay": "TikTok Lite, DOUBLE KILL",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Mech engages in intense dual-gun combat in a rocky arena.",
+    "Purple energy effects trigger on the ground during the firefight.",
+    "The player achieves a 'DOUBLE KILL' notification after destroying enemies.",
+    "Final transition to a TikTok Lite promotional screen with video thumbnails."
+  ],
+  "on_screen_text": [
+    "TikTok Lite",
+    "DOUBLE KILL",
+    "Assista e baixe status vídeos ilimitados no TikTok Lite"
+  ],
+  "cta_text": "Assista e baixe status vídeos ilimitados no TikTok Lite",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#2C3E50",
+    "#8E44AD",
+    "#7F8C8D"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Portuguese-speaking mobile gamers interested in high-action mech combat and social video sharing.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001518
+}

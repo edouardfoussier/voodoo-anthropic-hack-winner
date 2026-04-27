@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "5bb89e98af6901dd",
+    "ad_unit_id": "5bb89e98af6901dd",
+    "app_id": "59d296dd60104c08ce201a27",
+    "advertiser_name": "Garena Free Fire",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1e59542323c23f54/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1e59542323c23f54/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1e59542323c23f54/preview",
+    "phashion_group": "5bb89e98af6901dd",
+    "share": null,
+    "first_seen_at": "2026-04-07T00:00:00",
+    "last_seen_at": "2026-04-08T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Pegue seu Codiguin Free Fire exclusivo com Snickers!\nAtive seu Conjunto Snickers grátis! É rápido e fácil.\nLink na bio!\n#Freefire #freefirebrasil #snickersFF #SocialFF #Freefirememe",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Showcasing an exclusive Snickers-themed skin in-game using a POV trend.",
+    "visual_action": "A character sits on a golden throne in a grassy field wearing a Snickers-branded outfit and bunny ears.",
+    "text_overlay": "POV: ESPERANDO O RESTO DO SQUAD RESGATAR A SKIN SNICKERS® PRA USAR NA PÁSCOA",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "In-game footage of a character on a throne wearing the Snickers skin.",
+    "Transition to a graphic of a Snickers bar and the 'Skin Exclusiva' announcement.",
+    "Character emote animation with blue energy effects.",
+    "Final CTA screen with instructions to register the receipt."
+  ],
+  "on_screen_text": [
+    "POV: ESPERANDO O RESTO DO SQUAD RESGATAR A SKIN SNICKERS® PRA USAR NA PÁSCOA",
+    "SNICKERS® AGORA VEM",
+    "SKIN EXCLUSIVA SNICKERS",
+    "Cadastre a nota fiscal da compra no site!",
+    "DE FREE FIRE."
+  ],
+  "cta_text": "Cadastre a nota fiscal da compra no site!",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#4E2C1C",
+    "#FFD700",
+    "#0033A0"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Competitive mobile gamers in Brazil who play Free Fire and enjoy limited-edition brand collaborations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001755
+}

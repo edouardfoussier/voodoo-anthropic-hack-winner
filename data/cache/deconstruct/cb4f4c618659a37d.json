@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "cb4f4c618659a37d",
+    "ad_unit_id": "cb4f4c618659a37d",
+    "app_id": "55d93a4202ac645ad203fe75",
+    "advertiser_name": "Betclic Paris Sportifs & Poker",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f36003f1d5df78/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f36003f1d5df78/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f36003f1d5df78/preview",
+    "phashion_group": "cb4f4c618659a37d",
+    "share": null,
+    "first_seen_at": "2025-09-16T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Plus épurée, plus simple et plus lisible ! 🤩\nRetrouve toute l’offre de poker sur l’app Betclic !",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-stakes poker game on a mobile device showing a 10,000€ pot and players going all-in.",
+    "visual_action": "A smartphone screen displays a poker match with cards being dealt and 'All-in' buttons being pressed.",
+    "text_overlay": "10,000€, Betclic, All-in",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Close-up of a mobile phone showing a poker game with a 10,000€ prize pool.",
+    "The poker hand progresses with players calling and going all-in.",
+    "Animated transition showing winning cards and flying gold coins.",
+    "Final promotional screen offering 5 free games with a call to action."
+  ],
+  "on_screen_text": [
+    "Betclic",
+    "10.000€",
+    "All-in",
+    "CALL",
+    "SUITE",
+    "JOUE AU POKER SUR BETCLIC",
+    "5 PARTIES DE SPIN & RUSH OFFERTES",
+    "J'en profite"
+  ],
+  "cta_text": "J'en profite",
+  "cta_timing_seconds": 6.0,
+  "palette_hex": [
+    "#E2001A",
+    "#FFFFFF",
+    "#FFD700"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult male poker enthusiasts in France looking for competitive online gambling platforms.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00152
+}

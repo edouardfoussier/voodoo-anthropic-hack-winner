@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "9eb52675da998d86",
+    "ad_unit_id": "9eb52675da998d86",
+    "app_id": "61707ce0958b566083090400",
+    "advertiser_name": "Mystery Files: Hidden Objects",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/preview",
+    "phashion_group": "9eb52675da998d86",
+    "share": null,
+    "first_seen_at": "2026-04-21T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": "1080:1920",
+    "width": 1080,
+    "height": 1920,
+    "message": "🔍 Ready for the investigation?\nFind hidden objects, solve puzzles, uncover crimes.",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A crime scene investigation at a suburban house at night.",
+    "visual_action": "Police tape is wrapped around a mailbox while forensic investigators take photos of evidence inside a living room.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Exterior shot of a suburban house at night with police cars and yellow crime scene tape.",
+    "Interior shot of forensic investigators examining a living room and taking photos of evidence.",
+    "Close-up gameplay of a lock-picking puzzle involving moving pins to fit a key.",
+    "End card featuring the Domini Games logo and a selection of mystery game thumbnails."
+  ],
+  "on_screen_text": [
+    "CRIME SCENE DO NOT CROSS",
+    "DOMINI GAMES",
+    "Choose the next game!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#1a1a2e",
+    "#f4d03f",
+    "#5d4037"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual players who enjoy mystery, detective stories, and hidden object or puzzle games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001562
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_jsG4aT5WK914w5N2EVXmuD8C?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9qc0c0YVQ1V0s5MTR3NU4yRVZYbXVEOEMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=IWgU9Q70xdMXm8w3RwLCdGTiB3CEUBNjzwyzGZ1yQj2QEhkhPqYczMiFjSTJESKjT52txQzlbqUrgVUTi5hxKlGS5VSRyOFvv7SGxF0uV4c70X8xeq2iR1FXbBQV3jaMISI4GzEzDSl-iqL3d1pY81T5T8VFsB%7EFtbflNWA9awtzBk%7EbHvvxRF2YHiLFIUk4gfTvln7blemo9n8NjzpxjFQeJd-fLZxMi2Vv56QqMNcsU29fukP9FoRUfGHHzu%7Ec87rIy5Syj9uX9RaJVEOkPWUnbTP6jl1HRelCnWQIHVKqTgR4RIgFtL0TbR8itSGEeug9Om8ITBbL9OId72hQ9Q__",
+  "job_id": "job_GbWwBKEKxTmsfFTtdnSk93d2",
+  "asset_id": "asset_jsG4aT5WK914w5N2EVXmuD8C",
+  "stub": false,
+  "model_id": "model_xai-grok-imagine-video",
+  "prompt": "Friend on couch: \"You look happier lately\u2026\" \u2014 cut to phone screen exploding with a red stickman swarm devouring a blue crowd.",
+  "mode": "video",
+  "input_frames": 1
+}

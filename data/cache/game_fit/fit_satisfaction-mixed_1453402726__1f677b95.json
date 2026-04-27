@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 35,
+  "mechanic_match": 20,
+  "audience_match": 60,
+  "overall": 32,
+  "rationale": "The \"relaxing puzzle\" hook with a hand-on-stylus bus-sorting demo fundamentally mismatches Flip & Dive's core loop, which is about kinetic ragdoll thrills, timing and aerial tricks — not top-down logic puzzles. Visual frictions are significant: the archetype's orange/blue/purple puzzle aesthetic lacks the bright pink character and pool/height-marker signals that make Flip & Dive scroll-stoppable. Audience overlap exists at the broad casual/relaxation level, but adapting this template would require replacing the bus puzzle with a finger-guided dive trajectory plus VO (\"ever played a game that actually makes you feel relaxed?\") — only worth testing as a low-priority hook variant, not a primary archetype."
+}

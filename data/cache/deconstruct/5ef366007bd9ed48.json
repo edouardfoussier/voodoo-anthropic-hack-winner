@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "5ef366007bd9ed48",
+    "ad_unit_id": "5ef366007bd9ed48",
+    "app_id": "66698f4fb3ae27fc1429e36b",
+    "advertiser_name": "Avatar: Realms Collide",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4dfa638d8c3c0ce/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4dfa638d8c3c0ce/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a4dfa638d8c3c0ce/preview",
+    "phashion_group": "5ef366007bd9ed48",
+    "share": null,
+    "first_seen_at": "2026-02-21T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Build Your Nation",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Close-up of Appa transitions to a top-down city-building view.",
+    "visual_action": "Appa's face zooms out to reveal a base-building map with him floating above it.",
+    "text_overlay": "Build your nation",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Close-up of Appa's face.",
+    "Zoom out to show a top-down view of a city being built with Appa floating above.",
+    "Text 'Build your nation' appears over the city view.",
+    "Transition to a cinematic animation of Aang, Katara, Sokka, and Toph running.",
+    "Final end card with game title and app store links."
+  ],
+  "on_screen_text": [
+    "Build your nation",
+    "Avatar Legends: Realms Collide",
+    "GET IT ON Google Play",
+    "Download on the App Store"
+  ],
+  "cta_text": "Download on the App Store",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#F5F5DC",
+    "#8B4513",
+    "#87CEEB"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of the Avatar: The Last Airbender franchise who enjoy strategy and city-building mobile games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001669
+}

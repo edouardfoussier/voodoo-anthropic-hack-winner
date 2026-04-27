@@ -1,0 +1,21 @@
+{
+  "title": "Push'em All — STICK ARM APOCALYPSE",
+  "gameplay_hook": "One swipe. Hundreds of stickmen. Zero mercy.",
+  "concept": "Player is one swipe away from being overwhelmed by a wall of red stickmen — then triggers a SIZE UP power-up that sends the entire crowd flying off the platform in a chain-reaction wipeout.",
+  "scenario_prompt": "IMAGE-TO-VIDEO CONTINUATION from a real Push'em All gameplay screenshot — same minimalist 3D isometric platform, same flat-shaded stickman figures in #e3001b red swarming left, same #2a7dfa blue player character dead center, same white coin counter top-right, same level progress bar top-left at 60%. BEAT 1 (0–2s): Extreme close-up behind the blue player stickman, low isometric angle, a dense wall of 40+ red stickman enemies rushes in from the right edge of the #56a38b green platform — player's stick arm is SHORT, combo multiplier reads x1 on screen, coin counter frozen at 180, crowd is THREE body-lengths away and closing fast, platform edge is visible just behind the player — voiced: 'NOOOOOO they're ALL COMING AT ONCE the stick is too SMALL!!' — SFX: frantic crowd stomping rumble, low whoooosh of wind pressure. BEAT 2 (2–5s): Player swipes left, screen flashes white for one frame, bold yellow 'SIZE UP!' notification SLAMS onto screen center — the blue player's stick arm SNAPS outward to triple width with a thunderous CRACK-WHOMP SFX — it plows into the red crowd like a bulldozer, stickmen ragdoll in bunches of 10, 20, 30 off the #56a38b platform edge, each one making a hollow POP as they fall, combo multiplier on screen races x4 — x8 — x12 in #e3001b digits, coin counter spinning wildly from 180 to 640 — voiced: 'OH MY GOD THE SIZE UP HIT — THEY'RE ALL FLYING OFF THE EDGE!! THE COMBO WON'T STOP!!' — SFX: rapid-fire crowd POP POP POP, escalating WHOOSH as bodies clear the ledge, score counter DING DING DING. BEAT 3 (5–8s): Camera SNAPS to extreme close-up overhead as the FINAL cluster of 15 red stickmen hits the platform edge simultaneously — they cascade off in a slow-motion burst, arms flailing, a deep CRUNCH-SHATTER audio hit lands — level progress bar ROCKETS to 100% and flashes gold, combo multiplier freezes at x47 in massive #e3001b text pulsing on screen, coin counter blows past 2,000 with a coin-burst particle shower, 'LEVEL COMPLETE' banner drops from top in bold white — voiced: 'THIS IS THE MOST SATISFYING THING I HAVE EVER SEEN IN MY LIFE I LITERALLY CANNOT STOP AHHHHH' — SFX: crowd annihilation CRUNCH, triumphant single chime, deep bass BOOM. FINAL FRAME (7–8s): Gameplay dims to 30% brightness behind bold centered white text 'Push'em all' with smaller text below 'Play now' — static, clean, no animation. 9:16 vertical format, 8 seconds total, game UI overlay visible throughout every beat.",
+  "narration_script": "NOOOOOO they're ALL COMING AT ONCE the stick is too SMALL!! OH MY GOD THE SIZE UP HIT — THEY'RE ALL FLYING OFF THE EDGE!! THE COMBO WON'T STOP!! THIS IS THE MOST SATISFYING THING I HAVE EVER SEEN IN MY LIFE I LITERALLY CANNOT STOP AHHHHH",
+  "style_tags": [
+    "brainrot",
+    "hyper-casual",
+    "minimalist-3D",
+    "stickman",
+    "crowd-control",
+    "physics-ragdoll",
+    "SIZE-UP-powerup",
+    "combo-escalation",
+    "mobile-first",
+    "9:16-vertical",
+    "TikTok-hook",
+    "isometric-gameplay"
+  ]
+}

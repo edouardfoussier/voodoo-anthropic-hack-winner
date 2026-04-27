@@ -1,0 +1,33 @@
+{
+  "app_id": "6458097001",
+  "name": "Archery Clash!",
+  "genre": "Action",
+  "sub_genre": "Archery",
+  "core_loop": "Engage in turn-based weapon duels, earn rewards, and collect/upgrade gear to progress through increasingly difficult levels.",
+  "audience_proxy": "Young adult males interested in competitive PvP, weapon upgrades, and stylized female characters.",
+  "visual_style": "3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting.",
+  "palette": {
+    "primary_hex": "#2A9DF4",
+    "secondary_hex": "#FFD700",
+    "accent_hex": "#32CD32",
+    "description": "Bright blue banners with vibrant yellow text and colorful item rarity backgrounds."
+  },
+  "key_mechanics": [
+    "aiming",
+    "shooting",
+    "upgrading",
+    "collecting",
+    "dueling"
+  ],
+  "character_present": true,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "3D environment",
+    "female protagonist",
+    "aiming trajectory",
+    "level progression",
+    "gear collection",
+    "health bars",
+    "weapon variety"
+  ]
+}

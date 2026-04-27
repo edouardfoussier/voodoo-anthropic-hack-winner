@@ -1,0 +1,19 @@
+{
+  "title": "Helix Jump — BALL WON'T STOP FALLING",
+  "gameplay_hook": "One wrong rotation and the ball hits red. One right rotation and it DESTROYS everything.",
+  "concept": "The #5CE1E6 ball is one platform away from a red trap death — player rotates the helix at the last possible frame, ball smashes through a combo chain of 6 open gaps back-to-back, score multiplier detonates, then the ball freefalls the entire remaining tower in one apocalyptic drop.",
+  "scenario_prompt": "Continue from a real Helix Jump gameplay screenshot: 3D minimalist helix tower centered on screen, isometric camera locked at natural game angle, 9:16 vertical, bright #5CE1E6 ball mid-bounce 2mm above a solid RED trap platform, score display reading 340 in top-right corner, level progression map showing Level 7 bar almost full at bottom of screen — BEAT 1 (0–2s): helix tower rotates LEFT with a sharp WHOOSH SFX, the red trap platform slides just out of frame, ball drops through the gap with a hollow THUNK, voice screams 'NOOOOOO it almost hit the RED platform I was ONE pixel away from DEATH!!' — BEAT 2 (2–5s): ball hits the next platform gap, then the next, then the next in rapid succession — CRACK CRACK CRACK — three back-to-back clean passes trigger a COMBO SMASH, the score multiplier UI slams from x1 to x4 in bright #39FF14 flashing digits, the helix tower rotates faster automatically, gap after gap opens up, ball picks up speed with escalating WHOOSH-WHOOSH-WHOOSH SFX layered on top of each other, voice yells 'OH MY GOD THE COMBO WON'T STOP MULTIPLYING — IT JUST HIT x4 THE WHOLE TOWER IS OPENING UP!!' — BEAT 3 (5–8s): camera cuts to extreme close-up directly beneath the ball looking UP the tower shaft, the ball freefalls the final 8 platforms in one unbroken vertical drop, each platform shattering out of the way with CRUNCH-CRUNCH-CRUNCH-CRUNCH SFX firing like machine-gun hits, score counter rockets from 340 to 1,280 in #39FF14 exploding digits, HIGH SCORE banner detonates across the top of the screen in white bold text, Level 7 completion bar fills and POPS with a sharp chime SFX, voice loses it completely: 'THIS IS THE MOST INSANE COMBO IN HUMAN HISTORY I LITERALLY CANNOT STOP AHHHHH' — FINAL FRAME (last 1s): gameplay dims slightly, bold white text centered on screen reads 'Helix Jump', smaller text below reads 'Play now', no animation, static and clean over live gameplay.",
+  "narration_script": "NOOOOOO it almost hit the RED platform I was ONE pixel away from DEATH!!\n\nOH MY GOD THE COMBO WON'T STOP MULTIPLYING — IT JUST HIT x4 THE WHOLE TOWER IS OPENING UP!!\n\nTHIS IS THE MOST INSANE COMBO IN HUMAN HISTORY I LITERALLY CANNOT STOP AHHHHH",
+  "style_tags": [
+    "brainrot",
+    "hyper-casual",
+    "first-person-pov",
+    "9:16-vertical",
+    "mobile-game-ad",
+    "score-multiplier-chaos",
+    "minimalist-3D",
+    "combo-escalation",
+    "tiktok-hook",
+    "helix-jump"
+  ]
+}

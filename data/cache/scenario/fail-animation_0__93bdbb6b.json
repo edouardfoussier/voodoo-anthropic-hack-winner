@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_v5N9D34evdvjE99eUwa2zRzc?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdjVOOUQzNGV2ZHZqRTk5ZVV3YTJ6UnpjP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=aDdwVmrWRJWTYFukW2CQrhGWoKKTz4-yWmxgOVcGSuH0uYrql847wqTEu8OKyCsHEKwHxjMsKGGWCnlrMpDkcU0sSy6%7E-O9wY2Y1rvHDUZ2y5QKjpdv%7Ebos0--cr5MZn%7E1JlcrKpgod4vG%7EZ1JM0EoOYznamm2APrm9BRDKhTjva7Sfzhch9fYtDg135UfM5gMBO-8FCFyqJrcP356ZM3CqQFqshqvlIw4kVWuNzvOBm%7EdpDFtX9B3vbZYTLM-kPjmL2lqmvlucdZW0rXinWpbNWsmojbHx6wiOq7RHVPssimQw3zYmEiAynvF3MWkEBjA1JzoRoJtoFQw6lAHxlZQ__",
+  "job_id": "job_7zRodKJ4n3dzYuo9RNbMtxLo",
+  "asset_id": "asset_v5N9D34evdvjE99eUwa2zRzc",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect, 3D Casual Abstract mobile puzzle game render, top-down tilted camera on a glossy deep-charcoal #20232B play area with deep purple #403F6D rounded grid frames, a single glowing amber #FDBA4D bouncing ball mid-air with soft motion-blur trail, one block slot left empty and highlighted, calm moody studio lighting with subtle volumetric glow, bold white sans-serif on-screen text 'ALMOST HAD IT \ud83d\ude29' at top, polished cinematic mobile-ad still",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

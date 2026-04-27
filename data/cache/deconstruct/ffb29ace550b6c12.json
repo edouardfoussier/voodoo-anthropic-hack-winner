@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "ffb29ace550b6c12",
+    "ad_unit_id": "ffb29ace550b6c12",
+    "app_id": "69c32dc29ed60e3ebdd07cea",
+    "advertiser_name": "Chicken Rage Scavenger",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01cd1f31d3379420/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01cd1f31d3379420/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01cd1f31d3379420/preview",
+    "phashion_group": "ffb29ace550b6c12",
+    "share": null,
+    "first_seen_at": "2026-04-14T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A rooster stands at the edge of a busy highway, preparing to cross.",
+    "visual_action": "The rooster is stationary on the sidewalk while cars speed past in the background.",
+    "text_overlay": "Supermarket",
+    "voiceover_transcript": "Go down deh, wine and go down deh",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "The rooster waits on the sidewalk as heavy traffic passes by.",
+    "The rooster enters the road and dodges a green SUV and a yellow car.",
+    "The rooster navigates through the middle lanes, narrowly avoiding a red sports car and a police vehicle.",
+    "The rooster successfully crosses all lanes and reaches the safety of the grassy median."
+  ],
+  "on_screen_text": [
+    "Supermarket",
+    "0.37",
+    "27.67"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#4B4B4B",
+    "#C0C0C0",
+    "#228B22"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual gamers who enjoy simple, high-stakes survival challenges and arcade-style gameplay.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001541
+}

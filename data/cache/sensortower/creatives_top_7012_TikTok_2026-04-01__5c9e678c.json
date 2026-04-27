@@ -1,0 +1,90 @@
+{
+  "count": 274,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "f41b68dd7e9c7ab2",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "f41b68dd7e9c7ab2",
+      "ad_type": "video",
+      "first_seen_at": "2024-05-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f41b68dd7e9c7ab2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d287f88cf4759b9",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "5d287f88cf4759b9",
+      "ad_type": "video",
+      "first_seen_at": "2024-08-14",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "5d287f88cf4759b9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        },
+        {
+          "id": "ea99fbfc48af6696",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "The Best DBZ Battle Experience is Here"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

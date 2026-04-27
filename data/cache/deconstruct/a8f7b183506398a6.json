@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "a8f7b183506398a6",
+    "ad_unit_id": "a8f7b183506398a6",
+    "app_id": "595af2650335d6788a000243",
+    "advertiser_name": "Mega Hit Poker: Texas Holdem",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/136df4ee58e57cac/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/136df4ee58e57cac/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/136df4ee58e57cac/preview",
+    "phashion_group": "a8f7b183506398a6",
+    "share": null,
+    "first_seen_at": "2025-12-23T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Use app",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Poker gameplay with a live reaction and a potential winning hand.",
+    "visual_action": "Cards are dealt on a digital poker table while a man reacts in a top-center window.",
+    "text_overlay": "TWO PAIR",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Initial poker hand reveal and community cards showing a 'Two Pair'.",
+    "A woman gestures 'shh' and goes 'All In' with a crowd cheering sound effect.",
+    "A man gestures 'come here' and also goes 'All In'.",
+    "Close-up of a hand holding two Aces being revealed on a purple felt background.",
+    "End card with game title and a simulated search bar typing 'Mega Hit Poker' followed by a 'PLAY NOW' button."
+  ],
+  "on_screen_text": [
+    "TWO PAIR",
+    "Possible Full House",
+    "ALL IN",
+    "MEGA HIT POKER",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#1B5E20",
+    "#4A148C",
+    "#FBC02D"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adults who enjoy competitive social poker and casino-style games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016460000000000001
+}

@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "fe3ef605ee756f63",
+    "ad_unit_id": "fe3ef605ee756f63",
+    "app_id": "559d728bc9eac35bfb002f17",
+    "advertiser_name": "DIE ZEIT – Nachrichten",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a4cc1d944a2ea05/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a4cc1d944a2ea05/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a4cc1d944a2ea05/preview",
+    "phashion_group": "fe3ef605ee756f63",
+    "share": null,
+    "first_seen_at": "2026-03-12T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "DIE ZEIT wird 80!\nWir feiern mit einer besonderen Verlosung.",
+    "button_text": "Sign Up",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Colorful dots assemble into the number 80 to celebrate an anniversary giveaway.",
+    "visual_action": "Multi-colored dots move from a scattered state to form the number 80 against a black background.",
+    "text_overlay": "DIE ZEIT Jubiläums-Gewinnspiel Wir verschenken monatlich 8 digitale Jahresabonnements",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Scattered colorful dots appear below text announcing a giveaway for DIE ZEIT.",
+    "The dots animate inward to form the number 80, representing the anniversary year.",
+    "A white call-to-action button 'Jetzt teilnehmen' appears next to the number.",
+    "The dots scatter back into a random pattern as the loop resets."
+  ],
+  "on_screen_text": [
+    "DIE ZEIT",
+    "Jubiläums-Gewinnspiel",
+    "Wir verschenken monatlich 8 digitale Jahresabonnements",
+    "80",
+    "Jetzt teilnehmen"
+  ],
+  "cta_text": "Jetzt teilnehmen",
+  "cta_timing_seconds": 2.0,
+  "palette_hex": [
+    "#000000",
+    "#FFFFFF",
+    "#0055FF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "German-speaking professionals and intellectuals interested in news and digital subscriptions.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001448
+}

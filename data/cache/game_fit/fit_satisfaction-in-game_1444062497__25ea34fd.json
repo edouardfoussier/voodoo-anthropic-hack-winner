@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 25,
+  "mechanic_match": 15,
+  "audience_match": 60,
+  "overall": 28,
+  "rationale": "The \"relaxing bus-clearing puzzle\" hook is fundamentally misaligned with Crowd City's energetic, competitive swarm-and-chase loop — promising relaxation would mis-set expectations and tank post-install retention/IPM quality. Visuals (top-down grid puzzle, stylus interaction, muted blues) clash with Crowd City's bright primary-color crowds and 3D city chase action; only the broad casual hypercasual audience overlaps. Do not adapt this archetype as-is; if testing the \"satisfaction\" emotional pitch, rebuild around a swarm-growth ASMR angle (crowd snowballing, consuming rivals) rather than puzzle-clearing."
+}

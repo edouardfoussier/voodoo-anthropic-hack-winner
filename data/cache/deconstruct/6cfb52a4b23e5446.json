@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "6cfb52a4b23e5446",
+    "ad_unit_id": "6cfb52a4b23e5446",
+    "app_id": "5622fcd702ac641c8800003a",
+    "advertiser_name": "GoldenHoYeah Slots-Slots Games",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/069b4e81029fee23/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/069b4e81029fee23/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/069b4e81029fee23/preview",
+    "phashion_group": "6cfb52a4b23e5446",
+    "share": null,
+    "first_seen_at": "2026-02-05T00:00:00",
+    "last_seen_at": "2026-04-17T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Aztec-themed slot machine reels spinning with multiple scatter symbols and falling gold coins.",
+    "visual_action": "A 3x3 slot grid displays Aztec pyramids and masks; gold coins rain down over the interface while a female character in tribal attire looks on.",
+    "text_overlay": "寂しかったよ。戻ってきて\n戻るだけで最大50億コイン\nAZTEC",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Aztec-themed slot machine showing a big win scenario with falling coins and scatter symbols.",
+    "Transition to a carousel of various slot games available within the Golden Hoier app.",
+    "Gameplay footage of an anime-styled slot machine featuring high-energy visual effects.",
+    "Final end card with download instructions, a 1 million coin bonus offer, and a 'Play' button."
+  ],
+  "on_screen_text": [
+    "寂しかったよ。戻ってきて",
+    "戻るだけで最大50億コイン",
+    "AZTEC",
+    "ゴールデンホイヤー",
+    "ダウンロードは ゴールデンホイヤー 検索",
+    "今すぐダウンロードで100万コインゲット！",
+    "プレイする"
+  ],
+  "cta_text": "プレイする",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#FFD700",
+    "#4B0082",
+    "#00FF00"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Japanese adults aged 30-55 who enjoy high-stakes social casino games and pachislot-style mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001823
+}

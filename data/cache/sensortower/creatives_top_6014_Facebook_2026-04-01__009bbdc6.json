@@ -1,0 +1,162 @@
+{
+  "count": 2015,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "c3feec33792dcf7f",
+      "app_id": "55c50b2202ac64f9c00022c6",
+      "network": "Facebook",
+      "phashion_group": "c3feec33792dcf7f",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-02",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "c3feec33792dcf7f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6bf9850ca6bb2c66/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6bf9850ca6bb2c66/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6bf9850ca6bb2c66/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Descubra novos jogos",
+          "button_text": "Subscribe",
+          "message": "Conhce\u00e7a o PlayStation Plus com uma cole\u00e7\u00e3o de jogos ic\u00f4nicos, t\u00edtulos mensais, benef\u00edcios exclusivos e muito mais para explorar."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50b2202ac64f9c00022c6",
+        "canonical_country": "US",
+        "name": "PlayStation App",
+        "publisher_name": "Sony",
+        "publisher_id": "5628902202ac648b280004e7",
+        "humanized_name": "PlayStation App",
+        "icon_url": "https://play-lh.googleusercontent.com/zi6QgTtIiAnGqQMizfoj2LnE85kzHyZlgTruSzJ7Zw_79NAmB3fhxuDegwxby7P0yw=s150",
+        "os": "unified",
+        "id": "55c50b2202ac64f9c00022c6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d683378596d7773",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "5d683378596d7773",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "5d683378596d7773",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "dca8d430e3f5b371",
+      "app_id": "56fee3eff49ea42a540000d4",
+      "network": "Facebook",
+      "phashion_group": "dca8d430e3f5b371",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-19",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "dca8d430e3f5b371",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/484f03da43374e76/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/484f03da43374e76/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/484f03da43374e76/thumb",
+          "video_duration": 10,
+          "width": 1012,
+          "height": 1800,
+          "title": "Upgrade no combo? S\u00f3 vem!",
+          "button_text": "Install Now",
+          "message": "Com a partir de R$6,90, adicione um Chicken Jr., 6 BK Chicken ou um sundae de doce de leite ao seu pedido!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "56fee3eff49ea42a540000d4",
+        "canonical_country": "US",
+        "name": "BURGER KING App",
+        "publisher_name": "Restaurant Brands International",
+        "publisher_id": "5b3149587f6d443bda4d2f6d",
+        "humanized_name": "BURGER KING App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/50/c4/fa50c416-7d9f-50c2-a3cd-f1cf94207b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "56fee3eff49ea42a540000d4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b49edd341709ed34",
+      "app_id": "5b2014aba05ac723e5d99392",
+      "network": "Facebook",
+      "phashion_group": "b49edd341709ed34",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "b49edd341709ed34",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5716d05decfc0497/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5716d05decfc0497/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5716d05decfc0497/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Upgrade Your Plane",
+          "button_text": "Install Now",
+          "message": "Air raids and dogfights are waiting!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b2014aba05ac723e5d99392",
+        "canonical_country": "US",
+        "name": "Bomber Ace: WW2 war plane game",
+        "publisher_name": "MadFatCat",
+        "publisher_id": "55f893c08ac350426b039e0b",
+        "humanized_name": "Bomber Ace: WW2 war plane game",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/e4/be/90e4be6f-ad0c-a119-7868-dd267561330c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5b2014aba05ac723e5d99392",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

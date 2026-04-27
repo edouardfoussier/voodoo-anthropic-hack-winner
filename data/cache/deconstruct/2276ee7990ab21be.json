@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "2276ee7990ab21be",
+    "ad_unit_id": "2276ee7990ab21be",
+    "app_id": "568a601402ac64a409000104",
+    "advertiser_name": "Clash Royale",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01492c7c7105f706/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01492c7c7105f706/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01492c7c7105f706/preview",
+    "phashion_group": "2276ee7990ab21be",
+    "share": null,
+    "first_seen_at": "2025-07-28T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Get ready to play now!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A 3D Wizard character boasts about his rank while gameplay shows a Fire Spirit clearing a Skeleton Army.",
+    "visual_action": "The Wizard character points at gameplay footage of Clash Royale in the background.",
+    "text_overlay": "I'M ABOUT TO HIT THE NEXT LEAGUE IN THE PATH OF LEGENDS.",
+    "voiceover_transcript": "I'm about to hit the next league in the Path of Legends. Oh, did I tell you it's free to download?",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Wizard character introduces his progress in the 'Path of Legends' league over gameplay.",
+    "Wizard highlights that the game is free and compares the excitement to drinking coffee.",
+    "Knight character enters the frame and asks to try the game.",
+    "Wizard tells the Knight and viewer to download it themselves for a better experience.",
+    "Gameplay shows a massive Skeleton Army being overwhelmed as the Wizard calls it the best mobile card game."
+  ],
+  "on_screen_text": [
+    "I'M ABOUT TO HIT THE NEXT",
+    "LEAGUE IN THE PATH OF LEGENDS",
+    "OH DID I TELL YOU IT'S FREE TO DOWNLOAD?",
+    "BUT YOUR COFFEE COULDN'T BEAT THAT!",
+    "OK, LET ME TRY",
+    "SURE, BUT YOU NEED TO",
+    "DOWNLOAD IT YOURSELF",
+    "YOU'LL ENJOY IT MORE THAN THAT COFFEE!",
+    "IT'S THE BEST CARD GAME ON MOBILE"
+  ],
+  "cta_text": "DOWNLOAD IT YOURSELF",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#2E86C1",
+    "#A0522D",
+    "#228B22"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Competitive male gamers 18-35 who enjoy strategy and card-based progression.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001979
+}

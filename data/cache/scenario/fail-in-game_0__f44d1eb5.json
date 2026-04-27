@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_ETtn37QswmhX7YA6Ninaf9Fr?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRVR0bjM3UXN3bWhYN1lBNk5pbmFmOUZyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=dj4a6ynFq9XBsuWRxTyCPCzdiO-%7EM%7ERAQB3zt6s30iQdoeNagS-pW3PfU5FKF5x%7EWP2yJIk-I-0W3AA0qhj-8%7EyAKlvWNX5XLiYTtvlqQ2fteBZJ40r5cL%7EwknSSam7vVHOYRD1UzYEGwuvar9WUDCp%7EL-AHxD5B8apzALYXUewY0b67AHIDiJPRJV9Dl3IHh7sCdQLuLkGblphOaWIeqO1d4WMiac14vm5PxEDFtULnTQc6TwiUHPKMzNp0xXw0zjxks0panLoDTZJY1u%7Eo0vr92i87XZOcrqrxcrU4u03JAYFNPCEMeWn0bUzvUsBPU1NoYeNbx33Y%7Eyhsi3iABw__",
+  "job_id": "job_4EhJ8UqXSQtKdJU7cGxpj66z",
+  "asset_id": "asset_ETtn37QswmhX7YA6Ninaf9Fr",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic Helix Jump in-game screenshot: a glossy cyan #5CE1E6 ball mid-bounce on a rotating vertical 3D helix tower made of stacked circular disc platforms, one platform segment glowing danger red #FF0000 directly below the ball, a neon green #39FF14 safe gap ring just passed, soft pastel lavender sky background, top-down portrait camera locked on tower, score '12,480' top-center and 'LEVEL 27' pill HUD, bold white sans-serif overlay text 'WHY IS THIS LEVEL SO HARD?' across middle of screen, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, no extra props, clean mobile game UI chrome, high contrast, crisp render",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

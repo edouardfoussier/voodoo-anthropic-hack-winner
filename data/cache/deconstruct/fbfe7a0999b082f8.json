@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "fbfe7a0999b082f8",
+    "ad_unit_id": "fbfe7a0999b082f8",
+    "app_id": "605bb7d32cfa1f2f928615b4",
+    "advertiser_name": "Magic: The Gathering Arena",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2da1d33678861823/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2da1d33678861823/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2da1d33678861823/preview",
+    "phashion_group": "fbfe7a0999b082f8",
+    "share": null,
+    "first_seen_at": "2026-03-31T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Show you did the homework with the new Prepare mechanic and 5 college-specific mechanics.",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Brand logo and expansion title reveal over fantasy character art.",
+    "visual_action": "A stylized owl-like character in ornate armor is shown while the game logo and expansion title fade in sequentially.",
+    "text_overlay": "MAGIC THE GATHERING SECRETS OF STRIXHAVEN PREORDER NOW",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the Magic: The Gathering logo over a fantasy owl character illustration.",
+    "The expansion title 'Secrets of Strixhaven' appears in a glowing green font.",
+    "The call to action 'Preorder Now' is displayed below the title.",
+    "The final frame loops with shimmering visual effects and upbeat music."
+  ],
+  "on_screen_text": [
+    "MAGIC THE GATHERING",
+    "SECRETS OF STRIXHAVEN",
+    "PREORDER NOW"
+  ],
+  "cta_text": "PREORDER NOW",
+  "cta_timing_seconds": 2.0,
+  "palette_hex": [
+    "#121212",
+    "#C5A059",
+    "#4CAF50"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of trading card games and fantasy lore, likely males 18-35.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001437
+}

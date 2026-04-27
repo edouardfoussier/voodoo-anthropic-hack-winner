@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "app_id": "5f716c0ec46ae66c2d40292b",
+      "breakdown": [
+        {
+          "date": "2026-03-29",
+          "organic_abs": 7,
+          "organic_browse_abs": 2,
+          "organic_search_abs": 5,
+          "browser_abs": 0,
+          "paid_abs": 7,
+          "paid_search_abs": 0,
+          "organic_frac": 0.5,
+          "organic_browse_frac": 0.142857,
+          "organic_search_frac": 0.357143,
+          "browser_frac": 0,
+          "paid_frac": 0.5,
+          "paid_search_frac": 0
+        },
+        {
+          "date": "2026-03-31",
+          "organic_abs": 15,
+          "organic_browse_abs": 5,
+          "organic_search_abs": 10,
+          "browser_abs": 1,
+          "paid_abs": 16,
+          "paid_search_abs": 0,
+          "organic_frac": 0.46875,
+          "organic_browse_frac": 0.15625,
+          "organic_search_frac": 0.3125,
+          "browser_frac": 0.03125,
+          "paid_frac": 0.5,
+          "paid_search_frac": 0
+        },
+        {
+          "date": "2026-04-01",
+          "organic_abs": 15,
+          "organic_browse_abs": 5,
+          "organic_search_abs": 10,
+          "browser_abs": 0,
+          "paid_abs": 10,
+          "paid_search_abs": 0,
+          "organic_frac": 0.6,
+          "organic_browse_frac": 0.2,
+          "organic_search_frac": 0.4,
+          "browser_frac": 0,
+          "paid_frac": 0.4,
+          "paid_search_frac": 0
+        }
+      ]
+    }
+  ]
+}

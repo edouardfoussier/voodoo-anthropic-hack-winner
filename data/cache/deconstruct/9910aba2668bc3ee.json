@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "9910aba2668bc3ee",
+    "ad_unit_id": "9910aba2668bc3ee",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e3c4cd7debe6f8f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e3c4cd7debe6f8f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e3c4cd7debe6f8f/preview",
+    "phashion_group": "9910aba2668bc3ee",
+    "share": null,
+    "first_seen_at": "2026-02-19T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Join real-time PvP and show your skills",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced mecha combat with satisfying kill streaks.",
+    "visual_action": "A flying robot fires at an enemy, triggering a 'KILL' UI notification and announcer voice.",
+    "text_overlay": "KILL",
+    "voiceover_transcript": "Kill.",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "In-game combat showing a flying robot securing a 'KILL' against an enemy.",
+    "Action intensifies with 'DOUBLE KILL' and 'TRIPLE KILL' streaks over an urban map.",
+    "Cinematic 3D transition into a high-tech robot assembly bay.",
+    "Final brand reveal with the game logo and 'INSTALL NOW' button."
+  ],
+  "on_screen_text": [
+    "KILL",
+    "DOUBLE KILL",
+    "TRIPLE KILL",
+    "WAR ROBOTS",
+    "INSTALL NOW!"
+  ],
+  "cta_text": "INSTALL NOW!",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#1A1A1A",
+    "#FF8C00",
+    "#9932CC"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy high-octane mecha combat and competitive action games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016060000000000002
+}

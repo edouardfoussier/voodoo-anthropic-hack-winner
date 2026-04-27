@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_qJhoov6zv1wDW1EvHmvSKSV4?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcUpob292Nnp2MXdEVzFFdkhtdlNLU1Y0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ISjg3JSxN-QTZxlnOA9RVx1nmtRclWf9qIJUa8v5Vjy0y7Y2SICGGQg8hPYUC%7EN7YB2lZaah8WdP052ZVcsvleOyoqRtyhzD7-VOSjFzi8r9q1S2uZv%7E3me4p1hOj6VTNZKrUz0%7EsgdxtD33obevrbwSF5g9zFbzsa3ZXOukrcvKeYkNwPQK0mK%7EEfQkxhAvXh89%7EmbhDrvzjscDQL5ZDj-n-oq4WaFWJIkWdztXuzSboZSfuwZYaRAeGKiXILcRtrEmsR%7EyGj3N0gq5OtyRLA3G6FBmeka1LzQyQfccehBDgtxhflKWG1iZIfoul9cKzL8j58WhGuH1fb-DWTm7uQ__",
+  "job_id": "job_D73WF9o4z6HiwQP3BR9NtpKK",
+  "asset_id": "asset_qJhoov6zv1wDW1EvHmvSKSV4",
+  "stub": false,
+  "prompt": "Storyboard frame \u2014 combo moment, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors. Side-view of the Flappy Dunk basketball mid-flap arcing through a magenta (#D81155) hoop with net swooshing, bright blue (#5CB3FF) motion trail behind it, two more hoops lined up to the right, beige (#EAD5A0) background, score UI '03' top-center with combo burst star, bold white-outlined overlay text '3X COMBO!' diagonal across upper-right in magenta. [Audio: no VO / energetic competitive synth-trap 130 BPM / triple chime ascending on each hoop pass, crowd cheer swell at 1s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

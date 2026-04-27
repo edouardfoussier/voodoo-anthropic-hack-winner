@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "app_id": "5e40d139c848374197f15ba8",
+      "breakdown": [
+        {
+          "date": "2026-01-01",
+          "organic_abs": 9042,
+          "organic_browse_abs": 4789,
+          "organic_search_abs": 4253,
+          "browser_abs": 1637,
+          "paid_abs": 46129,
+          "paid_search_abs": 1879,
+          "organic_frac": 0.154072,
+          "organic_browse_frac": 0.081602,
+          "organic_search_frac": 0.072469,
+          "browser_frac": 0.027894,
+          "paid_frac": 0.786017,
+          "paid_search_frac": 0.032017
+        },
+        {
+          "date": "2026-02-01",
+          "organic_abs": 8761,
+          "organic_browse_abs": 4515,
+          "organic_search_abs": 4246,
+          "browser_abs": 1474,
+          "paid_abs": 35337,
+          "paid_search_abs": 1500,
+          "organic_frac": 0.186119,
+          "organic_browse_frac": 0.095917,
+          "organic_search_frac": 0.090202,
+          "browser_frac": 0.031314,
+          "paid_frac": 0.750701,
+          "paid_search_frac": 0.031866
+        },
+        {
+          "date": "2026-03-01",
+          "organic_abs": 11075,
+          "organic_browse_abs": 6505,
+          "organic_search_abs": 4570,
+          "browser_abs": 727,
+          "paid_abs": 52385,
+          "paid_search_abs": 2534,
+          "organic_frac": 0.16599,
+          "organic_browse_frac": 0.097496,
+          "organic_search_frac": 0.068494,
+          "browser_frac": 0.010896,
+          "paid_frac": 0.785135,
+          "paid_search_frac": 0.037979
+        },
+        {
+          "date": "2026-04-01",
+          "organic_abs": 9034,
+          "organic_browse_abs": 5741,
+          "organic_search_abs": 3293,
+          "browser_abs": 665,
+          "paid_abs": 29767,
+          "paid_search_abs": 1873,
+          "organic_frac": 0.218535,
+          "organic_browse_frac": 0.138876,
+          "organic_search_frac": 0.079658,
+          "browser_frac": 0.016087,
+          "paid_frac": 0.720071,
+          "paid_search_frac": 0.045308
+        }
+      ]
+    }
+  ]
+}

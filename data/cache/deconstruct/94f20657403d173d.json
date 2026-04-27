@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "94f20657403d173d",
+    "ad_unit_id": "94f20657403d173d",
+    "app_id": "61797419b3ae2754bfd33529",
+    "advertiser_name": "BetMGM Casino - Real Money",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dff9fd35e140b288/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dff9fd35e140b288/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dff9fd35e140b288/preview",
+    "phashion_group": "94f20657403d173d",
+    "share": null,
+    "first_seen_at": "2026-03-26T00:00:00",
+    "last_seen_at": "2026-04-06T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Give BetMGM Casino a shot! Sign up during March Matchups and enjoy your New Player Offer.🏀 🎰",
+    "button_text": "Sign Up",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Logo intro followed by 3D animation of casino chips and cards falling onto a green felt table.",
+    "visual_action": "A gold BetMGM logo appears on black, then transitions to poker chips and playing cards falling and bouncing on a green casino table.",
+    "text_overlay": "BETMGM, GAMBLING PROBLEM? CALL 1-800-GAMBLER.",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "BetMGM logo animation on a black background.",
+    "3D rendered poker chips and playing cards fall onto a green felt table.",
+    "A white promotional card slides in, detailing the March Matchups offer.",
+    "The final frame displays the full deposit match offer and legal disclaimers."
+  ],
+  "on_screen_text": [
+    "BETMGM",
+    "GAMBLING PROBLEM? CALL 1-800-GAMBLER.",
+    "MARCH MATCHUPS",
+    "NEW CASINO PLAYER OFFER",
+    "100% Deposit Match, up to $1,000",
+    "PLUS, $25 ON THE HOUSE"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#000000",
+    "#C5A059",
+    "#1B5E20"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Adult casino enthusiasts and sports bettors looking for high-value sign-up bonuses.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015379999999999999
+}

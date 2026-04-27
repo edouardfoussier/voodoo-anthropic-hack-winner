@@ -1,0 +1,31 @@
+{
+  "app_id": "1389111413",
+  "name": "Hole.io",
+  "genre": "Arcade",
+  "sub_genre": ".io Games",
+  "core_loop": "Navigate a black hole to consume objects, increase in size, and outcompete other players before time runs out.",
+  "audience_proxy": "Broad casual audience, appealing to all ages and genders looking for quick, competitive, and satisfying gameplay.",
+  "visual_style": "Low-poly 3D, bright, colorful, and cartoonish.",
+  "palette": {
+    "primary_hex": "#FF9800",
+    "secondary_hex": "#29B6F6",
+    "accent_hex": "#FFEB3B",
+    "description": "Bright orange and blue dominate the gameplay, with vibrant yellow used for emphasis and UI text."
+  },
+  "key_mechanics": [
+    "swallowing",
+    "growing",
+    "navigating",
+    "competing"
+  ],
+  "character_present": true,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "timer",
+    "score counter",
+    "level indicator",
+    "player ranking",
+    "growth text prompts",
+    "cityscape environment"
+  ]
+}

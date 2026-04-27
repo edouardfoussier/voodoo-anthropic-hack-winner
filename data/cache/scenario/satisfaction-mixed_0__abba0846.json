@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_EPSUMUuNPsMaBsqE4ztSAAWE?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRVBTVU1VdU5Qc01hQnNxRTR6dFNBQVdFP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=XOAMxRiejtL2YgJ5CljHE4oUCPNFbUTEhszedcno56r0idolr1kzjsVGUW3LrALuwapLenf2ch4yLlt6cczyRHFDCYEV0VfKtJVV0dsXkjf-LTprtIBGgCkrhrBuf6IVXOHZKg8ykuRKjc9iW2j6M8Do4s3kiMMrz9nRK8B%7EJlVkVh5uqZjBcgQ6DbKXxyALvp8adYfQVPbLL0GMskpyUFnFWhaaezwRM%7Eim6QduN9X91FqmRJi0T7Tz8iFy3KSWUMJsEGlRQnofPqBWNg6hruTjqh3jldO8PzGxrIi7jgBhQyo4ntdEg0PgpWxFW6JYyolz-ltRg0nhdbgDwc5Y8Q__",
+  "job_id": "job_huUbjQw4qip2temT2cYDR2is",
+  "asset_id": "asset_EPSUMUuNPsMaBsqE4ztSAAWE",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, 3D Casual Abstract style, top-down view of a moody puzzle grid on deep near-black background #20232B with deep purple #403F6D grid frames, a glowing matte amber-orange #FDBA4D block snapping into the final empty slot, soft bevels, glossy translucent bouncing balls beginning to spark out in radial chain reaction, cinematic rim light, on-screen text overlay 'BOOM \u2014 chain reaction!' in bold white sans-serif, mobile game ad still, ultra clean composition, no characters",
+  "model_id": "flux.1-dev"
+}

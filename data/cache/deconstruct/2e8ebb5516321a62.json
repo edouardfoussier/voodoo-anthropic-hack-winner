@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "2e8ebb5516321a62",
+    "ad_unit_id": "2e8ebb5516321a62",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0fe35c16a0da4cbc/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0fe35c16a0da4cbc/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0fe35c16a0da4cbc/preview",
+    "phashion_group": "2e8ebb5516321a62",
+    "share": null,
+    "first_seen_at": "2026-04-19T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Create your own epic robot builds and dominate!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Immediate high-intensity mech combat with satisfying kill feedback.",
+    "visual_action": "A heavy mech fires lasers and machine guns at an enemy robot in a snowy environment.",
+    "text_overlay": "KILL",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Heavy mech engages an enemy robot with lasers and machine guns in a snowy base.",
+    "The enemy is destroyed, triggering a 'KILL' text overlay.",
+    "The mech continues firing at a second target until it explodes.",
+    "A second 'KILL' text overlay appears.",
+    "The video ends with a 'JOIN NOW' call to action on a dark background."
+  ],
+  "on_screen_text": [
+    "KILL",
+    "KILL",
+    "JOIN NOW"
+  ],
+  "cta_text": "JOIN NOW",
+  "cta_timing_seconds": 7.5,
+  "palette_hex": [
+    "#C0C0C0",
+    "#222222",
+    "#FF0000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Action-oriented male gamers interested in sci-fi combat and mech customization.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0011129999999999998
+}

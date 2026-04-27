@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_TEmZ2rDHidNigz3nfivr1DNa?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVEVtWjJyREhpZE5pZ3ozbmZpdnIxRE5hP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=tqvHfuA5HpyfdbxgusUJWAK%7EON-l-uHAFgn0o5Vg71%7E%7ENfqxHbu6yBC5gToN7WkcyZa7QffB49KYAg2cS01xuPK-qBoTh6HsLmFPC7ruwXh3VER-U6l8KjTNfZ55IFNNeD2nb7C583dDtXfjf8Ekzulnlk6oiQOvpXofppQp8UPjcuvrZBTfn0vn8QEe-Sqc4ZxU5u9A0RjkkuO8gOUJAcyCNLz77EEl2Jn%7EsJSNdKjp8i9KuG6mNQ9wdl4NkYXQBr1SFlmoZV0jt07o4s8pHFADTeRGVSzxwzznp6JDeMqZU1MXVSXNHpCgmQzxTee-qNfoUBadJljtL55GuFr%7E1w__",
+  "job_id": "job_7joXrmaS6mQj2KwttWhbuTzt",
+  "asset_id": "asset_TEmZ2rDHidNigz3nfivr1DNa",
+  "stub": false,
+  "prompt": "End card storyboard frame, 9:16 vertical aspect ratio, clean and colorful 3D cartoon style with soft, rounded shapes, centered Marble Sort! logo over a smooth lavender (#E5DFFF) gradient background with a few floating pastel marbles and soft grey (#F0F0F8) conveyor silhouette, large rounded orange (#FFB13B) CTA button with white text 'Play Free', minimal clean composition, calm and inviting",
+  "model_id": "flux.1-dev"
+}

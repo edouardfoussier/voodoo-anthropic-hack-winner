@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "e0a8ce4fe65b7056",
+    "ad_unit_id": "e0a8ce4fe65b7056",
+    "app_id": "55c01a43e6d79ac5ed0599e3",
+    "advertiser_name": "Promise Pets by Build-A-Bear: A Virtual Pet Game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7a8dc0e928bc40e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7a8dc0e928bc40e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7a8dc0e928bc40e/preview",
+    "phashion_group": "e0a8ce4fe65b7056",
+    "share": null,
+    "first_seen_at": "2026-04-22T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "It’s time to celebrate the Class of 2026! 🎓 Furry friends make thoughtful surprises and cuddly keepsakes – and our online Graduation Giftshop makes it easy to send celebratory hugs their way!",
+    "button_text": "Shop Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Close-up of a graduation teddy bear followed by seniors entering a room.",
+    "visual_action": "A teddy bear in a graduation gown is shown, then cuts to students walking through a doorway.",
+    "text_overlay": null,
+    "voiceover_transcript": "I hope that the kids that are graduating follow their dreams.",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Close-up of graduation-themed teddy bears.",
+    "High school seniors enter a room and are surprised by their former elementary teachers.",
+    "Seniors react with joy and hug their former teachers while receiving bears.",
+    "Montage of different graduation plushies including a frog, bear, and bunny.",
+    "Final brand card with logo and website."
+  ],
+  "on_screen_text": [
+    "These graduating seniors are being surprised by their former elementary teachers.",
+    "the stuff you love.",
+    "www.buildabear.com"
+  ],
+  "cta_text": "www.buildabear.com",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#003399",
+    "#D2B48C",
+    "#FFFFFF"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Parents and family members of graduating students looking for a sentimental gift.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016480000000000002
+}

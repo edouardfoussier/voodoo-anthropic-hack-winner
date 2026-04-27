@@ -1,0 +1,376 @@
+{
+  "count": 101,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "a02d273ace9ffa77",
+      "app_id": "681eb48a7a54db51c803a365",
+      "network": "TikTok",
+      "phashion_group": "a02d273ace9ffa77",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-18",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a02d273ace9ffa77",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ac393ba823a1be6/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ac393ba823a1be6/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ac393ba823a1be6/thumb",
+          "video_duration": 8,
+          "width": 540,
+          "height": 960,
+          "message": "Foodie Sizzle feels like a soft daydream, join with me pls"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "681eb48a7a54db51c803a365",
+        "canonical_country": "US",
+        "name": "Foodie Sizzle",
+        "publisher_name": "Onesoft",
+        "publisher_id": "5b6de3cab80f52168dc0abc3",
+        "humanized_name": "Foodie Sizzle",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/c5/ad/19c5adf1-b8cc-3c97-1f4d-073a70c143cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "681eb48a7a54db51c803a365",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0f1d747b3e7d863f",
+      "app_id": "66d27b94782b200e42488550",
+      "network": "TikTok",
+      "phashion_group": "0f1d747b3e7d863f",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "0f1d747b3e7d863f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/037621dcaf59896e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/037621dcaf59896e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/037621dcaf59896e/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "Hey, come and solve this tricky puzzle! I'm stuck with this level!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66d27b94782b200e42488550",
+        "canonical_country": "US",
+        "name": "Perfect Tidy",
+        "publisher_name": "Onesoft",
+        "publisher_id": "5b6de3cab80f52168dc0abc3",
+        "humanized_name": "Perfect Tidy",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/fd/f4/78fdf49e-865e-8a46-c270-d33a0937081e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66d27b94782b200e42488550",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5ba7458dea1165c1",
+      "app_id": "679ad2c9e8b4ba3a4e049aab",
+      "network": "TikTok",
+      "phashion_group": "5ba7458dea1165c1",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-25",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "5ba7458dea1165c1",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "message": "Classic Tetris Meets Modern Vibes: Dive In!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "679ad2c9e8b4ba3a4e049aab",
+        "canonical_country": "US",
+        "name": "Tetris\u00ae Block Party",
+        "publisher_name": "Playstudios",
+        "publisher_id": "560c5bb68ac35064390237c1",
+        "humanized_name": "Tetris Block Party",
+        "icon_url": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y=s150",
+        "os": "unified",
+        "id": "679ad2c9e8b4ba3a4e049aab",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0e53beeb905c90e0",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "TikTok",
+      "phashion_group": "0e53beeb905c90e0",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-24",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "0e53beeb905c90e0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/095047a8ce867eca/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/095047a8ce867eca/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/095047a8ce867eca/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "New version, challenge higher scores"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c782e303cb654128",
+      "app_id": "66d27b94782b200e42488550",
+      "network": "TikTok",
+      "phashion_group": "c782e303cb654128",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-20",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "c782e303cb654128",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b5a50859a89c02a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b5a50859a89c02a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b5a50859a89c02a/thumb",
+          "video_duration": 14,
+          "width": 540,
+          "height": 960,
+          "message": "Get all the buses out!!!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66d27b94782b200e42488550",
+        "canonical_country": "US",
+        "name": "Perfect Tidy",
+        "publisher_name": "Onesoft",
+        "publisher_id": "5b6de3cab80f52168dc0abc3",
+        "humanized_name": "Perfect Tidy",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/fd/f4/78fdf49e-865e-8a46-c270-d33a0937081e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66d27b94782b200e42488550",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "276c497d6d92d58c",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "TikTok",
+      "phashion_group": "276c497d6d92d58c",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-05",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "276c497d6d92d58c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b855fc9ac03e11a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b855fc9ac03e11a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b855fc9ac03e11a/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Seriously, save yourself and don't play this game on the toilet, unless you want numb legs!\ud83e\udd23"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "be59c6764d7fdcf6",
+      "app_id": "62eda7f1b3ae275b582e56ed",
+      "network": "TikTok",
+      "phashion_group": "be59c6764d7fdcf6",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "be59c6764d7fdcf6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11e8146b7543d1ae/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11e8146b7543d1ae/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11e8146b7543d1ae/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "Block Crush! Free to Play Now"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "62eda7f1b3ae275b582e56ed",
+        "canonical_country": "US",
+        "name": "Block Crush!",
+        "publisher_name": "Wonderful Studio",
+        "publisher_id": "685ec889fcc8fc31d5c73fc3",
+        "humanized_name": "Block Crush!",
+        "icon_url": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw=s150",
+        "os": "unified",
+        "id": "62eda7f1b3ae275b582e56ed",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "54817dd5f6f6f8ca",
+      "app_id": "62eda7f1b3ae275b582e56ed",
+      "network": "TikTok",
+      "phashion_group": "54817dd5f6f6f8ca",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "54817dd5f6f6f8ca",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12fae28477891b8f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12fae28477891b8f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12fae28477891b8f/thumb",
+          "video_duration": 12,
+          "width": 720,
+          "height": 1280,
+          "message": "Block Crush \u2014 Play at Your Pace :)"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "62eda7f1b3ae275b582e56ed",
+        "canonical_country": "US",
+        "name": "Block Crush!",
+        "publisher_name": "Wonderful Studio",
+        "publisher_id": "685ec889fcc8fc31d5c73fc3",
+        "humanized_name": "Block Crush!",
+        "icon_url": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw=s150",
+        "os": "unified",
+        "id": "62eda7f1b3ae275b582e56ed",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e9a2312cc63200b7",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "TikTok",
+      "phashion_group": "e9a2312cc63200b7",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-23",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "e9a2312cc63200b7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/13b01fefa29c0c25/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/13b01fefa29c0c25/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/13b01fefa29c0c25/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "message": "Happy New Year"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "163451d3c2edb055",
+      "app_id": "66d27b94782b200e42488550",
+      "network": "TikTok",
+      "phashion_group": "163451d3c2edb055",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-20",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "163451d3c2edb055",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/168554b31e265146/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/168554b31e265146/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/168554b31e265146/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get the buses out!!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66d27b94782b200e42488550",
+        "canonical_country": "US",
+        "name": "Perfect Tidy",
+        "publisher_name": "Onesoft",
+        "publisher_id": "5b6de3cab80f52168dc0abc3",
+        "humanized_name": "Perfect Tidy",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/fd/f4/78fdf49e-865e-8a46-c270-d33a0937081e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66d27b94782b200e42488550",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "count": 1072,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "a94a5d25df6189dd",
+      "app_id": "55c5309f02ac64f9c0002dfe",
+      "network": "Instagram",
+      "phashion_group": "a94a5d25df6189dd",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a94a5d25df6189dd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Free Download",
+          "button_text": "Play Game",
+          "message": "Play with your friends"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5309f02ac64f9c0002dfe",
+        "canonical_country": "US",
+        "name": "Sniper 3D\uff1aGun Shooting Games",
+        "publisher_name": "Wildlife Studios",
+        "publisher_id": "5614e08d3f07e25d2901b7e7",
+        "humanized_name": "Sniper 3D\uff1aGun Shooting Games",
+        "icon_url": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E=s150",
+        "os": "unified",
+        "id": "55c5309f02ac64f9c0002dfe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "1bb1e0587e8a4553",
+      "app_id": "5bb08296441af15f1bd3ced4",
+      "network": "Instagram",
+      "phashion_group": "1bb1e0587e8a4553",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-02",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "1bb1e0587e8a4553",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b01356323cf70c32/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b01356323cf70c32/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b01356323cf70c32/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "title": "Live your best (or worst) life!",
+          "button_text": "Install now",
+          "message": ""
+        },
+        {
+          "id": "cdb0d7230642acdd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b01356323cf70c32/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b01356323cf70c32/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b01356323cf70c32/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "title": "Best life simulator game of 2026!",
+          "button_text": "Install Now",
+          "message": "Best life simulator game of 2026!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5bb08296441af15f1bd3ced4",
+        "canonical_country": "US",
+        "name": "BitLife - Life Simulator",
+        "publisher_name": "Stillfront Group",
+        "publisher_id": "560c4a178ac350643900dbf8",
+        "humanized_name": "BitLife - Life Simulator",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/19/21/ea192149-978f-da4b-6e1e-d6bf887af04e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5bb08296441af15f1bd3ced4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d664750589d73e40",
+      "app_id": "69d45581591333b7c517b798",
+      "network": "Instagram",
+      "phashion_group": "d664750589d73e40",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-10",
+      "last_seen_at": "2026-04-10",
+      "creatives": [
+        {
+          "id": "d664750589d73e40",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/000ecc39bbd5d97a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/000ecc39bbd5d97a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/000ecc39bbd5d97a/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Tap. Match. BLAST! \ud83d\udca5",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "69d45581591333b7c517b798",
+        "canonical_country": "US",
+        "name": "Flow Blast: Pixel Puzzle Out",
+        "publisher_name": "Sonat Game",
+        "publisher_id": "5978113a160fde53f20092de",
+        "humanized_name": "Flow Blast: Pixel Puzzle Out",
+        "icon_url": "https://play-lh.googleusercontent.com/x1heuSk4lYA75iJmHp_plmBuIZOrTXb5DFol5VNiizLoBy9qD5_IG4fg7WZuD35dJ8r5_f-M8vfR9jdua4mq=s150",
+        "os": "unified",
+        "id": "69d45581591333b7c517b798",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "80bbb00dd55be14d",
+      "app_id": "6753a94a9049e6c00f8fd6ed",
+      "network": "Instagram",
+      "phashion_group": "80bbb00dd55be14d",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-15",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "80bbb00dd55be14d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Queen Awaits, Claim Your Crown",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6753a94a9049e6c00f8fd6ed",
+        "canonical_country": "US",
+        "name": "Queens Master: Sudoku Puzzle",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Queens Master",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4a/38/cd4a3872-f4e8-8ad1-78e1-78ddf187ad5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6753a94a9049e6c00f8fd6ed",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "841a815551eec839",
+      "app_id": "618499119e5ed235096241dc",
+      "network": "Instagram",
+      "phashion_group": "841a815551eec839",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-12",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "841a815551eec839",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "School Hours? Bingo Time!",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "618499119e5ed235096241dc",
+        "canonical_country": "US",
+        "name": "Bingo Card Klondike Adventures",
+        "publisher_name": "Brightika",
+        "publisher_id": "5febff86d5651249c37b078b",
+        "humanized_name": "Bingo Card Klondike Adventures",
+        "icon_url": "https://play-lh.googleusercontent.com/iAkjsxv0dQFFtLHIp-xKZK-Vljbf2siokJohxVT_b2bTIvJRSIvdAMl40tvoqwykY7_CNBIxMt15rWRj8TiUVw=s150",
+        "os": "unified",
+        "id": "618499119e5ed235096241dc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "089e44e7b18205eb",
+      "app_id": "660dff47d4e03e76a49f832f",
+      "network": "Instagram",
+      "phashion_group": "089e44e7b18205eb",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-06",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "089e44e7b18205eb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "It\u2019s fun even without installing",
+          "button_text": "Install Now",
+          "message": "BIG NEWS!\nGet ready for the most epic gaming experience of your life!\nWhat secrets will you uncover?\nPlay now and find out!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "660dff47d4e03e76a49f832f",
+        "canonical_country": "KR",
+        "name": "\ud611\ub3d9 \ud0c0\uc6cc \ub514\ud39c\uc2a4 : \uce5c\uad6c\uc640 \ud568\uaed8",
+        "publisher_name": "Supermagic",
+        "publisher_id": "6234d6c2b1503f7859bb0e3d",
+        "humanized_name": "\ud611\ub3d9 \ud0c0\uc6cc \ub514\ud39c\uc2a4 : \uce5c\uad6c\uc640 \ud568\uaed8",
+        "icon_url": "https://play-lh.googleusercontent.com/Hlc2-66nb99p3dy5qJE095Di19ib_uSHaEwfJ5_j09vJb2mw98q3cSnGRg28Q-Auww=s150",
+        "os": "unified",
+        "id": "660dff47d4e03e76a49f832f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d198b97344aa6d7",
+      "app_id": "5d5b97412abd3d12ef100cea",
+      "network": "Instagram",
+      "phashion_group": "5d198b97344aa6d7",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-28",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "5d198b97344aa6d7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d5b97412abd3d12ef100cea",
+        "canonical_country": "US",
+        "name": "Jewel Sliding - Block Puzzle",
+        "publisher_name": "Wisdom Network",
+        "publisher_id": "5c689d391109cd4b8d4500bf",
+        "humanized_name": "Jewel Sliding",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/50/b8/ec50b89b-ec72-0761-4751-cb7aadc43f70/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d5b97412abd3d12ef100cea",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "80123d39765f74c4",
+      "app_id": "63c0a80dedbc613cc4f954e4",
+      "network": "Instagram",
+      "phashion_group": "80123d39765f74c4",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-15",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "80123d39765f74c4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "63c0a80dedbc613cc4f954e4",
+        "canonical_country": "US",
+        "name": "Landlord Simulator",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Landlord Simulator",
+        "icon_url": "https://play-lh.googleusercontent.com/I5xiVnmCbJB1aKjbiUCtwokqqWHECt5KAHVD0PQ-gLRg4s4Xw1tU6xmT1gjqmiHc_QbM=s150",
+        "os": "unified",
+        "id": "63c0a80dedbc613cc4f954e4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "744908d2fc26eaa4",
+      "app_id": "5b0bf793add5fb1967fd21ad",
+      "network": "Instagram",
+      "phashion_group": "744908d2fc26eaa4",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-23",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "744908d2fc26eaa4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udd25 Tap to play! \ud83d\udc49\ud83c\udffb\ud83d\udc49\ud83c\udffb\ud83d\udc49\ud83c\udffb",
+          "button_text": "Play Game",
+          "message": "Time-limited events starting soon! \ud83c\udf89\ud83d\udd25"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b0bf793add5fb1967fd21ad",
+        "canonical_country": "US",
+        "name": "Viola\u2019s Quest: Marble Blast",
+        "publisher_name": "Two Desperados",
+        "publisher_id": "56511f5202ac640e66000002",
+        "humanized_name": "Viola\u2019s Quest",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/e9/fe/49e9fe59-af13-8b48-ac5f-9ac978d18e9a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5b0bf793add5fb1967fd21ad",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "81a8a6bb3420d62e",
+      "app_id": "631f0446c6086b1541b17c01",
+      "network": "Instagram",
+      "phashion_group": "81a8a6bb3420d62e",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-16",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "81a8a6bb3420d62e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a17f62e9c3103/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a17f62e9c3103/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a17f62e9c3103/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Run and hide away",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "631f0446c6086b1541b17c01",
+        "canonical_country": "US",
+        "name": "Hunt & Seek",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Hunt & Seek",
+        "icon_url": "https://play-lh.googleusercontent.com/TVd4wk44LjLwkFUHCGTop_GaESNWmj831Da--A_AJvdL8XszyhmLd-j-hTAJszKumw=s150",
+        "os": "unified",
+        "id": "631f0446c6086b1541b17c01",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

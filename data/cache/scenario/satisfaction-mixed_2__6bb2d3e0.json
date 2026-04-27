@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_rk9JKdSSG1eYZtpaL6JX8FRS?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcms5SktkU1NHMWVZWnRwYUw2Slg4RlJTP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YQ--njViN5MRvq7Zk9E%7ER9cdwYctDwqTML2Fk2PsQcBo0DX0hSyzoEdKw1Vz7S9d9QhANy7ZgcVLmfup%7En2JhVk9-HfgvhgSlhh6xMg3--7kdcqcmBUQ1UZhea-tYRoF3J2-McewBrP9dqhT4Dtigr5WCD8UN-3Ms7xF%7EOeP7rXv7tUSs5DCymU8IVsJBITaLxMKlfglWg42T8qmAO7vEsBHJkY1PGTr2Y1Pi2K3QPZL70bS8OuW1j1IyIESkxW2KjEisu0t-2rr0hgQEpUyCFLYYEjE3W%7E6Qs5Aj51nsqmfEvS7ywM5hjq0EfmAa8aoX8ufPlMw0zX%7EI52ZgIlUqQ__",
+  "job_id": "job_7aTrCvzMDKDk8RtGBCF5fhH1",
+  "asset_id": "asset_rk9JKdSSG1eYZtpaL6JX8FRS",
+  "stub": false,
+  "prompt": "Storyboard CTA frame, vertical 9:16 aspect ratio, clean end-card composition on a deep royal blue #5469B9 background with a centered glossy beveled Block Blast logo lockup, a single floating gold #FFD700 polyomino block and three sparkle stars, a pulsing gold rounded CTA button at the bottom. Dark navy #1E2744 subtle grid pattern fading in the background. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Bold white text overlay 'Play Free' on the button. Premium, calm, inviting finish.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

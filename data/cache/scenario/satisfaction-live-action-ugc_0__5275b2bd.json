@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_EYLVspfL61nkVFPP7WVQsdyd?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRVlMVnNwZkw2MW5rVkZQUDdXVlFzZHlkP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=bABB3Ux-KQBj9PSCafksFCT-aJ4ygLT6onNzxHBb4VLKOUAF8na4ehej2KZXXNm2vO5zsFc0CX9BbDc53zUbtJNKcFjWxSDDrK5Nd7ZNcBoIKcx6XAUyBTi5Y8nL494KJr2bGst-Nn1oWBKhq-UTYkFNGu1miI%7ERIpt6n3vu1emU6gGEob4mXmL9-hFszybosW1SUs8IvygbDKRI4uosiNj60wiNDb-RBdy5j-xQeAepCeivZjUVSUBapguXBfsF7d-gErjCA0xNutwvCv11p1CEfhubljwQ%7E9zbt3WrTYxX0LOgiHE6z3A5X0gOMoBWi8pFAoTGoLt61GXitU6alQ__",
+  "job_id": "job_dspMCZXtZxEtumPHNU1oVSgi",
+  "asset_id": "asset_EYLVspfL61nkVFPP7WVQsdyd",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic Helix Jump in-game screenshot: top-down 3D view of a vertical cyan #5CE1E6 helix tower made of stacked rotating disc platforms on a clean off-white background, a small glossy neon green #39FF14 ball mid-bounce smashing through a disc with bright #FF0000 red trap segments shattering into geometric shards, motion blur trail, minimalist HUD showing score number top-left and level progress bar top-right, on-screen text 'COMBO x8 \u2014 SMASH!' in bold white sans-serif center, 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters, no people, crisp clean render",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

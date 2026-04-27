@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 20,
+  "mechanic_match": 35,
+  "audience_match": 55,
+  "overall": 32,
+  "rationale": "The \"fail · in-game\" hook is a proven casual-puzzle UA pattern, but the source archetype is a bus/parking jam concept — its grid-based vehicle routing has no visual or mechanical analog to Marble Sort's physics-drop conveyor sorting, so a direct port would feel deceptive. Palette frictions are also significant: the member palette uses saturated primary RGB tones that clash with the game's soft pastel lavender/orange identity. Recommendation: only adapt the \"why is this level so hard, can you win?\" framing onto a genuine Marble Sort fail scenario (e.g., wrong-color marble lands in the wrong box on the conveyor) rather than reusing the bus-jam visual."
+}

@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "3583f8c4dee189d7",
+    "ad_unit_id": "3583f8c4dee189d7",
+    "app_id": "55d691cf13fa38db45013a70",
+    "advertiser_name": "PAC-MAN 256 - Endless Maze",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/preview",
+    "phashion_group": "3583f8c4dee189d7",
+    "share": null,
+    "first_seen_at": "2025-10-12T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "The Best DBZ Battle Experience is Here",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Showcase of new character cards with a focus on Broly.",
+    "visual_action": "A central Broly card is displayed over a collage of various Dragon Ball characters.",
+    "text_overlay": "NEW PLAY NOW!",
+    "voiceover_transcript": "New fighters arrive in Dragon Ball Z Dokkan Battle. Play now!",
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Central Broly card appears over a background grid of character art.",
+    "Text overlays cycle through 'NEW', 'DRAGON', and 'DOKKAN' above the 'PLAY NOW!' button.",
+    "The background grid remains static while the central card and logo are highlighted.",
+    "Final call to action with the game title and 'PLAY NOW!' button."
+  ],
+  "on_screen_text": [
+    "DRAGON BALL Z DOKKAN BATTLE",
+    "NEW",
+    "PLAY NOW!",
+    "DRAGON",
+    "DOKKAN"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#000000",
+    "#228B22"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Male Dragon Ball fans aged 18-35 who enjoy gacha and card collection games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001321
+}

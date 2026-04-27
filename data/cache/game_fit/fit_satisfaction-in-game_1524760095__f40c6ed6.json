@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 25,
+  "mechanic_match": 15,
+  "audience_match": 70,
+  "overall": 28,
+  "rationale": "Audience overlap is real (broad hypercasual satisfaction-seekers), but mechanically this is a block-placement/grid-fill puzzle hook with zero relationship to Roof Rails' running, pole-extending, rail-sliding loop — recreating it would require fabricating gameplay that doesn't exist in the app, risking misleading-ad flags. Palette (green/indigo/yellow) also clashes with the cyan/pastel cityscape DNA. Skip a direct copy; if the team wants to chase the \"satisfaction\" emotional pitch, adapt it natively via rapid pole-piece pickup montages or rail-slide combo clears with a \"GENIUS/PSYCHOPATH\" tier overlay."
+}

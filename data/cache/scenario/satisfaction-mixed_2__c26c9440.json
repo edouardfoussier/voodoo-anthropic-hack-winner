@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_eaAHh5RCu2E9BicZBbHubjHX?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZWFBSGg1UkN1MkU5QmljWkJiSHViakhYP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ns9%7E0L4BWzLE7PhQH3mcUwIj46AHKO4pPokzPN1UUjiz9eYKsV%7EtMj4rvUveV%7ERnYAxwNIN0MUS1fi-Jz6O9pjyJlyt5nF8RB1YCLmc1qCeviEGp2QNRufAD79UR4xtsJ20O0uN1yUZuOBRt%7Eub5DVIO594N9flNk5bWI241e70TXGIhZAWatNsuceNU60tVhui3KMbkkfIh2I3CzOireUZQHpEGRhMXFP6yUo8rNvynVCGbZHy4KzTdXP6Xp9C4yWwzCkV3jb7xr9-bsJtyTqV2CefKxd6bnPy0a3Y8i2tzdhWIeNRrlNPBYekTFr3bwOw5uBxF4GCXYmBiNxwnmA__",
+  "job_id": "job_DXNX9z8Xm3uzXd9dZC1Daj5W",
+  "asset_id": "asset_eaAHh5RCu2E9BicZBbHubjHX",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style, dynamic top-down shot of glossy translucent balls ricocheting across a dark #20232B board with #403F6D purple frames, bright amber #FDBA4D motion trails and spark bursts, obstacles cracking apart mid-cascade, slight motion blur, on-screen text overlay 'Can YOU clear it?' in bold white sans-serif, satisfying physics chain reaction, no characters",
+  "model_id": "flux.1-dev"
+}

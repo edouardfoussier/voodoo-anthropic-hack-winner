@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "1562817072",
+  "title": "POV: My Mob Just Hit x512",
+  "hook_3s": "Phone glow on a hyped face — then BOOM, a purple tidal wave of stickmen erupts through a x256 gate.",
+  "scene_flow": [
+    "0-3s: Live-action UGC — young guy on couch in dim room lit by purple/cyan phone glow, eyes wide, mouthing 'no way' as overlay reads the hook.",
+    "3-7s: Hard cut to phone screen close-up — Mob Control gameplay: cannon fires tiny mob, slams through stacked x2, x4, x8 multiplier gates, crowd explodes into hundreds.",
+    "7-11s: Cut back to player throwing arms up, dancing in the cyan/purple ambient light, vibing to the beat as the on-screen mob steamrolls an enemy base in split-screen.",
+    "11-14s: Reward burst — yellow coin shower on phone, player kisses fingers chef's-kiss style, base upgrade animation pops.",
+    "14-15s: End card: Mob Control logo, massive purple mob silhouette, CTA button pulsing."
+  ],
+  "visual_direction": "Authentic vertical UGC selfie-cam framing for the live-action beats, room lit ONLY by RGB strip lights in #5824F5 royal purple and #00A3FF cyan to mirror the game's signature palette and bridge reality to gameplay. Phone-screen inserts use the native Stylized 3D Cartoon look — chunky cel-shaded stickmen, glossy multiplier gates, #FFD12C yellow coin and number pops for satisfying punch. High contrast, snappy whip-cut transitions synced to a trending bass-drop beat; energetic/competitive UI mood throughout. Color grade pushes purple shadows and cyan highlights so live-action and gameplay feel like one continuous world.",
+  "text_overlays": [
+    "how I feel after one round of Mob Control 😮‍💨",
+    "watch the multiplier hit…",
+    "x256 MOB UNLOCKED",
+    "enemy base = GONE",
+    "ok I'm addicted",
+    "Play Free →"
+  ],
+  "cta": "Play Free",
+  "rationale": "Adapts the winning satisfaction-UGC framing to Mob Control's 18-35 male hyper-casual audience by anchoring the emotional payoff to the game's signature mob-multiplier dopamine moment instead of a generic dance reaction. Live-action authenticity drives thumb-stop and CTR while embedded gameplay B-roll in the brand palette rescues the low visual/mechanic fit scores flagged in the scan. Run as a low-budget UGC test cell against a gameplay-only control; scale only if IPM beats baseline within 48h.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, Stylized 3D Cartoon style: a young man in a hoodie sitting on a couch in a dim bedroom, face lit by phone glow, mouth open in shocked excitement, RGB strip lights casting royal purple #5824F5 and bright cyan #00A3FF across the walls, warm yellow #FFD12C phone screen reflection on his face, on-screen text overlay reading 'x256 MOB UNLOCKED' in bold chunky yellow caps, vertical mobile ad composition, high contrast, energetic mood, cinematic depth of field",
+    "Storyboard frame, aspect 9:16, Stylized 3D Cartoon style: over-the-shoulder shot of a smartphone screen showing a massive cel-shaded purple stickman crowd flooding through a glowing multiplier gate labeled 'x8', cannon at the bottom, enemy red base in the distance, palette dominated by royal purple #5824F5 and cyan #00A3FF with #FFD12C yellow gate numbers and coin sparks, on-screen text 'watch the multiplier hit…' at top, glossy chunky 3D render, vibrant hyper-casual game UI",
+    "Storyboard frame, aspect 9:16, Stylized 3D Cartoon style: split composition with live-action young man on left throwing arms up in victory under purple #5824F5 and cyan #00A3FF ambient lighting, and a 3D cartoon Mob Control gameplay shot on right with a giant yellow #FFD12C coin shower exploding over a defeated enemy base, on-screen text 'ok I'm addicted' in bold white caps with yellow stroke, energetic competitive vibe, vertical mobile ad framing"
+  ]
+}

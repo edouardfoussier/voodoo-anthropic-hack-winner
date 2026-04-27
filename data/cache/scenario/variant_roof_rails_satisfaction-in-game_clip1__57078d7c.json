@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_4SQRZErpAeVzWayQXdZD2tjG?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF80U1FSWkVycEFlVnpXYXlRWGRaRDJ0akcqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=FvzC41CuZt%7EIkekhAd7gvmHoKyWOBL1ErdwqvFmL1B2g-C9ZKyRBvTJbJvJfP4UNTSHGPPkQp6Q9JQYqJCzZypqDImzXUqN3kpS2rihGFp51QhRyzsrnpWP55xb23wPm1lnLvQFsfAV298Hnt-XyH66DU0CsepoajxN6U4q7Ki5vSzNk97vstvTFIpSBSCmZ5jumJPWVD4wGNIjXjw-2LPOgs1mdIGR0Uj3EL8qnGVDNA3RCBSMywdgCJCxPOo%7EIkGhEYh31k9i3i8ppHMWCeICUXPs5fzX5jp7W9AOxPv%7E2pCEWhljnwYKTrvAfBMZp32BHu36IV1iVZ7vDa3Z-uA__",
+  "job_id": "job_vJypLACPr259e6hMAhvpCakD",
+  "asset_id": "asset_4SQRZErpAeVzWayQXdZD2tjG",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Storyboard frame 1, aspect 9:16, authentic Roof Rails in-game screenshot: rapid-fire pole-piece pickup moment, runner on a white rooftop path with a stream of yellow (#FFC824) pole pieces snapping onto the horizontal pole in motion-blurred sequence, pastel cyan (#EAF6FA) building geometry and bright cyan (#5CD6FF) sky background, native Roof Rails HUD with progress bar and diamond counter, bold white overlay text 'GENIUS' centered with a yellow flash, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": false,
+  "audio": false
+}

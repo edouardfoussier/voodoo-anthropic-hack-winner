@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "target_game_id": "6748054540",
+  "title": "No. 001 — Pour the Bounce",
+  "hook_3s": "A glowing amber ball pours like liquid into a dark grid — then BOUNCES.",
+  "scene_flow": [
+    "0-3s: Macro ASMR shot of a velvet-purple drawer sliding open to reveal a single glowing amber sphere, against a moody #20232B void.",
+    "3-7s: A stream of glossy amber balls pours from above into a deep-purple grid jar, each impact a soft satisfying 'tok' — balls settle, filling rows.",
+    "7-11s: A finger taps to place the final colored block; the grid ignites and balls cascade in a physics chain reaction, bouncing off walls and clearing obstacles in a golden shower.",
+    "11-14s: Wide shot — level COMPLETE banner, the jar/grid empties with a satisfying whoosh, progress bar fills to next level.",
+    "14-15s: Phone-in-hand product shot with CTA pulse."
+  ],
+  "visual_direction": "Lean into the game's existing dark/moody DNA: rich #20232B background, deep #403F6D purple frames acting as the 'jar', and #FDBA4D amber balls as the hero accent that does all the lighting work. Studio-grade 3D Casual Abstract render — soft rim lights, shallow DOF, glossy subsurface on the balls so they read like honey or molten gold. Borrow the archetype's slow ASMR pour cadence and macro framing, but swap pastel kitchen for premium 'puzzle in a jar' minimalism. Every impact triggers a subtle screen-shake and particle sparkle in the accent hue.",
+  "text_overlays": [
+    "No. 001 BOUNCE BLAST",
+    "Pour…",
+    "Tap to place",
+    "CHAIN REACTION!",
+    "Level 1 Complete",
+    "Can you clear it?"
+  ],
+  "cta": "Play Free",
+  "rationale": "We keep the winning ASMR pour-and-fill cadence but reskin it entirely in Bounce Blast's dark-purple + amber palette to fix the 22/100 visual fit and avoid the off-brand pastel kitchen. The pour becomes the literal block-placement → physics-cascade payoff, anchoring the satisfaction beat to the actual core loop so users who tap through see the same mechanic they were sold. Ship this as the hero variant for 25-55 casual puzzle audiences; A/B the 'No. 001' label vs. a pure gameplay cold-open to isolate which drives IPM.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, 3D Casual Abstract style, macro studio render of glossy amber #FDBA4D spheres pouring in a slow-motion stream into a deep purple #403F6D rounded-square grid 'jar', moody dark #20232B background, soft rim lighting, shallow depth of field, subtle golden particles, on-screen text 'No. 001 BOUNCE BLAST' in clean sans-serif top-center, premium mobile-game ad aesthetic, ultra-detailed, octane render",
+    "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style, top-down hero angle of a deep purple #403F6D puzzle grid mid chain-reaction with dozens of amber #FDBA4D balls bouncing and ricocheting off walls, motion blur trails, sparks and glow, dark moody #20232B vignette background, on-screen text 'CHAIN REACTION!' in bold yellow-orange, satisfying explosion of light, cinematic mobile ad still",
+    "Storyboard frame 3, aspect 9:16, 3D Casual Abstract style, clean centered composition of a finished puzzle grid in deep purple #403F6D against a #20232B background with a glowing amber #FDBA4D progress bar filling to 100%, single hero ball resting at center with soft caustics, on-screen text 'Level 1 Complete' in crisp white, calm satisfying afterglow, premium casual game render"
+  ]
+}

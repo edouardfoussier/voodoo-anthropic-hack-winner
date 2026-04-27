@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 20,
+  "mechanic_match": 15,
+  "audience_match": 45,
+  "overall": 22,
+  "rationale": "The \"fail · in-game\" hook is built around a hand-driven traffic/parking puzzle with collision fails — a fundamentally different mechanic from Paper.io 2's trail-drawing territory capture, so the gameplay shown would mislead users and tank IPM/retention. The muted gray/white/green palette also clashes hard with Paper.io's bright primary + neon accent identity, and there's no character or top-down arena read. Audience has partial overlap (broad casual puzzle players), but recommend NOT adapting this archetype as-is; if the team wants to test a \"fail\" hook, rebuild it natively around a near-miss trail crossing or a player getting cut off mid-capture."
+}

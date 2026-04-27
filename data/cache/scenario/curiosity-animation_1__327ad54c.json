@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_znUfUp8yK2BL4oFC4MCLdmMZ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfem5VZlVwOHlLMkJMNG9GQzRNQ0xkbU1aP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=a9sEy6elBQM91BqfbRcO7YaOui4xex3K%7Es85EZamh5PNrqd5saic-m3oAvLgMUwVdRbi2xotVHx%7EdrpYYnCTnwjTOp9LL7P%7EpkZXdJRdnZARFUwaa6CQpscqcK3z-CD6pedZ7CGfZt%7EeqZgK6N6rlSbaI6V4W0Nnar-I7NFx3EYVjCQ7Xc%7EPBra1L903SjhtUJYcLTlb28d9ogWo9TuKb3E%7EzXnupXLR7LGTVVbXjjiVGjXTYO-CkEjPCQEHylDjmWnaCAB-o6fmxOfbaumXsB5TuUVY4IDiXMxUw37ytCbwgjU8So8dkZ25jnxSw8bNExB24Os%7EnwoNy4fDOpQpZw__",
+  "job_id": "job_SzUwtMKoKSM7cUm5jGSi3xLP",
+  "asset_id": "asset_znUfUp8yK2BL4oFC4MCLdmMZ",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical aspect, minimalist 3D with abstract geometric shapes and a soft pastel background. POV close-up of the saturated red (#FF4C4C) Color Road ball charging toward a wall of mismatched navy (#152238) blocks on a dark ribbon track suspended over a pastel pink (#FADADD) cityscape. Color-swap gate flashes red just before impact, particles bursting in saturated pinks and reds. In-game HUD intact: score counter top-left ticking up, pause button top-right, coin tally. Overlay text reads 'Don't mismatch...'. No characters, clean geometric style. [Audio: no VO / driving competitive electro at 130 BPM / sharp color-swap zap at 1s, glass-shatter break-through at 2.5s, combo chime stack at 4s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

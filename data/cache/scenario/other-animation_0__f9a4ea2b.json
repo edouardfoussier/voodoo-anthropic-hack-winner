@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_q6i8NKZ4aRj3U8JAMV3MssWb?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcTZpOE5LWjRhUmozVThKQU1WM01zc1diP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=g8sHxTSR73M341fN7KYN7TXE7VikwpFNi7%7E%7ERmlkV1FJ3KnumsWMZoKNSykX6RvClszw6Q0ziB5B40oWtHqvvt1wXJhNLxv5aEOYTrSIvq0dG1%7EqYQ3GQ%7EtjsmEwIJYdredbBx1zLLCuDRO5WhRe-K5j6V7QASbVMGATLjvBfeLciYnMdt3rgc8uP6pJvwzCRYKVWUA-GOR8aQqrRKp2cYTSGOsJO1BKSla8tpQhAPlzPn%7EwI-Rf3NyIImxDz2wuh9Nat0N2TB9ZigPFhKCyCv394MbK7CDFEZieCYuG78R3E6gYsi1xJcDrnhtiEOJBnFx9VdlBVffC9mEjuI0aig__",
+  "job_id": "job_qUKB9CzTXXMpQszZHhZBr8ru",
+  "asset_id": "asset_q6i8NKZ4aRj3U8JAMV3MssWb",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical mobile ad still: Archery Clash! female protagonist in mid-draw pose, bowstring fully tensioned, arrow tip crackling with electric blue #2A9DF4 energy, frozen poster-style composition. Authentic in-game HUD visible \u2014 opponent health bar at top, dotted aiming trajectory arc, gear slot icons bottom corner, turn-based duel arena floor. Vibrant #2A9DF4 banner backdrop with #FFD700 burst rays radiating from the arrowhead, #32CD32 rarity glow accents. 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting. Bold yellow on-screen text overlay: 'PLAY NOW!'. Must match IP-Adapter Archery Clash! reference exactly \u2014 same character proportions, same UI chrome, same dueling stage. [Audio: VO 'One shot. One duel. Play now.' / punchy competitive 128bpm trap with brass stab / bowstring creak at 0.5s, electric crackle hum, deep boom on CTA pop-in at 2.8s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

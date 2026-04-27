@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "fc4a4cc6a7afe080",
+    "ad_unit_id": "fc4a4cc6a7afe080",
+    "app_id": "644c8bf45d8ef66c95a36ed2",
+    "advertiser_name": "StarGames: Slots mit Echtgeld",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/038b7c0332d382f1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/038b7c0332d382f1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/038b7c0332d382f1/preview",
+    "phashion_group": "fc4a4cc6a7afe080",
+    "share": null,
+    "first_seen_at": "2026-04-04T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Die StarGames-iOS-App macht Ihr Spiel flexibler! 🚀 Jetzt holen und Slots auf dem iPhone genießen.",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Extreme close-up of a man shouting with joy and excitement.",
+    "visual_action": "A man with a mustache screams with his mouth wide open against a bright yellow background.",
+    "text_overlay": "Echte Emotionen.",
+    "voiceover_transcript": "Echte Emotionen.",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Extreme close-up of a man shouting in celebration.",
+    "Display of the 'Lord of the Ocean' slot game on a mobile device.",
+    "Call to action screen offering 30 free spins with a download button.",
+    "Final branding screen featuring the StarGames logo and BVB 09 partnership."
+  ],
+  "on_screen_text": [
+    "STARGAMES",
+    "Echte Emotionen.",
+    "Ehrliches Spiel.",
+    "JETZT APP DOWNLOADEN",
+    "Bis zu 30 Freispiele bei Lord of the Ocean.",
+    "STARGAMES JETZT MAL EHRLICH.",
+    "BVB 09 PREMIUM PARTNER",
+    "Neukundenaktion. Gilt für die ersten drei Einzahlungen bis auf Widerruf. Min. Einzahlung je 10 €. Erlaubt nach Whitelist. Teilnahme ab 18. Suchtrisiko. Hilfe unter buwei.de. AGB gelten."
+  ],
+  "cta_text": "JETZT APP DOWNLOADEN",
+  "cta_timing_seconds": 6.0,
+  "palette_hex": [
+    "#FFCC00",
+    "#000000",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "German-speaking men aged 25-45 interested in sports betting and online casino games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017039999999999998
+}

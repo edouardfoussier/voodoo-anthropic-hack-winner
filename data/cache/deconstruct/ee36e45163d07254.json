@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "ee36e45163d07254",
+    "ad_unit_id": "ee36e45163d07254",
+    "app_id": "66d211d85ca5ed0dbdb92d59",
+    "advertiser_name": "Capybara Go!",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b94345d73af68e3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b94345d73af68e3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b94345d73af68e3/preview",
+    "phashion_group": "ee36e45163d07254",
+    "share": null,
+    "first_seen_at": "2026-03-18T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Keep calm and Capy on. 🦦 Dive into the world's chillest Roguelike adventure!",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A person with a distorted face filter acts as a 'noob' player holding a capybara plush.",
+    "visual_action": "A man with a large-mouth filter dances while holding a capybara plush on his shoulders.",
+    "text_overlay": "POV: Noobs who get their first Capybara",
+    "voiceover_transcript": null,
+    "emotional_pitch": "fail"
+  },
+  "scene_flow": [
+    "Showcases a 'noob' player with a silly face filter and basic capybara.",
+    "Transitions to a 'pro' player using a promo code for rewards.",
+    "Displays the 'pro' player with cool effects and sunglasses.",
+    "Ends with a call-to-action screen featuring the game logo and characters."
+  ],
+  "on_screen_text": [
+    "POV: Noobs who get their first Capybara",
+    "POV: You used code LUCKY2025 and got free rewards to level your Capybara",
+    "CAPYBARA GO!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#000000",
+    "#87CEEB"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Young casual gamers and Gen Z users who enjoy meme-driven content and capybaras.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016380000000000001
+}

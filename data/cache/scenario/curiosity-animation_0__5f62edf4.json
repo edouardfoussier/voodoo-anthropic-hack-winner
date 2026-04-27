@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_CnSKUM5GkSg7WG6jLvWQYWpq?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQ25TS1VNNUdrU2c3V0c2akx2V1FZV3BxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ia3VeIj648GJPQOuw5q4KvK0W0O5rIh7ZTUe83MHEOxZqL5w2WOpwR%7E383xp8W25kyzI1LtHAyw9OY00Q8XU8e0RGi7sARzBSJQU40z3p6nVTniKnuRDiX5vYf0aVlQH%7EbwnSoR5TAACCcl9G66oe9icj9jYtWveN4x7MSPzdUhlyFHuD3TamYiibcZHSGlMo8ZS7PL4Dx21KRxDj1ockyC82ibxeOnLD3Ps5JfB7oSP80zo54l-XUvPtRjrb7SWsBa9T6-qyWKuleiJKhwUSEi9sdz2nVS3Qnlfkra%7E-xbIizvtPZC0jjB8J0qFkgtY7lY9LWqG1FhQ8FWZEEHWpg__",
+  "job_id": "job_4xAeRBHyK2atja47nNd1QYzJ",
+  "asset_id": "asset_CnSKUM5GkSg7WG6jLvWQYWpq",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, Push'em All in-game moment: minimalist 3D sandy-green platform (#56a38b) floating in vibrant blue water (#2a7dfa), camera angled to reveal a stylized cross-section cutaway of the water beside the platform exposing flat-shaded cartoon sharks swimming underneath. On the platform surface: a dense crowd of bright red stickman figures (#e3001b) clustered near the edge, an expanding push-stick mechanic visible. Authentic game HUD: level progress timeline along the top, coin counter top-right, combo multiplier center. On-screen text overlay 'What's under the platform?' in bold white sans-serif. Bright, contrasting colors, simple stickman-like figures, minimalist 3D visual style, energetic competitive mood, no realism, no muted tones.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

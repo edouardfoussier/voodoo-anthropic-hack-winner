@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "6754558455",
+  "title": "POV: My 9PM Unwind Ritual",
+  "hook_3s": "POV: it's 9PM, kids are asleep — I open Marble Sort! and the first marbles *click* into their boxes.",
+  "scene_flow": [
+    "0-3s: Soft-lit POV of woman's hands holding phone in bed, lavender duvet, mug of tea on nightstand — phone screen shows Marble Sort! level loading. Overlay: 'POV: finally, me-time.'",
+    "3-7s: Full-screen gameplay capture — finger taps tray, marbles tumble onto the conveyor belt with satisfying physics thuds, sorting into matching colored boxes. ASMR-style click/plop SFX punched up.",
+    "7-11s: A near-miss — an orange marble drifts toward the wrong box; quick tap pauses the tray, marble redirects into the right box. Tiny dopamine sparkle.",
+    "11-14s: Level-clear burst, all boxes filled, confetti in soft pastels. Cut back to POV: woman exhales, small smile, shoulders drop.",
+    "14-15s: Logo lockup on lavender background with orange CTA button pulsing once."
+  ],
+  "visual_direction": "Lean fully into Marble Sort!'s soft lavender (#E5DFFF) and light-grey (#F0F0F8) palette with the orange (#FFB13B) reserved for overlays, CTA, and the level-clear burst. Clean 3D cartoon style with rounded marbles, glossy highlights, and a matte conveyor. Live-action bookends should mirror the same pastel palette (lavender bedding, warm bedside lamp) so the cut into gameplay feels seamless. Camera language: still, intimate, breathy — opposite of the hyped young-male archetype. ASMR sound design (marble clicks, soft conveyor hum) is the real hero.",
+  "text_overlays": [
+    "POV: finally, me-time",
+    "one tap. one marble. ahhh.",
+    "wait — wrong box!",
+    "nailed it ✨",
+    "your brain will thank you"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Marble Sort! rotation is all generic mechanic-explainer video with copy like \"get the right color to the right box\" — zero POV, zero lifestyle framing, zero ASMR satisfaction angle. This brief imports the trending POV/satisfaction archetype but reworks it for the actual 25-55 female casual audience (evening unwind ritual, not hyped guy diving on bed), giving UA a lifestyle-led test cell that's completely absent from the current lineup. Run as a 15s test against the existing mechanic-only creatives to isolate lifestyle hook lift.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic in-game screenshot of Marble Sort! mobile puzzle: top-down three-quarter view of a light grey (#F0F0F8) sorting machine with rounded trays holding glossy colored marbles (red, blue, green, yellow, orange), a moving conveyor belt below carrying marbles toward four labeled colored drop-boxes, soft lavender (#E5DFFF) background, vibrant orange (#FFB13B) level counter and tap indicator in the HUD, clean and colorful 3D cartoon style with soft rounded shapes, no characters on screen, on-screen text overlay in bold rounded orange font reading 'POV: finally, me-time', subtle motion blur on a falling marble, glossy highlights, mobile UI chrome with pause button top-left and level number top-center",
+    "Storyboard frame, aspect 9:16, in-game Marble Sort! moment: close-up on the conveyor belt as a single orange marble (#FFB13B) drifts toward a blue drop-box, a finger-tap ripple visible on the tray above pausing the release, other rounded pastel marbles queued in trays, lavender (#E5DFFF) background, light grey (#F0F0F8) machine housing, clean and colorful 3D cartoon style with soft rounded shapes, no characters, HUD shows level progress bar in orange, on-screen text overlay in rounded orange font reading 'wait — wrong box!', shallow depth of field, satisfying physics-tap puzzle aesthetic",
+    "Storyboard frame, aspect 9:16, level-clear celebration in Marble Sort!: all four colored drop-boxes filled to the top with matching glossy marbles, soft pastel confetti bursting upward, light grey (#F0F0F8) machine, lavender (#E5DFFF) background, orange (#FFB13B) 'LEVEL CLEAR' badge centered with a star icon, clean and colorful 3D cartoon style with soft rounded shapes, no characters on screen, mobile HUD intact with next-level arrow bottom-right, on-screen text overlay in bold rounded orange font reading 'nailed it ✨', calm satisfying mood"
+  ]
+}

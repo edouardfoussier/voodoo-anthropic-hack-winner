@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "f4bb97cd13237bcc",
+    "ad_unit_id": "f4bb97cd13237bcc",
+    "app_id": "67f9b33c67bda8def67d85d8",
+    "advertiser_name": "Fanatics Casino - Real Money",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b10b6c1aba1cd09/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b10b6c1aba1cd09/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b10b6c1aba1cd09/preview",
+    "phashion_group": "f4bb97cd13237bcc",
+    "share": null,
+    "first_seen_at": "2026-03-27T00:00:00",
+    "last_seen_at": "2026-04-18T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Last year we gave away $33M in FanCash rewards. Our accountant Fran says that's irresponsible. Players disagree.",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "An accountant reacts with anger to a high payout figure.",
+    "visual_action": "A woman in a white shirt and black vest looks at a document and shouts.",
+    "text_overlay": "OVER $33M IN FANCASH REWARDS LAST YEAR",
+    "voiceover_transcript": "Okay. Whose dumb idea was this?",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Fran, the Director of Accounting, reviews a document showing $33M in rewards.",
+    "Fran shouts in disbelief and frustration at the high payout amount.",
+    "The Fanatics Casino logo appears over the scene.",
+    "Fran continues to gesture angrily while legal disclaimers appear at the bottom."
+  ],
+  "on_screen_text": [
+    "OVER $33M IN FANCASH REWARDS LAST YEAR",
+    "Must be 21+. GAMBLING PROBLEM? CALL 1-800-GAMBLER. Paid endorsement. Total FanCash rewards varies by month. Cash terms apply. See Fanatics Casino app.",
+    "Fanatics Casino",
+    "FRAN Director of Accounting"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#FFFFFF",
+    "#000000",
+    "#4A7C82"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Adult sports fans and casual gamblers 21+ looking for high-payout casino platforms.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001174
+}

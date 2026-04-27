@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_7BFFQfqnQpHJzDmfUzaKzpSV?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfN0JGRlFmcW5RcEhKekRtZlV6YUt6cFNWP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=cfuZABjlyle7MIRmwbWX06SW6ImrRmKOt%7ENpC0E6arYUppgODBgxSLmiiHidVpIq5X%7EPZr7aFUhugFV2GIuPyBwGAvnp0WeVtxuyINhDvz--HMTJFbd60MatoTnm5LFsgMHfuIHq3u2jqvyLmwDz%7ExyHtjt4XJkT2mncQksx10NI-Gz1D71qbxa3P41P11FSpPRG6GuHotkCE2ZMRuxgDn%7EkhC--qap6UCsuHRs7ztJAO55VLbizbvoKKwtxdqzWuAb0xV6NN%7En5SSD1NlyYnhJpmSIL35J5XZYtJLf2i1FePu8inYsVBcf0Gpf-At5EOMnIwV9NtRRgGKtI3zDwnQ__",
+  "job_id": "job_BWddbbxZc2fMKQrFGgDH2kem",
+  "asset_id": "asset_7BFFQfqnQpHJzDmfUzaKzpSV",
+  "stub": false,
+  "prompt": "Storyboard frame 2, vertical 9:16, Classic 2D flat design with a traditional green felt aesthetic, Solitaire - Voodoo Card Game! fail moment: green felt background (#1A874B), white playing cards (#FFFFFF) with red suit pips (#E31C1B), the dropped Queen card tilted askew on the wrong foundation, a bright red 'X' burst and red screen-edge flash, timer in red ticking down, pulsing red undo button, bold white overlay text 'WRONG MOVE!' centered, no human characters, flat vector style, authentic in-game HUD with stockpile and foundation piles",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

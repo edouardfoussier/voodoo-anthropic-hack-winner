@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_xvVWAqQhhhPkgJ2THUpJbh94?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeHZWV0FxUWhoaFBrZ0oyVEhVcEpiaDk0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VIFUGWnksNvbsxLt25UjUWrnBcIkAV8-F8Tw9xoC6sXPq%7EV8IVNgzMiuRl8UgQ%7ENSfw1LIftfl3WDKnZg8zoDFFxn%7EMskqGet31A1H6AE7ScKiH8np13cOjxBrhT4l7PF9aWIa8KW%7EpL0GHaEAkF7Zd6-mENSkTA6LusyZ%7EW48t-gg%7ED-rUlr5W0CAIGtAfNq8JDCXkgEb7UqaozlFTgaKKKpO-jWrLwMb8ltdVeHIixO4C7e2vClOwSdfkaMhcygqZJtDxNfrvnkz7qVUH4rB%7EGUlls5Eqb7sfKPpFSWaRHu4%7ErrWjH3KMyeqhItNB4mM-6cTXN2358kg4EAqbZIw__",
+  "job_id": "job_NQcWQrAiSxejWthVQdCCCNs6",
+  "asset_id": "asset_xvVWAqQhhhPkgJ2THUpJbh94",
+  "stub": false,
+  "prompt": "Roof Rails authentic in-game frame, 9:16 vertical aspect, mid-action shot of the runner sliding on two parallel thin white rails stretched between two #5CD6FF cyan pastel skyscrapers high above a minimalist city, the balancing pole now extremely long and lined with #FFC824 yellow segments perfectly bridging both rails, #EAF6FA white clouds and clean sky background, diamond pickups sparkling along the rail path, HUD progress bar near-full and diamond counter ticking up, 3D minimalist simple geometry, bright pastel palette of #5CD6FF cyan, #EAF6FA white, #FFC824 yellow, clean uncluttered aesthetic, on-screen text overlay 'Watch the pole grow \ud83d\udfe1\ud83d\udfe1\ud83d\udfe1' in chunky white sans-serif center-screen. [Audio: VO 'Just collect\u2026 and slide' / upbeat energetic trap build 100 BPM / smooth metallic rail-slide whoosh, satisfying chime cascade on diamond pickups.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

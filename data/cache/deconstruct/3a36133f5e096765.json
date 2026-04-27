@@ -1,0 +1,64 @@
+{
+  "raw": {
+    "creative_id": "3a36133f5e096765",
+    "ad_unit_id": "3a36133f5e096765",
+    "app_id": "67e60a0330e9af9d804ebf65",
+    "advertiser_name": "ATHENA:Blood Twins",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/023d094685bba7e7/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/023d094685bba7e7/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/023d094685bba7e7/preview",
+    "phashion_group": "3a36133f5e096765",
+    "share": null,
+    "first_seen_at": "2026-04-12T00:00:00",
+    "last_seen_at": "2026-04-12T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid-fire introduction of iconic characters from 'The Seven Deadly Sins' anime.",
+    "visual_action": "Meliodas, Elizabeth, and Escanor are showcased in 3D with large letters appearing behind them.",
+    "text_overlay": "B E S T",
+    "voiceover_transcript": null,
+    "emotional_pitch": "celebrity"
+  },
+  "scene_flow": [
+    "Meliodas and Elizabeth are introduced with large letters 'B' and 'E' in the background.",
+    "Escanor and Ban are shown with letters 'S' and 'T' as the music builds.",
+    "Hawk the pig appears with letters 'A' and 'M', completing the phrase 'BEST TEAM'.",
+    "The full collaboration cast is revealed with the game title 'Athena Blood Twins' and the anime logo.",
+    "Final call-to-action screen featuring the game's original characters and a download prompt."
+  ],
+  "on_screen_text": [
+    "B",
+    "E",
+    "S",
+    "T",
+    "T",
+    "E",
+    "A",
+    "M",
+    "ATHENA BLOOD TWINS",
+    "The Seven Deadly Sins Dragon's Judgement",
+    "DOWNLOAD NOW",
+    "GET SSR HERO FOR FREE",
+    "ATHENA: Blood Twins"
+  ],
+  "cta_text": "DOWNLOAD NOW",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#0a0e14",
+    "#f5d142",
+    "#ffffff"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Fans of 'The Seven Deadly Sins' anime and mobile RPG players who enjoy high-quality 3D character collection games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0019329999999999998
+}

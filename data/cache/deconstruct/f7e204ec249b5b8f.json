@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "f7e204ec249b5b8f",
+    "ad_unit_id": "f7e204ec249b5b8f",
+    "app_id": "56fee3eff49ea42a540000d4",
+    "advertiser_name": "BURGER KING App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ea2cb1c5200c01e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ea2cb1c5200c01e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ea2cb1c5200c01e/preview",
+    "phashion_group": "f7e204ec249b5b8f",
+    "share": null,
+    "first_seen_at": "2026-04-02T00:00:00",
+    "last_seen_at": "2026-04-13T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Nottingham you’ve got a fresh new restaurant! Come on down we've got all your favourites and more!",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Sequential text reveal announcing a new location in Nottingham.",
+    "visual_action": "Text blocks 'NOTTINGHAM' and 'YOU'VE GOT A FRESH' appear on a cream background.",
+    "text_overlay": "NOTTINGHAM YOU'VE GOT A FRESH",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Text 'NOTTINGHAM' appears at the top of the frame.",
+    "Green banner with 'YOU'VE GOT A FRESH' slides in below the header.",
+    "Burger King logo and 'new restaurant' text appear in the center.",
+    "A large Whopper burger slides in from the right side over an orange background.",
+    "Final location details and address are displayed at the bottom."
+  ],
+  "on_screen_text": [
+    "NOTTINGHAM",
+    "YOU'VE GOT A",
+    "FRESH",
+    "new Burger King restaurant",
+    "Now open at Lady Bay Retail Park, Meadow Lane, NG2 3GZ"
+  ],
+  "cta_text": "Now open at Lady Bay Retail Park, Meadow Lane, NG2 3GZ",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#F5EBDC",
+    "#006A31",
+    "#D62300"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Local residents in Nottingham, UK, interested in fast food and new dining locations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001569
+}

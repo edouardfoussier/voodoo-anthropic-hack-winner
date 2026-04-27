@@ -1,0 +1,4462 @@
+{
+  "count": 405,
+  "available_networks": [
+    "Admob",
+    "Applovin",
+    "BidMachine",
+    "Digital Turbine",
+    "Facebook",
+    "InMobi",
+    "Instagram",
+    "Meta Audience Network",
+    "Mintegral",
+    "Moloco",
+    "Supersonic",
+    "TikTok",
+    "Unity",
+    "Vungle",
+    "Youtube"
+  ],
+  "ad_units": [
+    {
+      "id": "0e7dd2e0642e1a26",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Youtube",
+      "phashion_group": "0e7dd2e0642e1a26",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-30",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "0e7dd2e0642e1a26",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Slide, jump and push opponents to win the race."
+        },
+        {
+          "id": "4fad3a6caf8736e2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Download",
+          "message": "Beat other players, play now!"
+        },
+        {
+          "id": "6e2ee599491a6170",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Can you beat my score?"
+        },
+        {
+          "id": "6eb38d924ba8077a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Most downloaded game of 2025"
+        },
+        {
+          "id": "72a24695cecf477c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Let\u00f6lt\u00e9s",
+          "message": "It is summer time: play this refreshing game while chilling on the beach"
+        },
+        {
+          "id": "771b4f15127544fd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Reach to the end of the water slide"
+        },
+        {
+          "id": "7e2f02f15a9eb0c6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Downloaden",
+          "message": "Pushing opponents isn't cheating, it's being smart enough to win the race"
+        },
+        {
+          "id": "bec1dec05c0c5086",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Best game of 2025 on AppStore! Install Now!"
+        },
+        {
+          "id": "d545d82a03c0b26a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Race down giant water slides and knock out opponents. Last one splashing wins!"
+        },
+        {
+          "id": "f03effa45b84646e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4298b2e488f5fc45/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Let\u00f6lt\u00e9s",
+          "message": "1000+ levels to sharpen your racing skills"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.086105,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.074393
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.190781
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.126076
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.266189
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.256832
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.229153
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.130337
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.051912
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.1346
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.019456
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.01768
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.035727
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.088842
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.083582
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.172747
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.119077
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.57376
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.016261
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.015608
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.07573
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "5f14e6c60a8e081b",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Admob",
+      "phashion_group": "5f14e6c60a8e081b",
+      "ad_type": "full_screen",
+      "first_seen_at": "2025-09-28",
+      "last_seen_at": "2025-12-15",
+      "creatives": [
+        {
+          "id": "5f14e6c60a8e081b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a19002ee0b9f478/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a19002ee0b9f478/thumb",
+          "width": 512,
+          "height": 512,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": ""
+        },
+        {
+          "id": "83555e6950cd4173",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a19002ee0b9f478/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a19002ee0b9f478/thumb",
+          "width": 512,
+          "height": 512,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Reach to the end of the water slide, try to be the first."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.067751,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.021695
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.015102
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.664557
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "512x512",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 6,
+        "data": [
+          [
+            "61f2589ad6a1a37c2a983e16",
+            0.587767
+          ],
+          [
+            "66b806cfdc11ed0e01ae2a84",
+            0.216079
+          ],
+          [
+            "67a2cdd1bb6f28bcc67df6fd",
+            0.174526
+          ],
+          [
+            "62afa3b9b2481a1153573d7b",
+            0.008877
+          ],
+          [
+            "66cd5babbd94369d702c0bf5",
+            0.006376
+          ],
+          [
+            "6813c2d743283a3950be9115",
+            0.006376
+          ]
+        ]
+      }
+    },
+    {
+      "id": "07505d1e0c580b2d",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Youtube",
+      "phashion_group": "07505d1e0c580b2d",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-30",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "07505d1e0c580b2d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Best game of 2025 on AppStore! Install Now!"
+        },
+        {
+          "id": "49af7c7a0bd03fc5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "1000+ levels to sharpen your racing skills"
+        },
+        {
+          "id": "8a46ad616f3727b3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Slide, splash & overtake rivals! Race down epic water slides to the finish."
+        },
+        {
+          "id": "922042e54e8af4eb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Reach to the end of the water slide and beat all your opponents"
+        },
+        {
+          "id": "b7ec513e347a418d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Download",
+          "message": "Slide, jump and push opponents to win the race."
+        },
+        {
+          "id": "bbccbb155501d956",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Descargar",
+          "message": "The funniest BattleRoyale, 3 rounds to survive and be the best"
+        },
+        {
+          "id": "bbd937c59d9ed468",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "The wildest water park race is here. Bump, slide, and dive your way to victory!"
+        },
+        {
+          "id": "c7be812f0acaeb6d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Download",
+          "message": "Pushing opponents isn't cheating, it's being smart enough to win the race"
+        },
+        {
+          "id": "cb33c54b9e9b1cd7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "It is summer time: play this refreshing game while chilling on the beach"
+        },
+        {
+          "id": "ce8acccb42211f56",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Reach to the end of the water slide"
+        },
+        {
+          "id": "d7bf6647194e3adb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Let\u00f6lt\u00e9s",
+          "message": "Can you beat my score?"
+        },
+        {
+          "id": "f3e598fe933744c5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "button_text": "\u062a\u0646\u0632\u064a\u0644",
+          "message": ""
+        },
+        {
+          "id": "f63cb9b2ffd36d49",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fb09313ad8a1a7ee/thumb",
+          "video_duration": 39,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Beat other players, play now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.066366,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.075501
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.051048
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.076298
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.402395
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.046077
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.062126
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.094985
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.019739
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.223877
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.53917
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.354085
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.286601
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.420026
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "312a208315fa4e8b",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Youtube",
+      "phashion_group": "312a208315fa4e8b",
+      "ad_type": "video",
+      "first_seen_at": "2025-07-18",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "312a208315fa4e8b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/thumb",
+          "video_duration": 51,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Best game of 2025 on AppStore! Install Now!"
+        },
+        {
+          "id": "5aae26694a36ac67",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/thumb",
+          "video_duration": 51,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Race down giant water slides and knock out opponents. Last one splashing wins!"
+        },
+        {
+          "id": "631c03c959fedf4d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/thumb",
+          "video_duration": 51,
+          "width": 1280,
+          "height": 720,
+          "button_text": "Install",
+          "message": ""
+        },
+        {
+          "id": "c046c42fe67128ef",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/thumb",
+          "video_duration": 51,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Beat other players, play now!"
+        },
+        {
+          "id": "e1c51bda00ec7f7d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/thumb",
+          "video_duration": 51,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Can you beat my score?"
+        },
+        {
+          "id": "f8f0b1565b835af0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/thumb",
+          "video_duration": 51,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Reach to the end of the water slide"
+        },
+        {
+          "id": "f974519f2f49e54b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4e04ff6f49e64318/thumb",
+          "video_duration": 51,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Insane slides, epic splashes, endless fun. Dive into the ultimate aquapark race!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.065381,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.254151
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.04241
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.063912
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.341632
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.244167
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.01704
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.069217
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.075844
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.149254
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.104446
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.019066
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.106958
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.044673
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.040595
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.165157
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.018931
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.01911
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.101671
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.066706
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.1316
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.080317
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.050049
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "4c2b4bb036007d78",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Youtube",
+      "phashion_group": "4c2b4bb036007d78",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-06",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "4c2b4bb036007d78",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Race down giant water slides and knock out opponents. Last one splashing wins!"
+        },
+        {
+          "id": "69506c3e6e44ab7c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "\u062a\u0646\u0632\u064a\u0644",
+          "message": "1000+ levels to sharpen your racing skills"
+        },
+        {
+          "id": "9b262781f80a40d1",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "The wildest water park race is here. Bump, slide, and dive your way to victory!"
+        },
+        {
+          "id": "aab9bd250aa3b30a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Slide, splash & overtake rivals! Race down epic water slides to the finish."
+        },
+        {
+          "id": "b2df52a12b1e6052",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Reach to the end of the water slide and beat all your opponents"
+        },
+        {
+          "id": "e741916b6f5e7fd4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "\ub2e4\uc6b4\ub85c\ub4dc",
+          "message": "Pushing opponents isn't cheating, it's being smart enough to win the race"
+        },
+        {
+          "id": "ee75dc8f27b58bef",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Reach to the end of the water slide"
+        },
+        {
+          "id": "f7dd1e087e68c868",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbf6217ebd353357/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Most downloaded game of 2025"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.059848,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.348498
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.136819
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.030641
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.020638
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.065473
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.170777
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.407879
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.111293
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.266539
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            1.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "c884b222658771af",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Admob",
+      "phashion_group": "c884b222658771af",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-20",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "c884b222658771af",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9d8954ca8fb08dcc/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9d8954ca8fb08dcc/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9d8954ca8fb08dcc/thumb",
+          "video_duration": 39,
+          "width": 1080,
+          "height": 1920,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.058996,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.136385
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.150491
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.247375
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.018384
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.516965
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.211294
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.128069
+          ]
+        ],
+        "dimensions": [
+          [
+            "1080x1920",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 3,
+        "data": [
+          [
+            "5b6af0a62ba45d4cc3be4963",
+            0.591193
+          ],
+          [
+            "5b08105695a243116dc61488",
+            0.404765
+          ],
+          [
+            "63e4284fb3ae27633dc514ac",
+            0.004042
+          ]
+        ]
+      }
+    },
+    {
+      "id": "275f1cce15c70480",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Youtube",
+      "phashion_group": "275f1cce15c70480",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-31",
+      "last_seen_at": "2025-12-15",
+      "creatives": [
+        {
+          "id": "275f1cce15c70480",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/thumb",
+          "video_duration": 15,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Slide, jump and push opponents to win the race."
+        },
+        {
+          "id": "470c2bb738f37fd6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/thumb",
+          "video_duration": 15,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Can you beat my score?"
+        },
+        {
+          "id": "570dccdf2b77ae60",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/thumb",
+          "video_duration": 15,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Pushing opponents isn't cheating, it's being smart enough to win the race"
+        },
+        {
+          "id": "5b8088bbbf2659da",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/thumb",
+          "video_duration": 15,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Download",
+          "message": "It is summer time: play this refreshing game while chilling on the beach"
+        },
+        {
+          "id": "d91c318a2a6d7ac8",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8cdcf0271f943b3/thumb",
+          "video_duration": 15,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "1000+ levels to sharpen your racing skills"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.048113,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.052576
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.53447
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.319366
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.034967
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "5b29100e451c0e1a",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Admob",
+      "phashion_group": "5b29100e451c0e1a",
+      "ad_type": "video",
+      "first_seen_at": "2025-07-15",
+      "last_seen_at": "2026-03-26",
+      "creatives": [
+        {
+          "id": "5b29100e451c0e1a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/311da4f9c91d1f3a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/311da4f9c91d1f3a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/311da4f9c91d1f3a/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Reach to the end of the water slide, try to be the first."
+        },
+        {
+          "id": "8768a8a11f5f4772",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/311da4f9c91d1f3a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/311da4f9c91d1f3a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/311da4f9c91d1f3a/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.046597,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.218928
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.000278
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.019782
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.020725
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.010618
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.246313
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.080286
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.165714
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.009557
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.08798
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.299061
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.570833
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.019979
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.003741
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.146238
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.169939
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.03495
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 57,
+        "data": [
+          [
+            "63bf66db431cd37f4519985b",
+            0.154154
+          ],
+          [
+            "5e23873f4619bd404d6dc2da",
+            0.081638
+          ],
+          [
+            "6003a1872c02a637ab90a59c",
+            0.077687
+          ],
+          [
+            "5e4f80a23ea98373e0d56218",
+            0.068203
+          ],
+          [
+            "648dbb4f8bab0357537613f8",
+            0.063341
+          ],
+          [
+            "617c9cddab8d8c72fb9775ae",
+            0.042109
+          ],
+          [
+            "5b08105695a243116dc61488",
+            0.034188
+          ],
+          [
+            "5e58be1a5c6ace6abf5038bd",
+            0.031828
+          ],
+          [
+            "5fd1ed6dd42f23571972b9db",
+            0.031456
+          ],
+          [
+            "5c32f2eefe6cd0699349249c",
+            0.029149
+          ],
+          [
+            "5a7eb8b5b042f428fee15a9d",
+            0.027728
+          ],
+          [
+            "5b6af0a62ba45d4cc3be4963",
+            0.027193
+          ],
+          [
+            "621721193a75701d9ee8823f",
+            0.025404
+          ],
+          [
+            "67d60e5f35bfdea8c3955dae",
+            0.024743
+          ],
+          [
+            "64d586edce1be356690ba880",
+            0.024326
+          ],
+          [
+            "656eb6fd3f14674643c1378e",
+            0.024326
+          ],
+          [
+            "632beb7375b1a17ea27bbf59",
+            0.022482
+          ],
+          [
+            "635cbb62ce90095a9b61a255",
+            0.01842
+          ],
+          [
+            "6034cc135571137995427286",
+            0.018306
+          ],
+          [
+            "600bd258da48c072f10b252d",
+            0.01732
+          ],
+          [
+            "61e2345c3d12520306b8e8fe",
+            0.016568
+          ],
+          [
+            "60dd17fbf7f8696025003b25",
+            0.015479
+          ],
+          [
+            "594e558b0211a62379000526",
+            0.014851
+          ],
+          [
+            "5f82b63487801855d8afa6f0",
+            0.012001
+          ],
+          [
+            "5a72a9a00dc0bc2877db34be",
+            0.011472
+          ],
+          [
+            "55c57df202ac64f9c0003974",
+            0.009243
+          ],
+          [
+            "62d30403e0db3d2e654fcf15",
+            0.007819
+          ],
+          [
+            "5bd58e47e73902366a484bde",
+            0.005597
+          ],
+          [
+            "667cdab4b3675a3f87fc452b",
+            0.005309
+          ],
+          [
+            "5c834491e30acc45e37a98f5",
+            0.005089
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7034034f119fa872",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Admob",
+      "phashion_group": "7034034f119fa872",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-19",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "7034034f119fa872",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2539e5a7fba85411/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2539e5a7fba85411/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2539e5a7fba85411/thumb",
+          "video_duration": 39,
+          "width": 1080,
+          "height": 1920,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.044793,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.05399
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.211426
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.012737
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.101011
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.056488
+          ]
+        ],
+        "dimensions": [
+          [
+            "1080x1920",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 4,
+        "data": [
+          [
+            "5b6af0a62ba45d4cc3be4963",
+            0.507295
+          ],
+          [
+            "5b08105695a243116dc61488",
+            0.420043
+          ],
+          [
+            "63e4284fb3ae27633dc514ac",
+            0.067007
+          ],
+          [
+            "6233f2b6131d7f1d05f7c13e",
+            0.005655
+          ]
+        ]
+      }
+    },
+    {
+      "id": "99df233b5e7a8814",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Admob",
+      "phashion_group": "99df233b5e7a8814",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-19",
+      "last_seen_at": "2025-12-16",
+      "creatives": [
+        {
+          "id": "99df233b5e7a8814",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2faa2f638838d05c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2faa2f638838d05c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2faa2f638838d05c/thumb",
+          "video_duration": 29,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.039249,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.019635
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.131975
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.15478
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.037729
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.130602
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.298296
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 53,
+        "data": [
+          [
+            "666862670943b7d61c25f0da",
+            0.360424
+          ],
+          [
+            "67a2cdd1bb6f28bcc67df6fd",
+            0.082347
+          ],
+          [
+            "648dbb4f8bab0357537613f8",
+            0.070565
+          ],
+          [
+            "66b806cfdc11ed0e01ae2a84",
+            0.059485
+          ],
+          [
+            "59fb4848857212535823da8f",
+            0.04797
+          ],
+          [
+            "5536f6c5c59adfbd12000003",
+            0.047455
+          ],
+          [
+            "5ccf728fcede807efe6be3f9",
+            0.04009
+          ],
+          [
+            "5f77fb2980d18d5b4b5ef3d5",
+            0.03757
+          ],
+          [
+            "5e4f80a23ea98373e0d56218",
+            0.031717
+          ],
+          [
+            "65c81950fdef58527188aecb",
+            0.031478
+          ],
+          [
+            "5c32f2eefe6cd0699349249c",
+            0.020834
+          ],
+          [
+            "63bf66db431cd37f4519985b",
+            0.020685
+          ],
+          [
+            "5c834491e30acc45e37a98f5",
+            0.015093
+          ],
+          [
+            "5f8e4b3deafbc660c368822b",
+            0.014436
+          ],
+          [
+            "5d156ec1f835005571fc2f4b",
+            0.011192
+          ],
+          [
+            "61e2345c3d12520306b8e8fe",
+            0.010882
+          ],
+          [
+            "603e91e0ec1eca564752c75b",
+            0.009967
+          ],
+          [
+            "5f82b63487801855d8afa6f0",
+            0.008638
+          ],
+          [
+            "5d6fe76dededb24e5b7a1c12",
+            0.008184
+          ],
+          [
+            "6092747675acce4237b74cc2",
+            0.00792
+          ],
+          [
+            "621721193a75701d9ee8823f",
+            0.006564
+          ],
+          [
+            "58548fafb0d7b5604d00003f",
+            0.006499
+          ],
+          [
+            "5fd1ed6dd42f23571972b9db",
+            0.006302
+          ],
+          [
+            "64870d70b3ae27253f16c069",
+            0.006014
+          ],
+          [
+            "60954fda18b3d32efa1b4bc8",
+            0.005725
+          ],
+          [
+            "5da561c7fe0f7b44daa0e9a6",
+            0.004282
+          ],
+          [
+            "60dd17fbf7f8696025003b25",
+            0.003669
+          ],
+          [
+            "5e58be1a5c6ace6abf5038bd",
+            0.003139
+          ],
+          [
+            "654e29ffb3ae273eb613df9f",
+            0.002596
+          ],
+          [
+            "6297dd0a180097404eccfbcb",
+            0.002513
+          ]
+        ]
+      }
+    },
+    {
+      "id": "22d9a9ab5d349f4e",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Applovin",
+      "phashion_group": "22d9a9ab5d349f4e",
+      "ad_type": "video",
+      "first_seen_at": "2025-05-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "22d9a9ab5d349f4e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c6da10ffbb65c6ac/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c6da10ffbb65c6ac/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c6da10ffbb65c6ac/thumb",
+          "video_duration": 30,
+          "width": 720,
+          "height": 1280,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.029517,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.608446
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.548363
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.415299
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.340239
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.31646
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.426812
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.424019
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.955556
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.507918
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.369803
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.218895
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.013855
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.017202
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 110,
+        "data": [
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.412118
+          ],
+          [
+            "639cabb1ad4adb627a79e6bd",
+            0.048995
+          ],
+          [
+            "66b806cfdc11ed0e01ae2a84",
+            0.040262
+          ],
+          [
+            "64a8e532a930d8478994719b",
+            0.034193
+          ],
+          [
+            "6537d57233d10d22195bff4a",
+            0.032297
+          ],
+          [
+            "650c1c82b5746273f2aff851",
+            0.030177
+          ],
+          [
+            "672e37bd27e2c127a0f5c92f",
+            0.023842
+          ],
+          [
+            "61298fb033c4d633f9258426",
+            0.023027
+          ],
+          [
+            "66b79bee27e2c187bfdcefe6",
+            0.022637
+          ],
+          [
+            "5e4f80a23ea98373e0d56218",
+            0.017134
+          ],
+          [
+            "5d156ec1f835005571fc2f4b",
+            0.016975
+          ],
+          [
+            "5e23873f4619bd404d6dc2da",
+            0.012253
+          ],
+          [
+            "68769f0ceab9540b6cdbb590",
+            0.011888
+          ],
+          [
+            "639d16142b074e0c7f331b81",
+            0.011249
+          ],
+          [
+            "666862670943b7d61c25f0da",
+            0.011065
+          ],
+          [
+            "6793cec33055050af6c41b6e",
+            0.010976
+          ],
+          [
+            "6094e0b74e9f886e085b829d",
+            0.010472
+          ],
+          [
+            "675e3fa04fa3540c6e899057",
+            0.010096
+          ],
+          [
+            "5f53690a12caed7d82ca100f",
+            0.009559
+          ],
+          [
+            "603e91e0ec1eca564752c75b",
+            0.009369
+          ],
+          [
+            "5a0a835d4184e109130b3ed9",
+            0.009287
+          ],
+          [
+            "622ef915ac49f80f1009de6d",
+            0.006869
+          ],
+          [
+            "62a99a7c6f1168427a94904c",
+            0.006869
+          ],
+          [
+            "5f28820e7b9d1e3f1551d373",
+            0.005998
+          ],
+          [
+            "65afdc436022c565036868f1",
+            0.005939
+          ],
+          [
+            "68e9ae40c9038fd5d0be8652",
+            0.005554
+          ],
+          [
+            "61e6521a3ad6461fe93f9abd",
+            0.005453
+          ],
+          [
+            "6747c2af23b0558786ac9e29",
+            0.00536
+          ],
+          [
+            "5b73cb2fe5ebfb68f66ec8f0",
+            0.005322
+          ],
+          [
+            "60f8bcdd96c65249ee8bf405",
+            0.005287
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2f3a5f12d0e2f875",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Admob",
+      "phashion_group": "2f3a5f12d0e2f875",
+      "ad_type": "full_screen",
+      "first_seen_at": "2026-04-09",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "2f3a5f12d0e2f875",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a37b9fa3ad50416/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a37b9fa3ad50416/thumb",
+          "width": 512,
+          "height": 512,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": ""
+        },
+        {
+          "id": "f37be7bd8aa1b11d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a37b9fa3ad50416/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a37b9fa3ad50416/thumb",
+          "width": 512,
+          "height": 512,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Reach to the end of the water slide, try to be the first."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.024355,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.232422
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "512x512",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 3,
+        "data": [
+          [
+            "61f2589ad6a1a37c2a983e16",
+            0.767724
+          ],
+          [
+            "5c32f2eefe6cd0699349249c",
+            0.147413
+          ],
+          [
+            "61659b8e1319054dd47eaff2",
+            0.084863
+          ]
+        ]
+      }
+    },
+    {
+      "id": "40bdb7d469d6ca3d",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Youtube",
+      "phashion_group": "40bdb7d469d6ca3d",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-26",
+      "last_seen_at": "2026-01-05",
+      "creatives": [
+        {
+          "id": "40bdb7d469d6ca3d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c9688a2aa8b3102/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c9688a2aa8b3102/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c9688a2aa8b3102/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Most downloaded game of 2025"
+        },
+        {
+          "id": "59157553300b89ba",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c9688a2aa8b3102/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c9688a2aa8b3102/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c9688a2aa8b3102/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "aquapark.io",
+          "button_text": "Install",
+          "message": "Reach to the end of the water slide"
+        },
+        {
+          "id": "647a2166e11dd229",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c9688a2aa8b3102/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c9688a2aa8b3102/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c9688a2aa8b3102/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "button_text": "Install",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.023287,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.927904
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.911142
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.77403
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.547418
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.725882
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.082749
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "3a63e1eafc007bb1",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Applovin",
+      "phashion_group": "3a63e1eafc007bb1",
+      "ad_type": "playable",
+      "first_seen_at": "2024-07-02",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "3a63e1eafc007bb1",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de6058be1a512253/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de6058be1a512253/thumb",
+          "html_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/de6058be1a512253/index.html?",
+          "width": 320,
+          "height": 480,
+          "button_text": "GET",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "other"
+      ],
+      "share": 0.017458,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.929731
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.689645
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.544447
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.187187
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.233581
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.181618
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.169447
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.350415
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.616668
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.460131
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.349226
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.022104
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.081155
+          ]
+        ],
+        "dimensions": [
+          [
+            "320x480",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 91,
+        "data": [
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.392989
+          ],
+          [
+            "639cabb1ad4adb627a79e6bd",
+            0.085814
+          ],
+          [
+            "672e37bd27e2c127a0f5c92f",
+            0.040674
+          ],
+          [
+            "61298fb033c4d633f9258426",
+            0.03794
+          ],
+          [
+            "6537d57233d10d22195bff4a",
+            0.028467
+          ],
+          [
+            "666862670943b7d61c25f0da",
+            0.018332
+          ],
+          [
+            "6793cec33055050af6c41b6e",
+            0.018184
+          ],
+          [
+            "675e3fa04fa3540c6e899057",
+            0.017857
+          ],
+          [
+            "66b806cfdc11ed0e01ae2a84",
+            0.017425
+          ],
+          [
+            "6094e0b74e9f886e085b829d",
+            0.017348
+          ],
+          [
+            "5f53690a12caed7d82ca100f",
+            0.016966
+          ],
+          [
+            "64a8e532a930d8478994719b",
+            0.013686
+          ],
+          [
+            "639d16142b074e0c7f331b81",
+            0.012474
+          ],
+          [
+            "60f8bcdd96c65249ee8bf405",
+            0.01212
+          ],
+          [
+            "5e4f80a23ea98373e0d56218",
+            0.011414
+          ],
+          [
+            "5d156ec1f835005571fc2f4b",
+            0.011035
+          ],
+          [
+            "68769f0ceab9540b6cdbb590",
+            0.010965
+          ],
+          [
+            "5f28820e7b9d1e3f1551d373",
+            0.010924
+          ],
+          [
+            "648dbb4f8bab0357537613f8",
+            0.010094
+          ],
+          [
+            "65afdc436022c565036868f1",
+            0.009839
+          ],
+          [
+            "61e6521a3ad6461fe93f9abd",
+            0.009035
+          ],
+          [
+            "6747c2af23b0558786ac9e29",
+            0.008879
+          ],
+          [
+            "5b73cb2fe5ebfb68f66ec8f0",
+            0.008817
+          ],
+          [
+            "61e2345c3d12520306b8e8fe",
+            0.008259
+          ],
+          [
+            "650c1c82b5746273f2aff851",
+            0.007908
+          ],
+          [
+            "68e9ae40c9038fd5d0be8652",
+            0.007439
+          ],
+          [
+            "5b8cd1211c925152b6772f58",
+            0.007367
+          ],
+          [
+            "604c4f2731046978093077ea",
+            0.007352
+          ],
+          [
+            "6770b9833cdce7c615ca0df6",
+            0.006347
+          ],
+          [
+            "64d586edce1be356690ba880",
+            0.00627
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c6869193572f6d91",
+      "app_id": "5c785cce5c6ace5ec53f23d8",
+      "network": "Unity",
+      "phashion_group": "c6869193572f6d91",
+      "ad_type": "playable",
+      "first_seen_at": "2025-01-11",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "c6869193572f6d91",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5100276f6d7a6c29/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5100276f6d7a6c29/thumb",
+          "html_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5100276f6d7a6c29/assets/671f59a84e1e72957ee367cf/62ad395a-c4fa-456f-902c-c02a42adf248.html?dev_nomraid=1&demo=true",
+          "width": 1080,
+          "height": 2220,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "other"
+      ],
+      "share": 0.01582,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.107755
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.034684
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.39725
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.420457
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.299138
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1080x2220",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 10,
+        "data": [
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.673518
+          ],
+          [
+            "644f6724aa5632568e2c653a",
+            0.085756
+          ],
+          [
+            "648dbb4f8bab0357537613f8",
+            0.080077
+          ],
+          [
+            "6515950e4b00ee1241179ca0",
+            0.076943
+          ],
+          [
+            "65346de1e739022899a48605",
+            0.037312
+          ],
+          [
+            "5e1fcb0a6ac3604c2292d483",
+            0.019699
+          ],
+          [
+            "5e4f80a23ea98373e0d56218",
+            0.01142
+          ],
+          [
+            "57a8fbb00211a6ce7e00033c",
+            0.009564
+          ],
+          [
+            "6741873b5461024609f9f169",
+            0.004172
+          ],
+          [
+            "604c4f2731046978093077ea",
+            0.001539
+          ]
+        ]
+      }
+    }
+  ]
+}

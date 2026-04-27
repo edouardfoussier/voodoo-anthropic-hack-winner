@@ -1,0 +1,8 @@
+{
+  "archetype_id": "curiosity-animation",
+  "visual_match": 15,
+  "mechanic_match": 25,
+  "audience_match": 55,
+  "overall": 25,
+  "rationale": "Hard pass for Helix Jump. The archetype's muted earth-tone palette (dark slate, saddle brown, olive) and detailed 2D illustrative cross-section style are the polar opposite of the game's neon high-contrast 3D minimalism, and there's no narrative/character layer in Helix Jump to justify a curiosity-driven storytelling hook. The only weak bridge is a vertical descending camera motion (bunker levels ≈ helix levels), but forcing that adaptation would misrepresent the actual gameplay and likely drive low IPM despite broad audience overlap. Skip unless we test a heavily reworked \"descend through layers\" hybrid that swaps the art back to neon helix visuals."
+}

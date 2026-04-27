@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "a959ebc35cfdcb82",
+    "ad_unit_id": "a959ebc35cfdcb82",
+    "app_id": "6322100abd16da6f1e6d7ec2",
+    "advertiser_name": "Carnival Tycoon: Coin Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ba50f948ec57944c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ba50f948ec57944c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ba50f948ec57944c/preview",
+    "phashion_group": "a959ebc35cfdcb82",
+    "share": null,
+    "first_seen_at": "2025-12-26T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "NO DOWNLOAD. JUST TAP TO PLAY",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand uses a stylus to connect dots on a circular track to guide a car.",
+    "visual_action": "A stylus draws a yellow line between two dots while a car follows the path.",
+    "text_overlay": "Connect the dots, don't crash.",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "A hand uses a stylus to draw a path between two yellow dots on a circular track.",
+    "A second path is drawn between red dots, adding a second car to the track.",
+    "A third path is drawn between blue dots, and all three cars move simultaneously.",
+    "The cars successfully navigate the paths without colliding, completing the puzzle.",
+    "TikTok outro screen with a search bar for the game account."
+  ],
+  "on_screen_text": [
+    "Connect the dots, don't crash.",
+    "@official_wondergame",
+    "@official_wonder..."
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#F3F4F6",
+    "#3B82F6",
+    "#EF4444"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual gamers who enjoy minimalist logic puzzles and satisfying spatial challenges.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001624
+}

@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "d6c61e7aad499bc4",
+    "ad_unit_id": "d6c61e7aad499bc4",
+    "app_id": "5945b0784e7c854f2400a04e",
+    "advertiser_name": "Cashman Casino Slots Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/db223c4b122a7d23/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/db223c4b122a7d23/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/db223c4b122a7d23/preview",
+    "phashion_group": "d6c61e7aad499bc4",
+    "share": null,
+    "first_seen_at": "2026-01-08T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Get 5,000,000 FREE Virtual Coins!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A friendly blue ghost character bursts onto the screen with flying coins and gems.",
+    "visual_action": "A blue ghost pops up in the center while gold coins and green gems float around it.",
+    "text_overlay": "SPOOKY LINK GO GHOST",
+    "voiceover_transcript": "Go Ghost!",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A large animated blue ghost appears with the title 'SPOOKY LINK GO GHOST'.",
+    "The screen transitions to a 3x3 grid of the same ghost character laughing.",
+    "Gold coins and green gems erupt from the center, filling the screen.",
+    "The sequence loops, maintaining high-energy audio and visual feedback."
+  ],
+  "on_screen_text": [
+    "CASHMAN CASINO",
+    "SPOOKY LINK GO GHOST",
+    "18+. No real money or prizes can be won. Purchases / paid random items optional."
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#40E0D0",
+    " #FFD700",
+    " #008000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults 25-55 who enjoy social casino games and vibrant, themed slot machines.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0012239999999999998
+}

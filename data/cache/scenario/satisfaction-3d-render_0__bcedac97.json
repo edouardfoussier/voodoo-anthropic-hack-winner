@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_4SV21j3WeRB3tpmXK6i5eGkE?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNFNWMjFqM1dlUkIzdHBtWEs2aTVlR2tFP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=eGI3f8WPYmaZdLVfInCTpL-Wt-O5aIa7Bryo6RRrbUwggd8cdbvXu3sojMz6oPoLpWdMTYGcqFv1Z0P00R11nsTdmuNdcXu1x8%7Eyt8rdZynzdQUhkEwfP4C%7E-oc8Yyfq%7EuB9FjRv0XPD0oFI7qQPpnbU0aq6g93UG00bomERo-ZhnG%7EtLe5TfN8P6Nw6QX0FqORZiFPypQ4-O5eg5kiTAeXbkf9qDwybJsQszCupzbV47qbpoanWfJLJJ4QAYK2wR2wteYZ0L-7-WpoJZvG2vTXzKvNZC-xRtvWtLD4%7Es%7EXPH913waSgtzx9-5AyTMVlYpAQgI%7EAXh62O5s%7EQ8eb4Q__",
+  "job_id": "job_XDRwVLxuD591cPhtyFFc53BC",
+  "asset_id": "asset_4SV21j3WeRB3tpmXK6i5eGkE",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, macro close-up of glossy vibrant orange (#FFB13B) marbles pouring in slow motion from a soft rounded light grey (#F0F0F8) tray into a clear cartoon box labeled 'ORANGE', seamless lavender (#E5DFFF) studio background, on-screen text 'No. 048 \u2014 MARBLE SORT' in bold rounded orange typography, Clean and colorful 3D cartoon style with soft, rounded shapes, soft studio lighting, shallow depth of field, premium ASMR product-shot aesthetic",
+  "model_id": "flux.1-dev"
+}

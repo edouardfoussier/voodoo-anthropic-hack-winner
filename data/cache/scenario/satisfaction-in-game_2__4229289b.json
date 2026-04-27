@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_pZ45XDajuFrGH2fz7rgCfRZt?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcFo0NVhEYWp1RnJHSDJmejdyZ0NmUlp0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=dWWbmjil8ahwgftp6CWxNCno04%7E82dYPUaMj46dxCm%7EDf4iJtBfaNJJ5CxN5wlhcPRjSq%7Ekg7YT892YnGQEn4wvzvVKxatalmiBesTES1Uyo61V-av92dyTyljguPYmbfbyZYofke5SNxiEJv2Dbqe3aTTFInUpCcObsYSs4yZL7C-gSzVNHnRnbFjEXtw9eiAi%7EqfJkmV64bMNe4lN-25LRyu1qX51blRWFkgPUhrDNnzdoqxRq3S1MOn49lsrjkwp-U84vlcPyFy%7EyffIMvd3Epy0IuVag9VE0JOpy9RH2FlWWKkmHnEKGeKzMgneH1eYvQ-pGx1xyYgKqHaO25w__",
+  "job_id": "job_rdEVLWYBsJcZ5pJwtLqzdRyd",
+  "asset_id": "asset_pZ45XDajuFrGH2fz7rgCfRZt",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, low-poly 3D bright colorful cartoonish style, dramatic low-angle of a massive black hole dominating a shrinking cartoon cityscape of orange #FF9800 rooftops with cyan #29B6F6 rivers cutting through, glowing yellow #FFEB3B '#1' leaderboard badge in the upper right, energetic competitive mood, bottom overlay text 'Tap to Play' in bold yellow.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

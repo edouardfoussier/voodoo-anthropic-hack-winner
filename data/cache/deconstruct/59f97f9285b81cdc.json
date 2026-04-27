@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "59f97f9285b81cdc",
+    "ad_unit_id": "59f97f9285b81cdc",
+    "app_id": "5b8e9647a2750e6598c510a7",
+    "advertiser_name": "Papa Murphy’s Take+Bake Pizza",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9dec29a42bbbbc77/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9dec29a42bbbbc77/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9dec29a42bbbbc77/preview",
+    "phashion_group": "59f97f9285b81cdc",
+    "share": null,
+    "first_seen_at": "2026-04-08T00:00:00",
+    "last_seen_at": "2026-04-13T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Get 50% Off Any Pizza, now through Monday! Order online with code 50PIZZA.\nOnline only. Exclusions apply.",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-quality close-ups of fresh pizza ingredients being sliced and prepared.",
+    "visual_action": "Rapid cuts of slicing tomatoes, kneading dough, and chopping green peppers.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Close-up montage of fresh ingredients being sliced and dough being kneaded.",
+    "A hand sprinkles a generous amount of shredded cheese onto a sauced pizza base.",
+    "The pizza is shown baking in an oven followed by a cheese-pull shot of a slice.",
+    "A macro shot of a hot pepperoni pizza.",
+    "Final graphic overlay showing a 50% off discount and promo code."
+  ],
+  "on_screen_text": [
+    "50% OFF Pizza",
+    "ALL SIZES • ALL CRUSTS*",
+    "CODE: 50PIZZA",
+    "4.8 to 4.13"
+  ],
+  "cta_text": "CODE: 50PIZZA",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#D32F2F",
+    "#FFFFFF",
+    "#388E3C"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Hungry adults and families looking for a high-value meal deal.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001497
+}

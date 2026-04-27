@@ -1,0 +1,29 @@
+{
+  "archetype_id": "fail-in-game",
+  "target_game_id": "1345968745",
+  "title": "Why Is Level 27 So Hard? — Helix Near-Miss Fail",
+  "hook_3s": "A neon ball plummets down a spinning helix tower, grazes a green ring, then SMACKS a red trap — screen flashes \"WHY IS THIS LEVEL SO HARD?\"",
+  "scene_flow": [
+    "0-3s: Cold open mid-fall. Cyan ball ricochets through three tight gaps in a rotating tower, combo multiplier x3 popping on screen — no setup, pure kinetic hook.",
+    "3-7s: Finger drags to rotate the tower; ball threads two more gaps, x5 multiplier flares. A red trap platform rotates into view at the last second.",
+    "7-10s: SMASH — ball clips the red ring, screen shakes, neon shatter particles, big red 'FAIL' stamp. Overlay: 'WHY IS THIS LEVEL SO HARD?'",
+    "10-13s: Quick replay slowed 50%, arrow points at the exact pixel of the missed gap. Overlay: 'CAN YOU BEAT IT?'",
+    "13-15s: Tower resets, ball hovers above gap, finger taps. CTA card slams in over the helix: 'PLAY FREE'."
+  ],
+  "visual_direction": "Lean fully into Helix Jump's signature 3D minimalist tower: a single vertical cylindrical axis with stacked disc platforms in soft pastel blue/lavender, a glossy cyan (#5CE1E6) ball as the only hero object, neon green (#39FF14) safe rings and aggressive red (#FF0000) trap segments. Soft top-down sky background, subtle ambient shadows, no extra props or characters. Camera stays locked in the iconic Helix Jump portrait framing — tower centered, ball roughly center-screen, platforms stretching up and down out of frame. Motion language is all rotation + bounce + smash particles; HUD overlays (score number top-center, multiplier badge, level pill) match the real in-game chrome.",
+  "text_overlays": [
+    "LEVEL 27",
+    "x3 COMBO!",
+    "WHY IS THIS LEVEL SO HARD?",
+    "99% FAIL HERE",
+    "CAN YOU BEAT IT?",
+    "PLAY FREE"
+  ],
+  "cta": "PLAY FREE",
+  "rationale": "Voodoo's current Helix Jump rotation is almost entirely no-copy gameplay loops and silent playables — there is zero \"fail-bait / can you beat it?\" framing in market, even though that hook is the trending winner in the archetype scan. This brief imports only the proven \"WHY IS THIS LEVEL SO HARD?\" overlay pattern and welds it to an authentic helix near-miss, giving UA a copy-driven CTR lift angle the existing 15 creatives don't cover. Ship as a 15s video first, then port the same fail beat into the Unity playable to A/B against the silent playables already live.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic Helix Jump in-game screenshot: a glossy cyan #5CE1E6 ball mid-bounce on a rotating vertical 3D helix tower made of stacked circular disc platforms, one platform segment glowing danger red #FF0000 directly below the ball, a neon green #39FF14 safe gap ring just passed, soft pastel lavender sky background, top-down portrait camera locked on tower, score '12,480' top-center and 'LEVEL 27' pill HUD, bold white sans-serif overlay text 'WHY IS THIS LEVEL SO HARD?' across middle of screen, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, no extra props, clean mobile game UI chrome, high contrast, crisp render",
+    "Storyboard frame 1, aspect 9:16, authentic Helix Jump gameplay still: cyan #5CE1E6 ball smashing through a neon green #39FF14 ring on a rotating helix tower of stacked disc platforms, bright shatter particles, red #FF0000 trap segment visible on next platform below, multiplier badge 'x3 COMBO!' flaring in upper third, level number HUD pill, soft light background, portrait camera, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, in-game UI chrome only",
+    "Storyboard frame 2, aspect 9:16, authentic Helix Jump fail moment: cyan #5CE1E6 ball colliding with a glowing red #FF0000 trap segment on the helix tower, red shockwave ring, screen-edge red vignette, broken disc particles, neon green #39FF14 safe ring visible above, large bold white overlay 'CAN YOU BEAT IT?' centered, score HUD frozen top-center, 3D minimalist with bright contrasting colors and simple geometric shapes, soft pastel background, portrait orientation, no characters, locked Helix Jump camera framing"
+  ]
+}

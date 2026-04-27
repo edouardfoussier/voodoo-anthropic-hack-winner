@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "1bb1e0587e8a4553",
+    "ad_unit_id": "1bb1e0587e8a4553",
+    "app_id": "5bb08296441af15f1bd3ced4",
+    "advertiser_name": "BitLife - Life Simulator",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b01356323cf70c32/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b01356323cf70c32/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b01356323cf70c32/preview",
+    "phashion_group": "1bb1e0587e8a4553",
+    "share": null,
+    "first_seen_at": "2026-03-02T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A person celebrates their 18th birthday with a cake and a sudden, loud scream.",
+    "visual_action": "A person in a hoodie claps in front of a birthday cake, then screams intensely into the camera.",
+    "text_overlay": "Me at 18 in BitLife: 24 felonies, 67 exes, and banned from Canada 💀",
+    "voiceover_transcript": "Saeng-il chuk-ha ham-ni-da... [Scream]",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Person sings 'Happy Birthday' in Korean while clapping over a cake.",
+    "Sudden transition to the person screaming loudly with a wide-open mouth.",
+    "The person stops screaming and stares blankly at the candles.",
+    "The person resumes clapping and prepares to blow out the candles."
+  ],
+  "on_screen_text": [
+    "Me at 18 in BitLife: 24 felonies, 67 exes, and banned from Canada 💀"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#221F1E",
+    "#B89B86",
+    "#E82C2C"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Gen Z and Millennial gamers who enjoy chaotic life-simulation gameplay and meme-driven humor.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016380000000000001
+}

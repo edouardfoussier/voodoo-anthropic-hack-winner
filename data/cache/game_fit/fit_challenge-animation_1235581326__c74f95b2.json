@@ -1,0 +1,8 @@
+{
+  "archetype_id": "challenge-animation",
+  "visual_match": 28,
+  "mechanic_match": 15,
+  "audience_match": 40,
+  "overall": 22,
+  "rationale": "This archetype is a meta/economy reward-bait hook (gems + countdown) typically used by mid-core RPG, match-3, or casino apps — it has zero connection to Flappy Dunk's tap-to-fly, hoop-scoring arcade loop, so installs would be heavily mis-qualified and D1 retention would crater. Visually, the dark navy/gold gem palette clashes with the game's warm beige + magenta cartoon look, and there's no character, hoop, or VS-screen signal to anchor recognition. Skip this archetype for Flappy Dunk; if testing reward-driven framing, rebuild around combo/score celebrations or a \"beat the opponent\" timer overlaid on actual gameplay instead."
+}

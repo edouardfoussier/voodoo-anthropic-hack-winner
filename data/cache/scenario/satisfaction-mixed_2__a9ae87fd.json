@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_dZG6hHB8GiRK4WLqfPmEFKm6?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZFpHNmhIQjhHaVJLNFdMcWZQbUVGS202P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Ptg6b5fN4uvSYcIEiXSrFg0HDB734j42s7Fl%7EbYiOXuB7n2z86j3-zZsr4SVv-a%7EhhyUVHlgplrlUt5lnDVwziNk%7EU6wmgzMKTw195bsG0wMidphSBC%7EZppVs59PpvEl0GhLpLPaqs8Gt4PBTmXvK0U-pZSE8Ene1CubHE7ojrhPr%7EOD-E32L89E4PoVK%7E25ntyCh6E5fwwUu6BpJdpGS%7EVOSLx-2hMepiivrKnb7MT-ACi8jatzIAoIIa9wBLgvb9l9oL5ZO28dC13hq%7EW0IEZdZTQ25gQ9eu-SbBKWVymgvEvgIVD2QYrY-OKw%7EwFPjMBE4cIG8iwynkD0WAZxUg__",
+  "job_id": "job_1hzCHZEBRnr4QZTYo6jArrSN",
+  "asset_id": "asset_dZG6hHB8GiRK4WLqfPmEFKm6",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, victory beat in Crowd City: enormous #FF0000 red stickman crowd filling 80% of the screen on a pastel low-poly city block, last few #00FF00 green stickmen being absorbed, timer reading '0:00', big white '#1 CITY \ud83c\udfc6' banner overlay, low-poly colorful 3D environment with simple stickman-like character models, bright contrasting primary colors against muted pastel buildings, authentic Crowd City top-down tilted camera and HUD chrome, no realistic humans, no extra logos",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

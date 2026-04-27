@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "62a2e8f39f899a03",
+    "ad_unit_id": "62a2e8f39f899a03",
+    "app_id": "68b660ee3c32aa7ac999e7e6",
+    "advertiser_name": "Sorting Master - Goods order",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01343e9ceb7d472b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01343e9ceb7d472b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01343e9ceb7d472b/preview",
+    "phashion_group": "62a2e8f39f899a03",
+    "share": null,
+    "first_seen_at": "2026-03-27T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Become the Sorting Master! Match 3 goods to clear the shelves. Relieve stress and train your brain.",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand sorts colorful corn on a shelf to create a match.",
+    "visual_action": "A hand taps an orange corn, moving it to a shelf with two other orange corns, causing them to clear with a satisfying effect.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Hand moves orange corn to complete a set of three on a wooden shelf.",
+    "Hand moves purple corn to complete a set of three on a wooden shelf.",
+    "Hand moves red corn to complete a set of three on a wooden shelf.",
+    "Hand moves blue corn to complete a set of three on a wooden shelf.",
+    "Transition to a final screen showing various grocery items and a 'Play' button."
+  ],
+  "on_screen_text": [
+    "SORTING MASTER!",
+    "Play"
+  ],
+  "cta_text": "Play",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#8B4513",
+    "#4CAF50",
+    "#FFD700"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual gamers who enjoy satisfying organization and sorting puzzles.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015760000000000001
+}

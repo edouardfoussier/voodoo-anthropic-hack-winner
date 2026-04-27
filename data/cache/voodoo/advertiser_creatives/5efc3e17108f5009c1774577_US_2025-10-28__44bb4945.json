@@ -1,0 +1,814 @@
+{
+  "count": 10,
+  "available_networks": [
+    "Digital Turbine",
+    "Supersonic",
+    "TikTok",
+    "Unity"
+  ],
+  "ad_units": [
+    {
+      "id": "897576119b3c8b2c",
+      "app_id": "5efc3e17108f5009c1774577",
+      "network": "Unity",
+      "phashion_group": "897576119b3c8b2c",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-29",
+      "last_seen_at": "2026-03-09",
+      "creatives": [
+        {
+          "id": "897576119b3c8b2c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ef3c0eda1698a94/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ef3c0eda1698a94/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ef3c0eda1698a94/thumb",
+          "video_duration": 29,
+          "width": 360,
+          "height": 640,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "other"
+      ],
+      "share": 0.5,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.389284
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.552176
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "360x640",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 3,
+        "data": [
+          [
+            "5f5aef3b86712b5600ee9c14",
+            0.515076
+          ],
+          [
+            "595fddd1591e9817130093e4",
+            0.284413
+          ],
+          [
+            "571097ea02ac64fa25000069",
+            0.200511
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ee62bb07d9c343ed",
+      "app_id": "5efc3e17108f5009c1774577",
+      "network": "Unity",
+      "phashion_group": "ee62bb07d9c343ed",
+      "ad_type": "playable",
+      "first_seen_at": "2025-10-29",
+      "last_seen_at": "2026-03-09",
+      "creatives": [
+        {
+          "id": "ee62bb07d9c343ed",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/79e40dfbe3964255/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/79e40dfbe3964255/thumb",
+          "html_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/79e40dfbe3964255/demand-creatives/assets/htmls/file-1601794044595.html?",
+          "width": 750,
+          "height": 1334,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "other"
+      ],
+      "share": 0.5,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.389284
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.552176
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "750x1334",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 3,
+        "data": [
+          [
+            "5f5aef3b86712b5600ee9c14",
+            0.515076
+          ],
+          [
+            "595fddd1591e9817130093e4",
+            0.284413
+          ],
+          [
+            "571097ea02ac64fa25000069",
+            0.200511
+          ]
+        ]
+      }
+    },
+    {
+      "id": "35bb7e24f01a7c61",
+      "app_id": "5efc3e17108f5009c1774577",
+      "network": "TikTok",
+      "phashion_group": "35bb7e24f01a7c61",
+      "ad_type": "video",
+      "first_seen_at": "2020-07-31",
+      "last_seen_at": "2026-02-02",
+      "creatives": [
+        {
+          "id": "35bb7e24f01a7c61",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b0573f4c7950c61/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b0573f4c7950c61/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b0573f4c7950c61/thumb",
+          "video_duration": 29,
+          "width": 800,
+          "height": 800,
+          "message": "Super fun game!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "800x800",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "1a7e166aa36d3c7a",
+      "app_id": "5efc3e17108f5009c1774577",
+      "network": "TikTok",
+      "phashion_group": "1a7e166aa36d3c7a",
+      "ad_type": "video",
+      "first_seen_at": "2020-07-31",
+      "last_seen_at": "2026-03-12",
+      "creatives": [
+        {
+          "id": "1a7e166aa36d3c7a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/thumb",
+          "video_duration": 29,
+          "width": 800,
+          "height": 800,
+          "message": "Super fun game!"
+        },
+        {
+          "id": "6899954979134f45",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/thumb",
+          "video_duration": 29,
+          "width": 800,
+          "height": 800,
+          "message": "\u0e40\u0e01\u0e21\u0e19\u0e35\u0e49\u0e2a\u0e19\u0e38\u0e01\u0e21\u0e32\u0e01\u0e40\u0e01\u0e21\u0e2a\u0e38\u0e14\u0e2a\u0e19\u0e38\u0e01\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e21\u0e35\u0e21\u0e32"
+        },
+        {
+          "id": "8724d35531cdac01",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/thumb",
+          "video_duration": 29,
+          "width": 800,
+          "height": 800,
+          "message": "Game super menyenangkan!"
+        },
+        {
+          "id": "fdd21ed32f0da1be",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/64c01bba94e24c7a/thumb",
+          "video_duration": 29,
+          "width": 800,
+          "height": 800,
+          "message": "\u0e40\u0e01\u0e21\u0e2a\u0e38\u0e14\u0e2a\u0e19\u0e38\u0e01\u0e17\u0e35\u0e48\u0e40\u0e04\u0e22\u0e21\u0e35\u0e21\u0e32"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "800x800",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "7a1f1aa69d7f6d66",
+      "app_id": "5efc3e17108f5009c1774577",
+      "network": "TikTok",
+      "phashion_group": "7a1f1aa69d7f6d66",
+      "ad_type": "video",
+      "first_seen_at": "2022-02-07",
+      "last_seen_at": "2026-02-07",
+      "creatives": [
+        {
+          "id": "7a1f1aa69d7f6d66",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7af3909e6ad2eae7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7af3909e6ad2eae7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7af3909e6ad2eae7/thumb",
+          "video_duration": 24,
+          "width": 720,
+          "height": 1280,
+          "message": "The most addictive game!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "ed2ff038f19f2da6",
+      "app_id": "5efc3e17108f5009c1774577",
+      "network": "TikTok",
+      "phashion_group": "ed2ff038f19f2da6",
+      "ad_type": "video",
+      "first_seen_at": "2020-08-28",
+      "last_seen_at": "2026-02-13",
+      "creatives": [
+        {
+          "id": "ed2ff038f19f2da6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c024caca01c2e04/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c024caca01c2e04/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c024caca01c2e04/thumb",
+          "video_duration": 30,
+          "width": 720,
+          "height": 1280,
+          "message": "The most addictive game"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "73999ad2c7ca9407",
+      "app_id": "5efc3e17108f5009c1774577",
+      "network": "TikTok",
+      "phashion_group": "73999ad2c7ca9407",
+      "ad_type": "video",
+      "first_seen_at": "2020-09-09",
+      "last_seen_at": "2026-03-08",
+      "creatives": [
+        {
+          "id": "73999ad2c7ca9407",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/907d523d62e5747c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/907d523d62e5747c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/907d523d62e5747c/thumb",
+          "video_duration": 29,
+          "width": 720,
+          "height": 720,
+          "message": "Game super menyenangkan!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "720x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "0bf45ae3d0e87b1e",
+      "app_id": "5efc3e17108f5009c1774577",
+      "network": "TikTok",
+      "phashion_group": "0bf45ae3d0e87b1e",
+      "ad_type": "video",
+      "first_seen_at": "2021-01-08",
+      "last_seen_at": "2026-03-28",
+      "creatives": [
+        {
+          "id": "0bf45ae3d0e87b1e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ad9e677816b78bc/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ad9e677816b78bc/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ad9e677816b78bc/thumb",
+          "video_duration": 29,
+          "width": 720,
+          "height": 1280,
+          "message": "The most addictive game"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "ce315c56eac91b0e",
+      "app_id": "5efc3e17108f5009c1774577",
+      "network": "TikTok",
+      "phashion_group": "ce315c56eac91b0e",
+      "ad_type": "video",
+      "first_seen_at": "2020-08-07",
+      "last_seen_at": "2025-12-11",
+      "creatives": [
+        {
+          "id": "ce315c56eac91b0e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b08f5186dd466b0e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b08f5186dd466b0e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b08f5186dd466b0e/thumb",
+          "video_duration": 29,
+          "width": 800,
+          "height": 800,
+          "message": "Super fun game!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "800x800",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "bf1c7f9b44da17df",
+      "app_id": "5efc3e17108f5009c1774577",
+      "network": "TikTok",
+      "phashion_group": "bf1c7f9b44da17df",
+      "ad_type": "video",
+      "first_seen_at": "2022-02-07",
+      "last_seen_at": "2025-12-27",
+      "creatives": [
+        {
+          "id": "bf1c7f9b44da17df",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bff0f5a3b377905e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bff0f5a3b377905e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bff0f5a3b377905e/thumb",
+          "video_duration": 24,
+          "width": 720,
+          "height": 1280,
+          "message": "The most addictive game!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": null,
+      "breakdown": {
+        "date": [],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    }
+  ]
+}

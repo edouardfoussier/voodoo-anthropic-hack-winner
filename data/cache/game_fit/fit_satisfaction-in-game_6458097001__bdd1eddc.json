@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 25,
+  "mechanic_match": 15,
+  "audience_match": 20,
+  "overall": 20,
+  "rationale": "This is a block-puzzle \"SMART/GENIUS/PSYCHOPATH\" satisfaction hook — the visual language (grid filling, green palette, IQ-tier text overlay) belongs to casual puzzle/woodoku-style games, not a 3D PvP archery duel. Frictions: no aiming/trajectory, no character, no weapon fantasy, and the audience it pulls (casual puzzle players, often older/female-skewing) is misaligned with Archery Clash's young-male competitive PvP target. Skip this archetype unless you're testing a deliberate broad-audience puzzle-bait hook with a hard pivot to archery gameplay in seconds 3-5, and even then expect poor post-install retention."
+}

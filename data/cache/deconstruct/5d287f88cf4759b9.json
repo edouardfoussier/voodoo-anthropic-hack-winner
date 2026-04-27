@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "5d287f88cf4759b9",
+    "ad_unit_id": "5d287f88cf4759b9",
+    "app_id": "55c5342c02ac64f9c0002f34",
+    "advertiser_name": "DRAGON BALL Z DOKKAN BATTLE",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+    "phashion_group": "5d287f88cf4759b9",
+    "share": null,
+    "first_seen_at": "2024-08-14T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Get New Characters and Fight Some Spectacular Battles",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Static character art of Goku Ultra Instinct with a prominent 'PLAY NOW!' call to action.",
+    "visual_action": "Goku is depicted charging a blue energy blast against a vibrant, rainbow-colored background with glowing orbs.",
+    "text_overlay": "Dragon Ball Z Dokkan Battle PLAY NOW!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Static display of Goku Ultra Instinct charging a blue energy sphere.",
+    "Vibrant rainbow background with floating orbs creates a sense of energy.",
+    "Prominent 'PLAY NOW!' call to action remains fixed at the bottom center."
+  ],
+  "on_screen_text": [
+    "Dragon Ball Z Dokkan Battle",
+    "PLAY NOW!",
+    "Images may show characters' forms after Dokkan Awakening or the activation of certain skills.",
+    "Some characters featured in the video may not be available at certain times of the year.",
+    "©B.S./S., T.A. ©BNEI"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#00BFFF",
+    "#FFFF00",
+    "#FF00FF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Male Dragon Ball Z fans and anime enthusiasts who enjoy gacha-style mobile games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0013130000000000001
+}

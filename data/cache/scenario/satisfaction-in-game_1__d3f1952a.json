@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_71ReZiKUkPEHHmra9UbXozKt?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNzFSZVppS1VrUEVISG1yYTlVYlhvekt0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=RjewdO-fwCwBS%7EsPHlE2U%7Ero50kQ4s0%7EWmDb0QCjr8KX2lfFZ2KUvjjMavci65irLAbQnn5tQ5gHq35eskeP39z06IZleQHjRNCEhkFh9LkS4TM4AH85S-u69KKdHL4nCxukPAcFpEgfeKlim929-dRdUXKybv9pKEgLFMt1WUVLqbJB8PlaKFD-qPBRgcw5g-NGH5kJRdyO1154ML8jSw7to9hinhNbsBnYqSG7uqeJTKQ%7EbmzpSVMlzZtBruV97Zj%7EdK9og3JYG7XaWODCVDezEeyLlhmmuGljf8gd60bn6WFxKIObIo3-Y7jqfvenTCrs8BVCZqeZizCZIVw4fw__",
+  "job_id": "job_r5KGb46CZW7ANKwJUumnoja4",
+  "asset_id": "asset_71ReZiKUkPEHHmra9UbXozKt",
+  "stub": false,
+  "prompt": "Storyboard frame 1, aspect 9:16, in-game view of Crazy Kick! Fun Football game in 3D hyper-casual, low-poly, bright and colorful with simple stickman characters style: same behind-the-ball camera, sandy yellow (#F5D77F) pitch, sky blue (#1CB4F0) horizon, a single stickman defender lunging, the ball arcing along a glowing bright green (#99CC33) trajectory trail toward a low-poly goal, level tracker '#1' pill top-left, finger swipe indicator at the bottom, on-screen text 'SMART' in bold white block letters, authentic HUD chrome matching Crazy Kick screenshots.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

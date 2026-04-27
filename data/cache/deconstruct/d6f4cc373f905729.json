@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "d6f4cc373f905729",
+    "ad_unit_id": "d6f4cc373f905729",
+    "app_id": "5af02835c618f463caf068cb",
+    "advertiser_name": "Lightning Link Casino Slots",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e7ee274f6f3c1db9/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e7ee274f6f3c1db9/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e7ee274f6f3c1db9/preview",
+    "phashion_group": "d6f4cc373f905729",
+    "share": null,
+    "first_seen_at": "2026-02-20T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Virtual 10,000,000 FREE Coins!\n(Must be 18+ to play. No real money can be won)",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced montage of various slot machine themes and jackpot numbers.",
+    "visual_action": "Rapidly spinning reels featuring fish, animals, and large jackpot counters flashing at the top of the screen.",
+    "text_overlay": "10,000,000 FREE VIRTUAL COINS & 100+ GAMES TO PLAY",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Rapid montage of different slot machine themes including ocean and wildlife symbols.",
+    "Gameplay footage of a Buddha-themed slot showing multiple '500' coin wins and lightning effects.",
+    "Gameplay footage of an Irish-themed slot with numerous 'WILD' symbols appearing on the reels.",
+    "Full-screen 'MASSIVE WIN' animation with gold coins exploding across the screen.",
+    "End card with game logo, 10 million coin offer, and 'PLAY NOW' call to action."
+  ],
+  "on_screen_text": [
+    "GRAND JACKPOT",
+    "MAJOR JACKPOT",
+    "LIGHTNING LINK CASINO",
+    "10,000,000 FREE VIRTUAL COINS & 100+ GAMES TO PLAY",
+    "18+. No real money or prizes can be won. Purchases / paid random items optional.",
+    "REEL POWER",
+    "WIN 80000 COINS",
+    "MASSIVE WIN",
+    "10 MILLION FREE VIRTUAL COINS",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#000033",
+    "#FFD700",
+    "#4B0082"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Adults 35+ who enjoy the excitement and visual stimulation of social casino games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.002044
+}

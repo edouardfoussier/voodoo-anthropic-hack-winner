@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_qkhS5ZyhMMis2JAjjefjhzSQ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcWtoUzVaeWhNTWlzMkpBamplZmpoelNRP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=XUVoClwWuO%7EDJa0YVO8QCWLqHVbhqfqLVwuWBfBgbEJt8-76OEXZoay6R86WdgDR74NyJN0OToA1WjQpmBc36nc-ecJBVKyNQQDt0gw-qwMyJDCqqakrutcXJiZHqvPDsC3SxlzKh3ziiR0EsCGmZFh1QM9YfzkmcpaqmHfbQgUjsy8TVRfZii3jO8ZbGOfUMYk%7ERpCNeNz78hAy8CR8L0ubaFBAfEB1LBl4-GNMmpI1fdZCmoL-rfMHebWhdRqlsthAR%7Ec1RS95hrL5y1jhluUUoI2PN51%7E-EVZuaEA-ZQo9IpDyIPpIpN74a9tZzt5Cog41t22h2eQOE3HLeyneQ__",
+  "job_id": "job_kjiQkKUVhPxHGNPGuyhBPLxe",
+  "asset_id": "asset_qkhS5ZyhMMis2JAjjefjhzSQ",
+  "stub": false,
+  "prompt": "Vertical 9:16 mobile gameplay frame of Flappy Dunk: a bright blue (#5CB3FF) basketball mid-air arcing through a saturated magenta (#D81155) hoop against a warm beige (#EAD5A0) court background, thick black outlines, flat shading, vibrant high-contrast 2D cartoon style, authentic in-game HUD visible \u2014 VS score bar at top showing player ahead, hearts indicator, combo multiplier 'x3' popping in chunky cartoon numerals, blue motion trail behind the ball, bold on-screen text overlay 'Ever played something THIS satisfying?' in white with black outline at upper third, no characters, no stylus, no hands. [Audio: VO 'Hey! Ever played a game that's actually this satisfying?' / punchy upbeat 120bpm arcade trap with playful synth bells / crisp swoosh on hoop pass at 1.0s, rising chime on combo at 2.5s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

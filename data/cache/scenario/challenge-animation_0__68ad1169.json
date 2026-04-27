@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_jWofdNMZUv8p6PCZN5y2vMPe?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfaldvZmROTVpVdjhwNlBDWk41eTJ2TVBlP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=E6GTbUxS0o5rTq6jTFFaqukoOKeaxfysqegZOcgSwzwswmG4NM2bII7qFEyZQtp4lMP%7Ej5JT8YGmHIrP5mjVh7--k8WQ5LSxglX%7ELRc9GWw09T0K9Wt1psA4WREEQC29sU9Hyq2G%7ER4OP%7EBPUeXvrVre30C5ptPD1EFG8Tpr4hwJZ5sSreLY65i4pbzKufWl%7EdvoOGsVFeShb8yHyeRfJoewKz3%7EKr7uoSAYYdACo%7EqoZ7t2-5OFq4aoQ9kTZmton2XGPYcPnTlZg3hm4MtbVXGDCi9QiXvGCy1m0awQufPbB9MmlHIquUHCnRIxGc-pXOZvArlOsWNr9Scv15iA3A__",
+  "job_id": "job_cdMwVD5EGsSZGF7UomzFV73u",
+  "asset_id": "asset_jWofdNMZUv8p6PCZN5y2vMPe",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16: extreme macro close-up of a single glowing red sand grain rolling along a clean white 3D conveyor belt toward a golden-yellow bucket, soft sky-blue (#4A90E2) studio background, white (#FFFFFF) belt rig, gold (#FFD700) bucket accents, shallow depth of field, ASMR product-shot lighting, 3D stylized objects with vibrant colors and pixel-art sand compositions, bold white on-screen text 'Can you save it?' top-center, calm satisfying mood, mobile ad still",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

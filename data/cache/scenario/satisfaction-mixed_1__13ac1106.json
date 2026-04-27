@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_dh3JFzW6joFjfonGwTFDkv68?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZGgzSkZ6VzZqb0ZqZm9uR3dURkRrdjY4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=vEG80fCSTA8ZTkWfwIVqs3%7EOCfJV0DBzDj19%7Ea3eSypHAqzYfGfw7zCyXIDg54AVuK-hqXCrQrBjFpGYoJ21O8IQpF6Dp-kbnntKv-iH8HHsutzKE7haPgb-FMRMnfCRPmP17-4tWnu3G7yU4aGbFZ5TCavXnQK0E7u8dI7MA4CglXBaw2veH3UASQiCadRwobXWbUqUxI5ChwATEmPcilwv7N0OKo%7E6raMxWA16Lq7wcf5Udbt6%7EuXOB-7lDBA2b6DVLANWXu8gFezzRw%7Eu0S3mnpbM0ypEuaDkUCaR5qvTNeDxkw7DOs4mqaQp89Gquotr0S0EdJLz%7EUTIhUbvWA__",
+  "job_id": "job_kfMbUXBFnGMNHXGa9pVoU66p",
+  "asset_id": "asset_dh3JFzW6joFjfonGwTFDkv68",
+  "stub": false,
+  "prompt": "Vertical 9:16 mobile game screenshot, authentic Crazy Kick gameplay frame, 3D hyper-casual low-poly bright and colorful with simple stickman characters, sandy yellow field (#F5D77F) with sky blue (#1CB4F0) crowd stands, low-poly stickman goalkeeper diving the wrong way, white ball rippling into the net with bright green (#99CC33) confetti burst, level tracker advancing '12 \u2192 13' in HUD, big bold overlay text '\u2026and watch this \ud83d\udc40' centered, energetic competitive UI mood, no stylus or puzzle elements, storyboard frame",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

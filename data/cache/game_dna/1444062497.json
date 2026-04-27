@@ -1,0 +1,32 @@
+{
+  "app_id": "1444062497",
+  "name": "Crowd City",
+  "genre": "Action",
+  "sub_genre": "Hypercasual",
+  "core_loop": "Run around the city gathering neutral people to grow your crowd, then consume smaller crowds to become the largest group before time runs out.",
+  "audience_proxy": "Broad, casual audience of all ages looking for quick, competitive, and satisfying gameplay.",
+  "visual_style": "Low-poly, colorful 3D environments with simple, stickman-like character models.",
+  "palette": {
+    "primary_hex": "#FF0000",
+    "secondary_hex": "#0000FF",
+    "accent_hex": "#00FF00",
+    "description": "Bright, contrasting primary colors used to distinguish different player crowds against a more muted, pastel city background."
+  },
+  "key_mechanics": [
+    "Swarming",
+    "Chasing",
+    "Fleeing",
+    "Collecting",
+    "Unlocking"
+  ],
+  "character_present": true,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "Large crowds of stick figures",
+    "City environments",
+    "Timer and level indicators",
+    "Score counters above crowds",
+    "Skin unlock screen with various characters (dinosaur, deer, penguin, etc.)",
+    "Eiffel Tower landmark"
+  ]
+}

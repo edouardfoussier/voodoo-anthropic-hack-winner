@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_ng9Auaq1UtAVKAh1V5ijBGyE?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfbmc5QXVhcTFVdEFWS0FoMVY1aWpCR3lFP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=vcyR04pwPd-yLkyxL8%7EWRfb2xMIHmMOgAqUXEKPpZWH4UskPq%7EIs6f2bjr%7EJi9-TbfsnqnPiaPXAOLow2ElMHVbEEGKd88pIcHYJTyfF-20YTUROlxjF6yhfVVlrc%7EJ3nQXbVvI-vLOSzYCkTyoKE1L4Ar6VLAYFu4bMgUzMdz3jVkTbmiAPaz5OgbxTp4o9YCmWJcN1ocYOjePizoFcLCcEw6L%7EkJVBfl9sRzoXpxnGdybFmpevUrIrnGgI4iLSE7ebB35DdCSlxW7zUvXLZPedBIWpBjjE7Q-y8dey2r4D0C3ZXeIgciPbgokvdWX3u-ja5e%7EDEoGhcykbrKHNhA__",
+  "job_id": "job_3wc995mgzKFNvYqW9yxAAP7Z",
+  "asset_id": "asset_ng9Auaq1UtAVKAh1V5ijBGyE",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, low-poly 3D bright colorful cartoonish style, top-down diorama view of a sunny city intersection in vibrant orange #FF9800 buildings under a cyan #29B6F6 sky, a small glossy black hole in the center of the street mid-swallow with a tiny orange car tilting into it, soft shadows, clean toy-like rendering, bold yellow #FFEB3B on-screen text at top reading 'Ever played a game that's THIS satisfying?', mobile ad composition, high contrast, playful.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

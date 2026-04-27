@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_JGKizy8fF1k11jyPnjSbYNxq?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSkdLaXp5OGZGMWsxMWp5UG5qU2JZTnhxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=d-I0ZtO04Sp5MXdiYcjBI3iwz9DwclLAgHFYF4IaDBuP4rI1ypD5bpQeMb3s3wSuiHmd9RqNwl%7E-oiAqbHkL7vpk-UGJnI4S21LR2tNfoXYsYNjOIa-RrCPd4jKaRkh3uqhjpi8ulDKhDFnkfc7ygumKD0WiL1fGIjvbyGfy62kGg%7EYjSkRk8dwrNBInJ3lQPdu%7Em8uToK2cx-t4IYaTtxxO2Z5rInSZZn4DLItUJcmvh%7EMijPU8rsegJejC-%7E-cfzoM7yjCrUjNbWbb3z-t09K8fjMEDmdfJVlugtFU43gMTws9sT%7Ey0XntNRcDPBktpvwzZa0fOLiD1D3d0OzJ%7Ew__",
+  "job_id": "job_7riNc4a9E5Gh5imN5uQf7DL3",
+  "asset_id": "asset_JGKizy8fF1k11jyPnjSbYNxq",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, authentic Helix Jump fail moment: cyan #5CE1E6 ball colliding with a glowing red #FF0000 trap segment on the helix tower, red shockwave ring, screen-edge red vignette, broken disc particles, neon green #39FF14 safe ring visible above, large bold white overlay 'CAN YOU BEAT IT?' centered, score HUD frozen top-center, 3D minimalist with bright contrasting colors and simple geometric shapes, soft pastel background, portrait orientation, no characters, locked Helix Jump camera framing",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

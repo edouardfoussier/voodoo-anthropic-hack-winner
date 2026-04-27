@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "e97cea064e36fc2a",
+    "ad_unit_id": "e97cea064e36fc2a",
+    "app_id": "618499119e5ed235096241dc",
+    "advertiser_name": "Bingo Card Klondike Adventures",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/preview",
+    "phashion_group": "e97cea064e36fc2a",
+    "share": null,
+    "first_seen_at": "2026-04-12T00:00:00",
+    "last_seen_at": "2026-04-20T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced bingo stamping leading to a 'Double Bingo' win.",
+    "visual_action": "A hand stamps multiple numbers on a bingo card in rapid succession.",
+    "text_overlay": "DOUBLE BINGO",
+    "voiceover_transcript": "Bingo!",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Hand stamps numbers on a bingo card matching the balls at the top.",
+    "A 'Double Bingo' banner appears with confetti and a celebratory sound.",
+    "Gameplay continues with even faster stamping on a different card layout.",
+    "A 'Mega Bingo' banner flashes on screen.",
+    "Final brand screen displays the game logo and various gameplay environments."
+  ],
+  "on_screen_text": [
+    "DOUBLE BINGO",
+    "MEGA BINGO",
+    "BINGO KLONDIKE"
+  ],
+  "cta_text": "BINGO KLONDIKE",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#8B4513",
+    "#D81B60",
+    "#F5F5DC"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual gamers, primarily women 35-65, who enjoy the rhythmic satisfaction of classic bingo games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015530000000000001
+}

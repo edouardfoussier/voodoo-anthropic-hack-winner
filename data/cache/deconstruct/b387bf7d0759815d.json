@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "b387bf7d0759815d",
+    "ad_unit_id": "b387bf7d0759815d",
+    "app_id": "55c01a43e6d79ac5ed0599e3",
+    "advertiser_name": "Promise Pets by Build-A-Bear: A Virtual Pet Game",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b59f6d20d7046a19/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b59f6d20d7046a19/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b59f6d20d7046a19/preview",
+    "phashion_group": "b387bf7d0759815d",
+    "share": null,
+    "first_seen_at": "2025-08-13T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 2.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Celebrate the 75th anniversary year of one of the world's most beloved comic strips with our NEW Peanuts® collection! Flap Snoopy’s ears when you press his paw and give any furry friend a dapper look with our commemorative Peanuts® suit.",
+    "button_text": "Shop Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Snoopy plush in a tuxedo celebrates 75 years of Peanuts.",
+    "visual_action": "A Snoopy plush toy wearing a grey patterned tuxedo and red bowtie stands against a bright yellow background with a zig-zag border.",
+    "text_overlay": "the stuff you love. 75 YEARS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Static product shot of the Snoopy 75th anniversary plush in a tuxedo.",
+    "Display of the Peanuts 75th anniversary logo and 'the stuff you love' slogan."
+  ],
+  "on_screen_text": [
+    "the stuff you love.",
+    "75 YEARS",
+    "©2025 Peanuts Worldwide LLC"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#FFD200",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Nostalgic Peanuts fans and collectors looking for 75th-anniversary commemorative items.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001058
+}

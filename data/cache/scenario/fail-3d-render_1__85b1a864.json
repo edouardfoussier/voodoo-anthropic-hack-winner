@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Q9NswEzWhNfJVQkBQ3beYjMq?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUTlOc3dFeldoTmZKVlFrQlEzYmVZak1xP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ilSWY00qZcHo4XoMKPCn57QZFLH4Jwk8dYJdmCQ4dL5W3Am-4yoOfcYOJFkia%7EE30K33WraxHOuCBCN%7EsfDXt7S7rUHEBbADfFwWgCluzcTmPtbmOhnrQSD97WBTMdsJ2B9Ho0io5GySwPd1paoNL-pMIMosqiS2INozvNBP0U1rY59zo5tnIuWPr6PxWaqwPOwvjM7PvnbI9QfeQFLRL36kru5W0VIbt1vCM9m7OIKoGHTDvEsTUghrTOlasBPlBx4mGqnmqKQN8Uo52S5SW7nL3FUEMvRKuWGrUDZpB7-ZbVs91B648e5XbTia%7EAmgrrg0CJ%7E7ODbjlJX37KIN3Q__",
+  "job_id": "job_yhKVwC93WbpU7kF8WCCw1vvH",
+  "asset_id": "asset_Q9NswEzWhNfJVQkBQ3beYjMq",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, in-game Roof Rails moment: runner with a comically long horizontal balancing pole sliding across THREE parallel white rails connecting cyan #5CD6FF rooftops, a stream of yellow #FFC824 pole-piece collectibles being absorbed, magenta diamonds sparkling, two yellow saw obstacles dodged behind, top-center level progress bar nearly full, diamond counter visible top-left, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, on-screen text 'MAX POLE = WIN' in chunky yellow caps, clean #EAF6FA path, no textures",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,8164 @@
+[
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 2.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 6.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 2.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AT",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AT",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.00012
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CH",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CH",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 8.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 2.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CL",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CO",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000116
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CO",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 1.4e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CZ",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000184
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DK",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 3.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 7.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 1.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 4.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ID",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 2.9e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ID",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 1.7e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IL",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000242
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IL",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 1.4e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IN",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1.8e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1.2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "JP",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "KR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 1.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "LU",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "LU",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "LU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000107
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 4.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NL",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NO",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 2.2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 7.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 7.2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PT",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "RO",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "RO",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 8.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SA",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 4.9e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SE",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SG",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "TR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "TW",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "VN",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000108
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "VN",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 3.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ZA",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 6.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AR",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 3.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 4.2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CL",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CO",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000139
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 1.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 7.2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ID",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ID",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IL",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IL",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 8.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "KR",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000119
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 2.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 3.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 6.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PE",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 2.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 2.9e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PT",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "RO",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 1.2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "RO",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 2.4e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 6.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SA",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SE",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "VN",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 4.4e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "VN",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AE",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AT",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 3.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 1.9e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 2.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CH",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CH",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CH",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 2.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CO",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 3.9e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CZ",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 8.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 2.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 5.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 2.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ID",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.000154
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ID",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IL",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 2.8e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IL",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.000102
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "KR",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "KR",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "KR",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 4e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 5.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 1.4e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NZ",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 1.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PE",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PE",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 8.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PH",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 1.8e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PT",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.000113
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 2.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SA",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 2.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "VN",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.00013
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "VN",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BE",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CH",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CO",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 3.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CO",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CY",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 4.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CY",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 5.8e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CY",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 5.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CZ",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1.8e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DK",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FI",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 2.9e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ID",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ID",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IL",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IL",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 2.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "JP",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "KR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NG",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 9.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NL",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NO",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NZ",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PE",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 3.4e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PT",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000276
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "RO",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 1.2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SA",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "TR",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "TR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "UA",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 8.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "VN",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 3.9e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 1.2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AE",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 1.4e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AT",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "AU",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BE",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 2.7e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "BR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CH",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CL",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CO",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 2.4e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CO",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 1.7e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CY",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 2.9e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CY",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 2.9e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "CY",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 3.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ES",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "FR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "GB",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ID",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ID",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IL",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 4e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "IT",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "JP",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "JP",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "JP",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "KR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MX",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NL",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NL",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NL",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "NO",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PE",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 4.6e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PE",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 4.3e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PL",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "PT",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.000434
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "RO",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "RO",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "RO",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 2.9e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "RO",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SA",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 1.5e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SA",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 2.2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SE",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SE",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "SG",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "TR",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "TR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "TW",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "US",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "VN",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 2.2e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "VN",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 2.7e-05
+  },
+  {
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "country": "ZA",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.00043
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 9.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000466
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000359
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.002229
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.003343
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000622
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 4.1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.000189
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.00034
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000228
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000799
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000636
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Mintegral",
+    "date": "2026-03-23",
+    "sov": 1.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 9.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.006306
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Vungle",
+    "date": "2026-03-23",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000142
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000275
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CL",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.00054
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CL",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CO",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CY",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.001178
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.00044
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 4.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.001306
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 9.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000158
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.003366
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.000728
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "EC",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000977
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "EC",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.000998
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "EC",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000656
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "EC",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.000761
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 1.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000268
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000369
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000203
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000985
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000329
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000212
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Mintegral",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 2.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.003815
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000476
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.006021
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "HK",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 3.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "HU",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.000734
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.001672
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000449
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000764
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 2.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.00052
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IL",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 4.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000269
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000209
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000275
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "LU",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000703
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "LU",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.000711
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "LU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000462
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000253
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.000374
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000767
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000107
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 1.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.000411
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NG",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.0002
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NG",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 7.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000377
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000191
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.000103
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000267
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 3.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000496
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000174
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000304
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.000156
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.004093
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 6.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.004038
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 3.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 1.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000429
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.008125
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RO",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 2.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RO",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RO",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RU",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.000108
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000435
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000284
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000512
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.00711
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SK",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000423
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SK",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.000433
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000316
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SK",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.000478
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000501
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.00036
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.000844
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TW",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TW",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TW",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.00051
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "UA",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.039917
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000879
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "BidMachine",
+    "date": "2026-03-23",
+    "sov": 0.000478
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Digital Turbine",
+    "date": "2026-03-23",
+    "sov": 9.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000261
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "InMobi",
+    "date": "2026-03-23",
+    "sov": 0.000205
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Mintegral",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Supersonic",
+    "date": "2026-03-23",
+    "sov": 3.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.000135
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.006754
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Verve",
+    "date": "2026-03-23",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Youtube",
+    "date": "2026-03-23",
+    "sov": 0.00019
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "Unity",
+    "date": "2026-03-23",
+    "sov": 0.00052
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Applovin",
+    "date": "2026-03-23",
+    "sov": 0.000298
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-03-23",
+    "sov": 0.000508
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Instagram",
+    "date": "2026-03-23",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-23",
+    "sov": 0.000583
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "TikTok",
+    "date": "2026-03-23",
+    "sov": 3.1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 2.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.0003
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000263
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.00042
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 1.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000229
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.001537
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.003267
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000662
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 0.000239
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000224
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.00014
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.000813
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000572
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 0.000147
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.009936
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 6.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000175
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CL",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000377
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.001162
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 1.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 4.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 2.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 1.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 9.1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 0.000273
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 3.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "EC",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000529
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "EC",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.000538
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "EC",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000424
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000185
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 7.1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000227
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.001573
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000149
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000114
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.000827
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000362
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 3.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Mintegral",
+    "date": "2026-03-30",
+    "sov": 5.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 5.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.007612
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000283
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.002337
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "HK",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "HK",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.000943
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000376
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 5.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 0.000526
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.001171
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 0.000131
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.002508
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IL",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 2.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IL",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000137
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IL",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.002229
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000294
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000115
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Youtube",
+    "date": "2026-03-30",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000191
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "LU",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000399
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "LU",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.000402
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "LU",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000296
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.00022
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000185
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.000502
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.001521
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 3.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.00042
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Youtube",
+    "date": "2026-03-30",
+    "sov": 0.000231
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NG",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.000524
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 7.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 3.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 4.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 1.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.000538
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 6.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 0.0002
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.009133
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.001622
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000182
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000296
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 0.000218
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.006817
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 8.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.009427
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 8.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 2.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.005107
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RO",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.00019
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RO",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 1.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 2.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 8.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 8.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 3.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 5.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 8.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000166
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.002346
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000237
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000304
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 0.000118
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SK",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000496
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SK",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.000509
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SK",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000328
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 1.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "Admob",
+    "date": "2026-03-30",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000279
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TW",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TW",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TW",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000341
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "UA",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.000847
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.000825
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "BidMachine",
+    "date": "2026-03-30",
+    "sov": 0.000283
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.000337
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "InMobi",
+    "date": "2026-03-30",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 5.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 0.008497
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Verve",
+    "date": "2026-03-30",
+    "sov": 0.000453
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Youtube",
+    "date": "2026-03-30",
+    "sov": 0.000318
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "Unity",
+    "date": "2026-03-30",
+    "sov": 7.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "Youtube",
+    "date": "2026-03-30",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Applovin",
+    "date": "2026-03-30",
+    "sov": 0.000296
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-03-30",
+    "sov": 0.00029
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Instagram",
+    "date": "2026-03-30",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Meta Audience Network",
+    "date": "2026-03-30",
+    "sov": 0.000485
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "TikTok",
+    "date": "2026-03-30",
+    "sov": 0.000147
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 3.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.000147
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AR",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AR",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 3.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.002423
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.000795
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 8.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.00012
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 3.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Admob",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.001856
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.000858
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.012086
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.000219
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.000583
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.000647
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.000114
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.002028
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Admob",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 3.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 1.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.001127
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Youtube",
+    "date": "2026-04-06",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 3.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.000106
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.000524
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 2.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Admob",
+    "date": "2026-04-06",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.000274
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.001128
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.000565
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 8.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Mintegral",
+    "date": "2026-04-06",
+    "sov": 1.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 0.000422
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.003237
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 3.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.000791
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "HK",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 7.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.001348
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 3.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.000292
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 5.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IL",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 4.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 7e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 0.000219
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Admob",
+    "date": "2026-04-06",
+    "sov": 1.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 3.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 2.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 1.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.000292
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.001566
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 2.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.002509
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NG",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.000698
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Admob",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 5.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 3.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.000489
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.000209
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.008863
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.002321
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.00028
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Instagram",
+    "date": "2026-04-06",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Meta Audience Network",
+    "date": "2026-04-06",
+    "sov": 0.000137
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.019484
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Admob",
+    "date": "2026-04-06",
+    "sov": 2.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.009858
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 4.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.013356
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 6.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.001222
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 3.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.001321
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RO",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 8.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RO",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 8e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RO",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.00021
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Admob",
+    "date": "2026-04-06",
+    "sov": 0.000127
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 4.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 8.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.000177
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.000568
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 3.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.000419
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.000127
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "Admob",
+    "date": "2026-04-06",
+    "sov": 0.000241
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "UA",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.008632
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 0.001051
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "BidMachine",
+    "date": "2026-04-06",
+    "sov": 0.001001
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.000509
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-04-06",
+    "sov": 3.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 0.011281
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Verve",
+    "date": "2026-04-06",
+    "sov": 0.000506
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Youtube",
+    "date": "2026-04-06",
+    "sov": 4.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "Applovin",
+    "date": "2026-04-06",
+    "sov": 5.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "Unity",
+    "date": "2026-04-06",
+    "sov": 5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-04-06",
+    "sov": 0.000984
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 2.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AE",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.000179
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 4.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.000629
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.002849
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.000354
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.002514
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 3.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.000683
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 0.000512
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 0.000254
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 2.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.001422
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.000525
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 1.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.022119
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.00031
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.000191
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CO",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000772
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.006705
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 0.000259
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Admob",
+    "date": "2026-04-13",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 9.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000152
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 0.000528
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 1.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Admob",
+    "date": "2026-04-13",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000145
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.000229
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.000663
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 0.000493
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000934
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.000303
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 0.000234
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.000313
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.004907
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 4.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.001282
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 5.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.000915
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IL",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.001554
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IN",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 4.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 0.000247
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 8.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 1.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 5.1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 4.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000298
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 0.00013
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000242
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 1.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.001128
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 4.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NG",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000235
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000133
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 1.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Admob",
+    "date": "2026-04-13",
+    "sov": 0.000151
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 3.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.015545
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 0.000278
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.001212
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 9.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 0.00037
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PE",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.008144
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 4.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.015147
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 6.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.00012
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 4.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 2.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.001901
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 6.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RO",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000137
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RO",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.002559
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.000166
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 0.000278
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000685
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.006242
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SK",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.000566
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SK",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 0.000573
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SK",
+    "network": "Meta Audience Network",
+    "date": "2026-04-13",
+    "sov": 0.000408
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 2.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 4.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "UA",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.00658
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Admob",
+    "date": "2026-04-13",
+    "sov": 0.000117
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 0.000922
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "BidMachine",
+    "date": "2026-04-13",
+    "sov": 0.000427
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.000351
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Instagram",
+    "date": "2026-04-13",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-04-13",
+    "sov": 8.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.00647
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Verve",
+    "date": "2026-04-13",
+    "sov": 6.1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Youtube",
+    "date": "2026-04-13",
+    "sov": 0.000402
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 1.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "Unity",
+    "date": "2026-04-13",
+    "sov": 0.000174
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Applovin",
+    "date": "2026-04-13",
+    "sov": 3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-04-13",
+    "sov": 0.000518
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AT",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.001187
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.001378
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 0.000286
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "AU",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 9.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 6.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BE",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 0.000153
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 0.000285
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "BR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.000612
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 0.000283
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 9.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CA",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.009108
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 3.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CH",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.000236
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CL",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 5e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CO",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.00015
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 1.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "CZ",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.000996
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Admob",
+    "date": "2026-04-20",
+    "sov": 9e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 1.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DE",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 4.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "DK",
+    "network": "Youtube",
+    "date": "2026-04-20",
+    "sov": 0.000386
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ES",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 3.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FI",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 3.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Admob",
+    "date": "2026-04-20",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.000225
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 0.000287
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "FR",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.00028
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Admob",
+    "date": "2026-04-20",
+    "sov": 1.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.000608
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 0.000267
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 0.000381
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.000338
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "GB",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.00103
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "HK",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 3.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.001486
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 1.6e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ID",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IE",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 7.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IL",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 4.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "IT",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 3.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 1.5e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 7.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "JP",
+    "network": "Youtube",
+    "date": "2026-04-20",
+    "sov": 3.2e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 4.8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 0.000143
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "KR",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.000275
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 8e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 1e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MX",
+    "network": "Youtube",
+    "date": "2026-04-20",
+    "sov": 5.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 2.1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 1.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "MY",
+    "network": "Youtube",
+    "date": "2026-04-20",
+    "sov": 0.000561
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NG",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 5.7e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.000193
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 4.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NL",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.025105
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NO",
+    "network": "Youtube",
+    "date": "2026-04-20",
+    "sov": 0.000344
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Admob",
+    "date": "2026-04-20",
+    "sov": 0.005282
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.002389
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 0.000292
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Instagram",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Meta Audience Network",
+    "date": "2026-04-20",
+    "sov": 0.000364
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "NZ",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.00299
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Admob",
+    "date": "2026-04-20",
+    "sov": 0.000898
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.007499
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 4.1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PH",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.000423
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 2e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PL",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Admob",
+    "date": "2026-04-20",
+    "sov": 2.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 4.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 2.9e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "PT",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.002824
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "RO",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SA",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.00038
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 3e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SE",
+    "network": "Youtube",
+    "date": "2026-04-20",
+    "sov": 0.000194
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.005114
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SG",
+    "network": "Youtube",
+    "date": "2026-04-20",
+    "sov": 0.000252
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "SK",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.000763
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.000161
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TH",
+    "network": "Youtube",
+    "date": "2026-04-20",
+    "sov": 0.000419
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TR",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.001939
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "TW",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 6e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Admob",
+    "date": "2026-04-20",
+    "sov": 2.3e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 0.000534
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "BidMachine",
+    "date": "2026-04-20",
+    "sov": 0.001021
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 0.000317
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.000142
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Unity",
+    "date": "2026-04-20",
+    "sov": 0.001254
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Verve",
+    "date": "2026-04-20",
+    "sov": 1.1e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "US",
+    "network": "Youtube",
+    "date": "2026-04-20",
+    "sov": 0.000128
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "Applovin",
+    "date": "2026-04-20",
+    "sov": 4e-06
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "VN",
+    "network": "Youtube",
+    "date": "2026-04-20",
+    "sov": 2.4e-05
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "Facebook",
+    "date": "2026-04-20",
+    "sov": 0.000352
+  },
+  {
+    "app_id": "67594de3d9e52a2021e5354f",
+    "country": "ZA",
+    "network": "TikTok",
+    "date": "2026-04-20",
+    "sov": 0.0
+  }
+]

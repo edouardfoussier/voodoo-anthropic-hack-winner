@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "8c3d719da82a2130",
+    "ad_unit_id": "8c3d719da82a2130",
+    "app_id": "5a452ae0a14c91063e845ddd",
+    "advertiser_name": "Boxing Star:Sports Action Game",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/030575d658577ee4/preview",
+    "phashion_group": "8c3d719da82a2130",
+    "share": null,
+    "first_seen_at": "2026-04-10T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "One punch to become a boxing legend!💪",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A boxer is knocked down but immediately rallies to stand back up.",
+    "visual_action": "Close-up of a boxer on the mat, followed by a dramatic 'RISE' text animation as he gets up.",
+    "text_overlay": "RISE FROM DEFEAT",
+    "voiceover_transcript": "You wake up and believe",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "A boxer is shown defeated on the ring floor.",
+    "The boxer stands up as 'RISE FROM DEFEAT' appears on screen.",
+    "Fast-cut sequence of various boxers landing powerful punches.",
+    "A final slow-motion punch connects with an opponent's face.",
+    "End card displays the game logo and app store download buttons."
+  ],
+  "on_screen_text": [
+    "RISE FROM DEFEAT",
+    "BOXING STAR"
+  ],
+  "cta_text": "Google Play / App Store",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#E61E25",
+    "#000000",
+    "#FFCC00"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy competitive sports and arcade-style fighting games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001271
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_8QcScPVnRqipNuMyj5xncK9R?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOFFjU2NQVm5ScWlwTnVNeWo1eG5jSzlSP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Jz7pPTELNR4OABRh7BO4rlfzYy0X9bHec9j%7EOruDAEMSm5tloT0v1iaRTG-bw6HQ4xig1xl6mPzA30Z8DoRfhfpBxkx2rkj5iNCxzMXlus2Mx8U09vgI7hovp%7E-%7EaaN6c4yPBBdTI%7EOwh1ptpOzJL6N2T4RDrG3k-cou%7EKu05BKpXwFYb3P8FxTD4Z19gufksJb2sF9lDwutMA1lgOdZThu0TX4LoM6MqpQpr1-%7EncQNADQNJlB2w3rLXrUujfnKNsTU2wKD5OeWIUVkHcLQ6Ojz9oby3eaHnoMrpQiORMUwbymWFqEzI%7EyACimFa9pfNtQUBDAscfgTuSYhdoCKTA__",
+  "job_id": "job_L7vzLobctmuXwH36UjodRDj6",
+  "asset_id": "asset_8QcScPVnRqipNuMyj5xncK9R",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, 3D Casual Abstract style, top-down hero shot of a completed Bounce Blast 3D level with amber #FDBA4D 'Level Complete' banner glowing across the center, deep #20232B background, #403F6D purple UI frame and tray, scattered pastel blocks and a few residual bouncing balls with light trails, calm satisfying mood, soft ambient bloom, on-screen text overlay 'I cannot stop.' in bold white sans-serif at bottom third, premium casual puzzle ad still",
+  "model_id": "flux.1-dev",
+  "mode": "img2img",
+  "reference_image": "02.png",
+  "img2img_strength": 0.6
+}

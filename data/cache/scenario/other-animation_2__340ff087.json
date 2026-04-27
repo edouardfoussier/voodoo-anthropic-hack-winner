@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_G97JJP3aynzTztwByE5EkFx7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRzk3SkpQM2F5bnpUenR3QnlFNUVrRng3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=SQHzbrk71jv66MXmCi3N4XoqfUfshRKe7GZJqIH2pztPQgyGP4%7ERWwuKt1d2PE5MFnd62Vhw5mJBEhyXcMn7RTi8QHPXqqrgSWyngVIeCXljpWkL6Z0IK-eii-iqpWnnPNozGCI0R-eksiCBXDYsaoGARbq%7EOzpj8V9sgfD9DBfacrZD-dzxT-zcLzq28pDQkWpTvFZxpo2diWatsjYN1pV2ZLkS0PBWYPZoJdSCjBVga8loBSLZpGk36vERGd%7EYMqRzzp4dtjqjEPdJ9mYoTi15-EGYx%7EUpaHYjdbdBvZm0S%7EGUXmV7mAq061vEQcLMkZs9DceYagShoSeb66PXYQ__",
+  "job_id": "job_jxicRLW5WVrjGjBFbvCMWhr8",
+  "asset_id": "asset_G97JJP3aynzTztwByE5EkFx7",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16: Archery Clash! post-victory loot reveal, three gear cards fanned out with rarity backgrounds in #2A9DF4 blue, #FFD700 gold, and #32CD32 green, legendary bow card center with upgrade arrow +1 tier, confetti VFX, level progression bar filling on top, authentic in-game results screen UI with XP bar and reward chest, female archer protagonist celebrating in background on the arena platform, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text '+LEGENDARY BOW' in bold #FFD700",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

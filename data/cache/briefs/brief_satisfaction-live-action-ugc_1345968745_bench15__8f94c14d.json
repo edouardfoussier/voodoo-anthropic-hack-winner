@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "1345968745",
+  "title": "\"Thanks, I Smashed Boss Level 50\" — Helix Jump UGC Reaction",
+  "hook_3s": "Phone screen explodes with neon — a guy on his bed gasps as the ball smashes through a red ring.",
+  "scene_flow": [
+    "0-3s: Tight selfie-style shot of a 20-something sprawled on a bed, phone vertical, face lit by cyan glow. Screen-record overlay shows the Helix Jump ball bouncing through green gaps.",
+    "3-7s: Friend off-camera asks 'Why are you smiling so much?' — cut to a clean full-screen gameplay capture: ball plummets, tower rotates, smashes through three red trap rings, score multiplier x3 pops.",
+    "7-11s: Cut back to the guy flipping onto his back, phone held up, mouthing 'LET'S GOOO' as a Boss Level 50 banner flashes on screen.",
+    "11-14s: Final gameplay beat — ball drops the last ring, confetti burst in #39FF14, high score text slams in.",
+    "14-15s: End card: Helix Jump logo on cyan background, CTA button pulsing."
+  ],
+  "visual_direction": "Split DNA: warm, grainy, naturally-lit UGC bedroom footage (handheld, slightly overexposed window light) intercut with crisp, full-bleed Helix Jump screen captures in the signature palette — cyan #5CE1E6 helix tower, neon green #39FF14 safe gaps, hot red #FF0000 trap rings against a clean light background. Gameplay cuts are full-screen vertical with no letterboxing so the contrast between messy real life and hyper-clean 3D minimalism becomes the joke. Energetic/competitive UI mood preserved via score multiplier pops and boss banner.",
+  "text_overlays": [
+    "POV: my roommate at 2am",
+    "\"why are you smiling at your phone?\"",
+    "\"I just smashed Boss Level 50 😤\"",
+    "x3 MULTIPLIER",
+    "NEW HIGH SCORE",
+    "Play Helix Jump — free"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Helix Jump rotation is 100% no-copy gameplay videos and Unity playables — zero live-action, zero spoken hook, zero personality. This brief injects the trending UGC-satisfaction archetype (a proven velocity hook in the market scan) that the publisher is completely missing, while protecting mechanic legibility by cutting to full-screen gameplay capture for ~50% of runtime. UA team: ship as a low-budget creator test against broad casual audiences; if CTR beats the no-copy baseline, scale with 2-3 creator variants swapping the boss level number.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 mobile ad still: a full-bleed screen capture of Helix Jump gameplay — a single glossy white sphere mid-bounce on a stacked cylindrical helix tower made of thin disc platforms in vibrant cyan #5CE1E6, with one platform segment glowing neon green #39FF14 as a safe gap and two segments marked in danger red #FF0000 as trap zones, central vertical axis pole, soft pastel light background, no characters, no human figures. Top-center HUD shows score multiplier text 'x3 MULTIPLIER' in bold white sans-serif. 3D minimalist with bright, contrasting colors and simple geometric shapes. Clean, energetic, competitive mobile-game UI chrome identical to Helix Jump screenshots.",
+    "Storyboard frame, vertical 9:16: split composition — top two-thirds is warm grainy UGC bedroom footage of a young man's hands holding a vertical smartphone, face partially visible smiling, soft window daylight, messy white duvet; bottom third is the phone screen showing authentic Helix Jump gameplay — cyan #5CE1E6 helix tower discs, white ball falling through a #39FF14 green gap, a #FF0000 red trap ring just below, no on-screen character. Overlay text in white tilted sticker style: '\"why are you smiling at your phone?\"'. 3D minimalist with bright, contrasting colors and simple geometric shapes inside the phone; realistic UGC outside.",
+    "Storyboard frame, vertical 9:16: full-screen Helix Jump gameplay end-beat — white ball smashing through a cluster of red #FF0000 trap discs, debris shards flying outward, cyan #5CE1E6 tower segments rotating, neon green #39FF14 confetti burst, light minimalist background. Bold banner across upper third reads 'BOSS LEVEL 50' in chunky white caps with red drop shadow. No characters, no humans, no avatars. 3D minimalist with bright, contrasting colors and simple geometric shapes, authentic Helix Jump HUD with high score counter top-right."
+  ]
+}

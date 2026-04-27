@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "64ebd878cea798c1",
+    "ad_unit_id": "64ebd878cea798c1",
+    "app_id": "657922e7861fb139e0336e77",
+    "advertiser_name": "Fruit Drop Master",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0e62d715540203fc/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0e62d715540203fc/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0e62d715540203fc/preview",
+    "phashion_group": "64ebd878cea798c1",
+    "share": null,
+    "first_seen_at": "2026-02-04T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Minjae x Jihoon from Brain Puzzle: Tricky Test",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A character's neck stretches unnaturally to kiss another character in a movie theater.",
+    "visual_action": "Anime-style characters in a theater; one's neck extends like a snake to reach the other.",
+    "text_overlay": "Why is my brainpuzzle game So yaoiful",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Character's neck stretches to kiss another character in a movie theater.",
+    "Transition to the characters sleeping on each other's shoulders.",
+    "Reaction shot of a girl in the background looking excited.",
+    "Final close-up of the two male characters sleeping together."
+  ],
+  "on_screen_text": [
+    "Why is my brainpuzzle game So yaoiful",
+    "THE GIRL LMAO",
+    "THEY'RE SO CUTE 💔",
+    "I need fanart abt them"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#E61E26",
+    "#1A1A1A",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Young female fans of anime and BL (Boys' Love) content who enjoy casual puzzle games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001431
+}

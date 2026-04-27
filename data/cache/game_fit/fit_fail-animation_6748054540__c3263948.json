@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-animation",
+  "visual_match": 20,
+  "mechanic_match": 15,
+  "audience_match": 30,
+  "overall": 20,
+  "rationale": "This is a \"Thief Puzzle\"-style stick-figure fail animation, which has almost zero overlap with Bounce Blast 3D's core loop of placing colored blocks and triggering physics chain reactions — there's no thief, no character, and no rope/pull mechanic in the game, so running this would be a hard bait-and-switch with predictably bad post-install retention. Visually it also clashes: the archetype's flat 2D yellow/black cartoon palette is the opposite of the game's moody dark-purple 3D abstract aesthetic. Audience skews younger/troll-puzzle hybrid casuals vs. the calmer 25-55 physics-relaxer target — only weak overlap on \"casual puzzle\" keyword. Recommend skipping this archetype unless the team is willing to build a fake-narrative hook, which would violate Apple/Google misrepresentation policies given how far it is from actual gameplay."
+}

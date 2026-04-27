@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_NB7A9BTZA727CTzJ26AnEocG?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTkI3QTlCVFpBNzI3Q1R6SjI2QW5Fb2NHP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Dpd6BWqNo-e7U0R1gI7zigMWichKHPddZasRgntKf7HOCEAsJUU1JPbdFyWaTQvQf2FpY4fwJdsusmhc4%7Eaq%7EoHCPDCZyn5Acv8XYjs6GRL8Iv7FDHLqHU%7E-yLiDfAYSwLBtfEPEA3b7zxhbmK-9bFq0nfqI-zoHY5OUWxjx-cmV8kuHrmXBWJil9otFqHliFPL%7EwWWOI4QPwvCjSBrSbE8C5HFgEGtLi092b8o389N3XWpxD%7Ewo5Cos8VQXs2bmZZgLEfG-rMZZK8R3i7it5e4lzJYDKak4e5RdGCqMjV3fCBaTIN0dXG2fpU4fe3lScISZrcFjSYbOsnL80f2NeA__",
+  "job_id": "job_g4btM8PBvxeZCTxtpyrnAoyW",
+  "asset_id": "asset_NB7A9BTZA727CTzJ26AnEocG",
+  "stub": false,
+  "prompt": "Storyboard frame 2, vertical 9:16 aspect ratio, dynamic close-up of a smartphone screen mid-action: four horizontal rows simultaneously clearing on an 8x8 dark navy #1E2744 grid, explosive gold #FFD700 sparks and beveled glossy block fragments cascading outward, score counter glowing gold in the top-right. Background royal blue #5469B9 bokeh. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Large punchy yellow-gold text overlay 'x4 COMBO!' centered with subtle motion blur. High-contrast, celebratory, ASMR-satisfying lighting.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

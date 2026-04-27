@@ -1,0 +1,28 @@
+{
+  "archetype_id": "curiosity-animation",
+  "target_game_id": "1345968745",
+  "title": "Helix Cross-Section: How Deep Can You Drop?",
+  "hook_3s": "A neon helix tower sliced open like an x-ray — revealing 50 secret levels stacked beneath the ball.",
+  "scene_flow": [
+    "0-3s: Camera starts on a normal Helix Jump view (ball bouncing on top platform), then a 'slice' wipe reveals the entire tower as a vertical cross-section — dozens of color-coded levels descending into darkness below.",
+    "3-7s: Camera rockets downward through the cross-section, labeling hidden zones the player hasn't seen yet: 'Lava Ring · Lvl 23', 'Boss Gate · Lvl 40', 'Neon Core · Lvl 50'. Red trap platforms flash as danger markers.",
+    "7-12s: Cut back to live gameplay POV — finger drags, helix rotates, ball smashes through 5 green platforms in a row, score multiplier x2 → x5 → x8 pops on screen.",
+    "12-15s: Ball plummets past a 'YOU ARE HERE' marker still near the top. Tower keeps extending downward off-screen. CTA slams in."
+  ],
+  "visual_direction": "Lean fully into Helix Jump's neon 3D minimalism — cyan (#5CE1E6) backdrop, electric green (#39FF14) safe platforms, hot red (#FF0000) trap rings. The 'cross-section' is rendered as a clean vertical slice through the existing 3D helix tower (not a 2D illustration), so it still reads as authentic gameplay. Use a subtle scanline/x-ray glow when the slice reveals lower levels. Camera motion is fast, vertical, and snappy — matching the game's falling/smashing energy. No characters, no illustrative bunker art, no earth tones — we're hijacking the curiosity-cross-section structure but skinning it 100% in Helix Jump DNA.",
+  "text_overlays": [
+    "What's BELOW level 1?",
+    "50 hidden floors 👀",
+    "Lava Ring · Boss Gate · Neon Core",
+    "Smash through to find out",
+    "x8 COMBO!",
+    "How deep can YOU drop?"
+  ],
+  "cta": "Drop In",
+  "rationale": "Voodoo's current Helix Jump rotation is all silent gameplay-loop videos and playables with zero narrative hook — they have no curiosity-driven creative in market. This brief imports the trending 'cross-section reveal' archetype (curiosity centroid) but reskins it into authentic neon helix visuals, giving UA a fresh thumbnail and a 'what's hidden below?' question their existing assets never ask. Test against the silent-gameplay control to isolate curiosity lift on IPM and 3s-hold-rate.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 mobile ad still: an authentic Helix Jump in-game moment rendered in 3D minimalist style with bright contrasting colors and simple geometric shapes, showing the iconic vertical helix tower of stacked circular platforms sliced open as a clean cross-section revealing dozens of hidden levels descending below, glossy bouncing ball at the top, electric green (#39FF14) safe platform segments, hot red (#FF0000) trap segments glowing as danger zones, cyan (#5CE1E6) gradient background, score multiplier HUD in top corner, level number badge top-left, bold white sans-serif on-screen text 'What's BELOW level 1?' centered upper third, x-ray scanline glow along the slice line, no characters, no people, clean mobile UI chrome matching Helix Jump screenshots.",
+    "Storyboard frame 2, vertical 9:16: same Helix Jump 3D minimalist art style, fast downward camera plunge through the sliced helix tower cross-section showing labeled hidden zones stacked vertically — 'Lava Ring Lvl 23', 'Boss Gate Lvl 40', 'Neon Core Lvl 50' — rendered as floating neon labels beside red (#FF0000) and green (#39FF14) ringed platforms against a cyan (#5CE1E6) backdrop, motion blur streaks, simple geometric shapes only, on-screen text '50 hidden floors 👀' in bold white, authentic Helix Jump HUD with score and level counter, no character on screen.",
+    "Storyboard frame 3, vertical 9:16: live gameplay POV of Helix Jump, top-down-ish 3D minimalist view of the rotating helix tower, glossy ball mid-bounce smashing through a stack of electric green (#39FF14) platforms with shatter particles, hot red (#FF0000) trap ring just dodged below, cyan (#5CE1E6) sky background, huge score multiplier 'x8 COMBO!' overlay in bright neon yellow-green, finger-drag swipe indicator hinting tower rotation, simple geometric shapes, bright contrasting colors, no character, clean Helix Jump HUD with combo counter and level progression bar."
+  ]
+}

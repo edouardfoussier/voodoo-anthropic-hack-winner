@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "38c1ca39ec572970",
+    "ad_unit_id": "38c1ca39ec572970",
+    "app_id": "5a639d7bd99e270b0f78d750",
+    "advertiser_name": "Hard Rock Jackpot Casino",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c174a8e5efbf4a31/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c174a8e5efbf4a31/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c174a8e5efbf4a31/preview",
+    "phashion_group": "38c1ca39ec572970",
+    "share": null,
+    "first_seen_at": "2026-03-10T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 540,
+    "height": 960,
+    "message": "Book your stay with us and improve your experience with exclusive hospitality 🤘",
+    "button_text": "Book now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Aspirational montage of a luxury hotel and casino experience.",
+    "visual_action": "Zooming shot of the guitar-shaped Hard Rock Hotel followed by a luxury suite reveal.",
+    "text_overlay": "2026 vision board ✨✨✨",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Exterior zoom of the iconic guitar-shaped hotel building.",
+    "Quick cut to a pristine, luxury hotel room interior.",
+    "POV shot of tropical cocktails being toasted by a resort pool.",
+    "Wide shot of a modern, high-tech casino floor with roulette.",
+    "Final shots of indoor and outdoor luxury pool facilities."
+  ],
+  "on_screen_text": [
+    "2026 vision board ✨✨✨"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#5BB0D5",
+    "#FFFFFF",
+    "#76C7C0"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Young adults and travelers seeking luxury lifestyle experiences and high-end entertainment.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001268
+}

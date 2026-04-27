@@ -1,0 +1,28 @@
+{
+  "archetype_id": "other-mixed",
+  "target_game_id": "6748054540",
+  "title": "POV: My Nightly Unwind Ritual",
+  "hook_3s": "POV: it's 10pm — phone tilts up, one tap drops a glowing amber block, and the whole grid erupts into a cascade of bouncing balls.",
+  "scene_flow": [
+    "0-3s: Dim bedroom ambience implied via soft purple glow on a phone screen (no on-camera person). Phone shows the Bounce Blast 3D grid waiting; finger hovers. Overlay: 'POV: my 10pm wind-down.'",
+    "3-7s: Tap places a yellow-orange block into the tray slot. Obstacles transform into bouncing balls — first chain reaction begins with satisfying thuds and amber sparks. Overlay: 'one tap…'",
+    "7-11s: Camera pushes in on the grid as balls ricochet, clearing rows in a cascading combo. Progress bar fills in #FDBA4D amber. Overlay: 'chain reaction unlocked.'",
+    "11-14s: 'Level Complete' burst in deep purple frame; next harder level previews. Overlay: 'level 47 — still hooked.'",
+    "14-15s: End card: logo + CTA. Overlay: 'Tap to bounce.'"
+  ],
+  "visual_direction": "Lean fully into the 3D Casual Abstract aesthetic — no live action, no characters. Frame the phone screen as the entire world: deep charcoal #20232B background with subtle bokeh, deep purple #403F6D UI frames and tray, and the hero amber #FDBA4D accent reserved for the tappable block, progress bar, and chain-reaction sparks. Soft rim lighting on 3D blocks, glossy bouncing balls with motion blur trails, ASMR-grade satisfying micro-animations. Calm, cinematic, late-night-lamp mood — the opposite of frantic UGC. Audio: muted tap clicks, soft ball thuds, gentle synth pad.",
+  "text_overlays": [
+    "POV: my 10pm wind-down",
+    "one tap…",
+    "chain reaction unlocked",
+    "level 47 — still hooked",
+    "Tap to bounce"
+  ],
+  "cta": "Play Free",
+  "rationale": "We're keeping the archetype's high-performing 'POV' framing but swapping the Gen-Z bedroom-dive energy for a calm, late-night unwind ritual that matches Bounce Blast 3D's 25-55 relaxer audience. The back half is fully re-cut to showcase the physics chain-reaction payoff (the actual differentiator) instead of generic block-stacking, and we drop any competitor name. Test as a low-cost UGC-adjacent variant against pure-gameplay control; expect stronger IPM with women 30+ on Facebook/TikTok.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, 3D Casual Abstract style mobile puzzle game screenshot, top-down tilted view of a deep purple #403F6D grid on a moody charcoal #20232B background, a single glowing amber #FDBA4D cube hovering above a tray slot with soft sparks, glossy bouncing balls with motion-blur trails ricocheting across cleared rows, calm cinematic rim lighting, on-screen text overlay 'one tap…' in clean white sans-serif, satisfying ASMR mood, no characters, no people",
+    "Storyboard frame 1, aspect 9:16, 3D Casual Abstract style, close-up of a smartphone screen floating in dark space, screen shows a Bounce Blast 3D puzzle grid in deep purple #403F6D with charcoal #20232B background and a pulsing amber #FDBA4D progress bar, soft bokeh purple glow around the phone suggesting a dim bedroom, on-screen text overlay 'POV: my 10pm wind-down' in minimal white sans-serif, calm and cozy, no characters",
+    "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style, dynamic mid-action shot of dozens of glossy 3D balls bouncing and chaining across a deep purple #403F6D grid, charcoal #20232B background, bright amber #FDBA4D spark bursts and trails, 'Level Complete' badge in purple frame with amber accent, on-screen text overlay 'chain reaction unlocked' in white sans-serif, cinematic depth of field, satisfying physics payoff, no characters"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "2224e98c0ced4fb4",
+    "ad_unit_id": "2224e98c0ced4fb4",
+    "app_id": "69340df4df84cd0b0b8487d8",
+    "advertiser_name": "The Cozy Florist",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f60e9b73dcec801d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f60e9b73dcec801d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f60e9b73dcec801d/preview",
+    "phashion_group": "2224e98c0ced4fb4",
+    "share": null,
+    "first_seen_at": "2026-03-31T00:00:00",
+    "last_seen_at": "2026-04-13T00:00:00",
+    "video_duration": 7.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Create your dream garden🌸🌸🌸🌸",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman laughs while playing a game, with text describing stealing a tulip from a friend's garden.",
+    "visual_action": "A woman in white pajamas sits on a bed, laughing and holding her phone.",
+    "text_overlay": "You see a rare tulip in your friendgarden and decideto steal it",
+    "voiceover_transcript": "Oh! She's stealing! She's... go get her! Go!",
+    "emotional_pitch": "rage_bait"
+  },
+  "scene_flow": [
+    "UGC shot of a woman laughing while playing the game on her phone.",
+    "Transition to a top-down view of a colorful digital garden and greenhouse.",
+    "End card showing the game title 'The Cozy Florist' and a 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "You see a rare tulip in your friendgarden and decideto steal it",
+    "DOWNLOAD AND PLAY",
+    "THE COZY FLORIST",
+    "TODAY",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#76B947",
+    "#E91E63"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual female gamers who enjoy social simulation and garden decoration games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001377
+}

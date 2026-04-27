@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "app_id": "5efc3e17108f5009c1774577",
+      "breakdown": [
+        {
+          "date": "2026-01-01",
+          "organic_abs": 112,
+          "organic_browse_abs": 63,
+          "organic_search_abs": 49,
+          "browser_abs": 6,
+          "paid_abs": 590,
+          "paid_search_abs": 4,
+          "organic_frac": 0.157303,
+          "organic_browse_frac": 0.088483,
+          "organic_search_frac": 0.06882,
+          "browser_frac": 0.008427,
+          "paid_frac": 0.828652,
+          "paid_search_frac": 0.005618
+        }
+      ]
+    }
+  ]
+}

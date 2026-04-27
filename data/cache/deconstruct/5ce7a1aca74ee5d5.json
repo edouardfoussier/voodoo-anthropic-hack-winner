@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "5ce7a1aca74ee5d5",
+    "ad_unit_id": "5ce7a1aca74ee5d5",
+    "app_id": "57d6bb900211a6b7290001a8",
+    "advertiser_name": "Merge Dragons!",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01b340af0f4e4063/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01b340af0f4e4063/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01b340af0f4e4063/preview",
+    "phashion_group": "5ce7a1aca74ee5d5",
+    "share": null,
+    "first_seen_at": "2026-04-13T00:00:00",
+    "last_seen_at": "2026-04-13T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Check out new exciting events!🤩",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A glowing chest appears with a promise of free gifts, followed by a hand tapping to open it.",
+    "visual_action": "Text overlay flashes over a mystical background, then a hand taps a magical chest which bursts open with rewards.",
+    "text_overlay": "FREE GIFTS are waiting for you!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Intro text 'FREE GIFTS are waiting for you!' flashes over a blue mushroom background.",
+    "A hand taps a magical chest, triggering an opening animation.",
+    "Various fantasy plants and creatures fly out of the chest and settle into a grid.",
+    "Final screen displays 'Play & Win' and 'Collect Them All!' with the game logo."
+  ],
+  "on_screen_text": [
+    "FREE GIFTS are waiting for you!",
+    "Play & Win",
+    "Collect Them All!",
+    "Merge Dragons!"
+  ],
+  "cta_text": "Collect Them All!",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#76D7EA",
+    "#8E44AD",
+    "#2ECC71"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual players, particularly women 25-45, who enjoy collection-based puzzle games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016359999999999999
+}

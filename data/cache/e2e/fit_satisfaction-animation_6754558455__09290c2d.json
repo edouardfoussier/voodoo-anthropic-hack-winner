@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-animation",
+  "visual_match": 42,
+  "mechanic_match": 55,
+  "audience_match": 78,
+  "overall": 58,
+  "rationale": "The \"drop + satisfying chain reaction\" hook structurally maps onto Marble Sort!'s tap-to-release-and-drop loop and targets the same female-skewing casual satisfaction audience, so the emotional pitch translates well. However, there are real frictions: the archetype shows MERGE mechanics (Suika-style) not SORT mechanics, which risks misleading installs and lower D1 retention, and the warm berry/cream/brown palette clashes with the game's soft lavender + orange identity. Recommend adapting the format—keep the drop-and-satisfying-payoff beat but swap fruit-merging for marbles cascading into matching color boxes, and re-skin to the game's purple/orange palette before testing."
+}

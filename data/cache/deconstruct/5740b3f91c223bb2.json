@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "5740b3f91c223bb2",
+    "ad_unit_id": "5740b3f91c223bb2",
+    "app_id": "55c5020a02ac64f9c0001f66",
+    "advertiser_name": "Slotomania Slots Casino Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e03136ff1da3d0c0/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e03136ff1da3d0c0/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e03136ff1da3d0c0/preview",
+    "phashion_group": "5740b3f91c223bb2",
+    "share": null,
+    "first_seen_at": "2026-03-31T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Download Slotomania, the #1 Rated Slots Game, and Get 15 Million Free Coins Now!",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Text-based claim of an ad-free experience followed by a happy family scene.",
+    "visual_action": "A purple text screen transitions to an AI-generated image of an elderly man and a younger woman laughing while looking at a smartphone.",
+    "text_overlay": "CAN'T BELIEVE I FOUND A FREE SLOTS GAME WITH ZERO ADS! SLOTOMANIA IS A GAME-CHANGER!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Initial text hook claiming zero ads on a purple gradient background.",
+    "AI-generated scene of an elderly man and a younger woman laughing while looking at a smartphone.",
+    "Close-up of the smartphone screen showing the 'Crazy Train' slot game in action.",
+    "Full-screen gameplay montage featuring 'Wild' symbols and a 'Mega Win' coin explosion.",
+    "End card with the game logo, 'Crazy Train' branding, and a 'PLAY NOW' button."
+  ],
+  "on_screen_text": [
+    "CAN'T BELIEVE I FOUND A FREE SLOTS GAME WITH ZERO ADS! SLOTOMANIA IS A GAME-CHANGER!",
+    "CRAZY TRAIN",
+    "WILD",
+    "MEGA WIN",
+    "Slotomania",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#4B0082",
+    "#FFD700",
+    "#E6007E"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adults 50+ who enjoy casino-style entertainment and value an ad-free gaming experience.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001888
+}

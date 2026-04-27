@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_UJ2ooibTX59g8msPgnv56sSS?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVUoyb29pYlRYNTlnOG1zUGdudjU2c1NTP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=k2vaWhyvS8sl22ZsulLWY0ESp-Jx0tAfMeuGxHQRrz-0xkmIzjwwI%7EcgC%7ERpGEASoqNdvrf0dZ-rb%7EZGtTZBxcY28AF5q24DLTI9QKmwYFrdclFTntgTdeEpZlLkz0TtTo0kkI4mcPxcJCnkDyhxNr4XE5ITG5ZHyqxF%7EX%7EvBEN6oAmvlGqnz7m0eevRF1HLndVdZgq3qre6C4A5JvL1aSgY%7EffMqq0OQfFR5OyA0UJaHFJlseRN3iLIsvqsm6gQe3Q7b7m9Y1DikTTlfK5jY21a20YdpRQvSlLj8SEcMcXbM0xlaDR0AJ9uCRs94lJxFIbg9TEE2j-0rB7FZrVqvg__",
+  "job_id": "job_dAcZEcrb6Rr7PRdsUjiH6Qun",
+  "asset_id": "asset_UJ2ooibTX59g8msPgnv56sSS",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, top-down 3-quarter mobile game screenshot of Crowd City gameplay: a massive swarm of low-poly stickman figures in bright #FF0000 red running through a pastel low-poly Paris street, colliding head-on with a larger swarm of #0000FF blue stickman figures near the Eiffel Tower, scattered #00FF00 green neutral stickmen on sidewalks, low-poly colorful 3D environment with simple stickman-like character models, native game HUD with top-center countdown timer and white crowd-size counters '82' and '184' floating above each crowd, level pill 'LVL 7' top-left, bold white sans-serif overlay text 'WHY IS THIS LEVEL SO HARD?' across upper third, energetic competitive mood, no hand cursor, no tap indicators",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "7ca8583bda051cfb",
+    "ad_unit_id": "7ca8583bda051cfb",
+    "app_id": "59ae6d77b3606ffac7780a24",
+    "advertiser_name": "Bid Wars 2: Auction Simulator",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c02f22294e22a04/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c02f22294e22a04/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c02f22294e22a04/preview",
+    "phashion_group": "7ca8583bda051cfb",
+    "share": null,
+    "first_seen_at": "2025-12-04T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Hunt For Treasure In Thrilling Storage Auctions And Be Strategic To Maximize Your Wins!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A storage unit door opens to reveal items and a bidding war starts.",
+    "visual_action": "Garage door opens, revealing a storage unit; a hand clicks 'BID' as prices rise.",
+    "text_overlay": "subtle foreshadowing",
+    "voiceover_transcript": "All right, let's do this. Who's gonna make it? Here. Now. Here.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Garage door opens to reveal a storage unit with a large covered object.",
+    "A bidding war ensues with the player clicking 'BID' against other characters.",
+    "The player wins the auction, and a shower of gold coins appears.",
+    "The tarp is lifted to reveal a damaged truck, resulting in a 'FAIL' message.",
+    "Final end card with the game logo and 'PLAY NOW' call to action."
+  ],
+  "on_screen_text": [
+    "BID WARS",
+    "subtle foreshadowing",
+    "$ 830!",
+    "$ 920!",
+    "$ 1050!",
+    "PASS...",
+    "SOLD",
+    "FAIL!",
+    "PLAY NOW!"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#4A708B",
+    "#FFD700",
+    "#B22222"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Men 25-45 who enjoy the thrill of auctions and casual strategy games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001804
+}

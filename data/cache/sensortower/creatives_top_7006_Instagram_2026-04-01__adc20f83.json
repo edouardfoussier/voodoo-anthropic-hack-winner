@@ -1,0 +1,420 @@
+{
+  "count": 326,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "835112031262210e",
+      "app_id": "55d939a502ac645ad202102f",
+      "network": "Instagram",
+      "phashion_group": "835112031262210e",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-19",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "835112031262210e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/efae2caa58df9f9e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/efae2caa58df9f9e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/efae2caa58df9f9e/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "1 million de Freebets offerts \ud83d\udcb5",
+          "button_text": "Install Now",
+          "message": "Marble Race \ud83d\ude80\ud83d\ude80"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d939a502ac645ad202102f",
+        "canonical_country": "FR",
+        "name": "Winamax Paris Sportifs",
+        "publisher_name": "Winamax",
+        "publisher_id": "56289dde02ac6486a700885a",
+        "humanized_name": "Winamax Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/e2/7f/00e27f11-cf7a-958d-559b-0f79bfa7df4f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d939a502ac645ad202102f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "30bf2d53c14f6883",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Instagram",
+      "phashion_group": "30bf2d53c14f6883",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-16",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "30bf2d53c14f6883",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea1231f5b76db6f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea1231f5b76db6f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea1231f5b76db6f/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "5 parties de Spin & Rush offertes*\ud83d\udd25",
+          "button_text": "Download",
+          "message": "Mesure\u2011toi \u00e0 nos 700 000 joueurs ! \ud83e\udd29\nQuel que soit ton niveau, viens d\u00e9fier les plus de 700 000 joueurs qui jouent d\u00e9j\u00e0 chez nous !"
+        },
+        {
+          "id": "f1ebd66f89d3ec1a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea1231f5b76db6f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea1231f5b76db6f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea1231f5b76db6f/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "5 parties de Spin & Rush offertes*\ud83d\udd25",
+          "button_text": "Download",
+          "message": "Mesure\u2011toi \u00e0 nos 700 000 joueurs !\ud83e\udd29\nQuel que soit ton niveau, viens d\u00e9fier les plus de 700 000 joueurs qui jouent d\u00e9j\u00e0 chez nous !"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a0cb03da5d9fd48c",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Instagram",
+      "phashion_group": "a0cb03da5d9fd48c",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-29",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "a0cb03da5d9fd48c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ccfba1f7a29ce660/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ccfba1f7a29ce660/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ccfba1f7a29ce660/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jusqu'\u00e0 100\u20ac revers\u00e9s en Feebets* \ud83d\udd25",
+          "button_text": "Download",
+          "message": "Parie sur le meilleur du foot europ\u00e9en avec Betclic ! \ud83c\udfc6\u26bd\ufe0f"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "eeb1571a9cfbe6bd",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Instagram",
+      "phashion_group": "eeb1571a9cfbe6bd",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-14",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "eeb1571a9cfbe6bd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/69157d55aeae02a6/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/69157d55aeae02a6/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/69157d55aeae02a6/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jusqu'\u00e0 100\u20ac revers\u00e9s en Feebets* \ud83d\udd25",
+          "button_text": "Download",
+          "message": "Parie et regarde le meilleur du Basket US \ud83c\udfc0\nVis le Basket plus fort avec Betclic ! \ud83d\udcaa"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "70490b193582f7d0",
+      "app_id": "55d939a502ac645ad202102f",
+      "network": "Instagram",
+      "phashion_group": "70490b193582f7d0",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-05",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "70490b193582f7d0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5c3eb8062ccf73e8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5c3eb8062ccf73e8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5c3eb8062ccf73e8/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Ton premier pari rembours\u00e9 en cash\ud83c\udfc6",
+          "button_text": "Install now",
+          "message": ""
+        },
+        {
+          "id": "c7dcbb4183df65f9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5c3eb8062ccf73e8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5c3eb8062ccf73e8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5c3eb8062ccf73e8/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Les meilleures cotes sur Winamax\ud83c\udfc6",
+          "button_text": "Install Now",
+          "message": "Regarde gratuitement la NBA sur l'app Winamax\ud83c\udfc0"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d939a502ac645ad202102f",
+        "canonical_country": "FR",
+        "name": "Winamax Paris Sportifs",
+        "publisher_name": "Winamax",
+        "publisher_id": "56289dde02ac6486a700885a",
+        "humanized_name": "Winamax Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/e2/7f/00e27f11-cf7a-958d-559b-0f79bfa7df4f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d939a502ac645ad202102f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e0e484787431c9d8",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Instagram",
+      "phashion_group": "e0e484787431c9d8",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-20",
+      "last_seen_at": "2026-04-07",
+      "creatives": [
+        {
+          "id": "e0e484787431c9d8",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f827b60a1063dd93/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f827b60a1063dd93/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f827b60a1063dd93/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jusqu'\u00e0 100\u20ac revers\u00e9s en CASH* \ud83d\udd25",
+          "button_text": "Download",
+          "message": "Signe chez les pros \u270d\ufe0f\nT\u00e9l\u00e9charge d\u00e8s maintenant ton App Betclic ! \ud83e\udee1"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e2ded1c999e311ab",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Instagram",
+      "phashion_group": "e2ded1c999e311ab",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-06",
+      "last_seen_at": "2026-04-10",
+      "creatives": [
+        {
+          "id": "e2ded1c999e311ab",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/727a558871ec343e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/727a558871ec343e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/727a558871ec343e/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jusqu'\u00e0 100\u20ac revers\u00e9s en Feebets* \ud83d\udd25",
+          "button_text": "Download",
+          "message": "\ud83c\uddea\ud83c\uddf8 BARCELONE vs A. MADRID \ud83c\uddea\ud83c\uddf8\nParie sur le meilleur du foot europ\u00e9en avec Betclic ! \ud83c\udfc6"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e72cc24336dda206",
+      "app_id": "55d939a502ac645ad202102f",
+      "network": "Instagram",
+      "phashion_group": "e72cc24336dda206",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-18",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "e72cc24336dda206",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9c254fd2d9001ba0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9c254fd2d9001ba0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9c254fd2d9001ba0/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Ton premier pari rembours\u00e9 en cash \ud83d\udcb5",
+          "button_text": "Install Now",
+          "message": "Parie et Regarde gratuitement la NBA sur l'appli Winamax \ud83c\udfc0"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d939a502ac645ad202102f",
+        "canonical_country": "FR",
+        "name": "Winamax Paris Sportifs",
+        "publisher_name": "Winamax",
+        "publisher_id": "56289dde02ac6486a700885a",
+        "humanized_name": "Winamax Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/e2/7f/00e27f11-cf7a-958d-559b-0f79bfa7df4f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d939a502ac645ad202102f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "376956d0fc6c9f8b",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Instagram",
+      "phashion_group": "376956d0fc6c9f8b",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-29",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "376956d0fc6c9f8b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b59f4fd036fad67/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b59f4fd036fad67/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5b59f4fd036fad67/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jusqu'\u00e0 100\u20ac revers\u00e9s en Feebets* \ud83d\udd25",
+          "button_text": "Download",
+          "message": "Parie sur le meilleur du foot europ\u00e9en avec Betclic ! \ud83c\udfc6\u26bd\ufe0f"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a25fbcc43b553473",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Instagram",
+      "phashion_group": "a25fbcc43b553473",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-06",
+      "last_seen_at": "2026-04-09",
+      "creatives": [
+        {
+          "id": "a25fbcc43b553473",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3a1a9fc97135aa36/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3a1a9fc97135aa36/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3a1a9fc97135aa36/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jusqu'\u00e0 100\u20ac revers\u00e9s en Feebets* \ud83d\udd25",
+          "button_text": "Download",
+          "message": "\ud83c\uddea\ud83c\uddf8 R. MADRID vs MUNICH \ud83c\udde9\ud83c\uddea\nParie sur le meilleur du foot europ\u00e9en avec Betclic ! \ud83c\udfc6"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

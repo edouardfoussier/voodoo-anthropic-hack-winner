@@ -1,0 +1,73 @@
+{
+  "raw": {
+    "creative_id": "2d1cb76ebe18267b",
+    "ad_unit_id": "2d1cb76ebe18267b",
+    "app_id": "67594de3d9e52a2021e5354f",
+    "advertiser_name": "Crossword Go!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f0c66ae37c9c3c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f0c66ae37c9c3c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00f0c66ae37c9c3c/preview",
+    "phashion_group": "2d1cb76ebe18267b",
+    "share": null,
+    "first_seen_at": "2026-02-13T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Master the Grid – One Clue at a Time",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Hand filling in 'SANTA' on a Christmas-themed crossword puzzle.",
+    "visual_action": "A hand holding a stylus writes letters into a crossword grid to complete a word.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Hand begins writing the letter 'S' in the crossword grid.",
+    "Hand completes the word 'SANTA' letter by letter.",
+    "The word is highlighted and a star reward animation plays."
+  ],
+  "on_screen_text": [
+    "ST JOHN",
+    "AIR JORDAN",
+    "DARK CLOUD",
+    "ROMAN",
+    "NOT TRUE",
+    "INFRARED DOWN",
+    "3RD LETTER",
+    "NO KIDDING CHOO-CHOO RIDE",
+    "BILL",
+    "4G...",
+    "POST NOTE",
+    "VINYL ADDAMS'S COUSIN",
+    "FOOD STAT",
+    "TAI",
+    "STUNNED",
+    "AMATURE",
+    "ROUGHLY",
+    "NATURE OUTING 1ST LETTER",
+    "DOUBLE KINETIC ENERGY",
+    "KNOWLEDGE TRANSFER",
+    "GLASS",
+    "CHRISTMAS",
+    "SANTA",
+    "NAA"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#F9E4B7",
+    "#D63031",
+    "#2D3436"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy word games and relaxing seasonal content.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00157
+}

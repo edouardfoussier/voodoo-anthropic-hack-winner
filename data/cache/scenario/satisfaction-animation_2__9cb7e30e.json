@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_1pXcbb2YRkf4Aa5efaRTZtE4?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMXBYY2JiMllSa2Y0QWE1ZWZhUlRadEU0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=RImQaA1ckV%7EtHKCl%7Ep1XaxxbRO%7EeV3Km6xNaHE4BqU92F7grbMbhb%7EUUcEkaVGGgYBHAjAh76aLAeElwOfOAHTagd4DhHp%7EF-qJoOjV7rgbQlYPEYuz05pb%7Ee5HYSymFChk0LhVVnJJ6UdM1JUCmWeF8LpJ44JXQtDBLDmy8DKLPpoFF041aF-5OqwfIQgL9vlnO6-jT8%7EaqSw9Jv69Gghhgui3MXddlTXjVvVWCLDvu1vsI8JLA3bLO%7EO1pLbAIl0uy0HJthewwSScOVU2%7EQyfshDwSVBuK66Wwx6d7f9NJpGxWEZqV3nRNhevBiyPhHFDz8Zd2yFQIJAeUJNphug__",
+  "job_id": "job_td7oFMjpWMNL28QaTFh7bpYa",
+  "asset_id": "asset_1pXcbb2YRkf4Aa5efaRTZtE4",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, Stylized 3D Cartoon: epic wide shot of an enormous purple #5824F5 cartoon mob flooding and smashing a cyan #00A3FF enemy fortress, yellow #FFD12C coins and confetti exploding skyward, motion blur and impact dust, vibrant high-contrast palette, energetic competitive mood, on-screen text 'MOB UNLEASHED' in chunky bold yellow letters",
+  "model_id": "flux.1-dev"
+}

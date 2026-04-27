@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 42,
+  "mechanic_match": 35,
+  "audience_match": 82,
+  "overall": 48,
+  "rationale": "Audience overlap is strong — casual women 25-55 who like jigsaw puzzles are the same demographic that plays sorting games, and the \"satisfaction\" emotional pitch matches Marble Sort's calm/satisfying UI mood. However, there are two hard frictions: (1) the jigsaw palette (grey/blue/green landscape tones) clashes with Marble Sort's signature lavender + orange pastel identity, and (2) the mechanic is fundamentally misaligned — jigsaw piece placement does not telegraph physics-tap, conveyor management, or color sorting, so click-to-install intent will likely misqualify users. Recommend only adapting the \"finger-on-phone, satisfying placement\" framing as a shell, but swap the puzzle content for actual marble-sorting gameplay and re-skin to the lavender/orange palette."
+}

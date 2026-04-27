@@ -1,0 +1,202 @@
+{
+  "target_game": {
+    "app_id": "1389111413",
+    "name": "Hole.io",
+    "genre": "Arcade",
+    "sub_genre": ".io Games",
+    "core_loop": "Navigate a black hole to consume objects, increase in size, and outcompete other players before time runs out.",
+    "audience_proxy": "Broad casual audience, appealing to all ages and genders looking for quick, competitive, and satisfying gameplay.",
+    "visual_style": "Low-poly 3D, bright, colorful, and cartoonish.",
+    "palette": {
+      "primary_hex": "#FF9800",
+      "secondary_hex": "#29B6F6",
+      "accent_hex": "#FFEB3B",
+      "description": "Bright orange and blue dominate the gameplay, with vibrant yellow used for emphasis and UI text."
+    },
+    "key_mechanics": [
+      "swallowing",
+      "growing",
+      "navigating",
+      "competing"
+    ],
+    "character_present": true,
+    "ui_mood": "energetic/competitive",
+    "screenshot_signals": [
+      "timer",
+      "score counter",
+      "level indicator",
+      "player ranking",
+      "growth text prompts",
+      "cityscape environment"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 8,
+    "num_phashion_groups": 8
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "5ba7458dea1165c1"
+      ],
+      "centroid_hook": {
+        "summary": "A person rushes home and jumps on their bed to immediately start playing the game.",
+        "visual_action": "A young man in a hoodie enters his house, runs to his room, and dives onto his bed with a tablet.",
+        "text_overlay": "POV: When I got home, I opened Tetris Block Party.",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#912CEE",
+        "#FFD700",
+        "#FFFFFF"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.3,
+      "derivative_spread": 1.0,
+      "freshness_days": 100.0,
+      "overall_signal_score": 0.545,
+      "rationale": "1 creatives across 1 unique advertisers, average age 100d. Hook representative: \"A person rushes home and jumps on their bed to immediately start playing the gam\""
+    },
+    {
+      "archetype_id": "satisfaction-in-game",
+      "label": "Satisfaction · in-game",
+      "member_creative_ids": [
+        "bdf6fd7b1032fa14"
+      ],
+      "centroid_hook": {
+        "summary": "A hand clears a crowded bus parking lot to the sound of relaxing music.",
+        "visual_action": "A hand icon drags colorful buses out of a grid-locked parking lot.",
+        "text_overlay": "Hey! Played a game that Actually makes you Feel relaxed?",
+        "voiceover_transcript": "Hey! Have you ever played a game that actually makes you feel relaxed?",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#A0C4FF",
+        "#FFFFFF",
+        "#FF595E"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.244,
+      "derivative_spread": 1.0,
+      "freshness_days": 123.0,
+      "overall_signal_score": 0.509,
+      "rationale": "1 creatives across 1 unique advertisers, average age 123d. Hook representative: \"A hand clears a crowded bus parking lot to the sound of relaxing music.\""
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "label": "Fail · in-game",
+      "member_creative_ids": [
+        "0f1d747b3e7d863f"
+      ],
+      "centroid_hook": {
+        "summary": "A player attempts to solve a bus-sorting puzzle but fails due to blocked paths.",
+        "visual_action": "A hand cursor selects a purple bus which moves successfully, then attempts to move a blue bus that is blocked.",
+        "text_overlay": "WHY THIS LEVEL IS SO HARD, CAN YOU WIN?",
+        "voiceover_transcript": null,
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#4CAF50",
+        "#F44336",
+        "#2196F3"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.116,
+      "derivative_spread": 1.0,
+      "freshness_days": 258.0,
+      "overall_signal_score": 0.426,
+      "rationale": "1 creatives across 1 unique advertisers, average age 258d. Hook representative: \"A player attempts to solve a bus-sorting puzzle but fails due to blocked paths.\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 25,
+      "mechanic_match": 20,
+      "audience_match": 55,
+      "overall": 30,
+      "rationale": "The \"POV: rushed home to play\" hook is a generic lifestyle wrapper that shows zero of Hole.io's actual swallowing/growing loop, and the purple/gold palette plus explicit Tetris Block Party reference clash directly with the game's bright orange/blue cartoon cityscape DNA. Mechanic fit is weak because the archetype relies on substituting any title into the overlay rather than showcasing the satisfying consume-and-grow payoff that drives Hole.io installs. Only worth testing if reshot natively with Hole.io gameplay on-screen during the bed-dive — otherwise skip; the cluster is also a single-creative, single-advertiser signal with no proven scale."
+    },
+    {
+      "archetype_id": "satisfaction-in-game",
+      "visual_match": 35,
+      "mechanic_match": 40,
+      "audience_match": 60,
+      "overall": 42,
+      "rationale": "The \"relaxing satisfaction\" hook clashes with Hole.io's energetic, competitive, timer-driven DNA — the bus-parking puzzle palette (soft pastels + red) and slow hand-drag pacing don't translate to fast .io chaos with bright orange/blue cityscapes. Mechanically, \"clear the grid\" satisfaction can be loosely reframed as \"swallow the whole city\" ASMR-style, which is the only viable bridge, but it requires reshooting against actual Hole.io footage rather than adopting this archetype directly. Audience overlaps on the broad casual layer, but the relaxation pitch undersells the competitive multiplayer hook that drives Hole.io retention — recommend testing only as a low-budget B-variant with a satisfaction-styled edit of native gameplay."
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "visual_match": 20,
+      "mechanic_match": 10,
+      "audience_match": 55,
+      "overall": 22,
+      "rationale": "This is a bus-sorting/traffic-jam puzzle fail hook — a completely different genre (logic puzzle) with no overlap to Hole.io's swallow-and-grow arcade loop, so a direct port would be misleading creative and likely trigger high IPM-but-poor-retention or store policy issues. Palette (green/red/blue puzzle tiles) and gameplay visuals don't match the bright orange/blue low-poly cityscape DNA, and the \"blocked path\" frustration mechanic has no analog in a free-roam .io game. Only the broad casual audience overlaps; do not adapt this archetype — if testing a \"fail\" angle, build a Hole.io-native version (e.g., player too small to swallow a building, gets stuck) instead."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-in-game",
+        "target_game_id": "1389111413",
+        "title": "Swallow the City — ASMR Edit",
+        "hook_3s": "\"Ever played a game that actually feels this satisfying?\" — a black hole silently gulps a tiny orange car off a sunny low-poly street.",
+        "scene_flow": [
+          "0–3s HOOK: Close-up on a quiet low-poly intersection. A small black hole slides under a parked car — *thwoop* — it vanishes. Soft ASMR pop. Overlay question hook.",
+          "3–7s ESCALATION: Hole drifts down the block swallowing mailboxes, benches, then a hot-dog stand. Each gulp triggers a satisfying low-poly crunch and a tiny '+50' burst in yellow.",
+          "7–11s PAYOFF: Hole is now huge — it inhales an entire bright-orange building in one smooth pull. Camera pulls back to reveal the cityscape shrinking. Score counter spins up.",
+          "11–14s COMPETITION TWIST: A rival blue hole appears on the leaderboard sneaking up — our hole gulps a skyscraper just in time to claim #1.",
+          "14–15s CTA: Hole fills the screen, logo punches in over black. Tap prompt pulses."
+        ],
+        "visual_direction": "Lean fully into Hole.io's native low-poly 3D look — bright orange (#FF9800) buildings and props, cyan-blue (#29B6F6) sky and water, with yellow (#FFEB3B) used only for score pops and the CTA. Shoot from a slightly top-down 'tabletop diorama' angle that emphasizes the toy-like cleanliness of each gulp. Sound design is the star: muted city ambience, crisp ASMR pops/crunches per swallow, no aggressive music bed — let the satisfaction breathe. Motion is smooth and deliberate (not frantic) for the first 7 seconds, then accelerates into competitive payoff.",
+        "text_overlays": [
+          "Ever played a game that's THIS satisfying?",
+          "Just… swallow the whole city 🕳️",
+          "+1,250",
+          "Rival incoming…",
+          "#1 — gotcha",
+          "Tap to Play"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Hole.io rotation is all unlabeled action/gameplay video and playables — there's zero ASMR/satisfaction framing in market, despite satisfaction hooks trending across casual. This brief grafts the proven \"relaxing question hook\" onto native Hole.io footage (no palette clash, no mechanic reach) so UA gets a fresh thumb-stopper for calm-browsing audiences without abandoning the competitive payoff that drives installs. Ship as a low-cost B-variant against the existing energetic creatives and read CTR + IPM lift on Admob/Unity placements.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, low-poly 3D bright colorful cartoonish style, top-down diorama view of a sunny city intersection in vibrant orange #FF9800 buildings under a cyan #29B6F6 sky, a small glossy black hole in the center of the street mid-swallow with a tiny orange car tilting into it, soft shadows, clean toy-like rendering, bold yellow #FFEB3B on-screen text at top reading 'Ever played a game that's THIS satisfying?', mobile ad composition, high contrast, playful.",
+          "Storyboard frame, aspect 9:16, low-poly 3D bright colorful cartoonish style, mid-shot of an enlarged black hole swallowing an entire orange #FF9800 skyscraper that tilts and folds inward, cyan #29B6F6 sky background with a few low-poly clouds, bright yellow #FFEB3B floating score popup '+1,250' beside the hole, dynamic but clean composition, mobile ad framing, overlay text 'Just… swallow the whole city 🕳️'.",
+          "Storyboard frame, aspect 9:16, low-poly 3D bright colorful cartoonish style, dramatic low-angle of a massive black hole dominating a shrinking cartoon cityscape of orange #FF9800 rooftops with cyan #29B6F6 rivers cutting through, glowing yellow #FFEB3B '#1' leaderboard badge in the upper right, energetic competitive mood, bottom overlay text 'Tap to Play' in bold yellow."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_ng9Auaq1UtAVKAh1V5ijBGyE?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfbmc5QXVhcTFVdEFWS0FoMVY1aWpCR3lFP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=vcyR04pwPd-yLkyxL8%7EWRfb2xMIHmMOgAqUXEKPpZWH4UskPq%7EIs6f2bjr%7EJi9-TbfsnqnPiaPXAOLow2ElMHVbEEGKd88pIcHYJTyfF-20YTUROlxjF6yhfVVlrc%7EJ3nQXbVvI-vLOSzYCkTyoKE1L4Ar6VLAYFu4bMgUzMdz3jVkTbmiAPaz5OgbxTp4o9YCmWJcN1ocYOjePizoFcLCcEw6L%7EkJVBfl9sRzoXpxnGdybFmpevUrIrnGgI4iLSE7ebB35DdCSlxW7zUvXLZPedBIWpBjjE7Q-y8dey2r4D0C3ZXeIgciPbgokvdWX3u-ja5e%7EDEoGhcykbrKHNhA__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_qnJoPr8qVKUF1rRa5ZhoyLGX?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcW5Kb1ByOHFWS1VGMXJSYTVaaG95TEdYP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=FMhoiJiD36YdFSuQhr-BrDPkA0zqvSdByhKbIbgTpyWW8MkZ1EtjxmzCh6bYNy9bGaZ4PjJKDA2o2eKuwndGcecAMmNcrGbY7RDJEWwKoCUrAmpkDJ6EcxhyXPRKqdoexTDI1NcCFNybTX99jP10u2SnYoN3Xqh7NjqAinklNGyjqMVDS79S5U4-5a02NG3%7EGek5fvUj6DJi1ufA%7E-vsgR1hhwQUOKHaUcOn5rdv8oglTupvRULPLYvzfb%7EM-vcBFp12onDMwrffHenbn0RNuXvesWu7llesQ6qUeRldW9RqZHFpe7nUzt0tvHHJisO9-CWCCS%7Eb0ieODX%7E4MsyKLw__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_pZ45XDajuFrGH2fz7rgCfRZt?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcFo0NVhEYWp1RnJHSDJmejdyZ0NmUlp0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=dWWbmjil8ahwgftp6CWxNCno04%7E82dYPUaMj46dxCm%7EDf4iJtBfaNJJ5CxN5wlhcPRjSq%7Ekg7YT892YnGQEn4wvzvVKxatalmiBesTES1Uyo61V-av92dyTyljguPYmbfbyZYofke5SNxiEJv2Dbqe3aTTFInUpCcObsYSs4yZL7C-gSzVNHnRnbFjEXtw9eiAi%7EqfJkmV64bMNe4lN-25LRyu1qX51blRWFkgPUhrDNnzdoqxRq3S1MOn49lsrjkwp-U84vlcPyFy%7EyffIMvd3Epy0IuVag9VE0JOpy9RH2FlWWKkmHnEKGeKzMgneH1eYvQ-pGx1xyYgKqHaO25w__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=0.51 × game_fit=42/100 ⇒ priority=0.21"
+    }
+  ],
+  "pipeline_duration_seconds": 415.90930141699755,
+  "total_cost_usd": 0.011476,
+  "generated_at": "2026-04-25T22:58:42.267597Z"
+}

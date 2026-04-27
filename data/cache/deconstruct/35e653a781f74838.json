@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "35e653a781f74838",
+    "ad_unit_id": "35e653a781f74838",
+    "app_id": "56fee3eff49ea42a540000d4",
+    "advertiser_name": "BURGER KING App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d66ce8c29fc91bc0/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d66ce8c29fc91bc0/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d66ce8c29fc91bc0/preview",
+    "phashion_group": "35e653a781f74838",
+    "share": null,
+    "first_seen_at": "2026-03-31T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Der King des Monats® im April: der Crispy Chicken mit Big King® Sauce.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Dynamic reveal of the 'King of the Month' meal deal.",
+    "visual_action": "A yellow wave graphic sweeps down to frame a Crispy Chicken BKS meal while promotional badges pop onto the screen.",
+    "text_overlay": "Crispy Chicken BKS, KING DES MONATS, 5.99 €",
+    "voiceover_transcript": "Woo!",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Initial display of the Crispy Chicken BKS meal on a plain cream background.",
+    "A yellow graphic transition slides in from the top, introducing the 'King des Monats' branding.",
+    "Promotional badges for the special sauce and the 5.99 Euro price point pop into the frame with rhythmic sound effects.",
+    "The final offer layout remains static with upbeat music and legal disclaimers visible at the bottom."
+  ],
+  "on_screen_text": [
+    "Crispy Chicken BKS",
+    "KING DES MONATS",
+    "MIT BIG KING SAUCE",
+    "Im Menü nur 5.99 €"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#F5AA1C",
+    "#D62300",
+    "#F5EBDC"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Value-conscious fast food consumers in Germany looking for affordable chicken meal deals.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001492
+}

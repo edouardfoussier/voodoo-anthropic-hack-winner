@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "3544280f994b3038",
+    "ad_unit_id": "3544280f994b3038",
+    "app_id": "647db77c25186e7cb5c12245",
+    "advertiser_name": "Polygun Arena: Online Shooter",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/09263f62ccee5c31/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/09263f62ccee5c31/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/09263f62ccee5c31/preview",
+    "phashion_group": "3544280f994b3038",
+    "share": null,
+    "first_seen_at": "2026-02-04T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Join the Battle: Thrilling First-Person Shooter Awaits",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-intensity FPS gameplay montage showing rapid kills.",
+    "visual_action": "First-person perspective shooting enemies with a shotgun and sniper rifle in a wooden building.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "First-person shotgun gameplay inside a wooden structure.",
+    "Sniper scope view showing a long-range headshot.",
+    "Assault rifle gameplay with red-dot sight tracking enemies.",
+    "Close-range pistol combat and final kill.",
+    "End card with game logo, character lineup, and CTA."
+  ],
+  "on_screen_text": [
+    "39 KILLS TO WIN",
+    "POLYGUN ARENA",
+    "PLAY NOW!"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 7.0,
+  "palette_hex": [
+    "#5C4033",
+    "#87CEEB",
+    "#D32F2F"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual to mid-core male gamers who enjoy low-poly, fast-paced first-person shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001333
+}

@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "2d00dcebf767bb33",
+    "ad_unit_id": "2d00dcebf767bb33",
+    "app_id": "69896ab17c8562d1b066bed6",
+    "advertiser_name": "영혼 인도자：신의 이름으로",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/04f15dd52052fdce/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/04f15dd52052fdce/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/04f15dd52052fdce/preview",
+    "phashion_group": "2d00dcebf767bb33",
+    "share": null,
+    "first_seen_at": "2026-04-09T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-fidelity 3D character showcase with a countdown.",
+    "visual_action": "A female character in a red outfit poses for the camera, followed by rapid outfit changes.",
+    "text_overlay": "카운트다운 1일, 접속 즉시 한정 캐릭터 증정",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction of a high-fidelity 3D female character in a red traditional-style outfit posing.",
+    "Rapid succession of outfit changes showcasing different styles including white/gold and checkered patterns.",
+    "Transition to darker and more elegant outfits such as dark green and floral patterns.",
+    "Final showcase of a white/silver celestial-style outfit while maintaining the countdown text."
+  ],
+  "on_screen_text": [
+    "확률형 아이템 포함",
+    "카운트다운 1일",
+    "접속 즉시 한정 캐릭터 증정",
+    "몰입감 넘치는 감성 수선 MMORPG"
+  ],
+  "cta_text": "접속 즉시 한정 캐릭터 증정",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#A51C1C",
+    "#1A1A1A",
+    "#F2F2F2"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Male mobile gamers attracted to high-quality 3D character models and eastern-fantasy MMORPGs.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017439999999999999
+}

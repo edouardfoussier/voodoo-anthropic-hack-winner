@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_9gqLHNq1vnjRaD8X9cvr8ek1?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOWdxTEhOcTF2bmpSYUQ4WDljdnI4ZWsxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ptPmt0PkSKLshBeGlSruhjQXWTxD0Mm01f5mdVUOuVLNSeDDsqir6o0AFjTQCil2y2NTLca4xqmi1swMN7orn5csS1kmnkRSyZb6GefBKgoq4iQyDlbgIBNVpvuP87FCLfPJXZsURB62oe0iVqLcdJ-gu6YZuZpX3qFPy9Heh9PIsi-xycigSBLrbEDF9W%7EzI1YsJU2A8nEZta7typNC3HfUhaQMDYENPjwdXF30G2agGIj6aIVx2mE3FzSN%7E94W2IMgidUPfl%7E6lEd2numbBns4v87RMTGwOJrc%7EB3ggdgul3PvoZuGlICZOvHEZVtAF8dyQ5m-vYvRG7QNiUo80w__",
+  "job_id": "job_WJpX9X9eJ6pjuia3zJR7K7Uk",
+  "asset_id": "asset_9gqLHNq1vnjRaD8X9cvr8ek1",
+  "stub": false,
+  "prompt": "Storyboard frame mid-video, 9:16 vertical, authentic Helix Jump gameplay still: neon cyan (#5CE1E6) helix tower mid-rotation, small green (#39FF14) ball smashing through three stacked platforms in a combo streak, exploding shards of neon green debris, red (#FF0000) danger segments visible on adjacent rings, light minimalist background, score multiplier 'x5 COMBO' large bold overlay center-screen, top HUD shows current depth 'Layer 47', 3D minimalist with bright contrasting colors and simple geometric shapes, no character on screen, dynamic motion blur on the ball, in-game camera angle looking slightly down the tower axis",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

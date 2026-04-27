@@ -1,0 +1,185 @@
+{
+  "count": 4223,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "f56c99802cdbe16c",
+      "app_id": "551ca009add5fb97630010cd",
+      "network": "Facebook",
+      "phashion_group": "f56c99802cdbe16c",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-12",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "f56c99802cdbe16c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d4c93c214acb0af/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d4c93c214acb0af/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d4c93c214acb0af/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jetzt bestellen",
+          "button_text": "Order Now",
+          "message": "Mega Angebote bei Mega SIM!\n\ud83d\udcf1 Unlimited surfen f\u00fcr mtl. 31,99 \u20ac\n\ud83d\udcf1 0 \u20ac Anschlusspreis\n\ud83d\udcf1 Mit bis zu 300 Mbit/s"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "551ca009add5fb97630010cd",
+        "canonical_country": "DE",
+        "name": "freenet Mail - E-Mail Postfach",
+        "publisher_name": "freenet.de",
+        "publisher_id": "55fca65a8ac350db550018e2",
+        "humanized_name": "freenet Mail",
+        "icon_url": "https://play-lh.googleusercontent.com/Nr_8HXgXfUK9ZT9w25njxy8FjlOx4EVprOu4fCfFrc4uoBcX4xdJmNN4u4Y_r3IvAqk=s150",
+        "os": "unified",
+        "id": "551ca009add5fb97630010cd",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b4ac3a76a1a980c4",
+      "app_id": "56fee3eff49ea42a540000d4",
+      "network": "Facebook",
+      "phashion_group": "b4ac3a76a1a980c4",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-22",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "b4ac3a76a1a980c4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7163957c05501f67/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7163957c05501f67/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7163957c05501f67/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Nuggets treffen Burger.",
+          "button_text": "Learn More",
+          "message": "Probiere den Long Nugget Burger! Jetzt nur noch bis zum 27.04. f\u00fcr nur 2,99 \u20ac \u2013 nur in der BK App."
+        },
+        {
+          "id": "ccf91e7e63162375",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7163957c05501f67/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7163957c05501f67/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7163957c05501f67/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Nuggets treffen Burger.",
+          "button_text": "Learn More",
+          "message": "Der Long Nugget Burger f\u00fcr nur 2,99 \u20ac."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "56fee3eff49ea42a540000d4",
+        "canonical_country": "US",
+        "name": "BURGER KING App",
+        "publisher_name": "Restaurant Brands International",
+        "publisher_id": "5b3149587f6d443bda4d2f6d",
+        "humanized_name": "BURGER KING App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/50/c4/fa50c416-7d9f-50c2-a3cd-f1cf94207b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "56fee3eff49ea42a540000d4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "35e653a781f74838",
+      "app_id": "56fee3eff49ea42a540000d4",
+      "network": "Facebook",
+      "phashion_group": "35e653a781f74838",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-31",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "35e653a781f74838",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d66ce8c29fc91bc0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d66ce8c29fc91bc0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d66ce8c29fc91bc0/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Learn More",
+          "message": "Der King des Monats\u00ae im April: der Crispy Chicken mit Big King\u00ae Sauce."
+        },
+        {
+          "id": "c73c144fc1df5aaa",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d66ce8c29fc91bc0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d66ce8c29fc91bc0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d66ce8c29fc91bc0/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jetzt probieren",
+          "button_text": "Learn More",
+          "message": "Kurzer Reminder: Hol dir den King des Monats\u00ae, der April ist fast vorbei."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "56fee3eff49ea42a540000d4",
+        "canonical_country": "US",
+        "name": "BURGER KING App",
+        "publisher_name": "Restaurant Brands International",
+        "publisher_id": "5b3149587f6d443bda4d2f6d",
+        "humanized_name": "BURGER KING App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/50/c4/fa50c416-7d9f-50c2-a3cd-f1cf94207b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "56fee3eff49ea42a540000d4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fce452ef68c8c630",
+      "app_id": "5e4b143dab3bcb7c8fa09fb1",
+      "network": "Facebook",
+      "phashion_group": "fce452ef68c8c630",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-15",
+      "last_seen_at": "2026-04-13",
+      "creatives": [
+        {
+          "id": "fce452ef68c8c630",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8f62b33d491722e4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8f62b33d491722e4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8f62b33d491722e4/thumb",
+          "video_duration": 4,
+          "width": 1080,
+          "height": 1920,
+          "title": "Gabby\u2018s Dollhouse: Der Film",
+          "button_text": "Learn More",
+          "message": "\ud83d\ude3b\ud83d\udc3e Katz-tastische Puppenhaus-Welt f\u00fcr kleine & gro\u00dfe Gabby-Fans \ud83c\udfe0\ud83d\ude3b"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5e4b143dab3bcb7c8fa09fb1",
+        "canonical_country": "US",
+        "name": "Toca Boca Hair Salon 4",
+        "publisher_name": "Piknik",
+        "publisher_id": "64f90e1670d3f24c7fdad0c7",
+        "humanized_name": "Toca Boca Hair Salon 4",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/b6/cf/a8b6cfbb-e380-96f7-9f7a-9e662d48cee4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5e4b143dab3bcb7c8fa09fb1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "e4abdaef78a0f34c",
+    "ad_unit_id": "e4abdaef78a0f34c",
+    "app_id": "55c5698d02ac64f9c000368d",
+    "advertiser_name": "Microsoft Wordament",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/276ab412e7ce7460/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/276ab412e7ce7460/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/276ab412e7ce7460/preview",
+    "phashion_group": "e4abdaef78a0f34c",
+    "share": null,
+    "first_seen_at": "2026-04-20T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Get fired up for the throwdown! Kiln launches 4/23. Pre-order now to get bonus in-game items!",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A high-energy montage of clay-like characters being formed and moving to a rhythmic beat.",
+    "visual_action": "Close-up of a clay blob being shaped, followed by a leopard-print pot and a dancing purple figure.",
+    "text_overlay": "EVERYONE 10+ ESRB",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Fast-paced montage of clay characters being molded and dancing.",
+    "Action-packed gameplay snippets showing characters jumping and battling.",
+    "A character gets crushed by a giant teapot in a fiery environment.",
+    "The title 'KILN' is revealed amidst green flames.",
+    "Final end card with pre-order information and platform logos."
+  ],
+  "on_screen_text": [
+    "EVERYONE 10+ ESRB",
+    "FOR THE THROWDOWN",
+    "KILN",
+    "PRE-ORDER NOW",
+    "AVAILABLE APRIL 23"
+  ],
+  "cta_text": "PRE-ORDER NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#C62828",
+    "#2E7D32",
+    "#6A1B9A"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Gamers who enjoy quirky, physics-based party games with a unique, claymation-inspired aesthetic.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001696
+}

@@ -1,0 +1,28 @@
+{
+  "archetype_id": "other-animation",
+  "target_game_id": "1524760095",
+  "title": "Hero Splash: Pole-Charged Rooftop Champion",
+  "hook_3s": "A glowing pole erupts with cyan energy as the runner locks eyes with the camera mid-slide — \"ARE YOU FAST ENOUGH?\"",
+  "scene_flow": [
+    "0-3s: Hero splash frame — runner stands center-frame on a white rooftop edge, pole extended overhead crackling with cyan energy, pastel city skyline behind, bold logo treatment.",
+    "3-7s: Cut to gameplay — runner sprints forward, vacuuming up pole pieces that snap onto the balancing pole, length meter filling on the HUD.",
+    "7-11s: Pole hits its longest extension; runner leaps onto a rail and slides between rooftops, yellow diamonds pinging into the counter, magenta speed-lines.",
+    "11-14s: A spinning saw obstacle cuts the pole shorter — near-miss tension, screen flashes, level indicator ticks up.",
+    "14-15s: Cut back to hero splash with massive 'PLAY NOW' lockup and app icon."
+  ],
+  "visual_direction": "Lean fully into the Roof Rails native palette — bright cyan #5CD6FF skyboxes, stark #EAF6FA rooftops and rails, vivid #FFC824 collectibles and CTA — rendered in the game's signature 3D minimalist low-poly style with clean uncluttered geometry. Borrow only the archetype's \"static charged-up hero pose + giant PLAY NOW\" composition, replacing anime power-up energy with a glowing extended balance pole as the iconic hero prop. Pastel gradient sky with soft glowing orbs as a nod to the centroid frame, but every asset is unmistakably Roof Rails.",
+  "text_overlays": [
+    "ARE YOU FAST ENOUGH?",
+    "COLLECT. EXTEND. SLIDE.",
+    "DON'T LET IT SNAP",
+    "LEVEL UP YOUR POLE",
+    "PLAY NOW"
+  ],
+  "cta": "PLAY NOW",
+  "rationale": "Voodoo's current Roof Rails rotation is 100% silent gameplay videos and a playable — they have zero \"hero splash + bold PLAY NOW\" creatives that anchor the brand with a single iconic still. This brief imports the archetype's high-contrast static-hero-pose-with-giant-CTA structure (proven in the market scan) without touching the IP, giving UA a thumbstop frame that contrasts every other ad in their feed. Test against the silent gameplay videos to measure if a branded hero treatment lifts CTR on broad casual audiences.",
+  "scenario_prompts": [
+    "Hero splash frame, aspect 9:16, Roof Rails in-game style: a low-poly 3D minimalist runner character standing heroically on the edge of a stark white #EAF6FA rooftop, holding a long horizontal balancing pole overhead that glows with bright cyan #5CD6FF energy and small floating yellow #FFC824 pole-piece collectibles orbiting it, pastel cyan sky with soft glowing orbs, distant simple-geometry pastel skyscrapers, vibrant yellow diamond currency icon and level indicator HUD in top corners, clean uncluttered aesthetic, bold on-screen text 'ARE YOU FAST ENOUGH?' in chunky white sans-serif at top, authentic Roof Rails IP-adapter look, bright pastel colors. [Audio: VO (confident hype): 'Think you've got the balance?' / energetic competitive 128bpm electro-pop with punchy claps / whoosh build-up, cyan energy crackle, chime on title pop-in at 2s]",
+    "Storyboard gameplay frame, aspect 9:16, Roof Rails in-game style: third-person behind-the-runner view of the low-poly minimalist character sliding along a thin white #EAF6FA rail stretched between two pastel rooftops, long horizontal balancing pole extended wide collecting yellow #FFC824 pole-piece pickups mid-air, bright cyan #5CD6FF sky background, motion lines, diamond counter and progress bar HUD visible at top, clean 3D minimalist simple geometry, bright pastel colors uncluttered aesthetic, on-screen text 'COLLECT. EXTEND. SLIDE.' in bold white caps lower-third. [Audio: no VO / driving 130bpm energetic competitive synth-house / rapid coin-chime pings on each pole-piece pickup, smooth metallic rail-slide whoosh, satisfying combo riser]",
+    "Storyboard tension frame, aspect 9:16, Roof Rails in-game style: dramatic close-up of the low-poly runner mid-slide as a spinning red-and-yellow #FFC824 circular saw obstacle slices through one end of the long balancing pole, pole-piece fragments flying off, stark white #EAF6FA rail underfoot, bright cyan #5CD6FF cityscape blurred behind with speed lines, level indicator and diamond HUD top corners, 3D minimalist simple geometry clean uncluttered bright pastel aesthetic, urgent on-screen text 'DON'T LET IT SNAP!' in bold white caps with subtle shake. [Audio: VO (sharp): 'Watch out!' / tense 140bpm competitive trap-EDM drop / saw-blade whirr, sharp wood-snap crack at 1.2s, heartbeat thud, alert sting]"
+  ]
+}

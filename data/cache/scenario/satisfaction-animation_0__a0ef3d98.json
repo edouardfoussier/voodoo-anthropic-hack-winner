@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_BMPqyVjDXjVMZsu3ZxNuTr8Z?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQk1QcXlWakRYalZNWnN1M1p4TnVUcjhaP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=g9TFHoHuK1qHYjPTEObQSXBT06P3-HIoPEtZqGsKsSY9Y%7EzFRSerRGpWSqAKJRQuOwS4DMwAkCQWkwGfCMKbNKiWRjTerXZ0S38QH-dKuQZ9Xh831gf9pTSFGizXUOgg-eCy1owF-NwV6uMGKeNI-0jd%7Eo2SNO6lGdRinlTxSHQONGMhLUcuOGJx2c4fvLQmrscIJOKPZK%7EnVPS0fi5JjqmMxShb-K392KJD-gcCraNNIlzk-FrpoAwYYc5iKTKEUYff7B-n%7ECjwhu1c7H3U4unveLAw54P%7EMqNFBIfSH-m1IR5kgKps7OMTX3odmmVLLgJ6GsC0IxSswAR1dsn5ug__",
+  "job_id": "job_G6tkxv1MaFSuUJtKkA8swtVx",
+  "asset_id": "asset_BMPqyVjDXjVMZsu3ZxNuTr8Z",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, Stylized 3D Cartoon: a massive roaring purple mob of chunky cartoon stick-figures bursting through a giant glowing golden multiplier gate that reads 'x10!', cyan energy trails streaking behind them, royal purple #5824F5 dominant background with electric cyan #00A3FF rim light and warm yellow #FFD12C gate glow, dramatic low-angle wide lens, cel-shaded, high contrast, mobile game ad key art, on-screen text 'x10!' in bold yellow",
+  "model_id": "flux.1-dev"
+}

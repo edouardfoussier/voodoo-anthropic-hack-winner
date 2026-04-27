@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "e72cc24336dda206",
+    "ad_unit_id": "e72cc24336dda206",
+    "app_id": "55d939a502ac645ad202102f",
+    "advertiser_name": "Winamax Paris Sportifs",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9c254fd2d9001ba0/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9c254fd2d9001ba0/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9c254fd2d9001ba0/preview",
+    "phashion_group": "e72cc24336dda206",
+    "share": null,
+    "first_seen_at": "2026-03-18T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Parie et Regarde gratuitement la NBA sur l'appli Winamax 🏀",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Dynamic logo animation transitioning into a value proposition for free NBA streaming.",
+    "visual_action": "The Winamax 'W' logo spins and turns into a mobile app icon while bold text appears.",
+    "text_overlay": "PARIE ET REGARDE GRATUITEMENT LA NBA SUR L'APPLI WINAMAX !",
+    "voiceover_transcript": "They don't know about me they cap",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Intro with Winamax logo and headline about free NBA streaming on the app.",
+    "Fast-paced montage of NBA team logos over a betting interface.",
+    "Text transition emphasizing the shared passion for sports.",
+    "Closing screen with app installation animation and download links."
+  ],
+  "on_screen_text": [
+    "PARIE ET REGARDE GRATUITEMENT LA NBA SUR L'APPLI WINAMAX !",
+    "LAKERS",
+    "CELTICS",
+    "LES PLUS GROSSES AFFICHES EN LIVE SUR WINAMAX TV",
+    "THUNDER",
+    "SPURS",
+    "KNICKS",
+    "MAVERICKS",
+    "TU N'ES PAS LE SEUL À AIMER LE SPORT",
+    "REJOINS LA COMMUNAUTÉ WINAMAX"
+  ],
+  "cta_text": "REJOINS LA COMMUNAUTÉ WINAMAX",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#E2001A",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Male sports fans in France aged 18-35 interested in NBA betting and live streaming.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001856
+}

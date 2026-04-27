@@ -1,0 +1,29 @@
+{
+  "archetype_id": "curiosity-animation",
+  "target_game_id": "1453402726",
+  "title": "How Deep Can You Go? — Cross-Section Curiosity Dive",
+  "hook_3s": "A pastel-blue pool cross-section peels open mid-splash — revealing an impossibly deep shaft plunging past height markers labeled 50m… 200m… ???",
+  "scene_flow": [
+    "0-3s: Pink ragdoll launches off the high platform; camera tracks the flip in classic Flip & Dive framing against #AEE2FF sky.",
+    "3-7s: Splash hits — camera doesn't cut. The water surface peels away cross-section style, exposing a vertical shaft below the pool with depth markers ticking past.",
+    "7-11s: Ragdoll keeps sinking past secret layers (neon pink coral, purple geometric caverns, glowing #C754D9 abyss) as the depth counter spins wildly.",
+    "11-14s: Counter freezes at a comically huge number with a '???' — bold pink banner slams in: HOW DEEP CAN YOU GO?",
+    "14-15s: Tap-to-play finger taps the jump button, loop teases next dive."
+  ],
+  "visual_direction": "Lean fully into Flip & Dive 3D's minimalist 3D look: flat-shaded geometric platforms, soft #AEE2FF sky-and-water gradient, the signature hot-pink (#FF007F) humanoid ragdoll, and #C754D9 purple banners for HUD. The twist is a never-before-seen cross-section camera move — the pool's side wall slices open like a diagram so we see the dive continue underground through stacked, color-blocked depth zones. Keep lighting soft and satisfying, no shadows harsher than the base game; depth counter and height markers stay in the game's native bold sans-serif chrome.",
+  "text_overlays": [
+    "Perfect entry…",
+    "Wait — keep watching",
+    "-50m",
+    "-200m",
+    "HOW DEEP CAN YOU GO?",
+    "Tap to dive"
+  ],
+  "cta": "Tap to Dive",
+  "rationale": "Voodoo's current rotation on Flip & Dive 3D is all unbranded gameplay videos and a generic playable — zero curiosity-driven hooks despite curiosity being a proven trending pitch. This brief grafts the archetype's \"cross-section reveal\" structure onto the game's native depth-mechanic, swapping bunkers for a literal pool-floor reveal so it stays IPM-safe and on-palette. UA team: run as a 15s video first to validate the depth-reveal hook, then port the winning frame into a playable end-card.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, Minimalist 3D with bright, contrasting colors and simple geometric shapes. A bright #FF007F humanoid ragdoll mid-flip diving headfirst into a small circular #AEE2FF swimming pool, but the pool's side wall is sliced open like an architectural cross-section, revealing a vertical shaft plunging deep below with stacked depth markers (-50m, -200m) and a glowing #C754D9 purple abyss at the bottom. Bold pink banner overlay reads 'HOW DEEP CAN YOU GO?' in the game's chunky sans-serif. Soft pastel lighting, flat shading, in-game HUD with depth counter top-right, height markers along the platform edge. Authentic Flip & Dive 3D in-game moment, no realism, no shadows. [Audio: VO (curious whisper) 'Wait… how deep does it actually go?' / calm satisfying lo-fi at 80 BPM with soft synth pads / whoosh on flip at 0.5s, muted splash at 2s, ascending chime as depth counter ticks past 200m]",
+    "Storyboard frame 1, aspect 9:16, Minimalist 3D with bright, contrasting colors and simple geometric shapes. Side-view of the tall #AEE2FF blue diving platform with height markers (10m, 20m, 30m) running up its edge in #C754D9 purple, a tiny #FF007F pink ragdoll character crouched at the top about to jump, small circular pool far below. Game's native UI: depth counter '0m' top-right in a purple banner, tap indicator pulsing on jump button. Overlay text 'Perfect entry…' in bold white sans-serif. Flat-shaded, soft pastel sky gradient, authentic Flip & Dive 3D framing. [Audio: VO 'Looks like a normal dive…' / calm satisfying ambient pad at 80 BPM / soft wind whoosh, single UI tick on tap indicator]",
+    "Storyboard frame 2, aspect 9:16, Minimalist 3D with bright, contrasting colors and simple geometric shapes. Vertical cross-section view: top third shows the #AEE2FF pool surface with splash ripples, bottom two-thirds reveal a hidden underwater shaft descending past geometric layers — pink coral-block formations, purple #C754D9 crystal caverns, a deep glowing void. The #FF007F ragdoll is shown as a small silhouette sinking through the layers. Depth counter HUD spinning '-347m' in a purple banner. Bold overlay text '-200m' flashing in pink. Game's native flat-shaded style, no realism. [Audio: VO (wide-eyed) 'No way…' / calm satisfying lo-fi swelling at 85 BPM / bubbling underwater SFX, rapid tick-tick-tick on depth counter, low purple synth drone as layers reveal]"
+  ]
+}

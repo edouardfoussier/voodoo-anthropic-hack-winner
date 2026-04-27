@@ -1,0 +1,396 @@
+{
+  "count": 227,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "cfcf045a6b2cab74",
+      "app_id": "59baf8100211a6be9ed99da9",
+      "network": "Facebook",
+      "phashion_group": "cfcf045a6b2cab74",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-21",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "cfcf045a6b2cab74",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e4bfa44bc4f748f8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e4bfa44bc4f748f8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e4bfa44bc4f748f8/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "title": "Zeit f\u00fcr einen Sturm \u26a1",
+          "button_text": "Learn More",
+          "message": "Ein Sturm braut sich zusammen. T\u00e4gliche Phase-1-Turniere inkl. Preisgeldr\u00e4nge bis 10. Mai."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "59baf8100211a6be9ed99da9",
+        "canonical_country": "GB",
+        "name": "Paddy Power Games",
+        "publisher_name": "Paddy Power",
+        "publisher_id": "5614cf3e3f07e25d29012545",
+        "humanized_name": "Paddy Power Games",
+        "icon_url": "https://play-lh.googleusercontent.com/EsC41RrBfF7DN3xu_js6WAslGxl11H2K60wLbCSXAGibsfn3fKH_4dRocNruD-pKtg=s150",
+        "os": "unified",
+        "id": "59baf8100211a6be9ed99da9",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f42ba6d0196271bd",
+      "app_id": "5af5afad09c8b14d4327867e",
+      "network": "Facebook",
+      "phashion_group": "f42ba6d0196271bd",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "f42ba6d0196271bd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "Come Back Gift Awaits",
+          "button_text": "Play Game",
+          "message": "WE'VE MISSED YOU! \ud83e\udd17\nRejoin us and claim your surprise gift!\nLimited time only. What are you waiting for?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5af5afad09c8b14d4327867e",
+        "canonical_country": "US",
+        "name": "Jackpot World - Slots Casino",
+        "publisher_name": "Netmarble",
+        "publisher_id": "5614c62a3f07e25d2900a08c",
+        "humanized_name": "Jackpot World",
+        "icon_url": "https://play-lh.googleusercontent.com/GbSmufLwKwNJmOGukpGY-t0g4GLW23QL8YVDEowY3fgKZuDHrvRSivQmzsuLAsNPdVSf92GKjD6B7ON9z77YpA=s150",
+        "os": "unified",
+        "id": "5af5afad09c8b14d4327867e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2d640feefa21b85c",
+      "app_id": "60fb6ed2ea6f9e5e0737e01c",
+      "network": "Facebook",
+      "phashion_group": "2d640feefa21b85c",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-17",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "2d640feefa21b85c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/thumb",
+          "video_duration": 10,
+          "width": 720,
+          "height": 1280,
+          "title": "Claim your COMEBACK GIFTS now!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "60fb6ed2ea6f9e5e0737e01c",
+        "canonical_country": "US",
+        "name": "Jackpot Master - Slots - Casino",
+        "publisher_name": "Tripledot Studios",
+        "publisher_id": "5a63fb6f68c90d39d2db5430",
+        "humanized_name": "Jackpot Master",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/c4/a8/f9c4a8c5-2dd3-aee9-a905-59e80ae70797/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "60fb6ed2ea6f9e5e0737e01c",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b91e9c998cea11d6",
+      "app_id": "644c8bf45d8ef66c95a36ed2",
+      "network": "Facebook",
+      "phashion_group": "b91e9c998cea11d6",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-28",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "b91e9c998cea11d6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/026a882e1b57fb58/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/026a882e1b57fb58/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/026a882e1b57fb58/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "iOS-App: StarGames f\u00fcr Ihr iPhone",
+          "button_text": "Play Game",
+          "message": "Die StarGames-iOS-App macht Ihr Spiel flexibler! \ud83d\ude80 Jetzt holen und Slots auf dem iPhone genie\u00dfen."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "644c8bf45d8ef66c95a36ed2",
+        "canonical_country": "DE",
+        "name": "StarGames: Slots mit Echtgeld",
+        "publisher_name": "Greentube Alderney",
+        "publisher_id": "59b1f605c34f27140f86913b",
+        "humanized_name": "StarGames: Slots mit Echtgeld",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/f1/41/a6f141d0-097f-ecb9-05cd-0d273cc8bd85/AppIcon-1x_U007epad-0-1-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "644c8bf45d8ef66c95a36ed2",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b8ff68b4a56e687f",
+      "app_id": "644c8bf45d8ef66c95a36ed2",
+      "network": "Facebook",
+      "phashion_group": "b8ff68b4a56e687f",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-04",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "b8ff68b4a56e687f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/038b7c0332d382f1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/038b7c0332d382f1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/038b7c0332d382f1/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "iOS-App: StarGames f\u00fcr Ihr iPhone",
+          "button_text": "Play Game",
+          "message": "Die StarGames-iOS-App macht Ihr Spiel flexibler! \ud83d\ude80 Jetzt holen und Slots auf dem iPhone genie\u00dfen."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "644c8bf45d8ef66c95a36ed2",
+        "canonical_country": "DE",
+        "name": "StarGames: Slots mit Echtgeld",
+        "publisher_name": "Greentube Alderney",
+        "publisher_id": "59b1f605c34f27140f86913b",
+        "humanized_name": "StarGames: Slots mit Echtgeld",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/f1/41/a6f141d0-097f-ecb9-05cd-0d273cc8bd85/AppIcon-1x_U007epad-0-1-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "644c8bf45d8ef66c95a36ed2",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "143c2688205f389d",
+      "app_id": "55f3733b02ac64eb8400006e",
+      "network": "Facebook",
+      "phashion_group": "143c2688205f389d",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-18",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "143c2688205f389d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0aadd3e239b0ba58/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0aadd3e239b0ba58/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0aadd3e239b0ba58/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83c\udfb0 Play today",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55f3733b02ac64eb8400006e",
+        "canonical_country": "US",
+        "name": "Huuuge Casino 777 Slots Games",
+        "publisher_name": "Huuuge Games",
+        "publisher_id": "5614bc773f07e25d29002a45",
+        "humanized_name": "Huuuge Casino 777 Slots Games",
+        "icon_url": "https://play-lh.googleusercontent.com/njjBFu61BlTecfoM_f-Rp_KTEL5wjgNXizJ4GlIyip6C09OxemiIABsXsx9h4YHWfps=s150",
+        "os": "unified",
+        "id": "55f3733b02ac64eb8400006e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "15927a959d015509",
+      "app_id": "55f3733b02ac64eb8400006e",
+      "network": "Facebook",
+      "phashion_group": "15927a959d015509",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-10",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "15927a959d015509",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b038fff84eed7cc/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b038fff84eed7cc/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b038fff84eed7cc/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udcb0 Download NOW to claim your HUUUGE Welcome Bonus! \ud83d\udcb0",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55f3733b02ac64eb8400006e",
+        "canonical_country": "US",
+        "name": "Huuuge Casino 777 Slots Games",
+        "publisher_name": "Huuuge Games",
+        "publisher_id": "5614bc773f07e25d29002a45",
+        "humanized_name": "Huuuge Casino 777 Slots Games",
+        "icon_url": "https://play-lh.googleusercontent.com/njjBFu61BlTecfoM_f-Rp_KTEL5wjgNXizJ4GlIyip6C09OxemiIABsXsx9h4YHWfps=s150",
+        "os": "unified",
+        "id": "55f3733b02ac64eb8400006e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "7ca8583bda051cfb",
+      "app_id": "59ae6d77b3606ffac7780a24",
+      "network": "Facebook",
+      "phashion_group": "7ca8583bda051cfb",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-04",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "7ca8583bda051cfb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c02f22294e22a04/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c02f22294e22a04/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c02f22294e22a04/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Bid Wars, Baby!",
+          "button_text": "Install Now",
+          "message": "Hunt For Treasure In Thrilling Storage Auctions And Be Strategic To Maximize Your Wins!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "59ae6d77b3606ffac7780a24",
+        "canonical_country": "US",
+        "name": "Bid Wars 2: Auction Simulator",
+        "publisher_name": "By Aliens",
+        "publisher_id": "64ecb55f1349b134d8b2e700",
+        "humanized_name": "Bid Wars 2: Auction Simulator",
+        "icon_url": "https://play-lh.googleusercontent.com/NJsfTLl3zPgNQKF2FxZu7a-XjREnxsDI2gHTeixHaHiI9fL9SBLOsRLE1CEidyeYhruk=s150",
+        "os": "unified",
+        "id": "59ae6d77b3606ffac7780a24",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b7b16bed8a3e77a8",
+      "app_id": "644c8bf45d8ef66c95a36ed2",
+      "network": "Facebook",
+      "phashion_group": "b7b16bed8a3e77a8",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-01",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "b7b16bed8a3e77a8",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cc57f5a1d839d26/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cc57f5a1d839d26/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cc57f5a1d839d26/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "iOS-App: StarGames f\u00fcr Ihr iPhone",
+          "button_text": "Play Game",
+          "message": "Die StarGames-iOS-App macht Ihr Spiel flexibler! \ud83d\ude80 Jetzt holen und Slots auf dem iPhone genie\u00dfen."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "644c8bf45d8ef66c95a36ed2",
+        "canonical_country": "DE",
+        "name": "StarGames: Slots mit Echtgeld",
+        "publisher_name": "Greentube Alderney",
+        "publisher_id": "59b1f605c34f27140f86913b",
+        "humanized_name": "StarGames: Slots mit Echtgeld",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/f1/41/a6f141d0-097f-ecb9-05cd-0d273cc8bd85/AppIcon-1x_U007epad-0-1-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "644c8bf45d8ef66c95a36ed2",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "deb46fe663d9ddc4",
+      "app_id": "55c506cf02ac64f9c000215e",
+      "network": "Facebook",
+      "phashion_group": "deb46fe663d9ddc4",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-21",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "deb46fe663d9ddc4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "What are you waiting for?",
+          "button_text": "Learn More",
+          "message": "You are a WSOP player, of course you get a Daily Bonus \ud83e\udd11"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c506cf02ac64f9c000215e",
+        "canonical_country": "US",
+        "name": "WSOP Poker: Texas Holdem Game",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "WSOP Poker: Texas Holdem Game",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/a6/c5/04a6c543-1162-bb69-5e4f-289bb2fb6c95/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c506cf02ac64f9c000215e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

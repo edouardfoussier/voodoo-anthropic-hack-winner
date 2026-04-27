@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_QhZU2y3BDvpowgMsUEoRew44?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUWhaVTJ5M0JEdnBvd2dNc1VFb1JldzQ0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ayT9AMTcYEA2OyNirX1XWlFwHKdSr7zW3WbMvhBBAuiFz-6h5afoRzPzNbU0Y%7EQm5HdAUVjAqenn%7E0eWcnsBEpOM14ydi74e5fAVmPkGO-37TImQtCw6d68nTnKRtI4QFiseS6ay9JyOuouZPRm-BsfgTxrH2zSvQlr%7EzPHqnSnCJDPANMH-wPULkWWYtbqxnMN4ax3kfamz83GqX0QQdvTcS44c1k-LVoQUFoKtKfTuITag2G0fOh0R8lv-BXg6MM1W23snLlWI4QpPZBUNjyQKbjJSuPmk15CcfkJB8rSPbUHbnJL1YLflMo1PiXLcbWXheD7OsT7AtVB8QdepAg__",
+  "job_id": "job_VoKKiB335gpaLinjUrabVXY9",
+  "asset_id": "asset_QhZU2y3BDvpowgMsUEoRew44",
+  "stub": false,
+  "prompt": "Storyboard frame mid-gameplay, aspect 9:16, full-screen authentic Marble Sort! in-game view: light-grey #F0F0F8 rounded sorting machine centered, two trays releasing a stream of glossy multi-color marbles (orange, lavender, mint, pink) onto a moving conveyor belt, three matching color drop-boxes lined up below, one marble mid-bounce with soft physics motion lines, combo counter '+3' glowing in #FFB13B orange, lavender #E5DFFF background, minimal HUD with pause button top-right and level progress bar; on-screen text overlay 'Match the color\u2026 time the conveyor' in rounded white sans-serif; clean and colorful 3D cartoon style with soft, rounded shapes, no characters present, faithful to in-game UI chrome",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

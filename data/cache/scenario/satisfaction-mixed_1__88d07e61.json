@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_yZb1rraBmeiBjGhRg13AetCW?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeVpiMXJyYUJtZWlCakdoUmcxM0FldENXP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=bEVQtu3ZFw4Li87gASIAB%7E7grS5AnQNb4W0CdIsl7yzrzydpHs%7EIQYg1WHpNO3v9BUZpDY59vF%7E5bYI4GZsnpKVNakNNi0c5w98BZeFbfy4kTJiDHnKePzR28L6SIyWU-verbgUHhR9ffC0ygEOtK0CVAR1hTrYOa-0iiSDJXoqEcp%7Ei2qzwbwNQIk3V4xnhHjhB0vg2l96Dm2hOzJ%7EKmLSTnhawAfeCac7cI2IKBg3JEX8wOtoRMRKmaRm9A8QSTVUV1pVLsftWrYVlzZcn75vqGCuN7JTckP6DVyAQchlsmfsf8UNEeMd4rbv1jRWXFElC47NSmxbAU1%7E6ORuqHQ__",
+  "job_id": "job_otHH2PbRBGWnXzwstRkWoX1B",
+  "asset_id": "asset_yZb1rraBmeiBjGhRg13AetCW",
+  "stub": false,
+  "prompt": "Storyboard frame 1, aspect 9:16, 3D Casual Abstract style, close-up of a fingertip hovering over a colored block tray below a partially filled puzzle grid, background #20232B, purple #403F6D UI panels and progress bar, single empty slot pulsing in amber #FDBA4D, tactile matte plastic blocks with subtle highlights, on-screen text overlay 'Place the last block...' in clean white type, mobile ad aesthetic, calm satisfying mood",
+  "model_id": "flux.1-dev"
+}

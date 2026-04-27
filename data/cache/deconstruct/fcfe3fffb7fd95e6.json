@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "fcfe3fffb7fd95e6",
+    "ad_unit_id": "fcfe3fffb7fd95e6",
+    "app_id": "556f4a4fa3f735a75800008a",
+    "advertiser_name": "bet365 - Sportsbook & Casino",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa868908c51aa9f3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa868908c51aa9f3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa868908c51aa9f3/preview",
+    "phashion_group": "fcfe3fffb7fd95e6",
+    "share": null,
+    "first_seen_at": "2026-01-12T00:00:00",
+    "last_seen_at": "2026-04-11T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "New Customer Offer: Get up to 500 Free Spins when you deposit £10!\nPlus, why not check out Prize Matcher? It's our free daily game where you can win Cash, Free Spins or Golden Chips!\n18 | GambleAware.Org | T&Cs apply.",
+    "button_text": "Get Offer",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-impact announcement of a 500 free spins welcome offer.",
+    "visual_action": "Dynamic gold and white text zooms in over a signature green background with a glowing neon line.",
+    "text_overlay": "bet365 NEW CUSTOMER OFFER GET UP TO 500 FREE SPINS WHEN YOU DEPOSIT £10",
+    "voiceover_transcript": "New bet365 customers can get up to 500 free spins when you deposit £10.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the 500 free spins offer for new customers.",
+    "Transition to a 3D grid environment showcasing the 'Prize Matcher' game.",
+    "Neon slot symbols fly towards the viewer to demonstrate gameplay variety.",
+    "Highlighting the 'Free to Play Every Day' feature with a grid of rewards.",
+    "Closing brand logo animation."
+  ],
+  "on_screen_text": [
+    "bet365 NEW CUSTOMER OFFER",
+    "GET UP TO 500 FREE SPINS",
+    "WHEN YOU DEPOSIT £10",
+    "PRIZE MATCHER",
+    "FREE TO PLAY EVERY DAY",
+    "bet365"
+  ],
+  "cta_text": "bet365",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#007733",
+    "#FFD700",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults in the UK interested in online casino gaming and high-value promotional sign-up offers.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016589999999999999
+}

@@ -1,0 +1,31 @@
+{
+  "app_id": "6748054540",
+  "name": "Bounce Blast 3D",
+  "genre": "Puzzle",
+  "sub_genre": "Physics Puzzle",
+  "core_loop": "Players tap to select and place colored blocks from a tray into a main grid to clear obstacles, which then transform into bouncing balls that trigger physics-based chain reactions to clear the level.",
+  "audience_proxy": "Casual puzzle players, aged 25-55, who enjoy satisfying physics-based games as a relaxing time-filler.",
+  "visual_style": "3D Casual Abstract",
+  "palette": {
+    "primary_hex": "#20232B",
+    "secondary_hex": "#403F6D",
+    "accent_hex": "#FDBA4D",
+    "description": "A dark, moody background with deep purple UI frames and a bright yellow-orange accent for progress bars and highlights."
+  },
+  "key_mechanics": [
+    "Tapping to place",
+    "Area filling",
+    "Physics-based clearing",
+    "Chain reaction"
+  ],
+  "character_present": false,
+  "ui_mood": "calm/satisfying",
+  "screenshot_signals": [
+    "Block-clearing puzzle",
+    "Physics-based ball bouncing",
+    "Level progression",
+    "Satisfying chain reactions",
+    "Varied level types",
+    "Difficulty indicators"
+  ]
+}

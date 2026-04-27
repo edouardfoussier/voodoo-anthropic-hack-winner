@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 22,
+  "mechanic_match": 30,
+  "audience_match": 55,
+  "overall": 32,
+  "rationale": "The \"fail bait\" hook concept (cursor-driven mistake + provocative \"can you win?\" text) is a proven hypercasual UA pattern that overlaps with Color Road!'s broad casual audience, but the specific execution is a poor fit: buses, crashes, and a green/red/white palette have no relationship to the game's minimalist pastel rolling-ball-and-color-match DNA. Mechanic match is weak because steering a bus into traffic doesn't translate the color-matching/dodging core loop — viewers who click expecting traffic puzzles will mis-install. Recommendation: borrow the fail-bait STRUCTURE (cursor steers ball into wrong-colored obstacle, \"why is this so hard?\" overlay) but do not reuse this asset; rebuild it natively in the game's pastel/dark-track aesthetic."
+}

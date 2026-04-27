@@ -1,0 +1,386 @@
+{
+  "count": 11,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "b3c96cade8debbc6",
+      "app_id": "55c5020a02ac64f9c0001f66",
+      "network": "TikTok",
+      "phashion_group": "b3c96cade8debbc6",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-21",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "b3c96cade8debbc6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/thumb",
+          "video_duration": 15,
+          "width": 2160,
+          "height": 3840,
+          "message": "You Know YOU Deserve it - Play Now & Enjoy!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5020a02ac64f9c0001f66",
+        "canonical_country": "US",
+        "name": "Slotomania Slots Casino Games",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "Slotomania Slots Casino Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/82/a8/2882a853-e34a-0d37-3c54-158f11f1a697/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5020a02ac64f9c0001f66",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "88778f5c4c2e7f08",
+      "app_id": "55d20e3902ac64ee7300002b",
+      "network": "TikTok",
+      "phashion_group": "88778f5c4c2e7f08",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-22",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "88778f5c4c2e7f08",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1afad24eb63ffa90/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1afad24eb63ffa90/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1afad24eb63ffa90/thumb",
+          "video_duration": 10,
+          "width": 720,
+          "height": 1280,
+          "message": "Get a Welcome Bonus of 2M FREE Chips!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d20e3902ac64ee7300002b",
+        "canonical_country": "US",
+        "name": "Zynga Poker - Texas Holdem Game",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Zynga Poker",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/00/03/e80003fe-937f-01c6-5f03-5081b40f218a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d20e3902ac64ee7300002b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b779846d6d258517",
+      "app_id": "55d20e3902ac64ee7300002b",
+      "network": "TikTok",
+      "phashion_group": "b779846d6d258517",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-25",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "b779846d6d258517",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f4d97f9734008f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f4d97f9734008f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f4d97f9734008f/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "Get a Welcome Bonus of 2M FREE Chips!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d20e3902ac64ee7300002b",
+        "canonical_country": "US",
+        "name": "Zynga Poker - Texas Holdem Game",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Zynga Poker",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/00/03/e80003fe-937f-01c6-5f03-5081b40f218a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d20e3902ac64ee7300002b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "feefbafd61a4225a",
+      "app_id": "55d20e3902ac64ee7300002b",
+      "network": "TikTok",
+      "phashion_group": "feefbafd61a4225a",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-11",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "feefbafd61a4225a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2ceb0225db06ca48/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2ceb0225db06ca48/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2ceb0225db06ca48/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Think you\u2019ve got the skills? Prove it at the tables in Zynga Poker: Texas Hold\u2019em!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d20e3902ac64ee7300002b",
+        "canonical_country": "US",
+        "name": "Zynga Poker - Texas Holdem Game",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Zynga Poker",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/00/03/e80003fe-937f-01c6-5f03-5081b40f218a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d20e3902ac64ee7300002b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f244c27f2c814231",
+      "app_id": "55c5020a02ac64f9c0001f66",
+      "network": "TikTok",
+      "phashion_group": "f244c27f2c814231",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-29",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "f244c27f2c814231",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/40ab95c0490a5f5d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/40ab95c0490a5f5d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/40ab95c0490a5f5d/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "You Know YOU Deserve it - Play Now & Enjoy!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5020a02ac64f9c0001f66",
+        "canonical_country": "US",
+        "name": "Slotomania Slots Casino Games",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "Slotomania Slots Casino Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/82/a8/2882a853-e34a-0d37-3c54-158f11f1a697/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5020a02ac64f9c0001f66",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0f259c24801a0e86",
+      "app_id": "55c52ea602ac64f9c0002d3b",
+      "network": "TikTok",
+      "phashion_group": "0f259c24801a0e86",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-05",
+      "last_seen_at": "2026-04-13",
+      "creatives": [
+        {
+          "id": "0f259c24801a0e86",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/51cb7ade72a7fd5f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/51cb7ade72a7fd5f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/51cb7ade72a7fd5f/thumb",
+          "video_duration": 11,
+          "width": 720,
+          "height": 1280,
+          "message": "Jogue agora no maior bingo social da Am\u00e9rica Latina e venha se divertir com os amigos."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c52ea602ac64f9c0002d3b",
+        "canonical_country": "BR",
+        "name": "Praia Bingo: Jogos de Bingo",
+        "publisher_name": "Pipa Studios",
+        "publisher_id": "5629588b3f07e28dd103d58b",
+        "humanized_name": "Praia Bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/lmrZHf5kxJYGh60qD8pr5uXB-lJAc4fMY_ScGdRcrpTafqKziNHTvEHghQ0PSJryZbA=s150",
+        "os": "unified",
+        "id": "55c52ea602ac64f9c0002d3b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "140309b6f49de0f7",
+      "app_id": "6478d3edb3ae272847ad30f8",
+      "network": "TikTok",
+      "phashion_group": "140309b6f49de0f7",
+      "ad_type": "video",
+      "first_seen_at": "2025-02-03",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "140309b6f49de0f7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea7c6c4ed8ca0d5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea7c6c4ed8ca0d5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea7c6c4ed8ca0d5/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "message": "Play 8 Ball Pool now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6478d3edb3ae272847ad30f8",
+        "canonical_country": "US",
+        "name": "8 Ball Pool",
+        "publisher_name": "Miniclip",
+        "publisher_id": "65670b56ad4adb650837a435",
+        "humanized_name": "8 Ball Pool",
+        "icon_url": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s150",
+        "os": "unified",
+        "id": "6478d3edb3ae272847ad30f8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "8ff17b7f82b505b9",
+      "app_id": "562ee42e7556e5d7970021fa",
+      "network": "TikTok",
+      "phashion_group": "8ff17b7f82b505b9",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-26",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "8ff17b7f82b505b9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78ec693efa367e20/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78ec693efa367e20/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78ec693efa367e20/thumb",
+          "video_duration": 13,
+          "width": 720,
+          "height": 1280,
+          "message": "Play now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "562ee42e7556e5d7970021fa",
+        "canonical_country": "US",
+        "name": "Blackjack 21: Blackjackist",
+        "publisher_name": "KamaGames",
+        "publisher_id": "5840c2760211a64f0b0001a5",
+        "humanized_name": "Blackjack 21",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/bd/ef/f9bdef10-881b-95d7-f3ea-5a1bb9992aac/AppIcon-com.iphonesoft3g.blackjack-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "562ee42e7556e5d7970021fa",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0f1d08a2d1f37cb0",
+      "app_id": "559edb17d2a0f9042f002a52",
+      "network": "TikTok",
+      "phashion_group": "0f1d08a2d1f37cb0",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-06",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "0f1d08a2d1f37cb0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/84b1c1ba25362fd4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/84b1c1ba25362fd4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/84b1c1ba25362fd4/thumb",
+          "video_duration": 12,
+          "width": 576,
+          "height": 1024,
+          "message": "Boost your skills"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "559edb17d2a0f9042f002a52",
+        "canonical_country": "US",
+        "name": "Casino Roulette: Roulettist",
+        "publisher_name": "KamaGames",
+        "publisher_id": "5840c2760211a64f0b0001a5",
+        "humanized_name": "Casino Roulette",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/59/b7/4159b7f9-67a5-8f4b-f767-f8d4a053a9d0/AppIcon-com.iphonesoft3g.roulette-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "559edb17d2a0f9042f002a52",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a5436f4d1a8c950d",
+      "app_id": "55c502b302ac64f9c0001fdb",
+      "network": "TikTok",
+      "phashion_group": "a5436f4d1a8c950d",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-03",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "a5436f4d1a8c950d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "message": "Call or fold?"
+        },
+        {
+          "id": "efc558e0bb4eda8c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/96ccf586eaa34188/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "message": "Show your skills!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c502b302ac64f9c0001fdb",
+        "canonical_country": "US",
+        "name": "Texas Hold'em Poker: Pokerist",
+        "publisher_name": "KamaGames",
+        "publisher_id": "5840c2760211a64f0b0001a5",
+        "humanized_name": "Texas Hold'em Poker",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/13/ed/a713ed3f-a921-0f25-2c97-d8e502e3a27e/AppIcon-com.iphonesoft3g.texaspoker-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c502b302ac64f9c0001fdb",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

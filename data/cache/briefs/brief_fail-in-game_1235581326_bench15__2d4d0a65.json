@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-in-game",
+  "target_game_id": "1235581326",
+  "title": "Why This Combo Is So Hard — Can You Beat It?",
+  "hook_3s": "A ball clangs the rim in slow-mo on a beige court — magenta hoop trembling — text slams in: \"WHY IS THIS COMBO SO HARD?\"",
+  "scene_flow": [
+    "0–3s: Cold open mid-rally. Ball arcs toward a magenta hoop, finger taps frantically, ball CLANGS the rim and bounces out. Big shake + 'FAIL' stamp in magenta.",
+    "3–7s: Replay zooms in: the hoop spacing is brutal — three rotating hoops in a row. Overlay: '99% FAIL HERE'. Versus opponent score ticks up on the right.",
+    "7–11s: Second attempt — taps land cleaner, ball whooshes through hoop 1 and 2 with combo flames, then clips hoop 3. Score UI flashes red. Heart icon drains.",
+    "11–14s: Third attempt, perfect tap rhythm, ball threads all three hoops — 'x3 COMBO!' explodes in cyan. Player score overtakes opponent.",
+    "14–15s: Freeze on celebration frame, CTA banner snaps in: 'CAN YOU WIN?' over Install button."
+  ],
+  "visual_direction": "Lock to Flappy Dunk's native side-scrolling court: warm beige (#EAD5A0) background, bold magenta (#D81155) hoops and banners, bright blue (#5CB3FF) combo VFX and score chips. Thick black outlines on every asset, flat shading, no gradients. Camera stays in the game's true 2D plane — no fake 3D. Use the existing HUD: top-left lives/hearts, top-center VS score comparison, combo multiplier popping in cyan. Failure beats are punctuated with a quick red shake + magenta 'FAIL' stamp; success beats use cyan starbursts. Energy is fast, bouncy, arcade-loud — every tap visible as a small white pulse on screen.",
+  "text_overlays": [
+    "WHY IS THIS COMBO SO HARD?",
+    "99% FAIL HERE",
+    "ONE MORE TRY…",
+    "x3 COMBO!",
+    "CAN YOU WIN?"
+  ],
+  "cta": "Can You Win?",
+  "rationale": "Voodoo's current rotation leans on generic \"best basketball game\" video pitches and a silent playable — none lead with a fail/challenge hook, which is the trending market angle. We rebuild the parking-puzzle \"fail + can you win?\" framing natively around a near-miss hoop combo, so the hook tests fresh in the auction without misrepresenting the core loop (post-install retention stays intact). UA: ship this against the existing video set as a hook-test; expect higher IPM from curiosity-driven taps, then read D1 retention vs. the \"best basketball game\" baseline.",
+  "scenario_prompts": [
+    "Aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant high-contrast colors. Authentic Flappy Dunk in-game frame: side-scrolling court with warm beige (#EAD5A0) background, three magenta (#D81155) basketball hoops with nets arranged in a tight diagonal combo, a bright orange basketball frozen mid-bounce clipping the rim of the third hoop with a small bright blue (#5CB3FF) impact spark. Native HUD visible: top-left red heart lives indicator, top-center VS score chips (player vs opponent), cyan combo multiplier 'x2' popping near the ball. Bold magenta on-screen text stamp: 'WHY IS THIS COMBO SO HARD?'. Tap-pulse ring on screen. No characters, no 3D, no gradients.",
+    "Aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant high-contrast colors. Flappy Dunk gameplay still: beige (#EAD5A0) court, orange basketball threading cleanly through a magenta (#D81155) hoop with bright blue (#5CB3FF) cyan starburst VFX and motion lines trailing behind. Score UI at top showing player ahead of opponent, hearts intact, combo counter flashing 'x3 COMBO!' in cyan. Signature on-screen text: 'x3 COMBO!'. Flat shaded, arcade hypercasual, no characters, true to in-game camera.",
+    "Aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant high-contrast colors. Flappy Dunk end-card frame: beige (#EAD5A0) background, a magenta (#D81155) hoop center-frame with the basketball mid-swish and a bright blue (#5CB3FF) Install button banner across the lower third. Native HUD chrome preserved (hearts top-left, VS score top-center). Bold black-outlined headline overlay: 'CAN YOU WIN?'. No characters, no photoreal elements, pure flat cartoon arcade style."
+  ]
+}

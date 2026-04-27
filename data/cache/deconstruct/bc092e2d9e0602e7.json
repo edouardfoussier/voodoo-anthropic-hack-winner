@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "bc092e2d9e0602e7",
+    "ad_unit_id": "bc092e2d9e0602e7",
+    "app_id": "5b8e9647a2750e6598c510a7",
+    "advertiser_name": "Papa Murphy’s Take+Bake Pizza",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5e5959430d60256c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5e5959430d60256c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5e5959430d60256c/preview",
+    "phashion_group": "bc092e2d9e0602e7",
+    "share": null,
+    "first_seen_at": "2025-08-11T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1440,
+    "height": 2560,
+    "message": "$10 Tuesdays are back at Papa Murphy’s! Every Tuesday, any Large original or thin crust pizzas. Some deals are too good to stay gone. Order now.",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Announcement of the return of a $10 Tuesday pizza deal.",
+    "visual_action": "Text elements 'IT'S BACK!!', '$10', and 'TUESDAYS' pop onto a red background above a steaming pizza.",
+    "text_overlay": "IT'S BACK!! $10 TUESDAYS ANY LARGE PIZZA*",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Green banner with 'IT'S BACK!!' appears at the top over a red textured background.",
+    "Large '$10' and repeating 'TUESDAYS' text layers onto the center.",
+    "A yellow starburst badge with 'ANY LARGE PIZZA*' pops in.",
+    "Final static frame showing the complete offer over a steaming pizza."
+  ],
+  "on_screen_text": [
+    "IT'S BACK!!",
+    "$10",
+    "TUESDAYS",
+    "ANY LARGE PIZZA*"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#C62828",
+    "#2E7D32",
+    "#F9E79F"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Budget-conscious families and pizza lovers looking for a recurring weekly value deal.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001333
+}

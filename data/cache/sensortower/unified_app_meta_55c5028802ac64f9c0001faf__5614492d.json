@@ -1,0 +1,40 @@
+{
+  "apps": [
+    {
+      "unified_app_id": "55c5028802ac64f9c0001faf",
+      "name": "Candy Crush Saga",
+      "canonical_app_id": 553834731,
+      "cohort_id": "cohort_b9b0c4b8ac28e9eaac779837",
+      "itunes_apps": [
+        {
+          "app_id": 553834731
+        },
+        {
+          "app_id": 838804006
+        },
+        {
+          "app_id": 662039034
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.king.candycrushsaga"
+        },
+        {
+          "app_id": "com.king.candycrushsagakakao"
+        }
+      ],
+      "unified_publisher_ids": [
+        "5614b2f53f07e2077c000059",
+        "5628910002ac648b28002389"
+      ],
+      "itunes_publisher_ids": [
+        526656015,
+        446324237
+      ],
+      "android_publisher_ids": [
+        "King"
+      ]
+    }
+  ]
+}

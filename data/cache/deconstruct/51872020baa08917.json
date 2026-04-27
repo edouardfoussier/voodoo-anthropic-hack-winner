@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "51872020baa08917",
+    "ad_unit_id": "51872020baa08917",
+    "app_id": "69c32dc29ed60e3ebdd07cea",
+    "advertiser_name": "Chicken Rage Scavenger",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01cd1f31d3379420/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01cd1f31d3379420/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01cd1f31d3379420/preview",
+    "phashion_group": "51872020baa08917",
+    "share": null,
+    "first_seen_at": "2026-04-14T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A 3D rooster stands at the edge of a busy highway preparing to cross.",
+    "visual_action": "The rooster is positioned on a sidewalk next to a multi-lane road with fast-moving cars and trucks passing by.",
+    "text_overlay": "Supermarket",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "The rooster waits for a gap in traffic at the edge of a multi-lane city road.",
+    "The rooster begins walking across the asphalt, narrowly dodging a green SUV.",
+    "The rooster continues through the middle lanes, avoiding police cars and fire trucks.",
+    "The rooster successfully reaches the grassy median on the opposite side of the highway."
+  ],
+  "on_screen_text": [
+    "Supermarket",
+    "0.37",
+    "27.67"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#7B7B7B",
+    "#CCCCCC",
+    "#B22222"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual mobile gamers who enjoy simple, high-tension arcade challenges similar to Crossy Road.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001535
+}

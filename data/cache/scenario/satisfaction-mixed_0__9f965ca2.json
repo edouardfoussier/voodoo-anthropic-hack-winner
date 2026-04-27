@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_PbwtVzeZ7cxba6tPDA3Qm9w4?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUGJ3dFZ6ZVo3Y3hiYTZ0UERBM1FtOXc0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=dvec9HpgpczM310pkOaZwZxOMNJEXgDlcTkMFNM1sNRux-8c2XPwmSU49bTzz2pd-EoHmD88aQEKo1PljTASrLKp9x-mkSLWQZHv-3as-VC6JTYpMAgqI4xCtGAHZYOcawyQy9mlqE4FXfaWmlujCPJM9VH%7E4YAst1zxXSPjh5hBgXZGdEbrIqkbM7dgUc7Exj9oGT0eLNTIBIwJX--iKkRgEPqPEiFFIFnBgzPn3kegDcKJs1snuQo1l1eb5MSbuCwKFlgZmoPKXa%7E4rUAQJ03IRUEMvjyZrj-NeNx47LsTqcOnqiB-HU8XIVDC774aSK-BCPdUb-LRkJOiNHjzNA__",
+  "job_id": "job_sKuQUdjReJQVJC4FhNDTijZg",
+  "asset_id": "asset_PbwtVzeZ7cxba6tPDA3Qm9w4",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, minimalist 3D with bright contrasting colors and simple geometric shapes: a tall white tiered diving platform on the left rising into a pale #AEE2FF sky, a small turquoise swimming pool far below on flat ground, a bright #FF007F humanoid ragdoll character mid-crouch at the platform edge ready to leap, a translucent fingertip overlay tracing a dotted curved aim line from character down into the pool, height markers '50m / 30m / 10m' along the side in clean sans-serif, a bold #C754D9 banner across the upper third reading 'Ever played something THIS relaxing?', soft bloom, calm satisfying mood, authentic Flip & Dive 3D in-game HUD chrome, no extra characters, no stock UI. [Audio: VO (soft female, ASMR-close mic): 'Ever played a game that actually feels relaxing?' / chillhop lo-fi 70 BPM, mellow Rhodes piano / soft fingertip-tap on screen at 0.5s, gentle wind whoosh at 2s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

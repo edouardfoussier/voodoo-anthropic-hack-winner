@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-in-game",
+  "target_game_id": "1453402726",
+  "title": "Why Is This Dive So Hard?",
+  "hook_3s": "Pink ragdoll launches off a towering cyan platform — and pancakes onto concrete two feet from the pool.",
+  "scene_flow": [
+    "0–3s: POV looks down from a tall cyan diving tower. A finger taps JUMP — the bright pink humanoid leaps. Overlay: 'WHY IS THIS LEVEL SO HARD?'",
+    "3–7s: Mid-air flip with depth/height markers ticking. Player mistimes the straighten — ragdoll over-rotates. Overlay: 'JUST AIM FOR THE POOL…'",
+    "7–10s: Belly-flop SPLAT onto the pink tile deck, missing the tiny blue pool by inches. Depth counter reads 0.0m. Overlay: 'BRO 💀'",
+    "10–13s: Quick retry montage — 3 more cringe fails (head-first into ladder, bounces off umbrella, lands in pink banner). Overlay: '99% CAN'T DO IT'",
+    "13–15s: Final attempt teases a clean entry, freezes mid-flip. Overlay: 'CAN YOU?' → CTA card."
+  ],
+  "visual_direction": "Lock to Flip & Dive 3D's signature look: pastel cyan (#AEE2FF) sky and tiled deck, hot-pink (#FF007F) ragdoll character, purple (#C754D9) UI banners and depth markers. Minimalist 3D geometry — chunky platforms, no textures, soft ambient occlusion. Camera mimics the in-game side/orbit angle with the same depth-meter HUD, JUMP button, and bold banner ribbons. Fails are exaggerated with squash-and-stretch ragdoll physics; impact frames freeze for a half-beat with a purple shockwave ring. Keep it clean and toy-like — no gritty crash imagery.",
+  "text_overlays": [
+    "WHY IS THIS LEVEL SO HARD?",
+    "JUST AIM FOR THE POOL…",
+    "BRO 💀",
+    "99% CAN'T DO IT",
+    "CAN YOU?"
+  ],
+  "cta": "TRY IT FREE",
+  "rationale": "Voodoo's current Flip & Dive rotation is all silent gameplay loops with zero copy or emotional framing — they have no fail-bait creative in market. This brief imports the trending \"WHY IS THIS SO HARD\" fail-loop structure (abstracted from the bus archetype, which is mechanically irrelevant) and grafts it onto the game's native belly-flop comedy, giving UA a challenge-driven hook to A/B against the existing wordless videos. Test as a 15s video first; if CPI beats the silent baseline, port the cringe-fail montage into the playable.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect ratio, authentic in-game moment from Flip & Dive 3D: bright hot-pink (#FF007F) humanoid ragdoll mid-belly-flop, frozen one inch above a pastel cyan (#AEE2FF) tiled pool deck, tiny square swimming pool just out of reach, tall minimalist 3D diving tower in background, purple (#C754D9) depth-counter HUD reading 0.0m in top corner, bold purple banner across the middle reading 'WHY IS THIS LEVEL SO HARD?', minimalist 3D with bright contrasting colors and simple geometric shapes, no textures, soft shadows, toy-like proportions, same UI chrome as Flip & Dive 3D screenshots. [Audio: VO (frustrated male, gen-z): 'bro why is this so hard' / lo-fi calm-satisfying beat 90 BPM with playful marimba / wet SPLAT thud at 1.5s, soft whoosh on fall]",
+    "Storyboard frame, 9:16 vertical, authentic Flip & Dive 3D gameplay shot from low side angle: pink ragdoll character over-rotating in mid-air above a small cyan (#AEE2FF) square pool, purple (#C754D9) height markers ticking down the tower edge, JUMP button faded at bottom, bold pink (#FF007F) overlay banner reading 'JUST AIM FOR THE POOL…', minimalist 3D with bright contrasting colors and simple geometric shapes, clean pastel sky, no textures. [Audio: VO: 'easy right?' / same calm marimba beat continuing / airy whoosh on flip, ticking timing-meter SFX]",
+    "Storyboard frame, 9:16 vertical, authentic Flip & Dive 3D fail moment: pink (#FF007F) ragdoll splattered flat on cyan (#AEE2FF) tile deck two feet from the tiny pool, limbs bent comically, purple (#C754D9) shockwave ring radiating from impact, depth counter showing 0.0m, bold purple banner reading '99% CAN'T DO IT', minimalist 3D with bright contrasting colors and simple geometric shapes, same HUD as Flip & Dive 3D. [Audio: VO: 'nope' / beat drops to half-time / cartoon SPLAT plus low fail-buzzer at 0.8s, crowd 'oof' sting]"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "b16a2d7ff02603c8",
+    "ad_unit_id": "b16a2d7ff02603c8",
+    "app_id": "559eae34fe7ddaabdd0294f9",
+    "advertiser_name": "オンクレはトレバ - オンラインクレーンゲーム",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcc91222c1fe6ffe/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcc91222c1fe6ffe/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fcc91222c1fe6ffe/preview",
+    "phashion_group": "b16a2d7ff02603c8",
+    "share": null,
+    "first_seen_at": "2026-03-17T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "トレバで楽しくクレーンゲーム！",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Pink mascot dancing in a massive crane game warehouse.",
+    "visual_action": "A pink cat mascot performs a simple dance in a warehouse filled with rows of crane game machines.",
+    "text_overlay": "本物のクレーンゲームで景品を獲ろう！ トレバはいつでもプレイできる！",
+    "voiceover_transcript": "本物のクレーンゲームで景品を獲ろう！オンクレトレバはいつでもプレイできる。",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Mascot dancing in a large warehouse filled with real crane game machines.",
+    "Graphic overlay announcing free play opportunities up to 999 times.",
+    "In-game footage showing a crane successfully grabbing a prize box on a 'Beginner Support' machine.",
+    "Animated sequence of a mascot driving a delivery truck, emphasizing free shipping for prizes.",
+    "Final brand screen with the game logo and a call-to-action button."
+  ],
+  "on_screen_text": [
+    "本物のクレーンゲームで景品を獲ろう！",
+    "トレバはいつでもプレイできる！",
+    "実は無料で遊べちゃう！",
+    "最大999回！",
+    "初心者応援台とアシストで景品が獲りやすい！",
+    "とれる景品は10,000種類以上！",
+    "とった景品はなんと送料無料！",
+    "クレーンゲーム トレバ",
+    "PLAY!"
+  ],
+  "cta_text": "PLAY!",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#FF66B2",
+    "#FFD900",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual mobile gamers in Japan who enjoy arcade crane games and collecting prizes.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001978
+}

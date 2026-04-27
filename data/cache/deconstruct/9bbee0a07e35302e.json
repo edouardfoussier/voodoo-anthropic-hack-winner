@@ -1,0 +1,50 @@
+{
+  "raw": {
+    "creative_id": "9bbee0a07e35302e",
+    "ad_unit_id": "9bbee0a07e35302e",
+    "app_id": "5f94ce82e604925818c4d435",
+    "advertiser_name": "Magicabin: Witch's Adventure",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/preview",
+    "phashion_group": "9bbee0a07e35302e",
+    "share": null,
+    "first_seen_at": "2026-04-06T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Entdecke ein aufregendes neues Abenteuer 🌴",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Miniature figures in traditional Chinese dress harvest a giant lemon.",
+    "visual_action": "Figures walk by a river with koi, then climb a ladder to pick a massive lemon.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Miniature figures walk along a scenic river path towards a lemon orchard.",
+    "The group works together to harvest a giant lemon using a ladder and a net.",
+    "The lemon is transported, washed in a wooden tub, and sliced on a large board.",
+    "Juice is extracted using a wooden press and mixed with large ice cubes in a glass.",
+    "The finished lemonade is served to an elder and enjoyed by the whole group."
+  ],
+  "on_screen_text": [],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#8B4513",
+    "#FFD700",
+    "#228B22"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Fans of cozy, miniature aesthetics and traditional Chinese culture who enjoy satisfying process videos.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015249999999999999
+}

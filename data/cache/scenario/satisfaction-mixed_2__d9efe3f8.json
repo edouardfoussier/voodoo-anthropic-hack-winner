@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_gsw5xjd5F88NbBWQSVNAkQX7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZ3N3NXhqZDVGODhOYkJXUVNWTkFrUVg3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=uJR-BqjMGp2nLdZofaMEtp8I064KWKmkJibthIAtJPE2n0TjGbD-5ywN3C8Q4sEuAWs5KFmWJv7e4QzAxj41P86E0%7E-CMz0G0%7E1q%7ENWqmnqvXIewsNLDQkdlZw0pUJI2hTYLRhr0O1wkE7i0GxrB2NCnmfHjohvgBqy%7ELnIYCAYsDOBdNSR1Yi6NDM7SPx-B-scba4QyMVUkkL3nJ4BEagPHV8B%7Eu-z0ZCCL9g0kG2MAmyNOo--ohgzuaW%7E5MprNrf8sT5396sVT1%7E5cVRRwOnTLkGET-fw0oK4k%7E-kMxWLLp45CpQ-JC7qY1fEhMfo9M-kKNqTFOsL364dhkyf0aw__",
+  "job_id": "job_uUChkfzFYh17Ew3foGgbiEP3",
+  "asset_id": "asset_gsw5xjd5F88NbBWQSVNAkQX7",
+  "stub": false,
+  "prompt": "Storyboard end-card frame, aspect 9:16, Color Road! style: pastel-pink ball resting beside oversized glossy 'Color Road!' wordmark on dark navy #152238 track, pastel #FADADD sky, scattered #FF4C4C confetti, minimalist 3D abstract geometry, no characters, big white 'Play Free' CTA button center-bottom, score '999+' and coin icon top HUD, on-screen text 'Your brain will thank you' upper third. [Audio: VO 'Your brain will thank you \u2014 play free' / triumphant 110 BPM pastel-pop sting / cash-register coin cascade at 1s, soft button-tap pop on CTA at 3s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

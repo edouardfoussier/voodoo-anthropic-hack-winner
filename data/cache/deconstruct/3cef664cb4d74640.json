@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "3cef664cb4d74640",
+    "ad_unit_id": "3cef664cb4d74640",
+    "app_id": "5b8e9647a2750e6598c510a7",
+    "advertiser_name": "Papa Murphy’s Take+Bake Pizza",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3eba2806a760a49a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3eba2806a760a49a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3eba2806a760a49a/preview",
+    "phashion_group": "3cef664cb4d74640",
+    "share": null,
+    "first_seen_at": "2026-03-23T00:00:00",
+    "last_seen_at": "2026-04-20T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Just $10.99 gets you the thick crust, golden edges and cheesy corners of a perfect Detroit-Style Pizza! Mini Cup Pepperoni or Create-Your-Own 2-Top.",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Extreme close-up of a Detroit-style pizza cheese pull.",
+    "visual_action": "A hand lifts a slice of pizza, creating a long, satisfying cheese stretch with crispy pepperoni in focus.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Close-up cheese pull with melting mozzarella and pepperoni.",
+    "Fast-paced montage of crispy pepperoni and pizza being removed from a pan.",
+    "Slow-motion lift of a thick pizza slice showing the airy crust and cheese.",
+    "Final product reveal with branding and price point."
+  ],
+  "on_screen_text": [
+    "DETROIT Style pizza",
+    "$10.99 EACH"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#911215",
+    "#E8B94F",
+    "#120807"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Hungry adults and pizza lovers looking for a high-value, indulgent meal.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00151
+}

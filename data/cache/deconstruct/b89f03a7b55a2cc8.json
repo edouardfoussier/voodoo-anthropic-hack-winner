@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "b89f03a7b55a2cc8",
+    "ad_unit_id": "b89f03a7b55a2cc8",
+    "app_id": "5a509f15f066e148b1fa5013",
+    "advertiser_name": "Skullgirls: Fighting RPG",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e1e2bdaed969f4e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e1e2bdaed969f4e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e1e2bdaed969f4e/preview",
+    "phashion_group": "b89f03a7b55a2cc8",
+    "share": null,
+    "first_seen_at": "2025-10-28T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "'Damn fun.' 'Wonderful mechanics.' 'A standout in this crowded mobile fighting genre.' - TouchArcade",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid character selection and transformation showcase.",
+    "visual_action": "A hand taps on characters Double, Painwheel, and Beowulf, triggering their unique transformation animations.",
+    "text_overlay": "DOUBLE, PAINWHEEL, BEOWULF",
+    "voiceover_transcript": "Ignorant children... [Scream]... [Howl]",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Rapid-fire character selection showing different fighters and their transformations.",
+    "Transition to a person holding a phone playing the game (Beowulf vs Squigly).",
+    "Gameplay montage showing combos and special moves.",
+    "Final end card with the game logo and a 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "DOUBLE",
+    "PAINWHEEL",
+    "BEOWULF",
+    "SHOWTIME!",
+    "BEOWULF - UNDERDOG",
+    "PLOT TWISTED - SQUIGLY",
+    "CRITICAL HIT",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#1A3C34",
+    "#D4AF37",
+    "#2B2B2B"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Fans of fighting games and anime-style art, likely males 18-35.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017139999999999998
+}

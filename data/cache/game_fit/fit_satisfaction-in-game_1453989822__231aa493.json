@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 18,
+  "mechanic_match": 10,
+  "audience_match": 55,
+  "overall": 22,
+  "rationale": "Major friction: this archetype is a block-fitting puzzle satisfaction hook (green grid, IQ-tier meter) that has zero mechanical overlap with aquapark.io's slide/steer/bump racing loop — adapting it would require fabricating gameplay the app doesn't have, which risks misleading-ad policy strikes and poor D1 retention. The palette (green/gold/indigo) also clashes with the signature blue-water/orange-accent identity, so visual borrowing is limited. Only the casual hypercasual audience overlaps; do not greenlight unless reworked into a racing-native \"Smart/Genius/Psychopath\" steering-decision meter, which is a heavy reinterpretation rather than a true archetype port."
+}

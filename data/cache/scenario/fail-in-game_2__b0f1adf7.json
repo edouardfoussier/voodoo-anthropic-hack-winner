@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_PVZUDe2N7RGGnkKCcWq6RRpj?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUFZaVURlMk43UkdHbmtLQ2NXcTZSUnBqP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=JFTrsxNEZwo35ISpFLETUoepe2lknX0mgO5JmV3vafJpKP4TvDFA1hCMgKzbavZ-izhfuqZR3yFxnllRlgXeFS4pt5-vQyP%7EBm6PocqaZkKr1vPGKE%7ED4Gb6lQhZ0V9S0jfUrwl5kvt-jxuxdmAnsD0IY3eL2LqJnW9vOE-WUZncwxsxN6j6-X%7ED7xa7UzhKJPE4Oa%7EBHJ2gFnaF8bW4-nZSY8e76LC1Jny4sqgeTPBGDSTFOkg%7E8hd4OCnF5Uaaaw1uB-OxHoueWOFxnPw1wtZT1Cc%7Efc8QSEa86-OboCBB7LrX9X4uOG80dYbEmwJ9jBFJ1VNOCGUu-Ej1tI-yAA__",
+  "job_id": "job_JJHLxkrzojbba7jw5dBbGeHd",
+  "asset_id": "asset_PVZUDe2N7RGGnkKCcWq6RRpj",
+  "stub": false,
+  "prompt": "9:16 vertical storyboard frame, authentic Color Road! success beat: the pastel-pink ball flips through a perfectly matched pink color gate while a saturated accent-red (#FF4C4C) ball-state passes a red gate next, golden coins streaming into the score counter, dark navy (#152238) ribbon track curving through a soft pastel-pink (#FADADD) sky filled with abstract geometric pylons and cubes, native HUD with rising score top-left and pause button top-right, minimalist 3D with abstract geometric shapes and a soft pastel background, bold white overlay text top: 'CAN YOU BEAT IT?', no characters, dynamic chase camera. [Audio: VO (confident): 'Think you can?' / 128 BPM energetic competitive synth-pop swelling to peak / rapid coin-chime combo SFX, satisfying gate-pass shimmer at 0.4s and 1.8s, riser into CTA]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

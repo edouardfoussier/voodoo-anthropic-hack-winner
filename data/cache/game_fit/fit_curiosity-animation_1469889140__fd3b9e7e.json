@@ -1,0 +1,8 @@
+{
+  "archetype_id": "curiosity-animation",
+  "visual_match": 15,
+  "mechanic_match": 10,
+  "audience_match": 25,
+  "overall": 15,
+  "rationale": "Hard pass. The archetype's dark, muted palette (navy/olive/orange) and somber cross-section reveal aesthetic clash directly with Crazy Kick's sunny yellow/sky-blue low-poly stickman world, and a static architectural pan has zero connection to a swipe-to-score football loop. Audience overlap is also weak — Eiffel/bunker curiosity hooks index toward 4X, sim, or puzzle-mystery players, not arcade sports fans. Don't adapt this; if curiosity is a desired emotional pitch, build a sports-native version (e.g., \"what's hidden behind this impossible defender wall?\")."
+}

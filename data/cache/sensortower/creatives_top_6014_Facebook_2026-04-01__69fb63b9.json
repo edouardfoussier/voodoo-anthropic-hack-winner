@@ -1,0 +1,186 @@
+{
+  "count": 4562,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "4671d3b72ec52a45",
+      "app_id": "657764bcad4adb78f0c03332",
+      "network": "Facebook",
+      "phashion_group": "4671d3b72ec52a45",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-17",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "4671d3b72ec52a45",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37fd92a14dbd2d4b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Flex Spins on Daily Rewards Rocket",
+          "button_text": "Learn More",
+          "message": "EXCLUSIVE FLEX SPINS have landed on DraftKings Casino \ud83d\ude80 Head to the app for your daily chance at FREE Flex Spins \ud83c\udfb0"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "657764bcad4adb78f0c03332",
+        "canonical_country": "US",
+        "name": "DraftKings Casino - Real Money",
+        "publisher_name": "DraftKings",
+        "publisher_id": "5614ead33f07e25d290233b6",
+        "humanized_name": "DraftKings Casino",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/53/c2/a553c2ae-66f2-cee3-aa80-9109f40f9948/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "657764bcad4adb78f0c03332",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "23d8854b8279418a",
+      "app_id": "56fee3eff49ea42a540000d4",
+      "network": "Facebook",
+      "phashion_group": "23d8854b8279418a",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-16",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "23d8854b8279418a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab019ffc77cb7574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab019ffc77cb7574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab019ffc77cb7574/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Whopper Perfected",
+          "button_text": "Order Now",
+          "message": "We made the Whopper your way. Enjoy it now with even better ingredients. The new king is you."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "56fee3eff49ea42a540000d4",
+        "canonical_country": "US",
+        "name": "BURGER KING App",
+        "publisher_name": "Restaurant Brands International",
+        "publisher_id": "5b3149587f6d443bda4d2f6d",
+        "humanized_name": "BURGER KING App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/50/c4/fa50c416-7d9f-50c2-a3cd-f1cf94207b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "56fee3eff49ea42a540000d4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "6132fcd245d4ff2a",
+      "app_id": "5b8e9647a2750e6598c510a7",
+      "network": "Facebook",
+      "phashion_group": "6132fcd245d4ff2a",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "6132fcd245d4ff2a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "NEW! Detroit-Style Pizza",
+          "button_text": "Order Now",
+          "message": "Our Detroit-Style Pizza just pulled up! Thick crust, golden edges, cheesy corners, gooey mozzarella & crispy mini cup pepperoni. Grab one for $10.99."
+        },
+        {
+          "id": "c53be941ed2c3b5c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c76ea70bfe9bd986/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Papa Murphy's of New Braunfels/Walnut Ave",
+          "button_text": "Order Now",
+          "message": "Just $10.99 gets you the thick crust, golden edges and cheesy corners of a perfect Detroit-Style Pizza! Mini Cup Pepperoni or Create-Your-Own 2-Top."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b8e9647a2750e6598c510a7",
+        "canonical_country": "US",
+        "name": "Papa Murphy\u2019s Take+Bake Pizza",
+        "publisher_name": "Papa Murphy's",
+        "publisher_id": "5b59ab84d8ac44018b121c7a",
+        "humanized_name": "Papa Murphy\u2019s Take",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/71/99/4d7199c3-4d40-fa89-d900-9da8d28ebbfe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5b8e9647a2750e6598c510a7",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "712c4a1dd7727238",
+      "app_id": "5b8e9647a2750e6598c510a7",
+      "network": "Facebook",
+      "phashion_group": "712c4a1dd7727238",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "712c4a1dd7727238",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "title": "NEW! Detroit-Style Pizza",
+          "button_text": "Order Now",
+          "message": "Just $10.99 gets you the thick crust, golden edges and cheesy corners of a perfect Detroit-Style Pizza! Mini Cup Pepperoni or Create-Your-Own 2-Top."
+        },
+        {
+          "id": "903ae9636edd3c4a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "title": "NEW! Detroit-Style Pizza",
+          "button_text": "Order Now",
+          "message": "Just $10.99 for a Detroit-Style Pizza? Yes! Pizza lovers, start your ovens. Grab one today."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b8e9647a2750e6598c510a7",
+        "canonical_country": "US",
+        "name": "Papa Murphy\u2019s Take+Bake Pizza",
+        "publisher_name": "Papa Murphy's",
+        "publisher_id": "5b59ab84d8ac44018b121c7a",
+        "humanized_name": "Papa Murphy\u2019s Take",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/71/99/4d7199c3-4d40-fa89-d900-9da8d28ebbfe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5b8e9647a2750e6598c510a7",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "6754558455",
+  "title": "Hands-On ASMR: Marble Sort Satisfaction",
+  "hook_3s": "Manicured fingertip taps a tray — pastel marbles tumble, click, and roll in buttery 3D ASMR.",
+  "scene_flow": [
+    "0–3s HOOK: Close-up of a woman's hand holding a phone in portrait; a single fingertip taps a lavender tray and glossy pastel marbles cascade out with a crisp click-clack.",
+    "3–7s MECHANIC REVEAL: Pull back slightly to show marbles bouncing onto the moving conveyor, rolling toward color-coded boxes — a yellow marble plinks into the orange box: ding! ✨",
+    "7–11s TENSION BEAT: A wrong-color marble approaches the wrong box; finger taps to pause/redirect the tray just in time — near-miss save with a satisfying snap.",
+    "11–14s PAYOFF: Final box fills, level clears with a soft confetti burst and a pastel star rating; UI mood stays calm and clean.",
+    "14–15s CTA: Phone tilts forward, Marble Sort! logo + Play Free button bloom in the orange accent."
+  ],
+  "visual_direction": "Shot like a luxe ASMR tabletop ad: shallow-DOF close-up of a woman's hand (ages 30-45, soft neutral manicure) cradling a modern phone over a lavender (#E5DFFF) surface. Inside the screen, render the game in its native clean, colorful 3D cartoon style with soft rounded shapes — light grey (#F0F0F8) machine, pastel marbles, and a vibrant orange (#FFB13B) accent reserved for the title, score pop, and CTA. Lighting is diffuse and creamy; sound design leans into tactile clicks, rolls, and gentle chimes. No characters inside the game world — just the satisfying physics of marbles, conveyor, and color-matched boxes.",
+  "text_overlays": [
+    "Can you sort them all? 🎯",
+    "Tap to release…",
+    "Match the colors",
+    "Oh that's satisfying ✨",
+    "Level 1 cleared!",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "We're keeping the winning archetype's audience magnet — the woman's-hand-on-phone ASMR satisfaction framing that indexes hard on 25-55 female casual puzzlers — while swapping the misleading jigsaw mechanic for our true tap-to-release marble physics so IPM converts to D1 retention, not refunds. Lavender + orange palette and the soft 3D cartoon look stay locked to store creative for cohesion. Ship as A/B test against any existing gameplay-only cut; expect lift on CTR from the hand hook and stable CVR from honest mechanic reveal by 5s.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16: extreme close-up of a woman's hand with a soft neutral manicure holding a modern smartphone in portrait orientation, fingertip tapping the screen, on the screen a Clean and colorful 3D cartoon style with soft, rounded shapes scene of glossy pastel marbles tumbling from a lavender tray onto a light grey conveyor belt with color-coded boxes below, lavender background #E5DFFF, light grey machine #F0F0F8, vibrant orange accent #FFB13B on the title, soft diffuse studio lighting, shallow depth of field, on-screen text overlay in bold rounded orange letters reading 'Can you sort them all?', mobile ad still, ultra crisp",
+    "Storyboard frame 2, aspect 9:16: over-the-shoulder shot of the same smartphone screen filling most of the frame, Clean and colorful 3D cartoon style with soft, rounded shapes, a yellow marble mid-air dropping into a glowing orange box while a blue marble rolls along the conveyor, sparkle particles, palette lavender #E5DFFF background and light grey #F0F0F8 machine with vibrant orange #FFB13B highlight ring around the correct box, calm satisfying mood, on-screen text overlay 'Oh that's satisfying ✨' in rounded white type with orange drop shadow, playable ad frame",
+    "Storyboard frame 3 CTA, aspect 9:16: smartphone tilted slightly forward on a lavender pastel surface #E5DFFF, screen showing a completed Marble Sort level with all colored boxes full and a soft confetti burst, Clean and colorful 3D cartoon style with soft, rounded shapes, light grey machine #F0F0F8, large vibrant orange #FFB13B 'Play Free' button centered below the Marble Sort! logo, on-screen text overlay 'Level 1 cleared!' in playful orange rounded font, bright clean app store style composition"
+  ]
+}

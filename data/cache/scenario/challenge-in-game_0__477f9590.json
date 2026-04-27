@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_WV6Zq6fz1x4e1xF6h7eSPrE2?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfV1Y2WnE2ZnoxeDRlMXhGNmg3ZVNQckUyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=wQqKCp-JNcOoFwzqVCX3KW%7ETPo4IC%7E6nvn4mRJC%7E-uwtIlkdVb539tBCFRcMYfMRShI5nwQv7SGB929Iziju49INOEjKNWhq-4Sm%7ElKtnxSykNxRYR1-%7E3DgGjLQcnxVe8czcsppwhdBYTneSyEUhxq8KboMjtmHaBuaK-CYJp82KgjnL8VJH9lerzYxXnOznbjlTWqUHgsjuufpj1vIsd-y9amCPZlm4p0TtmNkdICm0Z5zmAOZWcau-PC0DBwZpOjqhubrr5JFsY8UskzoQTwS8sC5TYDGCzhZutL4kTH4rx9IbOkyDupauHs1UupZnuk4xCxFc4MJ%7E-r4sBNIgQ__",
+  "job_id": "job_FbxsfheqaCKWwUWT7kcechjC",
+  "asset_id": "asset_WV6Zq6fz1x4e1xF6h7eSPrE2",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic Helix Jump in-game screenshot: a vertical cylindrical helix tower of stacked pastel discs viewed slightly from above, a glowing neon cyan (#5CE1E6) bouncing ball frozen mid-air above a dense ring of bright red (#FF0000) trap platforms, one narrow lime green (#39FF14) safe gap glowing below, light off-white background, soft drop shadows, score counter top-left and x3 multiplier top-right in clean white sans-serif HUD, level badge '47', bold white-on-red overlay banner across upper third reading 'WHY IS LEVEL 47 SO HARD?', 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters, no people, crisp mobile game render",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

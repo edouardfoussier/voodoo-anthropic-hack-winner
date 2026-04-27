@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "1423046460",
+  "title": "Oddly Satisfying Territory Fill — ASMR Paper.io",
+  "hook_3s": "A neon-yellow square slowly carves a perfect spiral into a deep blue grid — every snap of color triggers a crisp ASMR pop.",
+  "scene_flow": [
+    "0-3s: Top-down close-up of a tiny yellow cube tracing a clean magenta-edged trail across a pristine cyan board, ASMR 'snap' as the first chunk fills in.",
+    "3-7s: Camera pulls back slightly — player carves bigger and bigger loops, each fill triggering a satisfying color-pop and percentage counter ticking up (12%… 28%… 47%).",
+    "7-11s: Tension beat: a red enemy creeps toward the trail, near-miss dodge, then player loops back and ENGULFS the enemy's whole territory in one sweep — explosion of magenta confetti.",
+    "11-14s: Board is now 90% gold, percentage hits 100%, screen flashes with 'SO SATISFYING' overlay and a clean victory chime.",
+    "14-15s: CTA card with Paper.io 2 logo and 'Play Free' button pulse."
+  ],
+  "visual_direction": "Lean fully into Paper.io 2's vibrant minimalist 3D top-down DNA: glossy solid-color territories with soft drop shadows, the gold (#FFD700) player against deep cyan (#00BFFF) board, magenta (#FF00FF) trail edges that glow on contact. Slow, deliberate camera with micro-zooms on each fill — borrow the satisfying 'reveal' rhythm from the bus-jam archetype but expressed through territory paint, not grid-clearing. Crisp ASMR sound design (paper crinkles, soft pops, click of the percentage counter) replaces voiceover. No UI clutter — let the colors breathe.",
+  "text_overlays": [
+    "Ever played something this satisfying?",
+    "Watch the board fill up…",
+    "47% … 78% … 100%",
+    "SO SATISFYING 🤤",
+    "Can YOU finish the map?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Paper.io 2 rotation is all unlabeled Unity/Admob playables and videos with no satisfaction/ASMR angle — they're missing the trending 'oddly satisfying' hook that's dominating casual feeds. This brief adapts the satisfaction archetype natively (territory paint instead of bus-jam) so it stays truthful to the install experience while capturing a fresh emotional lane. UA should test against the existing competitive/tension creatives to see if calm-satisfying outperforms on female 25-35 and broad casual segments.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, top-down view of a glossy minimalist 3D game board, deep cyan (#00BFFF) territory background, a small golden yellow (#FFD700) cube character in the center trailing a glowing magenta (#FF00FF) ribbon that carves a perfect spiral, vibrant minimalist 3D top-down with bright solid colors, soft drop shadows, on-screen text overlay 'Ever played something THIS satisfying?' in bold rounded white sans-serif at the top, clean uncluttered composition, high contrast, mobile ad still",
+    "Storyboard frame, aspect 9:16, top-down 3D view of a game board roughly 70% filled with bright golden yellow (#FFD700) territory eating into deep cyan (#00BFFF) zones, magenta (#FF00FF) trail edges glowing, a tiny red enemy cube approaching the trail in the lower right, vibrant minimalist 3D top-down with bright solid colors, large on-screen text overlay 'SO SATISFYING 🤤' centered in chunky white font with subtle shadow, energetic but clean mobile ad frame",
+    "Storyboard frame, aspect 9:16, top-down 3D view of a fully captured game board, 100% bright golden yellow (#FFD700) territory with magenta (#FF00FF) confetti particles bursting outward and faint cyan (#00BFFF) edge glow, vibrant minimalist 3D top-down with bright solid colors, on-screen text overlay 'Can YOU finish the map?' in bold white rounded sans-serif at bottom above a glowing Play Free button, victory celebration mood, mobile portrait ad"
+  ]
+}

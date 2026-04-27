@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "target_game_id": "6748054540",
+  "title": "ASMR Pour: Chain Reaction Jar",
+  "hook_3s": "A glass jar tips and glossy amber & violet balls cascade into a dark puzzle grid — soft clinks, deep thuds, instant satisfaction.",
+  "scene_flow": [
+    "0–3s: Close-up ASMR pour — a clear glass jar tilts over a dark puzzle grid; glossy amber (#FDBA4D) and deep purple (#403F6D) 3D balls cascade in with crisp clink/thud SFX.",
+    "3–6s: Camera pulls back to reveal the Bounce Blast 3D grid filling up; a finger taps to place a colored block into the tray slot, snapping satisfyingly into place.",
+    "6–10s: Blocks transform into bouncing balls — physics chain reaction erupts, obstacles shatter in slow-mo with amber sparks against the moody #20232B backdrop.",
+    "10–13s: Quick montage of 3 escalating levels clearing in one shot each, progress bar surging in #FDBA4D, 'LEVEL UP' bursts.",
+    "13–15s: Final jar pours one last ball that triggers a screen-clearing combo; logo + CTA snap in over a calm, satisfied beat."
+  ],
+  "visual_direction": "Lean into the game's moody-premium DNA: a near-black #20232B stage with deep purple #403F6D frames and a single hero accent of #FDBA4D amber on the balls, sparks, and progress UI. Render in 3D Casual Abstract — soft studio lighting, subsurface-glossy spheres, chunky rounded blocks, shallow depth of field on the pour, then crisp wide shots for the chain reaction. ASMR-grade sound design (glass clink, marble thud, soft whoosh) carries the satisfaction beat the archetype is built on, while every visual stays inside the puzzle world — no kitchen, no food.",
+  "text_overlays": [
+    "POUR…",
+    "TAP TO PLACE",
+    "WATCH IT BOUNCE",
+    "CHAIN REACTION!",
+    "LEVEL 47",
+    "SO SATISFYING"
+  ],
+  "cta": "Tap to Play",
+  "rationale": "Adapts the winning ASMR-pour structure but reskins the jar as the Bounce Blast grid and the pepper as the game's signature amber/purple physics balls — preserving the satisfaction trigger while teaching the core loop in the first 3 seconds. Use this for broad casual puzzle audiences 25–55 on TikTok/Reels/IG where ASMR creatives over-index; A/B the hook against a 'tap-to-place first' cut to isolate which opener drives higher IPM.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, 3D Casual Abstract style: a clear glass jar tilted in mid-pour above a dark puzzle grid, cascading glossy spheres in amber #FDBA4D and deep purple #403F6D bouncing into a moody #20232B background with soft studio rim light, shallow depth of field, subsurface-scattered glossy plastic, premium mobile-game render, on-screen text 'SO SATISFYING' in bold rounded sans-serif, ultra-detailed, octane render",
+    "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style: top-down hero shot of a chunky 3D puzzle grid framed in deep purple #403F6D on a #20232B stage, a finger tapping a glowing amber #FDBA4D block snapping into a tray slot, soft glow and motion lines, casual mobile puzzle aesthetic, on-screen text 'TAP TO PLACE' in bold yellow-orange caps",
+    "Storyboard frame 3, aspect 9:16, 3D Casual Abstract style: dynamic mid-action shot of glossy amber #FDBA4D and purple #403F6D physics balls ricocheting across a dark #20232B grid, obstacles shattering into bright sparks, progress bar in #FDBA4D filling at the top, cinematic slow-motion, premium 3D render, on-screen text 'CHAIN REACTION!' in bold rounded caps"
+  ]
+}

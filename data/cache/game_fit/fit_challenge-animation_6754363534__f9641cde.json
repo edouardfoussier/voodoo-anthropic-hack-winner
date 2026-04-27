@@ -1,0 +1,8 @@
+{
+  "archetype_id": "challenge-animation",
+  "visual_match": 18,
+  "mechanic_match": 8,
+  "audience_match": 10,
+  "overall": 12,
+  "rationale": "Severe mismatch across the board: high-intensity anime combat with shouted VO and beam attacks contradicts Sand Loop's calm/ASMR sorting fantasy, and the only thread of overlap is incidental palette (blue/yellow). The challenge hook (\"Try and survive this!\") sets up combat skill expectations the core loop of tapping buckets and color-sorting cannot deliver, guaranteeing post-install churn. Audience skews young male shōnen fans rather than the 25-45 casual satisfying-puzzle demo — do not adapt this archetype; if a \"challenge\" angle is needed, build a fail-state/near-miss sand-spill version instead."
+}

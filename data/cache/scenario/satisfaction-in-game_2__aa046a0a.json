@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_oH3LNZP7TiuafZMCJXKovtAU?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfb0gzTE5aUDdUaXVhZlpNQ0pYS292dEFVP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qR2K7Xr2bIIV2OQnmIjjnXApPxRuyUQX5HOthPs-6Tism6KGwiOijNE2dOLpj3i7axsxVb47sk%7Efbz8t4S8r0f-5cN9REYwEDwAWuGF2xcUkX0i7jS9vJtWijjiRBD-cZyqQ6B65DxpxauM%7ETOloSh3CGh%7ELlqx6c3Rtth6RijHBWeY0WIOwKYmiuLN4qlGOl3%7E2PJOo47CSfsxxrliG%7EDQs2xHo7ASGE0S7utfJvElqujh7VI4Y5z0YzuOp44jRmg0Cc4UeA%7EPcaINmqorJAjmKLGumIQJXmnzfWSuPRETP7-eNuMWTm-qupMQKzuvHJOhpwww63DWUnaVK1a4YMQ__",
+  "job_id": "job_LJdLU29xqvEM4ktiauPFWVaE",
+  "asset_id": "asset_oH3LNZP7TiuafZMCJXKovtAU",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, chaotic late-level moment from Crazy Kick! Fun Football game, 3D hyper-casual, low-poly, bright and colorful with simple stickman characters: four blocky stickman defenders crowding a tiny goal, a wild S-shaped bright green (#99CC33) trajectory trail snaking through them, sandy yellow (#F5D77F) pitch with painted lines, sky blue (#1CB4F0) goal frame, level tracker pill showing '#23' top-left, ball ricocheting off the post, on-screen text 'PSYCHOPATH \ud83e\udd2f' stamped large in white with a red shadow, energetic competitive HUD, authentic Crazy Kick in-game feel, no stock-game tropes.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

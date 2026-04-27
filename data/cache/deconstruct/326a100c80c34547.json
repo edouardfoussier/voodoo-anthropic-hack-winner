@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "326a100c80c34547",
+    "ad_unit_id": "326a100c80c34547",
+    "app_id": "559eae34fe7ddaabdd0294f9",
+    "advertiser_name": "オンクレはトレバ - オンラインクレーンゲーム",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/31686edcab36897c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/31686edcab36897c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/31686edcab36897c/preview",
+    "phashion_group": "326a100c80c34547",
+    "share": null,
+    "first_seen_at": "2026-03-18T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "✨🎉Try Now for FREE! Install the Toreba App and Get at least 10 Plays! Get figures, plushies and more! 🎁🎁",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A pink cat mascot dances in a massive warehouse filled with claw machines.",
+    "visual_action": "A person in a pink cat costume dances as the camera zooms out to reveal rows of claw machines in a large warehouse.",
+    "text_overlay": "Play Claw Machine Toreba Win real Japanese prizes!",
+    "voiceover_transcript": "Play claw machine Toreba. Win real Japanese prizes.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the Toreba warehouse with a dancing mascot and prize promise.",
+    "Promotion of free plays for new users with a gift box animation.",
+    "Demonstration of a beginner-friendly claw machine gameplay and assist feature.",
+    "Explanation of free shipping from Japan via an animated sequence with a plane.",
+    "Final call to action screen with the game logo and play button."
+  ],
+  "on_screen_text": [
+    "Play Claw Machine Toreba",
+    "Win real Japanese prizes!",
+    "New players can try for free!...",
+    "...Up to 999 plays!",
+    "Beginner friendly starter machines and assist available!",
+    "Shipping is FREE from Japan!",
+    "*Certain restrictions apply.",
+    "over 10,000 prizes available!",
+    "Crane Game toreba",
+    "PLAY!"
+  ],
+  "cta_text": "PLAY!",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#FF69B4",
+    "#FFFF00",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Fans of Japanese culture and casual gamers who enjoy the thrill of winning physical prizes from claw machines.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001849
+}

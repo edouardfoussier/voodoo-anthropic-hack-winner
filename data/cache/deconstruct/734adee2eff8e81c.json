@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "734adee2eff8e81c",
+    "ad_unit_id": "734adee2eff8e81c",
+    "app_id": "60f151ef6ffae745341f100f",
+    "advertiser_name": "Doomsday: Last Survivors",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0291cf593f9eb842/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0291cf593f9eb842/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0291cf593f9eb842/preview",
+    "phashion_group": "734adee2eff8e81c",
+    "share": null,
+    "first_seen_at": "2026-01-14T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Doomsday is here. Rescue survivors, join them in fighting zombies, and survive to the end.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A survivor accidentally alerts a group of zombie nurses in a dark hospital hallway.",
+    "visual_action": "A woman sneaking through a dark room kicks a red soda can, causing it to clatter and alert nearby zombies.",
+    "text_overlay": null,
+    "voiceover_transcript": "Shhh...",
+    "emotional_pitch": "fail"
+  },
+  "scene_flow": [
+    "Cinematic 3D render of a survivor sneaking past zombie nurses in a dark hospital.",
+    "The survivor accidentally kicks a soda can, alerting the zombies who then attack.",
+    "Top-down gameplay showing the player dragging and dropping defensive structures to build a base.",
+    "A montage of the base expanding with gardens, tents, and fortified walls.",
+    "Final shot of the base being swarmed by zombies followed by the game's logo and CTA."
+  ],
+  "on_screen_text": [
+    "Doomsday: Last Survivors",
+    "Play Now"
+  ],
+  "cta_text": "Play Now",
+  "cta_timing_seconds": 13.5,
+  "palette_hex": [
+    "#121212",
+    "#4a5d23",
+    "#b22222"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Fans of zombie survival and base-building strategy games who enjoy tactical defense.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001346
+}

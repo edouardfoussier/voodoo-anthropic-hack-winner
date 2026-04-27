@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_ZksT3p4bdDXtaNnnCXV96xT8?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWmtzVDNwNGJkRFh0YU5ubkNYVjk2eFQ4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=b%7EDRWNDtYVY9zebYLhtILrK7VkkzGEMKHcW5LAwTnxmX1mU914w5nnh8g5qaX0pEuebzQ6HfwabsUPbdBoRCxHOZ31cYEjDVfKWoos2xp%7EKHg4-WglX4WRcpd9WGfRK9w%7Et%7EVZB%7EtPNUgX7%7EnMyFErmuudFkK-eQo1PN2evFLdfhezyraxNCSTNnS74cYzKos7t7%7E%7EGLjMalZF8adauaO%7Etemttdb7wzHHO49tJzaMZl7Jd1yHdXU6ysghfgm2QE12V5kneh4--8rkj8BaR4rYb9TnquI9osiYpiqkk69js6ejDPCH%7EbgWwAIY5CLtPnmbD9oNi0gmubyMmxgOonkA__",
+  "job_id": "job_CEY3EfJJv65xK3hLXLKjDnpx",
+  "asset_id": "asset_ZksT3p4bdDXtaNnnCXV96xT8",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, live-action POV first-person shot of a teen's hand holding a phone above their face while lying on a bed, phone screen clearly displays the aquapark.io app icon and a launching 3D low-poly water slide scene with cyan (#42bcf5) water, white (#ffffff) slides, and orange (#ff8c1c) play button, warm bedroom lighting, on-screen text overlay 'opening aquapark.io' in bold white sans-serif with orange drop shadow, palette accents #42bcf5 #ffffff #ff8c1c, photoreal UGC look transitioning into cartoonish game art.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

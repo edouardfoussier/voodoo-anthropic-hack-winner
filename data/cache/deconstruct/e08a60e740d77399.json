@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "e08a60e740d77399",
+    "ad_unit_id": "e08a60e740d77399",
+    "app_id": "6178e7bfdb622901de5dd950",
+    "advertiser_name": "Pikmin Bloom",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2fb33ddeef939b7c/preview",
+    "phashion_group": "e08a60e740d77399",
+    "share": null,
+    "first_seen_at": "2026-01-23T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Deine Pikmin begleiten dich, egal, wohin du gehst.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A group of colorful Pikmin characters run across a stylized map.",
+    "visual_action": "Various Pikmin carrying everyday items like a toothbrush and a toy train run across a light green map background.",
+    "text_overlay": "Los geht's mit den Pikmin!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "A stylized light green map background is introduced.",
+    "A diverse group of Pikmin characters run across the map from left to right.",
+    "The text 'Los geht's mit den Pikmin!' appears over the map as characters continue to move.",
+    "The screen transitions to a white background with the Pikmin Bloom logo and a 'Download for free' button."
+  ],
+  "on_screen_text": [
+    "PIKMIN BLOOM",
+    "Los geht's mit den Pikmin!",
+    "Pikmin, immer mit dabei",
+    "Kostenlos herunterladen"
+  ],
+  "cta_text": "Kostenlos herunterladen",
+  "cta_timing_seconds": 6.0,
+  "palette_hex": [
+    "#E8F5E9",
+    "#FFFFFF",
+    "#76D747"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual mobile users who enjoy cute characters and gamified walking or collection experiences.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001473
+}

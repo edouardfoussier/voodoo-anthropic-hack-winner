@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "23d8854b8279418a",
+    "ad_unit_id": "23d8854b8279418a",
+    "app_id": "56fee3eff49ea42a540000d4",
+    "advertiser_name": "BURGER KING App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab019ffc77cb7574/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab019ffc77cb7574/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab019ffc77cb7574/preview",
+    "phashion_group": "23d8854b8279418a",
+    "share": null,
+    "first_seen_at": "2026-03-16T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "We made the Whopper your way. Enjoy it now with even better ingredients. The new king is you.",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Close-up of a Whopper followed by UGC-style reaction shots of people eating.",
+    "visual_action": "Extreme close-up of a sesame seed bun and burger layers, transitioning to people eating.",
+    "text_overlay": "WHOPPER",
+    "voiceover_transcript": "You said the Whopper is the best burger in America",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Initial hook showing the burger and positive customer reactions.",
+    "Behind-the-scenes look at quality control and bun research.",
+    "Fast-paced montage of fresh ingredients: pickles, lettuce, and flame-grilled beef.",
+    "Burger assembly and presentation in a 100% beef box.",
+    "Diverse customers eating with a digital crown overlay and brand slogan."
+  ],
+  "on_screen_text": [
+    "WHOPPER",
+    "Bun Shading.",
+    "100% BEEF",
+    "THERE'S A NEW KING & IT'S YOU",
+    "TM & © 2024 Burger King Company LLC."
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#D62300",
+    "#F5EBDC",
+    "#502D16"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Hungry adults and fast-food fans who value ingredient quality and brand reliability.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001438
+}

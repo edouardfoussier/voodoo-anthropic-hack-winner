@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "f1c41767269f694c",
+    "ad_unit_id": "f1c41767269f694c",
+    "app_id": "6736ab5cef93f345b08f9d79",
+    "advertiser_name": "피망 쇼다운 홀덤 : 텍사스 홀덤, 포커, 토너먼트",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1161b7a49ac835b5/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1161b7a49ac835b5/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1161b7a49ac835b5/preview",
+    "phashion_group": "f1c41767269f694c",
+    "share": null,
+    "first_seen_at": "2025-08-11T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "홀덤 토너먼트 오픈!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy introduction showing a massive live poker tournament and the game title.",
+    "visual_action": "Title card 'PMANG SHOWDOWN HOLD'EM' transitions to a wide shot of a crowded poker tournament hall.",
+    "text_overlay": "PMANG SHOWDOWN HOLD'EM 피망 쇼다운 홀덤 온라인 새틀라이트",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Intro title card over a futuristic cityscape followed by a wide shot of a large-scale live poker tournament.",
+    "Close-up shots of a professional dealer handling cards and players at the tables.",
+    "Dynamic montage of poker gameplay, focusing on the cards and the competitive atmosphere.",
+    "Close-up of winning cards and poker chips with promotional text overlays.",
+    "Final branding screen with the game logo and mobile app store download badges."
+  ],
+  "on_screen_text": [
+    "PMANG SHOWDOWN HOLD'EM",
+    "피망 쇼다운 홀덤 온라인 새틀라이트",
+    "진짜 승부의 세계로!",
+    "짜릿한 토너먼트를 즐겨보세요",
+    "우승의 시작! 피망 쇼다운 홀덤"
+  ],
+  "cta_text": "우승의 시작! 피망 쇼다운 홀덤",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#1a051a",
+    "#9b30ff",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Competitive male poker enthusiasts in Korea interested in professional-style tournaments.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001799
+}

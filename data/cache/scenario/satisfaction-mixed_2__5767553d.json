@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_BzJtx6Bv5wjbRH1eSMGPYinX?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQnpKdHg2QnY1d2piUkgxZVNNR1BZaW5YP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=n%7EDSl1OgWlyQKriRfSWbfpOUvxOs47P%7EcPEAE%7EmhgJDYTPemN0C2RzMDSzqSzYAgiNEPLKQxyEFJBENxGJJGpxmAFw95miqZTd8Nm7ierYNCH9F4OIUS%7EQFF7ze%7Eu-iWbP1zFFpETLjDKaGoAvznxgyI7WjpPcJaoVDPi-KE3Bq1kXWpSMpsbmnWIRN8bxMIyaqADB4rX5OMF7J5VFa2iGbD-uEfXZvirf%7EUMnakMfkVuJe8W91B5zzeildb%7ESKx0nA31uV-fDfWmZcwzQcZo7TGxbA%7EpXepHmRhR8RrXk0ixWt3NBIKUORpAFA62PopkC2LObPUmG73rwSDbzi4MQ__",
+  "job_id": "job_NcUhKF2FeY5F4sxoWGP6CxhW",
+  "asset_id": "asset_BzJtx6Bv5wjbRH1eSMGPYinX",
+  "stub": false,
+  "prompt": "Storyboard frame 3 CTA, aspect 9:16, authentic Knock'em All end-card moment: first-person view, final red crash-test dummy (#D91A1A) flying off-screen against pastel blue (#8ED4FF) sky, progress bar snapped to 100% glowing accent purple (#6B15E8), screen edges flashing soft purple, Knock'em All logo lockup centered, minimalist 3D bright flat colors simple geometric environment, on-screen text 'Tap to Play' in large bold white with purple drop shadow at bottom. [Audio: VO 'your turn.' / lo-fi resolves with a clean major chord / triumphant chime at 0.5s, soft UI tap-tick under CTA at 3s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

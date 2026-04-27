@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "fb3b24d27cb7668f",
+    "ad_unit_id": "fb3b24d27cb7668f",
+    "app_id": "62429cefb3ae2756c91a89ac",
+    "advertiser_name": "Diablo Immortal",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e45bd8a845561d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e45bd8a845561d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d9e45bd8a845561d/preview",
+    "phashion_group": "fb3b24d27cb7668f",
+    "share": null,
+    "first_seen_at": "2026-03-23T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "No boundaries, just battles. Unleash Hell wherever your day takes you!",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A split-screen UGC testimonial comparing Day 1 to Day 200 of gameplay.",
+    "visual_action": "A woman speaks to the camera in a split-screen format above early-game dungeon footage.",
+    "text_overlay": "Day 1 in DIABLO IMMORTAL",
+    "voiceover_transcript": "Day one in Diablo Immortal. I selected the Demon Hunter, picked up a Rusty Crossbow and cleared my first dungeon.",
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "Introduction of 'Day 1' gameplay with a UGC testimonial and basic combat.",
+    "Transition to 'Day 200' featuring the creator in cosplay and high-level group combat.",
+    "Final call-to-action screen with cinematic character art and store links."
+  ],
+  "on_screen_text": [
+    "Day 1 in DIABLO IMMORTAL",
+    "Testimonial by Paid Actors",
+    "I selected the Demon Hunter,",
+    "picked up a Rusty Crossbow",
+    "and cleared my first dungeon",
+    "Day 200 in DIABLO IMMORTAL",
+    "I've climbed the ranks",
+    "of the Shadows",
+    "in the Cycle of Strife",
+    "battling alongside",
+    "even stronger allies.",
+    "DIABLO IMMORTAL",
+    "ACCEPT THE CHALLENGE"
+  ],
+  "cta_text": "ACCEPT THE CHALLENGE",
+  "cta_timing_seconds": 11.5,
+  "palette_hex": [
+    "#000000",
+    "#8B0000",
+    "#2F4F4F"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Fans of action RPGs and the Diablo franchise who value long-term character progression.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001951
+}

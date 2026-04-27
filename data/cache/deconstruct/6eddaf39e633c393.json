@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "6eddaf39e633c393",
+    "ad_unit_id": "6eddaf39e633c393",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b40bd865a25169af/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b40bd865a25169af/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b40bd865a25169af/preview",
+    "phashion_group": "6eddaf39e633c393",
+    "share": null,
+    "first_seen_at": "2025-08-29T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Your favorite robot PvP just got hotter!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Intense mech combat showing a player-controlled robot firing missiles and destroying enemies in a city.",
+    "visual_action": "A blue and orange mech fires dual missile launchers at enemy mechs, causing large explosions.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Player mech engages enemy mechs in a city environment with heavy missile fire.",
+    "Enemy mechs are destroyed in sequence, showcasing the power of the player's unit.",
+    "A 'TRIPLE KILL' notification appears on screen with a corresponding voiceover announcement.",
+    "The screen cuts to a dark, textured background with a 'START NOW!' call to action."
+  ],
+  "on_screen_text": [
+    "TRIPLE KILL",
+    "START NOW!"
+  ],
+  "cta_text": "START NOW!",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#1A1A1A",
+    "#2B3A42",
+    "#F39C12"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Action-oriented male gamers interested in mech warfare and competitive shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0013800000000000002
+}

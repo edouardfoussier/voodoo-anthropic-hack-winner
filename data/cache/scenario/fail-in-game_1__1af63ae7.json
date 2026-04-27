@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_1LSt3eUgsyWRTPLB8J7Vy8Cx?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMUxTdDNlVWdzeVdSVFBMQjhKN1Z5OEN4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Hm6Xllhq-vzPQUhw0wsvfdL-UxddPxEGDSmSXoWDwMphJNkKRaswWPtMA-n1IaeD84ch7zHC0eOwYMpQNya0zs2iCX%7EmdbhciRGkqg3luFuef0FxYLwLC75sEztFVE5RDyEZaKqVhxUi82jipF4tjcOFIQfSKis3L9kNMEu4XISheeuXEyvLiMQXwVOzGtqFCNuJrrmLWb%7E3Jzb5eYfWdIaG0mFibYuHepQjHm9GU2mUiK92hD1NQIs5QBsTHpsL%7E7CgAdTgIQkDYAzQ0Y0OjE2mwR9O3C5agxteQgVwDq29GIIGLtGIzGuA0gOlURGxOLGCKKbcHO6lRe8xxttP6g__",
+  "job_id": "job_1rMXYejn3zHyTmHoY92Qrdda",
+  "asset_id": "asset_1LSt3eUgsyWRTPLB8J7Vy8Cx",
+  "stub": false,
+  "prompt": "9:16 vertical storyboard frame, authentic Color Road! fail beat: the pastel-pink ball mid-shatter into bright pastel shards and accent-red (#FF4C4C) sparks after smashing a mismatched red gate on the dark navy (#152238) track, motion blur lines, scattered uncollected coins bouncing off-track, soft pastel-pink (#FADADD) sky with abstract geometric shapes, native HUD score counter frozen and pause button top-right, minimalist 3D abstract geometric style, big bold white overlay text bottom-center: '99% FAIL HERE \ud83d\ude2c', no characters, dramatic low angle. [Audio: VO: 'Nope.' / same 128 BPM competitive track drops out for impact / loud cartoon fail-buzzer + glass-shard tinkle SFX at 0.3s, beat re-enters at 1.5s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

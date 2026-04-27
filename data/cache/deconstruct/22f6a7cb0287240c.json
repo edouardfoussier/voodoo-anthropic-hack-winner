@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "22f6a7cb0287240c",
+    "ad_unit_id": "22f6a7cb0287240c",
+    "app_id": "60d682251e34a62dba84a279",
+    "advertiser_name": "The Tower - Idle Tower Defense",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ead2ba04d557122e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ead2ba04d557122e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ead2ba04d557122e/preview",
+    "phashion_group": "22f6a7cb0287240c",
+    "share": null,
+    "first_seen_at": "2026-01-08T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Defend the Tower and Defeat the Enemy!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A cat meme overlaying intense space shooter gameplay with a caption about losing.",
+    "visual_action": "A cat's face is superimposed over a busy space-themed tower defense game while the background shows chaotic combat.",
+    "text_overlay": "How i feel when i lose on level 67",
+    "voiceover_transcript": null,
+    "emotional_pitch": "rage_bait"
+  },
+  "scene_flow": [
+    "Cat meme overlay appears over space shooter gameplay with a caption about losing.",
+    "Background gameplay shows intense combat with multiple projectiles and enemy ships.",
+    "Operatic music builds tension as the cat's face remains fixed on the screen.",
+    "The game UI shows resource accumulation and level progress while the meme persists."
+  ],
+  "on_screen_text": [
+    "How i feel when i lose on level 67"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#0B0016",
+    "#39FF14",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Younger male gamers who enjoy idle or tower defense games and relate to internet meme culture.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0012950000000000001
+}

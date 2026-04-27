@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "c74932f2ba7951c3",
+    "ad_unit_id": "c74932f2ba7951c3",
+    "app_id": "5c143d3cb094be69d2175c59",
+    "advertiser_name": "Bingo Frenzy - Live Bingo Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f80cd386c87b9ca7/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f80cd386c87b9ca7/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f80cd386c87b9ca7/preview",
+    "phashion_group": "c74932f2ba7951c3",
+    "share": null,
+    "first_seen_at": "2026-02-24T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Ready to build your own bakery and wow every customer?",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Split-screen comparison of bakery themes with a prompt to start.",
+    "visual_action": "A hand cursor clicks on a modern bakery floor, which then transitions into a bustling, high-traffic restaurant scene.",
+    "text_overlay": "GAMES LIVE Run your bakery now",
+    "voiceover_transcript": "Hmm.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Split-screen introduction showing different bakery styles and a 'GAMES LIVE' banner.",
+    "Transition to a zoomed-in view of a crowded, successful restaurant floor with many customers.",
+    "A multi-level view showcasing various themed restaurant floors connected by stairs.",
+    "Final end card featuring the game title and a call-to-action button."
+  ],
+  "on_screen_text": [
+    "GAMES LIVE",
+    "Run your bakery now",
+    "My Bakery Story",
+    "Play now"
+  ],
+  "cta_text": "Play now",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#F7D1D1",
+    "#8B5A2B",
+    "#FFF8E1"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual players who enjoy cozy management games and cute, detailed 2D art styles.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001469
+}

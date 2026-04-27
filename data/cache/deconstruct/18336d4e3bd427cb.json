@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "18336d4e3bd427cb",
+    "ad_unit_id": "18336d4e3bd427cb",
+    "app_id": "66cd51e99e7c3b9775dd562b",
+    "advertiser_name": "Drop Away: Color Puzzle",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/075613d78ddaa413/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/075613d78ddaa413/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/075613d78ddaa413/preview",
+    "phashion_group": "18336d4e3bd427cb",
+    "share": null,
+    "first_seen_at": "2026-01-03T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Colorful Puzzle: A Creative Challenge Awaits!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A creator introduces a testimonial from another player about the game.",
+    "visual_action": "A woman speaks into a lapel microphone with a game screen overlay in the top right corner.",
+    "text_overlay": "JUST LISTEN ABOUT TO SAY",
+    "voiceover_transcript": "Just listen to what she's about to say. I play Drop Away when I'm waiting in line...",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "A creator introduces the game by telling the audience to listen to another player's experience.",
+    "A second creator shows herself playing the game in various locations like a park bench and a bathroom.",
+    "The player explains the game's strategic and calming nature while showing gameplay footage.",
+    "The player demonstrates a satisfying move where blocks fall into place and encourages the viewer to download."
+  ],
+  "on_screen_text": [
+    "JUST LISTEN",
+    "ABOUT TO SAY",
+    "AWAY WHEN",
+    "IN LINE",
+    "AND YES",
+    "EVEN HERE",
+    "STRATEGIC",
+    "WEIRDLY CALMING",
+    "ONE MOVE",
+    "DOWNLOAD IT",
+    "WHAT I MEAN"
+  ],
+  "cta_text": "DOWNLOAD IT",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#F5E6D3",
+    "#4B5320",
+    "#3B82F6"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual mobile gamers who enjoy satisfying, strategic puzzle games to pass time during daily routines.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018280000000000002
+}

@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "b7390d15a8a61f86",
+    "ad_unit_id": "b7390d15a8a61f86",
+    "app_id": "55d13c32cfd4debd2605bc4e",
+    "advertiser_name": "DraftKings Fantasy Sports",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee6fb294ca1a506d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee6fb294ca1a506d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee6fb294ca1a506d/preview",
+    "phashion_group": "b7390d15a8a61f86",
+    "share": null,
+    "first_seen_at": "2025-03-18T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "It's More Fun When It's For Fun!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A confident fan predicts a successful field goal while watching a game with friends.",
+    "visual_action": "A man in a Chiefs jersey stands in a living room holding a phone, talking to his friends who are watching TV.",
+    "text_overlay": "GAMBLING PROBLEM? CALL 1-800-GAMBLER...",
+    "voiceover_transcript": "He's automatic from the 40. You never count your money...",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Friends in a living room watching a football game and discussing a kick.",
+    "A montage of fans celebrating and singing at a snowy outdoor tailgate party.",
+    "A crowded sports bar where fans are cheering and celebrating together.",
+    "A black screen with a 'Play responsibly' message followed by the DraftKings logo.",
+    "A final scene of basketball fans looking disappointed at a game."
+  ],
+  "on_screen_text": [
+    "It's more fun when it's for fun",
+    "Play responsibly",
+    "DRAFTKINGS THE CROWN IS YOURS"
+  ],
+  "cta_text": "DRAFTKINGS THE CROWN IS YOURS",
+  "cta_timing_seconds": 11.5,
+  "palette_hex": [
+    "#E31837",
+    "#000000",
+    "#FFFFFF"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Adult sports enthusiasts who enjoy the social and competitive aspects of sports betting.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017530000000000002
+}

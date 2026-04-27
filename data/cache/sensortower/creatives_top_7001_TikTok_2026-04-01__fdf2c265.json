@@ -1,0 +1,386 @@
+{
+  "count": 247,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "0317362c99408721",
+      "app_id": "55c5337402ac64f9c0002ef6",
+      "network": "TikTok",
+      "phashion_group": "0317362c99408721",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-17",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "0317362c99408721",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/991569fe0dbb28e2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/991569fe0dbb28e2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/991569fe0dbb28e2/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "message": "\u30d3\u30b8\u30e5\u30a2\u30eb\u304c\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u3057\u305feFootball\u2122\u3092\u697d\u3057\u3082\u3046"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5337402ac64f9c0002ef6",
+        "canonical_country": "JP",
+        "name": "\u5b9f\u6cc1\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u7403",
+        "publisher_name": "Konami",
+        "publisher_id": "560c84aa8ac3506439034e48",
+        "humanized_name": "\u5b9f\u6cc1\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u7403",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/e0/78/a5e0781c-b24a-67cd-dde2-377d70940bbc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5337402ac64f9c0002ef6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "95b172c4775ebe78",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "95b172c4775ebe78",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-30",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "95b172c4775ebe78",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f9a9a90556b8d424/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f9a9a90556b8d424/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f9a9a90556b8d424/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "Action PvP shooter with robots and huge guns!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5bc6d9cb6ec0fb82",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "5bc6d9cb6ec0fb82",
+      "ad_type": "video",
+      "first_seen_at": "2025-02-23",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "5bc6d9cb6ec0fb82",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "message": "Energy guns, lasers and rockets - equip your robot and annihilate your opponents!"
+        },
+        {
+          "id": "be7d9782c91f52e3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "message": "Action PvP shooter with robots and huge guns!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "6040bbc56ed8a982",
+      "app_id": "662a6595c8d3632d66ebeaf4",
+      "network": "TikTok",
+      "phashion_group": "6040bbc56ed8a982",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-08",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "6040bbc56ed8a982",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b8525479ca0c68b2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b8525479ca0c68b2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b8525479ca0c68b2/thumb",
+          "video_duration": 15,
+          "width": 1440,
+          "height": 2560,
+          "message": "We built the fairest unfair game. Can you beat it? Install and prove your skills."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "662a6595c8d3632d66ebeaf4",
+        "canonical_country": "US",
+        "name": "Die Again: Troll Game Ever",
+        "publisher_name": "Volio Group",
+        "publisher_id": "6467a8a463207b33099bf43a",
+        "humanized_name": "Die Again: Troll Game Ever",
+        "icon_url": "https://play-lh.googleusercontent.com/X1s9dsLQhY_yhmHuGKtdKwsy-J2u8_dFB64p1VHMbp_UYlSw2e_Rk30AT3T29E25cxiNCD0uwY4sIfHVl27G4Q=s150",
+        "os": "unified",
+        "id": "662a6595c8d3632d66ebeaf4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d78f1b1290f537d2",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "d78f1b1290f537d2",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-29",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "d78f1b1290f537d2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "New robots, new epic victories!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "147e4e154ca5f6f9",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "147e4e154ca5f6f9",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "147e4e154ca5f6f9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138491e863ac650/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138491e863ac650/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138491e863ac650/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "Test Yourself in an Apocalyptic Robo-War! Command Steel Giants, Crush Rivals! Survive Chaos!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2276ee7990ab21be",
+      "app_id": "568a601402ac64a409000104",
+      "network": "TikTok",
+      "phashion_group": "2276ee7990ab21be",
+      "ad_type": "video",
+      "first_seen_at": "2025-07-28",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "2276ee7990ab21be",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01492c7c7105f706/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01492c7c7105f706/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01492c7c7105f706/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "Get ready to play now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "568a601402ac64a409000104",
+        "canonical_country": "US",
+        "name": "Clash Royale",
+        "publisher_name": "Supercell",
+        "publisher_id": "560c48b48ac350643900b82d",
+        "humanized_name": "Clash Royale",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a2/1c/1fa21ca0-610d-b058-2cae-ea4a6d785c76/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "568a601402ac64a409000104",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "8502977b3b4ea193",
+      "app_id": "5f2c232fc5c2ae151b46211f",
+      "network": "TikTok",
+      "phashion_group": "8502977b3b4ea193",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "8502977b3b4ea193",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/017754854ef0087c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/017754854ef0087c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/017754854ef0087c/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "\u3010\u63a8\u3057\u306e\u5b50\u3011\u521d\u306e\u516c\u5f0f\u30d1\u30ba\u30eb"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5f2c232fc5c2ae151b46211f",
+        "canonical_country": "US",
+        "name": "Draw Coliseum",
+        "publisher_name": "DWANGO",
+        "publisher_id": "560c3ec78ac35064390003d2",
+        "humanized_name": "Draw Coliseum",
+        "icon_url": "https://play-lh.googleusercontent.com/JqSt39Od5Viz-7dqeyamf9QGpn000h0Tey1JxfpOzVGSBVVdVSJdk2syln0vDOlmZ5Y=s150",
+        "os": "unified",
+        "id": "5f2c232fc5c2ae151b46211f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "24469b333524dd85",
+      "app_id": "647db77c25186e7cb5c12245",
+      "network": "TikTok",
+      "phashion_group": "24469b333524dd85",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-09",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "24469b333524dd85",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02cad1e013a90ac3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02cad1e013a90ac3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02cad1e013a90ac3/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "message": "Join the ULTIMATE Low-Poly SHOOTER!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "647db77c25186e7cb5c12245",
+        "canonical_country": "US",
+        "name": "Polygun Arena: Online Shooter",
+        "publisher_name": "Sirius Games",
+        "publisher_id": "619a58966afd2615410966fa",
+        "humanized_name": "Polygun Arena",
+        "icon_url": "https://play-lh.googleusercontent.com/_KedaMQ4Pwjg9DpINQAKzq-pf793KJ5CZSsXJwOL01XdXOp5QzS36CYlmjT3I9TaxhE=s150",
+        "os": "unified",
+        "id": "647db77c25186e7cb5c12245",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "22a246966e7f8fb1",
+      "app_id": "647db77c25186e7cb5c12245",
+      "network": "TikTok",
+      "phashion_group": "22a246966e7f8fb1",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-09",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "22a246966e7f8fb1",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/042e0c4548f258f7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/042e0c4548f258f7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/042e0c4548f258f7/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "Join the ULTIMATE Low-Poly SHOOTER!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "647db77c25186e7cb5c12245",
+        "canonical_country": "US",
+        "name": "Polygun Arena: Online Shooter",
+        "publisher_name": "Sirius Games",
+        "publisher_id": "619a58966afd2615410966fa",
+        "humanized_name": "Polygun Arena",
+        "icon_url": "https://play-lh.googleusercontent.com/_KedaMQ4Pwjg9DpINQAKzq-pf793KJ5CZSsXJwOL01XdXOp5QzS36CYlmjT3I9TaxhE=s150",
+        "os": "unified",
+        "id": "647db77c25186e7cb5c12245",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

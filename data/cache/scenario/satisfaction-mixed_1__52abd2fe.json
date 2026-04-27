@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_78NhHvgmyH3M5bs4rGZ49aGq?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNzhOaEh2Z215SDNNNWJzNHJHWjQ5YUdxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=g%7ErgVCG2MtvgWT3JDLEVPCqbCJDzn-xAWtnfY3gfIVItl5EKO1g%7Ezuo5DCPH26VCl23GSYBgrw7DEUXydJAW5%7EYS-Z-HNgw5CGYqlhis2dWb9KKKZGYyDVkqXlkpKoZDrnNqiwki-QYl52fRITLvINw59PHm04m1em9PTetbb6zPy1SN%7EM2trcLRgG4msbK8RSCfDJA29aVAWwQQiip99XigxoEfzFNAc78m7Rbulo2EPE-nm%7ED-7HohXhaZi5MZZDkBOl9ViMVh4ACOrkZWSsfwbRCz2AqRc3Z%7EGpjLSVCLVMlb9Imss89Nf5hhsvnGHrz4Q5cJmaitUw5xGVJmjw__",
+  "job_id": "job_F7CT8GW4SD5fp1YA54Vzr2WA",
+  "asset_id": "asset_78NhHvgmyH3M5bs4rGZ49aGq",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16: over-the-shoulder shot of the same smartphone screen filling most of the frame, Clean and colorful 3D cartoon style with soft, rounded shapes, a yellow marble mid-air dropping into a glowing orange box while a blue marble rolls along the conveyor, sparkle particles, palette lavender #E5DFFF background and light grey #F0F0F8 machine with vibrant orange #FFB13B highlight ring around the correct box, calm satisfying mood, on-screen text overlay 'Oh that's satisfying \u2728' in rounded white type with orange drop shadow, playable ad frame",
+  "model_id": "flux.1-dev"
+}

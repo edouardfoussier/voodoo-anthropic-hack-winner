@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "86f8d7a73317efb6",
+    "ad_unit_id": "86f8d7a73317efb6",
+    "app_id": "55d93dd702ac645ad20e8f2b",
+    "advertiser_name": "Heart of Vegas - Casino Slots",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/849c82d1f73461be/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/849c82d1f73461be/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/849c82d1f73461be/preview",
+    "phashion_group": "86f8d7a73317efb6",
+    "share": null,
+    "first_seen_at": "2026-03-23T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Spin & Collect Virtual Coins!\n(Must be 18+ to play. No real money can be won)",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced montage of slot machine wins with cascading gold coins and energetic voice lines.",
+    "visual_action": "Rapid cuts between different Dragon Link slot titles while gold coins fill the screen and reels spin.",
+    "text_overlay": "DRAGON LINK, HAPPY & PROSPEROUS, GOLDEN CENTURY, 18+ No real money or prizes can be won.",
+    "voiceover_transcript": "Jinda! Rongya!",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Rapid montage of Dragon Link slot titles with cascading gold coins and high-energy sound effects.",
+    "Transition to the 'Hold & Spin' feature reveal with fiery visual effects and character art.",
+    "Demonstration of the gameplay mechanic where coin symbols lock into place to trigger bonuses.",
+    "Final end card featuring a 5 million free virtual coin offer and a call to action."
+  ],
+  "on_screen_text": [
+    "DRAGON LINK",
+    "HAPPY & PROSPEROUS",
+    "GOLDEN CENTURY",
+    "18+ No real money or prizes can be won. Purchases / paid random items optional.",
+    "MINOR 228,202",
+    "MINOR 625,000",
+    "HOLD & SPIN FEATURE",
+    "3 SYMBOLS TO TRIGGER THE HOLD & SPIN FEATURE",
+    "COLLECT 15 TO WIN GRAND JACKPOT",
+    "5,000,000 FREE VIRTUAL COINS!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#FFD700",
+    "#8B0000",
+    "#FF1493"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Adults 40+ who enjoy the high-energy atmosphere and mechanics of real-world casino slot machines.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.002044
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_pRCMyphDiszEvb31mN5xHWrh?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcFJDTXlwaERpc3pFdmIzMW1ONXhIV3JoP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VAX1feNj5kKG0gxTeimIjp6x5vu3Qj2Lf0O%7E4h4jyP9SGVfvYOpE9xTOBZW6lFRBYGfaLJdim-TY88iVvhufRQgKoZFlfFguU-r4BTLNmFzCqceHdUQwcV892VUuxmbckKl4EFbvDte0d6OtyyNDJC0VV0kzjVT3aRGH-ve21kJZIio71N0oKXYe0tG79vGbR1leV1yKjwsowPiO%7ERV99WDcFpkHizmq140JLGJoiQpjN66bi-NmYpnFjXn6n0IG1uX5IBsHD7xbGhoF2NUoJDpUs4pNjP2vFvMCxBZujF3zi6R%7Egqom5qdhtpP8ZX2mJesDQ5ATVtYwQawKpE0RqA__",
+  "job_id": "job_wiwmNSWeSY6eYfLbBUQP1yfa",
+  "asset_id": "asset_pRCMyphDiszEvb31mN5xHWrh",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style, top-down hero angle of a deep purple #403F6D puzzle grid mid chain-reaction with dozens of amber #FDBA4D balls bouncing and ricocheting off walls, motion blur trails, sparks and glow, dark moody #20232B vignette background, on-screen text 'CHAIN REACTION!' in bold yellow-orange, satisfying explosion of light, cinematic mobile ad still",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

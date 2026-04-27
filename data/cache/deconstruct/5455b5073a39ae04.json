@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "5455b5073a39ae04",
+    "ad_unit_id": "5455b5073a39ae04",
+    "app_id": "6153f700624ea54df7a116c1",
+    "advertiser_name": "Car Race",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e0d6f06a237fa46b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e0d6f06a237fa46b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e0d6f06a237fa46b/preview",
+    "phashion_group": "5455b5073a39ae04",
+    "share": null,
+    "first_seen_at": "2025-12-03T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Relax with Screwdom 3D~",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand unscrews colorful screws from a 3D gingerbread house to match color-coded slots.",
+    "visual_action": "A finger taps on screws of various colors, which then fly into matching containers at the top of the screen.",
+    "text_overlay": "Only IQ 180 can solve this!",
+    "voiceover_transcript": "Only IQ 180 can solve this!",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Hand unscrews green and red screws from a festive gingerbread house.",
+    "Gameplay continues with blue and yellow screws as the 'Big Brain' text appears.",
+    "The house is cleared of screws, triggering a 'Nice' message and celebratory effects.",
+    "End card displays the game title 'SCREWDOM 3D' and a 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "Only IQ 180 can solve this!",
+    "Big Brain",
+    "Nice",
+    "SCREWDOM 3D",
+    "Try it yourself!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#BDE0FE",
+    "#8B4513",
+    "#FFFFFF"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual puzzle gamers who enjoy satisfying mechanics and brain-teasing challenges.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001679
+}

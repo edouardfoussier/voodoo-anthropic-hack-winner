@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "1617391485",
+  "title": "\"That One Clear\" — Satisfaction Reaction × Block Blast",
+  "hook_3s": "POV phone screen: four glossy blocks slot into place and an entire row EXPLODES into gold sparks — woman's jaw drops in soft blue light.",
+  "scene_flow": [
+    "0–3s HOOK: Tight over-the-shoulder of a 30-something woman on a couch, phone glowing royal-blue on her face. A perfect line-clear detonates with golden particles — she gasps, eyes wide.",
+    "3–7s ESCALATION: Quick-cut gameplay B-roll — finger drags an L-piece, then a square, then a long bar; three rows clear in a combo, score counter rockets past 10,000 with satisfying chime stacks.",
+    "7–11s PAYOFF REACTION: Cut back to talent — she does a tiny seated victory dance, fists up, mouthing 'YESSS'. Warm smile, calm room, no chaos. Text overlay: 'this is my new stress reliever'.",
+    "11–14s PROOF: Split-second montage of three more clears — combo x4, star collected, board reset to empty. Clean, glossy, ASMR-tier.",
+    "14–15s CTA: App icon snaps in over the navy grid background, gold 'Play Free' button pulses once."
+  ],
+  "visual_direction": "Lean fully into Block Blast's calm/satisfying DNA: talent shot in soft, even daylight (NOT dim nightclub) so her face picks up the royal-blue (#5469B9) phone glow naturally. Gameplay cut-ins are pixel-perfect screen-recordings on the dark navy (#1E2744) 8x8 grid with glossy beveled multi-color blocks and gold (#FFD700) particle bursts on every line clear. Tight macro on finger-drag, crisp haptic-style sound design, zero clutter. Aesthetic = \"ASMR puzzle satisfaction\" — abstract, premium, adult, the opposite of frantic gamer-bro UGC.",
+  "text_overlays": [
+    "POV: I just needed 5 minutes of peace",
+    "…this combo healed me 🧘‍♀️",
+    "this is my new stress reliever",
+    "8x8 grid. zero pressure.",
+    "Play Free →"
+  ],
+  "cta": "Play Free",
+  "rationale": "Keeps the archetype's high-performing satisfaction/UGC reaction beat but re-casts talent to a 25-45 woman in a calm daylit setting to match Block Blast's relaxation-seeker audience and royal-blue/gold brand. Critically, gameplay B-roll lands inside the first 3 seconds so the line-clear loop is legible — fixing the centroid hook's biggest IPM risk for puzzle UA. Ship as the A-test against a pure-gameplay control; if reaction lifts CTR, scale with 3 talent variants.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16: over-the-shoulder shot of a 32-year-old woman on a soft grey couch in soft natural daylight, holding a smartphone whose screen glows royal blue (#5469B9); on the phone, a clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark navy grid (#1E2744) with a row exploding into bright gold (#FFD700) sparks; her face shows a delighted gasp; on-screen text overlay reads 'this is my new stress reliever'; cinematic, premium mobile-ad still, shallow depth of field.",
+    "Storyboard frame 2, aspect 9:16: extreme macro top-down of a thumb dragging a glossy beveled yellow polyomino block onto an 8x8 dark navy grid (#1E2744) against a royal blue (#5469B9) background, gold (#FFD700) particles bursting from a clearing line, score counter '12,480' visible in corner; clean vibrant abstract aesthetic; on-screen text overlay '…this combo healed me 🧘‍♀️'; ultra-crisp, glossy, satisfying.",
+    "Storyboard frame 3, aspect 9:16: medium shot of the same woman in a bright minimalist living room doing a small seated fist-pump victory pose, smiling calmly, royal blue (#5469B9) phone glow on her hands, navy (#1E2744) throw pillow behind her, a single gold (#FFD700) accent lamp in frame; clean vibrant abstract aesthetic featuring glossy beveled blocks shown as a faint reflection on the phone; on-screen text overlay 'Play Free →'; warm, premium, calm/satisfying mood."
+  ]
+}

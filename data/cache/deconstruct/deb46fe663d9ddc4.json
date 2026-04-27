@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "deb46fe663d9ddc4",
+    "ad_unit_id": "deb46fe663d9ddc4",
+    "app_id": "55c506cf02ac64f9c000215e",
+    "advertiser_name": "WSOP Poker: Texas Holdem Game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/preview",
+    "phashion_group": "deb46fe663d9ddc4",
+    "share": null,
+    "first_seen_at": "2026-04-21T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "You are a WSOP player, of course you get a Daily Bonus 🤑",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy flashing text announcing a major update or return event.",
+    "visual_action": "Fast-paced text overlays 'BIGGEST WELCOME BACK EVER' against a neon laser background.",
+    "text_overlay": "BIGGEST WELCOME BACK EVER!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "High-energy text intro announcing the 'Biggest Welcome Back Ever!' with neon laser effects.",
+    "Showcase of rewards including massive stacks of poker chips and spinning gold/silver wheels.",
+    "Introduction of the 'Epic Benefits Bundle' and the 'All-New Loot Lane' feature.",
+    "A female character avatar appears with a speech bubble saying 'the chips are on me!'.",
+    "Final end card with the game logo and a 'CLAIM NOW' call-to-action button."
+  ],
+  "on_screen_text": [
+    "BIGGEST",
+    "WELCOME",
+    "BACK",
+    "EVER!",
+    "GOLD & SILVER WHEELS",
+    "HUGE STACK OF CHIPS!",
+    "EPIC BENEFITS BUNDLE!",
+    "THE ALL-NEW LOOT LANE",
+    "the chips are on me!",
+    "WORLD SERIES OF POKER",
+    "CLAIM NOW"
+  ],
+  "cta_text": "CLAIM NOW",
+  "cta_timing_seconds": 14.0,
+  "palette_hex": [
+    "#1A0B4D",
+    "#FFD700",
+    "#00BFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult poker enthusiasts and casual casino game players looking for high-stakes rewards and new features.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015400000000000001
+}

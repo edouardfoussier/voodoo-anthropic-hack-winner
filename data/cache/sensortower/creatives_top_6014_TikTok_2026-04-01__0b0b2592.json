@@ -1,0 +1,156 @@
+{
+  "count": 623,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "1f12e2208a6a0dc7",
+      "app_id": "674a32c22947b59eda621005",
+      "network": "TikTok",
+      "phashion_group": "1f12e2208a6a0dc7",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-12",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "1f12e2208a6a0dc7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1f0475c716fecdb3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1f0475c716fecdb3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1f0475c716fecdb3/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "Discover Disney Solitaire Magic!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "674a32c22947b59eda621005",
+        "canonical_country": "US",
+        "name": "Disney Solitaire",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "Disney Solitaire",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/7d/ad/407dadff-7ed0-b788-6532-2ecb8ece2bf0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "674a32c22947b59eda621005",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d9496fdf525e9920",
+      "app_id": "55c50b2202ac64f9c00022c6",
+      "network": "TikTok",
+      "phashion_group": "d9496fdf525e9920",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-11",
+      "last_seen_at": "2026-03-30",
+      "creatives": [
+        {
+          "id": "d9496fdf525e9920",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a08d9b3c3b0c787/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a08d9b3c3b0c787/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a08d9b3c3b0c787/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Weitere Informationen",
+          "message": "Der PC-kompatible Controller"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50b2202ac64f9c00022c6",
+        "canonical_country": "US",
+        "name": "PlayStation App",
+        "publisher_name": "Sony",
+        "publisher_id": "5628902202ac648b280004e7",
+        "humanized_name": "PlayStation App",
+        "icon_url": "https://play-lh.googleusercontent.com/zi6QgTtIiAnGqQMizfoj2LnE85kzHyZlgTruSzJ7Zw_79NAmB3fhxuDegwxby7P0yw=s150",
+        "os": "unified",
+        "id": "55c50b2202ac64f9c00022c6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "da52fb8a8ffc8f27",
+      "app_id": "56fee3eff49ea42a540000d4",
+      "network": "TikTok",
+      "phashion_group": "da52fb8a8ffc8f27",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-12",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "da52fb8a8ffc8f27",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d45d6739f32d4ac1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d45d6739f32d4ac1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d45d6739f32d4ac1/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "button_text": "Jetzt bestellen",
+          "message": "Jetzt probieren: Baby Whopper\u00ae, Baby Big King\u00ae, Baby Steakhouse im Brioche Bun."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "56fee3eff49ea42a540000d4",
+        "canonical_country": "US",
+        "name": "BURGER KING App",
+        "publisher_name": "Restaurant Brands International",
+        "publisher_id": "5b3149587f6d443bda4d2f6d",
+        "humanized_name": "BURGER KING App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/50/c4/fa50c416-7d9f-50c2-a3cd-f1cf94207b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "56fee3eff49ea42a540000d4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f8c5b58f84ba473b",
+      "app_id": "55f3733b02ac64eb8400006e",
+      "network": "TikTok",
+      "phashion_group": "f8c5b58f84ba473b",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-16",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f8c5b58f84ba473b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "message": "Great prize! Win today!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55f3733b02ac64eb8400006e",
+        "canonical_country": "US",
+        "name": "Huuuge Casino 777 Slots Games",
+        "publisher_name": "Huuuge Games",
+        "publisher_id": "5614bc773f07e25d29002a45",
+        "humanized_name": "Huuuge Casino 777 Slots Games",
+        "icon_url": "https://play-lh.googleusercontent.com/njjBFu61BlTecfoM_f-Rp_KTEL5wjgNXizJ4GlIyip6C09OxemiIABsXsx9h4YHWfps=s150",
+        "os": "unified",
+        "id": "55f3733b02ac64eb8400006e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

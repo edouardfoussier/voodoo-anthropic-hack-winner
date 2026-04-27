@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "b91e9c998cea11d6",
+    "ad_unit_id": "b91e9c998cea11d6",
+    "app_id": "644c8bf45d8ef66c95a36ed2",
+    "advertiser_name": "StarGames: Slots mit Echtgeld",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/026a882e1b57fb58/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/026a882e1b57fb58/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/026a882e1b57fb58/preview",
+    "phashion_group": "b91e9c998cea11d6",
+    "share": null,
+    "first_seen_at": "2026-02-28T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Die StarGames-iOS-App macht Ihr Spiel flexibler! 🚀 Jetzt holen und Slots auf dem iPhone genießen.",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A blonde character whispers to the viewer, creating an air of mystery and anticipation.",
+    "visual_action": "The character puts a finger to her lips in a 'shh' gesture against a pink gradient background.",
+    "text_overlay": "STARGAMES",
+    "voiceover_transcript": "Pst... Es knistert in der Luft.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the 'Lucky Lady' character whispering to the camera.",
+    "Transition to a mobile device displaying the Lucky Lady's Charm Deluxe slot game.",
+    "The slot reels spin, showcasing gameplay and winning symbols.",
+    "A promotional offer for 100 free spins is displayed over the gameplay.",
+    "Closing screen with the brand logo, partnership details, and a download button."
+  ],
+  "on_screen_text": [
+    "STARGAMES",
+    "Lucky Lady's Charm deluxe",
+    "BIS ZU 100 FREISPIELE!",
+    "BVB 09 PREMIUM PARTNER",
+    "JETZT DOWNLOADEN"
+  ],
+  "cta_text": "JETZT DOWNLOADEN",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#f896c8",
+    "#000000",
+    "#ffcc00"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "German-speaking adults 18+ interested in mobile casino and slot games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001729
+}

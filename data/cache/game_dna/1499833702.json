@@ -1,0 +1,30 @@
+{
+  "app_id": "1499833702",
+  "name": "Knock'em All",
+  "genre": "Hypercasual",
+  "sub_genre": "Shooter",
+  "core_loop": "Tap to shoot balls at approaching dummies, using physics to knock them off platforms and progress to the next level.",
+  "audience_proxy": "Broad casual audience, all ages, looking for quick, satisfying physics-based action.",
+  "visual_style": "Minimalist 3D with bright, flat colors and simple geometric environments.",
+  "palette": {
+    "primary_hex": "#8ED4FF",
+    "secondary_hex": "#D91A1A",
+    "accent_hex": "#6B15E8",
+    "description": "Bright, airy pastel backgrounds contrasting with vibrant primary colors for enemies and weapons."
+  },
+  "key_mechanics": [
+    "tapping",
+    "aiming",
+    "shooting",
+    "physics-simulation"
+  ],
+  "character_present": true,
+  "ui_mood": "calm/satisfying",
+  "screenshot_signals": [
+    "First-person perspective",
+    "Red crash test dummy enemies",
+    "Colorful toy-like gun",
+    "Level progress bar UI",
+    "Comic book style hit text ('BIM')"
+  ]
+}

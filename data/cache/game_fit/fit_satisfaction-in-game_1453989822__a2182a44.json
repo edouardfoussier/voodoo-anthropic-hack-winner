@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 35,
+  "mechanic_match": 10,
+  "audience_match": 40,
+  "overall": 22,
+  "rationale": "The \"relaxing puzzle / hand-solves-traffic-jam\" hook is fundamentally misaligned with aquapark.io's competitive, high-velocity slide-and-bump racing loop — selling \"feel relaxed\" would mis-set expectations and tank D1 retention from installs. Palette overlap (blue/orange) is coincidental; there's no water slide, no avatar, no overtaking action to showcase, and the casual puzzle audience only partially overlaps with the younger arcade-racer crowd. Skip this archetype for aquapark.io; if you want a \"satisfaction\" angle, build a bespoke variant around smooth slide lines, glider gaps, and last-second bump KOs instead."
+}

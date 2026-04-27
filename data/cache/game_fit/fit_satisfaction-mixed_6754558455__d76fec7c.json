@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 45,
+  "mechanic_match": 35,
+  "audience_match": 85,
+  "overall": 52,
+  "rationale": "Audience overlap is strong — the \"woman's hand + relaxing puzzle app\" hook indexes squarely on the 25-55 casual female puzzler we're targeting, and the satisfaction emotional pitch matches Marble Sort's calm/satisfying UI mood. However, there are two material frictions: (1) the jigsaw drag-and-drop mechanic actively misrepresents our core loop (tap-to-release physics + conveyor + color-sort), risking IPM dilution and bad post-install retention from mismatched intent; (2) the member palette (greys, blue, green) clashes with our lavender/pastel + orange accent identity. Recommend only as a test variant if reshot with marble-sort gameplay and our palette while preserving the \"hand + phone + ASMR satisfaction\" framing — do not license the centroid creative as-is."
+}

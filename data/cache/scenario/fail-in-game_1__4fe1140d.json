@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_iv4CHADSm4A9F77gNXZRr8tb?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfaXY0Q0hBRFNtNEE5Rjc3Z05YWlJyOHRiP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Vio0YjpCbCyJfJHPaVyI5uxGTyHF73MI-DlnLxleUNgCofH0RurUzkAUzZK39htBrK1rpAGDJr%7ENKumZHnkS3D0oKMPMhMSMud%7EeGv22uYMTZCCw5jpAJ8SKu3nsTcNwc6WV-QD9ki-xJ12H%7EOrXotSNjBwxwiPzGR-EHyGxuu3Yp9IOGxoqL1jO2TToBoKiJxzLYYLe0ibsco%7E2eM-qD1qW6XOFk4tmMZcRDR4LT9hXTv3gX5gk%7EYNbFFOQ23KRmrtSAzbBb4Jsl%7EQ5s6QHhPF1TGD5Yad8R5760K4LlJxLF8CNe67QTqPA3hm5mg2nYJuqNwjTIGkPghXuxip1dA__",
+  "job_id": "job_17hkwGRNeGZDMBCb9fFrPBYs",
+  "asset_id": "asset_iv4CHADSm4A9F77gNXZRr8tb",
+  "stub": false,
+  "prompt": "Storyboard fail beat, 9:16 vertical, in-game frame from Crazy Kick! Fun Football: ball clanging the goalpost and bouncing back, dotted trajectory trail curving wide and missing, sandy-yellow (#F5D77F) pitch, sky-blue (#1CB4F0) backdrop, lime-green (#99CC33) level tracker and HUD at top showing 'LEVEL 4', stickman goalkeeper with arms up, stickman defender stickmen in the box, large red 'FAIL' stamp overlay and white text '99% FAIL HERE \ud83d\ude29', 3D hyper-casual low-poly bright and colorful with simple stickman characters, authentic mobile gameplay screenshot composition, no logos",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

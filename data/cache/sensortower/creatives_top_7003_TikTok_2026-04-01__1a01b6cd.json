@@ -1,0 +1,426 @@
+{
+  "count": 318,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "229628308cdbdd28",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "229628308cdbdd28",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-29",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "229628308cdbdd28",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "Throw your new robots into the thick of battle!"
+        },
+        {
+          "id": "d78f1b1290f537d2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "New robots, new epic victories!"
+        },
+        {
+          "id": "ff796033db0e366c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "Test yourself in epic robot battles!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "6eddaf39e633c393",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "6eddaf39e633c393",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-29",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "6eddaf39e633c393",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b40bd865a25169af/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b40bd865a25169af/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b40bd865a25169af/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "Your favorite robot PvP just got hotter!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3583f8c4dee189d7",
+      "app_id": "55d691cf13fa38db45013a70",
+      "network": "TikTok",
+      "phashion_group": "3583f8c4dee189d7",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-12",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "3583f8c4dee189d7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/292b9d9d9e027bc3/thumb",
+          "video_duration": 6,
+          "width": 720,
+          "height": 1280,
+          "message": "The Best DBZ Battle Experience is Here"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d691cf13fa38db45013a70",
+        "canonical_country": "US",
+        "name": "PAC-MAN 256 - Endless Maze",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "PAC-MAN 256",
+        "icon_url": "https://play-lh.googleusercontent.com/KK7mP_etdtFFzdNBa6XTAenfnXEXiGTtqT8Lv4bffra99bT4e_JvK6n5Xp5rvEVQZEA=s150",
+        "os": "unified",
+        "id": "55d691cf13fa38db45013a70",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "de17b4be74ff515c",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "de17b4be74ff515c",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-21",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "de17b4be74ff515c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92aa19fe0673005d/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "New robots, new epic victories!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5bc6d9cb6ec0fb82",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "5bc6d9cb6ec0fb82",
+      "ad_type": "video",
+      "first_seen_at": "2025-02-23",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "5bc6d9cb6ec0fb82",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "message": "Energy guns, lasers and rockets - equip your robot and annihilate your opponents!"
+        },
+        {
+          "id": "be7d9782c91f52e3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2654c43e8f938bf/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "message": "Action PvP shooter with robots and huge guns!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "102283ce7bc83b5a",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "102283ce7bc83b5a",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-29",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "102283ce7bc83b5a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "Play real-time 6v6 robot battles with players worldwide!"
+        },
+        {
+          "id": "e81ad6dc3f581cac",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "Create your own epic robot builds and dominate!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "207efc0c5ac00983",
+      "app_id": "67e4d21af6ce7824d64b8049",
+      "network": "TikTok",
+      "phashion_group": "207efc0c5ac00983",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-28",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "207efc0c5ac00983",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66fd89edb137cd6e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66fd89edb137cd6e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66fd89edb137cd6e/thumb",
+          "video_duration": 9,
+          "width": 540,
+          "height": 960,
+          "message": "Players protest, fans shout... The decision is yours!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "67e4d21af6ce7824d64b8049",
+        "canonical_country": "US",
+        "name": "Referee Simulator 3D",
+        "publisher_name": "JLabs Games",
+        "publisher_id": "6726e75cfdd0e8101139fdbb",
+        "humanized_name": "Referee Simulator 3D",
+        "icon_url": "https://play-lh.googleusercontent.com/yQ0-gAGGf0oGvNFVhbQndobu4t37ATLYTSTDuL9nM5LIbjS0lF-Y3EAmJ1ioCpAbeg=s150",
+        "os": "unified",
+        "id": "67e4d21af6ce7824d64b8049",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3e4f64430220231a",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "3e4f64430220231a",
+      "ad_type": "video",
+      "first_seen_at": "2025-05-06",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "3e4f64430220231a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bd5e8c17c1118d94/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bd5e8c17c1118d94/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bd5e8c17c1118d94/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "Crush your opponents, dominate the battlefield!"
+        },
+        {
+          "id": "baaec0b3bbcd1e53",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bd5e8c17c1118d94/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bd5e8c17c1118d94/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bd5e8c17c1118d94/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "Destroy enemy robots, dominate the battlefield!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fdad5a2855f329fc",
+      "app_id": "66d211d85ca5ed0dbdb92d59",
+      "network": "TikTok",
+      "phashion_group": "fdad5a2855f329fc",
+      "ad_type": "video",
+      "first_seen_at": "2025-05-14",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "fdad5a2855f329fc",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa7269f2b3e3784f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa7269f2b3e3784f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa7269f2b3e3784f/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "message": "Star a capybara in this text-based roguelike RPG!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66d211d85ca5ed0dbdb92d59",
+        "canonical_country": "US",
+        "name": "Capybara Go!",
+        "publisher_name": "Habby",
+        "publisher_id": "5b6fe8e3ce886515f6e62e3f",
+        "humanized_name": "Capybara Go!",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/40/50/a9405019-13d6-d25b-5f9e-afb16aa5a02d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66d211d85ca5ed0dbdb92d59",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "6d02e264d0a4f33d",
+      "app_id": "663a25f4e0e45603950b2ec5",
+      "network": "TikTok",
+      "phashion_group": "6d02e264d0a4f33d",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "6d02e264d0a4f33d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfbfe9c019c06d88/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfbfe9c019c06d88/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfbfe9c019c06d88/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "Dressing Up: Engage & Play with Our Fashion Games"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "663a25f4e0e45603950b2ec5",
+        "canonical_country": "US",
+        "name": "YoYa Time: Build, Share & Play",
+        "publisher_name": "YoYa Games",
+        "publisher_id": "614cd17ec18c184d3f8ab0d3",
+        "humanized_name": "YoYa Time: Build",
+        "icon_url": "https://play-lh.googleusercontent.com/XEJRrW3kWluLbrteY0c5dhYCO1FTx-iavOwM-FfWhr4wa9bz-oVUpPYSHHAC_A-mQSk5jBpaz82n77EocxZ2-Q=s150",
+        "os": "unified",
+        "id": "663a25f4e0e45603950b2ec5",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

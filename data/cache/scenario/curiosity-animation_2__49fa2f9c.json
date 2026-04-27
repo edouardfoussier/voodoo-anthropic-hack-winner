@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_qAQCcKZe8Q4quHbkrSgWaVN2?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcUFRQ2NLWmU4UTRxdUhia3JTZ1dhVk4yP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=B9L5CxucZJuLLHRXJWMlM5lJ29BX63dEm-rrhy0K-goFRI18BoOlu-Td-jURhQqRgE1pvVSD4wCsVTFSprUm7lOkQMA%7EUD9viAW88RLses94a2xNZLNbrwZXPgDNLgX1r1V1W9sqlpaWWVbyWLohmnAfmsyWRQdL-g5kHnF83QQesq0oFtbwKlBCDmSeLhBBZwDHO3yp2OzJT70fAZucwvGixrIEgRhM8ynjXlbGHDOcnx0a5Nco95clBFN9t1RKm1y6euIz-2yXDXHIa7lBpzW-3IS765nLFOUwu6qjc-11hwZyMaeQzPXVhHsjVufp-A1NCr2nFUWAc7IOitbRfQ__",
+  "job_id": "job_xrWA7z7hDzu8rmsGFK31rTwG",
+  "asset_id": "asset_qAQCcKZe8Q4quHbkrSgWaVN2",
+  "stub": false,
+  "prompt": "Storyboard frame 3, vertical 9:16, end-card style still from Knock'em All. The cross-section has sealed back into a clean pastel #8ED4FF platform, confetti in #D91A1A red and #6B15E8 purple bursts across the frame, level progress bar UI at top shows 100% complete. First-person toy gun rests in lower frame, last red crash-test dummy ragdolls off the platform edge. Minimalist 3D with bright, flat colors and simple geometric environments. Large bold white text overlay: 'Tap to Play' with a tapping finger icon. No human character on screen. [Audio: VO 'Your turn \u2014 tap to play' / cheerful satisfying chime resolution 95bpm / confetti pop SFX, soft success chime, single finger-tap click at 4.5s].",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

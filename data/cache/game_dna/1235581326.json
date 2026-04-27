@@ -1,0 +1,30 @@
+{
+  "app_id": "1235581326",
+  "name": "Flappy Dunk",
+  "genre": "Arcade",
+  "sub_genre": "Hypercasual",
+  "core_loop": "Tap to keep the avatar airborne, navigate through hoops to score points, and outscore the opponent in a head-to-head match.",
+  "audience_proxy": "Casual gamers of all ages looking for quick, reflex-based competitive gameplay.",
+  "visual_style": "2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors.",
+  "palette": {
+    "primary_hex": "#EAD5A0",
+    "secondary_hex": "#D81155",
+    "accent_hex": "#5CB3FF",
+    "description": "Warm beige backgrounds contrasted with highly saturated magenta banners and bright blue accents."
+  },
+  "key_mechanics": [
+    "tapping",
+    "physics-timing",
+    "scoring",
+    "competing"
+  ],
+  "character_present": true,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "VS matchmaking screen",
+    "Score comparison UI",
+    "Combo explosion effects",
+    "Call-to-action banners",
+    "Lives/hearts indicator"
+  ]
+}

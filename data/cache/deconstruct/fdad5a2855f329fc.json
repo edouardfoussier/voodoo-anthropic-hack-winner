@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "fdad5a2855f329fc",
+    "ad_unit_id": "fdad5a2855f329fc",
+    "app_id": "66d211d85ca5ed0dbdb92d59",
+    "advertiser_name": "Capybara Go!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa7269f2b3e3784f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa7269f2b3e3784f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa7269f2b3e3784f/preview",
+    "phashion_group": "fdad5a2855f329fc",
+    "share": null,
+    "first_seen_at": "2025-05-14T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Star a capybara in this text-based roguelike RPG!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "UGC creator in a onesie answers rapid-fire questions about the game's monetization and accessibility.",
+    "visual_action": "A man in a capybara onesie shakes his head 'no' and then shows his phone screen to the camera.",
+    "text_overlay": "Does Capybara Go have Ads? Can I download it for free?",
+    "voiceover_transcript": "Nope. Yep.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "UGC creator addresses ad-free gameplay with a head shake.",
+    "Creator shows the App Store listing to prove the game is free to download.",
+    "Creator dismisses the idea that the game is difficult to play.",
+    "Creator shares a promotional code 'lucky666' for free rewards.",
+    "End card displays the game logo and a 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "Does Capybara Go have Ads?",
+    "Can I download it for free?",
+    "Is it hard to play?",
+    "Can I get free rewards?",
+    "Download and use code lucky666",
+    "CAPYBARA GO!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#A52A2A",
+    "#FFFFFF",
+    "#87CEEB"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual mobile gamers who prioritize ad-free experiences and cute, accessible gameplay.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001658
+}

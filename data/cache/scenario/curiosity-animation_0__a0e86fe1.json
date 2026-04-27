@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_1htYL29YaAmNkVjMsd7nXea7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMWh0WUwyOVlhQW1Oa1ZqTXNkN25YZWE3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=FL1DhbzU0%7E2Z%7E79T3Yf7SH5%7E53Xf3eN6TJXpBwKrhXRb6dadu3Dwh89Dm06QJ98eg0a9XzLvGYxcHF-%7EgcoAYDfkKsDanrbTdN5zV0Yo1mofLOou5qLMg9jcAYbSXPro6lbW8m1PPv67M1pGFv5fRz-QXXxC0oE8QIHkXKiTSKAoGmf5TED%7EUWJL4yissj-4GYUBfyi5CPVK60SX8EcZVHtTFYm4oJ00Wf8dGN9sX-acg9FjhDBCHZYBaFrxIFvMpuz6ZbzeGo5hD2ldiQTeJ%7EAkS-bYxMNVsnW7aW5NKxDQnU889DgRW%7E1S3u8vJiEdmnU-2Qp0tTHr4WHgE-ogyQ__",
+  "job_id": "job_ZzvfFbWDJBQ4mAKsQcx4dJfZ",
+  "asset_id": "asset_1htYL29YaAmNkVjMsd7nXea7",
+  "stub": false,
+  "prompt": "Hero frame, vertical 9:16 mobile ad still: an authentic Helix Jump in-game moment rendered in 3D minimalist style with bright contrasting colors and simple geometric shapes, showing the iconic vertical helix tower of stacked circular platforms sliced open as a clean cross-section revealing dozens of hidden levels descending below, glossy bouncing ball at the top, electric green (#39FF14) safe platform segments, hot red (#FF0000) trap segments glowing as danger zones, cyan (#5CE1E6) gradient background, score multiplier HUD in top corner, level number badge top-left, bold white sans-serif on-screen text 'What's BELOW level 1?' centered upper third, x-ray scanline glow along the slice line, no characters, no people, clean mobile UI chrome matching Helix Jump screenshots.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

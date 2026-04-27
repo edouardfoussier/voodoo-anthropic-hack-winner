@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "fd9e3901316d1ba9",
+    "ad_unit_id": "fd9e3901316d1ba9",
+    "app_id": "55c5025102ac64f9c0001f98",
+    "advertiser_name": "Bingo Blitz - Bingo Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bc91e0da5aede276/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bc91e0da5aede276/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bc91e0da5aede276/preview",
+    "phashion_group": "fd9e3901316d1ba9",
+    "share": null,
+    "first_seen_at": "2026-04-16T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Try fror free",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy reaction to winning a bingo game.",
+    "visual_action": "A man sits on the floor, shouting and celebrating while looking at his phone.",
+    "text_overlay": "never asking bro to play bingo blitz again 💀",
+    "voiceover_transcript": "Oh my god I got bingo let's go! 67!",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Live-action UGC of a man shouting in excitement while playing on his phone.",
+    "Gameplay footage showing a bingo card being filled and the number 67 called.",
+    "Animated mascot character celebrates a 'BINGO!' win with visual effects.",
+    "End card displays the game title and a 'PLAY NOW' button over a bright landscape."
+  ],
+  "on_screen_text": [
+    "never asking bro to play bingo blitz again 💀",
+    "BINGO!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 7.0,
+  "palette_hex": [
+    "#2E9AFE",
+    "#7ED321",
+    "#F8E71C"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual gamers who enjoy high-energy, social competition and the excitement of winning.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00151
+}

@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "fe1039eea817bf9c",
+    "ad_unit_id": "fe1039eea817bf9c",
+    "app_id": "55d20e4302ac64ee730001ff",
+    "advertiser_name": "The Battle Cats",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa1bf70e9741318/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa1bf70e9741318/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa1bf70e9741318/preview",
+    "phashion_group": "fe1039eea817bf9c",
+    "share": null,
+    "first_seen_at": "2025-07-25T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "スキマ時間で侵略にゃ！",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Shows the game being played in various everyday waiting scenarios.",
+    "visual_action": "A hand-held phone displaying gameplay is superimposed over an office desk and then a silhouette of a crowd.",
+    "text_overlay": "リフレッシュ中に侵略再開！",
+    "voiceover_transcript": null,
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Gameplay shown over an office desk background with the text 'Resume invasion while taking a break'.",
+    "Gameplay shown over a silhouette of a crowd with the text 'Resume invasion while waiting in line'.",
+    "Gameplay shown over a computer monitor displaying a live stream countdown with the text 'Resume invasion while waiting for a stream'.",
+    "Final title card featuring the game logo and the text 'Anytime, anywhere, resume invasion!'."
+  ],
+  "on_screen_text": [
+    "リフレッシュ中に侵略再開！",
+    "行列の順番待ち中に侵略再開！",
+    "視聴待機中に侵略再開！",
+    "にゃんこ大戦争",
+    "いつでもどこでも",
+    "侵略再開！"
+  ],
+  "cta_text": "侵略再開！",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#F5A623",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Japanese mobile gamers looking for a casual game to play during short breaks or while waiting in daily life.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001663
+}

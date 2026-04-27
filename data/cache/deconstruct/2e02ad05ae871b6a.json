@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "2e02ad05ae871b6a",
+    "ad_unit_id": "2e02ad05ae871b6a",
+    "app_id": "55d93d7702ac645ad20d7433",
+    "advertiser_name": "Reading Eggs - Learn to Read",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/315e14c2b05bf271/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/315e14c2b05bf271/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/315e14c2b05bf271/preview",
+    "phashion_group": "2e02ad05ae871b6a",
+    "share": null,
+    "first_seen_at": "2025-09-14T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Spark a love for reading with the award-winning reading app that makes reading fun & easy.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A mother and child share a warm moment using a tablet together in a cozy home setting.",
+    "visual_action": "Mother and son smile at a tablet screen while animated characters float nearby.",
+    "text_overlay": "Reading eggs",
+    "voiceover_transcript": "There's a magic to that moment. Welcome to Reading Eggs.",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Mother and child bonding while using the educational app on a tablet.",
+    "Close-up of the child's hand interacting with the 'Reading Eggs' logo on screen.",
+    "Phonics gameplay demonstration where the child pops bubbles to spell 'cat'.",
+    "Contextual learning showing the word 'splat' as food falls into a bowl.",
+    "Final end card with trial offer and app store download links."
+  ],
+  "on_screen_text": [
+    "Reading eggs",
+    "c at",
+    "cat",
+    "spl at",
+    "splat",
+    "Used by over 20 million kids",
+    "Start your FREE 30-day trial!",
+    "www.readingeggs.co.uk"
+  ],
+  "cta_text": "Start your FREE 30-day trial!",
+  "cta_timing_seconds": 11.5,
+  "palette_hex": [
+    "#00AEEF",
+    "#FFFFFF",
+    "#F7941D"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Parents of toddlers and primary school children seeking engaging educational apps.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001739
+}

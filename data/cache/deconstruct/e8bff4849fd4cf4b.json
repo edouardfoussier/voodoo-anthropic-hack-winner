@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "e8bff4849fd4cf4b",
+    "ad_unit_id": "e8bff4849fd4cf4b",
+    "app_id": "53857baf830f78f0bc0068e3",
+    "advertiser_name": "Warframe Companion",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3ef3bcd9ba539ba/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3ef3bcd9ba539ba/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c3ef3bcd9ba539ba/preview",
+    "phashion_group": "e8bff4849fd4cf4b",
+    "share": null,
+    "first_seen_at": "2026-04-08T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Brutal, bestial and burnished in Orokin Gold, Voruna has pounced into Prime Access in search of satiation for her boundless bloodlust. She vaults into venery alongside her signature Prime Weapons and exclusive Prime Accessories.",
+    "button_text": "Shop Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cinematic close-up of a scarred woman followed by a mechanical wolf reveal.",
+    "visual_action": "Close-up of a woman's face with scars, transitioning to a dark mechanical creature emerging from shadows.",
+    "text_overlay": "MATURE 17+ ESRB",
+    "voiceover_transcript": "Our twilight has come.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Close-up of a scarred female character delivering a cryptic line.",
+    "Reveal of a sleek, mechanical wolf-like entity in a dark environment.",
+    "Introduction of a male character in a cyberpunk-style setting.",
+    "Fast-paced action sequence showing the creature's combat abilities.",
+    "Final splash screen detailing the 'Voruna Prime' access pack contents."
+  ],
+  "on_screen_text": [
+    "MATURE 17+ ESRB",
+    "VORUNA PRIME",
+    "PRIME ACCESS",
+    "LEAD THE HUNT | AVAILABLE NOW",
+    "PERIGALE PRIME & SAROFANG PRIME",
+    "HANTELER PRIME SYANDANA",
+    "VILKAS PRIME SUMDALI",
+    "OKURI TAILS PRIME EPHEMERA"
+  ],
+  "cta_text": "LEAD THE HUNT | AVAILABLE NOW",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#0a0e14",
+    "#d4af37",
+    "#00ffff"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Hardcore sci-fi action gamers who enjoy high-fidelity character customization and cinematic combat.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00184
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_562qSYTGuEXUao4RNEzsL7Ps?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNTYycVNZVEd1RVhVYW80Uk5FenNMN1BzP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=gG-UBubxRqyJuOhs9DSrDxz8-fT6V5XLwtZcdhpDPejb8O0fDl1PsPL1Jlitl1Pg0giEWPVklh5tZnlYlcaY2ohS8WPKHC5wO9LwmHeYAgoBhPRLH5%7EIByhCjfNALWYKSqDHGPeEEbvW%7EF%7Em21B-2z65L5fD0nT-Y6lAX8%7ELZBnInKRW0zOuqHJV2ggPq9lfExUzR2rIe1L-WNpOk2ZUXPXMWjVvxA3wHto-uMtt2nrrV9ZnjweU0dFOM3aB67QlSyAuLJyqHvYtOfRuBua%7EP6vt1NhBTX2vkGcc87rRdHv1jrGJUgvKDVcw6U%7ExiATpl6v1E9TaDtU7l6hxyElTAQ__",
+  "job_id": "job_JExx1CthkmUbfo6szvNAyPce",
+  "asset_id": "asset_562qSYTGuEXUao4RNEzsL7Ps",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16: mid-shot of a cartoon sorting machine with three color-coded boxes (red, yellow, blue) below a light-grey #F0F0F8 conveyor belt, glossy marbles rolling toward boxes, one yellow marble veering toward the red box with a motion blur trail, lavender #E5DFFF background, bold orange #FFB13B overlay text 'Wait \u2014 wrong color!' centered, Clean and colorful 3D cartoon style with soft, rounded shapes.",
+  "model_id": "flux.1-dev"
+}

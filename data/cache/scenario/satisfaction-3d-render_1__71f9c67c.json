@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_wQbg6YYB4D9TqMhLhhBAZsS1?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfd1FiZzZZWUI0RDlUcU1oTGhoQkFac1MxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=i6OAj1m9DOgOtWSKAjQkC-fZeqeHjKVlONxf7OcU2MjXvZui0hpKnwvnvXlYWM1w7PkArGDtceY8FFcqS3R96OGvZ1Bgr1WZTlQ1Q6ABJxVMDWvpADRACDNvHZc2b%7ELIq96VX0d8N8X-hBlN51B45n0oKsPnVAe4X945aDiyrzIJnUXHxYRccalyBHfylug-dBE2mKIYU5WzQx3goEmj6r4WO9dzJFttqR065mN5bP8CRgQPlL4OfH7c%7EibdxUqujGBzHzE3NCcpcTZvWfEpBLSN-CQSGzrd7FIHgDwRdjTJfwpglmyTnP3E5eEv8y66FICJufbMD3vqJGcjHzj8%7Ew__",
+  "job_id": "job_QugLE89ZioDg6xbGYV8frWNX",
+  "asset_id": "asset_wQbg6YYB4D9TqMhLhhBAZsS1",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical aspect ratio. Three-quarter view of a light grey (#F0F0F8) conveyor-belt sorting machine with mixed pastel marbles rolling along it, dropping into three labeled jars below in lavender, mint, and peach. Orange (#FFB13B) finger-tap icon hovering over a tray with the overlay text 'Tap to release' in rounded orange type. Lavender (#E5DFFF) background. Clean and colorful 3D cartoon style with soft, rounded shapes. Calm, satisfying puzzle-game mood.",
+  "model_id": "flux.1-dev"
+}

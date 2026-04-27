@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "a7b00a740fdf90d5",
+    "ad_unit_id": "a7b00a740fdf90d5",
+    "app_id": "5b0bf793add5fb1967fd21ad",
+    "advertiser_name": "Viola’s Quest: Marble Blast",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/preview",
+    "phashion_group": "a7b00a740fdf90d5",
+    "share": null,
+    "first_seen_at": "2026-03-31T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Time-limited events starting soon! 🎉🔥",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A continuous stream of colorful, patterned marbles rolls across a lush forest background.",
+    "visual_action": "Marbles roll in a curved path from left to right, filling the screen.",
+    "text_overlay": "Viola's Quest, PLAY NOW",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction of the game logo and a 'PLAY NOW' button over a forest backdrop.",
+    "A line of colorful marbles begins to roll onto the screen from the left.",
+    "The marble chain extends and follows a winding path across the center of the frame.",
+    "The sequence loops as more marbles continue to enter the scene."
+  ],
+  "on_screen_text": [
+    "Viola's Quest",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#7B3F91",
+    "#F7E018",
+    "#4CAF50"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle game players who enjoy marble-shooter mechanics and vibrant, fantasy-themed aesthetics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001374
+}

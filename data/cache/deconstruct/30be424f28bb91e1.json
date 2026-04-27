@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "30be424f28bb91e1",
+    "ad_unit_id": "30be424f28bb91e1",
+    "app_id": "55d20e5802ac64ee73000618",
+    "advertiser_name": "Gold Fish Casino Slots Games",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11121fb6bef22f07/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11121fb6bef22f07/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/11121fb6bef22f07/preview",
+    "phashion_group": "30be424f28bb91e1",
+    "share": null,
+    "first_seen_at": "2026-03-25T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Come back to the fun 🌟 Spin now and WIN Massive Rewards! 🎁💰",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "An 'Apology Letter' scrolls down offering a massive coin reward.",
+    "visual_action": "A formal-looking letter titled 'APOLOGY LETTER' scrolls into the center of the frame over a blurred background.",
+    "text_overlay": "APOLOGY LETTER WE APOLOGIZE FOR THE DELAYED REWARDS! UP TO 200 BILLION FREE COINS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "An 'Apology Letter' scrolls down from the top of the screen to the center.",
+    "The letter reveals a message apologizing for delayed rewards to the player.",
+    "A massive reward of 'UP TO 200 BILLION FREE COINS' is displayed in large, bold text.",
+    "The final frame holds on the offer with game characters and a prominent 'CLAIM NOW' button."
+  ],
+  "on_screen_text": [
+    "Gold Fish CASINO SLOTS",
+    "HUFF N' MORE PUFF MONEY MANSION",
+    "VOL. 127 - NO. 39",
+    "APOLOGY LETTER",
+    "WE APOLOGIZE FOR THE DELAYED REWARDS!",
+    "UP TO 200 BILLION FREE COINS",
+    "CLAIM NOW"
+  ],
+  "cta_text": "CLAIM NOW",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFD700",
+    "#FFFFFF",
+    "#228B22"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult social casino players who respond to high-value currency offers and formal-looking 'official' announcements.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018640000000000002
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_e77LQtpE1bnq91EFjcSzttz8?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZTc3TFF0cEUxYm5xOTFFRmpjU3p0dHo4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=DSYgG5iw7z6uyv68YDhgfuBhI27g0oAkTVKrTGxhj8IFiQLD3uTJFztbF%7EUH9SBSbRQatkO56bqEgWOiKe2yNoYnp2MVCQe6xuZyxchhaOi4S%7ECO5vDPtOgcVzczg%7ELTZxC96S5YZDt0FMrJ1Qfk94U8d5KUepdX%7E-SAn7VBAKSNlWD%7Ec%7EX5KRxKVeyRVx63G2TKT%7El8MSexPZfc9nSKBnLvrIuwb4acTIu7YZI0nKxFRT%7E7mSmmzoQK-NUCkdJKYPVd0ZUO6Fg0pOe4022vVt2EXFrzDmiED8O3rWeAXEgjxp-SgNaE8L1H5CvDkvkzj66uPY8OAS36TlbUHbv4gQ__",
+  "job_id": "job_KaYiaRhfiBydnhV3B4UvStVb",
+  "asset_id": "asset_e77LQtpE1bnq91EFjcSzttz8",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16: authentic Archery Clash! in-game duel screenshot, female archer protagonist mid-draw on a stylized blue duel platform, glowing golden arrow nocked with vibrant yellow (#FFD700) sparks, aiming trajectory arc rendered as a dotted yellow parabola arcing toward an opponent across the arena, bright blue (#2A9DF4) banners and arena railings, green (#32CD32) HP bar and +stat indicators visible in the HUD, turn-based duel UI chrome with gear slots and coin counter at top, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, cinematic rim-light on bowstring, on-screen text 'One shot. One kill.' in bold yellow with blue stroke. [Audio: VO 'One shot\u2026 one kill.' (confident female whisper) / punchy upbeat trap at 95 BPM with rising tension riser / bowstring creak at 0s, energy crackle at 2s, deep sub-drop on final word.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

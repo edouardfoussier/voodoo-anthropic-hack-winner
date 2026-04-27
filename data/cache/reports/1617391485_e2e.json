@@ -1,0 +1,336 @@
+{
+  "target_game": {
+    "app_id": "1617391485",
+    "name": "Block Blast！",
+    "genre": "Puzzle",
+    "sub_genre": "Block Puzzle",
+    "core_loop": "Drag polyomino blocks onto an 8x8 grid to complete full rows or columns, clearing them to score points and free up space.",
+    "audience_proxy": "Casual mobile gamers aged 25-55 seeking a relaxing, low-pressure mental challenge during short breaks.",
+    "visual_style": "Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid.",
+    "palette": {
+      "primary_hex": "#5469B9",
+      "secondary_hex": "#1E2744",
+      "accent_hex": "#FFD700",
+      "description": "A soothing royal blue background paired with a dark navy game board and bright, saturated block colors."
+    },
+    "key_mechanics": [
+      "drag-and-drop",
+      "line-clearing",
+      "spatial-planning",
+      "score-optimization",
+      "item-collection"
+    ],
+    "character_present": false,
+    "ui_mood": "calm/satisfying",
+    "screenshot_signals": [
+      "8x8 grid layout",
+      "multi-colored block pieces",
+      "score tracking",
+      "collectible stars and gems",
+      "satisfying line-clear animations"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US"
+    ],
+    "networks": [
+      "TikTok"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 8,
+    "num_phashion_groups": 8
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "label": "Satisfaction · live-action-UGC",
+      "member_creative_ids": [
+        "e5f7659c7c52df69"
+      ],
+      "centroid_hook": {
+        "summary": "A young man dances energetically to express his positive mood after playing Crossword Go.",
+        "visual_action": "A person in an olive jacket and tan pants performs a rhythmic dance in a dimly lit room.",
+        "text_overlay": "how I feel after playing Crossword Go all night after school",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#1E2B3C",
+        "#6B705C",
+        "#DDBEA9"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 2.0,
+      "derivative_spread": 1.0,
+      "freshness_days": 10.0,
+      "overall_signal_score": 1.9,
+      "rationale": "1 creatives across 1 unique advertisers, average age 10d. Hook representative: \"A young man dances energetically to express his positive mood after playing Cros\""
+    },
+    {
+      "archetype_id": "satisfaction-in-game",
+      "label": "Satisfaction · in-game",
+      "member_creative_ids": [
+        "e3c6af26067bd4c1",
+        "fb3e1e24ca488158"
+      ],
+      "centroid_hook": {
+        "summary": "A fruit-merging game where a small fruit is dropped into a container full of larger fruits, causing a chain reaction.",
+        "visual_action": "A small red fruit is dropped from the top, hits other fruits, and merges into a larger green melon.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#FDF4D0",
+        "#E63946",
+        "#8D5B4C"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.268,
+      "derivative_spread": 1.0,
+      "freshness_days": 112.0,
+      "overall_signal_score": 0.524,
+      "rationale": "2 creatives across 2 unique advertisers, average age 112d. Hook representative: \"A fruit-merging game where a small fruit is dropped into a container full of lar\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "411c1c21e5a1009a"
+      ],
+      "centroid_hook": {
+        "summary": "Hands dragging jigsaw puzzle pieces on a smartphone screen.",
+        "visual_action": "A close-up shot of a person's hands interacting with a puzzle app on a white iPhone.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#FFFFFF",
+        "#4A90E2",
+        "#E74C3C"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.256,
+      "derivative_spread": 1.0,
+      "freshness_days": 117.0,
+      "overall_signal_score": 0.517,
+      "rationale": "1 creatives across 1 unique advertisers, average age 117d. Hook representative: \"Hands dragging jigsaw puzzle pieces on a smartphone screen.\""
+    },
+    {
+      "archetype_id": "satisfaction-3d-render",
+      "label": "Satisfaction · 3D-render",
+      "member_creative_ids": [
+        "09b9a5138bab6a90"
+      ],
+      "centroid_hook": {
+        "summary": "Opening a drawer and filling a spice jar with red pepper flakes.",
+        "visual_action": "A 3D animated drawer opens, and red pepper flakes pour into a jar labeled 'RED PEPPER'.",
+        "text_overlay": "RED PEPPER",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#E8B4D1",
+        "#E5E9F0",
+        "#2E2E2E"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.21,
+      "derivative_spread": 1.0,
+      "freshness_days": 143.0,
+      "overall_signal_score": 0.486,
+      "rationale": "1 creatives across 1 unique advertisers, average age 143d. Hook representative: \"Opening a drawer and filling a spice jar with red pepper flakes.\""
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "label": "Satisfaction · animation",
+      "member_creative_ids": [
+        "5d287f88cf4759b9"
+      ],
+      "centroid_hook": {
+        "summary": "Goku Ultra Instinct charging a powerful energy blast.",
+        "visual_action": "Goku in his Ultra Instinct form charges a glowing blue Kamehameha against a flashing rainbow background.",
+        "text_overlay": "PLAY NOW!",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#00BFFF",
+        "#FFFF00",
+        "#FF00FF"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.048,
+      "derivative_spread": 1.0,
+      "freshness_days": 619.0,
+      "overall_signal_score": 0.382,
+      "rationale": "1 creatives across 1 unique advertisers, average age 619d. Hook representative: \"Goku Ultra Instinct charging a powerful energy blast.\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "visual_match": 20,
+      "mechanic_match": 15,
+      "audience_match": 45,
+      "overall": 25,
+      "rationale": "Major friction: this is a live-action UGC dance reaction tied to a word game (Crossword Go), with an earthy muted palette and a \"post-school all-nighter\" framing that skews younger/student — misaligned with Block Blast's 25-55 casual relaxer audience and its glossy vibrant blue/gold abstract look. The hook also shows zero gameplay, so it fails to communicate the spatial drag-and-drop line-clear loop that drives Block Blast installs. Only worth testing if reshot with a 25-45 talent, swapped overlay to \"how I feel after clearing a 4-line combo,\" and a picture-in-picture or cutaway to actual 8x8 grid gameplay; otherwise skip — cluster is also tiny (n=1) and unproven."
+    },
+    {
+      "archetype_id": "satisfaction-in-game",
+      "visual_match": 22,
+      "mechanic_match": 18,
+      "audience_match": 68,
+      "overall": 28,
+      "rationale": "Hard pass on a literal adaptation: the warm cream/red/brown fruit palette and physics-merge container directly contradict Block Blast's cool blue grid aesthetic and grid-based line-clear loop, creating a bait-and-switch risk that will tank IPM/D1 retention. The only transferable element is the broader \"oddly satisfying drop-and-cascade\" satisfaction beat, which does overlap with the 25-55 casual puzzle audience — so consider borrowing the ASMR pacing and chain-reaction payoff structure but rebuild it natively around polyomino drops triggering multi-line clears. Do not run the fruit creative as-is; misleading-ads policy risk on iOS is also non-trivial."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 45,
+      "mechanic_match": 55,
+      "audience_match": 75,
+      "overall": 55,
+      "rationale": "The \"satisfying hands dragging puzzle pieces\" hook taps into the same casual 25-55 puzzler audience and shares a drag-and-drop tactile language, so the audience overlap is solid. However, the visual frictions are significant: jigsaw pieces are not polyominoes, the white/red/blue member palette clashes with Block Blast's signature royal-blue + dark-navy + gold board, and there's no 8x8 grid or line-clear payoff in the centroid hook. Recommend testing only if reshot with actual Block Blast gameplay (real grid, branded palette, line-clear satisfaction beat) using the \"hands-on-phone\" framing as a wrapper—otherwise the creative will mislead users and tank IPM. Also note the thin cluster evidence (1 creative, 1 advertiser, 117d old) means this is a low-confidence signal, not a proven winner."
+    },
+    {
+      "archetype_id": "satisfaction-3d-render",
+      "visual_match": 22,
+      "mechanic_match": 15,
+      "audience_match": 45,
+      "overall": 22,
+      "rationale": "The \"satisfying organization\" 3D-render hook lives in a totally different visual world from Block Blast — pastel kitchen tones vs. saturated blocks on a navy grid — and there's no natural bridge from pouring spices into the drag-and-drop line-clear loop without a heavy-handed \"blocks pour into grid\" reframe. Audience has partial overlap (the same 25-55 casual scrollers enjoy ASMR-organization content), but with velocity 0.21 and a single advertiser behind it, this archetype isn't worth a bespoke production unless we test a low-cost adaptation that literally translates the \"pour into container\" satisfaction beat into blocks cascading to clear a near-full board. Pass on a faithful clone; only greenlight if creative can hard-marry the satisfaction trigger to the line-clear payoff in the first 2 seconds."
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "visual_match": 15,
+      "mechanic_match": 5,
+      "audience_match": 20,
+      "overall": 12,
+      "rationale": "Hard pass for Block Blast. The hook leans on copyrighted Dragon Ball IP (legal/ASA risk) and a high-energy shonen anime aesthetic with neon cyan/magenta/yellow that clashes with the game's calm royal-blue, beveled-block visual identity — there is zero connection to drag-and-drop line-clear mechanics. Audience also skews young male anime fans rather than the 25-55 casual puzzle demo, and the cluster is a single stale creative (619d, n=1) with no proven scale signal. Do not adapt."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-live-action-ugc",
+        "target_game_id": "1617391485",
+        "title": "\"How I Feel After a 4-Line Combo\" — Block Blast Satisfaction UGC",
+        "hook_3s": "POV: it's 11pm, phone glow on your face, thumb hovers over a perfect L-block — and the whole grid is about to vanish.",
+        "scene_flow": [
+          "0-3s HOOK: Tight selfie-style shot of a 30-something woman on the couch, royal-blue phone glow lighting her face, eyebrows raised in quiet focus. Overlay teases the satisfaction payoff.",
+          "3-7s GAMEPLAY CUT-IN: Vertical phone screen-record fills the frame — finger drags a yellow polyomino into the last gap on the 8x8 navy grid. Hold for the snap.",
+          "7-10s PAYOFF: Four rows clear simultaneously with a gold particle burst and combo counter spiking; cut back to her doing a tiny seated shoulder-shimmy / fist-pump — understated adult satisfaction, not a teen dance.",
+          "10-13s RELATABILITY BEAT: She exhales, smiles, leans back into the couch. Quick montage of two more clears (gem collected, star bar filling).",
+          "13-15s CTA: End card — Block Blast logo on royal blue, gold 'PLAY FREE' button pulsing once."
+        ],
+        "visual_direction": "Live-action UGC shot vertically on a phone, but lit and graded to echo Block Blast's DNA: the dominant ambient light is the royal blue (#5469B9) of the phone screen washing over the talent, set against a dark navy (#1E2744) room. Gameplay cut-ins use the game's native glossy, beveled blocks on the high-contrast dark grid, with gold (#FFD700) accents on combos, stars, and the CTA button to create a consistent color trio across live action and screen capture. Mood is calm-satisfying, not hype — micro-reactions over big dance moves, matching the 25-45 relaxer audience.",
+        "text_overlays": [
+          "me at 11pm, 'one more round'",
+          "the gap is exactly an L-shape…",
+          "4-LINE COMBO 🔥",
+          "okay ONE more",
+          "Block Blast",
+          "Play Free"
+        ],
+        "cta": "Play Free",
+        "rationale": "Keeps the proven satisfaction-UGC structure but fixes every flagged friction: ages talent up to 25-45, swaps the dance for a subtle adult micro-reaction, and front-loads actual 8x8 drag-and-drop + line-clear gameplay so the hook earns the install. Color-grade the live action to match the #5469B9/#1E2744/#FFD700 palette so live and gameplay cuts feel like one creative. Test against a control with no gameplay cut-in to isolate whether the relatability hook or the combo payoff is doing the work.",
+        "scenario_prompts": [
+          "Hero frame, 9:16 vertical mobile ad still: close-up of a 35-year-old woman's face on a dark couch at night, lit entirely by the royal blue (#5469B9) glow of her phone screen, dark navy (#1E2744) room behind her, a soft gold (#FFD700) reflection in her eyes from an in-game combo, subtle satisfied half-smile. Phone screen visible at bottom edge showing glossy beveled multi-colored blocks on a high-contrast dark grid in the clean vibrant abstract aesthetic of Block Blast. Bold white sans-serif overlay text top-center: 'me at 11pm, one more round'. Photorealistic UGC selfie look, shallow depth of field, grainy phone-camera texture.",
+          "Storyboard frame 2, 9:16 vertical: extreme close-up screen-record POV of a thumb dragging a yellow L-shaped polyomino toward the final gap on an 8x8 navy (#1E2744) grid, surrounding cells filled with glossy beveled blocks in royal blue (#5469B9), red, green, and gold (#FFD700). Clean vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Gold particle sparkles anticipating the clear. Large overlay text centered: 'the gap is exactly an L-shape…'. Crisp UI, mobile screen recording style.",
+          "Storyboard frame 3, 9:16 vertical: split-screen — top half shows the same woman doing a small celebratory shoulder-shimmy on her couch, bathed in royal blue (#5469B9) phone light against a dark navy (#1E2744) background; bottom half shows the Block Blast 8x8 grid mid-clear with four rows exploding into gold (#FFD700) particles, glossy beveled blocks on a high-contrast dark grid, clean vibrant abstract aesthetic. Bold gold overlay text across the seam: '4-LINE COMBO 🔥'. Energetic but cozy mood, vertical mobile ad composition."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_eF6FagiPT3UNrQEDxnPHwHwa?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZUY2RmFnaVBUM1VOclFFRHhuUEh3SHdhP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Rw6FUUELeifqZaEeUHvO8Rg39Jaed1L2R6-itXiECC3AaGYMTxUZbYizYoQKwtxlUE1ntXEuIAbX9zU6O795lctDl4WWO7c-8Bso-hLdNJpTOqfdJDQVeKbd19JpUyMgL6fu3wAhWJo0jAoEfUWHHHEwPGrDbmAL4uc4Kr1wZdUcqAgVnhEdnUVtA%7E5-ycTW6CsIduboAAfvupK27Qjvcyi0u3FlMxdkpMi1Ll-EJmUpARZibcOlWamxqHLd%7ED0hKNNEZXn6VUgPiTmQ3SzFEKuzfNc-uwLREvxuKqsZ1mL8vZTOOtvuIPSxPS2I35ptWRAVoM%7EK5Q8VdexCwpNEfQ__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_eAz7sBckBVQRtHw7NCv4S97Y?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZUF6N3NCY2tCVlFSdEh3N05DdjRTOTdZP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VVndXdxpSi0J7oJB7nurIDhgUBN2Z3uZn9mbalBWFLJML9TZlJHiJXYHXzNOJp8ZsQ6KiUZ9l7JK67VvffQtj%7EOq%7E0%7EX9LHKm%7EPvGt8lQ4n-Pa3nnjtDuAJxZjOtVDFYqyKEJPNL%7E7ics0iyywVZYYBlj8Bw8yXp9l7sgTLGtgv9E-ICZAOICkSGJWw9h9brqky1X3lt7I4hMhwuAN2uhHD1m1LxPs6mIltDuVrl4WU7zq9OTrAfzFJtcv8B4N2-SHTuaK-PLQI7F0MkMIuBsC1WaZAzNBsFchXobmFQbvCwtgKHXUllTKOQjmhfMTu33jM3JN-XnAyw1QgoUK8BlQ__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_FFWyLc1KT3LDiXQ5uQVPREBp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRkZXeUxjMUtUM0xEaVhRNXVRVlBSRUJwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=iituI8kOjx0O1DNOxHnvpyOj30xK%7EzDVl4wAC99xpdrIr8svTs0NzO4KMyn8wzkydi6Y6Vl6W74zGdK5fFzMSEuCGi7NKvpCTvP-IRPfWKzfv2OfBMTF7PrLhpho3G9VC%7EAZ7FWLhlqbVcbNN2o3DoEdhwosnNGyn1IE7Ao04p0wHj%7ECjYTjMXKT5AyU9I-ufoRP9RMTWUcknGxomPIiXC-Szv3hnUwOSfutlc8caNCYewAS6LoU6XltTsNUNXqOuskeCMK1EdMQ1wenecqF3yoCUDgH-77hxqH6SRZLCZeZSblkdUoWjNz%7E28C7ZyB6BUDEmQtHLw4A7-0BGBbX%7Ew__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=1.90 × game_fit=25/100 ⇒ priority=0.47"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "1617391485",
+        "title": "Hands-On Satisfaction: One Perfect Clear",
+        "hook_3s": "Close-up: a thumb drags a glowing gold polyomino toward a nearly-full 8x8 navy grid — one block away from a massive multi-line clear.",
+        "scene_flow": [
+          "0–3s HOOK: ASMR close-up of a hand holding a phone in portrait. The 8x8 dark-navy Block Blast grid fills the screen. Three bright polyomino pieces wait at the bottom; rows are dangerously close to filling. Text snaps in: 'Can you clear it?'",
+          "3–7s TENSION: Thumb drags a blue L-piece into place — one row clears with a glossy shimmer and gold sparks. Score jumps. Camera pushes slightly closer. Overlay: 'One more move...'",
+          "7–11s PAYOFF: Thumb slots the final gold square piece. FOUR lines clear simultaneously in a cascading bevel-flash, gold stars burst, combo counter pops 'x4!'. Satisfying chime + haptic shimmer.",
+          "11–14s SOCIAL PROOF: Quick split: score rockets past a leaderboard number. Overlay: '97% can't beat this board.'",
+          "14–15s CTA: Logo lockup on royal blue, glossy gold button pulses. Overlay: 'Play Free.'"
+        ],
+        "visual_direction": "Shot in vertical 9:16 with a real human hand (warm neutral skin tone, no jewelry) holding a clean white phone against a soft royal-blue (#5469B9) gradient backdrop — echoing the in-game palette so the device feels like a natural extension of the brand. The on-screen gameplay dominates 80% of frame: dark-navy (#1E2744) 8x8 board, glossy beveled polyominoes in saturated brand colors, and #FFD700 gold accents on score, stars, and clear-flashes. Camera uses subtle macro push-ins on each drop, with crisp tactile sound design (click, whoosh, sparkle). Mood is calm-then-triumphant — never frantic. Every line-clear must feel buttery, glossy, and inevitable.",
+        "text_overlays": [
+          "Can you clear it?",
+          "One more move...",
+          "x4 COMBO!",
+          "97% can't beat this board.",
+          "Play Free."
+        ],
+        "cta": "Play Free",
+        "rationale": "This adapts the proven 'hands-on-phone satisfaction' framing but reshoots it with authentic Block Blast gameplay — real 8x8 grid, brand palette, and a line-clear payoff — eliminating the IPM risk of misleading jigsaw visuals flagged in the fit scan. Lead with this as a low-spend test ($200–500/day) against 25–55 casual puzzle lookalikes; if CTR/IPM clear benchmark within 72 hours, scale and build variants swapping the hook question and combo size. Treat as low-confidence archetype evidence — cap budget until signal stabilizes.",
+        "scenario_prompts": [
+          "Hero frame, vertical 9:16 aspect ratio, photorealistic close-up of a human hand holding a white smartphone in portrait orientation against a soft royal blue #5469B9 gradient backdrop. On the phone screen: an 8x8 dark navy #1E2744 puzzle grid filled with glossy beveled polyomino blocks in saturated brand colors, a glowing gold #FFD700 L-shaped block hovering mid-drag above a nearly-complete row, gold sparks anticipating a line clear. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Bold white sans-serif on-screen text overlay reads 'Can you clear it?' at the top. Cinematic macro lens, soft key light, tactile and satisfying mood.",
+          "Storyboard frame 2, vertical 9:16 aspect ratio, dynamic close-up of a smartphone screen mid-action: four horizontal rows simultaneously clearing on an 8x8 dark navy #1E2744 grid, explosive gold #FFD700 sparks and beveled glossy block fragments cascading outward, score counter glowing gold in the top-right. Background royal blue #5469B9 bokeh. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Large punchy yellow-gold text overlay 'x4 COMBO!' centered with subtle motion blur. High-contrast, celebratory, ASMR-satisfying lighting.",
+          "Storyboard CTA frame, vertical 9:16 aspect ratio, clean end-card composition on a deep royal blue #5469B9 background with a centered glossy beveled Block Blast logo lockup, a single floating gold #FFD700 polyomino block and three sparkle stars, a pulsing gold rounded CTA button at the bottom. Dark navy #1E2744 subtle grid pattern fading in the background. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Bold white text overlay 'Play Free' on the button. Premium, calm, inviting finish."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_RY3aFABmrF43BN38ibHAJ4Gm?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUlkzYUZBQm1yRjQzQk4zOGliSEFKNEdtP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=DV9fSIgnxs2ciybofetfQ5dy29kPp-8g74tMQM3GsJenFL9KgRaI1UuC4CwjrBYgQ-WgrzUuiEwkezZnzRglzOlJpjWBa6uuPk0NeaMz3otSvV3VVqUMsIHlefAeIQC1IFOl5ps%7ET0oPOQYZMgS4yOrw73Cb0b9570Tc2SSYsfSBiE5kpovcePKCIYJoYdMkH0Nf8a5Dlim23SmTXr%7E6xZHR6vlAaz6miXZz0XADT7mU8FKfzJ7oMziEi-wYcF5a0cF-u4B0XxG7CU2xGXkkqRJWHTFQfpspR4wEw%7Eqqzdj5eadCb9GWphY2e3wVCktuZRiKusRPO0zROlnhJGbdEA__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_NB7A9BTZA727CTzJ26AnEocG?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTkI3QTlCVFpBNzI3Q1R6SjI2QW5Fb2NHP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Dpd6BWqNo-e7U0R1gI7zigMWichKHPddZasRgntKf7HOCEAsJUU1JPbdFyWaTQvQf2FpY4fwJdsusmhc4%7Eaq%7EoHCPDCZyn5Acv8XYjs6GRL8Iv7FDHLqHU%7E-yLiDfAYSwLBtfEPEA3b7zxhbmK-9bFq0nfqI-zoHY5OUWxjx-cmV8kuHrmXBWJil9otFqHliFPL%7EwWWOI4QPwvCjSBrSbE8C5HFgEGtLi092b8o389N3XWpxD%7Ewo5Cos8VQXs2bmZZgLEfG-rMZZK8R3i7it5e4lzJYDKak4e5RdGCqMjV3fCBaTIN0dXG2fpU4fe3lScISZrcFjSYbOsnL80f2NeA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_rk9JKdSSG1eYZtpaL6JX8FRS?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcms5SktkU1NHMWVZWnRwYUw2Slg4RlJTP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YQ--njViN5MRvq7Zk9E%7ER9cdwYctDwqTML2Fk2PsQcBo0DX0hSyzoEdKw1Vz7S9d9QhANy7ZgcVLmfup%7En2JhVk9-HfgvhgSlhh6xMg3--7kdcqcmBUQ1UZhea-tYRoF3J2-McewBrP9dqhT4Dtigr5WCD8UN-3Ms7xF%7EOeP7rXv7tUSs5DCymU8IVsJBITaLxMKlfglWg42T8qmAO7vEsBHJkY1PGTr2Y1Pi2K3QPZL70bS8OuW1j1IyIESkxW2KjEisu0t-2rr0hgQEpUyCFLYYEjE3W%7E6Qs5Aj51nsqmfEvS7ywM5hjq0EfmAa8aoX8ufPlMw0zX%7EI52ZgIlUqQ__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.52 × game_fit=55/100 ⇒ priority=0.28"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-in-game",
+        "target_game_id": "1617391485",
+        "title": "One Drop. Total Cascade.",
+        "hook_3s": "A glowing gold polyomino hovers over a nearly-full 8x8 grid — one tap drops it and detonates a rainbow chain-clear across 6 lines.",
+        "scene_flow": [
+          "0-3s HOOK: Tight macro shot of a dark navy 8x8 grid packed with glossy beveled blocks, one perfect gold-glowing L-piece hovers above the only matching gap. ASMR hum builds.",
+          "3-7s TENSION: Finger drags the gold piece slowly into place; camera pushes in, blocks subtly pulse, soft click as it locks.",
+          "7-11s PAYOFF: Chain reaction — 3 rows clear, then 3 columns cascade, golden sparks and stars burst, score counter rockets from 12,400 to 48,900.",
+          "11-14s ESCALATION: Quick montage of 3 more satisfying multi-line clears with combo text popping ('x4 COMBO!', 'PERFECT!').",
+          "14-15s CTA: Logo lockup on royal blue, gold 'PLAY FREE' button pulses once."
+        ],
+        "visual_direction": "Lean fully into Block Blast's native DNA: deep navy (#1E2744) board floating on a soothing royal blue (#5469B9) backdrop, glossy beveled polyominoes in saturated jewel tones, with #FFD700 gold reserved as the 'hero' accent for the decisive piece, sparks, stars, and CTA. Camera is locked top-down with subtle parallax pushes; lighting is soft studio with crisp specular highlights on each bevel. Pacing borrows the ASMR cadence of the fruit-merge archetype — slow inhale, satisfying click, explosive cascade — but every visual element is grid-native polyomino, zero physics/fruit cues, to avoid bait-and-switch.",
+        "text_overlays": [
+          "Can you clear it in ONE move?",
+          "Drop the gold piece...",
+          "CHAIN CLEAR!",
+          "x4 COMBO",
+          "+36,500 PTS",
+          "Your turn."
+        ],
+        "cta": "Play Free",
+        "rationale": "This brief preserves the archetype's winning 'oddly satisfying drop → cascade payoff' beat that drove its IPM, but rebuilds it 100% natively in Block Blast's grid loop — eliminating misleading-ads risk on iOS while keeping the 25-55 casual satisfaction trigger intact. UA should A/B the gold-hero-piece variant against a non-gold control to isolate accent-driven CTR lift, and run it primarily on Facebook/TikTok where ASMR puzzle cascades over-index. Expect strongest pickup with women 35-54 — mirror the fruit archetype's audience overlap (68/100) without inheriting its visual mismatch penalty.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, mobile game ad still: top-down view of a dark navy #1E2744 8x8 grid nearly full of glossy beveled polyomino blocks in saturated jewel tones, one luminous golden #FFD700 L-shaped block hovering above with soft glow and particle sparks, royal blue #5469B9 background with subtle radial gradient, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, bold white sans-serif on-screen text 'Can you clear it in ONE move?' at top, cinematic studio lighting, crisp specular highlights, ultra-detailed, no characters",
+          "Storyboard frame 2, aspect 9:16, mid-action mobile puzzle ad still: same dark navy #1E2744 8x8 grid mid-explosion as 3 rows and 3 columns simultaneously clear in a rainbow cascade, golden #FFD700 sparks and stars bursting outward, royal blue #5469B9 backdrop, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, large yellow on-screen text 'CHAIN CLEAR! x4 COMBO' centered, motion blur on flying particles, satisfying glossy beveled block fragments, vivid saturated colors, no characters",
+          "Storyboard CTA frame, aspect 9:16, end-card mobile game ad: centered Block Blast-style logo on royal blue #5469B9 background, a single glossy beveled golden #FFD700 polyomino block resting on a small dark navy #1E2744 grid tile below, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, large pulsing gold button with bold white text 'PLAY FREE' at the bottom third, soft sparkle particles, premium polished mobile ad finish, no characters"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_66TjqcZtGQGoFfKtHZLe9VEB?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNjZUanFjWnRHUUdvRmZLdEhaTGU5VkVCP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Sf44Ak5tnTFwFL%7EmCovo%7E0ccEltF7NCcaKwRwnWrQr%7EmXiR-AbsKUVXiGH6yVjHJsUFt2GQNlEEExlNAwVIp7sVzguKbWtvtF08LGywRRFMNTyxTUoQIXZmz%7Et%7EkszJkEK7R9IQvFmf46p6GQo-qZ-tw87xDYQG%7EI2kRS0xLpNdccwArROVA1tneGhyYdqCcUAwKknEHc9YU-CzF2XBmHlF0IxI57EP0vd7dCt3hrII7482e5mZ3y9oqpJJg3-A95dSUkAD8LH2-nXaWSslwxiNxJ2sKpF5SYDeTSkzE5o5mbl03dUqvbhk1VS3SiHdp6kwms7PqRXExZsvD1l-6Bw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_m34hAch1Kv7WbJasAqHWXkkG?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfbTM0aEFjaDFLdjdXYkphc0FxSFdYa2tHP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=S%7EHO0oaDg-qXLzNI0wSMyp7HrvRy3qYYlC7OQkq6KZtM4AVX%7ERcRC5BnbMakDltTMMm4e6nObB33UthnzwLsI51-pPflYuVTX4fv4hDep5i3l0Ub-ZXQtgxQaL%7Elxc%7EhK8KUunYxqSr5LiJvoE0F4uYYXXdTsAPr2RPWow3DaxJmCtCu8tpj5JqLvmc7UsYmgbyRCyHGoeX8USp7iWR9L9FHLzHqdPDJUV9Oa%7EPTujYDA6LeYL1CLAIdrB52wtSSZ0U8klRpu77D2GV-zvSTfH0MuiQtNMMBTOGtMkA9AOZq%7EOD9054Am9a6-Z5284GA-OWg8KuhDfssz4o8JZDOxQ__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_xDzpmJjok39jwLFiVjByTpBQ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeER6cG1Kam9rMzlqd0xGaVZqQnlUcEJRP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=DvxtiOo21CyAgj0EeyWlVppFAMODhrCWwdsX9FtSjhYOl49Nl1Ohr7jfHyl4ksdshYZrRqTRPL3q2VDc4f16ZsYmuzQD5HvD4Iq-prArwSer3aRqeQ6c-JG-k8DUgTD4hLU7VbqEVc1z9LG-CpoUuIxuYNO7NVPlpNR0rsrjD6AKKVFuGx6uAaqzNBlLrdp29d80qwWQi%7ET6xcalDbnyc6QmH5foxYI0Km3oFZmh%7EFkDaMYzC1fRsZGGlrj6SvCdw2tZLBXKDN1ltPeF3X9d7-7g8cHlRF%7ELKrvGu4yfM3js%7Eyco9ZMDJ8v8eEZmUZ3UZIn2UqFoDkvjz3ZHHWFpSQ__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.52 × game_fit=28/100 ⇒ priority=0.15"
+    }
+  ],
+  "pipeline_duration_seconds": 484.40221716700034,
+  "total_cost_usd": 0.011244,
+  "generated_at": "2026-04-25T21:26:07.877184Z"
+}

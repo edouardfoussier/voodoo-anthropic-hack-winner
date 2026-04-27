@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_eazz8hzMJLJ4Jm1nbbo58uBW?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZWF6ejhoek1KTEo0Sm0xbmJibzU4dUJXP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=FTmQF9570YQlUaV4uUWcLILEHVpzkHzfgOJzW1gGtvwRkKuQjjyVRgze5HRC2qyW2Kp89Mdgf8Ij8GYhZltQwe%7Ei0j1WnwC6wlwz42oX81cHL01iUI0UqX0CGWOIJcki989yxENg5vZArDFfBAr7pmBCyXd-ilr0odnAZV-oXxf3u-j-v89wE-89NWiQ92gGhaCKYXF6RZmgGiI1Fu5feBYDR0KLnMVRuoWvKjn3Bg%7Evuczmcpjmk5QQN5RrxmVMlxRzL6YX7VRjxdr6N7Hdgxg%7EJFAqVhyAOoeH%7E4SvpxDy%7Es6cqXzWheyUKEv5491tOKPu5xonUJnsHTmq3kwnYg__",
+  "job_id": "job_VnTsbd9GHRWLuCNAUeoXqrmf",
+  "asset_id": "asset_eazz8hzMJLJ4Jm1nbbo58uBW",
+  "stub": false,
+  "prompt": "Storyboard frame, 9:16 vertical aspect ratio, full-screen aquapark.io in-game shot from a chase camera behind a low-poly cartoon character riding an inner tube down a winding white #ffffff water slide track suspended over bright #42bcf5 blue water, three rival characters visible ahead being overtaken, splash particles, orange #ff8c1c power-up icons and race progress bar pinned to the top HUD, multiplayer leaderboard widget in corner, 3D low-poly bright colorful cartoonish style, large punchy on-screen text 'last one splashing WINS', authentic aquapark.io UI chrome and asset style",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

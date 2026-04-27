@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_eAz7sBckBVQRtHw7NCv4S97Y?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZUF6N3NCY2tCVlFSdEh3N05DdjRTOTdZP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VVndXdxpSi0J7oJB7nurIDhgUBN2Z3uZn9mbalBWFLJML9TZlJHiJXYHXzNOJp8ZsQ6KiUZ9l7JK67VvffQtj%7EOq%7E0%7EX9LHKm%7EPvGt8lQ4n-Pa3nnjtDuAJxZjOtVDFYqyKEJPNL%7E7ics0iyywVZYYBlj8Bw8yXp9l7sgTLGtgv9E-ICZAOICkSGJWw9h9brqky1X3lt7I4hMhwuAN2uhHD1m1LxPs6mIltDuVrl4WU7zq9OTrAfzFJtcv8B4N2-SHTuaK-PLQI7F0MkMIuBsC1WaZAzNBsFchXobmFQbvCwtgKHXUllTKOQjmhfMTu33jM3JN-XnAyw1QgoUK8BlQ__",
+  "job_id": "job_MuyoXS5dyfbUS7Yg4fRQRumB",
+  "asset_id": "asset_eAz7sBckBVQRtHw7NCv4S97Y",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical: extreme close-up screen-record POV of a thumb dragging a yellow L-shaped polyomino toward the final gap on an 8x8 navy (#1E2744) grid, surrounding cells filled with glossy beveled blocks in royal blue (#5469B9), red, green, and gold (#FFD700). Clean vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Gold particle sparkles anticipating the clear. Large overlay text centered: 'the gap is exactly an L-shape\u2026'. Crisp UI, mobile screen recording style.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

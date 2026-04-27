@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "45a2ea16211dbd1f",
+    "ad_unit_id": "45a2ea16211dbd1f",
+    "app_id": "5622fcd702ac641c8800003a",
+    "advertiser_name": "GoldenHoYeah Slots-Slots Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ded17f1de438fae/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ded17f1de438fae/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ded17f1de438fae/preview",
+    "phashion_group": "45a2ea16211dbd1f",
+    "share": null,
+    "first_seen_at": "2026-03-27T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A tired woman finds relief and excitement by playing a mobile slot game after a long day at work.",
+    "visual_action": "A woman in a pink sweater wipes her forehead in exhaustion, then brightens up and points to a mobile screen showing a slot machine winning.",
+    "text_overlay": "仕事終わり どこにも寄れない日 そんな夜はこれ！",
+    "voiceover_transcript": "仕事終わり、どこにも寄れない日、そんな夜はこれ！",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A woman expresses exhaustion after work next to a slot game interface.",
+    "She transitions to a happy expression, pointing at the game as it spins.",
+    "The game displays a massive 'YOU WON!' message with a high coin count.",
+    "The ad concludes with the game logo and download buttons over the woman's smiling face."
+  ],
+  "on_screen_text": [
+    "仕事終わり",
+    "どこにも寄れない日",
+    "そんな夜はこれ！",
+    "鈴木ユリア",
+    "YOU WON!",
+    "1,770,000,000",
+    "ゴールデンホイヤー"
+  ],
+  "cta_text": "ゴールデンホイヤー",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#E066A6",
+    "#FFD700",
+    "#1A0B2E"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Japanese office workers looking for a rewarding mobile gaming experience to unwind after work.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001483
+}

@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "e9d1228f406ae662",
+    "ad_unit_id": "e9d1228f406ae662",
+    "app_id": "64e7a621ad4adb4e30f02dbb",
+    "advertiser_name": "Escape from Mental Hospital",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0892de03e65f045a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0892de03e65f045a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0892de03e65f045a/preview",
+    "phashion_group": "e9d1228f406ae662",
+    "share": null,
+    "first_seen_at": "2026-02-28T00:00:00",
+    "last_seen_at": "2026-04-18T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Play for a unique escape the room experience. Escape Mental Hospital is ready.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "UGC creator challenges the viewer to escape a mental hospital over gameplay footage.",
+    "visual_action": "A female creator is talking to the camera in the foreground while gameplay of a hospital escape room is shown in the background.",
+    "text_overlay": "COULD YOU ESCAPE FROM A MENTAL HOSPITAL?",
+    "voiceover_transcript": "Could you escape from a mental hospital?",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "UGC creator asks a challenging question over gameplay of a dark hospital room.",
+    "Gameplay shows a broken window puzzle and a hospital hallway with lockers.",
+    "A close-up of a mechanical combination lock puzzle is displayed.",
+    "A box opens to reveal essential tools like a key, screws, and a hook.",
+    "The creator encourages the viewer to download and test their intelligence."
+  ],
+  "on_screen_text": [
+    "COULD YOU ESCAPE FROM A MENTAL HOSPITAL?",
+    "REAL CHALLENGE",
+    "100 UNIQUE PUZZLES",
+    "TEST YOUR INTELLIGENCE",
+    "DOWNLOAD NOW"
+  ],
+  "cta_text": "DOWNLOAD NOW",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#2A4B4B",
+    "#C9B07A",
+    "#D3D3D3"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy brain-teasing escape room scenarios and testing their intelligence.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001604
+}

@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "422f7b98098a7efe",
+    "ad_unit_id": "422f7b98098a7efe",
+    "app_id": "5d3fa01b5c6ace393f6dc2b4",
+    "advertiser_name": "MindPal - Brain Training Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/preview",
+    "phashion_group": "422f7b98098a7efe",
+    "share": null,
+    "first_seen_at": "2023-04-10T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Play fun games to test your brain skills including problem solving, memory, attention and language. Play now to compare your brain score with your friends! 🚀",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand fails to fit geometric shapes into a silhouette under a high-IQ challenge headline.",
+    "visual_action": "A hand drags a blue circle and a pink triangle into a grey outline, triggering red 'X' symbols.",
+    "text_overlay": "ONLY PEOPLE WITH HIGH IQ CAN SOLVE THIS!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "rage_bait"
+  },
+  "scene_flow": [
+    "Hand attempts to place a blue circle and pink triangle into the grey outline, failing both times.",
+    "Hand tries to fit an orange shape and a purple square, failing again with red 'X' markers.",
+    "Hand makes a final attempt with a teal shape, resulting in another failure.",
+    "A large red 'FAIL' banner appears over the screen as the hand gives up."
+  ],
+  "on_screen_text": [
+    "ONLY PEOPLE WITH HIGH IQ CAN SOLVE THIS!",
+    "FAIL",
+    "mindpal"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#F2F2F2",
+    "#BDBDBD",
+    "#FF0000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adults interested in brain training and IQ challenges who are motivated by competitive or provocative claims.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014429999999999998
+}

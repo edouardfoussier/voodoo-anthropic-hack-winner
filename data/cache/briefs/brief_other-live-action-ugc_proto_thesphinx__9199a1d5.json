@@ -1,0 +1,29 @@
+{
+  "archetype_id": "other-live-action-ugc",
+  "target_game_id": "proto_thesphinx",
+  "title": "I Tried to Outsmart an Ancient AI",
+  "hook_3s": "Candlelit room, phone glowing gold — a woman whispers \"Is she still alive?\" and the screen answers YES.",
+  "scene_flow": [
+    "0-3s HOOK: Close-up POV — a 30-something in a dim study leans toward her phone, golden screen light on her face. Overlay: 'The AI knows who I'm thinking of. I have 20 questions.'",
+    "3-7s INTERROGATION: Quick cuts of voice questions ('Are they a musician?' 'Alive?' 'European?'), each answered by glowing gold YES/NO text on the dark UI. Tension builds with a low pulse.",
+    "7-11s DEDUCTION: She narrows her eyes, mouths 'no way…', taps the mic and whispers a guess. Screen flashes the silhouette of a famous figure resolving into a portrait.",
+    "11-14s PAYOFF: She gasps, leans back, hands on head — genuine shock that the AI nailed it (or she nailed it). Gold sparks across the UI.",
+    "14-15s CTA: Phone fills frame, app icon + tagline, finger taps Play."
+  ],
+  "visual_direction": "Mystical Minimalism rendered as cinematic UGC: a single subject shot POV-style in a near-black room (#100D06) lit almost entirely by the phone's golden glow (#D4A024) with warm cream highlights (#FCE588) on the face. Shallow depth of field, candle or single warm practical in background, no clutter. UI on screen is sparse — one question, one glowing answer at a time — so the device feels like an oracle, not an app. Sound design is hushed: breath, a low hum, a single chime on each AI answer. Tone is sophisticated curiosity, never goofy; think late-night puzzle solver, not TikTok dance.",
+  "text_overlays": [
+    "The AI picked a famous person.",
+    "I get 20 yes/no questions.",
+    "\"Are they still alive?\" — YES",
+    "\"Did they win a Nobel?\" — YES",
+    "no way it actually guessed…",
+    "Can you beat The Sphinx?"
+  ],
+  "cta": "Play The Sphinx",
+  "rationale": "We keep the archetype's winning ingredient — a single relatable human reacting in a dim room — but swap the Gen-Z dance for an adult \"interrogation + gasp\" beat that actually demos the voice yes/no deduction loop. This protects TheSphinx's premium dark-gold brand while borrowing UGC's scroll-stopping intimacy. UA team: test against a control with VO-only vs. whispered-diegetic audio; the whisper variant is our bet for thumb-stop on muted feeds via captions.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical, cinematic UGC photography: close-up of a 35-year-old woman's face half-lit by the warm golden glow of a smartphone in a near-pitch-black study, single candle bokeh behind her, expression of focused curiosity, phone screen visible showing minimalist dark UI with glowing serif text 'Are they still alive? — YES', color palette strictly #100D06 deep black background, #D4A024 golden screen light, #FCE588 cream skin highlights, Mystical Minimalism visual style, shallow depth of field, 35mm, grain, premium and mysterious mood",
+    "Storyboard frame 9:16 vertical: over-the-shoulder POV of hands holding a phone in a dark room, phone screen dominates frame showing a single glowing golden question 'Did they win a Nobel Prize?' on a near-black interface with a pulsing microphone icon, ambient candlelight, palette #100D06 / #D4A024 / #FCE588, Mystical Minimalism style, cinematic, on-screen overlay text 'I get 20 yes/no questions.', sophisticated late-night atmosphere",
+    "Storyboard payoff frame 9:16 vertical: a woman leans back from her phone with hands on her head, mouth open in genuine shock, illuminated only by golden light spilling from the device, faint sparks of gold particles drifting across the dark room, phone shows a resolved portrait silhouette in cream and gold, palette #100D06 #D4A024 #FCE588, Mystical Minimalism, overlay text 'no way it actually guessed…', cinematic UGC, premium and mystical"
+  ]
+}

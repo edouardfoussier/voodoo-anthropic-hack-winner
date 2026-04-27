@@ -1,0 +1,27 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "1423046460",
+  "title": "SMART → GENIUS → PSYCHOPATH: Territory Fill Meter",
+  "hook_3s": "A neon-yellow zone explodes outward across the map as a meter rockets from SMART to GENIUS — can you push it to PSYCHOPATH?",
+  "scene_flow": [
+    "0-3s: Top-down Paper.io 2 arena, player's small yellow territory in a sea of grey. Trail loops out and SLAMS shut — a huge chunk floods yellow. Meter pops up: 'SMART' lights up.",
+    "3-7s: Faster captures, two cyan and magenta opponents get cut off and eliminated via kill-feed. Territory % climbs 22% → 54%. Meter advances to 'GENIUS' with a satisfying chime.",
+    "7-12s: Camera zooms slightly as the player carves an absurdly long, risky loop around the entire remaining map, dodging an enemy trail by one pixel. Loop closes — screen floods yellow. Meter pings 'PSYCHOPATH' in glitching magenta.",
+    "12-15s: '99% MAP CAPTURED' stamp, coins/gems rain into HUD, CTA card slams in over the fully-yellow board."
+  ],
+  "visual_direction": "Authentic Paper.io 2 top-down camera, minimalist 3D paper-thin arena. Player territory in primary #FFD700 gold, rival zones in #00BFFF cyan and #FF00FF magenta on a soft off-white grid. Native HUD intact: top-left % progress bar, kill-feed ticker top-right, coin/gem counters. Meter overlay sits bottom-center as a clean horizontal bar with three stops, glowing in the palette accents. Motion is snappy, every loop-close triggers a quick screen-flash and bloom — no extra characters, no stock arcade tropes, just the territory expanding and meter climbing.",
+  "text_overlays": [
+    "SMART",
+    "GENIUS",
+    "How far can YOU go?",
+    "PSYCHOPATH 🤯",
+    "99% CAPTURED"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Paper.io 2 rotation is all unlabeled Unity playables and videos with no satisfaction-meter hook in market — this brings the trending SMART/GENIUS/PSYCHOPATH escalation framework that's spiking in casual UA but is underrepresented on this title. UA should test this against the existing Applovin playable as a video-first IPM lift play; the meter overlay is a cheap, modular asset we can A/B with different final-stage labels (PSYCHOPATH vs GODLIKE vs CHEATER).",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic Paper.io 2 in-game top-down view: a vibrant minimalist 3D arena with bright solid colors, player's gold #FFD700 territory occupying ~70% of a soft off-white paper grid, thin cyan #00BFFF and magenta #FF00FF rival zones being cut off, a glowing yellow trail mid-loop about to close a massive capture, native Paper.io 2 HUD visible (top-left territory percentage progress bar reading 70%, kill-feed text top-right, coin and gem counters), bottom-center horizontal three-stage meter overlay with the middle stop 'GENIUS' lit in neon magenta, no extra characters, crisp bloom on trail edges, high-contrast neon palette. [Audio: VO (gleeful, rising) 'Oh, that's GENIUS' / punchy upbeat trap 120BPM with rising synth riser / whoosh on trail draw, satisfying chime + bass thump on loop-close at 2.5s.]",
+    "Storyboard frame 1, aspect 9:16, Paper.io 2 top-down arena early game: small gold #FFD700 player territory in lower third of a pale grid, two opponent zones in cyan #00BFFF and magenta #FF00FF, a short yellow trail extending outward, vibrant minimalist 3D with bright solid colors, native HUD (progress bar at 18%, kill-feed empty, coin counter), bottom-center meter overlay with first stop 'SMART' just lighting up in gold, clean energetic competitive mood, no characters added. [Audio: VO (calm, curious) 'Start small...' / minimal trap kick 110BPM building / soft pen-on-paper SFX for trail, light ding when SMART lights at 1s.]",
+    "Storyboard frame 2, aspect 9:16, Paper.io 2 climactic top-down shot: arena nearly entirely flooded gold #FFD700, last sliver of cyan #00BFFF rival being eliminated, magenta #FF00FF accent glow around the screen edge, native HUD shows 99% progress bar, kill-feed text stacked top-right, coin/gem rain animation, vibrant minimalist 3D bright solid colors, bottom-center meter overlay fully maxed with 'PSYCHOPATH' stamped in glitching neon magenta, screen-flash bloom, no added characters. [Audio: VO (unhinged shout) 'PSYCHOPATH!' / hard-hitting trap drop 128BPM with 808s / screen-flash whoosh, coin cascade chimes, deep bass impact at 0.8s.]"
+  ]
+}

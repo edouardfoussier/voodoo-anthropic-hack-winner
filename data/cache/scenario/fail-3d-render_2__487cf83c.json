@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_ECVGsodYCL1Y31uKQrv1Wvxz?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRUNWR3NvZFlDTDFZMzF1S1FydjFXdnh6P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ZvOW37pUDycMgdAaDwvnfqbyzCpCO3KL3Ya5a-XpZB83Hh9PaDiZVyBJZya-FBoO1OhXQkXju8nMgR5SagjurxheFuqnc8elGihle2aBNGnci1Ld8JCs9YHUC2kDKoU1gzByhQAyucBc8yPPpA2-3fkW8SXWcfE6fVH-ZqyNjCQTxZzww%7Eye1nH0uSA5epfgcg2hB9Bo0KxBy9pgpzHu8NhuiNw-pIRA9IS5SIw-b7L4UJGH-fjib5XdipxaF-YGnSaDJMbgXjnLcitluGdc1qrCa40AInQMp8A0aLbtnsztQjSc50SHQEbeTCQeWn0ksAjKhCu4xjcShvXWwIUWyg__",
+  "job_id": "job_bhrAgy77HPNHjcRaoZasgQra",
+  "asset_id": "asset_ECVGsodYCL1Y31uKQrv1Wvxz",
+  "stub": false,
+  "prompt": "Storyboard frame 3, aspect 9:16, freeze-frame fail beat in Roof Rails: stubby cut-off balancing pole, runner teetering at the edge of a white #EAF6FA rooftop rail with a deep drop between pastel low-poly buildings under a #5CD6FF cyan sky, severed yellow pole pieces tumbling, slight Dutch-tilt camera, authentic HUD intact with progress bar and #FFC824 yellow level indicator, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, red stamp text 'DON'T DO THIS' overlaid, no textures, soft shadows",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

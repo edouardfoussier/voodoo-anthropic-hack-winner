@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "056b0ea0a0ef46dd",
+    "ad_unit_id": "056b0ea0a0ef46dd",
+    "app_id": "66c292ff6bbfce0e306de36b",
+    "advertiser_name": "Pokémon TCG Pocket",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ed18ea183840129/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ed18ea183840129/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1ed18ea183840129/preview",
+    "phashion_group": "056b0ea0a0ef46dd",
+    "share": null,
+    "first_seen_at": "2026-01-27T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "【自由気ままにコレクション】大迫力のポケモンカードをコレクション！",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Simultaneous opening of two digital Pokémon card packs.",
+    "visual_action": "Two smartphones side-by-side show the animation of swiping to open Pokémon card packs with text highlighting free daily packs.",
+    "text_overlay": "1日2パック無料の開封をすれば",
+    "voiceover_transcript": "1日2パック無料の開封をすれば",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Opening digital card packs on dual smartphone screens with text highlighting free daily packs.",
+    "Montage of individuals smiling and reacting to cards appearing on their phone screens.",
+    "Scenes of a couple and a family bonding over the game.",
+    "Final call-to-action screen with the game logo and download links."
+  ],
+  "on_screen_text": [
+    "1日2パック無料の",
+    "開封をすれば",
+    "毎日",
+    "小さな癒しが",
+    "毎日",
+    "楽しみが増える♪",
+    "毎日2パック無料で開封！",
+    "Pokémon TRADING CARD GAME Pocket",
+    "今すぐプレイ▶︎"
+  ],
+  "cta_text": "今すぐプレイ▶︎",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#D8E2FF",
+    "#FF66CC",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual Pokémon fans and mobile gamers looking for a low-commitment daily digital hobby.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001735
+}

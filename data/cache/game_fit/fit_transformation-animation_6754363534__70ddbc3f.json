@@ -1,0 +1,8 @@
+{
+  "archetype_id": "transformation-animation",
+  "visual_match": 15,
+  "mechanic_match": 8,
+  "audience_match": 12,
+  "overall": 11,
+  "rationale": "A Dragon Ball-style Super Saiyan transformation hook is fundamentally misaligned with Sand Loop: the high-energy shounen anime aesthetic (fiery oranges, dark blues, screaming voiceover) clashes with the calm, ASMR, pastel sky-blue/white sorting fantasy, and there's no narrative bridge from \"power-up punch\" to tap-to-sort-sand color matching. The audience overlap is also weak — anime action fans skew younger/male and seek combat catharsis, not satisfying pixel-art reveals. Skip this archetype; if leadership insists on testing \"transformation\" as an emotional pitch, reframe it as a sand-pile-to-pixel-art reveal transformation rather than borrowing IP-adjacent action tropes (also IP-risk concern with Goku likeness)."
+}

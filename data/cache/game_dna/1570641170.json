@@ -1,0 +1,32 @@
+{
+  "app_id": "1570641170",
+  "name": "Collect Em All! Clear the Dots",
+  "genre": "Puzzle",
+  "sub_genre": "Connect",
+  "core_loop": "Connect matching colored balls to clear them from the board, achieve specific level goals within a limited number of moves, and progress through increasingly difficult stages.",
+  "audience_proxy": "Casual mobile gamers of all ages, leaning slightly female, looking for a relaxing yet visually satisfying puzzle experience.",
+  "visual_style": "Bright, colorful, and clean 2D aesthetic with soft 3D shading on the interactive game pieces.",
+  "palette": {
+    "primary_hex": "#4B86D6",
+    "secondary_hex": "#F18332",
+    "accent_hex": "#E81E4D",
+    "description": "A clean white play area framed by a prominent blue top bar and a warm orange bottom banner, featuring vibrant, highly saturated colors for the game pieces."
+  },
+  "key_mechanics": [
+    "line-drawing",
+    "color-matching",
+    "goal-completion",
+    "move-management",
+    "power-up-activation"
+  ],
+  "character_present": false,
+  "ui_mood": "calm/satisfying",
+  "screenshot_signals": [
+    "grid of colored spheres",
+    "drawn lines connecting matching colors",
+    "top UI bar displaying level goals and remaining moves",
+    "explosive visual effects for rocket power-ups",
+    "promotional text banners at the bottom of the screen",
+    "mini-game interface with dice and paths"
+  ]
+}

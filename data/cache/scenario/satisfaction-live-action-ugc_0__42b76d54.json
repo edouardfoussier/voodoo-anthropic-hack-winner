@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_WcsL3jHtG568oVBAKWdT3eLE?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfV2NzTDNqSHRHNTY4b1ZCQUtXZFQzZUxFP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=fzqUE1SL8r4jbWSRXttLQv2IqUaQNyX5wu4rD1F2j5pphhI7tsXVnev2Zs12Cr6rVm0A6vLyRTEyoQiahexv7E6GIYPNOKW4fNJJXqZG19TOoSYGxiEBGoInW%7ErNC3wYMmfpeFh4TaUCksVLsF1EaQ%7EIFVzWZ5RPXWz6Bq5W%7EhWksVMIlihCkvYYzFjLOCcOpRKClVVwxB%7ETnYISRIy3pgawhwN0EE6uHP6QerdDQRBC4QhjtwaJ-r4T9O7Vzi5lG2Vr%7E7iI82jxOw2bMGMfJRwctZonn4viKDQJLp-G-LFd2sxikyA45%7EdqVaNrynXHkeMNuL8eOdYXCeIMUtNF%7EQ__",
+  "job_id": "job_2iWyEGPnqrQZe1CXWZ7Spjkg",
+  "asset_id": "asset_WcsL3jHtG568oVBAKWdT3eLE",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic UGC selfie-style photo: young woman lying on a couch holding a smartphone above her face, phone screen dominates 70% of the composition showing an in-game Helix Jump moment \u2014 a vertical stacked cyan #5CE1E6 helix tower with rotating platform discs, a glowing neon green #39FF14 bouncing ball mid-air between two discs, bright red #FF0000 trap segments on one disc, small score counter and combo multiplier in the top-left HUD exactly like Helix Jump, lighter pastel background inside the game screen, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters inside the game, on-screen text overlay 'POV: I cannot put this down', warm natural room lighting outside the phone, slight handheld feel, photorealistic UGC",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

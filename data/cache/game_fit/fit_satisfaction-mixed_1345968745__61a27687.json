@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 35,
+  "mechanic_match": 20,
+  "audience_match": 65,
+  "overall": 32,
+  "rationale": "The \"relaxing puzzle / hand-moves-vehicles\" hook is mechanically incompatible with Helix Jump — there's no grid, no stylus drag, and no parking/unblock logic; the game is reflex-based rotation and falling, not deliberate puzzle solving. Audience overlap is decent (broad casual mobile players), but the calm, satisfaction emotional pitch clashes with Helix Jump's energetic/competitive mood and neon palette, so adapting this hook would require a near-total rebuild rather than a swap-in. Recommend skipping, or only borrowing the \"Have you played a game that...\" VO framing applied to Helix's own bouncing/smashing footage."
+}

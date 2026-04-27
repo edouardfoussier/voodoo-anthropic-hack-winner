@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "1f9017e877e67d8e",
+    "ad_unit_id": "1f9017e877e67d8e",
+    "app_id": "55d93bf102ac645ad2090002",
+    "advertiser_name": "Gala - Bingo & Casino Games",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e511f04fd1464c8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e511f04fd1464c8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e511f04fd1464c8/preview",
+    "phashion_group": "1f9017e877e67d8e",
+    "share": null,
+    "first_seen_at": "2026-02-07T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "There are more chances to win than ever at the Gala Rewards Club.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman's yellow jumpsuit inflates as she interacts with a rewards app on a bus.",
+    "visual_action": "A woman in a yellow jumpsuit looks at her phone; the suit begins to puff out significantly.",
+    "text_overlay": "Claim Rewards",
+    "voiceover_transcript": "Get in on that Gala joy.",
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "A woman on a bus checks her phone and sees a Gala rewards notification.",
+    "Her yellow jumpsuit inflates to a massive size, causing her to take up the whole aisle.",
+    "She bounces out of the bus and down a residential street.",
+    "The Gala logo is displayed against a bright yellow background.",
+    "A responsible gambling message appears on a black screen."
+  ],
+  "on_screen_text": [
+    "GambleAware",
+    "18+",
+    "Gala",
+    "your balance 5000",
+    "Claim Rewards",
+    "WHERE A LITTLE Gala JOY GOES A LONG WAY",
+    "TAKE TIME TO THINK",
+    "taketimetothink.co.uk"
+  ],
+  "cta_text": "taketimetothink.co.uk",
+  "cta_timing_seconds": 14.0,
+  "palette_hex": [
+    "#F9E100",
+    "#2E3192",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adults in the UK interested in casual mobile gaming and betting apps.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001774
+}

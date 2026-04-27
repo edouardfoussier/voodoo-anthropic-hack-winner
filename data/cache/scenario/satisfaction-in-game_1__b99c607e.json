@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_qnJoPr8qVKUF1rRa5ZhoyLGX?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcW5Kb1ByOHFWS1VGMXJSYTVaaG95TEdYP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=FMhoiJiD36YdFSuQhr-BrDPkA0zqvSdByhKbIbgTpyWW8MkZ1EtjxmzCh6bYNy9bGaZ4PjJKDA2o2eKuwndGcecAMmNcrGbY7RDJEWwKoCUrAmpkDJ6EcxhyXPRKqdoexTDI1NcCFNybTX99jP10u2SnYoN3Xqh7NjqAinklNGyjqMVDS79S5U4-5a02NG3%7EGek5fvUj6DJi1ufA%7E-vsgR1hhwQUOKHaUcOn5rdv8oglTupvRULPLYvzfb%7EM-vcBFp12onDMwrffHenbn0RNuXvesWu7llesQ6qUeRldW9RqZHFpe7nUzt0tvHHJisO9-CWCCS%7Eb0ieODX%7E4MsyKLw__",
+  "job_id": "job_ew3m7nkJ2CKs5dkdoYmoyrVQ",
+  "asset_id": "asset_qnJoPr8qVKUF1rRa5ZhoyLGX",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, low-poly 3D bright colorful cartoonish style, mid-shot of an enlarged black hole swallowing an entire orange #FF9800 skyscraper that tilts and folds inward, cyan #29B6F6 sky background with a few low-poly clouds, bright yellow #FFEB3B floating score popup '+1,250' beside the hole, dynamic but clean composition, mobile ad framing, overlay text 'Just\u2026 swallow the whole city \ud83d\udd73\ufe0f'.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

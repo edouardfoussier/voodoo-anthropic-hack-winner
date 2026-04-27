@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "fa534c5c7c1abb47",
+    "ad_unit_id": "fa534c5c7c1abb47",
+    "app_id": "68130c5dc1a38845781b32d1",
+    "advertiser_name": "WW2 Duty: FrontLine Zone",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01dd3c3f60c6ee23/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01dd3c3f60c6ee23/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01dd3c3f60c6ee23/preview",
+    "phashion_group": "fa534c5c7c1abb47",
+    "share": null,
+    "first_seen_at": "2026-04-14T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-intensity FPS gameplay featuring a lava-skinned weapon and immediate level-up feedback.",
+    "visual_action": "First-person view of a player firing a glowing lava rifle at enemies in a blocky arena.",
+    "text_overlay": "¡¡SUBE DE NIVEL!!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Player engages an enemy at medium range with a lava-textured assault rifle.",
+    "A 'Level Up' notification in Spanish appears after the first kill.",
+    "The player maneuvers through a blocky, yellow and black arena to find more targets.",
+    "Close-quarters combat ensues, showing damage numbers and a green healing effect."
+  ],
+  "on_screen_text": [
+    "¡¡SUBE DE NIVEL!!",
+    "10",
+    "Catle [Asist...",
+    "drAma57",
+    "45"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#FF4500",
+    "#FFD700",
+    "#1A1A1A"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Young competitive gamers who enjoy fast-paced FPS titles within the Roblox ecosystem.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001382
+}

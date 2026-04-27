@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_xC91xKNpL2ji1Md7kskFBNaU?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeEM5MXhLTnBMMmppMU1kN2tza0ZCTmFVP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=DbV8lHjZiOKKPlTMdDCIvFWUDEFREfNfCuDetg17Cnt0DtcdW7mWn8i6gSQXhqFZbuEJwXrWfNjbsjN4teCqZZsoiYb-BTpHsf5BZaKGZ5pnOtiaFNZgTTObpnll5yBpaGQtrHvfJbyb3pczwf0CiSpboXJ%7EiCg2PqqJFqQ%7EQkJkZI7IlfRH9UVz9BY8pY2vbukurz7G8v9yQApgZu1aedtQi2rz8ZCS4IkDPmSQU%7ELwTDIXnHI7Ukuz0dGrT%7Ez32cOPtzdN7SPjfEZQMDYNENlxOxyJSd4oBf-dI0otxeMaVgBhUC7U6DUvMCVddVwFE320vmxD3tk-bNArozHKxg__",
+  "job_id": "job_YhDtKAjEVJKjkqBrAnu5sbjt",
+  "asset_id": "asset_xC91xKNpL2ji1Md7kskFBNaU",
+  "stub": false,
+  "prompt": "Storyboard frame 1, 9:16 vertical aspect ratio: overhead phone-screen view of a 3D Casual Abstract physics puzzle, a finger tapping to place a glowing amber block into a grid. Deep #20232B background, #403F6D purple grid frame, brilliant #FDBA4D yellow-orange highlight on the active block with subtle particle glow. Clean, calm, satisfying composition. Bold white text overlay at top: 'Then I tapped THIS block \ud83d\udc47'. Casual puzzle mobile ad style, crisp 3D render.",
+  "model_id": "flux.1-dev"
+}

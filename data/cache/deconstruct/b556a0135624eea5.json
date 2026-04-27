@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "b556a0135624eea5",
+    "ad_unit_id": "b556a0135624eea5",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/preview",
+    "phashion_group": "b556a0135624eea5",
+    "share": null,
+    "first_seen_at": "2026-04-17T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Intense mech combat showcasing a Triple Kill streak in a city environment.",
+    "visual_action": "A four-armed black mech fires rapidly at enemy targets while moving through a city.",
+    "text_overlay": "TRIPLE KILL",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Gameplay footage of a mech engaging multiple enemies in an urban setting.",
+    "Player achieves a 'Triple Kill' and 'Wrampage' through continuous fire.",
+    "Cinematic transition through a high-tech, orange-lit mechanical hatch.",
+    "Final brand reveal with the game logo and call to action."
+  ],
+  "on_screen_text": [
+    "TRIPLE KILL",
+    "COMMANDER",
+    "WRAMPAGE",
+    "KILL",
+    "WAR ROBOTS",
+    "PLAY FOR FREE!"
+  ],
+  "cta_text": "PLAY FOR FREE!",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#000000",
+    "#FF9900",
+    "#5C7C8A"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Competitive male gamers 18-35 interested in sci-fi combat and tactical shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016090000000000002
+}

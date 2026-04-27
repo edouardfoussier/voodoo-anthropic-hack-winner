@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_8mrMt4vSbUvyRJkdhaMY1gDv?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOG1yTXQ0dlNiVXZ5UkprZGhhTVkxZ0R2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=FL5NQyx4OwIe%7Eg%7EDgQbM3YEIiicxm5Jg423BdNPQnLfrpyoMkWR32VTkDHfD4nJ6YHNDVChzx2wsKkt6y%7E4uhRydBhcbtCG4-MCpr0rDVqubUsT7pQrbQEHISEcKENXghYY3rxTYG2lyN6EFhdia0Qx0hwKsrkCzL9MnaJr3qOmj2v1D31tJ-TEdogOUJ8qyzSckGGacXG9z1-PNwNOJ7CzR3l2xdONCv-e124T-Dmdd7dYemXEUtBwq5b5hwgznvHuWGO6Edp4zUm-aeFcLU8sX%7EDxMX3WzvbxVPwIrMcC5hQdQkubvdPzUaCkkKecQCMN3uPNrfcL6DvG2FzRBzg__",
+  "job_id": "job_nusSEPPVMHiULc9y3xvhLEgS",
+  "asset_id": "asset_8mrMt4vSbUvyRJkdhaMY1gDv",
+  "stub": false,
+  "prompt": "Storyboard frame 3, 9:16 vertical, authentic Roof Rails payoff moment: runner mid-air between two rooftops with an extremely long yellow #FFC824 stacked pole stretching across the frame, trail of collected yellow pole pieces and floating diamond gems behind, two more white rails visible ahead chaining into the distance, bright cyan #5CD6FF sky, pastel #EAF6FA building tops, 3D minimalist simple geometry clean uncluttered bright pastel style, in-game UI chrome intact (progress bar, diamond counter top-right, level indicator), big yellow burst overlay text '+250 COMBO!' in bold rounded font, reads as a real Roof Rails screenshot not a render",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

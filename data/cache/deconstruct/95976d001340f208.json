@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "95976d001340f208",
+    "ad_unit_id": "95976d001340f208",
+    "app_id": "67f9b33c67bda8def67d85d8",
+    "advertiser_name": "Fanatics Casino - Real Money",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76c0c4e9d4720eb6/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76c0c4e9d4720eb6/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76c0c4e9d4720eb6/preview",
+    "phashion_group": "95976d001340f208",
+    "share": null,
+    "first_seen_at": "2026-03-31T00:00:00",
+    "last_seen_at": "2026-04-18T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "New customers get up to 1000 FREE SPINS on Triple Cash Eruption! Wager $10, get 100 free spins/day for 10 days!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy intro with fiery visuals and a bold text overlay promising big wins.",
+    "visual_action": "Text 'SPIN HOT, WIN HOTTER' zooms in over a swirling lava vortex background.",
+    "text_overlay": "SPIN HOT, WIN HOTTER",
+    "voiceover_transcript": "Spin hot, win hotter. New customers get up to 1000 free spins",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Intro with logo and 'Spin Hot, Win Hotter' text over a lava background.",
+    "Offer display: '1000 FREE SPINS' for new customers with wagering requirements.",
+    "Gameplay footage of 'Triple Cash Eruption' showing a 'BIG WIN' animation.",
+    "Final recap of the offer with the game logo and app download prompt."
+  ],
+  "on_screen_text": [
+    "TRIPLE CASH ERUPTION",
+    "FANATICS CASINO",
+    "SPIN HOT, WIN HOTTER",
+    "New Customers",
+    "1000 FREE SPINS",
+    "Wager $10, get 100 free spins a day for 10 days on Triple Cash Eruption.",
+    "BIG WIN",
+    "Download Fanatics Casino now to play."
+  ],
+  "cta_text": "Download Fanatics Casino now to play.",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#000000",
+    "#FF0000",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult casino enthusiasts and sports bettors looking for high-value introductory offers.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018579999999999998
+}

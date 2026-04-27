@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_9zeeXuX779Yj6dazhmFjF514?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOXplZVh1WDc3OVlqNmRhemhtRmpGNTE0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ozDyes-HncUDJFr9VlG4wBNuiZpV7WL0tQXeORKR2-lmqZkEhUApczmC2r7K0VNS3mQxC9ZDf6hc-CM7pY1GcSHvqqcjDDY20lVBeKZTkphpluB6zLbxLiEuhx%7ECPyfiPffuj%7EjZfSnS1M12zditSfN4XjSzo6ssNPTEGgyaARoZrJv59NSj8e4XM7XnxfamXgRMwctKahjtYDZ2s-JD4gyZsG9DJ8RbBclGQJv4fKMjKT4aEODsTyilqL6PXwMRg1TkXjm9lsfNjbJQ%7EB6APvpiJ%7EQETG70LoMjRuMYl9lQhnKdSwgR8wV5ZMMTqSH%7EtHHdRGbvmXSkrd47KRjDxw__",
+  "job_id": "job_FUEVw4yCDJhxuKPb6v2invpL",
+  "asset_id": "asset_9zeeXuX779Yj6dazhmFjF514",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, authentic Flappy Dunk gameplay capture: cartoon basketball mid-arc swishing through a magenta #D81155 hoop on a beige #EAD5A0 court, blue #5CB3FF combo explosion particles radiating outward, 'COMBO x5' burst text in chunky blue letters, score counter '14' top-left and opponent score '11' top-right with split scoreline, hearts indicator visible, thick black outlines, flat shading, high-contrast vibrant colors, on-screen text 'COMBO x5' overlay, 2D cartoon hypercasual arcade style, no characters beyond the ball, in-game HUD chrome only",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

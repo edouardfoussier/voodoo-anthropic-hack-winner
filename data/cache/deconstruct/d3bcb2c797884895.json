@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "d3bcb2c797884895",
+    "ad_unit_id": "d3bcb2c797884895",
+    "app_id": "57d6bb900211a6b7290001a8",
+    "advertiser_name": "Merge Dragons!",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/240d92a37725b9e5/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/240d92a37725b9e5/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/240d92a37725b9e5/preview",
+    "phashion_group": "d3bcb2c797884895",
+    "share": null,
+    "first_seen_at": "2026-04-24T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Happy Merge! Unlock the mystery of Dragonia! 🤩",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A sad 3D dragon laments the disappearance of all the eggs in a mysterious forest.",
+    "visual_action": "Close-up of a 3D animated dragon's face with a sad expression, followed by shots of empty nests.",
+    "text_overlay": "They are gone every last egg vanished without a trace",
+    "voiceover_transcript": "They are gone... every last egg... vanished without a trace.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Close-up of a sad 3D dragon speaking about missing eggs.",
+    "Visuals of empty nests and a stone dragon statue in a dark forest.",
+    "A mysterious glowing blue egg appears amidst dark vines.",
+    "A magical golden portal effect transitions to the game logo.",
+    "Final call to action screen asking the player to help find the eggs."
+  ],
+  "on_screen_text": [
+    "They are gone",
+    "every last egg",
+    "vanished without a trace",
+    "Merge Dragons!",
+    "Help find the eggs!",
+    "Play Now"
+  ],
+  "cta_text": "Play Now",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#2D1B33",
+    "#E88E4A",
+    "#4A5D23"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual gamers who enjoy fantasy-themed collection and puzzle games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001414
+}

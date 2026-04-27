@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "9d0ac7da1544afd7",
+    "ad_unit_id": "9d0ac7da1544afd7",
+    "app_id": "6178e7bfdb622901de5dd950",
+    "advertiser_name": "Pikmin Bloom",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/preview",
+    "phashion_group": "9d0ac7da1544afd7",
+    "share": null,
+    "first_seen_at": "2026-03-17T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "ピクミンと毎日を過ごして、仲良し度をあげよう",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Pikmin characters gather in a field with a question about growing them on a phone.",
+    "visual_action": "Various Pikmin stand around everyday objects like a cup and scissors on a green field.",
+    "text_overlay": "スマホでピクミンを育てられる？",
+    "voiceover_transcript": "スマホでピクミンを育てられる？",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of Pikmin in a field with a question about growing them on mobile.",
+    "Demonstration of planting seedlings in the game interface.",
+    "Showing the player character walking on a map with Pikmin following.",
+    "Visual of Pikmin growing and appearing on screen.",
+    "Final call to action with the game logo and download link."
+  ],
+  "on_screen_text": [
+    "スマホでピクミンを育てられる？",
+    "苗を植えて・・・",
+    "歩くと・・・",
+    "ピクミンが育つよ！",
+    "PIKMIN BLOOM",
+    "スマホにピクミン。",
+    "#ピクミンブルーム",
+    "無料ダウンロード"
+  ],
+  "cta_text": "無料ダウンロード",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#76C945",
+    "#FFFFFF",
+    "#E0E0E0"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile gamers and Nintendo fans who enjoy walking and collecting cute characters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001689
+}

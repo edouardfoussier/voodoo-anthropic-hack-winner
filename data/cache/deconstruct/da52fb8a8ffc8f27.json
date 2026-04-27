@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "da52fb8a8ffc8f27",
+    "ad_unit_id": "da52fb8a8ffc8f27",
+    "app_id": "56fee3eff49ea42a540000d4",
+    "advertiser_name": "BURGER KING App",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d45d6739f32d4ac1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d45d6739f32d4ac1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d45d6739f32d4ac1/preview",
+    "phashion_group": "da52fb8a8ffc8f27",
+    "share": null,
+    "first_seen_at": "2026-03-12T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Jetzt probieren: Baby Whopper®, Baby Big King®, Baby Steakhouse im Brioche Bun.",
+    "button_text": "Jetzt bestellen",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman's indecision at a burger counter is met with a dramatic solution from the employee.",
+    "visual_action": "Woman looking confused at the counter, then a sudden shift to dramatic blue lighting.",
+    "text_overlay": null,
+    "voiceover_transcript": "Whopper, Big King... oder Steakhouse?",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Woman at counter trying to decide between three burgers.",
+    "Employee suggests a third option, triggering a dramatic mental sequence.",
+    "Employee reveals the 'Baby Burger' box containing all three burgers.",
+    "Woman eats the mini burgers with satisfaction.",
+    "End card shows the '3 in 1' offer and brand logo."
+  ],
+  "on_screen_text": [
+    "Whopper",
+    "Big King",
+    "Steakhouse",
+    "BABY BURGER",
+    "3 in 1",
+    "Baby Whopper",
+    "Baby Steakhouse",
+    "Baby Big King",
+    "ENTSCHEID' DICH FÜR ALLE!",
+    "JETZT PROBIEREN"
+  ],
+  "cta_text": "JETZT PROBIEREN",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#502D16",
+    "#D62300",
+    "#F5AF19"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Hungry fast-food fans who have trouble deciding on just one menu item.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017829999999999999
+}

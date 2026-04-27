@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "d78f1b1290f537d2",
+    "ad_unit_id": "d78f1b1290f537d2",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/preview",
+    "phashion_group": "d78f1b1290f537d2",
+    "share": null,
+    "first_seen_at": "2025-08-29T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "New robots, new epic victories!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Re-engagement message featuring a lineup of mechs and celebratory confetti.",
+    "visual_action": "A group of mechs stands in a dark environment as 3D text 'We miss you!' drops into the frame with confetti.",
+    "text_overlay": "We miss you!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Initial shot of a diverse lineup of mechs standing in a dark, starry environment.",
+    "3D animated text 'We miss you!' drops into the center of the frame accompanied by falling confetti.",
+    "A green 'Comeback' button appears at the bottom of the screen to encourage player return.",
+    "The video transitions to a TikTok end card showing the creator's handle."
+  ],
+  "on_screen_text": [
+    "We miss you!",
+    "Comeback",
+    "@user163866274"
+  ],
+  "cta_text": "Comeback",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#0b0b1a",
+    "#4b0082",
+    "#00ff00"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Lapsed players of mobile mech combat games who have recently stopped playing.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001592
+}

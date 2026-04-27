@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "b41ed40ec4a72847",
+    "ad_unit_id": "b41ed40ec4a72847",
+    "app_id": "5f3497f56da28b56fab62a90",
+    "advertiser_name": "Bingo Clash: Win Real Cash",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12fd964daa78c1a3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12fd964daa78c1a3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12fd964daa78c1a3/preview",
+    "phashion_group": "b41ed40ec4a72847",
+    "share": null,
+    "first_seen_at": "2026-01-29T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Skill-based Real Money Game!!!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman plays Bingo Clash in the passenger seat of a car, highlighting the 'passenger princess' lifestyle.",
+    "visual_action": "Close-up of a phone screen playing a bingo game inside a moving vehicle.",
+    "text_overlay": "POV: Being a Passenger Princess while I win real money playing Bingo Clash",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Close-up of a phone screen playing Bingo Clash in a car passenger seat.",
+    "The woman holding the phone smiles at the camera while her partner drives.",
+    "Close-up of the phone showing a PayPal balance and a list of recent payouts from the game.",
+    "End card with the game logo, 'PLAY NOW' button, and legal disclaimers."
+  ],
+  "on_screen_text": [
+    "POV: Being a Passenger Princess while I win real money playing Bingo Clash",
+    "PayPal Balance $78.07",
+    "Recent activity Bingo Clash GAME +$11.42",
+    "Bingo Clash GAME +$21.36",
+    "Bingo Clash GAME +$19.61",
+    "Bingo Clash GAME +$17.85",
+    "Bingo Clash GAME +$13.47",
+    "BINGO",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 6.5,
+  "palette_hex": [
+    "#FFFFFF",
+    "#000000",
+    "#5D2E8C"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Young women who enjoy casual mobile games and the idea of earning extra cash during downtime.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016610000000000001
+}

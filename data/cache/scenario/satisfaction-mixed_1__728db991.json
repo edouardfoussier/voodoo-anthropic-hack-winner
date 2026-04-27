@@ -1,0 +1,11 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_FXSuvaZ5JN3ZYPCMd9kEMjBQ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRlhTdXZhWjVKTjNaWVBDTWQ5a0VNakJRP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=PEfS9NR9vkcc10LRV1EyNJUbfonxsv5kGKHZDqqi28hklTFAL-4e%7EggJCp%7EruVWSTNopPhjBRAeucmNQGsiCINAsQp1ahveHV5L04s0EGj0gLIy99diEAZKI8qSMgl501WJgF-j2HLyAFu6Agj2zf4N8dvG0a5LCalhnVJIJ-kUP-eZtcIrnZH2w9QOadtACFT5razxVekJOJErzuvk2-t9r7YUT49LacBpTX%7EWFu7Smk9b-3-YyZETG4dlOC0LYiWw%7E2sSGG5Ks0aBklc8BhCJVDyHyOA4ogYkPpSMerzmeeZs1STwm568sFKsygXl21yvbN-Jx6f93OXqlWE%7Ey8g__",
+  "job_id": "job_ZXTK9GYbBLVConT9eRs6Fjr8",
+  "asset_id": "asset_FXSuvaZ5JN3ZYPCMd9kEMjBQ",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style, mid-shot of a phone screen showing a chain reaction in progress: dozens of glowing yellow-orange (#FDBA4D) balls bouncing across a dark navy (#20232B) grid framed in deep purple (#403F6D), motion blur trails, shattering 3D block obstacles, particle sparks, on-screen text 'Watch it BOUNCE.' in bold white type, satisfying cascade composition, vibrant accent against moody background.",
+  "model_id": "flux.1-dev",
+  "mode": "img2img",
+  "reference_image": "01.png",
+  "img2img_strength": 0.6
+}

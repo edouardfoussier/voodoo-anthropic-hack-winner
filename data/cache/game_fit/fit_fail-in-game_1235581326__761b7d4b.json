@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 22,
+  "mechanic_match": 15,
+  "audience_match": 55,
+  "overall": 25,
+  "rationale": "This is a classic Bus Jam / parking-puzzle fail hook — the mechanic (drag-to-route vehicles, plan-ahead spatial puzzle) has zero overlap with Flappy Dunk's tap-to-fly reflex arcade loop, so adapting it would be misleading creative that tanks post-install retention. Visually it also clashes: the white/green/blue puzzle palette and top-down board view don't match Flappy Dunk's beige+magenta side-scrolling cartoon world with a character avatar. Only the broad hypercasual audience weakly overlaps; do not greenlight this archetype — if you want to borrow the \"fail + can you win?\" framing, rebuild it natively around a near-miss hoop combo instead."
+}

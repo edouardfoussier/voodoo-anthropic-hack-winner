@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_utNmijJn9n6c2AMajd9eEWHD?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF91dE5taWpKbjluNmMyQU1hamQ5ZUVXSEQqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=MVzZN-PCk%7EPk0RTgQDUoKArB2VKPbwnYw6sKhufMKLiPn2nH4uJFsmOuA1E3AGhju4HY%7E9x-Ap3XSWs7MF6kab%7EmUD5oPamsaqspgjFGoESvOTb4M-AOurU%7E4yvX8Syj0pu-w6Io2-uDEwfQi%7Ed-5hWssw3HRqbX%7EAixX24jUjM1I%7EmEYaqC3XbQ4U01hicwmacqnj9RnCJ7m6aP26Hc37Qem0ruOpWSxf2wsMfi2siNdtlGo5sUiriEQpr62IyJD3JZXlF04cC%7Euxk%7E6jpVu6uHOpi8OWX4aOh077nvfdEsl6cmD51ehV0w7NMHnMMYbZ0MPhk6exxDB83pyJwLWA__",
+  "job_id": "job_MYcSiUCJwLqH27oH3WJM8bJE",
+  "asset_id": "asset_utNmijJn9n6c2AMajd9eEWHD",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Hero frame, aspect 9:16, authentic Paper.io 2 in-game top-down view: a vibrant minimalist 3D arena with bright solid colors, player's gold #FFD700 territory occupying ~70% of a soft off-white paper grid, thin cyan #00BFFF and magenta #FF00FF rival zones being cut off, a glowing yellow trail mid-loop about to close a massive capture, native Paper.io 2 HUD visible (top-left territory percentage progress bar reading 70%, kill-feed text top-right, coin and gem counters), bottom-center horizontal three-stage meter overlay with the middle stop 'GENIUS' lit in neon magenta, no extra characters, crisp bloom on trail edges, high-contrast neon palette. [Audio: VO (gleeful, rising) 'Oh, that's GENIUS' / punchy upbeat trap 120BPM with rising synth riser / whoosh on trail draw, satisfying chime + bass thump on loop-close at 2.5s.]",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": false,
+  "audio": false
+}

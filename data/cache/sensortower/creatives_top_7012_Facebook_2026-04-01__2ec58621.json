@@ -1,0 +1,84 @@
+{
+  "count": 819,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "a501f1d09aa3b810",
+      "app_id": "582219400211a6c9240005fc",
+      "network": "Facebook",
+      "phashion_group": "a501f1d09aa3b810",
+      "ad_type": "video",
+      "first_seen_at": "2025-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a501f1d09aa3b810",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Now",
+          "button_text": "Play Game",
+          "message": "Fun puzzles & stories."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "582219400211a6c9240005fc",
+        "canonical_country": "US",
+        "name": "Gardenscapes",
+        "publisher_name": "Playrix",
+        "publisher_id": "5614b8de3f07e25d29001b9e",
+        "humanized_name": "Gardenscapes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/64/1e1964c3-4291-3b5f-c6e0-dae70c445d99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "582219400211a6c9240005fc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "9eb52675da998d86",
+      "app_id": "61707ce0958b566083090400",
+      "network": "Facebook",
+      "phashion_group": "9eb52675da998d86",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-21",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "9eb52675da998d86",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00668cf70a9f2e72/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Free Thrilling Story \ud83d\udd0d",
+          "button_text": "Play Game",
+          "message": "\ud83d\udd0d Ready for the investigation?\nFind hidden objects, solve puzzles, uncover crimes."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "61707ce0958b566083090400",
+        "canonical_country": "US",
+        "name": "Mystery Files: Hidden Objects",
+        "publisher_name": "Do Games",
+        "publisher_id": "5e645401bbe072287b609648",
+        "humanized_name": "Mystery Files",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/c9/24/79c9246d-2a63-5823-4a46-54551ba42e06/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "61707ce0958b566083090400",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

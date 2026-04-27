@@ -1,0 +1,431 @@
+{
+  "count": 514,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "cced451a67abc4dd",
+      "app_id": "55d939bf02ac645ad2026001",
+      "network": "Instagram",
+      "phashion_group": "cced451a67abc4dd",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-08",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "cced451a67abc4dd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ca36348299fe8b40/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ca36348299fe8b40/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ca36348299fe8b40/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Your Chance to Play On The Pitch\ud83d\ude4c",
+          "button_text": "Learn More",
+          "message": "Feel the history and passion of legends before you. Now it\u2019s your turn. Opt in for a chance to play at Anfield."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d939bf02ac645ad2026001",
+        "canonical_country": "GB",
+        "name": "Ladbrokes Sports Betting App",
+        "publisher_name": "Entain",
+        "publisher_id": "56289dc502ac6486a70076c6",
+        "humanized_name": "Ladbrokes Sports Betting App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/ad/f9/e8adf94e-b0f6-cab8-16cb-936896f71376/Ladbrokes_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d939bf02ac645ad2026001",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "1f9017e877e67d8e",
+      "app_id": "55d93bf102ac645ad2090002",
+      "network": "Instagram",
+      "phashion_group": "1f9017e877e67d8e",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-07",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "1f9017e877e67d8e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e511f04fd1464c8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e511f04fd1464c8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e511f04fd1464c8/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join Gala",
+          "button_text": "Learn More",
+          "message": "There are more chances to win than ever at the Gala Rewards Club."
+        },
+        {
+          "id": "d30d349f52a8366f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e511f04fd1464c8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e511f04fd1464c8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e511f04fd1464c8/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join Gala",
+          "button_text": "Learn More",
+          "message": "Collect free Gala Points to use on wins you want at the Gala Rewards Club. There are more chances to win than ever at Gala."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93bf102ac645ad2090002",
+        "canonical_country": "GB",
+        "name": "Gala - Bingo & Casino Games",
+        "publisher_name": "Gala",
+        "publisher_id": "59baf7e50211a6be9ed99c29",
+        "humanized_name": "Gala - Bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/B9zokV-YpTRrQrxy7kTjONc3B62-EZyEOb_nPsWnDvAg1yjoiFi2_ayGNXcmc5KYXzJ_d9OwcQ6duuleO5-JLro=s150",
+        "os": "unified",
+        "id": "55d93bf102ac645ad2090002",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fc5ebbbc928a7c4d",
+      "app_id": "556f4a4fa3f735a75800008a",
+      "network": "Instagram",
+      "phashion_group": "fc5ebbbc928a7c4d",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-08",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "fc5ebbbc928a7c4d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ba1c8da39ee40d08/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ba1c8da39ee40d08/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ba1c8da39ee40d08/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "bet365\u2122 | New Customer Offer",
+          "button_text": "Download",
+          "message": "\ud83c\udfc6 New Customers: \u00a330 in Free Bets when you bet \u00a310!\nAvailable to use this UEFA Champions League Matchweek.\n18+ | GambleAware.Org"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "556f4a4fa3f735a75800008a",
+        "canonical_country": "GB",
+        "name": "bet365 - Sportsbook & Casino",
+        "publisher_name": "bet365 (Hillside Technology Limited)",
+        "publisher_id": "5614c91b3f07e25d2900cf16",
+        "humanized_name": "bet365 - Sportsbook",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/52/7a/a6527a70-9721-e55c-e1e4-7626e7fca6f3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "556f4a4fa3f735a75800008a",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a7b67c0e55e21cd2",
+      "app_id": "59baf7f70211a6be9ed99cac",
+      "network": "Instagram",
+      "phashion_group": "a7b67c0e55e21cd2",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-08",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a7b67c0e55e21cd2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ea457ea939cd15f4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ea457ea939cd15f4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ea457ea939cd15f4/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Deal or No Deal for FREE \ud83d\udcb0",
+          "button_text": "Play Game",
+          "message": "\ud83c\udf81 Experience the thrill of Deal or No Deal \u2013 exclusive to tombola! Ready to take on the challenge?\nWin up to \u00a31,000 for FREE! \ud83d\udcb8\nSMS opt in required. 18+ gambleaware.org. T&Cs Apply"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "59baf7f70211a6be9ed99cac",
+        "canonical_country": "GB",
+        "name": "tombola bingo \u2013 UK Bingo Games",
+        "publisher_name": "PokerStars",
+        "publisher_id": "5614c38f3f07e25d2900778c",
+        "humanized_name": "tombola bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/jAVRTgNtmmV2-6bqRfAJrSqZj-87Yl30aBNVoMOBzQRCh35ysE1d42a5p-E3Vy2e2DDi=s150",
+        "os": "unified",
+        "id": "59baf7f70211a6be9ed99cac",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "262760d6038370ba",
+      "app_id": "55d939bf02ac645ad2026001",
+      "network": "Instagram",
+      "phashion_group": "262760d6038370ba",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-09",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "262760d6038370ba",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e19449314f87d7be/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e19449314f87d7be/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e19449314f87d7be/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Amazing Link Odin\u26a1",
+          "button_text": "Learn More",
+          "message": "Follow the Rainbow Bridge \ud83c\udf08 Mighty wins await! That's Ladisfaction! \ud83e\udd29"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d939bf02ac645ad2026001",
+        "canonical_country": "GB",
+        "name": "Ladbrokes Sports Betting App",
+        "publisher_name": "Entain",
+        "publisher_id": "56289dc502ac6486a70076c6",
+        "humanized_name": "Ladbrokes Sports Betting App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/ad/f9/e8adf94e-b0f6-cab8-16cb-936896f71376/Ladbrokes_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d939bf02ac645ad2026001",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c2f9c449b1c44c66",
+      "app_id": "55d93bf102ac645ad2090002",
+      "network": "Instagram",
+      "phashion_group": "c2f9c449b1c44c66",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-05",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "c2f9c449b1c44c66",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/940578e6169be1b8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/940578e6169be1b8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/940578e6169be1b8/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Daily Free Spin",
+          "button_text": "Learn More",
+          "message": "Whirl our Daily Free Spin for free chances to win cash & more at Gala."
+        },
+        {
+          "id": "ecf761c2adfbb4a5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/940578e6169be1b8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/940578e6169be1b8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/940578e6169be1b8/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Daily Free Spin",
+          "button_text": "Learn More",
+          "message": "Whirl our Daily Free Spin reel for free chances to win up to \u00a350 cash and more."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93bf102ac645ad2090002",
+        "canonical_country": "GB",
+        "name": "Gala - Bingo & Casino Games",
+        "publisher_name": "Gala",
+        "publisher_id": "59baf7e50211a6be9ed99c29",
+        "humanized_name": "Gala - Bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/B9zokV-YpTRrQrxy7kTjONc3B62-EZyEOb_nPsWnDvAg1yjoiFi2_ayGNXcmc5KYXzJ_d9OwcQ6duuleO5-JLro=s150",
+        "os": "unified",
+        "id": "55d93bf102ac645ad2090002",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e348702840d54a9f",
+      "app_id": "55d939bf02ac645ad2026001",
+      "network": "Instagram",
+      "phashion_group": "e348702840d54a9f",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-08",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "e348702840d54a9f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c83f9a20108a890/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c83f9a20108a890/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6c83f9a20108a890/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Midas Dynasty Coins Ultra Link&Win\u2728",
+          "button_text": "Learn More",
+          "message": "Got the golden touch? \u2728 Win up to \u00a350K! That's Ladisfaction! \ud83e\udd29"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d939bf02ac645ad2026001",
+        "canonical_country": "GB",
+        "name": "Ladbrokes Sports Betting App",
+        "publisher_name": "Entain",
+        "publisher_id": "56289dc502ac6486a70076c6",
+        "humanized_name": "Ladbrokes Sports Betting App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/ad/f9/e8adf94e-b0f6-cab8-16cb-936896f71376/Ladbrokes_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d939bf02ac645ad2026001",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c4082447033cec6a",
+      "app_id": "614c82f25f0ecd1938ee04dd",
+      "network": "Instagram",
+      "phashion_group": "c4082447033cec6a",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-03",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "c4082447033cec6a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8542151866ccfcc/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8542151866ccfcc/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e8542151866ccfcc/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Install Now",
+          "message": "Looking for fun? Play \u00a315 and get \u00a340 plus 50 Free Spins \u2764\ufe0f"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "614c82f25f0ecd1938ee04dd",
+        "canonical_country": "GB",
+        "name": "Heart Bingo: Casino & Slots",
+        "publisher_name": "BetVictor",
+        "publisher_id": "59baf7ef0211a6be9ed99c70",
+        "humanized_name": "Heart Bingo",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/87/2d/c1872dda-0aa6-941c-54f7-42dcc4427456/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "614c82f25f0ecd1938ee04dd",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "91b780f927527f19",
+      "app_id": "55d93b9302ac645ad207f208",
+      "network": "Instagram",
+      "phashion_group": "91b780f927527f19",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-08",
+      "last_seen_at": "2026-04-09",
+      "creatives": [
+        {
+          "id": "91b780f927527f19",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8eb33b80ad8dccb0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8eb33b80ad8dccb0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8eb33b80ad8dccb0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Bet \u00a310 & Get \u00a310 on racing multis\ud83c\udfc7",
+          "button_text": "Learn More",
+          "message": "Stick with the favourites"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93b9302ac645ad207f208",
+        "canonical_country": "GB",
+        "name": "Betfair Sports Betting",
+        "publisher_name": "Betfair",
+        "publisher_id": "56289d9e02ac6486a7005316",
+        "humanized_name": "Betfair Sports Betting",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/e8/0a/8ce80ac7-3772-1724-8c2b-4e45ed93f90d/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93b9302ac645ad207f208",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "833110b89f19b145",
+      "app_id": "55d939bf02ac645ad2026001",
+      "network": "Instagram",
+      "phashion_group": "833110b89f19b145",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-15",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "833110b89f19b145",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/accf1bdf55cde999/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/accf1bdf55cde999/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/accf1bdf55cde999/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Bet Builder+",
+          "button_text": "Learn More",
+          "message": "\u26bd\ud83c\udfc7Our Bet Builder got Bigger & Better! \ud83c\udfc7\u26bd"
+        },
+        {
+          "id": "d766b07f09105b40",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/accf1bdf55cde999/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/accf1bdf55cde999/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/accf1bdf55cde999/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Bet Builder+",
+          "button_text": "Play Game",
+          "message": "\u26bd\ud83c\udfc7Our Bet Builder just got Bigger & Better! \ud83c\udfc7\u26bd"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d939bf02ac645ad2026001",
+        "canonical_country": "GB",
+        "name": "Ladbrokes Sports Betting App",
+        "publisher_name": "Entain",
+        "publisher_id": "56289dc502ac6486a70076c6",
+        "humanized_name": "Ladbrokes Sports Betting App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/ad/f9/e8adf94e-b0f6-cab8-16cb-936896f71376/Ladbrokes_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d939bf02ac645ad2026001",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

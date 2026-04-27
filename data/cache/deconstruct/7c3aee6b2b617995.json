@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "7c3aee6b2b617995",
+    "ad_unit_id": "7c3aee6b2b617995",
+    "app_id": "684fe87527e2c18384d24336",
+    "advertiser_name": "Huntopia",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00dfe3a31243e8ea/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00dfe3a31243e8ea/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00dfe3a31243e8ea/preview",
+    "phashion_group": "7c3aee6b2b617995",
+    "share": null,
+    "first_seen_at": "2025-12-15T00:00:00",
+    "last_seen_at": "2026-04-12T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Introduction of a new 'Warrior' character class with stats and traits.",
+    "visual_action": "A 2D anime-style warrior character is displayed on a parchment-like background with skill icons and character details.",
+    "text_overlay": "Warrior, Personality: Mysterious and pround, Gift: 100% of affinity for pets, Tribe: Forest, NEW PROFESSION ONLINE, SSR",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the 'Warrior' character with a detailed stat sheet and personality traits.",
+    "Visual focus on the character's tribal design and idle animation.",
+    "Highlighting the 'SSR' rarity and the announcement of the new profession being online."
+  ],
+  "on_screen_text": [
+    "Warrior",
+    "Personality: Mysterious and pround",
+    "Gift: 100% of affinity for pets",
+    "Tribe: Forest",
+    "NEW PROFESSION ONLINE",
+    "SSR"
+  ],
+  "cta_text": "NEW PROFESSION ONLINE",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#F7E18C",
+    "#A64B29",
+    "#1A1A1A"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy anime-style gacha RPGs and character progression.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016350000000000002
+}

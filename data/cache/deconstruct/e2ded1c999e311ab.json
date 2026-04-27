@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "e2ded1c999e311ab",
+    "ad_unit_id": "e2ded1c999e311ab",
+    "app_id": "55d93a4202ac645ad203fe75",
+    "advertiser_name": "Betclic Paris Sportifs & Poker",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/727a558871ec343e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/727a558871ec343e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/727a558871ec343e/preview",
+    "phashion_group": "e2ded1c999e311ab",
+    "share": null,
+    "first_seen_at": "2026-04-06T00:00:00",
+    "last_seen_at": "2026-04-10T00:00:00",
+    "video_duration": 8.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🇪🇸 BARCELONE vs A. MADRID 🇪🇸\nParie sur le meilleur du foot européen avec Betclic ! 🏆",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Promotional offer for a Barcelona vs. Atletico Madrid football match with a 100€ bonus.",
+    "visual_action": "Animated soccer jerseys for Barcelona and Atletico Madrid appear side-by-side with betting odds and a pulsing bonus offer.",
+    "text_overlay": "JUSQU'À 100€ EN FREEBETS remboursés*",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Matchup reveal between Barcelona and Atletico Madrid with team jerseys.",
+    "Betting odds for home win, draw, and away win are displayed.",
+    "Promotional offer of up to 100€ in freebets pulses at the top of the screen.",
+    "Legal gambling warnings and government logos remain static at the bottom."
+  ],
+  "on_screen_text": [
+    "100€",
+    "Barcelona",
+    "1,49",
+    "VS",
+    "Ati. Madrid",
+    "JUSQU'À 100€ EN FREEBETS remboursés*",
+    "Nul 4,50",
+    "4,85",
+    "GOUVERNEMENT"
+  ],
+  "cta_text": "JUSQU'À 100€ EN FREEBETS remboursés*",
+  "cta_timing_seconds": 0.5,
+  "palette_hex": [
+    "#004D98",
+    "#A50044",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "French-speaking sports enthusiasts interested in soccer betting and promotional bonuses.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015860000000000002
+}

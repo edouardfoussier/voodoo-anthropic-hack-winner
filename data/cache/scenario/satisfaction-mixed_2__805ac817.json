@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_R7dY6KiMWyadG4cKJjhgdYRW?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUjdkWTZLaU1XeWFkRzRjS0pqaGdkWVJXP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=pmc0ZbpBimnFk4fD72aQxf3fr1HiBxwW4rd67r-RvBbGnrKFM5az%7EcNeyCxe7x-vpFykf-926Seb%7Ed8KyEC7CnugYulN0gOPSm3sdlp4C0DwdPJ215GFrhQ1Suw2Oihq4ppeY5dd6ZnCilYM%7ETY4MK8LoyAQT4LvTPtlyRh%7EViLp9RjuxUbacGTBL7PtVeFRzez6Vxe6AaKPwCp7be1uxWEq1paHFhW%7ECr7RUT6M9T80Vlkz0kf2XbMSesxOVtt8fG0f6bv8ESPAk3x%7EzDrmaBEKAxLoJRO8mLDeXXAQcYRtYNttkJfOk259c32P6LQUHlHg0d8BD-EMLQxjixn7Nw__",
+  "job_id": "job_3BmYGJFpRxZG2hdqqoHi8bmU",
+  "asset_id": "asset_R7dY6KiMWyadG4cKJjhgdYRW",
+  "stub": false,
+  "prompt": "Storyboard frame \u2014 CTA, aspect 9:16, 3D Casual Abstract style, fully cleared puzzle board glowing in #FDBA4D against a #20232B background with #403F6D purple UI frame, level progress bar filled to max in amber, large rounded 'Play Free' button in #FDBA4D pulsing at center, soft confetti of yellow-orange spheres settling, calm satisfying mood, on-screen text overlay 'Can you clear Level 10?', polished mobile-ad endcard",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "86acfd5df80e521f",
+    "ad_unit_id": "86acfd5df80e521f",
+    "app_id": "53857baf830f78f0bc0068e3",
+    "advertiser_name": "Warframe Companion",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/502c474e26ea3ae9/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/502c474e26ea3ae9/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/502c474e26ea3ae9/preview",
+    "phashion_group": "86acfd5df80e521f",
+    "share": null,
+    "first_seen_at": "2026-03-28T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Vast worlds to explore, tons of weapons to master and unlimited ways to express yourself.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A mysterious figure asks 'What is Warframe?' followed by a dramatic eye close-up.",
+    "visual_action": "A man walks through a dark, blue-lit space, transitioning to an extreme close-up of his eye.",
+    "text_overlay": "MATURE 17+ M ESRB",
+    "voiceover_transcript": "What is Warframe?",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Mysterious narrator asks 'What is Warframe?' over a dark, cinematic close-up.",
+    "Rapid-fire montage of high-speed, acrobatic combat and futuristic abilities.",
+    "Display of various character classes and their unique combat styles against robotic foes.",
+    "The narrator commands 'Wake up, Tenno' as the scene returns to a close-up of an eye.",
+    "Final branding screen with the game title and a call to play for free."
+  ],
+  "on_screen_text": [
+    "MATURE 17+ M ESRB",
+    "WARFRAME",
+    "PLAY FREE NOW"
+  ],
+  "cta_text": "PLAY FREE NOW",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#001220",
+    "#00d2ff",
+    "#ffffff"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Hardcore gamers and sci-fi fans who enjoy fast-paced, high-fidelity action games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017139999999999998
+}

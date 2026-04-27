@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "712c4a1dd7727238",
+    "ad_unit_id": "712c4a1dd7727238",
+    "app_id": "5b8e9647a2750e6598c510a7",
+    "advertiser_name": "Papa Murphy’s Take+Bake Pizza",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73790457c4c590e2/preview",
+    "phashion_group": "712c4a1dd7727238",
+    "share": null,
+    "first_seen_at": "2026-03-23T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Just $10.99 gets you the thick crust, golden edges and cheesy corners of a perfect Detroit-Style Pizza! Mini Cup Pepperoni or Create-Your-Own 2-Top.",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapidly swapping pizza toppings in a 3x3 grid.",
+    "visual_action": "A square Detroit-style pizza alternates its toppings between pepperoni and veggie slices in a rhythmic, flickering pattern.",
+    "text_overlay": "DETROIT Style pizza $10.99 each",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Display of a full pepperoni Detroit-style pizza on a teal background.",
+    "Individual slices rapidly cycle between pepperoni and veggie toppings in a stop-motion style.",
+    "The pizza toppings settle back into a uniform pepperoni layout."
+  ],
+  "on_screen_text": [
+    "DETROIT Style pizza",
+    "$10.99 each"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#004d5b",
+    "#d32f2f",
+    "#fbc02d"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Value-conscious fast food consumers looking for a quick and affordable dinner option.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0011330000000000001
+}

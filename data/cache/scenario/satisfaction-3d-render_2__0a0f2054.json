@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_7LfDTjigJa8GZB13SBHm5Pvc?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfN0xmRFRqaWdKYThHWkIxM1NCSG01UHZjP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=A81gnoF4MRLJCqrlEOTuxHHVDsBgjf2rVHMqi424sG-KVu6yQ7c5jQV0QY1VCK%7EI1tHcaDx49BzYEvKtc9Hn6iWQfVtll2djiV4XAuwpTxfdvijzNrXRdwvA2Pvs%7EPycP%7EYRLOoRFaX33l8O4OuR1z5uzKEbU2icm1I-DchOj2I3PylFLtOHCR1ovNxgsKhO0LTTgajKqGq3KeXPIG6Fvi%7EtHy3-YkmtPgRe65C45DxcjXJ%7ESdcbErHz2spp9l6cq12tTo63vTfXM90UMu0N7Pl5Xd5lLqBJIl4J-mP9bff1YBeQUoYT0z0WMH3TXRCHjEQbt%7EPeAf1Q4ec3ezdDAg__",
+  "job_id": "job_eHMjLG8HtvkhRmtoE6VUDdCS",
+  "asset_id": "asset_7LfDTjigJa8GZB13SBHm5Pvc",
+  "stub": false,
+  "prompt": "Storyboard frame 3, aspect 9:16, 3D Casual Abstract style, clean centered composition of a finished puzzle grid in deep purple #403F6D against a #20232B background with a glowing amber #FDBA4D progress bar filling to 100%, single hero ball resting at center with soft caustics, on-screen text 'Level 1 Complete' in crisp white, calm satisfying afterglow, premium casual game render",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_JFSnUc2iYezfFcHKYZAEsot9?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSkZTblVjMmlZZXpmRmNIS1laQUVzb3Q5P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=EJm3td6BUxR-YMkBJKQrKh%7EpXCi3x21xvgGMQPBwdnREgonAOeS%7Ev-ctyeReGo3aUo1RJgbc5LqhM5DU8FpvLgnboLNJgMHFUiyk4l1WtKOsH7r4hdcV6UrOd4pMR6wpj9Dmo3OvYS0qM1oCEbnIZoWCD9I8zJOw2d1hsX1uK5YmhVZOCDU%7EupWgop7SuCDBdPVOaC0gNSDcQYGaOy8PAuuM2a0H01n4dmIFgJh2nGqmeYuXQ7CxXy4Qg4ojC8OD5XuVHeaHAFGhrQ1w6z-km5lQptEmN%7EKWjlw%7EhRSMSkEVwSRhkv5THa7s890z4MgCpwNKkvq6-vTpcsNavlcOGw__",
+  "job_id": "job_h4QASTZno1cYjXPdpnoXL9sf",
+  "asset_id": "asset_JFSnUc2iYezfFcHKYZAEsot9",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16: extreme macro top-down of a thumb dragging a glossy beveled yellow polyomino block onto an 8x8 dark navy grid (#1E2744) against a royal blue (#5469B9) background, gold (#FFD700) particles bursting from a clearing line, score counter '12,480' visible in corner; clean vibrant abstract aesthetic; on-screen text overlay '\u2026this combo healed me \ud83e\uddd8\u200d\u2640\ufe0f'; ultra-crisp, glossy, satisfying.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

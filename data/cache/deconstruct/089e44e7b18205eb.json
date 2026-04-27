@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "089e44e7b18205eb",
+    "ad_unit_id": "089e44e7b18205eb",
+    "app_id": "660dff47d4e03e76a49f832f",
+    "advertiser_name": "협동 타워 디펜스 : 친구와 함께",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/preview",
+    "phashion_group": "089e44e7b18205eb",
+    "share": null,
+    "first_seen_at": "2025-11-26T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "BIG NEWS!\nGet ready for the most epic gaming experience of your life!\nWhat secrets will you uncover?\nPlay now and find out!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A POV shot of a mobile game where a 'boyfriend' uses a high-level unit to carry the player.",
+    "visual_action": "Handheld camera recording a phone screen showing split-screen gameplay with text overlays.",
+    "text_overlay": "POV: The Reason I'm Dating this Guy He's Got Max Level Surprise Mouse lol",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "POV shot of a phone screen showing a tower defense game with 'Boyfriend' and 'Me' labels.",
+    "The 'Boyfriend' side uses a 'Max Level Surprise Mouse' to easily defeat waves of enemies.",
+    "The 'Me' side is shown doing nothing, emphasizing the 'getting carried' narrative.",
+    "The gameplay continues to demonstrate the power of the specific unit and the ease of victory."
+  ],
+  "on_screen_text": [
+    "POV: The Reason I'm Dating this Guy He's Got Max Level Surprise Mouse lol",
+    "Boyfriend",
+    "Me",
+    "Getting carried without lifting a finger"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#D8829D",
+    "#99C263",
+    "#E6B89C"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual mobile gamers who relate to relationship-based gaming memes and power-progression mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017469999999999999
+}

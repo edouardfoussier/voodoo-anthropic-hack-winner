@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_rUoDNxLdxfQd323QJXnAfJke?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfclVvRE54TGR4ZlFkMzIzUUpYbkFmSmtlP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=lOv8Sr2GOZ71svTsMEL6NOSvnufpGuStPCLIKmokNI5bzBmTdTZR%7EchcdtBnbDaYIX2Dcv2fraJhNXTe7wykJnVEWj5DkmwYpoFtpGeIk86Pe51Feklv%7EPFENyA5cx2o8mr6ZaG296nyipSTWJxr9lhnz0pwgOKQ7Q%7Edw2du8m90EEpvcKdZKc%7EBg%7EPYOuxVcG0%7EvzLLrwC3UukTylLvEbQTcGBNwCLn8CzmF7oZW3A9gZNRy5MRfxEhkFu8WCsM9%7EMh28V5zUpvHowtsk6hcRvNpAIMT6zJMs8MgQ2Xu3Syp1w320cXOOIYBclvGLUVGlJ6X%7EbM2cATu2VbVbxkVg__",
+  "job_id": "job_5yVRV18jRpu3egEY79zzV43s",
+  "asset_id": "asset_rUoDNxLdxfQd323QJXnAfJke",
+  "stub": false,
+  "prompt": "Storyboard frame, vertical 9:16 aspect ratio: live-action POV of a hoodie-wearing player flopping back on a bed grinning, phone held up toward camera showing Paper.io 2 victory screen filled with #FFD700 yellow territory and accents of #00BFFF and #FF00FF, vibrant minimalist 3D top-down game art visible on the screen, on-screen text overlay 'Can you beat my score?' in bold white, golden hour bedroom lighting, UGC selfie energy",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

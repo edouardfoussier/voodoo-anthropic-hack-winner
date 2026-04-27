@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "344c93a65859324f",
+    "ad_unit_id": "344c93a65859324f",
+    "app_id": "66d27b94782b200e42488550",
+    "advertiser_name": "Perfect Tidy",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7890c3f85e77bc20/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7890c3f85e77bc20/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7890c3f85e77bc20/preview",
+    "phashion_group": "344c93a65859324f",
+    "share": null,
+    "first_seen_at": "2025-12-20T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Free the road, play now!!!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Hand-pointer clearing a colorful bus traffic jam.",
+    "visual_action": "A hand graphic moves colored buses to match waiting passengers.",
+    "text_overlay": "You need something to do",
+    "voiceover_transcript": "You need something to do to unwind for the day? You guys have to try",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Initial gameplay shows a hand moving buses to clear a traffic jam.",
+    "The game demonstrates matching bus colors to passenger colors at the top.",
+    "Narrative text explains the game helps with sleep loss and stress reduction.",
+    "Final scene displays a 'Play Now!' CTA over the ongoing puzzle."
+  ],
+  "on_screen_text": [
+    "You need something to do",
+    "To unwind for the day?",
+    "You guys have to try",
+    "Bus Escape - Trafic Jam",
+    "Many people who is suffering",
+    "From sleep loss",
+    "Choose Bus Escape",
+    "To reduce stress",
+    "And get better sleep",
+    "Play Now!"
+  ],
+  "cta_text": "Play Now!",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#A0AEC0",
+    "#3182CE",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual gamers, likely adults, seeking a relaxing and satisfying puzzle experience to de-stress.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001405
+}

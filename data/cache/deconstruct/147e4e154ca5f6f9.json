@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "147e4e154ca5f6f9",
+    "ad_unit_id": "147e4e154ca5f6f9",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138491e863ac650/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138491e863ac650/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138491e863ac650/preview",
+    "phashion_group": "147e4e154ca5f6f9",
+    "share": null,
+    "first_seen_at": "2025-12-10T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Test Yourself in an Apocalyptic Robo-War! Command Steel Giants, Crush Rivals! Survive Chaos!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Intense mech combat featuring a heavy-duty robot firing multiple weapons at enemies.",
+    "visual_action": "A black mech with a skull emblem fires cannons and missiles at enemy robots in a snowy canyon.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Player mech initiates heavy fire on enemy targets in a snowy mountain pass.",
+    "Continuous weapon fire and missile launches create a sense of overwhelming power.",
+    "Enemy mechs are targeted and hit, showing damage effects and UI indicators.",
+    "Screen cuts to a black background with a glowing 'JOIN NOW' call to action."
+  ],
+  "on_screen_text": [
+    "Kian1390",
+    "Malik Jawad",
+    "RAZRIVALA",
+    "JOIN NOW"
+  ],
+  "cta_text": "JOIN NOW",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#1A1A1A",
+    "#A0B0C0",
+    "#FF8C00"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy tactical mech combat and military-themed shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001158
+}

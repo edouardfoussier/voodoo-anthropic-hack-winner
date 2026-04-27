@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "1d30c66474e12991",
+    "ad_unit_id": "1d30c66474e12991",
+    "app_id": "622390aa2e0fa027dbdc26b8",
+    "advertiser_name": "Block Blast!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c9adbdd52745cc3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c9adbdd52745cc3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c9adbdd52745cc3/preview",
+    "phashion_group": "1d30c66474e12991",
+    "share": null,
+    "first_seen_at": "2025-08-11T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Warning: This game is HIGHLY satisfying",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A crowd of people at a 'wave to earth' event are all seen playing Block Blast on their phones.",
+    "visual_action": "The camera pans over a seated audience in a dark venue, showing multiple phone screens running the game simultaneously.",
+    "text_overlay": "wave to earth fans fr\nBlock Blast is free and so addictive",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Panning shot of a crowd at a venue where multiple people are playing Block Blast on their phones.",
+    "Close-up of a user's phone screen showing the block-fitting gameplay in action.",
+    "Text overlays highlight the game's addictive nature and brain-training benefits over crowd footage.",
+    "Final animated end card with the game logo, search bar, and app store download buttons."
+  ],
+  "on_screen_text": [
+    "wave to earth fans fr",
+    "Block Blast is free and so addictive",
+    "Easy to solve but hard to get high scores",
+    "can train your brain and improve your IQ",
+    "Tap below and play for free!",
+    "BLOCK BLAST",
+    "ADVENTURE MASTER"
+  ],
+  "cta_text": "Tap below and play for free!",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#121212",
+    "#4169E1",
+    "#FFD700"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Gen Z and young adult casual gamers looking for a popular and mentally stimulating way to kill time during events.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001624
+}

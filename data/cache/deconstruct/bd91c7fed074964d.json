@@ -1,0 +1,64 @@
+{
+  "raw": {
+    "creative_id": "bd91c7fed074964d",
+    "ad_unit_id": "bd91c7fed074964d",
+    "app_id": "69d45581591333b7c517b798",
+    "advertiser_name": "Flow Blast: Pixel Puzzle Out",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/000ecc39bbd5d97a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/000ecc39bbd5d97a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/000ecc39bbd5d97a/preview",
+    "phashion_group": "bd91c7fed074964d",
+    "share": null,
+    "first_seen_at": "2026-04-10T00:00:00",
+    "last_seen_at": "2026-04-10T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand icon sorts colored blocks into matching containers on a track.",
+    "visual_action": "The player clicks an orange block, then a yellow block, filling containers that move along a path.",
+    "text_overlay": "LEVEL 5",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction of the puzzle layout with a winding track of colored blocks.",
+    "The player begins sorting blocks into containers, which show fill percentages.",
+    "Completed containers explode in confetti and disappear, clearing space.",
+    "The game continues as more blocks are sorted and the progress counter increases."
+  ],
+  "on_screen_text": [
+    "LEVEL 5",
+    "0/5",
+    "1/5",
+    "2/5",
+    "3/5",
+    "4/5",
+    "2%",
+    "5%",
+    "0%",
+    "50%",
+    "55%",
+    "90%",
+    "95%",
+    "100%"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#6b6b8c",
+    "#ffcc00",
+    "#3399ff"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual gamers who enjoy satisfying organization and sorting puzzles.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00169
+}

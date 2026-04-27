@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "c4cf06bb6bccc1e2",
+    "ad_unit_id": "c4cf06bb6bccc1e2",
+    "app_id": "55d3a1a802ac64350a000d6e",
+    "advertiser_name": "Roblox",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029cf0d0e1ada3f1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029cf0d0e1ada3f1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029cf0d0e1ada3f1/preview",
+    "phashion_group": "c4cf06bb6bccc1e2",
+    "share": null,
+    "first_seen_at": "2025-12-06T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Dive Into Limitless Fun",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A 'Don't blink' challenge followed by a sudden jumpscare.",
+    "visual_action": "A character sits by a campfire at night before a scary deer creature lunges at the screen.",
+    "text_overlay": "Don't blink",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Starts with a 'Don't blink' challenge at a campfire in a forest.",
+    "Transition to a jumpscare from a deer creature in '99 Nights in the Forest'.",
+    "Montage of horror scenes from 'Doors' featuring a dark entity.",
+    "Chase sequence in 'Flee the Facility' ending with the player being caught.",
+    "Final screen showing the Roblox logo and 'Join Now' button."
+  ],
+  "on_screen_text": [
+    "Don't blink",
+    "ROBLOX | 99 Nights in the Forest",
+    "ROBLOX | Doors",
+    "ROBLOX | Flee the Facility",
+    "Join Now"
+  ],
+  "cta_text": "Join Now",
+  "cta_timing_seconds": 14.0,
+  "palette_hex": [
+    "#000000",
+    "#2E461E",
+    "#8B0000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Young gamers and fans of horror-themed multiplayer experiences.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001702
+}

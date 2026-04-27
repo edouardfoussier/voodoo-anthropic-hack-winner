@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "3a670b194c98ca31",
+    "ad_unit_id": "3a670b194c98ca31",
+    "app_id": "5d7d610eecda053b441077fe",
+    "advertiser_name": "Holdem or Foldem: Texas Poker",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0810c08c5742482b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0810c08c5742482b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0810c08c5742482b/preview",
+    "phashion_group": "3a670b194c98ca31",
+    "share": null,
+    "first_seen_at": "2026-02-10T00:00:00",
+    "last_seen_at": "2026-04-01T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "First-person poker all-in with pocket Aces against Simpsons-like characters.",
+    "visual_action": "The player pushes a large stack of red and green chips into the center of the table.",
+    "text_overlay": null,
+    "voiceover_transcript": "All in! Oh no, damn it!",
+    "emotional_pitch": "fail"
+  },
+  "scene_flow": [
+    "First-person POV of a poker game where the player goes all-in with pocket Aces.",
+    "Opponent characters react dramatically to the high-stakes move with exaggerated expressions.",
+    "The player loses the hand and expresses frustration as their chips are swept away.",
+    "Final title card reveal for 'Hold'em or Fold'em' in a professional tournament setting."
+  ],
+  "on_screen_text": [
+    "HOLD'EM OR FOLD'EM"
+  ],
+  "cta_text": "HOLD'EM OR FOLD'EM",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#FFD425",
+    "#3B5998",
+    "#BE1E2D"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult fans of poker and classic animated sitcoms looking for a casual competitive card game.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001448
+}

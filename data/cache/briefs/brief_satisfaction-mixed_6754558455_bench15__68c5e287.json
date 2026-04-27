@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "6754558455",
+  "title": "POV: The Most Satisfying Sort You'll See Today",
+  "hook_3s": "First-person hands holding a phone — a single lavender marble drops, bounces, and *clicks* into its color box. ASMR-soft.",
+  "scene_flow": [
+    "0–3s HOOK (POV): Hands hold a phone in soft lavender lighting; thumb taps a tray, one orange marble falls onto the conveyor and plops perfectly into the orange box. Crisp tactile SFX.",
+    "3–7s ESCALATE: Pull into full-screen authentic gameplay — multiple trays release mixed-color marbles onto the moving conveyor; player taps with timing to drop each color into its matching box. Combo counter ticks up.",
+    "7–11s TENSION: A 'wrong color' near-miss — marble teeters on conveyor edge, finger taps just in time to redirect. Overlay: 'Can you time it?'",
+    "11–14s PAYOFF: Level-clear burst, boxes glow, special striped marble unlocks the next level. Calm, satisfying chime.",
+    "14–15s CTA card: Logo + 'Play Free' over the lavender/orange palette."
+  ],
+  "visual_direction": "Lean fully into the game's existing DNA: soft #E5DFFF lavender background, #F0F0F8 light-grey machine chrome, and #FFB13B orange accents reserved for highlights, CTA, and combo flashes. Clean 3D cartoon marbles with soft rounded shapes, gentle rim light, shallow depth-of-field on the POV opener to feel premium and ASMR-y. No characters on screen — just hands-on-phone for the first beat, then pure authentic in-game footage. Sound design is the secret weapon: tactile taps, marble clinks, conveyor hum, level-clear chime. Keep motion calm; let the physics do the satisfaction.",
+  "text_overlays": [
+    "POV: the most satisfying 15 seconds",
+    "Tap to drop 🟠",
+    "Match the color…",
+    "…time the conveyor",
+    "Level 1 of 500+",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Marble Sort! rotation is all straight-on gameplay demos with generic \"right color to the right box\" copy — zero POV/hands-on-phone framing despite that being the winning satisfaction archetype in the market scan. This brief grafts the trending jigsaw-POV hook onto authentic marble-sort gameplay in the first 3s, then cuts hard to real mechanic footage to protect D1 retention and avoid misleading-ad risk. UA action: test against the existing top-spend AppLovin video as the POV-hook variant for the 25–55 female casual cohort.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, first-person POV of two hands holding a smartphone in a softly lit lavender room, on the phone screen an authentic Marble Sort! gameplay scene: light-grey rounded 3D machine with two suspended trays full of glossy pastel marbles, a horizontal moving conveyor belt below, and three color-coded drop boxes (orange, purple, mint) at the bottom; one bright orange marble mid-fall toward the orange box, soft motion blur, tactile clean UI with level counter top-left and tap-tray buttons; background palette #E5DFFF lavender with #F0F0F8 light grey machine and #FFB13B orange accent on the level badge; on-screen text overlay 'POV: the most satisfying 15 seconds' in rounded white sans-serif; clean and colorful 3D cartoon style with soft, rounded shapes, no characters in the game scene, no humans beyond the hands, premium mobile ad still",
+    "Storyboard frame mid-gameplay, aspect 9:16, full-screen authentic Marble Sort! in-game view: light-grey #F0F0F8 rounded sorting machine centered, two trays releasing a stream of glossy multi-color marbles (orange, lavender, mint, pink) onto a moving conveyor belt, three matching color drop-boxes lined up below, one marble mid-bounce with soft physics motion lines, combo counter '+3' glowing in #FFB13B orange, lavender #E5DFFF background, minimal HUD with pause button top-right and level progress bar; on-screen text overlay 'Match the color… time the conveyor' in rounded white sans-serif; clean and colorful 3D cartoon style with soft, rounded shapes, no characters present, faithful to in-game UI chrome",
+    "Storyboard payoff frame, aspect 9:16, authentic Marble Sort! level-complete moment: all three color drop-boxes filled and gently glowing, last striped special marble dropping into its matching box, soft #FFB13B orange confetti burst, light-grey #F0F0F8 machine in center, #E5DFFF lavender background, 'Level Clear' badge in rounded orange pill, next-level arrow bottom-right; on-screen text overlay 'Play Free' in bold rounded white sans-serif over an orange button; clean and colorful 3D cartoon style with soft, rounded shapes, no characters, calm satisfying mood, matches in-game UI exactly"
+  ]
+}

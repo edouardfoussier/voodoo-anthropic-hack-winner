@@ -1,0 +1,29 @@
+{
+  "archetype_id": "curiosity-animation",
+  "target_game_id": "1423046460",
+  "title": "What's Hidden Under the Map?",
+  "hook_3s": "\"What's hidden UNDER the paper map?\" — camera peels back a Paper.io 2 territory grid like a sticker, revealing a secret neon vault beneath.",
+  "scene_flow": [
+    "0-3s: Top-down Paper.io 2 match in progress — yellow player carving a trail through cyan/magenta territories. Finger taps the map. A glowing crack appears.",
+    "3-6s: Camera tilts into a cross-section: the flat paper-territory layer peels up to reveal a hidden multi-tier vault below stacked with gems, coins, and a giant '?% captured' progress bar.",
+    "6-10s: Player snaps back to top-down. Now racing to capture a massive uncharted zone, dodging two AI opponents closing in on the trail. Kill-feed pops: 'You eliminated Blue!'",
+    "10-13s: Bonus-level screen flashes — gems and coins rain in, territory meter rockets from 32% to 87%.",
+    "13-15s: End card: yellow territory dominates the screen, CTA pulses."
+  ],
+  "visual_direction": "Lock to Paper.io 2's signature vibrant minimalist 3D top-down: flat shaded territory blocks in #FFD700 yellow (hero), #00BFFF cyan (rival), #FF00FF magenta (rival), thick solid trail lines, no textures. The \"reveal\" beat briefly tilts the camera 30° to show the paper map as a literal thin layer with a hidden treasure vault below — same flat-color language, just stacked vertically — before snapping back to clean top-down. Keep HUD authentic: top-left territory % progress bar, right-side kill feed text, floating gem/coin pickups. Energetic, high-contrast, zero gradients.",
+  "text_overlays": [
+    "What's UNDER the map?",
+    "Tap to peel it back 👇",
+    "Secret zone unlocked!",
+    "Capture it before they do",
+    "87% — NEW RECORD",
+    "Can YOU dominate?"
+  ],
+  "cta": "PLAY FREE",
+  "rationale": "Voodoo's current Paper.io 2 rotation leans on straight gameplay capture and fail/retry playables — none use the curiosity-reveal hook that's trending across .io and casual scans. This brief imports the \"what's hidden underneath\" mechanic but reskins it natively to Paper.io 2's flat-paper metaphor (peel the map → secret vault), so it earns the curiosity click without bait-and-switch and pivots to real gameplay by 3s. UA: test against the Applovin playable as control; expect lift on CTR/IPM from cold casual audiences.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical, authentic Paper.io 2 in-game moment: vibrant minimalist 3D top-down view, flat solid colors #FFD700 yellow player territory mid-screen with a thick yellow trail line extending into uncaptured white space, #00BFFF cyan and #FF00FF magenta rival territories on edges, a glowing crack splitting the paper map open to reveal a hidden lower layer with floating gems and coins beneath, top-left territory progress bar reading '32%', right-side kill-feed text, bold white sans-serif overlay 'What's UNDER the map?' centered top, no characters, bright high-contrast solid colors no gradients no textures. [Audio: VO (curious whisper) 'Wait... what's under the map?' / energetic competitive synth 124 BPM building tension / paper-peel rip SFX at 1s, low bass reveal hit at 2s, coin shimmer at 3s]",
+    "Storyboard frame 2, 9:16 vertical, authentic Paper.io 2 gameplay: top-down flat-shaded 3D arena, #FFD700 yellow player carving an aggressive trail loop around a huge uncaptured zone, two rival blobs in #00BFFF cyan and #FF00FF magenta closing in from opposite sides, scattered collectible gems and coins along the path, kill-feed text 'You eliminated Blue!' top-right, territory bar filling fast at '64%', bold overlay 'Capture it before they do' lower third, vibrant minimalist style solid colors no gradients. [Audio: VO 'Get it before they do!' / punchy upbeat competitive trap 130 BPM / whoosh on trail draw, chime on gem pickup at 2s, glass-shatter elimination SFX at 3.5s]",
+    "Storyboard frame 3 end card, 9:16 vertical, Paper.io 2 victory state top-down: screen dominated by #FFD700 yellow territory ~87%, tiny slivers of #00BFFF cyan and #FF00FF magenta cornered, bonus-level screen overlay with cascading coins and gems, progress bar maxed glowing, large bold overlay 'PLAY FREE' bottom center with pulsing arrow, vibrant minimalist 3D flat solid colors high contrast. [Audio: VO 'Your turn — play free' / triumphant energetic synth stinger 128 BPM / coin-rain cascade SFX, victory chime at 1s, button-tap click at 4s]"
+  ]
+}

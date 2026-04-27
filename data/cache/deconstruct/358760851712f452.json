@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "358760851712f452",
+    "ad_unit_id": "358760851712f452",
+    "app_id": "660dff47d4e03e76a49f832f",
+    "advertiser_name": "협동 타워 디펜스 : 친구와 함께",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/preview",
+    "phashion_group": "358760851712f452",
+    "share": null,
+    "first_seen_at": "2026-04-08T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "BIG NEWS!\nGet ready for the most epic gaming experience of your life!\nWhat secrets will you uncover?\nPlay now and find out!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A POV-style UGC shot of a mobile game showing a 'boyfriend' carrying the player with a high-level unit.",
+    "visual_action": "Handheld camera recording a phone screen playing a tower defense game with text overlays identifying the players.",
+    "text_overlay": "POV : The Reason I'm Dating this Guy He's Got Max Level Surprise Mouse lol Boyfriend Me Getting carried without lifting a finger",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction of the 'Boyfriend' vs 'Me' dynamic with text overlays on a phone screen.",
+    "Demonstration of the 'Max Level Surprise Mouse' unit's high damage output.",
+    "Visual contrast showing the 'Me' side of the board remaining passive while enemies are cleared.",
+    "Close-up of the game board showing intense action and high damage numbers."
+  ],
+  "on_screen_text": [
+    "POV : The Reason I'm Dating this Guy",
+    "He's Got Max Level Surprise Mouse lol",
+    "Boyfriend",
+    "Me",
+    "Getting carried without lifting a finger"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#90B16B",
+    "#FF6B6B",
+    "#E8D5C4"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual mobile gamers who enjoy tower defense and relate to social gaming tropes like being carried by a partner.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001777
+}

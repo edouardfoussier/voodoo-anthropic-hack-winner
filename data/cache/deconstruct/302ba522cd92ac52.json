@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "302ba522cd92ac52",
+    "ad_unit_id": "302ba522cd92ac52",
+    "app_id": "57fe379b0211a6e63e00056f",
+    "advertiser_name": "Match to Win: Real Cash Prizes",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/07aac241017dfc8a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/07aac241017dfc8a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/07aac241017dfc8a/preview",
+    "phashion_group": "302ba522cd92ac52",
+    "share": null,
+    "first_seen_at": "2025-12-31T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Win Real Cash Rewards!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman declines going out to eat because she's busy winning cash on a free mobile game.",
+    "visual_action": "A woman in a red tank top sits at a table, smiling and interacting with her smartphone.",
+    "text_overlay": "Are we going out to eat or dining in again?",
+    "voiceover_transcript": "Are we going out to eat or dining in again? We're dining in. I'm about to win cash.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Woman is asked about dinner plans while looking at her phone.",
+    "She explains she's staying in to play a free game for cash prizes.",
+    "She emphasizes the 'no wagering' aspect and the potential for real rewards.",
+    "She shows excitement and focus as she claims to be close to winning."
+  ],
+  "on_screen_text": [
+    "Are we going out to eat",
+    "or dining in again?",
+    "We're dining in.",
+    "I'm about to win cash.",
+    "It's free to play.",
+    "No wagering, and you can",
+    "win real cash prizes.",
+    "Hold on, I'm so close!"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#E63946",
+    "#F1E9DB",
+    "#5D4037"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Casual mobile gamers, likely women 20-40, interested in low-stakes games with real-money rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001639
+}

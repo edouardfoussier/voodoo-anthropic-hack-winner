@@ -1,0 +1,63 @@
+{
+  "raw": {
+    "creative_id": "dca8d430e3f5b371",
+    "ad_unit_id": "dca8d430e3f5b371",
+    "app_id": "56fee3eff49ea42a540000d4",
+    "advertiser_name": "BURGER KING App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/484f03da43374e76/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/484f03da43374e76/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/484f03da43374e76/preview",
+    "phashion_group": "dca8d430e3f5b371",
+    "share": null,
+    "first_seen_at": "2025-09-19T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1012,
+    "height": 1800,
+    "message": "Com a partir de R$6,90, adicione um Chicken Jr., 6 BK Chicken ou um sundae de doce de leite ao seu pedido!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced showcase of budget-friendly Burger King menu items with bold price overlays.",
+    "visual_action": "A static graphic transitions into a slideshow of food combos starting at R$ 6,90.",
+    "text_overlay": "KingOfertas R$ 6,90 CADA",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction of the KingOfertas promotion featuring the R$ 6,90 price tier with Chicken Jr. and nuggets.",
+    "Transition to the R$ 8,90 tier showcasing the Cheeseburger, nuggets with sauce, and a brownie.",
+    "Final reveal of the R$ 10,90 tier featuring the Rodeio burger, 10 nuggets, and a BK Mix dessert."
+  ],
+  "on_screen_text": [
+    "KingOfertas",
+    "A PARTIR DE R$ 6,90 CADA",
+    "6 BK CHICKEN",
+    "SUNDAE DE DOCE DE LEITE",
+    "CHICKEN JR.",
+    "Resgate já e aproveite!",
+    "A PARTIR DE R$ 8,90 CADA",
+    "6 BK CHICKEN + MOLHO",
+    "BK BROWNIE",
+    "CHEESEBURGER",
+    "A PARTIR DE R$ 10,90 CADA",
+    "10 BK CHICKEN",
+    "BK MIX OVOMALTINE",
+    "RODEIO"
+  ],
+  "cta_text": "Resgate já e aproveite!",
+  "cta_timing_seconds": 1.0,
+  "palette_hex": [
+    "#F5EBDC",
+    "#502314",
+    "#ED1C24"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Budget-conscious fast-food consumers in Brazil looking for affordable meal deals and snacks.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001869
+}

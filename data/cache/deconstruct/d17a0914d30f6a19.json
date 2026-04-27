@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "d17a0914d30f6a19",
+    "ad_unit_id": "d17a0914d30f6a19",
+    "app_id": "55d93bf102ac645ad2090002",
+    "advertiser_name": "Gala - Bingo & Casino Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/preview",
+    "phashion_group": "d17a0914d30f6a19",
+    "share": null,
+    "first_seen_at": "2026-02-05T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Whirl our Daily Free Spin for free chances to win cash & more at Gala.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Surreal visual of fruit popping off a man's shirt into his hands.",
+    "visual_action": "A man in a pink fruit-patterned sweatshirt watches as lemons and pineapples detach from the fabric and become physical objects.",
+    "text_overlay": "Where a little Gala JOY GOES A LONG WAY",
+    "voiceover_transcript": "Join Gala to get your daily free spin.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Close-up of a man in a pink fruit-patterned sweatshirt as fruit physically pops off the fabric.",
+    "The man catches the fruit and walks through a vibrant outdoor fruit market as pineapples on his shirt turn into real fruit.",
+    "The brand slogan 'Where a little Gala JOY GOES A LONG WAY' appears over the market scene.",
+    "Transition to a bright yellow screen featuring the blue Gala brand logo.",
+    "Final screen displays a mandatory responsible gambling message 'TAKE TIME TO THINK' on a black background."
+  ],
+  "on_screen_text": [
+    "GambleAware 18+",
+    "Where a little Gala JOY GOES A LONG WAY",
+    "Gala",
+    "TAKE TIME TO THINK",
+    "taketimetothink.co.uk"
+  ],
+  "cta_text": "Join Gala",
+  "cta_timing_seconds": 3.0,
+  "palette_hex": [
+    "#F4A7B9",
+    "#FFD700",
+    "#000000"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "UK adults 25-55 looking for casual entertainment and daily gaming rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015429999999999999
+}

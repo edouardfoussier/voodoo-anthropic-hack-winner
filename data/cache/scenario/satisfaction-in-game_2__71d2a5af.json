@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_xDzpmJjok39jwLFiVjByTpBQ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeER6cG1Kam9rMzlqd0xGaVZqQnlUcEJRP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=DvxtiOo21CyAgj0EeyWlVppFAMODhrCWwdsX9FtSjhYOl49Nl1Ohr7jfHyl4ksdshYZrRqTRPL3q2VDc4f16ZsYmuzQD5HvD4Iq-prArwSer3aRqeQ6c-JG-k8DUgTD4hLU7VbqEVc1z9LG-CpoUuIxuYNO7NVPlpNR0rsrjD6AKKVFuGx6uAaqzNBlLrdp29d80qwWQi%7ET6xcalDbnyc6QmH5foxYI0Km3oFZmh%7EFkDaMYzC1fRsZGGlrj6SvCdw2tZLBXKDN1ltPeF3X9d7-7g8cHlRF%7ELKrvGu4yfM3js%7Eyco9ZMDJ8v8eEZmUZ3UZIn2UqFoDkvjz3ZHHWFpSQ__",
+  "job_id": "job_Cy9GyLqgVBNDYQCAbCmiWCtN",
+  "asset_id": "asset_xDzpmJjok39jwLFiVjByTpBQ",
+  "stub": false,
+  "prompt": "Storyboard CTA frame, aspect 9:16, end-card mobile game ad: centered Block Blast-style logo on royal blue #5469B9 background, a single glossy beveled golden #FFD700 polyomino block resting on a small dark navy #1E2744 grid tile below, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, large pulsing gold button with bold white text 'PLAY FREE' at the bottom third, soft sparkle particles, premium polished mobile ad finish, no characters",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

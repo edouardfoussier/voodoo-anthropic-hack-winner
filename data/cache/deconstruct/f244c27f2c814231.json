@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "f244c27f2c814231",
+    "ad_unit_id": "f244c27f2c814231",
+    "app_id": "55c5020a02ac64f9c0001f66",
+    "advertiser_name": "Slotomania Slots Casino Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/40ab95c0490a5f5d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/40ab95c0490a5f5d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/40ab95c0490a5f5d/preview",
+    "phashion_group": "f244c27f2c814231",
+    "share": null,
+    "first_seen_at": "2025-12-29T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "You Know YOU Deserve it - Play Now & Enjoy!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapidly spinning slot wheels landing on a golden jackpot with a coin explosion.",
+    "visual_action": "Concentric wheels with pig and wolf icons spin and stop on 'JACKPOT' segments.",
+    "text_overlay": "JACKPOT SPIN NOW",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Concentric slot wheels spin rapidly, showcasing pig and wolf characters.",
+    "The wheels stop on a 'JACKPOT' segment, causing gold coins to erupt across the screen.",
+    "The sequence repeats with a focus on the wolf character wheel and another jackpot win.",
+    "The persistent 'SPIN NOW' button pulses in the center to encourage user interaction."
+  ],
+  "on_screen_text": [
+    "Slotomania Casino",
+    "JACKPOT",
+    "SPIN NOW"
+  ],
+  "cta_text": "SPIN NOW",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFD700",
+    "#4B0082",
+    "#00FF00"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults 35-65 who enjoy the thrill of social casino games and slot machines.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001579
+}

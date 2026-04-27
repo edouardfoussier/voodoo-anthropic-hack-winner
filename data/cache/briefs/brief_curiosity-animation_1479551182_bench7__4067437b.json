@@ -1,0 +1,29 @@
+{
+  "archetype_id": "curiosity-animation",
+  "target_game_id": "1479551182",
+  "title": "What's Beneath The Platform? — Push'em All Cross-Section Reveal",
+  "hook_3s": "\"What's actually under the platform?\" — camera slices the bright blue water away to reveal a secret multi-floor bunker of red stickmen stacked below.",
+  "scene_flow": [
+    "0-3s: Top-down Push'em All level in motion — stickman swipes, pushes a small red crowd off the edge. They fall... but the camera follows them DOWN past the waterline.",
+    "3-7s: Cross-section reveal: the platform peels open like an architectural diagram, exposing 4 stacked underground floors PACKED with red stickman enemies waiting their turn — labeled 'FLOOR 1', 'FLOOR 2', 'BOSS LVL'.",
+    "7-11s: Cut back to gameplay POV — player grabs 'SIZE UP!' power-up, stick expands huge, sweeps an entire floor's worth of red figures off in one satisfying combo (x12 multiplier pops).",
+    "11-14s: Rapid montage of deeper, weirder floors revealed (lava floor, ice floor, giant boss floor) — each push sends crowds tumbling between layers.",
+    "14-15s: End card: stickman hero on top of cleared platform, coin counter spinning, CTA button pulses."
+  ],
+  "visual_direction": "Lock to Push'em All's signature minimalist 3D look: vibrant #2a7dfa water, #56a38b sandy-green platforms, and #e3001b enemy stickmen as the only saturated threat color. The cross-section reveal uses a clean architectural slice (think cutaway diorama) but rendered in the SAME flat-shaded stickman style — no documentary realism, no muted navy/orange. Camera language is punchy and kinetic: quick orbit, snap zoom into the cutaway, then back to overhead gameplay cam. Preserve in-game HUD (level timeline, combo text, coin counter, SIZE UP banner) on every gameplay beat so it reads as authentic footage.",
+  "text_overlays": [
+    "What's UNDER the platform?",
+    "Wait... there are FLOORS?!",
+    "SIZE UP!",
+    "x12 COMBO",
+    "Can you clear them ALL?",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Push'em All rotation is all straight gameplay capture and playables with zero narrative hook — this brief injects the trending curiosity/cross-section reveal angle (underrepresented in their stack) while staying mechanically honest to the push-crowds-off-platform payoff. The \"secret floors of enemies beneath the platform\" conceit gives scroll-stoppers a reason to watch past 3s, then hands off to the proven satisfying-push gameplay. Test against the existing playable as a top-funnel video to see if curiosity-led CTR lifts installs vs. pure gameplay creatives.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect ratio, Push'em All mobile game in-game screenshot style: overhead three-quarter view of a sandy-green (#56a38b) floating platform surrounded by vibrant blue water (#2a7dfa), the platform sliced open in a clean architectural cross-section to reveal four stacked underground floors crammed with bright red (#e3001b) stickman enemies waiting in formation, top floor shows the blue-shirted player stickman mid-swipe with extending push-stick, authentic game HUD visible: level progress timeline at top, combo multiplier text, coin counter, bold white overlay text 'What's UNDER the platform?', minimalist 3D flat-shaded style with simple stickman-like figures, bright contrasting colors, no realistic textures, no muted palette. [Audio: VO (curious whisper) 'Wait... what's actually under there?' / energetic competitive trap beat 140bpm building tension / whoosh on camera dive at 1.5s, low bass thud on reveal at 3s.]",
+    "Storyboard frame, 9:16 vertical aspect ratio, Push'em All in-game gameplay shot: top-down dynamic view of sandy-green (#56a38b) platform over blue water (#2a7dfa), player stickman just grabbed a glowing power-up, push-stick massively expanded sweeping a huge crowd of red (#e3001b) stickman enemies tumbling off the edge in physics-based ragdoll chaos, motion blur on swipe, signature yellow 'SIZE UP!' notification banner popping center-screen, combo multiplier 'x12 COMBO' in bold white, coin counter ticking up, level timeline HUD at top, minimalist 3D flat-shaded stickman style, bright contrasting colors. [Audio: no VO / punchy upbeat trap drop 145bpm / satisfying swoosh-thwack on stick swing, rapid chime stack on combo count, splash SFX as crowd hits water.]",
+    "Storyboard frame, 9:16 vertical aspect ratio, Push'em All cutaway diagram style frame: architectural cross-section of the level showing four themed underground floors beneath the sandy-green (#56a38b) surface platform — floor 1 normal red (#e3001b) stickman crowd, floor 2 ice-blue tinted, floor 3 lava-orange tinted, floor 4 a giant red boss stickman, surrounded by vibrant blue (#2a7dfa) water on the sides, clean labeled floors 'FLOOR 1 / FLOOR 2 / FLOOR 3 / BOSS', bold overlay text 'Wait... there are FLOORS?!', minimalist 3D flat-shaded simple stickman figures, bright contrasting colors, authentic Push'em All asset style not documentary realism. [Audio: VO (curious, rising) 'There are FLOORS?!' / energetic competitive synth riser 140bpm / elevator-ding on each floor label reveal, deep boss-roar SFX on bottom floor at 3.5s.]"
+  ]
+}

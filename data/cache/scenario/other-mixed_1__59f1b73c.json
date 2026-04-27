@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_E5k2fQrYhRG2euSLGMpPwp3w?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRTVrMmZRclloUkcyZXVTTEdNcFB3cDN3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Iso2Ee6YJrd8IYtGJ4zT9qL7u8O5s93-2BjECDNm0IglmLizXYs5buJ3bIRtpOIECyQaTcTrGVwcF5AJP6CoUJ8158spN-vaQH-HTcBdH0IohhAEB8pX-6MmnZ5jXui77DKVPNix-TfG%7ESu8ZgEaV7cnkAhbGVnqqkWZmbu7n0jmdPMEsZqbRrZS2dzxSoXpDVvAtU-gWNDPkquj8zl8vrnNtBFZmLBMhsBZLYHVK-aduna1f7k7I3K0bOnZaz8g-UEHyupqIYaxuFq8nPyi9AOf5D6pApp36TNNbYwEtzLnhr2rNA262F9z9K8jxVGNCZgDKQLNH0HwvQzqSCYrVA__",
+  "job_id": "job_kwttqrFTUv17NeErxWBYiD4H",
+  "asset_id": "asset_E5k2fQrYhRG2euSLGMpPwp3w",
+  "stub": false,
+  "prompt": "Storyboard frame 1, aspect 9:16, 3D Casual Abstract style, close-up of a smartphone screen floating in dark space, screen shows a Bounce Blast 3D puzzle grid in deep purple #403F6D with charcoal #20232B background and a pulsing amber #FDBA4D progress bar, soft bokeh purple glow around the phone suggesting a dim bedroom, on-screen text overlay 'POV: my 10pm wind-down' in minimal white sans-serif, calm and cozy, no characters",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

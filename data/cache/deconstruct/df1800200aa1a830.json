@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "df1800200aa1a830",
+    "ad_unit_id": "df1800200aa1a830",
+    "app_id": "56fee3eff49ea42a540000d4",
+    "advertiser_name": "BURGER KING App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3ee787c0848e5fca/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3ee787c0848e5fca/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3ee787c0848e5fca/preview",
+    "phashion_group": "df1800200aa1a830",
+    "share": null,
+    "first_seen_at": "2026-03-20T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Now the Whopper is made your way, with better ingredients in every bite. Enjoy it today.",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A man takes a large, satisfying bite of a Whopper burger.",
+    "visual_action": "Close-up shot of a man eating a burger with a neon crown logo behind him.",
+    "text_overlay": null,
+    "voiceover_transcript": "We listened. You told us how to make the Whopper better.",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction with a man enjoying a Whopper in a restaurant setting.",
+    "Fast-paced montage of diverse people eating the burger in different locations like cars and outdoors.",
+    "Close-up beauty shots highlighting the fresh ingredients and the new glazed bun.",
+    "Concluding shot of a woman eating with the brand's new slogan and logo."
+  ],
+  "on_screen_text": [
+    "THERE'S A NEW KING & IT'S YOU",
+    "TM & © 2024 Burger King Company LLC."
+  ],
+  "cta_text": "THERE'S A NEW KING & IT'S YOU",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#F58220",
+    "#FFFFFF",
+    "#542E17"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Hungry adults and fast-food fans seeking a premium and improved classic burger experience.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001578
+}

@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 25,
+  "mechanic_match": 10,
+  "audience_match": 55,
+  "overall": 22,
+  "rationale": "This \"relaxing bus sort\" satisfaction hook is a fundamental mismatch for Flappy Dunk: the core loop is twitchy, reflex-based, head-to-head competition — the exact opposite of the \"feel relaxed\" emotional pitch, so the hook would mis-set player expectations and tank D1 retention from installs. Visually the soft pastel/white palette and top-down stylus-on-grid framing also clashes with Flappy Dunk's bold black-outlined cartoon avatar and saturated magenta/beige VS UI. Only the broad hypercasual audience overlaps; do not adapt this archetype — if you want to borrow anything, take only the \"hand-played\" POV framing and re-skin it around tapping the ball through hoops with combo-satisfaction, not relaxation."
+}

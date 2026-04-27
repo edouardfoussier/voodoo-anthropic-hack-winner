@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "1235581326",
+  "title": "\"You Look Happier\" — Flappy Dunk UGC Brag",
+  "hook_3s": "Friend texts \"you look happier 👀\" — phone tilts up revealing a magenta-and-beige Flappy Dunk combo streak mid-swish.",
+  "scene_flow": [
+    "0–3s: Selfie-style POV of a young woman grinning on a couch, phone face-down on her chest. Incoming iMessage bubble pops: 'you look happier lately??'",
+    "3–6s: She flips the phone to camera — vertical screen recording of Flappy Dunk: the ball bouncing through a magenta hoop, +1 score popping, combo flames building.",
+    "6–10s: Quick cuts of her thumb tapping rhythmically, ball swishing through 3 hoops in a row, score counter climbing 7→8→9, VS opponent score lagging behind.",
+    "10–13s: She replies via voice-text, smug smile: 'thanks — I'm 12-0 against my brother in Flappy Dunk 🏀'. Combo explosion FX flashes on her face.",
+    "13–15s: Hard cut to clean store card with logo, magenta CTA banner, finger taps INSTALL."
+  ],
+  "visual_direction": "Authentic vertical UGC selfie energy (handheld, slight grain, natural window light) sandwiching a pristine in-game screen recording. The in-game footage must dominate the middle 7 seconds and carry the game's signature warm beige (#EAD5A0) court background, saturated magenta (#D81155) hoops and score banners, and bright blue (#5CB3FF) ball trail. Thick black outlines and flat shading on every game asset — no gradients, no 3D. UGC framing is muted/neutral so the saturated cartoon gameplay pops by contrast. Combo explosion effects, score counter, and VS bar are hero UI elements.",
+  "text_overlays": [
+    "you look happier lately??",
+    "oh — been playing this all week",
+    "12-0 vs my brother 😤",
+    "COMBO x7",
+    "Flappy Dunk — tap to dunk",
+    "INSTALL FREE"
+  ],
+  "cta": "Dunk Now",
+  "rationale": "Voodoo's current rotation is all polished gameplay videos and a playable — zero UGC, zero personality-led hooks. This brief injects the trending live-action \"you look happier\" satisfaction format but rewires the payoff from a fake level-55 brag (which Flappy Dunk can't honestly claim) to an honest VS-mode win-streak brag, which IS native to the core loop. UA team: test against the YouTube \"Best basketball game ever\" videos as control; expect stronger thumb-stop on female 18–34 and a fresh creative lane for sustained spend.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 mobile screen recording of Flappy Dunk gameplay: a bright blue (#5CB3FF) basketball mid-air arcing through a saturated magenta (#D81155) horizontal hoop, warm beige (#EAD5A0) flat background, second magenta hoop visible above, large white score number '7' top-center with thick black outline, small heart/lives indicator top-left, combo flame burst around the ball, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors, on-screen text overlay 'COMBO x7' in bold white with black stroke, no characters, authentic Flappy Dunk HUD chrome, no 3D, no gradients",
+    "Storyboard frame, vertical 9:16, over-the-shoulder phone-in-hand UGC shot: young woman's thumb tapping a smartphone displaying Flappy Dunk — beige (#EAD5A0) court, magenta (#D81155) hoops stacked vertically, blue (#5CB3FF) ball with motion trail, VS score bar at top showing '9 vs 2', iMessage bubble overlay reading 'you look happier lately??' in grey, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors inside the phone screen, naturalistic muted living-room lighting outside the phone, high contrast between real-world UGC framing and saturated in-game art",
+    "Storyboard frame, vertical 9:16, full-bleed Flappy Dunk end-card: centered game logo on warm beige (#EAD5A0) background, large magenta (#D81155) CTA banner across the bottom with bold white text 'INSTALL FREE', bright blue (#5CB3FF) basketball bouncing in upper third with motion lines, small magenta hoop icon, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors, on-screen text overlay '12-0 vs my brother 😤' in white with black stroke, energetic competitive mood, no characters"
+  ]
+}

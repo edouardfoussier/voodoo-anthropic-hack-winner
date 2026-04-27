@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "2cb638b3a5384a6d",
+    "ad_unit_id": "2cb638b3a5384a6d",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/preview",
+    "phashion_group": "2cb638b3a5384a6d",
+    "share": null,
+    "first_seen_at": "2026-04-18T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Third-person gameplay of a heavily armed black robot targeting enemies in an urban environment.",
+    "visual_action": "The robot hovers and aims its four mounted guns at distant enemy markers while navigating a rooftop.",
+    "text_overlay": "TRIPLE KILL [KO'NG] Pilot 3KMT08",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Third-person gameplay showing a heavy robot navigating a city environment and targeting enemies.",
+    "The robot fires its weapons, achieving a 'WRAMPAGE' and 'KILL' notification.",
+    "Transition effect showing a futuristic cockpit/interface closing in.",
+    "Final logo screen for 'War Robots' with 'PLAY FOR FREE!' text."
+  ],
+  "on_screen_text": [
+    "TRIPLE KILL [KO'NG] Pilot 3KMT08",
+    "WRAMPAGE",
+    "KILL",
+    "WAR ROBOTS",
+    "PLAY FOR FREE!"
+  ],
+  "cta_text": "PLAY FOR FREE!",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#1A1A1A",
+    "#82A9C1",
+    "#F09609"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy competitive multiplayer shooters and mecha-themed combat.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001696
+}

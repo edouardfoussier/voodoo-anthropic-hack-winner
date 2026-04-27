@@ -1,0 +1,8 @@
+{
+  "archetype_id": "challenge-in-game",
+  "visual_match": 25,
+  "mechanic_match": 20,
+  "audience_match": 55,
+  "overall": 30,
+  "rationale": "The \"Can you win?\" challenge framing is genre-agnostic and the casual audience overlaps, but the bus parking puzzle hook is fundamentally a top-down logic/pathing concept that has zero read-through to Helix Jump's vertical bounce-and-rotate loop — recreating it would require fabricating gameplay that doesn't exist in the app, risking misleading-ad penalties. Palette (muted greys/greens/blues) also clashes with Helix's neon high-contrast identity. Only worth borrowing the text-overlay challenge formula (\"WHY THIS LEVEL IS SO HARD\") over authentic Helix footage, not the puzzle concept itself."
+}

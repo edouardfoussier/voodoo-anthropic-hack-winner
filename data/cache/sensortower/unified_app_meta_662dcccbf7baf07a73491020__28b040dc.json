@@ -1,0 +1,29 @@
+{
+  "apps": [
+    {
+      "unified_app_id": "662dcccbf7baf07a73491020",
+      "name": "Magic Sort!",
+      "canonical_app_id": 6499209744,
+      "cohort_id": "cohort_69c4417937ebae041f2f183d",
+      "itunes_apps": [
+        {
+          "app_id": 6499209744
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.grandgames.magicsort"
+        }
+      ],
+      "unified_publisher_ids": [
+        "667eca2699303115f86f8deb"
+      ],
+      "itunes_publisher_ids": [
+        1742757639
+      ],
+      "android_publisher_ids": [
+        "Grand+Games+A.\u015e."
+      ]
+    }
+  ]
+}

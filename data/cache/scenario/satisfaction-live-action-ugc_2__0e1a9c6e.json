@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_WVGPmueQKuXizLxv4eeV7aNw?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfV1ZHUG11ZVFLdVhpekx4djRlZVY3YU53P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Ih7KNvvOVE-CQFMnxaiJdw4V-VvRVTpwXGY7h1a2GIynFIk%7E2sQcwWZVFsAWXAdNTUjDivRRpcE1yZmCLELxL3rrF4VR%7EQorjhImakyin30bqIfZpUlTFXuy2g2diZRdR8utqBRH2DSa5lK5DIKbmaSDHXRELL87MH8WVVMLGPKgyceSIGU8mlgDKLMeO2N5NXbWUuJEGhwoFAKkLsUN6VW2LZX219YDwNIKoin2-5pOWub0826BO87mf-o-HvF9pRoHEqOsBGYxCdshie1yzTkDEACYDkcasNfGOoVgBv8Iaye0QHJkB9cpi5OJW5HNm8iYvX%7EWhck7sd8jxW5u5A__",
+  "job_id": "job_sV6vFtPjyF1bYbykAwKJ6j33",
+  "asset_id": "asset_WVGPmueQKuXizLxv4eeV7aNw",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, UGC over-the-shoulder shot of a young person's hand holding a phone, thumb on the screen mid-swipe, phone screen clearly readable showing Helix Jump: long vertical drop down the cyan #5CE1E6 helix tower, neon green #39FF14 ball free-falling past several rotating discs with red #FF0000 danger zones, screen edges flashing neon green, 'PERFECT DROP' text flashing in the center of the game screen, level progress bar on the right side of the HUD, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters inside the game, cozy bedroom background slightly out of focus, on-screen text overlay 'PERFECT DROP'",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

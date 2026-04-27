@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 25,
+  "mechanic_match": 20,
+  "audience_match": 55,
+  "overall": 28,
+  "rationale": "The fail-bait hook style does broadly map to hypercasual audiences, but the specific concept (driving/parking buses into each other) has zero mechanical overlap with Push'em All's swipe-to-push crowd-control loop — recreating it would misrepresent the product and likely tank install-to-play retention. Visually the white/green/red palette is roughly compatible, but the absence of stickman crowds, platform-edge pushing, or the signature blue water means we'd essentially be rebuilding the creative from scratch. Recommend skipping this archetype and instead borrowing only the \"WHY THIS LEVEL IS SO HARD, CAN YOU WIN?\" fail-bait framing applied to a genuine Push'em All near-miss (player getting shoved off the platform at the last second)."
+}

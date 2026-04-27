@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "1345968745",
+  "title": "\"You Look Happier\" — Helix Jump UGC Cold-Open",
+  "hook_3s": "Phone-shot selfie: girl grinning on her couch — \"You look happier.\" \"I just smashed level 80 on Helix Jump.\"",
+  "scene_flow": [
+    "0–3s: Vertical phone-cam UGC. Girlfriend films her boyfriend sprawled on the couch, thumb glued to his phone. Caption pops: 'You look happier lately…'",
+    "3–5s: Hard cut to over-the-shoulder of his screen — authentic Helix Jump gameplay, neon ball ripping through 6 stacked platforms in one combo, screen flashes #39FF14.",
+    "5–10s: Full-screen gameplay takeover. Helix tower rotates, ball bounces past red #FF0000 trap rings, smash-through combo counter climbs: x3… x5… x8 SMASH!",
+    "10–13s: Level 80 banner slams in. Cut back to him grinning at camera: 'Told you. Level 80.'",
+    "13–15s: End card — Helix tower spinning behind logo, CTA pulses."
+  ],
+  "visual_direction": "Open with grainy, handheld 9:16 UGC footage (warm indoor lighting, lived-in couch) to sell authenticity, then hard-cut into Helix Jump's signature look: cyan #5CE1E6 helix tower on a clean light background, neon green #39FF14 safe zones, screaming red #FF0000 trap platforms. Keep the 3D minimalist geometry pure — no extra characters, no invented HUD. Camera stays locked top-down on the tower during gameplay; combo flashes and screen-shake on every smash. The contrast between messy real-life cold-open and crisp neon gameplay is the entire creative.",
+  "text_overlays": [
+    "\"You look happier lately…\"",
+    "\"I hit level 80 on Helix Jump 😤\"",
+    "COMBO x8 — SMASH!",
+    "LEVEL 80 CLEARED",
+    "Your turn."
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Helix Jump rotation is 100% no-copy gameplay videos and playables — zero UGC, zero human face, zero narrative cold-open. This brief injects the trending live-action satisfaction-testimonial hook the market is rewarding, then hard-cuts to authentic gameplay within 3 seconds so we don't sacrifice the rotate-and-smash conversion driver. UA team: test this against the silent-gameplay control on Meta/TikTok where UGC overperforms; kill if 3s hold-rate underperforms the playable baseline.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic Helix Jump in-game screenshot: top-down 3D view of a vertical cyan #5CE1E6 helix tower made of stacked rotating disc platforms on a clean off-white background, a small glossy neon green #39FF14 ball mid-bounce smashing through a disc with bright #FF0000 red trap segments shattering into geometric shards, motion blur trail, minimalist HUD showing score number top-left and level progress bar top-right, on-screen text 'COMBO x8 — SMASH!' in bold white sans-serif center, 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters, no people, crisp clean render",
+    "Storyboard frame 1, aspect 9:16, vertical UGC phone-camera still: warm living-room lighting, young man lying on a beige couch holding a smartphone vertically, his phone screen clearly displays an authentic Helix Jump gameplay moment — cyan #5CE1E6 helix tower, neon green #39FF14 ball, red #FF0000 danger ring — rendered in 3D minimalist style with bright contrasting colors and simple geometric shapes, slight handheld grain, white caption bar across top reading '\"You look happier lately…\"', no extra UI invented, photo-real cold-open aesthetic",
+    "Storyboard frame 2, aspect 9:16, full-screen Helix Jump gameplay capture: cyan #5CE1E6 rotating helix tower seen top-down, neon green #39FF14 ball falling through a clean gap, red #FF0000 trap platforms on the ring below, geometric shards flying from a just-smashed disc, score multiplier '+150' floating up, level banner overlay reading 'LEVEL 80 CLEARED' in bold white, 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters present, authentic in-game UI chrome only"
+  ]
+}

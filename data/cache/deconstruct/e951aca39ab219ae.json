@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "e951aca39ab219ae",
+    "ad_unit_id": "e951aca39ab219ae",
+    "app_id": "5618099202ac64fe3e00000b",
+    "advertiser_name": "Prodigy Math Game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8034d74dd2157b82/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8034d74dd2157b82/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8034d74dd2157b82/preview",
+    "phashion_group": "e951aca39ab219ae",
+    "share": null,
+    "first_seen_at": "2025-07-30T00:00:00",
+    "last_seen_at": "2026-04-05T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 608,
+    "height": 1080,
+    "message": "Start the school year strong with math practice that’s fun—and effective!",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A toggle switch transitions from a traditional abacus to a magical game world.",
+    "visual_action": "An abacus is shown with a toggle switch that slides to the Prodigy logo, sparking a visual explosion into gameplay.",
+    "text_overlay": "HEY PARENTS! This school year, slide math out of the past",
+    "voiceover_transcript": null,
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "Intro shows a 3D abacus with a 'Hey Parents!' message.",
+    "A toggle switch slides to the Prodigy logo, triggering a magical transition.",
+    "Gameplay footage displays a turn-based monster battle with math-based mechanics.",
+    "The ad concludes with the brand logo and a call to action."
+  ],
+  "on_screen_text": [
+    "HEY PARENTS!",
+    "This school year, slide math out of the past",
+    "And into fun mode with Prodigy.",
+    "ON",
+    "Prodigy",
+    "Learn more"
+  ],
+  "cta_text": "Learn more",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#F5E6D3",
+    "#F15A24",
+    "#2D5A4C"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Parents of school-aged children seeking educational games to make math practice more engaging.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001585
+}

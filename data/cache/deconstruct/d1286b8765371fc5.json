@@ -1,0 +1,49 @@
+{
+  "raw": {
+    "creative_id": "d1286b8765371fc5",
+    "ad_unit_id": "d1286b8765371fc5",
+    "app_id": "6546ff132d90b603478cd080",
+    "advertiser_name": "Bounty Bash: Idle Pirate RPG",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fc6ccbe96d1b254d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fc6ccbe96d1b254d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fc6ccbe96d1b254d/preview",
+    "phashion_group": "d1286b8765371fc5",
+    "share": null,
+    "first_seen_at": "2026-03-08T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 670,
+    "height": 1192,
+    "message": "Become the Ultimate Pirate King",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A level 999 dark pirate character sits on a throne of gold.",
+    "visual_action": "A dark-clad character with glowing purple eyes sits on a skull-decorated throne surrounded by gold, with purple energy effects.",
+    "text_overlay": "Lv 999",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of a max-level pirate king character on a throne.",
+    "Slow zoom into the character's face to create a sense of mystery and power."
+  ],
+  "on_screen_text": [
+    "Lv 999"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#9126FF",
+    "#FFD100",
+    "#2D2430"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Male gamers aged 18-35 who are attracted to power-fantasy RPGs and character collection.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.000869
+}

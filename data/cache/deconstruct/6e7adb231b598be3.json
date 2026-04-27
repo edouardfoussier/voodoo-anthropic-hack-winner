@@ -1,0 +1,49 @@
+{
+  "raw": {
+    "creative_id": "6e7adb231b598be3",
+    "ad_unit_id": "6e7adb231b598be3",
+    "app_id": "6677aa3eee65c40fa27f21a9",
+    "advertiser_name": "Screw Away: 3D Pin Puzzle",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0227f1a855191da9/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0227f1a855191da9/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0227f1a855191da9/preview",
+    "phashion_group": "6e7adb231b598be3",
+    "share": null,
+    "first_seen_at": "2025-10-13T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand unscrews a giraffe puzzle while a narrator questions the level's design.",
+    "visual_action": "A hand uses a stylus to remove screws from a purple giraffe puzzle on a digital screen.",
+    "text_overlay": null,
+    "voiceover_transcript": "What great cleverness designed this level. It looks so easy, doesn't it?",
+    "emotional_pitch": "rage_bait"
+  },
+  "scene_flow": [
+    "Hand starts unscrewing the top parts of a giraffe puzzle using a stylus.",
+    "The narrator expresses frustration as pieces become stuck and block the path.",
+    "The hand continues to rearrange screws to try and free the remaining puzzle pieces.",
+    "The narrator issues a final challenge to the viewer to see if they can solve it."
+  ],
+  "on_screen_text": [],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#A891A1",
+    "#FFFFFF",
+    "#D67C52"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual puzzle gamers who are motivated by logic challenges and frustration-based marketing.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001364
+}

@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "83b5f46a9b176166",
+    "ad_unit_id": "83b5f46a9b176166",
+    "app_id": "657764bcad4adb78f0c03332",
+    "advertiser_name": "DraftKings Casino - Real Money",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/preview",
+    "phashion_group": "83b5f46a9b176166",
+    "share": null,
+    "first_seen_at": "2026-03-15T00:00:00",
+    "last_seen_at": "2026-04-11T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "EXCLUSIVE FLEX SPINS have landed on DraftKings Casino 🚀 Head to the app for your daily chance at FREE Flex Spins 🎰",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Prominent display of a 'Free Flex Spins' offer with slot game icons flying into the center.",
+    "visual_action": "Slot game icons like 'Big Bank Breakout' and 'Whitney Houston' fly from the edges toward the center over a purple background.",
+    "text_overlay": "GET A DAILY CHANCE AT FREE FLEX SPINS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Initial reveal of the DraftKings Casino logo and the 'Free Flex Spins' headline.",
+    "Slot game tiles fly from the edges to the center of the screen in a dynamic motion.",
+    "The tiles rotate and swap to showcase a variety of available slot games like Cleopatra and Hyper Nova.",
+    "The animation settles on a grid of games with the promotional logo and extensive legal disclaimers."
+  ],
+  "on_screen_text": [
+    "DRAFTKINGS CASINO",
+    "GET A DAILY CHANCE AT FREE FLEX SPINS",
+    "On your choice of 100+ slots",
+    "FLEX SPINS",
+    "BIG BANK BREAKOUT",
+    "WHITNEY HOUSTON",
+    "HYPER NOVA MEGAWAYS",
+    "CASH ERUPTION",
+    "CLEOPATRA"
+  ],
+  "cta_text": "GET A DAILY CHANCE AT FREE FLEX SPINS",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#310062",
+    "#F9E116",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults 21+ in legal gambling states who enjoy the variety and excitement of digital slot machines.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001882
+}

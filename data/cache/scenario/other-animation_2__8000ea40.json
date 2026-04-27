@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_iYKxjBMG9Rt2qi5eWT1aC5eD?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfaVlLeGpCTUc5UnQycWk1ZVdUMWFDNWVEP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ixiUfc3hFXSGSpVYKir1HVixrzHO3o8Epv-ArMnE9KU6v2AoqcpuQiIDjN5Bfra4hBPLWQNUXqAv8RC3iknhSLxWlsajLWagsBDYzMV3VKVpvGz2pAyOXp5L2diLqAkdpFs0SzSa8ZuJrpheHRBzRxaMzJksZenRnLdeyFAh0OX40PwlqUHed-njc5uKl2C-%7EiSuhtNSwXV1b5dW2j5tFcE45eMPxYone2LHv5gGm9q9tInY0XkHrasQfPYqdkj62ddw9Shyx-DegL5L6Ugw62V53FCgeZ52BXVsW6QEU9dGI-XmFQI2Rc2pqRzonG5irHiyaOvEAlbuhirB8mnT2A__",
+  "job_id": "job_DbKn6GwdfCwnu1uVAfmoEJv7",
+  "asset_id": "asset_iYKxjBMG9Rt2qi5eWT1aC5eD",
+  "stub": false,
+  "prompt": "Storyboard tension frame, aspect 9:16, Roof Rails in-game style: dramatic close-up of the low-poly runner mid-slide as a spinning red-and-yellow #FFC824 circular saw obstacle slices through one end of the long balancing pole, pole-piece fragments flying off, stark white #EAF6FA rail underfoot, bright cyan #5CD6FF cityscape blurred behind with speed lines, level indicator and diamond HUD top corners, 3D minimalist simple geometry clean uncluttered bright pastel aesthetic, urgent on-screen text 'DON'T LET IT SNAP!' in bold white caps with subtle shake. [Audio: VO (sharp): 'Watch out!' / tense 140bpm competitive trap-EDM drop / saw-blade whirr, sharp wood-snap crack at 1.2s, heartbeat thud, alert sting]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

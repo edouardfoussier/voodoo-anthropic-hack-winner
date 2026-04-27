@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "229628308cdbdd28",
+    "ad_unit_id": "229628308cdbdd28",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9b32b652e27966d3/preview",
+    "phashion_group": "229628308cdbdd28",
+    "share": null,
+    "first_seen_at": "2025-08-29T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Throw your new robots into the thick of battle!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A celebratory 'We miss you!' message with confetti and mechs.",
+    "visual_action": "Three mechs stand in a row as 3D text and confetti fall around them.",
+    "text_overlay": "We miss you!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Three mechs are introduced against a dark, starry background.",
+    "Large 3D text 'We miss you!' drops into the center of the frame with a confetti explosion.",
+    "The mechs perform idle animations while celebratory sparkles fill the screen.",
+    "A green 'Comeback' button appears at the bottom to prompt user action.",
+    "The video ends with a TikTok social handle overlay."
+  ],
+  "on_screen_text": [
+    "We miss you!",
+    "Comeback",
+    "@user163866274"
+  ],
+  "cta_text": "Comeback",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#0B0B24",
+    "#8C1C2C",
+    "#4894B4"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Lapsed players of mech-based action games who respond to nostalgia and re-engagement incentives.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001595
+}

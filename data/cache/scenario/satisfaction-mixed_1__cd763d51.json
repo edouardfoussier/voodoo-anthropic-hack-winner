@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Srtouo9K99SCn1XGAJErWsyU?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfU3J0b3VvOUs5OVNDbjFYR0FKRXJXc3lVP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=mM4DfpBktateTFL0m6RgDvsSKnQYANX9Flp2ihCd2TDBWKtSbWN8x5meemtOFDqmMmktiPWlSAiRfVHmZlyQpi4OWYDZIEqs3fSoSb5nkqBcf8LUcjDm21v6ldr3-8ZvPUIUg0hJ5K2AcMxpuurfHRpJDwelZIcc%7EPRidgvw9UYbtsuz0EA5fU8-sICUn4TtjvIofOXwxurXsdMwcPlM0rdecuvgpPZAc90EjconNoDUEN1twW1brjpWdHZ8EGDPLqz4C6v55oGILA4pYfQuH848o%7Em7M89pJgvTH0sAwic7WSH7WpEXo0dsunP9BC0sG%7E6pKeXdL0TpgBLLmkfolA__",
+  "job_id": "job_KwKJ7pGyGBcPp9VNobABuCo4",
+  "asset_id": "asset_Srtouo9K99SCn1XGAJErWsyU",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, authentic Paper.io 2 gameplay: dramatic top-down zoom of the #FFD700 yellow trail snapping closed into a massive captured territory flood-fill, #FF00FF magenta enemy eliminated mid-screen, scattered collectible coins and gems bouncing, kill-feed text 'YOU ELIMINATED Pink_42' top-right, territory bar surging to 68%, #00BFFF cyan rival zones shrinking, vibrant minimalist 3D top-down with bright solid colors palette #FFD700 #00BFFF #FF00FF, bold on-screen text overlay '68% TERRITORY \ud83d\udd25'. [Audio: VO (excited): 'Wait \u2014 not so relaxing now!' / punchy upbeat electronic 128 BPM drop / whoosh on capture, coin chime stack, satisfying bass thud at 1.8s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "f41b68dd7e9c7ab2",
+    "ad_unit_id": "f41b68dd7e9c7ab2",
+    "app_id": "55c5342c02ac64f9c0002f34",
+    "advertiser_name": "DRAGON BALL Z DOKKAN BATTLE",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/preview",
+    "phashion_group": "f41b68dd7e9c7ab2",
+    "share": null,
+    "first_seen_at": "2024-05-09T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Get New Characters and Fight Some Spectacular Battles",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Goku SSJ3 performs his iconic Dragon Fist attack.",
+    "visual_action": "Goku charges energy and punches forward, summoning a massive golden dragon.",
+    "text_overlay": "Dragon Fist!!!",
+    "voiceover_transcript": "Dragon Fist!!!",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Goku SSJ3 charges up and shouts while preparing his signature move.",
+    "A golden energy dragon emerges from Goku's punch and spirals toward the enemy.",
+    "The dragon constricts and pierces through the giant boss Hirudegarn.",
+    "A massive explosion of light occurs as the attack connects.",
+    "End card displays the game logo, character art, and a Play Now button."
+  ],
+  "on_screen_text": [
+    "Dragon Fist!!!",
+    "Dragon Ball Z Dokkan Battle",
+    "Play Now",
+    "*The images are the characters' forms after Dokkan Awakening.",
+    "*The images are the characters' forms after activating a skill.",
+    "*Some characters featured in the video may not be available at certain times of the year."
+  ],
+  "cta_text": "Play Now",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#FFD700",
+    "#1E3A8A",
+    "#4B0082"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Male anime fans and Dragon Ball enthusiasts aged 18-35 who enjoy high-intensity battle animations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001765
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_XbXYRAMqWPUBfAMnNPGSNhhx?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWGJYWVJBTXFXUFVCZkFNbk5QR1NOaGh4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=HQQ%7EkKIS%7Evbs-grGPiKf%7ET5cFNpi69vRoOsjh-56jZZPDBaBaPkirw4RTQ-7MoE-9FZCwhWleehmVso9aD0ErPcOkfHYLHIKturyuL%7EPFdsOlruz4mM2ZKM3yjR6h%7E8Ik8FbU6v0kpTsxxUgdezO7LY2j6lLW-RofZhUXHTIHjlQ-slWdD3gkewNtAc%7EMf5G5534PVUCruzyuwxbsmhywoOqRJycaP-Mj19Pr4yVRXglzjAL31ijvqcwquIP7nFDp-OaUZdZnUVSO4byzU7TJfnBpcLIZED5TkHRZe3c9-L3uIMXdtwCLb0wcSyXCaXH8sVZNaTwNfT5EWwKQZ5sVA__",
+  "job_id": "job_yoNRq8odD4riQdeFxhJoFXSt",
+  "asset_id": "asset_XbXYRAMqWPUBfAMnNPGSNhhx",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic in-game screenshot of Archery Clash! mobile duel: stylized female archer at bottom of frame drawing back a glowing bow, dotted yellow (#FFD700) trajectory arc curving toward a rival duelist across a sunlit blue (#2A9DF4) arena platform, opponent health bar and gear rarity icons in HUD chrome, green (#32CD32) tier meter on right side filling toward 'GENIUS', 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text 'GENIUS' in bold yellow caps. [Audio: VO whisper 'wait for it\u2026' / punchy upbeat trap 120BPM building tension / bowstring creak, arrow whoosh at 3s, ascending chime ping on meter tick]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

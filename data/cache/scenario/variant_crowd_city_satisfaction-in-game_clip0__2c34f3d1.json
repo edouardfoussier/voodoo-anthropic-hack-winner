@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_cnQMHV6dEa4QJmX9rx1s1aLq?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9jblFNSFY2ZEVhNFFKbVg5cngxczFhTHEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=AifJSlgUPJOVBR4-kLAnykjoFMeYQz347EBuGgGrgXwUjE4mqHo%7E9dQV66SPtZAsU%7E1PhL7MwJ%7EfPqsaJq7H%7E-GgQMbyYNnVvTEe6yfboz9MYdohI5FdpyAcbPE0x%7EAwYxAdbPFPjSslOfjP8P-faL%7E7VG8fHSpoDMNagGcawu6PIeOMnq2qIWWb8qm1TDtiFMXrZVP4qUfhvZExC9c5FNyVHtn9D6u3qK-AC%7ERMc7%7E3XnyY7ilbvQJWXNiXnJeBwSZONR7VJRckg%7EzHDicYh-TdR47n80vEME07A8RgRhzokAM9Za2DmDmme3YGXBJPdwn437Iltt6AHG5OL8%7E3hw__",
+  "job_id": "job_KBw8omcrosTXpwBFNeqTTbBy",
+  "asset_id": "asset_cnQMHV6dEa4QJmX9rx1s1aLq",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Hero frame, aspect 9:16, authentic Crowd City in-game screenshot: top-down 3-quarter camera over a low-poly pastel city street, one single bright red (#FF0000) stickman character standing alone on a cream sidewalk surrounded by dozens of neutral grey low-poly stickmen mid-conversion, a shrinking blue (#0000FF) rival crowd fleeing in the background, a tiny green (#00FF00) crowd visible near a low-poly Eiffel Tower, signature Crowd City HUD with top-left countdown timer '0:42' and top-right red/bl",
+  "mode": "video",
+  "input_frames": 1
+}

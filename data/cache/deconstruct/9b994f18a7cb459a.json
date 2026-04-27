@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "9b994f18a7cb459a",
+    "ad_unit_id": "9b994f18a7cb459a",
+    "app_id": "5d00c184b9ab946db069da65",
+    "advertiser_name": "Virgin Bet: Sports & Casino",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f26b532e9ff5a708/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f26b532e9ff5a708/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f26b532e9ff5a708/preview",
+    "phashion_group": "9b994f18a7cb459a",
+    "share": null,
+    "first_seen_at": "2026-02-23T00:00:00",
+    "last_seen_at": "2026-04-01T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🔥 Love matchdays? Get a Free Bet Builder every Sunday on any match! ⚽🎯\nSign up, claim, and start building. 18+ and T&Cs apply*",
+    "button_text": "Sign Up",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced brand and slogan introduction on a vibrant red background.",
+    "visual_action": "The Virgin Bet logo appears, followed by sliding text overlays 'LOVE GOALS' and 'LOVE MATCHDAYS'.",
+    "text_overlay": "Virgin BET A GOOD BET LOVE GOALS LOVE MATCHDAYS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Brand identity reveal with logo and slogan on a solid red background.",
+    "Rapid-fire text overlays highlighting football-related 'love' themes like goals and matchdays.",
+    "Presentation of the 'Free Bet Builder' offer featuring diverse users holding a smartphone.",
+    "Details of the Sunday match promotion with a close-up of the app interface and a smiling user.",
+    "Closing with mandatory responsible gambling messaging and brand logo."
+  ],
+  "on_screen_text": [
+    "Virgin BET",
+    "A GOOD BET",
+    "LOVE GOALS",
+    "LOVE MATCHDAYS",
+    "LOVE A FREE BET BUILDER",
+    "EVERY SUNDAY ON ANY MATCH*",
+    "BET FREE BET BUILDER",
+    "*Members only. To Qualify: min £10 bets on sportsbook in previous 7 days. Free Bet for Bet Builder on any football match played this Sunday (min 3 sel & odds EVS). Max 1/ Member. £1 - £20. Stakes not returned. T&Cs apply.",
+    "Bet Responsibly. GambleAware.org. 18+",
+    "TAKE TIME TO THINK"
+  ],
+  "cta_text": "BET FREE BET BUILDER",
+  "cta_timing_seconds": 7.0,
+  "palette_hex": [
+    "#E10A17",
+    "#FFFFFF",
+    "#FFF200"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult sports fans in the UK looking for football betting offers and app-based wagering.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001985
+}

@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 18,
+  "mechanic_match": 22,
+  "audience_match": 55,
+  "overall": 25,
+  "rationale": "The \"fail with a crashing bus\" hook is rooted in puzzle/parking/draw-line gameplay and has zero overlap with Flappy Dunk's tap-to-fly hoop loop — there are no vehicles, no cursor-drag mechanic, and no level-fail moment to misrepresent honestly. Palette (white/green/red) and the cursor-driven visual language also clash with the game's bold magenta/beige 2D cartoon VS aesthetic. Audience (hypercasual fail-bait viewers) does broadly overlap, but adapting this archetype would require a full re-skin to a \"tap-and-miss-the-hoop\" fail concept, at which point it's no longer this cluster — recommend skipping."
+}

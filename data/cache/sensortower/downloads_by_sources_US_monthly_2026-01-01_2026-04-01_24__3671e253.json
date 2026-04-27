@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "app_id": "5e2d3c02b8729d681b8e8df5",
+      "breakdown": [
+        {
+          "date": "2026-01-01",
+          "organic_abs": 9068,
+          "organic_browse_abs": 2914,
+          "organic_search_abs": 6154,
+          "browser_abs": 700,
+          "paid_abs": 49939,
+          "paid_search_abs": 498,
+          "organic_frac": 0.150619,
+          "organic_browse_frac": 0.048401,
+          "organic_search_frac": 0.102217,
+          "browser_frac": 0.011627,
+          "paid_frac": 0.829483,
+          "paid_search_frac": 0.008272
+        },
+        {
+          "date": "2026-02-01",
+          "organic_abs": 6734,
+          "organic_browse_abs": 1940,
+          "organic_search_abs": 4794,
+          "browser_abs": 696,
+          "paid_abs": 36165,
+          "paid_search_abs": 764,
+          "organic_frac": 0.151807,
+          "organic_browse_frac": 0.043734,
+          "organic_search_frac": 0.108073,
+          "browser_frac": 0.01569,
+          "paid_frac": 0.81528,
+          "paid_search_frac": 0.017223
+        },
+        {
+          "date": "2026-03-01",
+          "organic_abs": 8118,
+          "organic_browse_abs": 2121,
+          "organic_search_abs": 5997,
+          "browser_abs": 1609,
+          "paid_abs": 47030,
+          "paid_search_abs": 995,
+          "organic_frac": 0.140567,
+          "organic_browse_frac": 0.036726,
+          "organic_search_frac": 0.103841,
+          "browser_frac": 0.027861,
+          "paid_frac": 0.814344,
+          "paid_search_frac": 0.017229
+        },
+        {
+          "date": "2026-04-01",
+          "organic_abs": 5177,
+          "organic_browse_abs": 1906,
+          "organic_search_abs": 3271,
+          "browser_abs": 528,
+          "paid_abs": 38168,
+          "paid_search_abs": 646,
+          "organic_frac": 0.116287,
+          "organic_browse_frac": 0.042813,
+          "organic_search_frac": 0.073474,
+          "browser_frac": 0.01186,
+          "paid_frac": 0.857342,
+          "paid_search_frac": 0.014511
+        }
+      ]
+    }
+  ]
+}

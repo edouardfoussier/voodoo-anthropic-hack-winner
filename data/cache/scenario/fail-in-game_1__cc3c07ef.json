@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_JV4TVTe1FTA5sT87wPz7TWrL?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSlY0VFZUZTFGVEE1c1Q4N3dQejdUV3JMP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=KAsv-uhGEI7UY-xyg8ypwFFgKDbmFzOtWGuGZy577zG30-MH-f8ZQpQQ-z12RyZMQj0%7EwGdy24abzxmSZ8G4Qi06kMFHupGDWUABaGdudAcX2oWVHG4rR3ffEc97o%7EoFzZohn%7EgSDB25E7dAPvklkC1F1myALHDxJnd6YnFmhlKiN8A6MSJdEOQajLgn0KP9Uvaudxn6qBtI5hi8CBspkZQVOlfV0W2NaESJgJ9KmfdSjxU94os9VB6TXZ%7EM4APM3uXVDpq-xegPBCiyhh0in3-5%7ENPjTlmL8t-91IYxnsT1dj49yeiy%7EI4wSrujipYoTVJGkqThg4sTzNOOXxl8Wg__",
+  "job_id": "job_cUuQFZPFj64pHzaymfNeQRKz",
+  "asset_id": "asset_JV4TVTe1FTA5sT87wPz7TWrL",
+  "stub": false,
+  "prompt": "9:16 dramatic slow-motion in-game frame from Push'em All: the blue stickman hero (#2a7dfa) tipping sideways off the edge of a sandy-green platform (#56a38b) into vibrant blue water, one red stickman enemy (#e3001b) frozen mid-shove behind him, scattered red bodies already splashing below. Game HUD intact: level progress bar nearly full at top, 'SIZE UP!' power-up notification fading, coin counter top-right. Minimalist 3D, bright contrasting colors, simple stickman figures, flat shading. Giant red overlay text 'FAIL \ud83d\udc80' stamped across center. [Audio: VO null / music drops to a single detuned piano hit / fail-buzzer at 1.0s, water-splash at 1.8s, sad whistle tail]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

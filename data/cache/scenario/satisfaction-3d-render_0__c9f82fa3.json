@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Q76o6m41JxR7BJXwMJHvwtwN?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUTc2bzZtNDFKeFI3QkpYd01KSHZ3dHdOP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=uRlCE9LUQAtn8%7EQUO-2pp5V8gbPvnZ0gkY8sFhvQG7MRhNPUUdzinBk98s8tHcxg5NyHiVmhVkugDJOTlFyFJX39FDrJ2HUrvR5Pb-iM2GnUjYknOllBiK-17ZFuFLOoOV9H3Ur14PrNidAl8mc0WFWvzPhoqTrCWMQ77rPiuA3W5EeUWCdraiw85y2Svjt6SWH2DFTPPHS2ZESUVdXVl2Qxs0tAu701-DElZBulB5xe7hpZlbm9hd3RSo0SuD9eLrZlLhXE2I-Hh3GW4q3FPDLCOW4IdT88Ty6YitCQBph9pHq0S-fC5ZGVZFIVTkS1%7E6TXBEKXWxt%7EsPBDrBWgSA__",
+  "job_id": "job_KqDRG5u55Tjr5biVVxa5BpSG",
+  "asset_id": "asset_Q76o6m41JxR7BJXwMJHvwtwN",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect ratio, mobile ad still: a glossy stream of beveled polyomino blocks in saturated red, yellow, green and purple pouring from above and snapping into an 8x8 dark navy grid floating in mid-air, royal blue ambient background (#5469B9), dark navy board (#1E2744), gold accent sparkles (#FFD700) bursting on impact, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, macro depth of field, soft studio rim light, ASMR product-render quality, on-screen text overlay reading 'Drag. Snap. Clear.' in bold white sans-serif at top center, no characters, no clutter.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

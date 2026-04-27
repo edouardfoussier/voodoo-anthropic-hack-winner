@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_S7kmXqGMMrmh9iYfb9ACYSGM?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUzdrbVhxR01Ncm1oOWlZZmI5QUNZU0dNP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=mx8CfoAHp%7EwMFya3oJDrKRqYWpr04Mam%7EMPtQkeJL1au1pQBnX7H4ArdY9bWezwHucCg8jvRT-441HDT6C7kElZX4gWdj0FpDmtBYjQhB6Dt21JBmbQHK2iyWrUMuKZSmOtFrxglTPG87zETNiWZ4vsMJdLYWQbp2lGdsMgV4audDNTflrXIJf3MESqpP2QX5ByYr2XDdJsc1cRvKOqE9-SvqUrFcEc2fjGVxtLqPaBijHENSKA-8EFNrtIubbRLIa2a8ZY44SeLiLGefNmcZM84--KShP5qQDZubZR4FJiN-wCecE6lAOzlIj5A5VaBdfAlYWvLPJnTeuu1EnvhQA__",
+  "job_id": "job_5w6g8DXgAuMsuTFmjvvBPxcr",
+  "asset_id": "asset_S7kmXqGMMrmh9iYfb9ACYSGM",
+  "stub": false,
+  "prompt": "Storyboard frame 1, aspect 9:16, vertical UGC phone-camera still: warm living-room lighting, young man lying on a beige couch holding a smartphone vertically, his phone screen clearly displays an authentic Helix Jump gameplay moment \u2014 cyan #5CE1E6 helix tower, neon green #39FF14 ball, red #FF0000 danger ring \u2014 rendered in 3D minimalist style with bright contrasting colors and simple geometric shapes, slight handheld grain, white caption bar across top reading '\"You look happier lately\u2026\"', no extra UI invented, photo-real cold-open aesthetic",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

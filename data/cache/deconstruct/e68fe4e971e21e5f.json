@@ -1,0 +1,50 @@
+{
+  "raw": {
+    "creative_id": "e68fe4e971e21e5f",
+    "ad_unit_id": "e68fe4e971e21e5f",
+    "app_id": "6884386ecaf624b94c5544cd",
+    "advertiser_name": "Jigblock Puzzle - Jigsaw",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/040435bf1e344882/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/040435bf1e344882/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/040435bf1e344882/preview",
+    "phashion_group": "e68fe4e971e21e5f",
+    "share": null,
+    "first_seen_at": "2026-03-06T00:00:00",
+    "last_seen_at": "2026-04-18T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand icon swaps scrambled tiles of a Mediterranean scene to begin solving a jigsaw puzzle.",
+    "visual_action": "Hand icon clicks and swaps image tiles on a grid to align a picture of pink flowers and blue doors.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Hand icon initiates tile swapping on a scrambled grid of a Mediterranean street.",
+    "Tiles are rapidly rearranged to reveal a cohesive image of pink flowers and blue doors.",
+    "The puzzle is completed, showcasing the full vibrant scene."
+  ],
+  "on_screen_text": [
+    "Jigsaw"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#E91E63",
+    "#2196F3",
+    "#FFFFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy relaxing, visually vibrant aesthetic games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001096
+}

@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "792477e9b3afca48",
+    "ad_unit_id": "792477e9b3afca48",
+    "app_id": "5cb9b9223ea98344e0401fcf",
+    "advertiser_name": "Tennis Clash：Sports Stars Game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/78a096bd7d9968a7/preview",
+    "phashion_group": "792477e9b3afca48",
+    "share": null,
+    "first_seen_at": "2026-04-14T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-stakes neon tennis rally.",
+    "visual_action": "Two players exchange fast-paced shots on a glowing blue court under 'Cyber Tennis' branding.",
+    "text_overlay": "CYBER TENNIS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Neon-lit tennis match gameplay with a scoreboard showing a close match.",
+    "Fast-paced rally showcasing player movement and ball physics.",
+    "Cinematic transition to a high-quality 3D render of a player serving.",
+    "Final call-to-action screen with the game title and play button."
+  ],
+  "on_screen_text": [
+    "SECOND SEMIFINAL",
+    "JONAH",
+    "LEO",
+    "CYBER TENNIS",
+    "TENNIS CLASH",
+    "PLAY",
+    "WILD LIFE"
+  ],
+  "cta_text": "PLAY",
+  "cta_timing_seconds": 9.5,
+  "palette_hex": [
+    "#00FFFF",
+    "#FF00FF",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Competitive sports fans and casual gamers who enjoy fast-paced, visually striking mobile games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00146
+}

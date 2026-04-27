@@ -1,0 +1,49 @@
+{
+  "raw": {
+    "creative_id": "46f0cdf730871f8c",
+    "ad_unit_id": "46f0cdf730871f8c",
+    "app_id": "5a326b350211a692f66bab0e",
+    "advertiser_name": "World of Tanks Blitz",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73d9f99b1dffbaaa/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73d9f99b1dffbaaa/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/73d9f99b1dffbaaa/preview",
+    "phashion_group": "46f0cdf730871f8c",
+    "share": null,
+    "first_seen_at": "2026-01-23T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Play World of Tanks Blitz!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid-fire montage showcasing diverse tank models, skins, and environments.",
+    "visual_action": "Tanks are shown driving under bridges, in garages, through water, and across snowy ruins in quick succession.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Rapid montage of tanks in diverse environments like bridges and garages.",
+    "Showcase of unique tank skins, including a rusty post-apocalyptic design.",
+    "Action shots of tanks navigating water and ruined urban landscapes.",
+    "Final shot of a floral-patterned tank firing its cannon."
+  ],
+  "on_screen_text": [],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#7A8B52",
+    "#A0522D",
+    "#6A5ACD"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Mid-core male gamers who enjoy tank combat and vehicle customization.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00112
+}

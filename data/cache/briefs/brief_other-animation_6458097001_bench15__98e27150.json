@@ -1,0 +1,27 @@
+{
+  "archetype_id": "other-animation",
+  "target_game_id": "6458097001",
+  "title": "Bow Drawn — Static Hero Smash Cut",
+  "hook_3s": "Frozen frame: arrow nocked, bowstring trembling, blue energy crackling on the arrowhead — \"TAP TO RELEASE.\"",
+  "scene_flow": [
+    "0-3s: Static hero frame — Archery Clash! female protagonist mid-draw, arrow glowing electric blue, frozen like a poster with giant 'PLAY NOW!' lockup.",
+    "3-7s: Frame unfreezes — aiming trajectory arc snaps across the dueling arena, opponent's health bar visible across the gap.",
+    "7-11s: Arrow fires, slow-mo impact, opponent HP shatters; rarity-colored gear drops with golden burst VFX.",
+    "11-15s: Quick cut to upgrade screen — bow tier glows up from blue to gold — end card with logo and CTA."
+  ],
+  "visual_direction": "Lean into the static-poster archetype but rebuilt around Archery Clash!'s 3D stylized look: slightly cartoonish female archer rendered with realistic rim lighting, bright #2A9DF4 banner backdrop, #FFD700 burst rays radiating from the drawn arrow, #32CD32 rarity glow on the dropped loot. Keep the in-game HUD (health bars, aim trajectory dotted line, gear slots) authentically visible — every frame should read like a real match screenshot, not a marketing render.",
+  "text_overlays": [
+    "BOW DRAWN.",
+    "PLAY NOW!",
+    "ONE SHOT. ONE DUEL.",
+    "LOOT THE WIN",
+    "TAP TO PLAY"
+  ],
+  "cta": "Play Now!",
+  "rationale": "Voodoo's current Archery Clash! rotation is almost entirely unmarked playables and a self-aware \"I paid for this ad\" video — they have zero static-hero/poster-style hooks despite that archetype trending in the scan. This brief ports the high-impact frozen-hero + giant CTA formula (minus any IP risk) onto authentic Archery Clash! gameplay chrome, giving UA a thumb-stopping top-of-funnel asset that complements rather than duplicates the playable inventory.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical mobile ad still: Archery Clash! female protagonist in mid-draw pose, bowstring fully tensioned, arrow tip crackling with electric blue #2A9DF4 energy, frozen poster-style composition. Authentic in-game HUD visible — opponent health bar at top, dotted aiming trajectory arc, gear slot icons bottom corner, turn-based duel arena floor. Vibrant #2A9DF4 banner backdrop with #FFD700 burst rays radiating from the arrowhead, #32CD32 rarity glow accents. 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting. Bold yellow on-screen text overlay: 'PLAY NOW!'. Must match IP-Adapter Archery Clash! reference exactly — same character proportions, same UI chrome, same dueling stage. [Audio: VO 'One shot. One duel. Play now.' / punchy competitive 128bpm trap with brass stab / bowstring creak at 0.5s, electric crackle hum, deep boom on CTA pop-in at 2.8s]",
+    "Storyboard frame 2, 9:16 vertical: arrow mid-flight slow-motion across Archery Clash! duel arena, motion-blur trail in #2A9DF4, opponent archer flinching as health bar cracks in #FFD700 numbers, #32CD32 rarity loot crate already glowing in foreground. In-game HUD intact — turn indicator, ammo count, character portrait. 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting. On-screen text: 'ONE SHOT. ONE DUEL.' in bold yellow. Authentic Archery Clash! gameplay still, not a render. [Audio: no VO / same 128bpm competitive trap drop / arrow whoosh 0-1s, heavy thud impact 1.5s, glass-shatter HP break 2s, coin chime on loot 3.5s]",
+    "Storyboard frame 3, 9:16 vertical: Archery Clash! upgrade screen close-up, bow weapon card tier-upgrading from blue #2A9DF4 common to gold #FFD700 legendary, +stat numbers popping in #32CD32, sparkle particles, authentic upgrade UI panel with star rating and rarity border. 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting. Bold on-screen text: 'LOOT THE WIN'. Frame must read as the real Archery Clash! upgrade menu, identical UI chrome to reference screenshots. [Audio: VO 'Upgrade. Dominate.' / triumphant trap riser resolving on tonic / level-up chime stack at 1s, golden sparkle shimmer, satisfying click-lock SFX at 3s]"
+  ]
+}

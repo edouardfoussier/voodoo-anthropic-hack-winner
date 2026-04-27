@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "8350d12e8772749c",
+    "ad_unit_id": "8350d12e8772749c",
+    "app_id": "66a9b8250c767522a8e2927f",
+    "advertiser_name": "Spot Differences Find & Search",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/021829fde90a1ddb/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/021829fde90a1ddb/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/021829fde90a1ddb/preview",
+    "phashion_group": "8350d12e8772749c",
+    "share": null,
+    "first_seen_at": "2026-03-09T00:00:00",
+    "last_seen_at": "2026-04-11T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A side-by-side 'Find 5 differences' puzzle featuring a cartoon character in a kitchen.",
+    "visual_action": "A hand clicks on a blood handprint on the wall, identifying it as a difference from the light switch in the first image.",
+    "text_overlay": "Find 5 differences",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Side-by-side comparison of two cartoon kitchen scenes with a 'Find 5 differences' prompt.",
+    "A hand interacts with the screen to find the first three differences on the wall and refrigerator.",
+    "The hand clicks the character's dress incorrectly, resulting in a red 'X' fail icon and buzzer sound.",
+    "End card displays the game logo 'Spot Differences Find & Search' and a 'PLAY' button."
+  ],
+  "on_screen_text": [
+    "Find 5 differences",
+    "SPOT DIFFERENCES Find & Search",
+    "PLAY"
+  ],
+  "cta_text": "PLAY",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#F9D71C",
+    "#8BC34A",
+    "#D32F2F"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual puzzle fans who enjoy spot-the-difference games and pop culture references.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001663
+}

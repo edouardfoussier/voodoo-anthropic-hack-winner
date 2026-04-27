@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "f6f4d7c9426ca942",
+    "ad_unit_id": "f6f4d7c9426ca942",
+    "app_id": "5af5afad09c8b14d4327867e",
+    "advertiser_name": "Jackpot World - Slots Casino",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cc9aa7905f25eeb/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cc9aa7905f25eeb/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cc9aa7905f25eeb/preview",
+    "phashion_group": "f6f4d7c9426ca942",
+    "share": null,
+    "first_seen_at": "2025-01-12T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Get 6,000,000 coins for 100% FREE!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-speed slot machine wins with lightning effects and a rapidly climbing coin counter.",
+    "visual_action": "Slot reels spin and land on matching symbols like cherries and bells, accompanied by electric visual effects.",
+    "text_overlay": "777 Flaming",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Rapid slot spins showing various winning combinations with lightning effects.",
+    "A full screen of golden bells triggers a massive coin payout.",
+    "A full screen of red 7s triggers another massive coin payout.",
+    "End card appears with a large diamond and a call to action to claim free coins."
+  ],
+  "on_screen_text": [
+    "777 Flaming",
+    "Jackpot World",
+    "In game rewards are not real money",
+    "CLAIM 6,000,000 FREE COINS!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#FFD700",
+    "#FF0000",
+    "#4B0082"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Adults 35+ who enjoy the thrill of high-stakes casino slots and frequent rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015400000000000001
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Bpi3Vr8HuTmf1LbZa4gEwK9r?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQnBpM1ZyOEh1VG1mMUxiWmE0Z0V3SzlyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Vh4fxVMB5UxxVAblPsLfkM0ExTe71IbtWwOaTWvYfrv5XnH9elFbvV9RMYdNpWjpMqpsrA-qahsHiD0NEHI8iW3s6NvtHh9MMY6KaMBzLkJC0-guCVjA7jUCpw24RUl0aFeF1PJ-jZopIHQiRCnrXGbrkOKmbmFBw3pnKAtttGXka8pmaTqcUvFeOmzWdzs4VVan7iYHj1B8dHRfnmRawCCtXbKHlSEoeVHPT-ktI2RU4bWDGbVhGGesa90FYr-wTFPh8BW8o8E%7EvA6g-Ezt7lEufpJTqmdgO7tTtfnSAKs%7Ey1RxwMVsYWUf3V8k9swmICjDccS3d5wA6RkdzAUe8A__",
+  "job_id": "job_gx1Y53y5i6MsV3umEJSsu17h",
+  "asset_id": "asset_Bpi3Vr8HuTmf1LbZa4gEwK9r",
+  "stub": false,
+  "prompt": "Top-down 9:16 in-game screenshot of Push'em All: a single blue stickman hero (#2a7dfa) standing at the edge of a narrow sandy-green platform (#56a38b) surrounded by vibrant blue water, expanding push-stick rotating around him, a dense crowd of bright red stickman enemies (#e3001b) charging from the far end. Authentic HUD: level progress timeline at top, 'COMBO x7' text mid-screen in bold white, coin counter top-right. Minimalist 3D with bright, contrasting colors and simple stickman-like figures, flat shading, no textures. Bold overlay text reads 'WHY IS THIS LEVEL SO HARD?' across the upper third. [Audio: VO (anxious male) 'Why is this level so hard?!' / 130bpm punchy competitive trap with rising tension synth / whoosh on stick spin at 0.5s, crowd-stomp loop, combo chime at 2s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

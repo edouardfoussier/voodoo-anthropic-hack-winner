@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "2086debe0e0fd8a1",
+    "ad_unit_id": "2086debe0e0fd8a1",
+    "app_id": "69a3b7065235fa4805fc68a4",
+    "advertiser_name": "Arrow Cube Escape",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/preview",
+    "phashion_group": "2086debe0e0fd8a1",
+    "share": null,
+    "first_seen_at": "2026-04-03T00:00:00",
+    "last_seen_at": "2026-04-06T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Learn more",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman displays her clear skin alongside inset photos of her previous acne struggles while introducing a skincare product.",
+    "visual_action": "Close-up of a woman's face with clear skin, with two smaller inset photos showing skin with acne and redness.",
+    "text_overlay": "透明感ある肌目指す元ニキビ肌ママ\nよくみるコレ ニキビ※1美白※2までケアできるの知ってた？",
+    "voiceover_transcript": "よくみるコレ、ニキビ美白までケアできるの知ってた？",
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "Hook: Comparison of current clear skin vs. past acne-prone skin with product introduction.",
+    "Product application: Showing the texture of the milk and applying it to the face.",
+    "Ingredient highlight: Explaining the 'Red CICA' component and its potency compared to regular CICA.",
+    "Brand reveal: Showing the full N organic product line and expressing satisfaction.",
+    "Offer/CTA: Displaying the trial set price and a call to action."
+  ],
+  "on_screen_text": [
+    "透明感ある肌目指す元ニキビ肌ママ",
+    "よくみるコレ ニキビ※1美白※2までケアできるの知ってた？",
+    "この春進化！ニキビ※1美白※2までケアできる美容乳液",
+    "みんな知ってるあのCICAが...",
+    "通常CICA有効成分の10.9倍 赤CICAエキス配合なんだって！",
+    "出会えて良かったリピートスキンケア",
+    "私が愛用してる N organicが...",
+    "新発売記念 お試しセット 980円 送料無料！気になる人はCHECK"
+  ],
+  "cta_text": "気になる人はCHECK",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#F5E6D3",
+    "#5C4033",
+    "#FFFFFF"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Japanese women aged 25-45 concerned with acne scars and seeking natural skincare solutions.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.002141
+}

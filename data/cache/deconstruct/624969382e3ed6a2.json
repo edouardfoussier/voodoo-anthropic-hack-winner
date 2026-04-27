@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "624969382e3ed6a2",
+    "ad_unit_id": "624969382e3ed6a2",
+    "app_id": "698be7c6f1fceaadc22c2ce0",
+    "advertiser_name": "창세기전 키우기",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/preview",
+    "phashion_group": "624969382e3ed6a2",
+    "share": null,
+    "first_seen_at": "2026-03-09T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "창세기전의 감동은 그대로, 성장은 더 빠르게.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cinematic transition from a dark, ruined battlefield to a bright, prosperous kingdom.",
+    "visual_action": "The camera pans across a desolate, smoky landscape before shifting to a sunlit path leading to a grand castle.",
+    "text_overlay": "끝났던 창세기가 다시 시작된다",
+    "voiceover_transcript": null,
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "Cinematic pan over a dark, ruined landscape with smoke and fire.",
+    "Smooth transition to a bright, peaceful kingdom with a castle in the distance.",
+    "Final title card featuring character illustrations and app store download buttons."
+  ],
+  "on_screen_text": [
+    "창세기전",
+    "끝났던 창세기가",
+    "다시 시작된다",
+    "창세기전 키우기",
+    "Google Play에서",
+    "App Store에서"
+  ],
+  "cta_text": "창세기전 키우기",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#2c2420",
+    "#9e8b6b",
+    "#5c6c8c"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of classic Korean RPGs and idle games looking for a nostalgic yet modern experience.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001265
+}

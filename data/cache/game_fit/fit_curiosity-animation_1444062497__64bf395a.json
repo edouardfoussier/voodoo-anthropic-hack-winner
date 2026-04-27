@@ -1,0 +1,8 @@
+{
+  "archetype_id": "curiosity-animation",
+  "visual_match": 22,
+  "mechanic_match": 15,
+  "audience_match": 45,
+  "overall": 25,
+  "rationale": "Major frictions: the archetype's muted dark/earth palette (navy, ochre, green) and detailed cross-section animation style clash hard with Crowd City's bright primary-color, low-poly stickman aesthetic, and \"hidden bunkers\" curiosity bait has no plausible bridge to a swarm/consume crowd loop. The only weak overlap is the Eiffel Tower landmark (which Crowd City does feature) and a broad casual curiosity-driven audience — but you'd need to fully reskin the hook into \"what's hiding beneath the city your crowd is taking over?\" to make it work, which is a heavy creative lift on a single-advertiser, low-velocity reference. Recommend skipping unless testing a bespoke landmark-reveal variant tied directly to crowd gameplay."
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_a6if4JPXh7BBhMiaEaCHVkBd?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfYTZpZjRKUFhoN0JCaE1pYUVhQ0hWa0JkP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qzS3RB7c2Hk9m6TYaiAjLmj9OlCMxj9vbEe-vLz36KfUSSWSStgcELMlG5yzoQNjYvXP6fBvvy4YqcSM5Ov-EiygNrpPnlmsCs1Rq69jLUrdIpSXfqQSJi9i7zZ75C3FHCHjicZzyLyBngKuXVx2lBpFCd9FZddhciYj6msG1dcxYpsj87pfeTyf8tCLj-2vKbeQNJL61CUOAUNT3JEvl0wPkdOCWjutCqelLbsj4aMd19sbGTgM7l1evP2-mG%7EGD-AY9Y4AR0w%7EKuGvl1b3qPJ4UnOzqw-H6ARHY95HgKnU5kJSFBQY5cwktU%7ESummElE8cXmkfmZttN3wSURZtww__",
+  "job_id": "job_wxWzWZKsY8RBUuDnwwCNc6BL",
+  "asset_id": "asset_a6if4JPXh7BBhMiaEaCHVkBd",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, authentic Push'em All gameplay: extreme close-up of the expanding stick mid-swipe knocking a chain of #e3001b red stickmen off a #56a38b green platform into #2a7dfa blue water, slow-motion domino tumble with exaggerated splash arcs, swipe trail glow, HUD shows '\u00d720 COMBO' and full coin counter, minimalist 3D with bright contrasting colors and simple stickman-like figures, no character invented beyond the existing player stickman, on-screen text 'SIZE UP!' yellow burst overlay center. [Audio: no VO / energetic competitive trap drop 115 BPM / stick-extend whoosh, rapid bowling-pin tumble SFX, deep splash thump on final enemy]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

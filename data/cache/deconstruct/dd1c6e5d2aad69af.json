@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "dd1c6e5d2aad69af",
+    "ad_unit_id": "dd1c6e5d2aad69af",
+    "app_id": "6322100abd16da6f1e6d7ec2",
+    "advertiser_name": "Carnival Tycoon: Coin Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/005e2f5ef9304298/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/005e2f5ef9304298/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/005e2f5ef9304298/preview",
+    "phashion_group": "dd1c6e5d2aad69af",
+    "share": null,
+    "first_seen_at": "2026-02-28T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Harder than you think!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Hand unscrewing metal plates from a foot-shaped puzzle.",
+    "visual_action": "A hand uses a stylus to tap and remove screws from a metallic foot puzzle, causing plates to fall off.",
+    "text_overlay": null,
+    "voiceover_transcript": "I'm completely convinced by anyone who can unscrew all the screws on their feet.",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Hand starts unscrewing the toes and heel of a foot-shaped metal puzzle.",
+    "The stylus moves to the middle section, removing larger plates.",
+    "The hand clears the remaining screws from the arch and side of the foot.",
+    "The final plates are removed, leaving the foot outline empty."
+  ],
+  "on_screen_text": [
+    "Advertisement material promotional scenes need to appear after reaching certain levels or triggering the corresponding templates."
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#FFFFFF",
+    "#C0C0C0",
+    "#D4AF37"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual gamers who enjoy satisfying, ASMR-style puzzle mechanics and logic challenges.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015170000000000001
+}

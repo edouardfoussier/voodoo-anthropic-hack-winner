@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_SayGomDYYtUdvQchWeZb2weZ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfU2F5R29tRFlZdFVkdlFjaFdlWmIyd2VaP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YhL%7EeEPAjAJfT5NXdS0iRkvBpcDInPXA2BP61-s6o4ZJFxYoKzPe8LZaAU0O8my5gbs9MZ11mVjIVodCwnRzPhCuzigeMZyCHn%7ELYfV-ATjX4yoDPxHvgwgFl2aG4bkehTa4U45QrArgBGj2VjBKT-WGpBrJJBYWzDhU7CWJDOlj9ngCVpHSm818CcmCKRbrnbP7eI0-nNCRvMZEvCX6x0XCe5J-gdjzWd9lOJC-G4zDp2JfluHKmX5DeGRCmnLO4efbO1OqgpbUvOutu%7EQDvH5rz4eVrNE20d9Cg-gLGESlFw9PcvYRGbSxIxyL-0-jovRKZFK-IOKRAVG5zVM2vg__",
+  "job_id": "job_nrUDFQ6gh1uYu9aZxEJW3YEd",
+  "asset_id": "asset_SayGomDYYtUdvQchWeZb2weZ",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, full-screen Helix Jump gameplay capture: cyan #5CE1E6 rotating helix tower seen top-down, neon green #39FF14 ball falling through a clean gap, red #FF0000 trap platforms on the ring below, geometric shards flying from a just-smashed disc, score multiplier '+150' floating up, level banner overlay reading 'LEVEL 80 CLEARED' in bold white, 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters present, authentic in-game UI chrome only",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

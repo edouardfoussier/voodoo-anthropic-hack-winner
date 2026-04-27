@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "9345a90e836db846",
+    "ad_unit_id": "9345a90e836db846",
+    "app_id": "6808e6b327e2c1315dd3cac9",
+    "advertiser_name": "Paris Kiss",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032939489de6c1c7/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032939489de6c1c7/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/032939489de6c1c7/preview",
+    "phashion_group": "9345a90e836db846",
+    "share": null,
+    "first_seen_at": "2025-12-25T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Play anywhere: short heists, smart puzzles, real fun.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A stickman character uses a stretchy arm to steal a phone in a library setting.",
+    "visual_action": "A long, black arm stretches from one desk, loops around a rotating fan, and reaches for a phone on the opposite desk.",
+    "text_overlay": "WELCOME TO THIEF PUZZLE WHERE YOU GET TO ENJOY FUNNY PUZZLE LEVELS",
+    "voiceover_transcript": "Welcome to Thief Puzzle where you get to enjoy funny puzzle levels",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the core mechanic: stretching a stickman's arm to steal objects.",
+    "A quick 'OOPS!!!' fail state is shown to demonstrate the puzzle's difficulty.",
+    "The arm successfully navigates around a desk fan to reach the target phone.",
+    "A series of text overlays highlight game features like brain tests and puzzle variety.",
+    "Final branding screen featuring the game logo and a call to download."
+  ],
+  "on_screen_text": [
+    "WELCOME TO THIEF PUZZLE",
+    "WHERE YOU GET TO",
+    "ENJOY FUNNY PUZZLE LEVELS",
+    "You're almost got it",
+    "OOPS!!!",
+    "BRAIN TESTS AND MUCH MORE",
+    "THIS GAME IS PERFECT FOR",
+    "ASPIRING THIEVES",
+    "AND ANYONE WHO ENJOYS OUTSMARTING A CHALLENGE",
+    "THIEF PUZZLE",
+    "DOWNLOAD TODAY FOR FREE"
+  ],
+  "cta_text": "DOWNLOAD TODAY FOR FREE",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#634731",
+    "#f9e100",
+    "#ffffff"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual gamers of all ages who enjoy lighthearted, physics-based puzzle games and humorous brain teasers.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001874
+}

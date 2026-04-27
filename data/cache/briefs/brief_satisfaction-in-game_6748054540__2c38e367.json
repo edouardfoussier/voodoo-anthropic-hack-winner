@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "6748054540",
+  "title": "Pour the Bounce — Satisfying Cascade",
+  "hook_3s": "A stream of glowing amber balls pours from above into a dark purple grid — they bounce, chain, and erupt into a satisfying clear.",
+  "scene_flow": [
+    "0–3s HOOK: Top-down on a near-full Bounce Blast grid (deep navy + purple frames). A single tap drops a yellow-orange block — it instantly transforms into a stream of bouncing balls pouring in like granules into a jar.",
+    "3–7s ESCALATION: Balls cascade across the grid, ricocheting off purple obstacles. Each hit pops with a soft amber flash; a counter ticks up: 12… 47… 113 BLOCKS CLEARED.",
+    "7–11s PAYOFF: The final ball triggers a chain reaction — golden ripple sweeps the board, obstacles shatter into light, grid empties to a clean glow. Level meter fills to 100%.",
+    "11–14s LOOP TEASE: Camera pulls back to reveal Level 2 sliding in with a tougher layout — one tap teases the next pour.",
+    "14–15s CTA card: logo + 'Tap to Pour' button pulsing in accent yellow."
+  ],
+  "visual_direction": "Lean fully into the game's native DNA: matte #20232B backdrop with deep #403F6D rounded UI frames and grid cells, lit only by warm #FDBA4D balls that act as the single light source. 3D Casual Abstract render — soft global illumination, gentle depth-of-field, chunky low-poly blocks with subtle bevels. Borrow the archetype's ASMR pacing (slow pour-in → granular fill → satisfying settle) but translate \"pour\" as a luminous ball-cascade and \"jar\" as the puzzle grid. Camera stays mostly top-down with one slow dolly for the chain-reaction payoff. No characters, no UI clutter — pure tactile, satisfying physics.",
+  "text_overlays": [
+    "No. 001 — POUR THE BOUNCE",
+    "TAP TO DROP",
+    "113 CLEARED",
+    "CHAIN REACTION x8",
+    "LEVEL COMPLETE",
+    "YOUR TURN →"
+  ],
+  "cta": "Tap to Pour",
+  "rationale": "We keep the proven ASMR \"satisfying pour-and-fill\" pacing that drove the archetype's win, but re-skin it 1:1 to Bounce Blast's native palette and core loop so users see exactly the game they'll download — protecting IPM and D1. The amber-ball cascade against the dark purple grid gives us a high-contrast, thumb-stopping hero frame that reads instantly on muted autoplay. UA: test against a \"messy grid → one-tap clear\" variant; expect best performance on Facebook/TikTok feeds targeting 25–55 casual puzzle women.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, top-down 3D Casual Abstract render of a dark moody puzzle grid with deep purple #403F6D rounded cell frames on a matte #20232B background, a luminous stream of glowing amber #FDBA4D spheres pouring from the top of the screen and cascading into the grid like granules filling a jar, soft motion blur on the falling balls, warm rim light, gentle depth-of-field, on-screen text 'No. 001 — POUR THE BOUNCE' in clean bold sans-serif at the top, ASMR satisfying mood, no characters, mobile ad still",
+    "Storyboard frame 2, aspect 9:16, 3D Casual Abstract slightly tilted top-down view of a puzzle board mid chain-reaction, dozens of #FDBA4D bouncing balls ricocheting between deep #403F6D purple blocks on a #20232B dark background, golden light trails and soft amber glow flashes where balls impact, particles of broken obstacles dissolving into sparks, on-screen overlay text 'CHAIN REACTION x8' in glowing yellow-orange, calm satisfying mobile game ad aesthetic",
+    "Storyboard frame 3, aspect 9:16, 3D Casual Abstract top-down of a now-empty puzzle grid bathed in a warm golden #FDBA4D ripple of light, deep purple #403F6D frame edges fading into a #20232B black background, a single last amber ball settling at center, a thin progress bar fully filled in accent yellow, on-screen text 'LEVEL COMPLETE' in crisp white sans-serif, clean satisfying payoff shot for a mobile puzzle ad"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "archetype_id": "curiosity-3d-render",
+  "visual_match": 22,
+  "mechanic_match": 15,
+  "audience_match": 45,
+  "overall": 24,
+  "rationale": "This is a 3D-rendered narrative curiosity hook borrowed from the Gardenscapes/puzzle-meta playbook — it has zero structural overlap with Flappy Dunk's 2D flat-shaded, high-contrast cartoon style or its tap-timing arcade loop, so the visual and mechanic frictions are severe. The casual mobile audience does broadly overlap, but a slice-of-life cat-and-sleeping-man skit gives no read on hoops, scoring, or VS competition, meaning even if it drove installs they'd be miscued users with poor D1 retention. Skip this archetype for Flappy Dunk; if the team wants to test curiosity, anchor it in a near-miss/last-hoop fail-bait concept rendered in the game's native 2D style instead."
+}

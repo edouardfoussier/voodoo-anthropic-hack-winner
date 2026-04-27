@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "target_game_id": "6754363534",
+  "title": "Sand Loop — Pour, Sort, Reveal",
+  "hook_3s": "Rainbow sand cascades from a tilted bucket onto a glowing conveyor belt — and a pixel-art heart begins to bloom.",
+  "scene_flow": [
+    "0-3s HOOK: Macro close-up of a 3D bucket tipping; vibrant red sand pours in slow-mo onto a sky-blue conveyor belt, ASMR grain-by-grain.",
+    "3-7s SETUP: Camera pulls back to reveal multiple color-coded buckets above the belt and an empty pixel-art frame below waiting to be filled.",
+    "7-11s TENSION: A finger taps to release blue and yellow buckets in sequence; sand streams split, lock-and-key obstacle clicks open, one wrong-color stream is shown ALMOST happening (near-miss).",
+    "11-14s PAYOFF: Pixel-art image (a smiling sun or heart) completes with a satisfying sparkle and golden confetti burst.",
+    "14-15s CTA: Game logo snaps in over the finished pixel art with the download prompt."
+  ],
+  "visual_direction": "Clean 3D-render kitchen-counter aesthetic borrowed from the winning archetype, but rebuilt in Sand Loop's sky-blue (#4A90E2) and crisp white (#FFFFFF) world with golden (#FFD700) highlights on buckets and sparkle FX. Soft studio lighting, shallow depth of field on the pour, and chunky pixel-art sand grains that retain their cubed identity even mid-air. Mood is calm-satisfying ASMR: every grain has weight, every tap has a soft click, every reveal earns a gentle chime.",
+  "text_overlays": [
+    "Pour the sand…",
+    "Match the colors",
+    "One wrong drop…",
+    "Reveal the picture!",
+    "Can YOU finish it?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Keeps the archetype's proven satisfying-pour 3D framing and ASMR emotional pitch but rebuilds the visuals around Sand Loop's true core loop — color-sorting buckets, conveyor belt, pixel-art reveal — to eliminate misleading-ad install churn flagged in fit analysis. Lead with the highest-arousal 3-second pour hook, then quickly establish the sorting decision so installers arrive expecting (and getting) the actual game. UA should A/B the near-miss beat at 7-11s vs. a clean run to find the higher CTR variant.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, macro close-up of a 3D stylized bucket tipping and pouring vibrant pixel-art sand grains onto a glossy sky-blue conveyor belt, an empty pixel-art frame glows below, palette dominated by #4A90E2 sky blue and #FFFFFF clean white with #FFD700 gold accents on the bucket rim and sparkles, soft studio lighting, shallow depth of field, ASMR satisfying mood, on-screen text 'Pour the sand…' in bold rounded white sans-serif, 3D stylized objects with vibrant colors and pixel-art sand compositions.",
+    "Storyboard frame, aspect 9:16, top-down three-quarter view of four color-coded 3D buckets (red, blue, yellow, green) suspended above a sky-blue conveyor belt with a lock-and-key obstacle mid-track, streams of cubed pixel-art sand falling in parallel, palette #4A90E2 background, #FFFFFF belt highlights, #FFD700 glowing lock, on-screen text 'Match the colors' in bold white sans-serif, 3D stylized objects with vibrant colors and pixel-art sand compositions.",
+    "Storyboard payoff frame, aspect 9:16, completed pixel-art smiling sun made entirely of colored sand grains glowing in the center of the screen with golden confetti bursting outward, sky-blue #4A90E2 backdrop, #FFFFFF rays of light, #FFD700 confetti and sparkle FX, joyful satisfying mood, on-screen text 'Reveal the picture!' in bold rounded white sans-serif, 3D stylized objects with vibrant colors and pixel-art sand compositions."
+  ]
+}

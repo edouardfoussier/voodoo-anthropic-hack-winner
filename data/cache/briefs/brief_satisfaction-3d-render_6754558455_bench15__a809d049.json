@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "target_game_id": "6754558455",
+  "title": "Fill The Rainbow — Multi-Box Marble Pour",
+  "hook_3s": "Marbles cascade onto the conveyor and rain into FOUR pastel boxes at once — each one filling to the brim in perfect rainbow harmony.",
+  "scene_flow": [
+    "0-3s: Extreme close-up on a tray of glossy multicolor marbles. A finger taps — marbles tumble in slow-mo onto the lavender conveyor belt with chunky physics bounces and soft clinks.",
+    "3-7s: Camera pulls back to reveal the full Marble Sort! machine. Marbles stream along the moving conveyor and drop into four colored boxes below — red, blue, green, yellow — each fill meter rising in sync.",
+    "7-11s: Quick montage of three escalating levels: more colors, faster belt, a special striped marble splits mid-air. Each box CLINKS full with a satisfying orange burst.",
+    "11-14s: A 'wrong color' marble nearly drops into the wrong box — finger taps to pause the tray just in time. Boxes all hit 100%, confetti pop in #FFB13B orange.",
+    "14-15s: End card: stacked filled boxes form a rainbow, app icon, CTA."
+  ],
+  "visual_direction": "Lock the entire spot inside the game's lavender (#E5DFFF) world with the light-grey (#F0F0F8) machine and orange (#FFB13B) accents for titles, fill-meter highlights, and confetti. Soft rounded 3D cartoon marbles with glossy specular highlights, gentle depth-of-field on close-ups, and ASMR-grade sound design (clinks, soft thuds, fill-meter chimes). Camera language is satisfying-pour: macro start, smooth pull-back to reveal, then crisp top-down montage. No human characters, no kitchen context — every frame must read as authentic in-game footage.",
+  "text_overlays": [
+    "Can you fill ALL 4?",
+    "Tap to release →",
+    "Right color, right box",
+    "Oops — wrong one!",
+    "100% Sorted ✨",
+    "Play Marble Sort!"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current rotation leans on generic \"simple mechanics / right color right box\" explainer videos with no sensory hook — they're missing the trending satisfaction-pour ASMR angle that's winning in the market scan. This brief brings that fill-gratification hook but multiplies it across four simultaneous color boxes, which both fits the lavender/orange Marble Sort! DNA and showcases the multi-color sorting depth the existing ads undersell. UA team: A/B test this against the top YouTube creative; expect lift on 3s-hold and IPM with the 25-55 female casual audience.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, in-game screenshot of Marble Sort! mobile puzzle: macro close-up of glossy multicolor 3D marbles (red, blue, green, yellow) cascading off a light-grey (#F0F0F8) rounded conveyor belt and streaming down into four soft-edged pastel collection boxes below, each box fill-meter rising in sync, lavender (#E5DFFF) background, vibrant orange (#FFB13B) title banner reading 'Can you fill ALL 4?' in chunky rounded sans-serif at top, soft rim lighting, clean and colorful 3D cartoon style with soft rounded shapes, mobile UI chrome with level counter and star meter visible at top-right, no characters, authentic Marble Sort! gameplay framing.",
+    "Storyboard frame 1, aspect 9:16, in-game screenshot of Marble Sort!: top-down three-quarter view of the full sorting machine — tray of mixed marbles at top, moving conveyor belt mid-frame, four colored drop-boxes at bottom filling up, one striped special marble splitting mid-air into two colored halves, lavender (#E5DFFF) background, light-grey (#F0F0F8) machine body, orange (#FFB13B) accent confetti burst around a full box, overlay text 'Right color, right box' in rounded white-on-orange pill, clean and colorful 3D cartoon style with soft rounded shapes, no characters, mobile HUD intact.",
+    "Storyboard frame 2, aspect 9:16, in-game screenshot of Marble Sort! end card: four pastel collection boxes stacked in a rainbow tower all showing 100% fill meters, orange (#FFB13B) starburst confetti, lavender (#E5DFFF) backdrop with subtle #F0F0F8 machine silhouette, large orange overlay text '100% Sorted ✨' centered, app icon and 'Play Free' button at bottom, clean and colorful 3D cartoon style with soft rounded shapes, no characters, glossy marble highlights."
+  ]
+}

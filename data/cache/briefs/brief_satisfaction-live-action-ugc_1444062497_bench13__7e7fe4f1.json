@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "1444062497",
+  "title": "\"You Look Happier\" — Crowd City UGC Testimonial",
+  "hook_3s": "Friend on couch: \"You look happier lately…\" — cut to phone screen exploding with a red stickman swarm devouring a blue crowd.",
+  "scene_flow": [
+    "0-3s: Selfie-style vertical shot, young woman lounging on bed grinning at her phone. Friend off-camera: 'Okay… why do you look so happy today?'",
+    "3-7s: She flips the phone to camera — full-screen Crowd City gameplay: a red stickman swarm sprinting through a pastel low-poly city, snowballing neutral pedestrians (counter ticks 47 → 112 → 240).",
+    "7-11s: Quick gameplay montage — red crowd chases and consumes a smaller blue crowd, screen flashes green '+58'. She giggles: 'I made the BIGGEST crowd in the city.'",
+    "11-14s: Final beat — timer hits 0:00, red crowd dominates the map, 'WINNER' banner pops. She shrugs at camera: 'It's stupid. I can't stop.'",
+    "14-15s: End card — game logo, finger-tap CTA, app store badge."
+  ],
+  "visual_direction": "Phone-shot UGC aesthetic (slight handheld jitter, natural bedroom lighting, no studio polish) for the live-action wrapper, cutting hard to vibrant in-engine Crowd City footage. The swap from desaturated bedroom to the saturated #FF0000 red swarm vs #0000FF blue rivals against pastel low-poly buildings is the entire visual punchline — the contrast sells the dopamine hit. Keep #00FF00 reserved for score pop-ups and the WINNER flash. Low-poly stickman crowd must read instantly: dense, chunky, swarming.",
+  "text_overlays": [
+    "why do you look so happy?",
+    "watch this 👀",
+    "+240 followers",
+    "I OWN the city 😤",
+    "can't stop playing"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Crowd City rotation is 100% pure-gameplay video and playables with zero copy or human presence — there is no UGC/testimonial angle in market. This brief imports the trending live-action \"you look happier\" satisfaction hook but fixes the archetype's biggest weakness (no gameplay payoff) by front-loading the phone-flip reveal so the swarm-consume loop lands inside 5 seconds. UA team: test against the Applovin video baseline on TikTok/Reels placements where UGC outperforms polished gameplay creatives.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect, authentic in-game Crowd City screenshot: top-down third-person view of a massive dense swarm of bright red (#FF0000) low-poly stickman figures sprinting through a pastel low-poly city street, chasing a smaller cluster of blue (#0000FF) stickmen who are fleeing, neutral grey stickmen being absorbed mid-swarm, green (#00FF00) '+58' score popup floating above the crowd, top-center HUD showing crowd counter '240' and countdown timer '0:32', minimalist mobile game UI chrome, low-poly colorful 3D environment with simple stickman-like character models, on-screen text overlay 'I OWN the city 😤', vibrant saturated colors, clean hypercasual mobile aesthetic",
+    "Storyboard frame 1, 9:16 vertical aspect, live-action UGC selfie shot: young woman lying on her back on a bed holding a vertical smartphone above her face, grinning, natural warm bedroom lighting, slightly grainy phone-camera look, the phone screen visibly displays Crowd City gameplay — a red (#FF0000) low-poly stickman swarm running through a pastel city with a blue (#0000FF) rival crowd and green (#00FF00) score popup, low-poly colorful 3D environment with simple stickman-like character models visible on the phone screen, large white on-screen text overlay 'why do you look so happy?', authentic TikTok UGC framing",
+    "Storyboard frame 2, 9:16 vertical aspect, authentic in-game Crowd City screenshot: victorious end-of-round moment, enormous red (#FF0000) stickman crowd flooding an entire pastel low-poly city block with Eiffel Tower landmark in background, tiny remaining blue (#0000FF) stickmen being chased into a corner, bright green (#00FF00) 'WINNER' banner flashing across center screen, HUD timer reading '0:00' and final crowd count '847', low-poly colorful 3D environment with simple stickman-like character models, on-screen text overlay 'can't stop playing', saturated hypercasual mobile game UI"
+  ]
+}

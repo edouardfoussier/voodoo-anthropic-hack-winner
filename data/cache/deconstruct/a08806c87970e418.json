@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "a08806c87970e418",
+    "ad_unit_id": "a08806c87970e418",
+    "app_id": "684fe87527e2c18384d24336",
+    "advertiser_name": "Huntopia",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00dfe3a31243e8ea/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00dfe3a31243e8ea/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00dfe3a31243e8ea/preview",
+    "phashion_group": "a08806c87970e418",
+    "share": null,
+    "first_seen_at": "2025-12-15T00:00:00",
+    "last_seen_at": "2026-04-12T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Introduction of a new 'Warrior' character class with tribal-themed art and stats.",
+    "visual_action": "A character profile card for a 'Warrior' is shown with skill icons and attributes.",
+    "text_overlay": "Warrior, Personality: Mysterious and pround, Gift: 100% of affinity for pets, Tribe: Forest, NEW PROFESSION ONLINE, SSR",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Initial reveal of the Warrior character profile card with personality and tribe details.",
+    "Subtle zoom effect highlighting the character's tribal design and skill icons.",
+    "Focus on the 'SSR' rarity tag and 'NEW PROFESSION ONLINE' announcement at the bottom."
+  ],
+  "on_screen_text": [
+    "Warrior",
+    "Personality: Mysterious and pround",
+    "Gift: 100% of affinity for pets",
+    "Tribe: Forest",
+    "NEW PROFESSION ONLINE",
+    "SSR"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#F5E6A1",
+    "#8B4513",
+    "#000000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of anime-style RPGs and character collection games interested in new class releases.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015960000000000002
+}

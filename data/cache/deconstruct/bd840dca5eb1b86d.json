@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "bd840dca5eb1b86d",
+    "ad_unit_id": "bd840dca5eb1b86d",
+    "app_id": "66c292ff6bbfce0e306de36b",
+    "advertiser_name": "Pokémon TCG Pocket",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7bbec9587ad14c52/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7bbec9587ad14c52/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7bbec9587ad14c52/preview",
+    "phashion_group": "bd840dca5eb1b86d",
+    "share": null,
+    "first_seen_at": "2025-12-22T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "【新テーマ拡張パック登場】コレクションが、もっと楽しく♪",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Title screen transition to a rare Xerneas card",
+    "visual_action": "A phone screen showing the game logo in a mystical forest setting zooms into a glowing, high-rarity Xerneas card.",
+    "text_overlay": "生命の神秘を",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Opening shot of the game's title screen on a mobile device set against a mystical forest background.",
+    "Zoom in and transition to a high-rarity Xerneas card with dynamic glowing effects.",
+    "Sequential text overlays emphasize the rarity and the player's role in collecting.",
+    "Final end card displaying the game logo, daily free pack offer, and download links."
+  ],
+  "on_screen_text": [
+    "Pokémon TRADING CARD GAME Pocket",
+    "生命の神秘を",
+    "コレクションするのは",
+    "ほかでもない",
+    "キミだ！",
+    "ゼルネアスをキミの手の中に",
+    "毎日2パック無料",
+    "今すぐプレイ"
+  ],
+  "cta_text": "今すぐプレイ",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#0a1a2f",
+    "#ffffff",
+    "#8a2be2"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Pokémon fans and trading card collectors who enjoy high-quality digital card games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001685
+}

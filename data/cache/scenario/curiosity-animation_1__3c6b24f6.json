@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_qrsq7J3gmRjMZ32gjYHn8ECX?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcXJzcTdKM2dtUmpNWjMyZ2pZSG44RUNYP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ePs8aLgBuA9CwigVAyiyhcDkwpLinUuPzobhR%7EOtaO5p15i9CstjhQowbJav5odZMGekrtKdaQoNUQVsvp1gfpDD9z3dgSHU6Mr59auzqcAqCYUoCJ46iVLOeg1bRHvfnxFfjYoTIZj%7E%7EvyyGBXXAjh84MvfJm5IQV1HCOKpSI3h888SFroEpRHzDIyKbFFF%7ER3osnN8JOruR9eQNFYR1z4gXpEPKoIl1kG6Jk2tasnCztK04VE1o8VW5f1rIZjBIKQBMgpqiMD44ir5fEaAPEK4MdQhgnFRq32PyqwVF-HV9zRfRBlmtSX2xstrU6ydNjyfnnIe5xDQRFwy0h7WRQ__",
+  "job_id": "job_mbWQSk8o3vPyVSQztvWKNT4P",
+  "asset_id": "asset_qrsq7J3gmRjMZ32gjYHn8ECX",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, Push'em All gameplay: top-down-ish 3D view of the sandy-green platform (#56a38b) surrounded by vibrant blue water (#2a7dfa), an expanding push-stick sweeping a crowd of bright red stickman enemies (#e3001b) off the edge, several red stickmen mid-air tumbling toward the water. HUD shows progress timeline, coin counter, and a large 'COMBO x4!' overlay in bold yellow. Minimalist 3D with bright contrasting colors and simple stickman-like figures, energetic competitive UI, authentic Push'em All chrome.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

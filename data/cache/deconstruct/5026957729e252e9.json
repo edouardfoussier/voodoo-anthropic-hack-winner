@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "5026957729e252e9",
+    "ad_unit_id": "5026957729e252e9",
+    "app_id": "5a0501f52a722602d97aca2d",
+    "advertiser_name": "Candy Pop Story : Match 3",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01a0ab973f1f14cf/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01a0ab973f1f14cf/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01a0ab973f1f14cf/preview",
+    "phashion_group": "5026957729e252e9",
+    "share": null,
+    "first_seen_at": "2026-04-14T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand triggers a massive chain reaction on a match-3 board, clearing candies and filling a progress bar.",
+    "visual_action": "Hand taps a special candy, causing a large explosion and clearing many pieces.",
+    "text_overlay": "Candy story, NO ADS AND FREE, DOWNLOAD",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Initial match-3 board setup with a central gift box and colorful candies.",
+    "A hand taps a special candy, triggering a large-scale clearing of the board.",
+    "The board refills and subsequent matches continue the satisfying chain reactions.",
+    "The progress bar at the top fills as the player clears more candies."
+  ],
+  "on_screen_text": [
+    "Candy story",
+    "NO ADS AND FREE",
+    "DOWNLOAD"
+  ],
+  "cta_text": "DOWNLOAD",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFD700",
+    "#32CD32",
+    "#FF1493"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile gamers who enjoy satisfying match-3 puzzle games with cute, colorful themes.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001532
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_hxGGEp9XCiGnoF23qsHaCnJx?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfaHhHR0VwOVhDaUdub0YyM3FzSGFDbkp4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=T7R-NZdi6L3xs8mncTzx0gojv6-r3KrSXIJlCkAsklFHS7ypSaru-j4upAwh%7EYVN9%7Em9QO7YYIMuscVBxO8vyexFsJRwu5SDQe%7Eq%7ERQYPJOeX04MfvwcooAiHBJ0G2Ft1c9THtnmQtpdiSSxggnmjgwnpqpQnPcdpsmn9-Qsbp76qo8mdkodd5wvDilqSrcvpPaoN31nwZCMZ4lRlZjL%7ERaHW7peed3WE6Yv07vAu3F3xZIRvUkXumo%7ERXiQG1BvCdt89EmX3fLYb7bRoR6dKaZCmvAfePtqugbM1ADia7FTPv0JWKso5L1e4tBt6dTyDZIl-AwZji-3rXkO52LaMw__",
+  "job_id": "job_7yz8zGQrqT9gszaYLTtu8kvq",
+  "asset_id": "asset_hxGGEp9XCiGnoF23qsHaCnJx",
+  "stub": false,
+  "prompt": "Storyboard frame 3, aspect 9:16: pulled-back hero shot of three pastel marble trays fully cleared, confetti burst, a glowing orange 'Play Free' button at the bottom center, a relaxed female hand resting beside the machine, lavender room. Clean and colorful 3D cartoon style with soft, rounded shapes. Palette #E5DFFF lavender, #F0F0F8 light grey, #FFB13B vibrant orange CTA. On-screen text 'Play Free \u2192' in bold orange, calm satisfying mood, 9:16 mobile ad endcard.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

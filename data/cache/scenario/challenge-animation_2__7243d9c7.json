@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_8RDxKR1p7DMPDtDefzsnrC5i?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOFJEeEtSMXA3RE1QRHREZWZ6c25yQzVpP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=f9d3KRUfeP5GFbBW-xfaz9LOcFwqVSmMQGuP8SlxKQ6DZN6EZSibNx3xa0pFHM7qZu%7E5P9VcNEWLXEYY-FJxkzgfmAccLiaTDEavUlsnx43qEhgn-wi7hYgW2GioBgaNv3meYd8OiMP3xJe1c%7EVOB2DkQnHOYebFmWj%7E-brrXfofC23Q5lfjJfHEL89PD5DJCMfBNcIg4ilTaORVLQnVMFtaeeo3UBMg6%7ENeIQJ2tlmxTNLErTfvnEgkbpuRN7M1vyWzsp1i2L059PQDKiexuU2mbp22JMZoCqXb7V4P-7Cn-Vgzn21jTqzgEdva%7Emd0j0MO-qC8gfaSnIHBGqfE9Q__",
+  "job_id": "job_jMWxuYaQjqoGLm3JLoYe7vUM",
+  "asset_id": "asset_8RDxKR1p7DMPDtDefzsnrC5i",
+  "stub": false,
+  "prompt": "Storyboard win frame, aspect 9:16, wide 3D cartoon shot of four boxes filled with neatly sorted pastel marbles, confetti burst in #FFB13B orange and soft pastels exploding above, lavender #E5DFFF backdrop, light grey #F0F0F8 machine, bold rounded orange text overlay '99% Can't Do It', clean and colorful 3D cartoon style with soft rounded shapes, celebratory yet calm mood, mobile vertical ad framing",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

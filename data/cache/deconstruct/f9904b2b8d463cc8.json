@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "f9904b2b8d463cc8",
+    "ad_unit_id": "f9904b2b8d463cc8",
+    "app_id": "6833e6a937dd49117eb0a8be",
+    "advertiser_name": "ダイブロス・コア",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00abe22ec59f60ea/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00abe22ec59f60ea/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00abe22ec59f60ea/preview",
+    "phashion_group": "f9904b2b8d463cc8",
+    "share": null,
+    "first_seen_at": "2026-01-18T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "放置系まったりRPG！ドラベル 正式リリース！",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy character reveal of a red-haired warrior.",
+    "visual_action": "Rapid zooms and transitions showcasing the character 'Siegfried' with bold text overlays and flashing backgrounds.",
+    "text_overlay": "SIEGFRIED SSR+ WARRIOR",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Rapid-fire close-up shots of the character Siegfried with bold name text.",
+    "Full-body character art reveal with SSR+ rarity and Warrior class labels.",
+    "Transition to the game title logo 'Dragon Travel' on a solid blue background.",
+    "Animated dragon mascot appears over the logo with fire effects and a slime character."
+  ],
+  "on_screen_text": [
+    "SIEGFRIED",
+    "ジークフリート",
+    "SSR+",
+    "WARRIOR",
+    "ファイター",
+    "DRAGON TRAVEL",
+    "ドラベル",
+    "©GameTreeEntertainmentCo.,Ltd."
+  ],
+  "cta_text": "DRAGON TRAVEL",
+  "cta_timing_seconds": 6.0,
+  "palette_hex": [
+    "#D32F2F",
+    "#F57C00",
+    "#0288D1"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Male anime enthusiasts and gacha RPG players looking for high-rarity character reveals.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015149999999999999
+}

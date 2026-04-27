@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "828e07f4822e7654",
+    "ad_unit_id": "828e07f4822e7654",
+    "app_id": "5b5fd880dfeda93ee511a10d",
+    "advertiser_name": "Police Pursuit: Burnout Rush!",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/preview",
+    "phashion_group": "828e07f4822e7654",
+    "share": null,
+    "first_seen_at": "2026-04-15T00:00:00",
+    "last_seen_at": "2026-04-17T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-speed car jump over a mountain gap.",
+    "visual_action": "A white sports car speeds down a highway, jumps off a ramp, and flies over a rocky mountain gap.",
+    "text_overlay": "Only 5% finish this level 😵‍💫",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "3D cinematic car jump over a mountain gap.",
+    "Transition to top-down 2D arcade gameplay.",
+    "Player car weaving through city streets dodging police.",
+    "Successful package delivery amidst explosions."
+  ],
+  "on_screen_text": [
+    "Only 5% finish this level 😵‍💫",
+    "DELIVER THE PACKAGE"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#4B3B7A",
+    "#7A8B4F",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Young male gamers who enjoy high-octane racing and arcade-style chase games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001477
+}

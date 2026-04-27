@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_h5ETcu1pSzuSsxxdBCPzqNQ9?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfaDVFVGN1MXBTenVTc3h4ZEJDUHpxTlE5P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=QLhEHFgk%7EvaFycedTqqNSzc-W6MkuYO3NXfitdbpWIy0ulab-%7EXn76lZKGTX3bEXLGEJ246%7EVmgnAMzMC1k3sbHtp-O8NbDNxXP6Mqs90FaOLrmYwfchtfiNtE%7Ej0oPOGFPeVnpR0eS2QrOhjrVrydnPI%7EFteSOmWJGRAIozV2BfWucgGGXwMaDiZ7zeZERvxktWDPkDku6mVy9TRoi5JLxwa2TmTX9P2kmB2%7EAqChAKLlkRUWHaV8WdTPVYZUyiW0qQ6Y82PrUSIxQ7CBOiHm1lpbokbBSFtJoXwsHX%7EalYpxsCispr1AD6fZRK61Yb9ES0uLxYvUtlHe%7EZRcUTuw__",
+  "job_id": "job_3NgEd45MS6aEyUB7gNT3BRY8",
+  "asset_id": "asset_h5ETcu1pSzuSsxxdBCPzqNQ9",
+  "stub": false,
+  "prompt": "Hero frame, aspect ratio 9:16, authentic Helix Jump in-game screenshot: vertical 3D minimalist helix tower made of stacked glossy cyan (#5CE1E6) discs spiraling down the center of the screen, one bright neon green (#39FF14) safe gap, a menacing red (#FF0000) trap ring mid-tower shattering into geometric shards, a glossy cyan ball mid-bounce with motion blur and particle burst, pale off-white gradient background, no characters, top-left level indicator '12' and top-right score '24,580' with 'x8' combo multiplier in bold sans-serif, on-screen text overlay 'Ever played a game that ACTUALLY relieves stress?' in clean white rounded font, bright contrasting colors, simple geometric shapes, energetic mood, authentic Helix Jump UI chrome",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

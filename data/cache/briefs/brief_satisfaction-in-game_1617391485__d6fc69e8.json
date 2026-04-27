@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "1617391485",
+  "title": "One Drop. Total Cascade.",
+  "hook_3s": "A glowing gold polyomino hovers over a nearly-full 8x8 grid — one tap drops it and detonates a rainbow chain-clear across 6 lines.",
+  "scene_flow": [
+    "0-3s HOOK: Tight macro shot of a dark navy 8x8 grid packed with glossy beveled blocks, one perfect gold-glowing L-piece hovers above the only matching gap. ASMR hum builds.",
+    "3-7s TENSION: Finger drags the gold piece slowly into place; camera pushes in, blocks subtly pulse, soft click as it locks.",
+    "7-11s PAYOFF: Chain reaction — 3 rows clear, then 3 columns cascade, golden sparks and stars burst, score counter rockets from 12,400 to 48,900.",
+    "11-14s ESCALATION: Quick montage of 3 more satisfying multi-line clears with combo text popping ('x4 COMBO!', 'PERFECT!').",
+    "14-15s CTA: Logo lockup on royal blue, gold 'PLAY FREE' button pulses once."
+  ],
+  "visual_direction": "Lean fully into Block Blast's native DNA: deep navy (#1E2744) board floating on a soothing royal blue (#5469B9) backdrop, glossy beveled polyominoes in saturated jewel tones, with #FFD700 gold reserved as the 'hero' accent for the decisive piece, sparks, stars, and CTA. Camera is locked top-down with subtle parallax pushes; lighting is soft studio with crisp specular highlights on each bevel. Pacing borrows the ASMR cadence of the fruit-merge archetype — slow inhale, satisfying click, explosive cascade — but every visual element is grid-native polyomino, zero physics/fruit cues, to avoid bait-and-switch.",
+  "text_overlays": [
+    "Can you clear it in ONE move?",
+    "Drop the gold piece...",
+    "CHAIN CLEAR!",
+    "x4 COMBO",
+    "+36,500 PTS",
+    "Your turn."
+  ],
+  "cta": "Play Free",
+  "rationale": "This brief preserves the archetype's winning 'oddly satisfying drop → cascade payoff' beat that drove its IPM, but rebuilds it 100% natively in Block Blast's grid loop — eliminating misleading-ads risk on iOS while keeping the 25-55 casual satisfaction trigger intact. UA should A/B the gold-hero-piece variant against a non-gold control to isolate accent-driven CTR lift, and run it primarily on Facebook/TikTok where ASMR puzzle cascades over-index. Expect strongest pickup with women 35-54 — mirror the fruit archetype's audience overlap (68/100) without inheriting its visual mismatch penalty.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, mobile game ad still: top-down view of a dark navy #1E2744 8x8 grid nearly full of glossy beveled polyomino blocks in saturated jewel tones, one luminous golden #FFD700 L-shaped block hovering above with soft glow and particle sparks, royal blue #5469B9 background with subtle radial gradient, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, bold white sans-serif on-screen text 'Can you clear it in ONE move?' at top, cinematic studio lighting, crisp specular highlights, ultra-detailed, no characters",
+    "Storyboard frame 2, aspect 9:16, mid-action mobile puzzle ad still: same dark navy #1E2744 8x8 grid mid-explosion as 3 rows and 3 columns simultaneously clear in a rainbow cascade, golden #FFD700 sparks and stars bursting outward, royal blue #5469B9 backdrop, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, large yellow on-screen text 'CHAIN CLEAR! x4 COMBO' centered, motion blur on flying particles, satisfying glossy beveled block fragments, vivid saturated colors, no characters",
+    "Storyboard CTA frame, aspect 9:16, end-card mobile game ad: centered Block Blast-style logo on royal blue #5469B9 background, a single glossy beveled golden #FFD700 polyomino block resting on a small dark navy #1E2744 grid tile below, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, large pulsing gold button with bold white text 'PLAY FREE' at the bottom third, soft sparkle particles, premium polished mobile ad finish, no characters"
+  ]
+}

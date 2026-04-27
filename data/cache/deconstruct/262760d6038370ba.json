@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "262760d6038370ba",
+    "ad_unit_id": "262760d6038370ba",
+    "app_id": "55d939bf02ac645ad2026001",
+    "advertiser_name": "Ladbrokes Sports Betting App",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e19449314f87d7be/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e19449314f87d7be/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e19449314f87d7be/preview",
+    "phashion_group": "262760d6038370ba",
+    "share": null,
+    "first_seen_at": "2026-04-09T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Follow the Rainbow Bridge 🌈 Mighty wins await! That's Ladisfaction! 🤩",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "The ad starts with a bold text invitation to 'Follow the Rainbow Bridge'.",
+    "visual_action": "Bold typography pulses against a vibrant red background with stylized white clouds at the bottom.",
+    "text_overlay": "FOLLOW THE RAINBOW BRIDGE",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Intro text 'FOLLOW THE RAINBOW BRIDGE' appears over a red background.",
+    "The text changes to announce the 'AMAZING LINK ODIN' exclusive game.",
+    "A question appears asking if the viewer wants to take a shot at a mega jackpot.",
+    "The ad concludes with the brand slogan 'THAT'S LADISFACTION'."
+  ],
+  "on_screen_text": [
+    "Ladbrokes",
+    "FOLLOW THE RAINBOW BRIDGE",
+    "18+ T&Cs apply.",
+    "TAKE TIME TO THINK",
+    "GambleAware",
+    "IN A MIGHTY NEW EXCLUSIVE",
+    "AMAZING LINK",
+    "ODIN",
+    "TAKING A SHOT AT A MEGA JACKPOT PRIZE?",
+    "THAT'S LADISFACTION"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#E20613",
+    "#FFFFFF",
+    "#FFFF00"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult UK-based casino and slots enthusiasts looking for exclusive new games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001281
+}

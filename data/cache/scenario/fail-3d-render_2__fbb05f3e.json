@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_tjsa3SuDtcFgXii3uEkGaZfY?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdGpzYTNTdUR0Y0ZnWGlpM3VFa0dhWmZZP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=pGXocmYOJE3gWLwPPCfwsoAmMS8SIqka9vG5eu4nsXTAHeCOvchBjX7ndl8NYxN3Y7xFBx3M0WjcUYC6FQWc9tNZcD0R9qz9IgkcAngyX6hrjMoem7KISCgj8FYKuH5nO68D2pQh2zscdaIkd6Z2BGby4Dna3qJMzDdVkG5wDIdT3LIb-n6EUwn-Fflzw33UsdfI9z0hCtQz4rclK4orksDMycdfRy%7Ehh1JVDhHmk58Djbf2d3y9sPgJFWh7kvz2tXvtZpf8lSUU4y3OBT8Y7x6VmIA8XwUU-rGik4WWuuM5o9hcaIAvlXoX3-9AYqfT%7E6PEcnLgH1fpsswQevbc7g__",
+  "job_id": "job_n943e5NwpPyqusG89qMAUu1n",
+  "asset_id": "asset_tjsa3SuDtcFgXii3uEkGaZfY",
+  "stub": false,
+  "prompt": "Storyboard frame 3 win state, vertical 9:16, classic 2D flat design solitaire, full traditional green felt background (#1A874B), four foundation piles each topped with a King \u2014 two red (#E31C1B) and two black on white cards (#FFFFFF), confetti of tiny red and white card-suit icons bursting outward, large bold overlay text 'FOUNDATION COMPLETE' in white with red drop shadow, timer frozen at 0:01, score counter showing a high number, undo and finish buttons glowing at bottom bar, authentic Solitaire - Voodoo Card Game! HUD and card art, no characters, no people, flat 2D vector style, satisfying victory mobile ad frame",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "57e01339a3c4eda8",
+    "ad_unit_id": "57e01339a3c4eda8",
+    "app_id": "683bad8b18ab8312b601b3a0",
+    "advertiser_name": "Bingo Tour: Win Real Cash",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d849b5e0d99d448/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d849b5e0d99d448/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0d849b5e0d99d448/preview",
+    "phashion_group": "57e01339a3c4eda8",
+    "share": null,
+    "first_seen_at": "2025-12-23T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Top Real Cash Bingo Game",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman relaxes on a couch while a text overlay claims she earns $200 daily playing bingo.",
+    "visual_action": "A woman in a red top lies on a brown recliner, focused on her smartphone.",
+    "text_overlay": "When your wife makes $200 a day playing bingo on her phone!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Live-action UGC of a woman playing on her phone while relaxing on a couch.",
+    "Gameplay footage showing a bingo card being filled and a hand cursor interacting.",
+    "Scratch-off mechanic revealing cash prizes and PayPal logos.",
+    "Fast-paced montage of winning screens, cash stacks, and increasing balances.",
+    "End card with game branding, app store icons, and a 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "When your wife makes $200 a day playing bingo on her phone!",
+    "TURN YOUR BINGO SKILLS INTO REAL CASH ON BINGO TOUR",
+    "PLAY SMART AND WIN BIG TO UNLOCK CASH NOT JUST FOR FUN",
+    "TOUR THE WORLD ONE BINGO CARD AT A TIME",
+    "BINGO WIN UP TO $200!",
+    "PayPal",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 14.0,
+  "palette_hex": [
+    "#4B3621",
+    "#00A859",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adults aged 25-55 looking for casual mobile games that offer real-money rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001876
+}

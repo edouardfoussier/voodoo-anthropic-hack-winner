@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 35,
+  "mechanic_match": 20,
+  "audience_match": 70,
+  "overall": 32,
+  "rationale": "The \"relaxing bus jam\" satisfaction hook is a puzzle/sort archetype that fundamentally misrepresents Roof Rails' fast-paced runner core loop — there are no rails, pole-balancing, or forward motion in the hook, so installs would be heavily mismatched and D1 retention would suffer. Palette is adjacent-casual but the coral/teal mix clashes with the game's signature cyan-and-yellow rooftop aesthetic, and the \"relaxed\" emotional pitch directly contradicts the game's energetic/competitive UI mood. Audience overlap (broad casual, all ages/genders) is the only real bridge; recommend skipping unless we test a hybrid where the bus-clearing hook hard-cuts at 3s into authentic rail-sliding gameplay."
+}

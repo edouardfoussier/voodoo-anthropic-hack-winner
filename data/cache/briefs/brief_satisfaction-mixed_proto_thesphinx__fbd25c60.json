@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "proto_thesphinx",
+  "title": "The Reveal: Piece by Piece, Guess the Icon",
+  "hook_3s": "A glowing golden silhouette flickers in the dark — \"I know who you're thinking of. Do you?\"",
+  "scene_flow": [
+    "0-3s HOOK: Pitch-black screen. A faint golden silhouette of a famous face pulses into view, fragmented like shards of light. Whisper-toned VO: 'I'm thinking of someone famous…'",
+    "3-7s SETUP: POV of a phone in dark room. User taps mic, asks 'Are they alive?' — golden waveform ripples, AI replies 'Yes.' One shard of the silhouette ignites, revealing an eye.",
+    "7-11s ESCALATION: Rapid-fire questions ('Athlete?' No. 'Musician?' Yes. 'Still performing?' Yes.) — each answer lights another shard. Question counter ticks down in gold: 8… 5… 3.",
+    "11-14s PAYOFF: User whispers a name. The full portrait ignites in golden filigree against the void — correct. A subtle smile, satisfaction beat.",
+    "14-15s CTA: Logo + Sphinx eye motif. 'Can you outsmart The Sphinx?' Tap to play."
+  ],
+  "visual_direction": "Mystical Minimalism rendered in near-black (#100D06) negative space, with celebrity portraits constructed from glowing golden-yellow filigree (#D4A024) and luminous highlights (#FCE588) — think gilded shadow-art meets oracle vision. No clutter: a single phone, a single face emerging from darkness, gold light as the only storyteller. Camera stays close and intimate; light reveals are choreographed to each AI answer, swapping the jigsaw archetype's tactile drag-satisfaction for a voice-triggered illumination-satisfaction. Premium, cerebral, slightly occult — the opposite of casual pastel puzzle ads.",
+  "text_overlays": [
+    "I'm thinking of someone famous.",
+    "Ask anything. Yes or no.",
+    "Musician? …Yes.",
+    "3 questions left.",
+    "Can you name them?",
+    "Outsmart The Sphinx"
+  ],
+  "cta": "Play Free",
+  "rationale": "We discard the jigsaw mechanic but keep the archetype's core dopamine driver — incremental reveal toward a satisfying completed image — and translate it into a voice-deduction illumination loop that authentically showcases TheSphinx's actual gameplay. The gold-on-black mystical aesthetic is a scroll-stopper in a feed of bright casual ads, directly targeting the 25-45 intellectual audience who self-select on 'sophisticated' visual cues. UA team: A/B test celebrity silhouettes (musician vs. athlete vs. actor) as the hero reveal — face recognition will be the primary CTR lever.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect ratio, Mystical Minimalism style. A glowing golden filigree portrait of a famous-looking face emerging from pure near-black void (#100D06), constructed from luminous golden-yellow lines (#D4A024) with bright pale-gold highlights (#FCE588) like cracks of light. Half the face is illuminated, half dissolves into darkness. Centered on-screen text in elegant serif gold: 'Can you name them?' Cinematic, premium, oracle-like, sophisticated, no clutter, negative space dominant.",
+    "Storyboard frame, 9:16 vertical, Mystical Minimalism. Close-up of hands holding a smartphone in a dark room, screen glowing with a golden voice-waveform ripple on near-black background (#100D06). Soft golden ambient light (#D4A024) on fingertips, pale yellow accent glow (#FCE588) from the screen. Minimalist UI showing a single tap-to-speak mic icon. On-screen overlay text in thin gold serif: 'Ask anything. Yes or no.' Tense, intimate, cerebral mood.",
+    "Storyboard frame, 9:16 vertical aspect, Mystical Minimalism aesthetic. A fully revealed celebrity portrait rendered entirely in glowing golden filigree lines (#D4A024) with luminous highlights (#FCE588) against a deep near-black background (#100D06), surrounded by faint constellation-like dots. A small gold counter reads '0 questions left.' Bold gold serif text overlay at bottom: 'Outsmart The Sphinx.' Triumphant, mystical, premium reveal moment."
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "count": 414,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "d3e440f82f1b36df",
+      "app_id": "568a601402ac64a409000104",
+      "network": "Instagram",
+      "phashion_group": "d3e440f82f1b36df",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-25",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "d3e440f82f1b36df",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f883f0b719724b1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f883f0b719724b1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f883f0b719724b1/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Level Up Your Gaming Experience",
+          "button_text": "Install Now",
+          "message": "You don't want to miss this game!"
+        },
+        {
+          "id": "ebb04d2ea583e088",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f883f0b719724b1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f883f0b719724b1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f883f0b719724b1/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Only Skill Survives",
+          "button_text": "Install Now",
+          "message": "Earn Every Victory"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "568a601402ac64a409000104",
+        "canonical_country": "US",
+        "name": "Clash Royale",
+        "publisher_name": "Supercell",
+        "publisher_id": "560c48b48ac350643900b82d",
+        "humanized_name": "Clash Royale",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/a2/1c/1fa21ca0-610d-b058-2cae-ea4a6d785c76/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "568a601402ac64a409000104",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a94a5d25df6189dd",
+      "app_id": "55c5309f02ac64f9c0002dfe",
+      "network": "Instagram",
+      "phashion_group": "a94a5d25df6189dd",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a94a5d25df6189dd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Free Download",
+          "button_text": "Play Game",
+          "message": "Play with your friends"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5309f02ac64f9c0002dfe",
+        "canonical_country": "US",
+        "name": "Sniper 3D\uff1aGun Shooting Games",
+        "publisher_name": "Wildlife Studios",
+        "publisher_id": "5614e08d3f07e25d2901b7e7",
+        "humanized_name": "Sniper 3D\uff1aGun Shooting Games",
+        "icon_url": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E=s150",
+        "os": "unified",
+        "id": "55c5309f02ac64f9c0002dfe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5bb89e98af6901dd",
+      "app_id": "59d296dd60104c08ce201a27",
+      "network": "Instagram",
+      "phashion_group": "5bb89e98af6901dd",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-07",
+      "last_seen_at": "2026-04-08",
+      "creatives": [
+        {
+          "id": "5bb89e98af6901dd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1e59542323c23f54/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1e59542323c23f54/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1e59542323c23f54/thumb",
+          "video_duration": 13,
+          "width": 720,
+          "height": 1280,
+          "message": "Pegue seu Codiguin Free Fire exclusivo com Snickers!\nAtive seu Conjunto Snickers gr\u00e1tis! \u00c9 r\u00e1pido e f\u00e1cil.\nLink na bio!\n#Freefire #freefirebrasil #snickersFF #SocialFF #Freefirememe"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "59d296dd60104c08ce201a27",
+        "canonical_country": "US",
+        "name": "Garena Free Fire",
+        "publisher_name": "Sea",
+        "publisher_id": "56180ad702ac645be5000013",
+        "humanized_name": "Garena Free Fire",
+        "icon_url": "https://play-lh.googleusercontent.com/Tzh1vMigK1Cn7_KIaMvKBVQRQapIMWMMqqyA6UqJTAYRpino4vvX6ZvYcVjZ_D8g19-DfHKCVeO2QPWl8vHGzw=s150",
+        "os": "unified",
+        "id": "59d296dd60104c08ce201a27",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3cdf978d3afaf89e",
+      "app_id": "55c5025102ac64f9c0001f96",
+      "network": "Instagram",
+      "phashion_group": "3cdf978d3afaf89e",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-17",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "3cdf978d3afaf89e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f2bc740f16db33/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f2bc740f16db33/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f2bc740f16db33/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Build & Battle!",
+          "button_text": "Install Now",
+          "message": "Test your skills in epic clan wars to prove you are the best \ud83c\udfc5"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5025102ac64f9c0001f96",
+        "canonical_country": "US",
+        "name": "Clash of Clans",
+        "publisher_name": "Supercell",
+        "publisher_id": "560c48b48ac350643900b82d",
+        "humanized_name": "Clash of Clans",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/98/ce/4798cecf-ce64-edb6-73ba-33b8ddf831f2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5025102ac64f9c0001f96",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "35c1a41738c48406",
+      "app_id": "5f233c9ae9bbdb01538c8eda",
+      "network": "Instagram",
+      "phashion_group": "35c1a41738c48406",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-27",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "35c1a41738c48406",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play FREE now \u26bd\ufe0f\ud83d\udd25",
+          "button_text": "Play Game",
+          "message": "How Many Goals Can You Score in This Epic Football Game? \u26bd\ufe0f\ud83c\udfc6"
+        },
+        {
+          "id": "442071731c598efd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Dominate the Leaderboards. Every Day.",
+          "button_text": "Play Game",
+          "message": "Join millions of players chasing the #1 spot \ud83c\udf0d. Master fast-paced gameplay and claim the rewards that set true champions apart. \ud83e\udd47\ud83d\udd25"
+        },
+        {
+          "id": "ef7fbffee93e0349",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/29c87934326262d7/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play FREE now \u26bd\ufe0f\ud83d\udd25",
+          "button_text": "Play Game",
+          "message": "Who will be the 2026 Champion? \u26bd\ufe0f\ud83c\udfc6"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5f233c9ae9bbdb01538c8eda",
+        "canonical_country": "US",
+        "name": "Mini Football - Soccer Games",
+        "publisher_name": "Miniclip",
+        "publisher_id": "65670b56ad4adb650837a435",
+        "humanized_name": "Mini Football",
+        "icon_url": "https://play-lh.googleusercontent.com/qewy1PbGTItgxpuu0_TveEtrZdoypH5ugqFU3-zxy_6hOwjAeB7ZiSG-s2RLGsTFVcA=s150",
+        "os": "unified",
+        "id": "5f233c9ae9bbdb01538c8eda",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "9731e3b48bd348e7",
+      "app_id": "5cb9b9223ea98344e0401fcf",
+      "network": "Instagram",
+      "phashion_group": "9731e3b48bd348e7",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-30",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "9731e3b48bd348e7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e3cf82017cfb803d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e3cf82017cfb803d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e3cf82017cfb803d/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "Crush the Court Now!",
+          "button_text": "Install Now",
+          "message": "Slam dunk on the tennis court with Tennis Clash! \ud83c\udfbe\nThis game is for you if you're ready to crush some serious serves and volleys. \u2728"
+        },
+        {
+          "id": "f63969e6f12fbbae",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e3cf82017cfb803d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e3cf82017cfb803d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e3cf82017cfb803d/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "Crush the Court Now!",
+          "button_text": "Install Now",
+          "message": "Get ready to serve up some fun!\nExperience the ultimate tennis thrill on-the-go with Tennis Clash!\nDownload now and dominate the court!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5cb9b9223ea98344e0401fcf",
+        "canonical_country": "US",
+        "name": "Tennis Clash\uff1aSports Stars Game",
+        "publisher_name": "Wildlife Studios",
+        "publisher_id": "5614e08d3f07e25d2901b7e7",
+        "humanized_name": "Tennis Clash",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/8e/1c/258e1c1d-2466-7348-27cc-39be0ace913e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5cb9b9223ea98344e0401fcf",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "06ee0a6a84ec3178",
+      "app_id": "5aad42d99f479f0a74d40440",
+      "network": "Instagram",
+      "phashion_group": "06ee0a6a84ec3178",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-09",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "06ee0a6a84ec3178",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0010778984d17c28/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0010778984d17c28/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0010778984d17c28/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Learn more",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5aad42d99f479f0a74d40440",
+        "canonical_country": "US",
+        "name": "PUBG MOBILE",
+        "publisher_name": "Tencent",
+        "publisher_id": "5614b2f53f07e2077c000059",
+        "humanized_name": "PUBG MOBILE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/13/c2/1013c2bb-c728-f6e0-073e-54879d5820e9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5aad42d99f479f0a74d40440",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "34449a9a97b91f8e",
+      "app_id": "66193b9ead4adb2170e90f91",
+      "network": "Instagram",
+      "phashion_group": "34449a9a97b91f8e",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-05",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "34449a9a97b91f8e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/thumb",
+          "video_duration": 7,
+          "width": 1080,
+          "height": 1920,
+          "title": "Mais de 1 milh\u00e3o de jogadores j\u00e1 est\u00e3o em Amikin Village!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66193b9ead4adb2170e90f91",
+        "canonical_country": "US",
+        "name": "Amikin Village: Magic Sim RPG",
+        "publisher_name": "Helio Games",
+        "publisher_id": "5b87023f4fddd52212348725",
+        "humanized_name": "Amikin Village",
+        "icon_url": "https://play-lh.googleusercontent.com/ODkvCMWJFeb3-Wuhl6xJJVLRBGzmUIV3CPJlpLPCbsvCgkSdhnfC_o__7X6kddJVcQg=s150",
+        "os": "unified",
+        "id": "66193b9ead4adb2170e90f91",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "828e07f4822e7654",
+      "app_id": "5b5fd880dfeda93ee511a10d",
+      "network": "Instagram",
+      "phashion_group": "828e07f4822e7654",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-15",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "828e07f4822e7654",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/022cb6b998929179/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "You are on the RUN",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b5fd880dfeda93ee511a10d",
+        "canonical_country": "US",
+        "name": "Police Pursuit: Burnout Rush!",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Police Pursuit",
+        "icon_url": "https://play-lh.googleusercontent.com/8wW8j4n19lBfzTfkMTsWSB9_flZ03EopLJC6cYC41GAmW5bejFHpCLOvmyGY6hdGnw=s150",
+        "os": "unified",
+        "id": "5b5fd880dfeda93ee511a10d",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "ef9429b667f82fbc",
+      "app_id": "5cb9b9223ea98344e0401fcf",
+      "network": "Instagram",
+      "phashion_group": "ef9429b667f82fbc",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-01",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "ef9429b667f82fbc",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0235427436e4fb69/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0235427436e4fb69/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0235427436e4fb69/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Install Now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5cb9b9223ea98344e0401fcf",
+        "canonical_country": "US",
+        "name": "Tennis Clash\uff1aSports Stars Game",
+        "publisher_name": "Wildlife Studios",
+        "publisher_id": "5614e08d3f07e25d2901b7e7",
+        "humanized_name": "Tennis Clash",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/8e/1c/258e1c1d-2466-7348-27cc-39be0ace913e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5cb9b9223ea98344e0401fcf",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

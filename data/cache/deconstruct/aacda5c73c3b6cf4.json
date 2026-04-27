@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "aacda5c73c3b6cf4",
+    "ad_unit_id": "aacda5c73c3b6cf4",
+    "app_id": "66c292ff6bbfce0e306de36b",
+    "advertiser_name": "Pokémon TCG Pocket",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0026696102e823b2/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0026696102e823b2/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0026696102e823b2/preview",
+    "phashion_group": "aacda5c73c3b6cf4",
+    "share": null,
+    "first_seen_at": "2026-04-21T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Introduction of the game as a relaxing 'breather' featuring a Sinistea card reveal.",
+    "visual_action": "A smartphone displays the game interface, transitioning to a close-up of a Sinistea card against a soft purple background.",
+    "text_overlay": "ポケポケで ホッと 一息つきませんか？",
+    "voiceover_transcript": "ポケポケで、ホッと一息つきませんか？",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Hook showing a Sinistea card and inviting the viewer to take a break.",
+    "Showcasing the game being played on smartphones during 'gap time' with calming visuals.",
+    "Displaying a collection of aesthetically pleasing Pokémon cards to highlight the 'healing' atmosphere.",
+    "Closing with a call to action, game logo, and details on the 30-day login mission rewards."
+  ],
+  "on_screen_text": [
+    "「30日プレゼント」ミッション開催中！",
+    "ポケポケで",
+    "ホッと",
+    "一息つきませんか？",
+    "スキマ時間にスマホで、",
+    "ポケモンに囲まれる癒しのひと時",
+    "毎日のログインで特別な報酬や最大30パック分のパック砂時計を手に入れよう！",
+    "今すぐログインで 10パック分ゲット！",
+    "毎日2パック無料で開封",
+    "今すぐダウンロード"
+  ],
+  "cta_text": "今すぐダウンロード",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#00AEEF",
+    "#FFFFFF",
+    "#B19CD9"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual Pokémon fans and mobile gamers looking for a relaxing, low-stress collection experience during short breaks.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016389999999999998
+}

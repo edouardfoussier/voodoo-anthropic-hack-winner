@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "03e9194e51b1df4a",
+    "ad_unit_id": "03e9194e51b1df4a",
+    "app_id": "55c50b2202ac64f9c00022c6",
+    "advertiser_name": "PlayStation App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d68c8c9535a9f115/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d68c8c9535a9f115/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d68c8c9535a9f115/preview",
+    "phashion_group": "03e9194e51b1df4a",
+    "share": null,
+    "first_seen_at": "2026-03-02T00:00:00",
+    "last_seen_at": "2026-04-01T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Choose a PlayStation Plus plan that gives you more of what you love.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Iconic PlayStation branding transitions into a high-energy game montage.",
+    "visual_action": "The PlayStation logo appears on a blue gradient, followed by rapid cuts of game characters inside dynamic blue frames.",
+    "text_overlay": "PlayStation Plus MEMBERS GET MORE",
+    "voiceover_transcript": "Put 'em up to the sky, put 'em up, put 'em up",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "PlayStation logo intro on a signature blue background.",
+    "Fast-paced montage of various game characters and action sequences within stylized blue geometric overlays.",
+    "Text transition highlighting the value proposition: 'MEMBERS GET MORE'.",
+    "Final call to action screen urging users to 'REJOIN TODAY' with PlayStation Plus branding."
+  ],
+  "on_screen_text": [
+    "PlayStation Plus",
+    "MEMBERS GET MORE",
+    "REJOIN TODAY",
+    "PlayStation Plus",
+    "Content and subscription features vary by tier, over time and region / country. Age restrictions & terms apply."
+  ],
+  "cta_text": "REJOIN TODAY",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#003791",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Core console gamers and former PlayStation Plus subscribers interested in premium gaming content.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001375
+}

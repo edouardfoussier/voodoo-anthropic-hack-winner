@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "ced4015d06ee3982",
+    "ad_unit_id": "ced4015d06ee3982",
+    "app_id": "6511e2671af9fc394fd13946",
+    "advertiser_name": "Wood Block Puzzle Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0184b2deb274387e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0184b2deb274387e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0184b2deb274387e/preview",
+    "phashion_group": "ced4015d06ee3982",
+    "share": null,
+    "first_seen_at": "2026-04-07T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid-fire block placement and row clearing with glowing effects.",
+    "visual_action": "Wooden blocks are placed into a grid, completing rows that glow and vanish in quick succession.",
+    "text_overlay": "These weird blocks>>",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Fast-paced gameplay showing wooden blocks being slotted into a grid to clear rows.",
+    "Multiple rows are cleared in quick succession, triggering positive feedback text like 'Great!' and 'Brilliant!'.",
+    "Text overlays emphasize the game's benefits: boredom-killing and free-to-play.",
+    "The video concludes with a menu showing various puzzle skins and a 'Play' button."
+  ],
+  "on_screen_text": [
+    "These weird blocks>>",
+    "Great!",
+    "This game is perfect for killing boredom",
+    "Wonderful!",
+    "it's totally free",
+    "Brilliant!",
+    "Fantastic!",
+    "Easy to solve but hard to get high score",
+    "Good",
+    "BLOCK PUZZLE",
+    "Play"
+  ],
+  "cta_text": "Play",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#5D3A1A",
+    "#D2B48C",
+    "#FFD700"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle gamers looking for a satisfying and free way to pass the time.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001733
+}

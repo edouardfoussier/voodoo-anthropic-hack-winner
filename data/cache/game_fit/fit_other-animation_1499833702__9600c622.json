@@ -1,0 +1,8 @@
+{
+  "archetype_id": "other-animation",
+  "visual_match": 20,
+  "mechanic_match": 10,
+  "audience_match": 25,
+  "overall": 15,
+  "rationale": "This is a licensed-IP anime hook (Dokkan Battle/Goku) — visually saturated neon anime art clashes hard with Knock'em All's minimalist pastel 3D look, and we obviously can't use Dragon Ball IP without licensing. The static \"PLAY NOW\" charging-blast concept also doesn't communicate the tap-to-shoot physics ragdoll loop that drives installs for this game, and it skews to a mid-core anime gacha audience rather than the broad casual hypercasual player. Skip — neither the asset nor the concept is portable; if there's a learning to extract, it's only the very generic \"bright character + PLAY NOW CTA\" pattern, which we already cover with on-brand creatives."
+}

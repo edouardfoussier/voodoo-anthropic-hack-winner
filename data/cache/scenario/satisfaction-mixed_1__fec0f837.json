@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_uy7SKEWtgmUxVYKeqH6a4BBq?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdXk3U0tFV3RnbVV4VllLZXFINmE0QkJxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=a3l0Yg2gdWDzIfFtiNKJRA7fa7wwfqL43w85yjXcyPWPqnlOsReWJvBFg-APQFpOt6VzgcXAQ5p1ZT66DhM0PQY3NLZeYuSfv2Hb--hDXYvn%7EPgsAbJK5cTkR7bqbuJ%7E9NRXSYVJnsBGJ5Ohwi-yW8zNEvInkxKd2Uz2%7EskfHak77PwwVcQGTHbMVmNkc9nMZCHq-kuUPlFNsrWZHgbjpAkNOZmWkg1lp%7Eqkh0kQNcksMF40Y3OuFMkruUABQN9k8ld1yP%7EHQ-X1MHkPkf4Vu2BwuLBTPB87xhkSTfdPP02sxF08f9o7BNW6oYpYfRsMm%7EJZJ8RHW%7EOyaBM2-Hj%7Ewg__",
+  "job_id": "job_UrDecxjpNmv6whiNdfDc1wJV",
+  "asset_id": "asset_uy7SKEWtgmUxVYKeqH6a4BBq",
+  "stub": false,
+  "prompt": "Storyboard frame, 9:16 vertical, Mystical Minimalism. Close-up of hands holding a smartphone in a dark room, screen glowing with a golden voice-waveform ripple on near-black background (#100D06). Soft golden ambient light (#D4A024) on fingertips, pale yellow accent glow (#FCE588) from the screen. Minimalist UI showing a single tap-to-speak mic icon. On-screen overlay text in thin gold serif: 'Ask anything. Yes or no.' Tense, intimate, cerebral mood.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

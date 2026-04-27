@@ -1,0 +1,201 @@
+{
+  "target_game": {
+    "app_id": "1576885656",
+    "name": "Destiny Run",
+    "genre": "Hypercasual",
+    "sub_genre": "Runner",
+    "core_loop": "Swipe left or right to steer the character, collect items that match your chosen moral alignment (Angel or Devil), pass through choice gates, and reach the end of the track for judgment.",
+    "audience_proxy": "Broad casual audience, skewing female, ages 13-35.",
+    "visual_style": "3D stylized, bright and clean, with simple low-poly geometry.",
+    "palette": {
+      "primary_hex": "#5bc2ff",
+      "secondary_hex": "#ffffff",
+      "accent_hex": "#d92b2b",
+      "description": "Bright sky blue and white environment with stark red and green accents highlighting gameplay choices."
+    },
+    "key_mechanics": [
+      "swiping",
+      "collecting",
+      "obstacle-avoidance",
+      "path-choosing"
+    ],
+    "character_present": true,
+    "ui_mood": "calm/satisfying",
+    "screenshot_signals": [
+      "Split path choice gates",
+      "Moral alignment meter",
+      "Thematic collectibles (halos, horns)",
+      "Character evolution based on choices",
+      "Level progress bar"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 8,
+    "num_phashion_groups": 8
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "other-animation",
+      "label": "Other · animation",
+      "member_creative_ids": [
+        "5d287f88cf4759b9"
+      ],
+      "centroid_hook": {
+        "summary": "Static character art of Goku Ultra Instinct with a prominent 'PLAY NOW!' call to action.",
+        "visual_action": "Goku is depicted charging a blue energy blast against a vibrant, rainbow-colored background with glowing orbs.",
+        "text_overlay": "Dragon Ball Z Dokkan Battle PLAY NOW!",
+        "voiceover_transcript": null,
+        "emotional_pitch": "other"
+      },
+      "palette_hex": [
+        "#00BFFF",
+        "#FFFF00",
+        "#FF00FF"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.745,
+      "derivative_spread": 1.0,
+      "freshness_days": 620.0,
+      "overall_signal_score": 1.06,
+      "rationale": "1 creatives across 1 unique advertisers, average age 620d (velocity source: sov). Hook representative: \"Static character art of Goku Ultra Instinct with a prominent 'PLAY NOW!' call to\""
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "label": "Satisfaction · animation",
+      "member_creative_ids": [
+        "f41b68dd7e9c7ab2"
+      ],
+      "centroid_hook": {
+        "summary": "Goku SSJ3 performs his iconic Dragon Fist attack.",
+        "visual_action": "Goku charges energy and punches forward, summoning a massive golden dragon.",
+        "text_overlay": "Dragon Fist!!!",
+        "voiceover_transcript": "Dragon Fist!!!",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#FFD700",
+        "#1E3A8A",
+        "#4B0082"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.745,
+      "derivative_spread": 1.0,
+      "freshness_days": 717.0,
+      "overall_signal_score": 1.058,
+      "rationale": "1 creatives across 1 unique advertisers, average age 717d (velocity source: sov). Hook representative: \"Goku SSJ3 performs his iconic Dragon Fist attack.\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "bdf6fd7b1032fa14",
+        "5ba7458dea1165c1"
+      ],
+      "centroid_hook": {
+        "summary": "A hand uses a stylus to solve a bus-sorting puzzle while the narrator asks a question about relaxation.",
+        "visual_action": "A hand with a stylus slides colorful buses around a crowded parking lot to clear a path for passengers.",
+        "text_overlay": "Hey! Played a game that Actually makes you Feel relaxed?",
+        "voiceover_transcript": "Hey! Have you ever played a game that actually makes you feel relaxed?",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#4A90E2",
+        "#9B51E0",
+        "#F2994A"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.034,
+      "derivative_spread": 1.0,
+      "freshness_days": 114.0,
+      "overall_signal_score": 0.829,
+      "rationale": "2 creatives across 2 unique advertisers, average age 114d (velocity source: sov). Hook representative: \"A hand uses a stylus to solve a bus-sorting puzzle while the narrator asks a que\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "other-animation",
+      "visual_match": 20,
+      "mechanic_match": 8,
+      "audience_match": 15,
+      "overall": 12,
+      "rationale": "This is a static anime IP card-battler ad (Dokkan Battle/Goku) with zero gameplay representation — it can't communicate Destiny Run's swipe-steer, choice-gate, moral-alignment loop. Visually the saturated rainbow + magenta clashes with the game's clean sky-blue/white low-poly aesthetic, and the male shonen-anime audience skews opposite of our female-leaning 13-35 casual base. Do not adapt; the only borrowable element is the bold \"PLAY NOW!\" CTA stamp, which we already have better-fit references for."
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "visual_match": 12,
+      "mechanic_match": 8,
+      "audience_match": 15,
+      "overall": 11,
+      "rationale": "Hard pass. The archetype is licensed Dragon Ball Z anime combat footage — palette (gold/indigo/purple), shonen power-fantasy aesthetic, and male-skewing teen/anime audience all clash with Destiny Run's bright sky-blue, low-poly, female-skewing casual moral-choice runner. Beyond the audience and visual mismatch, using Goku IP carries serious Toei/Bandai trademark risk and the \"charge-and-punch\" hook tells users nothing about swipe-to-steer or angel/devil path-choice mechanics, so CTR-to-install quality would crater."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 35,
+      "mechanic_match": 20,
+      "audience_match": 65,
+      "overall": 32,
+      "rationale": "Mechanic mismatch is the dealbreaker: a top-down stylus bus-sorting puzzle reads as a sort/puzzle ad and will misrepresent Destiny Run's swipe-runner moral-choice loop, risking high IPM but terrible D1 retention and refunds/policy flags for misleading creative. The casual-relaxation hook and female-skewing audience overlap is decent, and the palette has some blue commonality, but the purple/orange member palette and hand-with-stylus framing clash with the bright sky-blue 3D runner aesthetic. Do not ship as-is; if testing the \"relaxing question\" VO hook, re-shoot over actual Angel/Devil gate gameplay instead."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "1576885656",
+        "title": "\"Actually Relaxing?\" — Angel vs Devil Gate Run",
+        "hook_3s": "A soft voice asks \"Ever played a game that ACTUALLY relaxes you?\" as a thumb swipes through a glowing halo gate — feathers puff, the alignment meter ticks toward Angel.",
+        "scene_flow": [
+          "0-3s: POV over-the-shoulder of the Destiny Run track — bright sky-blue road, white clouds. A real thumb enters frame and swipes left through a halo (green) gate. Voiceover question lands.",
+          "3-7s: Combo montage — thumb swipes collecting halos, dodging red devil-horn obstacles. Alignment meter on top-right fills white/gold. Satisfying chimes stack with each pickup.",
+          "7-11s: Mid-track choice gate appears: ANGEL (white/blue) vs DEVIL (red). Thumb hesitates, then swipes right into the DEVIL gate for contrast — character sprouts horns, meter snaps red, cheeky giggle SFX.",
+          "11-14s: Finish line judgment cloud reveals dual outcome — heaven beam vs fire pit. Soft satisfying whoosh.",
+          "14-15s: End card: low-poly character winking between halo + horns, CTA pulses."
+        ],
+        "visual_direction": "Authentic Destiny Run in-game capture feel: bright #5bc2ff sky-blue runway with #ffffff cloud rails and #d92b2b devil-side accents. 3D stylized low-poly geometry, calm/satisfying UI chrome — top-bar level progress, right-side Angel/Devil alignment meter, floating halo and horn collectibles. A real human thumb overlay sells the \"you can play this now\" UGC feel against the clean stylized world. Lighting is soft and diffuse; no gritty filters — keep it clean, candy-bright, ASMR-adjacent.",
+        "text_overlays": [
+          "Wait… a game that ACTUALLY relaxes you?",
+          "Just swipe ➜ collect halos 😇",
+          "…or pick the red gate 😈",
+          "Which side are YOU?",
+          "Find out your destiny ⤵"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Destiny Run rotation is silent, copy-less Applovin playables/videos with zero VO hook — this brief injects the trending \"relaxing-question\" satisfaction VO that's winning across the market but is completely absent from their stack. Critically, we re-shoot the hook over real Angel/Devil gate gameplay (not stylus-puzzle bait) to keep IPM lift without tanking D1 or tripping misleading-creative flags. UA: test against the existing soundless playables as a video top-of-funnel feeder; expect stronger thumb-stop on female 18-34.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, in-game moment from Destiny Run mobile runner: bright sky-blue (#5bc2ff) low-poly track stretching to horizon, fluffy white (#ffffff) cloud guardrails, a glowing white halo collectible floating mid-lane on the left and a red (#d92b2b) devil-horn obstacle on the right, split choice gate ahead labeled ANGEL / DEVIL, top-right Angel-Devil alignment meter HUD half-filled white, top progress bar, a real human thumb entering from bottom-right mid-swipe, 3D stylized bright and clean simple low-poly geometry, soft diffuse lighting, on-screen text overlay reading 'Wait… a game that ACTUALLY relaxes you?' in friendly white sans-serif at top. [Audio: VO (warm female, curious) 'Ever played a game that actually relaxes you?' / calm satisfying lo-fi 80bpm with soft marimba / whoosh on thumb swipe at 0.8s, gentle chime on halo glint at 1.5s]",
+          "Storyboard frame, aspect 9:16, Destiny Run gameplay mid-combo: low-poly character running down #5bc2ff sky-blue track collecting a stream of white (#ffffff) halos, three red (#d92b2b) devil horns being dodged on right lane, alignment meter HUD top-right glowing white/gold near full, level progress bar advancing, sparkle particles on each pickup, 3D stylized bright and clean simple low-poly geometry, on-screen text overlay 'Just swipe ➜ collect halos 😇' bottom-center in rounded white font. [Audio: VO 'just swipe… collect… breathe.' / calm satisfying 80bpm lo-fi marimba / stacking chime combo SFX every 0.4s, soft whoosh on each swipe]",
+          "Storyboard frame, aspect 9:16, Destiny Run judgment finish line: split outcome reveal with soft white heavenly light beam on left half and gentle red (#d92b2b) ember glow on right half over #5bc2ff sky backdrop, low-poly character mid-frame with one halo and one horn, alignment meter HUD centered showing 50/50 split, clean white (#ffffff) clouds framing, 3D stylized bright and clean simple low-poly geometry, big on-screen text overlay 'Which side are YOU?' top-center bold white with red accent. [Audio: VO (playful) 'so… which side are you?' / calm satisfying lo-fi swelling to warm pad / soft celestial chime left, low ember crackle right, satisfying button-pop on CTA at 4.5s]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_Eu8fD1Bemao5tvvW6V4cBJZc?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRXU4ZkQxQmVtYW81dHZ2VzZWNGNCSlpjP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=WtcqZ7aNMhUzIFQtFRcwYd7CsvS8BiFmEx0u9CObrVVlC9%7EY870wqO3Prey8ry0NpNjq7agTsp9PzRzOp1TTngjS7dyekTKKfxco5ZyfBYvZKwdOP6ypfojiYPjeb4JJgcWiT%7EWE3fyxCCWMZj92XYNR7Z0yqenTekrtFbiareWUsFsvq9DnAzlI5Lmnx%7EOJC3JNxoc3j9Wftj19710svrajJqCW7%7EfLl4KOoUrfAETLaZJiSVSrB2VDiWGWi5Dl%7EnEnNIWInxRVhwrqaaAtnpKdeunzA6b3Jh-HyryKJ94GgqT2ADFcRCsTZc11jhHeaF0DCaKAjIuYQaaKosyGPQ__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_YdoK9qiDxghUpyhGkuARzyGY?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWWRvSzlxaUR4Z2hVcHloR2t1QVJ6eUdZP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=MHO9UHqxZEC%7EOyPrckHQTQkQqPMFDr8F7bJryBnwiYXI%7ESUos5aI2uHe39IcuUjuZhouzDmo0TPnfslCzpb8s3IIQAx%7EqkuZK-cyXqgj-FOd5ardsrbfk-vocymwDL4AzgJlrppiR4HD-0itbmR%7E-CINTcFnKNivdVSJRC0w%7E1s4ch-ubCEQu3Nz-4zdV13dDtgGD-1U4YGECurNwEh-KfCEW0VlGtw3JoBMuAlqzVtWfWlpS2JVyit-u9rHN6AcHWatySXSWN1a88IOPqIvhmzM1A0Htr87vW914If8TtjCoRb1LvMhUTk09wmnht7%7E-bFet9henbCO5oXL5gi8gA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_Qwp5UWCH5RwGni8V7it7MCB7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUXdwNVVXQ0g1UndHbmk4VjdpdDdNQ0I3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=JYdUM2wwhxzqSRTruIkFsFkwlGMvfkEcuP86R%7EAui2Iefs%7EcWgHZ6oU0uOkyefryuEy51xpRUGimpqbiz6SCEWGo1ECz8ZYYlsDhgszQDJ9upd4hZCAS%7E--BV1I79npk63PvzrO0ETjO-Y51v-e9-WC2ar2zK6Gt1lfU%7E9f%7ExLIV7DzK2QhluQvep8opFDpiIBopEKYXqMYd73G1ZE3%7E0UZFryNgnlmOsC6y8LkQ8tCAHxJRWQ9OwHtZmUwTyXA7DCuUG08boag4pZoxfcOewE6TqFv4m8abuP4JNSV5iZLlmHw2BIvu2Oz-yZJzFjHdDpL6CvsbWGzU%7EsUcfdTvqg__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=0.83 × game_fit=32/100 ⇒ priority=0.27"
+    }
+  ],
+  "pipeline_duration_seconds": 298.9681383760035,
+  "total_cost_usd": 0.012067000000000001,
+  "generated_at": "2026-04-26T14:28:34.106303Z"
+}

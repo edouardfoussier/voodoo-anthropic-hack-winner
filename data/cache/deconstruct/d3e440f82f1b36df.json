@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "d3e440f82f1b36df",
+    "ad_unit_id": "d3e440f82f1b36df",
+    "app_id": "568a601402ac64a409000104",
+    "advertiser_name": "Clash Royale",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f883f0b719724b1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f883f0b719724b1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f883f0b719724b1/preview",
+    "phashion_group": "d3e440f82f1b36df",
+    "share": null,
+    "first_seen_at": "2026-02-25T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "You don't want to miss this game!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A strategy guide hook demonstrating a counter to a popular game tactic.",
+    "visual_action": "Gameplay footage of a Goblin Barrel being countered by a Log spell.",
+    "text_overlay": "How To Defend LogBait!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "tutorial"
+  },
+  "scene_flow": [
+    "Gameplay starts with 'How To Defend LogBait!' text overlay.",
+    "Player counters a Goblin Barrel with The Log and deploys a Knight.",
+    "The gameplay escalates into a chaotic scene with an absurd number of units on screen.",
+    "Final CTA screen with the Clash Royale logo and 'PLAY NOW' button."
+  ],
+  "on_screen_text": [
+    "How To Defend LogBait!",
+    "The Log",
+    "Knight",
+    "Clash Royale",
+    "ALL FOR THE CROWN!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#C62828",
+    "#1565C0",
+    "#FBC02D"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Mid-core mobile gamers interested in tower defense and competitive strategy games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001577
+}

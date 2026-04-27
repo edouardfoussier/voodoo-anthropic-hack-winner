@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_JunZpmeb1oBkP1Hdwtjudx4C?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSnVuWnBtZWIxb0JrUDFIZHd0anVkeDRDP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=idFdT4f8SrvU68wLNaZo5DAzdCt20C8QyxlogHclj0zUcI7aNiQbtAoALzhfyEdAwrzejV5Xnl%7EiBs7HwHdu0QDQ%7Exbm-7k0mM9DblWvD7JxHwW6oqjx0vldmEw0G4dCcS5%7E9kGiRF73VFeoXsWcDc27E5YH5y-k6wMQ720tIs4lR3UBvemyO7IQf2f-jzw3DGJTEmN1PY9%7E1krLh6XvtWj5mfpQrDtH0E-7kDiV5sfCtmvXRpuYL0eDNOTKUtfXIC4M32c-IK88AZnSGHyjFvwzBNOQ6N2rGESX3rpbPK4bkTp5Xzv-F2uc4cnA7Bfsxq5NvP7rCRN5IVqxlzX-aA__",
+  "job_id": "job_6nUzJWd1V8TyTzbxLj9WTugV",
+  "asset_id": "asset_JunZpmeb1oBkP1Hdwtjudx4C",
+  "stub": false,
+  "prompt": "Storyboard frame 3, 9:16 vertical aspect, minimalist 3D with abstract geometric shapes and a soft pastel background. Cross-section diorama view: dark navy (#152238) track on top, glowing chamber below revealing a hidden 'next level' room with floating accent red (#FF4C4C) multiplier numbers x2, x5, x10 stacking in mid-air against pastel pink (#FADADD) walls. Coins streaming up into the ball above. Color Road HUD preserved: score counter, pause button, coin tally. Bold overlay text 'Combo x10!'. No characters, toy-diorama lighting. [Audio: VO (excited) 'Ten times combo!' / competitive trap-pop at 135 BPM with triumphant brass stab / ascending coin chimes at 0.5s/1.5s/2.5s, bass drop at 3s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

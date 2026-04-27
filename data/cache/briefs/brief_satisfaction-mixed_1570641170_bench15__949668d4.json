@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1570641170",
+  "title": "Tap to Pop: The Satisfying Color Burst",
+  "hook_3s": "A finger hovers over a tightly-packed cluster of glossy colored spheres — TAP — the matching dots burst in a candy-bright shockwave.",
+  "scene_flow": [
+    "0–3s: Extreme close-up on a dense grid of glossy red, blue, and orange spheres jiggling like jelly. A fingertip taps one — it pulses but doesn't pop. Overlay: 'Tap to Pop?'",
+    "3–7s: Finger drags a glowing line connecting 5+ matching red spheres. Line snaps taut, spheres squish together, then BURST in a confetti shockwave. Top HUD ticks down moves and goal counter drops dramatically.",
+    "7–11s: Camera pulls back — board is half-cleared. A rocket power-up charges up and rips across two rows in an explosive chain reaction (#E81E4D sparks, #F18332 trails).",
+    "11–14s: 'LEVEL CLEAR' splash with all goals checked. Quick cut to a fresh, harder board teasing what's next.",
+    "14–15s: CTA card on the orange bottom banner with logo and install button."
+  ],
+  "visual_direction": "Lean fully into the Collect Em All! palette: clean white play field, prominent #4B86D6 blue top HUD showing goal icons + move counter, warm #F18332 orange bottom banner. Spheres rendered in the game's signature soft 3D shaded 2D style — glossy highlights, gentle squash-and-stretch on tap, saturated reds (#E81E4D), blues, oranges, greens. ASMR-grade close-ups for the first 3 seconds (shallow depth, micro-jiggle) to steal the satisfaction-tap hook from the egg-hatch trope, then snap to authentic in-game wide shots so the player understands exactly what they're installing. No characters, no mascots — the spheres ARE the stars.",
+  "text_overlays": [
+    "Tap to Pop?",
+    "Connect the colors…",
+    "BOOM 💥",
+    "Goals cleared!",
+    "Can you clear them all?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current rotation on this title leans on generic \"satisfying gameplay\" montages and daily-rewards videos — none capture the trending tap-to-trigger satisfaction hook driving the market scan. This brief rebuilds that ASMR tap-reveal moment around the game's actual line-draw + color-pop loop, eliminating bait-and-switch risk while injecting the underrepresented sensory-close-up angle. UA should A/B this against the existing Unity playable as a top-of-funnel hook variant for IG Reels and TikTok placements.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, extreme macro close-up of a tightly packed grid of glossy 3D-shaded spheres in saturated red #E81E4D, blue #4B86D6, and orange #F18332 on a clean white play area, a fingertip pressing one sphere causing it to squish and glow, soft drop shadows, bright colorful clean 2D aesthetic with soft 3D shading on the interactive game pieces, blue #4B86D6 top HUD bar showing goal icons and remaining moves counter, orange #F18332 bottom banner, on-screen text 'Tap to Pop?' in bold rounded white font with subtle shadow, no characters, authentic Collect Em All Clear the Dots in-game UI chrome",
+    "Storyboard frame, aspect 9:16, top-down view of a white puzzle board with a glowing line drawn through five matching red #E81E4D spheres mid-burst, confetti shockwave of orange #F18332 and blue #4B86D6 particles, neighboring spheres jiggling, prominent blue #4B86D6 top UI bar with level goal icons ticking down and move counter, orange #F18332 bottom promotional banner, bright colorful clean 2D aesthetic with soft 3D shading on the interactive game pieces, on-screen text 'Connect the colors…' in white rounded sans-serif, no characters, authentic in-game line-drawing color-matching moment",
+    "Storyboard frame, aspect 9:16, mid-board explosion from an activated rocket power-up streaking horizontally across a grid of colored spheres, vivid #E81E4D red sparks and #F18332 orange flame trails, several blue #4B86D6 spheres clearing in a chain reaction, white play area, blue #4B86D6 top HUD with goal completion checkmarks, orange #F18332 bottom banner, bright colorful clean 2D aesthetic with soft 3D shading on the interactive game pieces, on-screen text 'BOOM 💥' in bold impact-style white font, no characters, authentic Collect Em All Clear the Dots power-up activation"
+  ]
+}

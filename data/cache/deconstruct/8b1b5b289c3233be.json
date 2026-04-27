@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "8b1b5b289c3233be",
+    "ad_unit_id": "8b1b5b289c3233be",
+    "app_id": "657764bcad4adb78f0c03332",
+    "advertiser_name": "DraftKings Casino - Real Money",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9dccfa8902fa25f8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9dccfa8902fa25f8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9dccfa8902fa25f8/preview",
+    "phashion_group": "8b1b5b289c3233be",
+    "share": null,
+    "first_seen_at": "2026-03-30T00:00:00",
+    "last_seen_at": "2026-04-11T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Your favorite reels just got an upgrade 🎰 DraftKings Casino’s new, exclusive FLEX SPINS give you the power to play your way 👑",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "DraftKings Casino logo overlaying a winning slot machine spin.",
+    "visual_action": "The logo fades in as slot reels spin and land on winning symbols with flashing lights.",
+    "text_overlay": "YOUR FAVORITE GAME IS NOW ON YOUR PHONE!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction with DraftKings Casino logo over a slot machine.",
+    "Gameplay footage showing a winning spin with 'WINNER' banners.",
+    "Transition via a zooming gold dollar sign coin.",
+    "End card with game title, branding, and responsible gambling information."
+  ],
+  "on_screen_text": [
+    "DRAFT KINGS CASINO",
+    "YOUR FAVORITE GAME IS NOW ON YOUR PHONE!",
+    "SCATTER PAYS $2.00",
+    "WINNER WINNER WINNER",
+    "A QUICK HIT OF CLASSIC SLOTS FUN",
+    "EXCLUSIVE",
+    "GAMBLING PROBLEM? CALL 1-800-GAMBLER (MI/NJ/PA/WV). HELP IS AVAILABLE FOR PROBLEM GAMBLING. CALL (888) 789-7777 OR VISIT CCPG.ORG (CT)."
+  ],
+  "cta_text": "YOUR FAVORITE GAME IS NOW ON YOUR PHONE!",
+  "cta_timing_seconds": 2.0,
+  "palette_hex": [
+    "#000000",
+    "#FDB913",
+    "#51A332"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Adult casino enthusiasts and sports bettors looking for mobile slot machine experiences.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001843
+}

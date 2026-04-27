@@ -1,0 +1,2385 @@
+{
+  "apps": [
+    {
+      "unified_app_id": "60fb79afe80ea1667393996c",
+      "name": "Uboat Attack",
+      "canonical_app_id": "com.TrofyGames.UboatAttack",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1601984093
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.TrofyGames.UboatAttack"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "614b5ad6b3ae2715fb96fa96",
+      "name": "Flag Painters",
+      "canonical_app_id": "com.mrmoble.flagpainters",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1590528385
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.mrmoble.flagpainters"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6164751853cf6778cea30507",
+      "name": "Don't Move Challenge!",
+      "canonical_app_id": "com.ldgames.DontMoveChallenge",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1595556807
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.ldgames.DontMoveChallenge"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6174b23ce3e93278730fac93",
+      "name": "Snow Speculator",
+      "canonical_app_id": "com.AndyGun.SnowSpeculator",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1596364737
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.AndyGun.SnowSpeculator"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6175a48eb3ae277b9a818c5c",
+      "name": "Slap and Run",
+      "canonical_app_id": "com.stoneaxe.slapandrun",
+      "cohort_id": "cohort_63f9108157f50059c45d7e65",
+      "itunes_apps": [
+        {
+          "app_id": 1591587100
+        },
+        {
+          "app_id": 1597749186
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.stoneaxe.slapandrun"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "617a52d746f3bc183df87df2",
+      "name": "Cooking Craft",
+      "canonical_app_id": "com.twistygames.cookingcraft",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1591330517
+        },
+        {
+          "app_id": 1598126167
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.twistygames.cookingcraft"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "617a60d8c7ef805af4413373",
+      "name": "Battery Run",
+      "canonical_app_id": "com.arkhe.batteryrun",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1594214988
+        },
+        {
+          "app_id": 1611142394
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.arkhe.batteryrun"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "617c3e434048a4373d21a796",
+      "name": "Slice This!",
+      "canonical_app_id": "sk.phx.sliceit",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1592005326
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "sk.phx.sliceit"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "618ba006650d01125438eb56",
+      "name": "Move House 3D",
+      "canonical_app_id": "com.gait.MoveHouse3D",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1594053860
+        },
+        {
+          "app_id": 1601468011
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.gait.MoveHouse3D"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "618ed5f33672c61630df4c57",
+      "name": "\u5f00\u5fc3\u8fde\u7403\u7403",
+      "canonical_app_id": 1593876857,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1593876857
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "619c0a36b3ae277bbd820a4c",
+      "name": "Tap Em All!",
+      "canonical_app_id": 1594762863,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1594762863
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "61a1532cadb9141851ed3c3c",
+      "name": "Fashion Universe",
+      "canonical_app_id": "com.hypnocatstudio.fashionuniverse",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1597104322
+        },
+        {
+          "app_id": 1603050428
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.hypnocatstudio.fashionuniverse"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "61a7252e399d6645696a235b",
+      "name": "Deliver It 3D",
+      "canonical_app_id": "com.GoofyGamerGames.Pizza",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1595199218
+        },
+        {
+          "app_id": 1619975407
+        },
+        {
+          "app_id": 1635966932
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.GoofyGamerGames.Pizza"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "61a85413722e2827bd2ac757",
+      "name": "Switch Em All!",
+      "canonical_app_id": 1596523107,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1596523107
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "61bcf18c1800970358c8c979",
+      "name": "Makeup Pro!",
+      "canonical_app_id": 1597800832,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1597800832
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "61c3a671b3ae2708ea83d709",
+      "name": "Paint Em All!",
+      "canonical_app_id": 1594941392,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1594941392
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "61d8f4e9b3ae276949254cb0",
+      "name": "What Word?!",
+      "canonical_app_id": "com.callumsmith.whatword",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1603417626
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.callumsmith.whatword"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "61ddce2eb3ae272bdaf54a96",
+      "name": "Gas Empire",
+      "canonical_app_id": "com.GraveRobberGames.GasEmpire",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1606196948
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.GraveRobberGames.GasEmpire"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "61e2e5271800971751e3f42c",
+      "name": "Sort Em All!",
+      "canonical_app_id": 1599299887,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1599299887
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "61e5b668b3ae270bd619c764",
+      "name": "Childcare Master",
+      "canonical_app_id": "com.HommadeGames.ChildcareMaster",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1605163109
+        },
+        {
+          "app_id": 1613759588
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.HommadeGames.ChildcareMaster"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "61e687cb4048a4730176410c",
+      "name": "Grass Reaper",
+      "canonical_app_id": "com.yimu.grassreaper",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1606495735
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.yimu.grassreaper"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "61e68930527ef15eaa5e2dba",
+      "name": "Fortune Run",
+      "canonical_app_id": "com.smurf.fortunerun",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1605190693
+        },
+        {
+          "app_id": 1615386521
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.smurf.fortunerun"
+        },
+        {
+          "app_id": "com.ml.goodluck"
+        }
+      ],
+      "unified_publisher_ids": [
+        "55f893408ac350426b03749e",
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730,
+        901903273
+      ],
+      "android_publisher_ids": [
+        "MagicLab"
+      ]
+    },
+    {
+      "unified_app_id": "61ee8010a5bdd255b540f838",
+      "name": "Line Blast!",
+      "canonical_app_id": "io.voodoo.lineblast",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1605162886
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "io.voodoo.lineblast"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "61f14b5990c4733b69a0c63a",
+      "name": "Draw Rail",
+      "canonical_app_id": "com.crescivegames.drawrail",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1596721781
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.crescivegames.drawrail"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "61f1b672cff19a316bc3cb16",
+      "name": "\u5947\u5175\u4fdd\u536b\u6218",
+      "canonical_app_id": 1605763287,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1605763287
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "61fba1205b6ccd53f643b086",
+      "name": "Triballs",
+      "canonical_app_id": 1607472733,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1607472733
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "61fe1a9f568ef3301ed30f50",
+      "name": "Waterland 3D",
+      "canonical_app_id": "com.mindolin.aquaparkidle",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1611130454
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.mindolin.aquaparkidle"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1",
+        "604c1341ec3c115dad70ad75"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "Mindolin"
+      ]
+    },
+    {
+      "unified_app_id": "6200bd7dd99ec05f38fb2362",
+      "name": "Puzzleville: Switch & Craft",
+      "canonical_app_id": 1606026679,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1606026679
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "620270e587534b55b4aaffe9",
+      "name": "Race Em All",
+      "canonical_app_id": 1606768605,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1606768605
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        1502297108
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "62042b7862bc0d1d085cad25",
+      "name": "\u7b97\u4f60\u7403\u591a",
+      "canonical_app_id": 1592704710,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1592704710
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "620e6b048db557274ca330b2",
+      "name": "Balls Go High",
+      "canonical_app_id": "com.cassette.ballsgohigh",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1604861021
+        },
+        {
+          "app_id": 1617078966
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.cassette.ballsgohigh"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "620f0ed4fb131e137110a26c",
+      "name": "Pair Em All",
+      "canonical_app_id": 1609464820,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1609464820
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "io.voodoo.pairemall"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62102c5cdf260270003e4ebe",
+      "name": "Moneygun Run!",
+      "canonical_app_id": "com.JuicyFrog.MoneygunRun",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1611032629
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.JuicyFrog.MoneygunRun"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "621194a018009758d6c2b63d",
+      "name": "Connect & Draw",
+      "canonical_app_id": 1608913094,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1608913094
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "6219c9afc0f47d47afa98a0a",
+      "name": "Outdo.io 3D",
+      "canonical_app_id": "com.burak.outdoio",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1609056988
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.burak.outdoio"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62220183b3ae27059a578ccc",
+      "name": "Maze Defense",
+      "canonical_app_id": 1611045581,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1611045581
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "6228d770d7688308f102e1a5",
+      "name": "Square Sort",
+      "canonical_app_id": "com.AllInclusive.SquareSort",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1612260403
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.AllInclusive.SquareSort"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "622a781fb3ae27572b487a6c",
+      "name": "Crowd Survivors",
+      "canonical_app_id": 1611253237,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1611253237
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "6230f885d059ba70f1be0e21",
+      "name": "Pinbo Quest",
+      "canonical_app_id": "com.tapped.pinboquest",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1606629699
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.tapped.pinboquest"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62339b2c567137139e5caa91",
+      "name": "Flying Cut",
+      "canonical_app_id": "com.gentlegame.flyingcut",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1613730745
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.gentlegame.flyingcut"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6233b6fb450f99619c51ee17",
+      "name": "Goo Fighter",
+      "canonical_app_id": "com.ohmgames.endlessbullet",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1609650776
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.ohmgames.endlessbullet"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "623e20a70a49b123025c12b3",
+      "name": "Draw & Break It!",
+      "canonical_app_id": "com.tummygames.drawandbreakit",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1615721018
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.tummygames.drawandbreakit"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "624221f00400b463b11a9c6a",
+      "name": "Pillow Launcher",
+      "canonical_app_id": 1614858864,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1614858864
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.Kjoeb.PillowLauncher"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6242ee260bdc623902bb63ed",
+      "name": "Blobsbuster",
+      "canonical_app_id": "com.Protagoniste.DropsBusters",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1620329599
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.Protagoniste.DropsBusters"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62440a83b3ae2712e055e58d",
+      "name": "Clash 'n Merge",
+      "canonical_app_id": 1607864727,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1607864727
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "62482df1479fc7257378939d",
+      "name": "Puff Up - Balloon puzzle game",
+      "canonical_app_id": "com.aa.puffup",
+      "cohort_id": "cohort_66e9404a6f48d25d32f83195",
+      "itunes_apps": [
+        {
+          "app_id": 1615768339
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.aa.puffup"
+        },
+        {
+          "app_id": "com.IOPuerwr.PuffUp"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1",
+        "66bacba7ffefea8db2d9f011"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO",
+        "Green+Stone+Tech"
+      ]
+    },
+    {
+      "unified_app_id": "624a7d0b180097156a838463",
+      "name": "Connect & Clash",
+      "canonical_app_id": 1616042073,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1616042073
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "624c626d30bb4536dfbb5a53",
+      "name": "Rope and Demolish",
+      "canonical_app_id": "com.omer.ropeanddemolishhh",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1614813337
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.omer.ropeanddemolishhh"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "624dab2a0a49b118749048dc",
+      "name": "Tower Builder 3D!",
+      "canonical_app_id": "com.bekis.towerbuildersim",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1619305210
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.bekis.towerbuildersim"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6250f25d18009773ef18d102",
+      "name": "Crowd Fighter",
+      "canonical_app_id": 1617881657,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1617881657
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "625707a6b3ae2779ea22adc5",
+      "name": "Word Web!",
+      "canonical_app_id": "com.Axis.WordWeb",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1618681059
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.Axis.WordWeb"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6258eea13e9fd3485ee730b3",
+      "name": "Dots Buster",
+      "canonical_app_id": 1616531208,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1616531208
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "6259cb521800972d3a219edc",
+      "name": "Bucket Crusher",
+      "canonical_app_id": "com.AndreyGushchin.BucketCrusher",
+      "cohort_id": "cohort_6717644d560312d75d8a0712",
+      "itunes_apps": [
+        {
+          "app_id": 1619979233
+        },
+        {
+          "app_id": 1625106888
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.AndreyGushchin.BucketCrusher"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "625aed07b3ae274f3a289f94",
+      "name": "Sew 3D",
+      "canonical_app_id": "com.mmoargames.sewit",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1614461317
+        },
+        {
+          "app_id": 1630906052
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.mmoargames.sewit"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "625e543c18009719500464e0",
+      "name": "Take Your Line",
+      "canonical_app_id": "com.crescivegames.takeyourline",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1616507714
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.crescivegames.takeyourline"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6262ebfbb3ae2769b7cea834",
+      "name": "Cozy Kitchen",
+      "canonical_app_id": 1616545545,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1616545545
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "6262ee4eb3ae27312d93b478",
+      "name": "Tiles Tales",
+      "canonical_app_id": 1616545729,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1616545729
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "626843f618009715d2436841",
+      "name": "Connect'm All",
+      "canonical_app_id": 1617855815,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1617855815
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "6269f0e12707ba357a6748fa",
+      "name": "Double Money",
+      "canonical_app_id": "com.ksenastranger.moneyx2",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1614980927
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.ksenastranger.moneyx2"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "626b43cb2fa013397ed2edae",
+      "name": "Zen Clicker!",
+      "canonical_app_id": "com.gumbug.zenclicker",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1597800431
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.gumbug.zenclicker"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1",
+        "61ecf26712caed72740c974d"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": [
+        "Psiphi+Games"
+      ]
+    },
+    {
+      "unified_app_id": "626c51f8af4b6752e4ac5758",
+      "name": "\u6c14\u7403\u7a81\u56f4\u6218",
+      "canonical_app_id": 1618025689,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1618025689
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "626ddcf24ccb80758db7b719",
+      "name": "Stunt Rails",
+      "canonical_app_id": "com.nopact.stuntrails",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1620356495
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.nopact.stuntrails"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "627094a3522d951745815866",
+      "name": "Salt & Pepper, Don't mix em up",
+      "canonical_app_id": "com.aa.dontmixemup",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1621491214
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.aa.dontmixemup"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6271054f7c96f163742b7663",
+      "name": "Roomscapes!",
+      "canonical_app_id": 1619298627,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1619298627
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "62745301b3ae2753d9af6505",
+      "name": "Uncharted Islands",
+      "canonical_app_id": 1618974655,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1618974655
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "6274a38e1800975bce7f2838",
+      "name": "Champions Masters",
+      "canonical_app_id": 1618976549,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1618976549
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "628548811800970cdc7759fb",
+      "name": "Puzzelero",
+      "canonical_app_id": 1616545622,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1616545622
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "628b1cb7ffa0451cd76317e1",
+      "name": "Block Jam - 3D Block Puzzle",
+      "canonical_app_id": 1618805694,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1618805694
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.partyup.blockjam"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "629178d7a5d8bd1d50bdbf65",
+      "name": "Drone Strike Military War 3D",
+      "canonical_app_id": "com.TrofyGames.DroneAttackSRP",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1626711231
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.TrofyGames.DroneAttackSRP"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "629d5d8318009766e13f90ec",
+      "name": "Card Battle",
+      "canonical_app_id": "dats.games.cardbattle",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1629854050
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "dats.games.cardbattle"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62a10771b3ae27591b31979f",
+      "name": "Cannon VS Balls",
+      "canonical_app_id": 1626171001,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1626171001
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "62a1b8eab3ae273ddce36ff6",
+      "name": "Merge Grabber",
+      "canonical_app_id": "com.kiragan.grab",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1615819431
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.kiragan.grab"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62a21328b3ae270fa0a7c7b8",
+      "name": "Aim & Fire",
+      "canonical_app_id": 1620911944,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1620911944
+        }
+      ],
+      "android_apps": [],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        993711578
+      ],
+      "android_publisher_ids": []
+    },
+    {
+      "unified_app_id": "62abe2a9391fcd76b9ed4af6",
+      "name": "Symmetry Block",
+      "canonical_app_id": "com.vlv.symmetryblock",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1629595345
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.vlv.symmetryblock"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62b9016d08f7326c3ab7a0f5",
+      "name": "Cube Crusher 3D",
+      "canonical_app_id": "com.ZenithGames.PuzzlePush",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1630746129
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.ZenithGames.PuzzlePush"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62bba553a17c461f56282821",
+      "name": "Paper.io 4",
+      "canonical_app_id": "com.pilgrimsgames.p4",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1624912779
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.pilgrimsgames.p4"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62be501856996b02ba9de800",
+      "name": "Shapes Fit",
+      "canonical_app_id": 1608192527,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1608192527
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "io.guruu.games.shapes"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62bee96fc7466a7293092686",
+      "name": "Ball Up: Knife Racing",
+      "canonical_app_id": "com.noorgames.ballup",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1639517000
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.noorgames.ballup"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62c8a2b6dde9220b2f28ebb2",
+      "name": "Bubble Fall 3D",
+      "canonical_app_id": "com.tarboosh.bubblefall3d",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1621537270
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.tarboosh.bubblefall3d"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62cdbe5c998abe02547db13f",
+      "name": "Royal Defense!",
+      "canonical_app_id": "com.Jbm360.CattleWar",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1632495033
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.Jbm360.CattleWar"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62d8aacc4f05cb3e6b5b8792",
+      "name": "Ball on Rope",
+      "canonical_app_id": 1631998735,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1631998735
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.nguyenvh.ballonrope"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "62e406321800973376f8e2a4",
+      "name": "Number Connect! Connect Em All",
+      "canonical_app_id": 1636656794,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1636656794
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.aa.numberconnect"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6301db4aad4adb7a2c863a4e",
+      "name": "Golf Guys",
+      "canonical_app_id": "com.Partyup.GolfRoyale",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1640583531
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.Partyup.GolfRoyale"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "633227aab3ae270b5ca74e3b",
+      "name": "Net Fishing!",
+      "canonical_app_id": "com.fikstrello.netfishing",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1627676612
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.fikstrello.netfishing"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "633808ea73ee983e312f0baa",
+      "name": "Holy Hole",
+      "canonical_app_id": "com.vlv.holyhole",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 6443582013
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.vlv.holyhole"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1",
+        "61ea37a09d6e6e357df3010a"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VLV+Studio"
+      ]
+    },
+    {
+      "unified_app_id": "6338132fc6086b68720adc39",
+      "name": "Fill Shikaku",
+      "canonical_app_id": 6443563905,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 6443563905
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.aa.fillshikaku"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "633af9e0edbc617caa7b4092",
+      "name": "Bullet Time!",
+      "canonical_app_id": 6443545741,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 6443545741
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "games.rivvy.bullettime"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6345b184ab4ab877cdc98f37",
+      "name": "Dig This 2",
+      "canonical_app_id": "se.raketspel.digthis2",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1645318754
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "se.raketspel.digthis2"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6359db55e90da279bb863b7a",
+      "name": "Merge and Blast",
+      "canonical_app_id": "com.macaca.mergeshoot",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 6443734168
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.macaca.mergeshoot"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "63910da1b3ae276757e20c3e",
+      "name": "Water Power",
+      "canonical_app_id": "com.mountaincreekgames.waterpower",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1659387585
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.mountaincreekgames.waterpower"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "63ac703eedbc612140412fee",
+      "name": "Color Solitaire 3D",
+      "canonical_app_id": 1661069018,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1661069018
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.timucin.colorsolitaireee"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "63b079bfb3ae272a457813bd",
+      "name": "Merge Art Puzzle",
+      "canonical_app_id": 1660747099,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1660747099
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.phatfingers.mergeimages"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "63c5be85ad4adb35d70e6f0f",
+      "name": "Spin and Slice",
+      "canonical_app_id": "com.PubtrainGames.SpinandSlice",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1661436928
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.PubtrainGames.SpinandSlice"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "63e7c7b6ad4adb1531da6944",
+      "name": "Gunship Operator 3D",
+      "canonical_app_id": "com.IronEqual.GunshipOperator3D",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1672368370
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.IronEqual.GunshipOperator3D"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "63f177a32b5e687d19dc40d1",
+      "name": "Royal Castle!",
+      "canonical_app_id": "com.Jbm360.RoyalCastle",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1672011821
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.Jbm360.RoyalCastle"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "63f1dea88adcca1087e5317e",
+      "name": "Chain 3!",
+      "canonical_app_id": "com.fc.chainmatch",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1672266297
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.fc.chainmatch"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "64114e24b3ae272b5eae49a6",
+      "name": "Rage Swarm",
+      "canonical_app_id": "com.feelnside.rageswarm",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1669867448
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.feelnside.rageswarm"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6415c242373e2c6b350b3492",
+      "name": "Dusk WarZ",
+      "canonical_app_id": "com.oxvgames.dawndefense",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1659663529
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.oxvgames.dawndefense"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "64526cc7ad4adb1ed3eee0f9",
+      "name": "Dolls Stack: Match & Stack!",
+      "canonical_app_id": 1659053906,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1659053906
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.egg.stack"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "64c5186db3ae271412670284",
+      "name": "Airborne Attack",
+      "canonical_app_id": "com.cassette.airborneattack",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1672762490
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.cassette.airborneattack"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        714804730
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    }
+  ]
+}

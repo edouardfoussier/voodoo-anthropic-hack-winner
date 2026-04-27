@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 25,
+  "mechanic_match": 20,
+  "audience_match": 60,
+  "overall": 28,
+  "rationale": "The \"fail at a bus puzzle\" hook is a draw-puzzle/parking trope that has zero mechanical overlap with Knock'em All's tap-to-shoot physics loop — players clicking the ad expecting vehicle steering will bounce hard, hurting CVR and D1. Visual palette (white/green/red) is partially compatible with the game's bright flat aesthetic, but the bus/cursor staging misrepresents the FPS dummy-shooting gameplay. Only the broad casual \"fail bait\" audience overlaps; recommend skipping this archetype and instead testing fail-bait framed around missed shots or dummies surviving on the platform."
+}

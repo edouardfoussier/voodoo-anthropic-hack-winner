@@ -1,0 +1,6134 @@
+{
+  "count": 1680,
+  "available_networks": [
+    "Admob",
+    "Applovin",
+    "BidMachine",
+    "Digital Turbine",
+    "Facebook",
+    "InMobi",
+    "Instagram",
+    "Meta Audience Network",
+    "Mintegral",
+    "Moloco",
+    "Pangle",
+    "Smaato",
+    "Supersonic",
+    "TikTok",
+    "Unity",
+    "Verve",
+    "Vungle",
+    "Youtube"
+  ],
+  "ad_units": [
+    {
+      "id": "b3a1bb04c79cd4ac",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "TikTok",
+      "phashion_group": "b3a1bb04c79cd4ac",
+      "ad_type": "video",
+      "first_seen_at": "2024-04-11",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "b3a1bb04c79cd4ac",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3dc6291dff06aa22/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3dc6291dff06aa22/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3dc6291dff06aa22/thumb",
+          "video_duration": 30,
+          "width": 1080,
+          "height": 1920,
+          "message": "The most addictive game!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.093707,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.01944
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.050694
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.398285
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.63462
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.674697
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.493679
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.156234
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.385183
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.152893
+          ]
+        ],
+        "dimensions": [
+          [
+            "1080x1920",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "93898033001df313",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Admob",
+      "phashion_group": "93898033001df313",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-07",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "93898033001df313",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25fc8c6bd65fab5b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25fc8c6bd65fab5b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25fc8c6bd65fab5b/thumb",
+          "video_duration": 43,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.074218,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.070194
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.014484
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.000572
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 40,
+        "data": [
+          [
+            "5ac576d01019b436cad993d3",
+            0.394484
+          ],
+          [
+            "68e8eabe43283aee03a266b0",
+            0.216369
+          ],
+          [
+            "66088dd59982613c90e848c6",
+            0.147708
+          ],
+          [
+            "65167837b3ae2735b840574f",
+            0.089901
+          ],
+          [
+            "580ebd205b7071369d0034cc",
+            0.042364
+          ],
+          [
+            "652f5204771fbb20c715c308",
+            0.018844
+          ],
+          [
+            "5dcba73f246480146b9bda2b",
+            0.016047
+          ],
+          [
+            "64efb9c6d8ea901f33da9237",
+            0.011354
+          ],
+          [
+            "5e28cd4c7678a43703b788a6",
+            0.00774
+          ],
+          [
+            "5b08105695a243116dc61488",
+            0.006222
+          ],
+          [
+            "59f6ba0182504b029ba0ac2c",
+            0.005602
+          ],
+          [
+            "5c785cce5c6ace5ec53f23d8",
+            0.005431
+          ],
+          [
+            "60d53b8e63d5770cac1efb62",
+            0.00531
+          ],
+          [
+            "5a7f8ef5cab16e7c9a178f24",
+            0.005111
+          ],
+          [
+            "5ff5623414a0341946db919c",
+            0.003793
+          ],
+          [
+            "656ab40b40beda73acd1f0c4",
+            0.003694
+          ],
+          [
+            "65bebae8ad4adb56c831ac52",
+            0.003322
+          ],
+          [
+            "5806bfe50211a62681000250",
+            0.003207
+          ],
+          [
+            "5ed8ce1c676fa121a755a524",
+            0.003207
+          ],
+          [
+            "658ed96cb3ae2767c4782655",
+            0.001798
+          ],
+          [
+            "5e2ba69c0231e67abed38d79",
+            0.001362
+          ],
+          [
+            "6213f7754441863b1934708e",
+            0.001177
+          ],
+          [
+            "5a86f89d0211a6cb7808af53",
+            0.000962
+          ],
+          [
+            "5c32f2eefe6cd0699349249c",
+            0.000642
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.000608
+          ],
+          [
+            "67f51ab51f5e4931de15ff38",
+            0.000529
+          ],
+          [
+            "67b47d5327e2c1851797ba25",
+            0.000471
+          ],
+          [
+            "61e2345c3d12520306b8e8fe",
+            0.000471
+          ],
+          [
+            "67ca10292085e4eceab6ff24",
+            0.000429
+          ],
+          [
+            "63b66ff97963e21cd2081869",
+            0.000403
+          ]
+        ]
+      }
+    },
+    {
+      "id": "296dc367d79d53b2",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Youtube",
+      "phashion_group": "296dc367d79d53b2",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-13",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "296dc367d79d53b2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Multiply faster than they can react"
+        },
+        {
+          "id": "4e515f789b44ec30",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Watch your mob explode in size"
+        },
+        {
+          "id": "51bd81903276db54",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "One tap changes everything"
+        },
+        {
+          "id": "51d10cbde3e66bdb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Download",
+          "message": "Dominate with pure numbers"
+        },
+        {
+          "id": "553c5da3af8f311e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c",
+          "message": "Your mob decides the outcome"
+        },
+        {
+          "id": "58c8396bada4b61d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        },
+        {
+          "id": "6fa8dbf11b4667c3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Lead Your Mob and Conquer the Battlefield"
+        },
+        {
+          "id": "79141f4c5ce806f7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "message": ""
+        },
+        {
+          "id": "7df3d56f1c86929b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "The game looks exactly like the ads"
+        },
+        {
+          "id": "83bedf6373d78e4b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "The most powerful tap you\u2019ll make"
+        },
+        {
+          "id": "86b4b0c7d40effad",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Outscale or get crushed"
+        },
+        {
+          "id": "8eadbd4f8ad386a5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Download",
+          "message": "Total domination in one tap"
+        },
+        {
+          "id": "9db75bba3ae0db0d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "From one to thousands"
+        },
+        {
+          "id": "b5147914b64919a5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Do the best score"
+        },
+        {
+          "id": "bac09c371f966855",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Crush bases, claim glory"
+        },
+        {
+          "id": "bb74b233a026cb7d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Turn small mobs into giants"
+        },
+        {
+          "id": "c349643c79337ba6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Pure control, pure chaos"
+        },
+        {
+          "id": "cc70b15181611d7b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "The mob grows instantly"
+        },
+        {
+          "id": "e1797d8c7e703d1d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f4ea89737c24eaf8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Collect, grow, multiply"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.053674,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.059121
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.123122
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.285841
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.766507
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.524712
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.700039
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.87384
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.954774
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.357093
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "7efebfe130233c83",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "TikTok",
+      "phashion_group": "7efebfe130233c83",
+      "ad_type": "video",
+      "first_seen_at": "2025-07-06",
+      "last_seen_at": "2026-03-28",
+      "creatives": [
+        {
+          "id": "7efebfe130233c83",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e0b72e7ea95e0217/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e0b72e7ea95e0217/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e0b72e7ea95e0217/thumb",
+          "video_duration": 60,
+          "width": 720,
+          "height": 1280,
+          "message": "Grow your Mob, Grow your Power!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.046275,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.265621
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "4262c33aa18145bc",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Youtube",
+      "phashion_group": "4262c33aa18145bc",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-21",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "4262c33aa18145bc",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        },
+        {
+          "id": "63bee51d50cdf556",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "message": ""
+        },
+        {
+          "id": "67592f3e10a3613a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "The game looks exactly like the ads"
+        },
+        {
+          "id": "871da1eb36c528ac",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "From one to thousands"
+        },
+        {
+          "id": "a1de4862ac0338dc",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Turn small mobs into giants"
+        },
+        {
+          "id": "afbe8345ba6cea04",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Do the best score"
+        },
+        {
+          "id": "d9e39e6d75168807",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ee40732270011959/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Pure control, pure chaos"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.04426,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.021631
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.025425
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.248353
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.95635
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.477574
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.376016
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.105596
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.229784
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.089958
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "065715359a774068",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Applovin",
+      "phashion_group": "065715359a774068",
+      "ad_type": "playable",
+      "first_seen_at": "2025-11-28",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "065715359a774068",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/469ab5bde630a644/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/469ab5bde630a644/thumb",
+          "html_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/469ab5bde630a644/index.html?",
+          "width": 414,
+          "height": 736,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "other"
+      ],
+      "share": 0.043338,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.002897
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.001156
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.099686
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.150667
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.063644
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.046418
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.28753
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.507081
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.32691
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.189159
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.517195
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.453416
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.956471
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.492886
+          ]
+        ],
+        "dimensions": [
+          [
+            "414x736",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 148,
+        "data": [
+          [
+            "5e06ead15be87a5edb3a1682",
+            0.215972
+          ],
+          [
+            "5eacdeb662573f5bd86c03df",
+            0.104129
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.091802
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.090998
+          ],
+          [
+            "5cc98b703ea98357b8ed3ce0",
+            0.056601
+          ],
+          [
+            "65bebae8ad4adb56c831ac52",
+            0.045923
+          ],
+          [
+            "605872171407050a5d717ae9",
+            0.035281
+          ],
+          [
+            "615fbb49a0ba7361576d404f",
+            0.033452
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.032856
+          ],
+          [
+            "5e8933652f26485a253787bc",
+            0.02636
+          ],
+          [
+            "682349d3f7d7148702b98239",
+            0.018904
+          ],
+          [
+            "67498a038adc45bcb2caf6f1",
+            0.014949
+          ],
+          [
+            "5da561c7fe0f7b44daa0e9a6",
+            0.014023
+          ],
+          [
+            "6711ebb7df326f36e1339109",
+            0.010688
+          ],
+          [
+            "65b0b087479fc730d9643f8e",
+            0.009161
+          ],
+          [
+            "6610560dad4adb02de831cef",
+            0.008277
+          ],
+          [
+            "57772d430211a65e2300000a",
+            0.007712
+          ],
+          [
+            "65a74c0797cd670cb69d7e66",
+            0.00711
+          ],
+          [
+            "68f2f64cf94cefdaf79f0bf7",
+            0.006677
+          ],
+          [
+            "56e35cf19429946c4e0bac66",
+            0.006529
+          ],
+          [
+            "5cd675105fd3ed44ce379ec4",
+            0.006227
+          ],
+          [
+            "5fcaf8ace9bbdb401d914cb5",
+            0.005883
+          ],
+          [
+            "6461b63490609573a2fc31f2",
+            0.005484
+          ],
+          [
+            "64f95a47ad4adb6603a863b8",
+            0.00545
+          ],
+          [
+            "67b9ac1d27e2c17eddb001d0",
+            0.005216
+          ],
+          [
+            "60809b4ac5ff012beb0d5ba5",
+            0.005105
+          ],
+          [
+            "65a41ab59d149279c16102b7",
+            0.005031
+          ],
+          [
+            "5b75fb79d5a7dd601c8feb8c",
+            0.004956
+          ],
+          [
+            "679ad2c9e8b4ba3a4e049aab",
+            0.004803
+          ],
+          [
+            "647349df37938646851bad00",
+            0.004667
+          ]
+        ]
+      }
+    },
+    {
+      "id": "95707ff935820eb0",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Admob",
+      "phashion_group": "95707ff935820eb0",
+      "ad_type": "playable",
+      "first_seen_at": "2026-02-15",
+      "last_seen_at": "2026-04-13",
+      "creatives": [
+        {
+          "id": "95707ff935820eb0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c07d9911dfb5f2d3/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c07d9911dfb5f2d3/thumb",
+          "html_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c07d9911dfb5f2d3/index.html?",
+          "width": 480,
+          "height": 320,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.035017,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.009744
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.009869
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.122035
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "480x320",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 2,
+        "data": [
+          [
+            "57202dea70501912120011d3",
+            0.986971
+          ],
+          [
+            "5b6af0a62ba45d4cc3be4963",
+            0.013029
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ce9e59ca18b610e7",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Applovin",
+      "phashion_group": "ce9e59ca18b610e7",
+      "ad_type": "playable",
+      "first_seen_at": "2025-08-01",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "ce9e59ca18b610e7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8e53f94264f1f6cb/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8e53f94264f1f6cb/thumb",
+          "html_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8e53f94264f1f6cb/index.html?",
+          "width": 428,
+          "height": 926,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "other"
+      ],
+      "share": 0.02988,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.316066
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.987102
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.035752
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.007606
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.021754
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.005964
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.024957
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.002525
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.002986
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.005511
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.100575
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.167625
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.358017
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.382815
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.790577
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.519957
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.707986
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.377215
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.422461
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.644056
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.421639
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.369352
+          ]
+        ],
+        "dimensions": [
+          [
+            "428x926",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 168,
+        "data": [
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.312924
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.051699
+          ],
+          [
+            "5e06ead15be87a5edb3a1682",
+            0.048848
+          ],
+          [
+            "615fbb49a0ba7361576d404f",
+            0.036602
+          ],
+          [
+            "606593eabcfaad041a7a129e",
+            0.03502
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.03315
+          ],
+          [
+            "660a000b07b029033e9d211b",
+            0.024063
+          ],
+          [
+            "5d02f9399dc2fc3a26c5bdce",
+            0.020387
+          ],
+          [
+            "65bebae8ad4adb56c831ac52",
+            0.018625
+          ],
+          [
+            "69213cce1fe0ce2b53a6bc9d",
+            0.01811
+          ],
+          [
+            "68f2f64cf94cefdaf79f0bf7",
+            0.017531
+          ],
+          [
+            "5e8933652f26485a253787bc",
+            0.015036
+          ],
+          [
+            "5b75fb79d5a7dd601c8feb8c",
+            0.014933
+          ],
+          [
+            "5da561c7fe0f7b44daa0e9a6",
+            0.014076
+          ],
+          [
+            "6711ebb7df326f36e1339109",
+            0.012507
+          ],
+          [
+            "648dbb4f8bab0357537613f8",
+            0.010814
+          ],
+          [
+            "61298fb033c4d633f9258426",
+            0.010678
+          ],
+          [
+            "5eacdeb662573f5bd86c03df",
+            0.010614
+          ],
+          [
+            "67498a038adc45bcb2caf6f1",
+            0.00975
+          ],
+          [
+            "6018e252a20eb478caded72b",
+            0.008137
+          ],
+          [
+            "64d270e6ea96440f9ed2c4df",
+            0.008083
+          ],
+          [
+            "6270da5e478582182c2d9c7a",
+            0.007794
+          ],
+          [
+            "60b044be0ae232210cab7624",
+            0.007474
+          ],
+          [
+            "68f842b34d216adbb127f1b0",
+            0.007355
+          ],
+          [
+            "60d3002ca3e9547ffc2ce293",
+            0.007336
+          ],
+          [
+            "5378330e830f782dbe000189",
+            0.007263
+          ],
+          [
+            "57772d430211a65e2300000a",
+            0.007166
+          ],
+          [
+            "5e59c37250f7f8200b1f42b4",
+            0.006475
+          ],
+          [
+            "55c509fe02ac64f9c0002272",
+            0.006282
+          ],
+          [
+            "5bb456c651107354a6f129a5",
+            0.006209
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bd550817fafee202",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Applovin",
+      "phashion_group": "bd550817fafee202",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-16",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "bd550817fafee202",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fd98a89f86b9042e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fd98a89f86b9042e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fd98a89f86b9042e/thumb",
+          "video_duration": 60,
+          "width": 720,
+          "height": 1280,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.024527,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.100367
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.083114
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.042661
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.035654
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.300566
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.597817
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.549243
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.332612
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.497319
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.370812
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.614786
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.20638
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 114,
+        "data": [
+          [
+            "662dcccbf7baf07a73491020",
+            0.183279
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.169832
+          ],
+          [
+            "5e06ead15be87a5edb3a1682",
+            0.107157
+          ],
+          [
+            "615fbb49a0ba7361576d404f",
+            0.061917
+          ],
+          [
+            "65bebae8ad4adb56c831ac52",
+            0.037363
+          ],
+          [
+            "5da561c7fe0f7b44daa0e9a6",
+            0.034163
+          ],
+          [
+            "5eacdeb662573f5bd86c03df",
+            0.031732
+          ],
+          [
+            "5e8933652f26485a253787bc",
+            0.024548
+          ],
+          [
+            "605872171407050a5d717ae9",
+            0.023383
+          ],
+          [
+            "57772d430211a65e2300000a",
+            0.022281
+          ],
+          [
+            "6711ebb7df326f36e1339109",
+            0.019438
+          ],
+          [
+            "597f8ba97dbc696d7600055e",
+            0.016375
+          ],
+          [
+            "682349d3f7d7148702b98239",
+            0.014461
+          ],
+          [
+            "68f2f64cf94cefdaf79f0bf7",
+            0.012065
+          ],
+          [
+            "67b9ac1d27e2c17eddb001d0",
+            0.01132
+          ],
+          [
+            "5b75fb79d5a7dd601c8feb8c",
+            0.011017
+          ],
+          [
+            "5cd675105fd3ed44ce379ec4",
+            0.010157
+          ],
+          [
+            "590ddbfc0211a601c0000114",
+            0.009787
+          ],
+          [
+            "5fcaf8ace9bbdb401d914cb5",
+            0.009635
+          ],
+          [
+            "6610560dad4adb02de831cef",
+            0.00909
+          ],
+          [
+            "679ad2c9e8b4ba3a4e049aab",
+            0.008919
+          ],
+          [
+            "5cc98b703ea98357b8ed3ce0",
+            0.007545
+          ],
+          [
+            "6430c644c5bd9c5700abfd09",
+            0.006844
+          ],
+          [
+            "65a74c0797cd670cb69d7e66",
+            0.006669
+          ],
+          [
+            "662fcc3aad4adb6e01dff3f3",
+            0.006336
+          ],
+          [
+            "65c43f1eef45c458d5fd1073",
+            0.006138
+          ],
+          [
+            "68bcf1b5d99625fa66bd6a60",
+            0.006002
+          ],
+          [
+            "647349df37938646851bad00",
+            0.005118
+          ],
+          [
+            "67f51ab51f5e4931de15ff38",
+            0.005044
+          ],
+          [
+            "648dbb4f8bab0357537613f8",
+            0.004894
+          ]
+        ]
+      }
+    },
+    {
+      "id": "65882ae3a1b811a3",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Applovin",
+      "phashion_group": "65882ae3a1b811a3",
+      "ad_type": "playable",
+      "first_seen_at": "2025-07-18",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "65882ae3a1b811a3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25458a6bddfff78f/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25458a6bddfff78f/thumb",
+          "html_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25458a6bddfff78f/index.html?",
+          "width": 414,
+          "height": 896,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "other"
+      ],
+      "share": 0.02451,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.130888
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.040444
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.004046
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.003796
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.005647
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.077078
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.147215
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.062992
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.028269
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.128644
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.19696
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.17725
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.19197
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.522683
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.523137
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.67241
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.356351
+          ]
+        ],
+        "dimensions": [
+          [
+            "414x896",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 122,
+        "data": [
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.170805
+          ],
+          [
+            "5e06ead15be87a5edb3a1682",
+            0.103921
+          ],
+          [
+            "65bebae8ad4adb56c831ac52",
+            0.077707
+          ],
+          [
+            "5eacdeb662573f5bd86c03df",
+            0.074662
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.073603
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.042972
+          ],
+          [
+            "682349d3f7d7148702b98239",
+            0.04095
+          ],
+          [
+            "5cc98b703ea98357b8ed3ce0",
+            0.038657
+          ],
+          [
+            "615fbb49a0ba7361576d404f",
+            0.038652
+          ],
+          [
+            "597f8ba97dbc696d7600055e",
+            0.032582
+          ],
+          [
+            "605872171407050a5d717ae9",
+            0.02298
+          ],
+          [
+            "63a153348066e10644ae2342",
+            0.018672
+          ],
+          [
+            "6711ebb7df326f36e1339109",
+            0.016974
+          ],
+          [
+            "590ddbfc0211a601c0000114",
+            0.015519
+          ],
+          [
+            "5e8933652f26485a253787bc",
+            0.010912
+          ],
+          [
+            "5cd675105fd3ed44ce379ec4",
+            0.009973
+          ],
+          [
+            "65a41ab59d149279c16102b7",
+            0.009826
+          ],
+          [
+            "56e35cf19429946c4e0bac66",
+            0.00977
+          ],
+          [
+            "6598ca2e67b00743ad54a72a",
+            0.009026
+          ],
+          [
+            "67b9ac1d27e2c17eddb001d0",
+            0.007401
+          ],
+          [
+            "67dcb3c1af0c1ca713c96b38",
+            0.007028
+          ],
+          [
+            "647349df37938646851bad00",
+            0.006858
+          ],
+          [
+            "63bd8751b3ae274ca7339d44",
+            0.006242
+          ],
+          [
+            "57772d430211a65e2300000a",
+            0.006061
+          ],
+          [
+            "65c43f1eef45c458d5fd1073",
+            0.005345
+          ],
+          [
+            "648dbb4f8bab0357537613f8",
+            0.005322
+          ],
+          [
+            "5d02f9399dc2fc3a26c5bdce",
+            0.004617
+          ],
+          [
+            "62fe31a07dbc4336ed0d0892",
+            0.004591
+          ],
+          [
+            "58085f87731c8b1379000870",
+            0.004342
+          ],
+          [
+            "69cbb8d74efd712f11ef768f",
+            0.00424
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6d9b74fbf468f3a3",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Admob",
+      "phashion_group": "6d9b74fbf468f3a3",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-07",
+      "last_seen_at": "2026-03-12",
+      "creatives": [
+        {
+          "id": "6d9b74fbf468f3a3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbee78a3222aabeb/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbee78a3222aabeb/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dbee78a3222aabeb/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "other"
+      ],
+      "share": 0.022127,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.001877
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.001349
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 11,
+        "data": [
+          [
+            "58ed8ac4973ad77ef70001a2",
+            0.610694
+          ],
+          [
+            "67f51ab51f5e4931de15ff38",
+            0.251146
+          ],
+          [
+            "64efb9c6d8ea901f33da9237",
+            0.042856
+          ],
+          [
+            "654d0ac9a6cc79074b13c72a",
+            0.032229
+          ],
+          [
+            "55d95b6302ac645ad238bd64",
+            0.031476
+          ],
+          [
+            "68498ade43283a19eb2c5a85",
+            0.019388
+          ],
+          [
+            "580ebd205b7071369d0034cc",
+            0.005587
+          ],
+          [
+            "55c53f6002ac64f9c000316b",
+            0.003148
+          ],
+          [
+            "5e8694de25186e479bf4dd24",
+            0.001871
+          ],
+          [
+            "63b66ff97963e21cd2081869",
+            0.001345
+          ],
+          [
+            "58e6f2dbde57113553000569",
+            0.000262
+          ]
+        ]
+      }
+    },
+    {
+      "id": "486bf1dd1d9b77c5",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Applovin",
+      "phashion_group": "486bf1dd1d9b77c5",
+      "ad_type": "full_screen",
+      "first_seen_at": "2025-08-08",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "486bf1dd1d9b77c5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3027951f52db6c2f/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3027951f52db6c2f/thumb",
+          "width": 1200,
+          "height": 628,
+          "button_text": "Download Now",
+          "message": "Chose the right path to win"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.022109,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.024435
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.206625
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.014795
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.005883
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.254233
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1200x628",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 4,
+        "data": [
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.98086
+          ],
+          [
+            "5df5b9b5c1c2150b1ca0d184",
+            0.007322
+          ],
+          [
+            "65ffc49275e0d7597610add7",
+            0.005994
+          ],
+          [
+            "61107f3e7a464f261568abe0",
+            0.005824
+          ]
+        ]
+      }
+    },
+    {
+      "id": "05c840dcab1c15a6",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Youtube",
+      "phashion_group": "05c840dcab1c15a6",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "05c840dcab1c15a6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Pure control, pure chaos"
+        },
+        {
+          "id": "5b367f5ae8cfb50d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "From one to thousands"
+        },
+        {
+          "id": "73955df4646677a5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Do the best score"
+        },
+        {
+          "id": "7df596d37209a57d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Turn small mobs into giants"
+        },
+        {
+          "id": "9e491d8b7f8bd81d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        },
+        {
+          "id": "bb72f18fcea9fc9b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "The game looks exactly like the ads"
+        },
+        {
+          "id": "bf953bac8ec768f7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326bad93ae0b84f8/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.019224,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.398603
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.865641
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.086021
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.399463
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "0317957285cbde5a",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Youtube",
+      "phashion_group": "0317957285cbde5a",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-13",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "0317957285cbde5a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Collect, grow, multiply"
+        },
+        {
+          "id": "21278cc2828898e1",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Pure control, pure chaos"
+        },
+        {
+          "id": "2d643e8b21e539d4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Unlock collectible cards, conquer exciting modes, and climb the Champions League."
+        },
+        {
+          "id": "577a91ea4df2fae2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Do the best score"
+        },
+        {
+          "id": "591a5acd5b9d283a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Turn small mobs into giants"
+        },
+        {
+          "id": "61d0379d886c6d0c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "The most powerful tap you\u2019ll make"
+        },
+        {
+          "id": "64da58392fb51cea",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Outscale or get crushed"
+        },
+        {
+          "id": "7fd9b344c15b384a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Download",
+          "message": "From one to thousands"
+        },
+        {
+          "id": "8dc6330fe0fd8484",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "Lead Your Mob and Conquer the Battlefield"
+        },
+        {
+          "id": "9b7af7b2a753e5b0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "message": ""
+        },
+        {
+          "id": "9f9d3d91e73d71dc",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "The game looks exactly like the ads"
+        },
+        {
+          "id": "b3d3696ec9cd3813",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "button_text": "Install",
+          "message": "One tap changes everything"
+        },
+        {
+          "id": "baa6d195561f555a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1684618d879f09bf/thumb",
+          "video_duration": 59,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.019175,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.202241
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.283876
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.782407
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            1.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "c8a365333e8b0693",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Applovin",
+      "phashion_group": "c8a365333e8b0693",
+      "ad_type": "playable",
+      "first_seen_at": "2026-01-15",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "c8a365333e8b0693",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/886ec5bb42cce0bf/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/886ec5bb42cce0bf/thumb",
+          "html_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/886ec5bb42cce0bf/index.html?",
+          "width": 390,
+          "height": 844,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "other"
+      ],
+      "share": 0.016346,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.02934
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.093553
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.022719
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.045994
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.12546
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.299863
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.338848
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.137812
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.244656
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.354288
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.471149
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.292291
+          ]
+        ],
+        "dimensions": [
+          [
+            "390x844",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 105,
+        "data": [
+          [
+            "662dcccbf7baf07a73491020",
+            0.246542
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.127055
+          ],
+          [
+            "682349d3f7d7148702b98239",
+            0.050878
+          ],
+          [
+            "5e06ead15be87a5edb3a1682",
+            0.049571
+          ],
+          [
+            "5cc98b703ea98357b8ed3ce0",
+            0.046528
+          ],
+          [
+            "615fbb49a0ba7361576d404f",
+            0.045611
+          ],
+          [
+            "5e8933652f26485a253787bc",
+            0.042235
+          ],
+          [
+            "5eacdeb662573f5bd86c03df",
+            0.040371
+          ],
+          [
+            "5da561c7fe0f7b44daa0e9a6",
+            0.029175
+          ],
+          [
+            "590ddbfc0211a601c0000114",
+            0.028365
+          ],
+          [
+            "56e35cf19429946c4e0bac66",
+            0.022049
+          ],
+          [
+            "67498a038adc45bcb2caf6f1",
+            0.019154
+          ],
+          [
+            "605872171407050a5d717ae9",
+            0.018997
+          ],
+          [
+            "65bebae8ad4adb56c831ac52",
+            0.017502
+          ],
+          [
+            "6711ebb7df326f36e1339109",
+            0.015167
+          ],
+          [
+            "6610560dad4adb02de831cef",
+            0.014836
+          ],
+          [
+            "5fcaf8ace9bbdb401d914cb5",
+            0.010413
+          ],
+          [
+            "660a000b07b029033e9d211b",
+            0.010021
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.009576
+          ],
+          [
+            "5c72726923cfc647dc3b1749",
+            0.008841
+          ],
+          [
+            "6410a2e1b3ae2768b3c2bc2b",
+            0.008769
+          ],
+          [
+            "65a74c0797cd670cb69d7e66",
+            0.007814
+          ],
+          [
+            "69cbb8d74efd712f11ef768f",
+            0.007214
+          ],
+          [
+            "67f51ab51f5e4931de15ff38",
+            0.007153
+          ],
+          [
+            "6430c644c5bd9c5700abfd09",
+            0.005774
+          ],
+          [
+            "57772d430211a65e2300000a",
+            0.005761
+          ],
+          [
+            "63bd8751b3ae274ca7339d44",
+            0.005462
+          ],
+          [
+            "67b9ac1d27e2c17eddb001d0",
+            0.005445
+          ],
+          [
+            "687fff1be4be7833dc9cc01b",
+            0.005388
+          ],
+          [
+            "5cd675105fd3ed44ce379ec4",
+            0.005024
+          ]
+        ]
+      }
+    },
+    {
+      "id": "298e6f5538c35e85",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Applovin",
+      "phashion_group": "298e6f5538c35e85",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-04",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "298e6f5538c35e85",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6943cfdd4484b8a9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6943cfdd4484b8a9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6943cfdd4484b8a9/thumb",
+          "video_duration": 30,
+          "width": 720,
+          "height": 1280,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.016194,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.015476
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.043378
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.225261
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.10585
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.044337
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.419197
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.489122
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.428186
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.416414
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.765167
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.733429
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.636766
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.260364
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 93,
+        "data": [
+          [
+            "5cc98b703ea98357b8ed3ce0",
+            0.17097
+          ],
+          [
+            "5e06ead15be87a5edb3a1682",
+            0.132319
+          ],
+          [
+            "5eacdeb662573f5bd86c03df",
+            0.090006
+          ],
+          [
+            "615fbb49a0ba7361576d404f",
+            0.074706
+          ],
+          [
+            "65bebae8ad4adb56c831ac52",
+            0.070761
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.053507
+          ],
+          [
+            "6711ebb7df326f36e1339109",
+            0.044235
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.038797
+          ],
+          [
+            "605872171407050a5d717ae9",
+            0.034712
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.021237
+          ],
+          [
+            "656ab40b40beda73acd1f0c4",
+            0.017541
+          ],
+          [
+            "597f8ba97dbc696d7600055e",
+            0.014664
+          ],
+          [
+            "5cd675105fd3ed44ce379ec4",
+            0.013416
+          ],
+          [
+            "67498a038adc45bcb2caf6f1",
+            0.013134
+          ],
+          [
+            "590ddbfc0211a601c0000114",
+            0.011546
+          ],
+          [
+            "6461b63490609573a2fc31f2",
+            0.01007
+          ],
+          [
+            "682349d3f7d7148702b98239",
+            0.009635
+          ],
+          [
+            "6243e6ccff1e1b1ea09a2a0a",
+            0.009461
+          ],
+          [
+            "6610560dad4adb02de831cef",
+            0.008734
+          ],
+          [
+            "65a74c0797cd670cb69d7e66",
+            0.008702
+          ],
+          [
+            "58dce04f0211a613bb000606",
+            0.008079
+          ],
+          [
+            "67594de3d9e52a2021e5354f",
+            0.006767
+          ],
+          [
+            "5da561c7fe0f7b44daa0e9a6",
+            0.006741
+          ],
+          [
+            "6430c644c5bd9c5700abfd09",
+            0.006466
+          ],
+          [
+            "647349df37938646851bad00",
+            0.006456
+          ],
+          [
+            "63bd8751b3ae274ca7339d44",
+            0.006006
+          ],
+          [
+            "5b75fb79d5a7dd601c8feb8c",
+            0.005964
+          ],
+          [
+            "68f2f64cf94cefdaf79f0bf7",
+            0.005892
+          ],
+          [
+            "63a153348066e10644ae2342",
+            0.005662
+          ],
+          [
+            "67b9ac1d27e2c17eddb001d0",
+            0.005416
+          ]
+        ]
+      }
+    },
+    {
+      "id": "51d25381d97821aa",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Admob",
+      "phashion_group": "51d25381d97821aa",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-09",
+      "last_seen_at": "2026-02-21",
+      "creatives": [
+        {
+          "id": "51d25381d97821aa",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/04dfb569334fddc9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/04dfb569334fddc9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/04dfb569334fddc9/thumb",
+          "video_duration": 60,
+          "width": 1080,
+          "height": 1920,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.015782,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.104587
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1080x1920",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 2,
+        "data": [
+          [
+            "5b08105695a243116dc61488",
+            0.751878
+          ],
+          [
+            "5b6af0a62ba45d4cc3be4963",
+            0.248122
+          ]
+        ]
+      }
+    },
+    {
+      "id": "876f8f4d64ee7862",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Youtube",
+      "phashion_group": "876f8f4d64ee7862",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-11",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "876f8f4d64ee7862",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a9119724422946d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a9119724422946d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a9119724422946d/thumb",
+          "video_duration": 6,
+          "width": 1280,
+          "height": 720,
+          "title": "Mob Control",
+          "message": ""
+        },
+        {
+          "id": "a6b3a96a95a2c888",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a9119724422946d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a9119724422946d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a9119724422946d/thumb",
+          "video_duration": 6,
+          "width": 1280,
+          "height": 720,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.015637,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.051327
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.050764
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.050431
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.406041
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.249369
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.659353
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.439129
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.053472
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "7e560e7d5206d32f",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Applovin",
+      "phashion_group": "7e560e7d5206d32f",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-12",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "7e560e7d5206d32f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3e9baef52e413503/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3e9baef52e413503/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3e9baef52e413503/thumb",
+          "video_duration": 30,
+          "width": 720,
+          "height": 1280,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.013582,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.284876
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.21691
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.013468
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.245592
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.789056
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.212746
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.12303
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.501939
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.662228
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.319321
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.236231
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.355036
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.381062
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.631606
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.202507
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 100,
+        "data": [
+          [
+            "5eacdeb662573f5bd86c03df",
+            0.188755
+          ],
+          [
+            "5cc98b703ea98357b8ed3ce0",
+            0.127716
+          ],
+          [
+            "65bebae8ad4adb56c831ac52",
+            0.083715
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.073712
+          ],
+          [
+            "615fbb49a0ba7361576d404f",
+            0.069598
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.032994
+          ],
+          [
+            "5da561c7fe0f7b44daa0e9a6",
+            0.031419
+          ],
+          [
+            "5e06ead15be87a5edb3a1682",
+            0.026751
+          ],
+          [
+            "6711ebb7df326f36e1339109",
+            0.024685
+          ],
+          [
+            "605872171407050a5d717ae9",
+            0.019683
+          ],
+          [
+            "63bd8751b3ae274ca7339d44",
+            0.018011
+          ],
+          [
+            "647349df37938646851bad00",
+            0.015762
+          ],
+          [
+            "648dbb4f8bab0357537613f8",
+            0.015308
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.013872
+          ],
+          [
+            "5d7b4d9bf442a631004bb2af",
+            0.012164
+          ],
+          [
+            "58dce04f0211a613bb000606",
+            0.011638
+          ],
+          [
+            "5fcaf8ace9bbdb401d914cb5",
+            0.01039
+          ],
+          [
+            "64f95a47ad4adb6603a863b8",
+            0.009784
+          ],
+          [
+            "597f8ba97dbc696d7600055e",
+            0.009321
+          ],
+          [
+            "62eda7f1b3ae275b582e56ed",
+            0.009224
+          ],
+          [
+            "590ddbfc0211a601c0000114",
+            0.009124
+          ],
+          [
+            "6430c644c5bd9c5700abfd09",
+            0.008411
+          ],
+          [
+            "60809b4ac5ff012beb0d5ba5",
+            0.008347
+          ],
+          [
+            "654e29ffb3ae273eb613df9f",
+            0.007361
+          ],
+          [
+            "649172466cb0390387c043a3",
+            0.007258
+          ],
+          [
+            "6243e6ccff1e1b1ea09a2a0a",
+            0.006345
+          ],
+          [
+            "5cd675105fd3ed44ce379ec4",
+            0.005822
+          ],
+          [
+            "682349d3f7d7148702b98239",
+            0.005564
+          ],
+          [
+            "57772d430211a65e2300000a",
+            0.005332
+          ],
+          [
+            "6598ca2e67b00743ad54a72a",
+            0.005289
+          ]
+        ]
+      }
+    },
+    {
+      "id": "be2fc969264b7c60",
+      "app_id": "60913111fdef5825277f7ba6",
+      "network": "Applovin",
+      "phashion_group": "be2fc969264b7c60",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-18",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "be2fc969264b7c60",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fee269e15a0c9a4c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fee269e15a0c9a4c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/fee269e15a0c9a4c/thumb",
+          "video_duration": 60,
+          "width": 720,
+          "height": 1280,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.013251,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.026857
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.766824
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.816813
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.976209
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.478309
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 45,
+        "data": [
+          [
+            "5e06ead15be87a5edb3a1682",
+            0.295724
+          ],
+          [
+            "60d53af5c1238e1ac89812f6",
+            0.224002
+          ],
+          [
+            "682349d3f7d7148702b98239",
+            0.116153
+          ],
+          [
+            "5e8933652f26485a253787bc",
+            0.072252
+          ],
+          [
+            "662dcccbf7baf07a73491020",
+            0.049388
+          ],
+          [
+            "5eacdeb662573f5bd86c03df",
+            0.030345
+          ],
+          [
+            "615fbb49a0ba7361576d404f",
+            0.024367
+          ],
+          [
+            "65bebae8ad4adb56c831ac52",
+            0.018044
+          ],
+          [
+            "605872171407050a5d717ae9",
+            0.01761
+          ],
+          [
+            "6610560dad4adb02de831cef",
+            0.015363
+          ],
+          [
+            "6711ebb7df326f36e1339109",
+            0.012602
+          ],
+          [
+            "5cc98b703ea98357b8ed3ce0",
+            0.012278
+          ],
+          [
+            "590ddbfc0211a601c0000114",
+            0.011619
+          ],
+          [
+            "65a74c0797cd670cb69d7e66",
+            0.010541
+          ],
+          [
+            "65b0b087479fc730d9643f8e",
+            0.009561
+          ],
+          [
+            "69cbb8d74efd712f11ef768f",
+            0.00771
+          ],
+          [
+            "67dcb3c1af0c1ca713c96b38",
+            0.006955
+          ],
+          [
+            "6410a2e1b3ae2768b3c2bc2b",
+            0.006699
+          ],
+          [
+            "64f95a47ad4adb6603a863b8",
+            0.006054
+          ],
+          [
+            "65a41ab59d149279c16102b7",
+            0.005795
+          ],
+          [
+            "62fe31a07dbc4336ed0d0892",
+            0.005047
+          ],
+          [
+            "67498a038adc45bcb2caf6f1",
+            0.004136
+          ],
+          [
+            "56e35cf19429946c4e0bac66",
+            0.004096
+          ],
+          [
+            "57772d430211a65e2300000a",
+            0.003213
+          ],
+          [
+            "68f2f64cf94cefdaf79f0bf7",
+            0.003165
+          ],
+          [
+            "61ef4cc86c1b320635fa828d",
+            0.002808
+          ],
+          [
+            "64c936edb3ae27307b95efcd",
+            0.002402
+          ],
+          [
+            "660a000b07b029033e9d211b",
+            0.00237
+          ],
+          [
+            "6815df3627e2c1c09123f421",
+            0.00237
+          ],
+          [
+            "6461b63490609573a2fc31f2",
+            0.002318
+          ]
+        ]
+      }
+    }
+  ]
+}

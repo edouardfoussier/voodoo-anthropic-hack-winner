@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_UqqEkDsytCcG1NRn8r15bb8F?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVXFxRWtEc3l0Q2NHMU5SbjhyMTViYjhGP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=G6kOOPiVKfvAGH29rbuVI5YZcszrS3kcw0o2XXNO9rdQICDR4pZIzoX2rFyhgN6rqiqCO1Sq1RY6ykBvk9IQfgm2xF5AkjNFEfTp5liKiAgbsTCwDzWNGAb3Fhw8Zv3IQPKdCunRqi%7EqTD7xQhylsD5u5-HShd-vJhqpZkgaVx8yYWvt%7EF0Hc3JD9rfpuTlvGaGbgCPSzNr0%7EhbwKQJMpjDin8A%7EgAwU69j4JS13xwcVqmUwZgkfuBrFHYAHJj4VjFcFoS5Pt5jax-7Y3YxLJ7PtD0UFA6KH1BsGyYTzog13QdvB7bb0aFWtakQEeFSPmIpUMpUP7o5oda09xaS3dw__",
+  "job_id": "job_7ry5BRjRN8pn1gPak6EPx4CH",
+  "asset_id": "asset_UqqEkDsytCcG1NRn8r15bb8F",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect ratio, authentic in-game Roof Rails moment: third-person chase camera behind a small stylized 3D minimalist runner character sliding along a long thin white rooftop rail between two pastel cyan skyscrapers, holding a horizontal balancing pole made of stacked bright yellow #FFC824 segments extending far to both sides, glowing yellow pole-piece pickups floating ahead in a line, soft cyan #5CD6FF sky, off-white #EAF6FA rooftop surfaces, clean uncluttered 3D minimalist style with simple geometry and bright pastel colors, in-game HUD visible: top progress bar, diamond currency counter top-right, level indicator, on-screen text overlay 'Ever played a game THIS satisfying?' in bold white sans-serif at top center, no stylus, no hand, no puzzle grid",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

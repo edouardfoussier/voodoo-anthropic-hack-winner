@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_2RvsnWpvHKmQupb1rmqRuWsh?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMlJ2c25XcHZIS21RdXBiMXJtcVJ1V3NoP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=hNSg7SuL-Ic0qmyX--jDkfKR313IUVYC160BYAoqBs065QhllhA%7E8mrrxX3aLxZeciCedBUeOo16PVjxnx6gnbyBZG3xnBdT1LGhv5GxTgh3C47bAwBt6W6Bxgtu48EQvX6MMQpOOlFWYL%7EIwbpJGcQZOxA6OThUQOXNzf2EVV%7EjWWHC6VookpMm82grKlJ-xTynb17a-DcKFSV4V-wngsY%7EqZYSZcKvkZbtdJ2--fVRS-uEG4hrg%7EpnuaD6HRTPJ-LOHcZOlIUm5iL19wA7IqU7TqVQF8kp2EvDvT0eWwhMqq%7EZKDMNtrS3Smep0cNnKlvl7YtD3bqsq0kJ1ti5Lg__",
+  "job_id": "job_MC5cBStRovkpdQUSec1viojU",
+  "asset_id": "asset_2RvsnWpvHKmQupb1rmqRuWsh",
+  "stub": false,
+  "prompt": "Hero frame, vertical 9:16 mobile ad still: extreme macro shot of vibrant pixel-art sand grains pouring from a glossy 3D stylized bucket onto a clean white conveyor belt, sky-blue gradient background (#4A90E2), white conveyor (#FFFFFF), gold accents and sparkle highlights (#FFD700), shallow depth of field, soft bloom, calm ASMR mood, 3D stylized objects with vibrant colors and pixel-art sand compositions, on-screen text 'Tap to pour' in bold rounded white sans-serif at top, app store ad composition, ultra crisp, high saturation.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "f451eb4c03a87e76",
+    "ad_unit_id": "f451eb4c03a87e76",
+    "app_id": "55d3a1a802ac64350a000d6e",
+    "advertiser_name": "Roblox",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d7907b6332630a1d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d7907b6332630a1d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d7907b6332630a1d/preview",
+    "phashion_group": "f451eb4c03a87e76",
+    "share": null,
+    "first_seen_at": "2026-03-10T00:00:00",
+    "last_seen_at": "2026-04-20T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Like son, like father. Roblox inspires families to create worlds together.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A young boy introduces his custom-made Roblox game.",
+    "visual_action": "Close-up of a child speaking, intercut with shots of hands using a mouse and digital effects.",
+    "text_overlay": "I'm making a Roblox game called Fist Fight Beta.",
+    "voiceover_transcript": "I'm making a Roblox game called Fist Fight Beta.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of a young developer and his game 'Fist Fight Beta'.",
+    "Gameplay footage showing chaotic combat and physics-based action.",
+    "The creator explains the simple, fun-focused mechanics of the game.",
+    "A father figure describes the ease and spontaneity of creating on the platform.",
+    "Closing logo reveal with the call to action 'make it yourself'."
+  ],
+  "on_screen_text": [
+    "I'm making a Roblox game",
+    "called Fist Fight Beta.",
+    "It's a cluster of action and bodies flying everywhere.",
+    "It's just fighting people.",
+    "There's no real story to it.",
+    "He'll open a thing",
+    "and he'll just start creating something.",
+    "make it yourself.",
+    "ROBLOX"
+  ],
+  "cta_text": "make it yourself.",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#000000",
+    "#FFFFFF",
+    "#4A90E2"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Parents and children interested in game creation and creative play.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018189999999999999
+}

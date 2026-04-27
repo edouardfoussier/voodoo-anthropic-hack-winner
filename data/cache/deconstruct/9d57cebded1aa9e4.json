@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "9d57cebded1aa9e4",
+    "ad_unit_id": "9d57cebded1aa9e4",
+    "app_id": "657764bcad4adb78f0c03332",
+    "advertiser_name": "DraftKings Casino - Real Money",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b806f1c73d2bfa2/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b806f1c73d2bfa2/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b806f1c73d2bfa2/preview",
+    "phashion_group": "9d57cebded1aa9e4",
+    "share": null,
+    "first_seen_at": "2026-03-17T00:00:00",
+    "last_seen_at": "2026-04-11T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Your favorite reels just got an upgrade 🎰 DraftKings Casino’s new, exclusive FLEX SPINS give you the power to play your way 👑",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Announcement of the new 'Flex Spins' feature with dynamic text and floating game icons.",
+    "visual_action": "Bold yellow text announcing 'Flex Spins' is displayed while slot game icons float around a central logo on a vibrant purple background.",
+    "text_overlay": "INTRODUCING GAME-CHANGING FLEX SPINS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Main title card appears with 'Flex Spins' branding and floating game icons.",
+    "Secondary text explains the feature as an exclusive way to choose how to use spins.",
+    "Legal disclaimer text remains static at the bottom throughout the short loop."
+  ],
+  "on_screen_text": [
+    "DRAFTKINGS CASINO",
+    "INTRODUCING GAME-CHANGING FLEX SPINS",
+    "An EXCLUSIVE way to choose how to use your spins",
+    "FLEX SPINS",
+    "GAMBLING PROBLEM? CALL 1-800-GAMBLER (MI/NJ/PA/WV). HELP IS AVAILABLE FOR PROBLEM GAMBLING. CALL (888) 789-7777 OR VISIT CCPG.ORG (CT)."
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#2b004e",
+    "#fdf200",
+    "#9b26b6"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult casino enthusiasts interested in new mechanics and promotional offers.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001771
+}

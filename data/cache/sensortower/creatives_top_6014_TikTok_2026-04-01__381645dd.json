@@ -1,0 +1,164 @@
+{
+  "count": 833,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "1341381987a0b7a4",
+      "app_id": "61f25154b3ae273d7d51223f",
+      "network": "TikTok",
+      "phashion_group": "1341381987a0b7a4",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-16",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "1341381987a0b7a4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00354bb49b6adbef/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00354bb49b6adbef/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00354bb49b6adbef/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "\u5f37\u529b\u306a\u8ffd\u52a0\u30ab\u30fc\u30c9\u304c\u767b\u5834"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "61f25154b3ae273d7d51223f",
+        "canonical_country": "JP",
+        "name": "\u904a\u622f\u738b \u30de\u30b9\u30bf\u30fc\u30c7\u30e5\u30a8\u30eb",
+        "publisher_name": "Konami",
+        "publisher_id": "560c84aa8ac3506439034e48",
+        "humanized_name": "\u904a\u622f\u738b \u30de\u30b9\u30bf\u30fc\u30c7\u30e5\u30a8\u30eb",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/75/30/5475304d-1a0e-726d-5450-81ce73ee3205/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "61f25154b3ae273d7d51223f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f9904b2b8d463cc8",
+      "app_id": "6833e6a937dd49117eb0a8be",
+      "network": "TikTok",
+      "phashion_group": "f9904b2b8d463cc8",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-18",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "f9904b2b8d463cc8",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00abe22ec59f60ea/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00abe22ec59f60ea/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00abe22ec59f60ea/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "\u653e\u7f6e\u7cfb\u307e\u3063\u305f\u308aRPG\uff01\u30c9\u30e9\u30d9\u30eb \u6b63\u5f0f\u30ea\u30ea\u30fc\u30b9\uff01"
+        },
+        {
+          "id": "fa041e733242429c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00abe22ec59f60ea/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00abe22ec59f60ea/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00abe22ec59f60ea/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "\u3086\u308b\u304f\u697d\u3057\u304f\u30a2\u30cb\u30e1\u98a8\u30e2\u30d0\u30a4\u30ebRPG\uff01 \u30c9\u30e9\u30d9\u30eb \u6b63\u5f0f\u30ea\u30ea\u30fc\u30b9\uff01"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6833e6a937dd49117eb0a8be",
+        "canonical_country": "JP",
+        "name": "\u30c0\u30a4\u30d6\u30ed\u30b9\u30fb\u30b3\u30a2",
+        "publisher_name": "GameTree Entertainment",
+        "publisher_id": "65167e138f5d386ecefac21b",
+        "humanized_name": "\u30c0\u30a4\u30d6\u30ed\u30b9\u30b3\u30a2",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/de/44/41de4417-a044-faaf-a811-154c5e6d1c34/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6833e6a937dd49117eb0a8be",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b3c96cade8debbc6",
+      "app_id": "55c5020a02ac64f9c0001f66",
+      "network": "TikTok",
+      "phashion_group": "b3c96cade8debbc6",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-09",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "b3c96cade8debbc6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/thumb",
+          "video_duration": 15,
+          "width": 2160,
+          "height": 3840,
+          "message": "You Know YOU Deserve it - Play Now & Enjoy!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5020a02ac64f9c0001f66",
+        "canonical_country": "US",
+        "name": "Slotomania Slots Casino Games",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "Slotomania Slots Casino Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/82/a8/2882a853-e34a-0d37-3c54-158f11f1a697/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5020a02ac64f9c0001f66",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "147e4e154ca5f6f9",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "TikTok",
+      "phashion_group": "147e4e154ca5f6f9",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-10",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "147e4e154ca5f6f9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138491e863ac650/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138491e863ac650/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0138491e863ac650/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "message": "Test Yourself in an Apocalyptic Robo-War! Command Steel Giants, Crush Rivals! Survive Chaos!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

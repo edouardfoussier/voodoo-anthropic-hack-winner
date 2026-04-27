@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_BWiZVqnVghtNM2ufAv4wUK5d?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQldpWlZxblZnaHROTTJ1ZkF2NHdVSzVkP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=AUMK8R88-PfxICij9M-IVRyWRzjYzGpOGLeA7nLCXYVCqih4Ala3Z60bNjNvrEtwPPeFFnExfrmr9EYg2X1FwZnwjhqR4UVOwjsmV3r7UEaxeyaXAPelZFu3anqiVoGEazWF8plXezmKCIt1zAt3opfB12I14SOXHWJtt8BHyeBrz%7E6IZJOW9mTAeyYCDEAUHqufonBmxttioC3MwpOmfyATqCPqRMTS55XWWIlkLb4yKwkBhJIoShbmD1tuWG6nWNZ32VCB0SC41qKi8NmqkMzgzyI3hTgujCUy41W8RkfCUTpaT7QQ%7EXlw%7EBoiIFMveFz5GvSoSN2kPQOLIcvvjw__",
+  "job_id": "job_3K9sNoDCanGTJTdgWRP8rK7h",
+  "asset_id": "asset_BWiZVqnVghtNM2ufAv4wUK5d",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, 3D Casual Abstract style mobile puzzle game screenshot, top-down tilted view of a deep purple #403F6D grid on a moody charcoal #20232B background, a single glowing amber #FDBA4D cube hovering above a tray slot with soft sparks, glossy bouncing balls with motion-blur trails ricocheting across cleared rows, calm cinematic rim lighting, on-screen text overlay 'one tap\u2026' in clean white sans-serif, satisfying ASMR mood, no characters, no people",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

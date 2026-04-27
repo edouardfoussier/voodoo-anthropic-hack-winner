@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "54448d58b3a95c5d",
+    "ad_unit_id": "54448d58b3a95c5d",
+    "app_id": "655983974d03db5427337fe3",
+    "advertiser_name": "英単語モチタン-TOEIC/英検/中学高校小学生/英語ゲーム",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7f349cd02af71b7/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7f349cd02af71b7/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f7f349cd02af71b7/preview",
+    "phashion_group": "54448d58b3a95c5d",
+    "share": null,
+    "first_seen_at": "2025-12-28T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "TOEIC900に必要な「単語力」と「学習習慣」をゲット",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High TOEIC score reveal with a popular study book.",
+    "visual_action": "A score report showing 930 points is placed over a yellow 'Golden Phrases' vocabulary book.",
+    "text_overlay": "TOEIC900って、今の時代、意外と簡単なんですよ",
+    "voiceover_transcript": "あの、TOEIC900って、今の時代意外と簡単なんですよ。",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "High score reveal with a physical study book to establish credibility.",
+    "Personal testimonial about past failures in English proficiency tests to build relatability.",
+    "Transition to mobile app gameplay showing gamified vocabulary learning.",
+    "Demonstration of the app's interface and progress tracking features.",
+    "Final call to action with the App Store listing and a recommendation to try it."
+  ],
+  "on_screen_text": [
+    "TOEIC Listening & Readingスコア",
+    "Total 930",
+    "TOEIC900って、今の時代、意外と簡単なんですよ",
+    "私も昔は英検2級に2回落ちたんですけど、",
+    "今ではTOEIC900超えちゃってます",
+    "それって、最先端のアプリ使ったからなんですよね",
+    "モチタン使わずに、TOEIC伸びてない人は、一回やってみましょう！",
+    "英単語アプリ モチタン"
+  ],
+  "cta_text": "一回やってみましょう！",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#F7E391",
+    "#3366CC"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Japanese students and office workers aiming for high TOEIC scores using mobile apps.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001955
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_JuWM6QXAGfJ3ZTFPaSknvBG6?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSnVXTTZRWEFHZkozWlRGUGFTa252Qkc2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=XQ1ytxUr97EvVHzSErTDhgIFvOkh02yzO24vGbw3JV1c3hCqUBN1Pkd7sOV6fCjVZyPJa3lO1gYqUiGvPBO2U4rPQ61TPXq61N92sUgK00ZOz5oAIsIV1tFehrj%7Ei%7EMSgDyjgTsckyIgvRibB6uegpM1m-jNmko9Q9OImBKEGoKBSVY505QwwVo2s8%7E2ssURUYjI8oNUoOIve2hhEtuzmB%7EqeUBWVNyouAc5zARoofgk5sSLLKmfCAhTJ4gRlBXvYzY7-Aex47XvoY8WnSXQtUTyt8kPgaYswnIZ-Tlh69FlzXWkavKjRhkfM3IBYdAugIy2---jcYOJmahxgBVjTA__",
+  "job_id": "job_zcEsPFxYspxbsM48NsfCrgNE",
+  "asset_id": "asset_JuWM6QXAGfJ3ZTFPaSknvBG6",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical, authentic Roof Rails gameplay still: same minimalist runner mid-slide across a rail, a spinning grey saw obstacle ahead about to clip the yellow balancing pole, motion lines and small cyan spark particles, pastel cyan #5CD6FF cityscape background with simple block buildings, white #EAF6FA rail and rooftops, accent yellow #FFC824 pole and diamond pickups, clean 3D minimalist simple geometry bright pastel uncluttered aesthetic, in-game HUD: progress bar top, diamond counter, level number, large overlay text 'wait for it\u2026' centered in white, faithful to Roof Rails IP screenshots, no extra characters",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

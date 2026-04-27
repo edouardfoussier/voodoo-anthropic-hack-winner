@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_3asoTHvLFnx2aivmhfieboAp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM2Fzb1RIdkxGbngyYWl2bWhmaWVib0FwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Px7ysMh5brMNgESVubPZdreG5LbWMIZfJA2SQ65Va1pOTA1m%7ERl4S1QM4b0aj6CrG-D30oj4E-Z6Ox0Xi6Sm47xmHi1ZBPLGdPZl0jrJb14YCC-lARiNZkTZA7dmQkLKs6y0WADqO%7E1R8x4mP443rcgeC9qtdLoQW-Qyjg2vCOtm3ANQ89ILyZrjXKGFuiB0lGAIPq3X89YQTsagYh7JwGurKK83WhsRJpNEM4IwAHc-uL%7EWDDC7khf-hePTexo02F5Z%7E6zvgPEkjc6sitrf7c9RbgTmYEYrXIpwl-XLUb14e2xEN%7EKCqYF2dBgPDQcWZ-mmNq5jNmnhzfJYm9TcNQ__",
+  "job_id": "job_mkv48Nzn6dd4mW2rKHgJQsc3",
+  "asset_id": "asset_3asoTHvLFnx2aivmhfieboAp",
+  "stub": false,
+  "prompt": "Hero frame, vertical 9:16 mobile screenshot, Classic 2D flat design with a traditional green felt aesthetic, authentic Solitaire - Voodoo Card Game! gameplay capture: deep casino green felt table (#1A874B) with seven tableau columns of crisp white playing cards (#FFFFFF) showing bold red hearts and diamonds (#E31C1B) and black spades/clubs, four foundation slots top-right, stockpile top-left, a human index finger mid-drag holding a Red Queen of Hearts hovering over a blocked black-card column, red glow vignette around the wrong drop zone, red digital timer reading 0:08 in top HUD, score counter and red undo button visible, bold white sans-serif overlay text 'WHY IS THIS LEVEL SO HARD?' across the top, no characters, no mascots, flat 2D vector card faces, in-game UI chrome identical to the reference screenshots",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

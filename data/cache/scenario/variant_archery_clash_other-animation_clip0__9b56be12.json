@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_HipVmvsKvBUBRdCuL6uqst74?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9IaXBWbXZzS3ZCVUJSZEN1TDZ1cXN0NzQqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=jJBMpaSG7Yl6V8XnpcEJHxJBKmz0hhB8WqiBPJKuJRcCdpf3ByQkq90KINAHSWW662iPFOWHe51pvNZkWQ4Vx7T-5B9oqRnvUiQBr9CC5QFv3176opHAlfRG74EGS8f6zWpnM66PiEPH0KtVzKHwNZf4GuMaf7mXFPifs9c2wvj4w33liYtXWKl8XBGyt7aHgXYhq4IVUUYs%7EV5bqPat-TtQSmnkolIvRUxCaKvx6zfR-6a9hgblybRjLATonyDkiJE2533fBUIoMx4znQRRVhytb15ga-Sd22aChRdEx9UtgY8EtcpWxPxDSVun5LbmdQ1mclvLm7wgEoe%7Escweeg__",
+  "job_id": "job_h5HaPM3oENk4e16par6U8RzL",
+  "asset_id": "asset_HipVmvsKvBUBRdCuL6uqst74",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Hero frame, aspect 9:16: in-game moment from Archery Clash!, stylized female archer protagonist at full bowstring draw in over-the-shoulder duel stance, glowing electric blue (#2A9DF4) energy crackling along a nocked arrow, golden (#FFD700) parabolic aiming trajectory arc projecting toward an opponent silhouette across a colorful PvP arena, vibrant green (#32CD32) rarity glow on equipped bow, authentic Archery Clash! HUD with health bars top-left and right, turn indicator, gear slots, pulsing rainbow gradient skybox behind, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text 'UNLEASH ULTRA AIM' in bold yellow #FFD700 with blue #2A9DF4 outline",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": false,
+  "audio": false
+}

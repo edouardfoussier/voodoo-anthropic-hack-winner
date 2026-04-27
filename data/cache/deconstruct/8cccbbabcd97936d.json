@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "8cccbbabcd97936d",
+    "ad_unit_id": "8cccbbabcd97936d",
+    "app_id": "5ad47b3a25322338d9d93ab5",
+    "advertiser_name": "コトダマン-共闘ことばRPG",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01a3d492745d5875/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01a3d492745d5875/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01a3d492745d5875/preview",
+    "phashion_group": "8cccbbabcd97936d",
+    "share": null,
+    "first_seen_at": "2026-04-06T00:00:00",
+    "last_seen_at": "2026-04-12T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Anime character Fumihiko Takaba performs a comedic shout against a bright yellow background.",
+    "visual_action": "Character pose with 'Sparking!!' text followed by a close-up shout.",
+    "text_overlay": "Sparking!! 余計なお世話 Wi-Fi!!!",
+    "voiceover_transcript": "Sparking! 余計なお世話 Wi-Fi!!!",
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Character introduction with 'Sparking!!' visual effect.",
+    "Close-up of character shouting 'Unnecessary meddling Wi-Fi!!!'.",
+    "Announcement of free character reward for logging in during the event.",
+    "Final screen detailing the 10,000 currency reward and collaboration dates."
+  ],
+  "on_screen_text": [
+    "コトダマン x 呪術廻戦",
+    "コラボ期間：2026年4月6日〜4月24日",
+    "Sparking!!",
+    "最大で期間限定が10,000もらえるチャンス！",
+    "配布期間 2026年4月3日(金)〜2026年4月18日(土)",
+    "余計なお世話 Wi-Fi!!!",
+    "期間中のログインで高羽史彦もらえる！"
+  ],
+  "cta_text": "最大で期間限定が10,000もらえるチャンス！",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFD700",
+    "#000033",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of Jujutsu Kaisen and mobile RPG players who enjoy collecting limited-time characters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001816
+}

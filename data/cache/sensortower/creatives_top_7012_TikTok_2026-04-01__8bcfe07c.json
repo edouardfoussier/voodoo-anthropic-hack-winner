@@ -1,0 +1,164 @@
+{
+  "count": 102,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "5ba7458dea1165c1",
+      "app_id": "679ad2c9e8b4ba3a4e049aab",
+      "network": "TikTok",
+      "phashion_group": "5ba7458dea1165c1",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-26",
+      "last_seen_at": "2026-04-18",
+      "creatives": [
+        {
+          "id": "5ba7458dea1165c1",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "message": "Classic Tetris Meets Modern Vibes: Dive In!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "679ad2c9e8b4ba3a4e049aab",
+        "canonical_country": "US",
+        "name": "Tetris\u00ae Block Party",
+        "publisher_name": "Playstudios",
+        "publisher_id": "560c5bb68ac35064390237c1",
+        "humanized_name": "Tetris Block Party",
+        "icon_url": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y=s150",
+        "os": "unified",
+        "id": "679ad2c9e8b4ba3a4e049aab",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "78d0609d7512f42c",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "78d0609d7512f42c",
+      "ad_type": "video",
+      "first_seen_at": "2024-12-19",
+      "last_seen_at": "2026-04-18",
+      "creatives": [
+        {
+          "id": "78d0609d7512f42c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "Simple & Addictive Gameplay"
+        },
+        {
+          "id": "8fe99ace5e34b078",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "68a218b452e42b2d",
+      "app_id": "6645186f04a3235f79b44cbe",
+      "network": "TikTok",
+      "phashion_group": "68a218b452e42b2d",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-28",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "68a218b452e42b2d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "Proven to reduce anxiety & ADHD!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6645186f04a3235f79b44cbe",
+        "canonical_country": "US",
+        "name": "Find The Cat - Spot It!",
+        "publisher_name": "Agave Games",
+        "publisher_id": "618e91f5b3ae2733538bb701",
+        "humanized_name": "Find The Cat",
+        "icon_url": "https://play-lh.googleusercontent.com/JVUrYb53YKB2WTdq4OXnFELdD3FqjDqZxayl9Hnzgxx-7rx_6I3NQ7j_VjCxegOz6QhFOdUAbtfejfv1siyJgQ=s150",
+        "os": "unified",
+        "id": "6645186f04a3235f79b44cbe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "1d30c66474e12991",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "TikTok",
+      "phashion_group": "1d30c66474e12991",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-11",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "1d30c66474e12991",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c9adbdd52745cc3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c9adbdd52745cc3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0c9adbdd52745cc3/thumb",
+          "video_duration": 9,
+          "width": 720,
+          "height": 1280,
+          "message": "Warning: This game is HIGHLY satisfying"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

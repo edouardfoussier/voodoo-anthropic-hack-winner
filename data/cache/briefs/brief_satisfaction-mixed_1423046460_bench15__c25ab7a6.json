@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1423046460",
+  "title": "POV: I Got Home and Opened Paper.io 2",
+  "hook_3s": "POV: backpack drops, phone unlocks, screen explodes with neon yellow territory swallowing the map.",
+  "scene_flow": [
+    "0-3s: Live-action POV — hand pushes open bedroom door, flops onto bed, phone lights up with Paper.io 2 icon glowing.",
+    "3-6s: Tap. Hard cut into the game — bright top-down arena, our yellow #FFD700 square bursts out of home base carving a clean trail.",
+    "6-10s: Quick montage of satisfying captures — sweeping a huge loop, slicing a cyan #00BFFF rival's trail, kill-feed pops, territory floods yellow.",
+    "10-13s: Greedy run across the map for the win — magenta #FF00FF rival closes in, last-second dodge, claim 80% of the board.",
+    "13-15s: Player on bed grins, phone tilts to camera showing victory screen, CTA slams in."
+  ],
+  "visual_direction": "Split-personality spot: gritty handheld live-action bookends (warm bedroom light, hoodie, tablet/phone POV) crashing into the hyper-clean Paper.io 2 world — vibrant minimalist 3D top-down, solid #FFD700 hero territory, #00BFFF and #FF00FF rivals, white grid floor. The contrast between messy real life and the crisp, high-contrast arcade arena IS the hook. Energetic competitive UI: progress bar, kill-feed flashes, coin pings. Cuts on the beat, punchy SFX, no filler frames.",
+  "text_overlays": [
+    "POV: I finally got home…",
+    "…and opened Paper.io 2",
+    "one more round 👀",
+    "87% of the map. MINE.",
+    "Can you beat my score?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Paper.io 2 rotation is 100% in-engine Unity/Admob gameplay cuts with no copy and no creator-style framing — this brief injects the trending live-action \"POV rushing home\" UGC hook the market scan flagged, but fixes the archetype's fatal flaw by swapping in real Paper.io 2 gameplay on the phone instead of referencing a competitor title. UA team: ship this as the UGC/lifestyle top-of-funnel test against the existing pure-gameplay control, same audience, expect stronger thumb-stop on TikTok/Reels placements where lo-fi POV outperforms clean capture footage.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 aspect ratio: extreme close-up over-the-shoulder of a teen's hand holding a phone on a messy bed, phone screen fills 70% of frame showing Paper.io 2 gameplay — vibrant minimalist 3D top-down with bright solid colors, bold #FFD700 yellow territory dominating a white grid arena, #00BFFF cyan and #FF00FF magenta rival trails, clean UI with progress bar, on-screen text overlay '…and opened Paper.io 2' in bold white sans-serif with drop shadow, warm bedroom bokeh background, high contrast, mobile-ad composition",
+    "Storyboard frame, vertical 9:16 aspect ratio: pure in-game shot, vibrant minimalist 3D top-down with bright solid colors, hero #FFD700 yellow square mid-sweep carving a massive loop across the arena, trailing line glowing, a #00BFFF cyan opponent and #FF00FF magenta opponent visible, kill-feed text in upper right, on-screen text overlay '87% of the map. MINE.' in chunky yellow stroked type, energetic competitive mood, crisp solid colors, no gradients",
+    "Storyboard frame, vertical 9:16 aspect ratio: live-action POV of a hoodie-wearing player flopping back on a bed grinning, phone held up toward camera showing Paper.io 2 victory screen filled with #FFD700 yellow territory and accents of #00BFFF and #FF00FF, vibrant minimalist 3D top-down game art visible on the screen, on-screen text overlay 'Can you beat my score?' in bold white, golden hour bedroom lighting, UGC selfie energy"
+  ]
+}

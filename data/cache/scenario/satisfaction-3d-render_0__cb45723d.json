@@ -1,0 +1,11 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_QTdzY1heTy6eUoVkBigcczn2?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUVRkelkxaGVUeTZlVW9Wa0JpZ2Njem4yP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=MEAgSj%7El3%7E%7EDEM6bvYLEI0AjcSMt06MzG-X%7E%7EatFNW7hN5LJ9HJBDkCTRn-nJ7O6R0gRc9e75j1VXy9yTIdCBraR%7E3gnuA-KwOI%7Eh3L8sCqHnbxsIInaFlSrCb2os6JHsAHzxTFFX40%7EJbIwxFxxLqWIAWRxuRaJ6cIBNAVXV96Talx6smegSpcObQJ5w5eNYm3heHMLYnn64YdzrJzQI8W4U-HCPQOqQMstxDNSnCI6q9VPC96FZEEiEzmF5CwA5Pmjp4zLUam-z2wO8oscDz2YC0cy0d0mkWW2S60tvLlJGOT9mb5ewIhj4-1Q1iNpcmrfbpq2KK-wnHPm0tbolw__",
+  "job_id": "job_A6rwskjXHtbhW8rg4NJswFiG",
+  "asset_id": "asset_QTdzY1heTy6eUoVkBigcczn2",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, 3D Casual Abstract style: a clear glass apothecary jar floating above a dark moody grid, tilting to pour a glossy stream of amber yellow-orange (#FDBA4D) 3D cubes that cascade and snap into deep purple (#403F6D) grid slots, near-black (#20232B) background with soft volumetric lighting, premium mobile game render, on-screen text label reads 'No. 047 BLOCK BLAST' in clean sans-serif, satisfying ASMR aesthetic, soft depth of field, ultra-detailed.",
+  "model_id": "flux.1-dev",
+  "mode": "img2img",
+  "reference_image": "00.png",
+  "img2img_strength": 0.6
+}

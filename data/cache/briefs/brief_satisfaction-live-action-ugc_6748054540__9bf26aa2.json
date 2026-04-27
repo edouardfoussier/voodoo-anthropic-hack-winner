@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "6748054540",
+  "title": "\"That Chain-Reaction Feeling\" — Split-Screen UGC Reaction",
+  "hook_3s": "POV: one tap, then the whole board explodes into bouncing gold — and you can't stop smiling.",
+  "scene_flow": [
+    "0–3s HOOK: Split-screen — top half, a 30-something woman on her couch leans into her phone, lit by warm amber phone-glow against a dim purple room. Bottom half, close-up of Bounce Blast 3D grid mid-decision, finger hovering. Overlay: 'I told myself just one level…'",
+    "3–7s SETUP: Full-screen gameplay. Finger taps to place a yellow-orange block into the grid. Camera pushes in on the satisfying snap as obstacles light up. Overlay: 'Then I tapped THIS block 👇'",
+    "7–11s PAYOFF: Blocks transform into glowing amber balls. Physics chain reaction explodes across the grid — bounces, ricochets, combo counter ticking. Quick cut back to her face: jaw drops, then a slow grin. Overlay: 'wait— WAIT—'",
+    "11–14s ESCALATION: Level-clear flourish, confetti of accent-yellow particles on deep purple. She does a small celebratory shoulder-shimmy at her phone. Overlay: 'me at 1AM, fully unbothered'",
+    "14–15s CTA: App icon snaps in over a clean dark frame with a single bouncing amber ball. Overlay CTA + install prompt."
+  ],
+  "visual_direction": "Lean into the game's moody, premium puzzle DNA: deep #20232B backgrounds, #403F6D purple UI frames, and the signature #FDBA4D amber as the ONLY warm light source — both in-game AND on the talent's face (phone glow). Shoot UGC talent (woman, 30–45, relatable not Gen-Z) in a dim room so the phone is the hero light, matching the game's calm/satisfying tonality. Gameplay sections are screen-recorded clean, then framed in subtle purple bezels. Cuts are smooth and rhythmic — never frantic — because the satisfaction is in the physics, not the edit. 3D Casual Abstract gameplay stays center-frame; chain reactions get a 1.2x slow-mo punch-in to amplify the dopamine beat.",
+  "text_overlays": [
+    "I told myself just one level…",
+    "Then I tapped THIS block 👇",
+    "wait— WAIT—",
+    "the chain reaction tho 🤯",
+    "me at 1AM, fully unbothered",
+    "Tap. Bounce. Repeat."
+  ],
+  "cta": "Tap to Bounce",
+  "rationale": "Adapts the winning live-action-UGC satisfaction archetype to Bounce Blast 3D by recasting with an age-appropriate 30–45 woman and anchoring the entire frame in the game's amber-on-purple palette so the phone glow IS the brand. Critically fixes the source archetype's biggest weakness — zero gameplay — by dedicating 60% of runtime to the tap-to-place → chain-reaction payoff, which is the core loop. UA team should A/B the hook overlay ('just one level' vs. 'me at 1AM') and test split-screen vs. full-screen gameplay variants for CTR.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect ratio: cinematic split-screen mobile ad still. Top half: a relatable 35-year-old woman on a couch in a dim living room, face lit warmly by amber phone glow against deep purple ambient shadows, smiling in genuine surprise. Bottom half: close-up of a 3D Casual Abstract physics puzzle grid mid-chain-reaction with glowing yellow-orange balls bouncing and ricocheting off geometric blocks. Strict palette: dark charcoal background #20232B, deep purple UI frame #403F6D, bright amber accent #FDBA4D as the only warm light source. Bold white sans-serif on-screen text: 'wait— WAIT—'. Premium mobile game ad aesthetic, soft bokeh, satisfying mood.",
+    "Storyboard frame 1, 9:16 vertical aspect ratio: overhead phone-screen view of a 3D Casual Abstract physics puzzle, a finger tapping to place a glowing amber block into a grid. Deep #20232B background, #403F6D purple grid frame, brilliant #FDBA4D yellow-orange highlight on the active block with subtle particle glow. Clean, calm, satisfying composition. Bold white text overlay at top: 'Then I tapped THIS block 👇'. Casual puzzle mobile ad style, crisp 3D render.",
+    "Storyboard frame 2, 9:16 vertical aspect ratio: dynamic 3D Casual Abstract render of a physics chain reaction in full motion — a dozen amber #FDBA4D balls bouncing across a purple #403F6D grid, motion blur trails, blocks shattering into geometric particles, all on a rich dark #20232B background. Slight slow-motion feel, confetti of warm yellow sparks. Bold white text overlay centered: 'the chain reaction tho 🤯'. Premium satisfying puzzle ad, calm-but-explosive energy."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "03b1a320f8d25986",
+    "ad_unit_id": "03b1a320f8d25986",
+    "app_id": "5cb9b9223ea98344e0401fcf",
+    "advertiser_name": "Tennis Clash：Sports Stars Game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0235427436e4fb69/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0235427436e4fb69/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0235427436e4fb69/preview",
+    "phashion_group": "03b1a320f8d25986",
+    "share": null,
+    "first_seen_at": "2026-04-01T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-stakes tennis rally on a neon galaxy court.",
+    "visual_action": "Two characters exchange fast shots in a competitive match setting with a cosmic-themed court floor.",
+    "text_overlay": "SECOND SEMIFINAL, MEI-LI, HOPE",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Fast-paced tennis rally on a cosmic-themed court showing gameplay mechanics and UI.",
+    "A player scores a point with a powerful cross-court shot as the crowd cheers.",
+    "Cinematic transition to a high-quality 3D render of a male player performing a powerful serve.",
+    "Final end card featuring the game logo, developer logo, and a prominent 'PLAY' button."
+  ],
+  "on_screen_text": [
+    "SECOND SEMIFINAL",
+    "MEI-LI",
+    "HOPE",
+    "TENNIS CLASH",
+    "PLAY",
+    "WILD LIFE"
+  ],
+  "cta_text": "PLAY",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#8A2BE2",
+    "#00FFFF",
+    "#FF00FF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Competitive sports fans and casual gamers who enjoy high-energy, visually vibrant mobile sports simulations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001514
+}

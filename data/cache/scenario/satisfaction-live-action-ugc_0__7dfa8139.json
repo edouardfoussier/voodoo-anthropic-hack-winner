@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_XhbvKPJ3PDYBAj7rezDympUw?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWGhidktQSjNQRFlCQWo3cmV6RHltcFV3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=DE9hfXWq%7EdffXgdsyvNGG5mxa5h2pMo2hlh610scgRfRYbITWhaFUf3XK2yotBAJ0L7eKo0vtU7QQfjHEY62PQrA1gyHezn-63QvB8p37aaiM-bRPlJ9iSAmP2Cd3qR5TxiReCgss4UK7usrKppVImPHg7pL620Gvf5DgwJ4bNzSIPkOAFzMYFFH3IVTDb3RznYRH4eUULp5l8hKWXf8dRxNwd39uitj4sahUtPLKbOwT%7EWyShqRXCgGG8ohsRhp5ynTduY8mUykK%7EBSygJ%7EwcwQ0PE1zE4GX6pjviG5j0JRHWRXBrVmLDPo7D4Trcc27ogQyrnsBpPYTavl0c3RgQ__",
+  "job_id": "job_Zjj1j5747uDSDJ2mTAkiwrA2",
+  "asset_id": "asset_XhbvKPJ3PDYBAj7rezDympUw",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, Stylized 3D Cartoon style: a young man in a hoodie sitting on a couch in a dim bedroom, face lit by phone glow, mouth open in shocked excitement, RGB strip lights casting royal purple #5824F5 and bright cyan #00A3FF across the walls, warm yellow #FFD12C phone screen reflection on his face, on-screen text overlay reading 'x256 MOB UNLOCKED' in bold chunky yellow caps, vertical mobile ad composition, high contrast, energetic mood, cinematic depth of field",
+  "model_id": "flux.1-dev"
+}

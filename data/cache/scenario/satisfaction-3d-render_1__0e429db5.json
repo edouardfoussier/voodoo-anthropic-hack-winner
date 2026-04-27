@@ -1,0 +1,11 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_aSbapSHvST4cjhjGcb1YsKVL?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfYVNiYXBTSHZTVDRjamhqR2NiMVlzS1ZMP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=PuoWfye5Hn0hDKFUo9QRZVT%7EufZHCF290xi5BT4CRfXgT2lNbFEXw6DgVU6VPhl%7EF60iylUnGMSiNDyKut0HUPc8vFjyRTdDD5YiYi1JwLtogKOcJNgY3iXCHP0IXb4OIfGmDYWSWU%7ElpxGw5sLNYur42l6mQ2cq3pAKJ-Qey-2A24NPgmaGgNaBM-Tf-jmRTDan%7EeGZFgqc5g40zFsdJ1peYmqd7C%7EiwTqohtAddJvb5pVi7Mdn6cXal1PEeezYp77N7t8qPlbxzyMducjsSPSnIbJ37TQK9sUWS8dOlznX9nEDIaZGWta8SwwYKTznCtzO1R4%7E0PfwiVJlBj39pw__",
+  "job_id": "job_nRpyrEuiyEh8vGCwENPZo2Cn",
+  "asset_id": "asset_aSbapSHvST4cjhjGcb1YsKVL",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style: top-down macro shot of a fully packed 5x7 grid of glossy amber #FDBA4D cubes mid-detonation, bursting into glowing bouncing spheres ricocheting with motion-blur light trails, deep #403F6D purple grid frame, #20232B dark background, yellow-orange progress bar filling at top, on-screen text 'Pour. Place. POP.' in bold white caps, cinematic chain-reaction moment.",
+  "model_id": "flux.1-dev",
+  "mode": "img2img",
+  "reference_image": "01.png",
+  "img2img_strength": 0.6
+}

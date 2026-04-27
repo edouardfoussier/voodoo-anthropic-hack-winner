@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_zxJmHyzWkGM8ckV694ewMHZP?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfenhKbUh5eldrR004Y2tWNjk0ZXdNSFpQP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=e5IN8TvED69IL8QkpCDIifTki57Ut938-OVxMFzJ21Ngkxdu1eYltfZfKfkfHUeO9D1VggXdHGa423B2m3Lkng7RFgWyXKtMLt0tzhtV1XolPiQ%7Ep2k%7EOcmwnHAstWCvqkjBK0V51hCMx%7E4AqAJKkyrQY6NgIK6xFgF4wc9pjTcAEcms3N-TrPyvCY8F6kw-PfdgfnDimReODBTBalkjjOt1yeZm6188%7EPx3C18NFve5naw0nDdsnnatd2IW6Vv8J4iLi3epAkeLS1rzjxEG-BZshnSJ0sOx7mQQh-Q%7EYVjU0q5zKLgsoBI6iCrX9WZggvVTX%7E%7EhAOMvB6%7EvhyB86Q__",
+  "job_id": "job_GGoz8Y5ma8ij41VNdWJHcMPG",
+  "asset_id": "asset_zxJmHyzWkGM8ckV694ewMHZP",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style: top-down hero shot of a chunky 3D puzzle grid framed in deep purple #403F6D on a #20232B stage, a finger tapping a glowing amber #FDBA4D block snapping into a tray slot, soft glow and motion lines, casual mobile puzzle aesthetic, on-screen text 'TAP TO PLACE' in bold yellow-orange caps",
+  "model_id": "flux.1-dev"
+}

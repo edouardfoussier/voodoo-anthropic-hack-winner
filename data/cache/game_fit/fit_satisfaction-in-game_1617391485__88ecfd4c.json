@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 25,
+  "mechanic_match": 30,
+  "audience_match": 70,
+  "overall": 35,
+  "rationale": "The \"satisfying merge\" hook is from the Suika/fruit-merge genre — its warm cream/red/brown palette, organic fruit characters, and physics-drop merge mechanic clash directly with Block Blast's geometric polyomino-on-grid loop and cool blue/navy/gold palette, so a literal adaptation would be misleading creative that risks high IPM but poor D1/ROAS from mismatched installs. Audience does overlap (casual 25-55 satisfaction-seekers), so the underlying emotional beat is reusable — but only if reskinned to Block Blast's own native satisfaction moment (cascading multi-line clears with chain VFX, juicy block-shatter, score popcorn). Recommend testing a \"satisfaction · in-game\" variant built from authentic gameplay rather than porting the fruit-merge hook."
+}

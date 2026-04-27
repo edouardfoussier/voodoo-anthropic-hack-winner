@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "ebe77f94b12c66e8",
+    "ad_unit_id": "ebe77f94b12c66e8",
+    "app_id": "685b7bc224b863a00e1e8689",
+    "advertiser_name": "X-Clash",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/006f294d9dd3be4b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/006f294d9dd3be4b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/006f294d9dd3be4b/preview",
+    "phashion_group": "ebe77f94b12c66e8",
+    "share": null,
+    "first_seen_at": "2026-03-07T00:00:00",
+    "last_seen_at": "2026-04-06T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A stylus draws a protective shape around a dog to block bees while a narrator claims the game has no ads.",
+    "visual_action": "Stylus drawing a line around a baseball player silhouette to shield a dog from bees.",
+    "text_overlay": "Draw lines to save the puppy! Wait a 'save the dog' game with NO ADS?!",
+    "voiceover_transcript": "Wait, a 'save the dog' game with NO ADS?! I didn't believe it either.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Stylus begins drawing a complex line around a silhouette to protect the dog.",
+    "Bees swarm out of a hive and bounce off the drawn barrier.",
+    "A 5-second countdown timer appears as the bees continue to attack.",
+    "The timer reaches zero, the bees fly away, and a success checkmark appears with confetti."
+  ],
+  "on_screen_text": [
+    "Draw lines to save the puppy!",
+    "Wait",
+    "a 'save the dog' game",
+    "with NO ADS?!",
+    "I didn't believe it either",
+    "But I downloaded it...",
+    "and it's real."
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#87CEEB",
+    "#90EE90",
+    "#FFD700"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile gamers looking for simple puzzle games without the annoyance of frequent advertisements.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001474
+}

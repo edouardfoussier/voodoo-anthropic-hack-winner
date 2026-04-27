@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-in-game",
+  "target_game_id": "1499833702",
+  "title": "\"Why Is Level 7 So Hard?\" — Missed Shot Fail-Bait",
+  "hook_3s": "A shaky finger taps fire — the ball arcs WIDE, sails past three red dummies, and clangs off the platform edge. \"WHY IS THIS LEVEL SO HARD?\"",
+  "scene_flow": [
+    "0–3s: First-person view down the toy gun barrel. Three red crash-test dummies march forward on a pastel blue platform. A hand cursor jitters, taps fire — the ball flies high and misses everything. Overlay: 'WHY IS THIS LEVEL SO HARD?'",
+    "3–7s: Second attempt — cursor over-corrects, ball rolls under the dummies' feet, bounces off the back wall. Dummies keep advancing. Progress bar barely moves. Overlay: 'CAN YOU WIN?'",
+    "7–11s: Dummies reach the player. Screen shakes, comic 'BIM' text flashes red, fail screen appears with sad trombone energy. Overlay: '99% FAIL HERE'",
+    "11–14s: Cut to a clean, satisfying retry — perfectly aimed shot knocks all three dummies off the edge in a domino chain. Purple combo flash. Overlay: 'YOUR TURN'",
+    "14–15s: CTA card with download button pulsing in accent purple."
+  ],
+  "visual_direction": "Lock to the game's authentic first-person perspective: pastel #8ED4FF sky-blue backdrop, simple geometric platform, vivid #D91A1A red crash-test dummies, and the signature toy-like gun in lower frame. Use #6B15E8 purple sparingly for combo flashes, progress-bar fill, and CTA accents. Keep everything minimalist 3D with flat shading — no gradients, no realism. Comic-book 'BIM' hit text and the level progress bar must appear exactly as in-game. Hand cursor overlay (the fail-bait tell) sits on top of otherwise pixel-faithful gameplay.",
+  "text_overlays": [
+    "WHY IS THIS LEVEL SO HARD?",
+    "CAN YOU WIN?",
+    "99% FAIL HERE",
+    "YOUR TURN",
+    "TAP TO PLAY"
+  ],
+  "cta": "Tap To Play",
+  "rationale": "Voodoo's current Knock'em All rotation is all straight gameplay videos and playables with zero fail-bait framing — we're leaving the highest-CTR hook in hypercasual on the table. This brief keeps the winning \"WHY IS THIS LEVEL SO HARD\" psychological trigger but swaps the mechanically-mismatched bus-crash for a missed-shot fail that 100% matches the tap-to-shoot loop, protecting CVR and D1. UA team: test against the 2025-09-24 video as control, expect lift on IPM via thumbnail curiosity gap.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect, first-person view down a chunky toy-like cartoon gun barrel aimed at three vivid red crash-test dummy enemies (#D91A1A) walking on a simple geometric platform, pastel sky-blue background (#8ED4FF), a white hand cursor hovering over the fire button mid-tap, a yellow ball mid-flight clearly missing the dummies and arcing past them, thin level progress bar at top with #6B15E8 purple fill barely started, minimalist 3D with bright flat colors and simple geometric environments, no characters on screen, comic-book style overlay text 'WHY IS THIS LEVEL SO HARD?' in bold white with black outline at top center, authentic Knock'em All in-game UI chrome. [Audio: VO (frustrated female, casual): 'Wait, why is this so hard?' / calm satisfying lo-fi tap-beat 90 BPM / soft whoosh on ball, hollow clank on miss at 2.5s.]",
+    "Storyboard frame 2, 9:16 vertical aspect, first-person Knock'em All gameplay, three red crash-test dummies (#D91A1A) up close to the camera mid-collision with the player, screen-shake motion blur, large comic-book 'BIM' hit text in red and white burst across center, pastel #8ED4FF background, geometric platform edges visible, level progress bar frozen with #6B15E8 purple fill at 20%, minimalist 3D flat-color style, no characters on screen, overlay text '99% FAIL HERE' in bold white at bottom, faithful in-game HUD. [Audio: VO: 'Nooo!' / calm satisfying beat drops to muted / cartoon fail-buzzer at 0.4s, dummy thud impact, soft sad-trombone tail.]",
+    "Storyboard frame 3 redemption shot, 9:16 vertical aspect, first-person view of toy gun firing a perfectly aimed yellow ball knocking three red crash-test dummies (#D91A1A) off a geometric platform in a satisfying domino chain, bodies tumbling into pastel #8ED4FF void, bright #6B15E8 purple combo-flash radiating from impact, level progress bar filling to 100% in purple, minimalist 3D bright flat colors, no characters on screen, bold overlay text 'YOUR TURN — TAP TO PLAY' in white with purple drop shadow at bottom center, authentic Knock'em All UI. [Audio: VO (confident): 'Your turn.' / calm uplifting chiptune swell 100 BPM / triple chime combo at 1s, satisfying whoosh-pop on each dummy knockoff.]"
+  ]
+}

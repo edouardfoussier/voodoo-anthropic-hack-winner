@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_DLZmi7QL171MRBcf3x7yKZe2?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRExabWk3UUwxNzFNUkJjZjN4N3lLWmUyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=glE7AESUcFrp4SWIYC%7E0VtHfxSKw89RXzDQneueCMbP2OEePLn47Rv6OoLTyr8taNu1J%7EU43KG42Et4UQCsgdq9SHk0WG4JRPfr6RB7IJQIQncFlkvgi1uIng3qL7musxkC9jC-RkYH0sTN4W7WhfS6diBl0A%7EgS7UDi0V-065iwtiCk1dy599Cbotyx79qFelsfrAeQmLLtJqJNigFBAGipkduhPh3L4XF2aSg1HOjoVTrHOYJ0r1AKL3ymvGZv2IerYUAPxr472Of603cLZYEBrG1KNjOv8sppPOBV0b4Bokrs3RO9HCQeBk1nyil7vk-WtcTcNUGFD1aZZJaPeA__",
+  "job_id": "job_SLbnGzNJXXaQNJYRw19S3GR9",
+  "asset_id": "asset_DLZmi7QL171MRBcf3x7yKZe2",
+  "stub": false,
+  "prompt": "Storyboard frame 1, 9:16 vertical aspect ratio, live-action POV shot from a young adult's perspective lying back on a couch in a warm dim living room, hands holding a vertical smartphone in the lower third of frame, the phone screen brightly displaying authentic Helix Jump gameplay \u2014 stacked cyan #5CE1E6 ring platforms forming a helix tower on light background with a bouncing ball and one #FF0000 red trap segment, overlay text 'POV: I finally got home' in clean white sans-serif at top, 3D minimalist bright contrasting colors and simple geometric shapes inside the phone, photoreal outside the phone, no other characters visible.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

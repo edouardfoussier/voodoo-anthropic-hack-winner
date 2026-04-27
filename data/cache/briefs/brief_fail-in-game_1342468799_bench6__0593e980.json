@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-in-game",
+  "target_game_id": "1342468799",
+  "title": "\"Why Is This Level So Hard?\" — Pastel Fail Bait",
+  "hook_3s": "A clumsy finger drags a pink ball straight into a red wall — SMASH — pastel shards explode across the dark track.",
+  "scene_flow": [
+    "0-3s: Cold open on the dark track. A giant cartoon hand-cursor grabs the rolling pastel-pink ball. Overlay slams in: 'WHY IS THIS LEVEL SO HARD?'",
+    "3-7s: Cursor steers the pink ball directly into a RED obstacle wall. Buzzer. Ball shatters into pastel shards. Overlay: '99% FAIL HERE 😬'",
+    "7-11s: Replay attempt — cursor wobbles, ball clips a mismatched accent-red gate, misses three coin stacks. Overlay: 'STILL CAN'T DO IT?'",
+    "11-14s: Speed ramp: a clean run shows the ball flipping through matching pink/red/navy gates, snagging coins, score counter spiking. Overlay: 'CAN YOU BEAT IT?'",
+    "14-15s: Freeze on score screen with pastel city skyline behind. CTA pulses."
+  ],
+  "visual_direction": "Lock to Color Road!'s native look: deep navy (#152238) ribbon track snaking through a soft pastel-pink (#FADADD) sky with abstract geometric shapes (floating cubes, pylons, arches) in the background. The ball and gate colors pop in saturated accent red (#FF4C4C) and pastel pink. No characters. Keep the real HUD chrome — score counter top-left, pause button top-right, coin tally — exactly as it appears in-game. Cursor is an oversized white glove-style pointer, intentionally clumsy. Fail moments use a quick red flash + pastel shard burst; success moments use chromatic gate-pass shimmer. Camera stays in the signature low-chase angle behind the ball.",
+  "text_overlays": [
+    "WHY IS THIS LEVEL SO HARD?",
+    "99% FAIL HERE 😬",
+    "STILL CAN'T DO IT?",
+    "CAN YOU BEAT IT?",
+    "TAP TO TRY"
+  ],
+  "cta": "Tap To Try",
+  "rationale": "Voodoo's current Color Road! rotation is all uncaptioned playables and silent gameplay videos — zero fail-bait or text-driven provocation hooks, despite fail-bait being a proven hypercasual UA pattern. This brief imports the trending \"cursor crashes, can you win?\" structure but rebuilds it natively in the pastel/dark-track DNA so click-through audiences land on a matching mechanic (no bus-crash mis-install). Ship as a 15s video first; if CTR lifts, port the same beat structure into a playable variant to refresh the AppLovin slot dated 2024-10-09.",
+  "scenario_prompts": [
+    "9:16 vertical hero frame, authentic Color Road! in-game moment: a glossy pastel-pink rolling ball speeding along a winding dark navy (#152238) ribbon track, a giant cartoon white hand-cursor clumsily dragging the ball off-line toward a saturated accent-red (#FF4C4C) wall obstacle directly ahead, soft pastel-pink (#FADADD) sky background dotted with abstract floating geometric cubes and arches, native HUD visible: score counter top-left, pause button top-right, small coin tally, minimalist 3D with abstract geometric shapes and a soft pastel background, bold white sans-serif overlay text centered top: 'WHY IS THIS LEVEL SO HARD?', no characters, low chase camera angle behind the ball. [Audio: VO (frustrated female, 22yo): 'Wait — why is this so hard?!' / energetic competitive 128 BPM punchy electro-pop with hand-clap percussion / cursor-grab whoosh at 0.5s, ominous low hum building under text slam]",
+    "9:16 vertical storyboard frame, authentic Color Road! fail beat: the pastel-pink ball mid-shatter into bright pastel shards and accent-red (#FF4C4C) sparks after smashing a mismatched red gate on the dark navy (#152238) track, motion blur lines, scattered uncollected coins bouncing off-track, soft pastel-pink (#FADADD) sky with abstract geometric shapes, native HUD score counter frozen and pause button top-right, minimalist 3D abstract geometric style, big bold white overlay text bottom-center: '99% FAIL HERE 😬', no characters, dramatic low angle. [Audio: VO: 'Nope.' / same 128 BPM competitive track drops out for impact / loud cartoon fail-buzzer + glass-shard tinkle SFX at 0.3s, beat re-enters at 1.5s]",
+    "9:16 vertical storyboard frame, authentic Color Road! success beat: the pastel-pink ball flips through a perfectly matched pink color gate while a saturated accent-red (#FF4C4C) ball-state passes a red gate next, golden coins streaming into the score counter, dark navy (#152238) ribbon track curving through a soft pastel-pink (#FADADD) sky filled with abstract geometric pylons and cubes, native HUD with rising score top-left and pause button top-right, minimalist 3D with abstract geometric shapes and a soft pastel background, bold white overlay text top: 'CAN YOU BEAT IT?', no characters, dynamic chase camera. [Audio: VO (confident): 'Think you can?' / 128 BPM energetic competitive synth-pop swelling to peak / rapid coin-chime combo SFX, satisfying gate-pass shimmer at 0.4s and 1.8s, riser into CTA]"
+  ]
+}

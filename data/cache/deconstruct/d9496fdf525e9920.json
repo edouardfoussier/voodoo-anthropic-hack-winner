@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "d9496fdf525e9920",
+    "ad_unit_id": "d9496fdf525e9920",
+    "app_id": "55c50b2202ac64f9c00022c6",
+    "advertiser_name": "PlayStation App",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a08d9b3c3b0c787/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a08d9b3c3b0c787/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0a08d9b3c3b0c787/preview",
+    "phashion_group": "d9496fdf525e9920",
+    "share": null,
+    "first_seen_at": "2026-03-11T00:00:00",
+    "last_seen_at": "2026-03-30T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Der PC-kompatible Controller",
+    "button_text": "Weitere Informationen",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cinematic reveal of the DualSense controller with bold text about PC immersion.",
+    "visual_action": "The controller appears in a glowing blue frame with floating geometric shapes.",
+    "text_overlay": "VOLLE IMMERSION AUF PC",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introductory reveal of the DualSense controller with immersion-focused text.",
+    "High-octane gameplay footage from Death Stranding 2 showcasing cinematic quality.",
+    "Graphic interlude explaining haptic feedback and adaptive trigger features.",
+    "Fast-paced action sequence from Cyberpunk 2077 demonstrating gameplay intensity.",
+    "Closing branding with the controller, 'PC READY' messaging, and PlayStation logo."
+  ],
+  "on_screen_text": [
+    "DualSense® Wireless-Controller",
+    "VOLLE IMMERSION AUF PC",
+    "DEATH STRANDING 2 ON THE BEACH",
+    "HAPTISCHEM FEEDBACK & ADAPTIVEN TRIGGERN",
+    "CYBERPUNK 2077 ULTIMATE EDITION",
+    "PC READY",
+    "PLAY HAS NO LIMITS."
+  ],
+  "cta_text": "PC READY",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#000033",
+    "#0070D1",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Hardcore PC gamers who value high-end peripherals and immersive gameplay experiences.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00178
+}

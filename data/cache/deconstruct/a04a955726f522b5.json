@@ -1,0 +1,64 @@
+{
+  "raw": {
+    "creative_id": "a04a955726f522b5",
+    "ad_unit_id": "a04a955726f522b5",
+    "app_id": "55c50b2202ac64f9c00022c6",
+    "advertiser_name": "PlayStation App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a0e5273880cdd96/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a0e5273880cdd96/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7a0e5273880cdd96/preview",
+    "phashion_group": "a04a955726f522b5",
+    "share": null,
+    "first_seen_at": "2026-04-09T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Você não controla Carcosa. Sob a influência do Eclipse, tudo muda. Desafie-se e enfrente o caos. Saros já disponível no PS5",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cinematic confrontation with a massive fiery beast.",
+    "visual_action": "A character in armor faces a giant monster jumping from a hellish landscape.",
+    "text_overlay": "14, Mistura de gameplay e gravação cinemática.",
+    "voiceover_transcript": "Não vou quebrar nossa promessa.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Cinematic intro showing a character confronting a giant fiery monster.",
+    "High-octane gameplay montage featuring melee combat and magical abilities.",
+    "Detailed breakdown of the Digital Deluxe Edition and pre-order bonuses.",
+    "Final release window announcement with PlayStation branding."
+  ],
+  "on_screen_text": [
+    "14",
+    "Mistura de gameplay e gravação cinemática.",
+    "RHABDOM",
+    "SAROS EDIÇÃO DIGITAL DELUXE",
+    "DOWNLOAD DIGITAL DO JOGO COMPLETO",
+    "ARMADURA MÃO DA ORLA",
+    "ARMADURA DA ASTRA",
+    "ARMADURA ONRYO",
+    "ARMADURA DE MIDGARD",
+    "ITEM BÔNUS DE PRÉ-VENDA",
+    "ACESSO ANTECIPADO DE 48 HORAS",
+    "DISPONÍVEL A PARTIR DE 2025",
+    "PLAY HAS NO LIMITS",
+    "JOGAR NÃO TEM LIMITES"
+  ],
+  "cta_text": "DISPONÍVEL A PARTIR DE 2025",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#003791",
+    "#000000",
+    "#ff4500"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Core action-adventure gamers looking for high-end graphics and deep combat systems on PlayStation.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001996
+}

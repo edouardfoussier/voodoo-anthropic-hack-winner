@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "target_game_id": "6754558455",
+  "title": "No. 047 — Lavender Marble Pour",
+  "hook_3s": "Glossy pastel marbles cascade in slow-mo into a labeled jar — a soft \"tink-tink-tink\" ASMR pour that immediately reads as \"oddly satisfying.\"",
+  "scene_flow": [
+    "0-3s: Macro shot on a lavender countertop. A stream of glossy 3D marbles pours from above into a clear jar labeled 'No. 047 — LAVENDER' in orange. ASMR tinks land on each marble.",
+    "3-7s: Camera pulls back to reveal three labeled jars (lavender, mint, peach). Marbles of mixed colors are now falling onto a conveyor belt — the actual game mechanic — and a finger taps to release the next tray.",
+    "7-11s: A 'wrong' marble nearly drops into the wrong jar; the player taps just in time to redirect it. A near-miss tension beat with a satisfying *click* when it lands correctly.",
+    "11-14s: Speed-ramp montage: jars filling up, level-complete sparkle, a 'Level 12' chip flips to 'Level 13'.",
+    "14-15s: End card — three full pastel jars, orange CTA button pulses."
+  ],
+  "visual_direction": "Clean, colorful 3D cartoon render with soft rounded shapes, shallow depth of field, and gentle studio lighting. Lavender (#E5DFFF) seamless backdrop with light-grey (#F0F0F8) machine/conveyor surfaces; orange (#FFB13B) reserved exclusively for jar labels, taps, and the CTA so the eye is trained where to click. Marbles are glossy with soft specular highlights — premium, tactile, ASMR-grade. Avoid harsh shadows, saturated reds, or kitchen realism; the mood is spa-calm, not pantry.",
+  "text_overlays": [
+    "No. 047 — LAVENDER",
+    "Sort the marbles 🫧",
+    "Tap to release",
+    "Don't miss!",
+    "99% can't sort them all",
+    "Level 13 →"
+  ],
+  "cta": "Play Free",
+  "rationale": "This brief preserves the proven ASMR pour-and-fill hook that won the archetype scan, but swaps the off-brand red-pepper subject for glossy pastel marbles so the first 3 seconds double as accurate gameplay representation — protecting D1 retention while keeping IPM. Lock the orange accent to taps and CTAs only; UA team should A/B the hero frame (jar pour) against a conveyor-tap variant to isolate which beat drives the install.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect ratio. Macro close-up of glossy pastel 3D marbles cascading in slow motion into a clear glass jar labeled 'No. 047 — LAVENDER' in vibrant orange (#FFB13B) text. Soft lavender (#E5DFFF) seamless backdrop, light grey (#F0F0F8) countertop surface. Clean and colorful 3D cartoon style with soft, rounded shapes. Shallow depth of field, gentle studio lighting, soft specular highlights on marbles, ASMR product-shot mood, premium and tactile. No harsh shadows.",
+    "Storyboard frame 2, 9:16 vertical aspect ratio. Three-quarter view of a light grey (#F0F0F8) conveyor-belt sorting machine with mixed pastel marbles rolling along it, dropping into three labeled jars below in lavender, mint, and peach. Orange (#FFB13B) finger-tap icon hovering over a tray with the overlay text 'Tap to release' in rounded orange type. Lavender (#E5DFFF) background. Clean and colorful 3D cartoon style with soft, rounded shapes. Calm, satisfying puzzle-game mood.",
+    "Storyboard frame 3 (end card), 9:16 vertical aspect ratio. Three full pastel marble jars side by side on a light grey (#F0F0F8) shelf against a lavender (#E5DFFF) background, sparkles around them. Large rounded orange (#FFB13B) CTA button at bottom reading 'Play Free' in white. Clean and colorful 3D cartoon style with soft, rounded shapes. Bright, celebratory, satisfying finish."
+  ]
+}

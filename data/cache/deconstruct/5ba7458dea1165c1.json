@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "5ba7458dea1165c1",
+    "ad_unit_id": "5ba7458dea1165c1",
+    "app_id": "679ad2c9e8b4ba3a4e049aab",
+    "advertiser_name": "Tetris® Block Party",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/preview",
+    "phashion_group": "5ba7458dea1165c1",
+    "share": null,
+    "first_seen_at": "2026-01-12T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Classic Tetris Meets Modern Vibes: Dive In!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A high-energy UGC sequence of a person rushing home to play the game.",
+    "visual_action": "A young man enters his home, drops his bag, and dives onto his bed with a tablet in hand.",
+    "text_overlay": "POV: When I got home, I opened Tetris Block Party.",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Live-action UGC of a person rushing home and jumping on a bed to play.",
+    "Gameplay footage showing high-score multipliers and colorful block clearing.",
+    "3D animation of a blue block character celebrating in a neon disco setting.",
+    "Final call-to-action screen with download links and search prompt."
+  ],
+  "on_screen_text": [
+    "POV: When I got home, I opened Tetris Block Party.",
+    "DOUBLE x2",
+    "Join PVP anytime and anywhere and play with friends",
+    "PLAY EPIC TETRIS!",
+    "DOWNLOAD TETRIS BLOCK PARTY",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 7.0,
+  "palette_hex": [
+    "#8A2BE2",
+    "#FFD700",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual gamers and Tetris fans who enjoy competitive social play and high-energy visuals.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00148
+}

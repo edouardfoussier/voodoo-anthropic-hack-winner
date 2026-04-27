@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_SwLQSaHWp7QHm7NSafJCK8Ri?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfU3dMUVNhSFdwN1FIbTdOU2FmSkNLOFJpP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=RVX6Qkxk%7ESvQ%7EgHPvs2DkPHdAr4CR6xbOpKMeqhAobUeb8mwaNxoAXSkqx0FeBgNiDuo5BtgsFu4LPzjxW%7E9nwfe33RwldU-fRVk14ZVGvAYTRqHhiJeSRyq2%7EIQTDZnUW0OLH2R-toKUOs5wRdXaSrPhBrzHjdZxathNR-HKlCbxA1e-C3oIoZ5XX0KJJNyNhUgK97WItjHvQQpYeprc1n4LO59LNhmvgn5duu%7EfXdrbYc0aU-KqZlHqr1lCFFIcdQPEQjvPiP4DXvUapEFGOT8haHl3PxO5h89w6fnShsZ8PygWD5oPGwuzx1v5SC1IDTTAhqNyb3QiElnRqJ9tA__",
+  "job_id": "job_nnpu9kS9sRhJewzGdkbyW484",
+  "asset_id": "asset_SwLQSaHWp7QHm7NSafJCK8Ri",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect ratio, Mystical Minimalism style. A glowing golden filigree portrait of a famous-looking face emerging from pure near-black void (#100D06), constructed from luminous golden-yellow lines (#D4A024) with bright pale-gold highlights (#FCE588) like cracks of light. Half the face is illuminated, half dissolves into darkness. Centered on-screen text in elegant serif gold: 'Can you name them?' Cinematic, premium, oracle-like, sophisticated, no clutter, negative space dominant.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

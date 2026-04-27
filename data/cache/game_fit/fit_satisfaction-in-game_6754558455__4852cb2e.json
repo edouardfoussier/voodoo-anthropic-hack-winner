@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 55,
+  "mechanic_match": 68,
+  "audience_match": 85,
+  "overall": 70,
+  "rationale": "Audience overlap is strong — \"relaxed sorting\" hooks index well with the casual 25-55 female puzzle demo Marble Sort! targets, and the satisfaction emotional pitch matches the game's calm/satisfying UI mood. However, there's clear friction: the bus/passenger color-sort metaphor is a different IP entirely and showing it risks bait-and-switch (low mechanic fidelity to the actual marble-on-conveyor physics loop), plus the member palette (steel blue + coral red) clashes with the game's pastel lavender + orange identity. Recommend adapting the hook structure (hand + stylus + \"actually relaxing?\" VO) but reshooting with real Marble Sort! gameplay and recoloring overlays to the lavender/orange brand before scaling spend."
+}

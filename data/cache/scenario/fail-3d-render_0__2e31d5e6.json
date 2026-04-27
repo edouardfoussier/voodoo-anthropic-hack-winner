@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_3Qzze1w8cvcLxqYz5PyVMBf6?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM1F6emUxdzhjdmNMeHFZejVQeVZNQmY2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=L0863nnQ4ryKK4Z2r1x%7EkGLZcbDogiJodhwqaC9F61RhQu0Rauqd6o9afKfCinFcj1syprqirOeYeE4%7EtgX6S5G4MeL-fnfWe9zL9Op6rKBFJR80TVEFcaaK7Cf7a7XSwM5YeQJ8kQs9ttENFamcRb7I9jB4R5kPrZ29DNzDn08CHrsUi99ExBelT3iex16FnOnRC8u7rfTvStuF24UnZ8U%7EXKmhVefVYq-xKoOyUZoNLmaj8ATYVZzLX4ybJZCRCjRjvN96HTAAP-oh0dNiMAGry%7E3Xr-0y4zBE%7EVzMvEHV5I0knVyLAR%7EBQ4vGx2bGkjJ3KgcJDoecSfREGXvYOA__",
+  "job_id": "job_Pyx8nrxs25i3VdhQubxeRLwZ",
+  "asset_id": "asset_3Qzze1w8cvcLxqYz5PyVMBf6",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, in-game screenshot of Roof Rails: behind-the-shoulder view of a runner mid-slide on a stark white #EAF6FA rooftop rail between two low-poly pastel skyscrapers, bright cyan #5CD6FF sky gradient, a flat yellow #FFC824 circular saw with triangular teeth slicing the long balancing pole in half, glowing yellow pole-piece collectibles floating ahead, magenta diamond pickups, authentic HUD with top-center progress bar and top-left diamond counter and level indicator pill, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, bold white sans-serif on-screen text 'OH NO!' centered, no textures, soft global lighting",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

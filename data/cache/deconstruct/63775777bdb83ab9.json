@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "63775777bdb83ab9",
+    "ad_unit_id": "63775777bdb83ab9",
+    "app_id": "6024d92ffc2aa03e6d63fad7",
+    "advertiser_name": "Umamusume: Pretty Derby",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0110bae45a936c0a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0110bae45a936c0a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0110bae45a936c0a/preview",
+    "phashion_group": "63775777bdb83ab9",
+    "share": null,
+    "first_seen_at": "2026-01-08T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Win races. Defy limits.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Introduction of the character Mejiro Dober with a shy, soft-spoken greeting.",
+    "visual_action": "A close-up of an anime girl's face with a bright light bloom effect, transitioning to her standing in a racing outfit.",
+    "text_overlay": "I'm Mejiro Dober. It's um... a pleasure.",
+    "voiceover_transcript": "Mejiro Dober desu. Sono... yoroshiku.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Close-up character introduction with soft lighting and bloom effects.",
+    "Full-body reveal of the character in a green and white racing uniform against a sunset sky.",
+    "Static character profile card showing name, voice actor, and a motivational quote.",
+    "Final splash screen featuring the full game cast and the official logo."
+  ],
+  "on_screen_text": [
+    "I'm Mejiro Dober. It's um... a pleasure.",
+    "Mejiro Dober",
+    "VA: Hikari Kubota",
+    "UMAMUSUME",
+    "I want to change! That's what keeps me running!",
+    "Play Now!",
+    "UMAMUSUME PRETTY DERBY"
+  ],
+  "cta_text": "Play Now!",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#2E7D32",
+    "#87CEEB"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of anime-style character collection games and horse racing simulations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017139999999999998
+}

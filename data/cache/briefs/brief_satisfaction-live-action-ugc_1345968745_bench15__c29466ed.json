@@ -1,0 +1,27 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "1345968745",
+  "title": "\"Just One More Drop\" — UGC Reaction × Helix Smash",
+  "hook_3s": "POV phone shot: thumb rotates the neon helix tower, ball plummets through 8 rings in one go — off-camera friend gasps \"bro how?!\"",
+  "scene_flow": [
+    "0–3s: Vertical selfie-style shot, young woman lying on couch, phone held above her face. Screen fills 70% of frame showing Helix Jump's cyan tower + neon green ball mid-bounce. Text overlay slams in.",
+    "3–7s: Cut to over-the-shoulder of the screen. Thumb swipes, tower rotates, ball smashes through three red trap rings turning them into shrapnel. Combo multiplier x5 pops. She mouths 'no way'.",
+    "7–11s: Tight phone-screen close-up (UI dominates frame). Ball free-falls through a long gap — screen tints neon green, 'PERFECT DROP' flashes. She sits up, fist pump.",
+    "11–15s: Friend off-camera: 'one more round?' She grins, screen cuts to a clean Helix Jump gameplay loop with download CTA stamping over the tower."
+  ],
+  "visual_direction": "Authentic UGC handheld energy (slight phone shake, warm room lighting, no studio polish) but the PHONE SCREEN is the hero — saturated, high-contrast Helix Jump gameplay dominates 60–75% of every frame. Cyan #5CE1E6 tower stack, neon green #39FF14 bouncing ball, red #FF0000 trap rings exploding into geometric shards. 3D minimalist tower geometry, no extra ornamentation. Cuts are quick (1–2s) to mirror the bounce rhythm. Real human reactions stay short and reactive — the game does the bragging, not the talent.",
+  "text_overlays": [
+    "POV: I cannot put this down 😩",
+    "rotate → drop → SMASH",
+    "x5 COMBO 🔥",
+    "PERFECT DROP",
+    "your turn ⬇️"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Helix Jump rotation is 100% in-engine gameplay video and Unity playables with zero copy or human presence — there is no UGC/reaction angle in market. This brief injects the trending live-action satisfaction archetype while fixing the archetype's core weakness (it hides the loop) by forcing the phone screen to dominate the frame and swapping the fake \"level 55 brag\" for a real, game-native \"perfect drop combo\" payoff. UA should test this as the social-feed/TikTok-native variant against the existing clean gameplay creatives.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic UGC selfie-style photo: young woman lying on a couch holding a smartphone above her face, phone screen dominates 70% of the composition showing an in-game Helix Jump moment — a vertical stacked cyan #5CE1E6 helix tower with rotating platform discs, a glowing neon green #39FF14 bouncing ball mid-air between two discs, bright red #FF0000 trap segments on one disc, small score counter and combo multiplier in the top-left HUD exactly like Helix Jump, lighter pastel background inside the game screen, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters inside the game, on-screen text overlay 'POV: I cannot put this down', warm natural room lighting outside the phone, slight handheld feel, photorealistic UGC",
+    "Storyboard frame, aspect 9:16, extreme close-up of a smartphone screen filling the entire frame showing authentic Helix Jump gameplay: cyan #5CE1E6 cylindrical helix tower with multiple rotating ring platforms, neon green #39FF14 ball smashing through a red #FF0000 trap segment that is shattering into small geometric polygon shards, motion blur on the ball, score '00482' top-left and 'x5 COMBO' multiplier badge top-center in clean sans-serif HUD matching Helix Jump UI, lighter cyan gradient background inside the tower, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, bold on-screen text overlay 'rotate → drop → SMASH'",
+    "Storyboard frame, aspect 9:16, UGC over-the-shoulder shot of a young person's hand holding a phone, thumb on the screen mid-swipe, phone screen clearly readable showing Helix Jump: long vertical drop down the cyan #5CE1E6 helix tower, neon green #39FF14 ball free-falling past several rotating discs with red #FF0000 danger zones, screen edges flashing neon green, 'PERFECT DROP' text flashing in the center of the game screen, level progress bar on the right side of the HUD, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters inside the game, cozy bedroom background slightly out of focus, on-screen text overlay 'PERFECT DROP'"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "raw": {
+    "creative_id": "63dcdf142447f70a",
+    "ad_unit_id": "63dcdf142447f70a",
+    "app_id": "65c2051af92d245931d53910",
+    "advertiser_name": "Brain Test All-Star: IQ Boost",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e75a4515d535bb00/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e75a4515d535bb00/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e75a4515d535bb00/preview",
+    "phashion_group": "63dcdf142447f70a",
+    "share": null,
+    "first_seen_at": "2025-12-01T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Can you solve them all?",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A character is annoyed by a slamming door, and the player must find a way to stop it.",
+    "visual_action": "A finger drags a green ottoman in front of a slamming door to block it.",
+    "text_overlay": "The door keeps slamming. Stop it!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "A character is shown annoyed by a slamming door with a prompt to stop it.",
+    "A hand drags a green ottoman to block the door, solving the puzzle.",
+    "A new level appears where the player must fix a washing machine by plugging it in.",
+    "The washing machine starts working, and a green checkmark appears.",
+    "Final end card displays the game title 'BRAIN TEST 4' and various level previews with a 'PLAY NOW' button."
+  ],
+  "on_screen_text": [
+    "The door keeps slamming. Stop it!",
+    "The washing machine is not working!",
+    "BRAIN TEST 4",
+    "LEVEL 28",
+    "Dr Worry needs to get blood samples from that fly.",
+    "LEVEL 40",
+    "I must help Granny Amy!",
+    "LEVEL 17",
+    "Wake up Uncle Bobba.",
+    "LEVEL 45",
+    "I must please that cute cat.",
+    "LEVEL 1",
+    "Tap on the biggest flower.",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#FDF5E6",
+    "#8B4513",
+    "#FFD700"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual puzzle game players who enjoy brain teasers and logic-based problem solving.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001931
+}

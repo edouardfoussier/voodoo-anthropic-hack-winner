@@ -1,0 +1,50 @@
+{
+  "raw": {
+    "creative_id": "a143b6d8f987669c",
+    "ad_unit_id": "a143b6d8f987669c",
+    "app_id": "57db92923858f271a0000b40",
+    "advertiser_name": "Jigsaw Puzzle - Classic Puzzle",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4d60d02d422cbd52/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4d60d02d422cbd52/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4d60d02d422cbd52/preview",
+    "phashion_group": "a143b6d8f987669c",
+    "share": null,
+    "first_seen_at": "2026-04-01T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1028,
+    "message": "BTS of our latest denim edit shoot #bts #onset #denimedit #denimlooks",
+    "button_text": "Order yours now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A fast-paced behind-the-scenes look at a professional fashion photoshoot.",
+    "visual_action": "A model in orange sunglasses is styled followed by rapid cuts of makeup products and a brush dipping into powder.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Styling the model and preparing makeup products with quick aesthetic cuts.",
+    "Model posing in various denim outfits against a clean white studio backdrop.",
+    "Technical crew adjusting studio lighting and reviewing digital proofs on a laptop.",
+    "Stylist making fine adjustments to the model's clothing during the shoot.",
+    "Final high-fashion poses showcasing the completed denim looks."
+  ],
+  "on_screen_text": [],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#2C3E50",
+    "#FFFFFF",
+    "#1A1A1A"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Fashion-conscious women interested in high-end apparel and behind-the-scenes creative processes.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001221
+}

@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "be3c6d8fe87dbbd7",
+    "ad_unit_id": "be3c6d8fe87dbbd7",
+    "app_id": "66c292ff6bbfce0e306de36b",
+    "advertiser_name": "Pokémon TCG Pocket",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0026696102e823b2/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0026696102e823b2/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0026696102e823b2/preview",
+    "phashion_group": "be3c6d8fe87dbbd7",
+    "share": null,
+    "first_seen_at": "2026-04-21T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A relaxing showcase of a Sinistea card on a smartphone screen with soft purple text overlays.",
+    "visual_action": "The camera focuses on a smartphone displaying a Pokémon card while calm text animations appear.",
+    "text_overlay": "ポケポケで ホッと 一息つきませんか？",
+    "voiceover_transcript": "ポケポケで、ホッと一息つきませんか？",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction of the game with a focus on a single Pokémon card (Sinistea) to set a calm mood.",
+    "Transition to showing multiple cards like Indeedee to emphasize collection variety.",
+    "A collage of various Pokémon cards highlighting the 'healing' and relaxing theme of the game.",
+    "Final screen with app store links and a call to download alongside promotional login rewards."
+  ],
+  "on_screen_text": [
+    "「30日プレゼント」ミッション開催中！",
+    "ポケポケで",
+    "ホッと",
+    "一息つきませんか？",
+    "スキマ時間にスマホで、",
+    "ポケモンに囲まれる癒しのひと時",
+    "毎日のログインで特別な報酬や最大30パック分のパック砂時計を手に入れよう！",
+    "今すぐログインで ×10パック分ゲット！",
+    "毎日2パック無料で開封",
+    "今すぐダウンロード"
+  ],
+  "cta_text": "今すぐダウンロード",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#87CEEB",
+    "#9370DB",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual Pokémon fans and mobile gamers looking for a relaxing, low-stress collection experience.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0019060000000000001
+}

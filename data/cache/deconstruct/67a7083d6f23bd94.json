@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "67a7083d6f23bd94",
+    "ad_unit_id": "67a7083d6f23bd94",
+    "app_id": "622390aa2e0fa027dbdc26b8",
+    "advertiser_name": "Block Blast!",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/preview",
+    "phashion_group": "67a7083d6f23bd94",
+    "share": null,
+    "first_seen_at": "2026-04-24T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid block placement clearing a green grid.",
+    "visual_action": "Blocks are placed quickly into a grid, filling it up while a progress bar moves from 'SMART' to 'GENIUS'.",
+    "text_overlay": "SMART GENIUS PSYCHOPATH",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Fast-paced gameplay showing a green grid being filled and cleared.",
+    "Transition with fireworks and 'All Clear!' text.",
+    "Gameplay continues with yellow blocks and a higher score.",
+    "Final end card with game logo and download buttons."
+  ],
+  "on_screen_text": [
+    "SMART",
+    "GENIUS",
+    "PSYCHOPATH",
+    "0",
+    "All Clear!",
+    "UNBELIEVABLE",
+    "5000",
+    "BLOCK BLAST",
+    "HUNGRY STUDIO",
+    "Download on the App Store",
+    "GET IT ON Google Play"
+  ],
+  "cta_text": "BLOCK BLAST",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#2E8B57",
+    "#FFD700",
+    "#4169E1"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle gamers who enjoy satisfying, high-speed block-matching mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001667
+}

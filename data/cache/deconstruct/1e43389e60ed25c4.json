@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "1e43389e60ed25c4",
+    "ad_unit_id": "1e43389e60ed25c4",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b3730631166494a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b3730631166494a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8b3730631166494a/preview",
+    "phashion_group": "1e43389e60ed25c4",
+    "share": null,
+    "first_seen_at": "2025-12-17T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Upgrade your bot, dominate the arena, win glory!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced mech combat resulting in immediate kill feedback.",
+    "visual_action": "A heavy mech fires dual gatling guns at an enemy robot in a mountain arena, triggering a 'KILL' notification.",
+    "text_overlay": "KILL",
+    "voiceover_transcript": "Kill.",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Player mech engages an enemy robot with heavy machine gun fire in a rocky valley.",
+    "Enemy is destroyed, displaying a large 'KILL' UI overlay and triggering a deep voiceover.",
+    "Player continues firing at a second target, achieving a 'DOUBLE KILL' notification.",
+    "The screen cuts to a black background with a high-contrast 'INSTALL NOW' call to action."
+  ],
+  "on_screen_text": [
+    "KILL",
+    "DOUBLE KILL",
+    "INSTALL NOW"
+  ],
+  "cta_text": "INSTALL NOW",
+  "cta_timing_seconds": 4.5,
+  "palette_hex": [
+    "#4B5320",
+    "#000000",
+    "#FFFFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Mid-core to hardcore male gamers interested in tactical mech warfare and high-intensity shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001258
+}

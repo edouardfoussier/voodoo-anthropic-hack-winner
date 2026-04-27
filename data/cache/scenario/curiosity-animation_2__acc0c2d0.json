@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_LbeGpuSbBfdJEU1z14Yia6zN?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTGJlR3B1U2JCZmRKRVUxejE0WWlhNnpOP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=BbHZ5Jf01mDcEKqinLru3EnMYofs8bc1ZrmR4bvlhweqn-zzqzvEEy-svz3f8zu64T2qUKzSJBzi7WNak6CMZW-XVua3Yh5tJOFk6vbyKeyeJXu9Y70tZmlQweMc8MYIuDEMw6XWWKXxVUvlm6oPXBMnSEUmr-PbWY%7Ev3g1kW%7EAy2xfzJwBqJY1qz19hz0%7E304fnTVgpJpPuwsHvf3Yntxfk%7EWbJDH2Z3ODe8tEVJASyRdOUMV710djyAdQeUXp2IA%7EijVe0cyx6LYCALhUjwMZkwQ5wlt59mhXjdSwCITdgnwOjYA3t8uPXmI8aUwAYPxdw9-M9iGpkVV4R40dN2A__",
+  "job_id": "job_ghmyyYYPuL4KxdhmWKqr6gYQ",
+  "asset_id": "asset_LbeGpuSbBfdJEU1z14Yia6zN",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, Minimalist 3D with bright, contrasting colors and simple geometric shapes. Vertical cross-section view: top third shows the #AEE2FF pool surface with splash ripples, bottom two-thirds reveal a hidden underwater shaft descending past geometric layers \u2014 pink coral-block formations, purple #C754D9 crystal caverns, a deep glowing void. The #FF007F ragdoll is shown as a small silhouette sinking through the layers. Depth counter HUD spinning '-347m' in a purple banner. Bold overlay text '-200m' flashing in pink. Game's native flat-shaded style, no realism. [Audio: VO (wide-eyed) 'No way\u2026' / calm satisfying lo-fi swelling at 85 BPM / bubbling underwater SFX, rapid tick-tick-tick on depth counter, low purple synth drone as layers reveal]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

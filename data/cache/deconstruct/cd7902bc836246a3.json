@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "cd7902bc836246a3",
+    "ad_unit_id": "cd7902bc836246a3",
+    "app_id": "60c2ee36c168494d243056a1",
+    "advertiser_name": "【ポーカー】ｍHOLD'EM(エムホールデム)",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bffb87f9f5afc60/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bffb87f9f5afc60/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bffb87f9f5afc60/preview",
+    "phashion_group": "cd7902bc836246a3",
+    "share": null,
+    "first_seen_at": "2026-03-04T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "本格ポーカーが楽しめるアプリで中毒者続出",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy intro featuring anime characters on cards and a logo reveal.",
+    "visual_action": "Anime character cards frame the top and bottom while a poker chip spins in the center to reveal the game logo.",
+    "text_overlay": "勝ち上がれ 究極のマインドスポーツ！ 好評配信中",
+    "voiceover_transcript": "勝ち上がれ、究極のマインドスポーツ！エムホールデム！",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "High-energy intro with character cards and logo reveal.",
+    "Messaging about accessibility for both beginners and pros over character art.",
+    "Showcase of free-to-play Texas Hold'em and online multiplayer features with gameplay footage.",
+    "Closing splash screen with the full cast and game title."
+  ],
+  "on_screen_text": [
+    "勝ち上がれ 究極のマインドスポーツ！",
+    "好評配信中",
+    "M HOLD'EM",
+    "初心者も本格派も楽しめる",
+    "テキサスホールデムが無料で遊べる！",
+    "全国のプレイヤーとオンライン対戦可能！"
+  ],
+  "cta_text": "好評配信中",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#2E8B57",
+    "#0056B3",
+    "#FFD700"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Japanese gamers who enjoy anime-themed competitive card games and Texas Hold'em.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017590000000000001
+}

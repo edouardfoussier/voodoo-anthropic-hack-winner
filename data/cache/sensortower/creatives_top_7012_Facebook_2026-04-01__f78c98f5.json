@@ -1,0 +1,162 @@
+{
+  "count": 1562,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "a501f1d09aa3b810",
+      "app_id": "582219400211a6c9240005fc",
+      "network": "Facebook",
+      "phashion_group": "a501f1d09aa3b810",
+      "ad_type": "video",
+      "first_seen_at": "2025-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a501f1d09aa3b810",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Now",
+          "button_text": "Play Game",
+          "message": "Fun puzzles & stories."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "582219400211a6c9240005fc",
+        "canonical_country": "US",
+        "name": "Gardenscapes",
+        "publisher_name": "Playrix",
+        "publisher_id": "5614b8de3f07e25d29001b9e",
+        "humanized_name": "Gardenscapes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/64/1e1964c3-4291-3b5f-c6e0-dae70c445d99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "582219400211a6c9240005fc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "422f7b98098a7efe",
+      "app_id": "5d3fa01b5c6ace393f6dc2b4",
+      "network": "Facebook",
+      "phashion_group": "422f7b98098a7efe",
+      "ad_type": "video",
+      "first_seen_at": "2023-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "422f7b98098a7efe",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play MindPal Now!",
+          "button_text": "Play Game",
+          "message": "Play fun games to test your brain skills including problem solving, memory, attention and language. Play now to compare your brain score with your friends! \ud83d\ude80"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d3fa01b5c6ace393f6dc2b4",
+        "canonical_country": "US",
+        "name": "MindPal - Brain Training Games",
+        "publisher_name": "Elektron Labs",
+        "publisher_id": "5d3fa01b5c6ace393f6dc2b3",
+        "humanized_name": "MindPal - Brain Training Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/de/02/bede025c-9381-2b0e-f31e-a1fd8bd13d4f/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d3fa01b5c6ace393f6dc2b4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d3bcb2c797884895",
+      "app_id": "57d6bb900211a6b7290001a8",
+      "network": "Facebook",
+      "phashion_group": "d3bcb2c797884895",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-24",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "d3bcb2c797884895",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/240d92a37725b9e5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/240d92a37725b9e5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/240d92a37725b9e5/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Merge NOW!",
+          "button_text": "Install Now",
+          "message": "Happy Merge! Unlock the mystery of Dragonia! \ud83e\udd29"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "57d6bb900211a6b7290001a8",
+        "canonical_country": "US",
+        "name": "Merge Dragons!",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Merge Dragons!",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ff/18/f9ff18e4-e3df-44b8-0d1c-b07c55df3b22/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "57d6bb900211a6b7290001a8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d0459abb846287bf",
+      "app_id": "5e62eb6af57acf2bd0bb6508",
+      "network": "Facebook",
+      "phashion_group": "d0459abb846287bf",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-06",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "d0459abb846287bf",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9e079464fda11127/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9e079464fda11127/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9e079464fda11127/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Choose Your House!",
+          "button_text": "Install Now",
+          "message": "Customize your magical Match-3 journey."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5e62eb6af57acf2bd0bb6508",
+        "canonical_country": "US",
+        "name": "Harry Potter: Puzzles & Spells",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Harry Potter",
+        "icon_url": "https://play-lh.googleusercontent.com/Z-5hlAbk7lLyNfXrh5rVVkaBrqTzoGGUtIVzhLa7zJGEEviLps7DxhQTKiCrXLDlKxw=s150",
+        "os": "unified",
+        "id": "5e62eb6af57acf2bd0bb6508",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

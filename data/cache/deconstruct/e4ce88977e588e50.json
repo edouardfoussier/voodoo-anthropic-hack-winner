@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "e4ce88977e588e50",
+    "ad_unit_id": "e4ce88977e588e50",
+    "app_id": "66c292ff6bbfce0e306de36b",
+    "advertiser_name": "Pokémon TCG Pocket",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/81db4098e41d387d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/81db4098e41d387d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/81db4098e41d387d/preview",
+    "phashion_group": "e4ce88977e588e50",
+    "share": null,
+    "first_seen_at": "2025-11-13T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "ポケポケは、バトルだけじゃない！気軽にコレクションを楽しもう",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid-fire showcase of legendary bird Pokémon cards with nostalgic Japanese narration.",
+    "visual_action": "Articuno, Zapdos, and Moltres GX cards fly into the frame against a dark, glowing background with kinetic text.",
+    "text_overlay": "あの頃の 憧れの ポケモンを",
+    "voiceover_transcript": "あの頃の、憧れの、ポケモンを",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Articuno GX card reveal with nostalgic text overlay.",
+    "Zapdos GX card flashes on screen with energetic sound effects.",
+    "Moltres GX card appears, completing the sentence about collecting Pokémon.",
+    "Transition to a smartphone screen showing the digital card collection interface.",
+    "Final end card featuring the game logo, '2 packs free daily' offer, and download buttons."
+  ],
+  "on_screen_text": [
+    "あの頃の",
+    "憧れの",
+    "ポケモンを",
+    "ポケポケで コレクションしよう",
+    "毎日2パック無料!",
+    "Pokémon TRADING CARD GAME Pocket",
+    "今すぐダウンロード"
+  ],
+  "cta_text": "今すぐダウンロード",
+  "cta_timing_seconds": 4.5,
+  "palette_hex": [
+    "#1a1108",
+    "#f7d94c",
+    "#ffffff"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Nostalgic Pokémon fans and card collectors aged 20-40 who enjoy digital collecting.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001584
+}

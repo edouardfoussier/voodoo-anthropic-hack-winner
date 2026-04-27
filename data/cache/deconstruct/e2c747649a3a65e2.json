@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "e2c747649a3a65e2",
+    "ad_unit_id": "e2c747649a3a65e2",
+    "app_id": "6884386ecaf624b94c5544cd",
+    "advertiser_name": "Jigblock Puzzle - Jigsaw",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/preview",
+    "phashion_group": "e2c747649a3a65e2",
+    "share": null,
+    "first_seen_at": "2026-03-13T00:00:00",
+    "last_seen_at": "2026-04-03T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A cartoon hand clicks on tiles in a landscape grid to reveal a hidden background.",
+    "visual_action": "A white cartoon hand clicks on various tiles in a 4x4 grid of landscape photos, making them disappear to reveal a parchment-like texture.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A grid of landscape photos is shown with a cartoon hand clicking tiles.",
+    "Tiles disappear one by one to reveal a parchment-style background underneath.",
+    "The scene transitions to a green background where a jigsaw puzzle of a famous painting is assembled.",
+    "The final screen displays the game title 'Jigblock Puzzle Jigsaw' and a 'Play' button."
+  ],
+  "on_screen_text": [
+    "Jigblock Puzzle Jigsaw",
+    "Play"
+  ],
+  "cta_text": "Play",
+  "cta_timing_seconds": 13.5,
+  "palette_hex": [
+    "#008000",
+    "#E6D5B8",
+    "#4B3621"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy relaxing, tile-matching, and jigsaw mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001591
+}

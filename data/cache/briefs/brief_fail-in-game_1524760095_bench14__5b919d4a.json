@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-in-game",
+  "target_game_id": "1524760095",
+  "title": "Roof Rails — \"99% Fail This Rail\" Pole-Shear Bait",
+  "hook_3s": "A fat pole barrels toward a spinning saw — and shears clean in half one piece short of the finish.",
+  "scene_flow": [
+    "0-2s: Third-person runner sprints across a cyan rooftop, scooping yellow pole pieces; pole grows fast, progress bar fills to 80%.",
+    "2-6s: Player launches onto a long white rail between skyscrapers, balancing a now-massive horizontal pole — combo chimes, diamonds tick up.",
+    "6-10s: A red spinning saw appears mid-rail; pole clips it and SNAPS — pieces tumble into the cyan void, character wobbles.",
+    "10-13s: Freeze-frame on the broken pole tip inches from the goal platform, big red 'FAIL' stamp, level indicator flashes.",
+    "13-15s: Replay teaser: same rail, pole perfectly clears the saw — cut to CTA card."
+  ],
+  "visual_direction": "Authentic Roof Rails in-game camera: low third-person chase, bright cyan #5CD6FF sky and building tops, stark white #EAF6FA rooftop path and rails, vibrant yellow #FFC824 pole pieces and diamond pickups, magenta saw obstacles. 3D minimalist geometry, no textures, soft ambient occlusion, clean HUD with progress bar top-center, diamond counter top-right, level indicator top-left. Keep the signature stylized runner character and the horizontally-extending pole physics front and center — no stock-runner tropes, no extra clutter.",
+  "text_overlays": [
+    "99% fail this rail 😳",
+    "Collect ALL the pieces…",
+    "ONE saw left…",
+    "SO CLOSE 💀",
+    "Can YOU clear it?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Roof Rails rotation is almost entirely no-copy gameplay videos and a playable — zero fail-bait or challenge-question hooks. This brief imports the proven \"fail · in-game + can-you-win?\" framing from the market scan but rebuilds it natively around pole-shearing on a saw, so it stays IP-faithful while opening a new emotional lane (frustration/curiosity) the rotation doesn't have. UA: A/B test against the existing silent gameplay videos on AppLovin; expect lift on IPM from comment-bait copy.",
+  "scenario_prompts": [
+    "Authentic Roof Rails in-game screenshot, 9:16 vertical mobile aspect, third-person chase camera behind the stylized minimalist runner character sprinting along a stark white #EAF6FA rooftop rail between cyan #5CD6FF skyscrapers, balancing a massive horizontal pole made of glowing yellow #FFC824 segments, a magenta spinning saw obstacle dead ahead about to shear the pole, yellow diamond pickups floating along the rail, HUD: progress bar top-center at 80%, diamond counter top-right, level indicator top-left, 3D minimalist style with simple geometry, bright pastel colors, clean uncluttered aesthetic, bold white on-screen text '99% FAIL THIS RAIL 😳'. [Audio: VO (anxious male, gen-z) 'bro nobody clears this…' / 140bpm punchy competitive trap, sub-heavy / collect-chime stack 0-2s, tense riser 2-4s, sharp metallic SAW-SHEAR crack at 4.5s.]",
+    "Authentic Roof Rails in-game freeze-frame, 9:16 vertical, third-person view of the runner mid-stumble on the white #EAF6FA rail, his yellow #FFC824 pole snapped in two with pieces tumbling into the cyan #5CD6FF void below, magenta saw still spinning behind, goal platform visible just ahead unreached, HUD progress bar frozen at 99%, diamond counter top-right, level indicator top-left, 3D minimalist simple geometry, bright pastel palette, clean uncluttered aesthetic, huge red stamp text 'SO CLOSE 💀' center-screen. [Audio: VO 'ONE piece short!' / beat drops out to single suspended synth / wood-snap + low fail-buzzer at 0.3s, crowd 'ohhh' at 1s.]",
+    "Authentic Roof Rails in-game hero frame, 9:16 vertical, third-person low-angle behind the minimalist runner character launching from a cyan #5CD6FF rooftop onto a long white #EAF6FA rail, oversized horizontal yellow #FFC824 pole catching sunlight, trail of yellow pole pieces and diamonds curving ahead, distant magenta saws spinning on the rail, HUD progress bar top-center, diamond counter top-right, level indicator top-left, 3D minimalist simple geometry, bright pastel colors, clean uncluttered aesthetic, bold yellow on-screen text 'CAN YOU CLEAR IT?'. [Audio: VO (challenging) 'your turn — tap to try' / 140bpm energetic competitive trap build / whoosh on launch 0.5s, rising chime ladder 1-3s, button-tap click at 4.8s.]"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-animation",
+  "target_game_id": "6458097001",
+  "title": "One-Shot Wonder: The Golden Arrow Finisher",
+  "hook_3s": "Drawstring creaks, golden arrow ignites blue-and-gold sparks — release for one impossible, screen-shaking bullseye.",
+  "scene_flow": [
+    "0-3s: Tight close-up of the female archer drawing her bow on a duel platform — golden energy crackles around the arrowhead, aim trajectory line snaps into place across the screen.",
+    "3-7s: Slow-mo release. The arrow rockets down the trajectory arc, splitting through three target rings and a stack of barrels with satisfying chained impacts.",
+    "7-11s: Arrow strikes the rival duelist — their HP bar empties in one shockwave hit, KO badge slams in, coins and a legendary bow chest burst from the impact.",
+    "11-14s: Quick gear-upgrade montage: legendary bow tier-up animation with green +stat numbers popping, rarity backgrounds glowing yellow.",
+    "14-15s: Cut to game logo over the duel arena with CTA button pulsing."
+  ],
+  "visual_direction": "Lean fully into Archery Clash!'s bright-blue arena banners (#2A9DF4) with vibrant yellow trajectory arcs and rarity glows (#FFD700), and green upgrade/stat pops (#32CD32). 3D stylized characters with slightly cartoonish proportions but realistic rim-lighting on the bow and arrow. Energy effects should feel premium-mobile, not anime — chunky particle bursts, screen-shake on impact, and slow-mo at the release frame to sell the \"satisfying one-shot\" beat. Keep the in-game HUD (health bars, turn indicator, gear slots) visible at all times so the ad reads as authentic gameplay.",
+  "text_overlays": [
+    "One shot. One kill.",
+    "Line up the perfect arc…",
+    "BULLSEYE!",
+    "+LEGENDARY BOW",
+    "Can YOU pull it off?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Archery Clash! rotation is dominated by silent playables and a self-aware \"I paid for this ad\" UGC video — they have ZERO satisfaction/finisher-animation creatives in market. This brief borrows the trending charge→release→spectacular-finisher beat from the archetype WITHOUT the Dragon Ball IP, translating it natively to bow-and-arrow mechanics where it actually communicates the core loop. UA team: run this against young-male PvP audiences as a video-to-playable handoff; the one-shot KO fantasy is a proven CTR driver this account isn't currently exploiting.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16: authentic Archery Clash! in-game duel screenshot, female archer protagonist mid-draw on a stylized blue duel platform, glowing golden arrow nocked with vibrant yellow (#FFD700) sparks, aiming trajectory arc rendered as a dotted yellow parabola arcing toward an opponent across the arena, bright blue (#2A9DF4) banners and arena railings, green (#32CD32) HP bar and +stat indicators visible in the HUD, turn-based duel UI chrome with gear slots and coin counter at top, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, cinematic rim-light on bowstring, on-screen text 'One shot. One kill.' in bold yellow with blue stroke. [Audio: VO 'One shot… one kill.' (confident female whisper) / punchy upbeat trap at 95 BPM with rising tension riser / bowstring creak at 0s, energy crackle at 2s, deep sub-drop on final word.]",
+    "Storyboard frame, aspect 9:16: authentic Archery Clash! gameplay moment, slow-motion golden arrow piercing through three concentric target rings mid-air above the duel arena, vibrant yellow (#FFD700) impact sparks and motion-blur trail, bright blue (#2A9DF4) arena background with stylized crowd silhouettes, opponent's red HP bar shattering into green (#32CD32) damage numbers, in-game HUD with turn indicator and gear icons preserved at screen edges, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, screen-shake debris particles, on-screen text 'BULLSEYE!' in massive yellow display font centered. [Audio: VO 'Bullseye!' (triumphant male hype) / energetic competitive trap drop at 100 BPM / whoosh on arrow flight, triple-chime on ring pierce, bass-boom impact at 2.5s.]",
+    "Storyboard frame, aspect 9:16: authentic Archery Clash! reward screen, legendary bow item card center-frame with vibrant yellow (#FFD700) rarity background and golden glow rays, green (#32CD32) +ATK and +CRIT stat pop-ups floating upward, bright blue (#2A9DF4) banner header reading 'LEGENDARY BOW UNLOCKED', female archer protagonist celebrating in background on duel platform, gear collection slots and coin/gem counters in HUD, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, confetti particles, on-screen text '+LEGENDARY BOW' in bold yellow. [Audio: VO 'Legendary unlocked!' (satisfied female) / triumphant competitive sting at 110 BPM / chest-burst whoosh at 0.5s, coin-cascade chimes at 1-3s, power-up swell on stat pop.]"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "67f521601cd41b85",
+    "ad_unit_id": "67f521601cd41b85",
+    "app_id": "5a178fae6e773e0baee7d58b",
+    "advertiser_name": "검은사막 모바일",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6f9d7290630cc1dd/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6f9d7290630cc1dd/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6f9d7290630cc1dd/preview",
+    "phashion_group": "67f521601cd41b85",
+    "share": null,
+    "first_seen_at": "2026-04-02T00:00:00",
+    "last_seen_at": "2026-04-07T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "👑 Faites face à Sa Majestœuf et récoltez des œufs mystiques. Échangez-les contre des objets rares, des bonus et des améliorations",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Easter event reward showcase with a pink aesthetic.",
+    "visual_action": "A reward card fades in over a scenic cherry blossom background with Easter eggs and a rabbit.",
+    "text_overlay": "D'un seul œuf à quelque chose de gros",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "The ad opens with a soft pink fade-in of the Black Desert logo and event title.",
+    "A central UI panel appears showcasing three distinct reward icons: a scroll, an orb, and a lamp.",
+    "Text descriptions for the rewards populate the panel, highlighting high-value items like Cron stones.",
+    "The scene remains static to allow the viewer to read the reward details and the 'Collect & Exchange' CTA."
+  ],
+  "on_screen_text": [
+    "BLACK DESERT",
+    "D'un seul œuf à quelque chose de gros",
+    "Conseils de Valks +250",
+    "Pierre de Cron x3000",
+    "Meubles sur le thème de Pâques",
+    "COLLECTEZ & ÉCHANGEZ"
+  ],
+  "cta_text": "COLLECTEZ & ÉCHANGEZ",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#F8C8DC",
+    "#FFFFFF",
+    "#B0E0E6"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "French-speaking MMORPG players interested in seasonal events and high-value in-game rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001777
+}

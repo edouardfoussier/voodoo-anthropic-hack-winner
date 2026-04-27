@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_WNUBgBEX7UxyBL9CX2Rg51xS?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfV05VQmdCRVg3VXh5Qkw5Q1gyUmc1MXhTP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=okm96au%7ELoVasXIYXgSVl45vctYh71X2TQpWGdxBMnFpGlFxxr4q5hPyYew4ENTvA81EgLYb67mF2jy0ij0wl5%7EHtRvzcdQBtXZ5vnL%7E7%7ENyZz1rMalGeLgkCR27J8ZvVe5TGcNSyBk-HlKkX914rjdIkWGjmpnFUXkousyHXRZ5i%7EHbt671iw7uLtExldi45mpIpx8Q4SoXHe2RFkvNmYff7AFZY3W3t%7Eu2ppgwswF8bwwWHZBd3bVeb7cDPHQ4sLcal9sgCTcdvEWA8Wqjww7NhmtdCmm35k6ydJUlfw1ZCbRujwmIplXW%7Ev1bHPOYMR65Hh5wdD5k-8BWLuaZ1A__",
+  "job_id": "job_DNEXKT14NsrofqdYFjmBGCSb",
+  "asset_id": "asset_WNUBgBEX7UxyBL9CX2Rg51xS",
+  "stub": false,
+  "prompt": "Vertical 9:16 mobile game screenshot, Crazy Kick end-card style, sandy yellow pitch (#F5D77F) and sky blue sky (#1CB4F0), 3D hyper-casual low-poly bright and colorful with simple stickman characters, three layered glowing bright green (#99CC33) trajectory trails curving across the field showing past shots, soccer ball rolling into goal, large pulsing green 'PLAY FREE' CTA button bottom-center, overlay text 'Your turn.' above CTA, authentic in-game HUD with level counter top-corner, storyboard frame",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

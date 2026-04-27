@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "f2bb3b51aa47cc24",
+    "ad_unit_id": "f2bb3b51aa47cc24",
+    "app_id": "55d93a4202ac645ad203fe75",
+    "advertiser_name": "Betclic Paris Sportifs & Poker",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/preview",
+    "phashion_group": "f2bb3b51aa47cc24",
+    "share": null,
+    "first_seen_at": "2026-04-01T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Les Smash KO débarquent sur Betclic : élimine tes adversaires et découvre le montant de la prime que tu récupères ! 🤩",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy introduction of the 'Smash Knockout' poker mode with dynamic text and character art.",
+    "visual_action": "A hooded character icon zooms in while coins and poker chips fly across a teal background.",
+    "text_overlay": "LES SKO DÉBARQUENT SUR Betclic SMASH KNOCKOUT",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Title screen reveals 'Smash Knockout' as a new poker mode on Betclic.",
+    "Motion graphics show a mobile phone displaying a 'KO' event and increasing prize money.",
+    "Text highlights the ability to win up to 50 times the opponent's bounty.",
+    "Closing screen provides instructions to find the mode in the app's tournament section."
+  ],
+  "on_screen_text": [
+    "LES SKO DÉBARQUENT SUR Betclic",
+    "SMASH KNOCKOUT",
+    "LE POKER QUI PEUT RAPPORTER GROS !",
+    "Je télécharge",
+    "METS TES ADVERSAIRES KO",
+    "ET DÉCROCHE JUSQU'À 50X LEUR PRIME*",
+    "RDV DANS LA SECTION TOURNOIS DE TON APP !"
+  ],
+  "cta_text": "Je télécharge",
+  "cta_timing_seconds": 2.0,
+  "palette_hex": [
+    "#00A896",
+    "#FFFFFF",
+    "#E2001A"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "French-speaking male sports bettors and poker players aged 18-35 looking for fast-paced competitive games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001879
+}

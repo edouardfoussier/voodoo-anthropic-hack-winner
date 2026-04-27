@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "3e4f64430220231a",
+    "ad_unit_id": "3e4f64430220231a",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bd5e8c17c1118d94/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bd5e8c17c1118d94/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bd5e8c17c1118d94/preview",
+    "phashion_group": "3e4f64430220231a",
+    "share": null,
+    "first_seen_at": "2025-05-06T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Crush your opponents, dominate the battlefield!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-intensity mech combat showcasing a kill streak.",
+    "visual_action": "A blue mech fires energy weapons at enemies in an industrial port setting.",
+    "text_overlay": "RAMPAGE",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Player mech engages enemies from a distance, triggering a 'RAMPAGE' notification.",
+    "The mech closes in on a large enemy Titan, firing multiple weapon systems.",
+    "Intense close-range firefight results in a 'KILL' and 'TITAN SLAYER' achievement.",
+    "Cinematic transition to the game's logo and final call to action."
+  ],
+  "on_screen_text": [
+    "RAMPAGE",
+    "374m",
+    "409m",
+    "20m",
+    "16m",
+    "19m",
+    "KILL",
+    "TITAN SLAYER",
+    "WAR ROBOTS",
+    "INSTALL NOW!"
+  ],
+  "cta_text": "INSTALL NOW!",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#0055FF",
+    "#555555",
+    "#FFAA00"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy competitive multiplayer shooters and giant robot combat.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001705
+}

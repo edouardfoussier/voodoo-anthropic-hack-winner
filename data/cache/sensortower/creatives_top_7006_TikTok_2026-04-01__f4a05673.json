@@ -1,0 +1,386 @@
+{
+  "count": 30,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "f8c5b58f84ba473b",
+      "app_id": "55f3733b02ac64eb8400006e",
+      "network": "TikTok",
+      "phashion_group": "f8c5b58f84ba473b",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-16",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f8c5b58f84ba473b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "message": "Great prize! Win today!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55f3733b02ac64eb8400006e",
+        "canonical_country": "US",
+        "name": "Huuuge Casino 777 Slots Games",
+        "publisher_name": "Huuuge Games",
+        "publisher_id": "5614bc773f07e25d29002a45",
+        "humanized_name": "Huuuge Casino 777 Slots Games",
+        "icon_url": "https://play-lh.googleusercontent.com/njjBFu61BlTecfoM_f-Rp_KTEL5wjgNXizJ4GlIyip6C09OxemiIABsXsx9h4YHWfps=s150",
+        "os": "unified",
+        "id": "55f3733b02ac64eb8400006e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e4df6b4cfcf177ad",
+      "app_id": "55c502b302ac64f9c0001fdb",
+      "network": "TikTok",
+      "phashion_group": "e4df6b4cfcf177ad",
+      "ad_type": "video",
+      "first_seen_at": "2024-10-25",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "e4df6b4cfcf177ad",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c634143cdc6060d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c634143cdc6060d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7c634143cdc6060d/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Play now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c502b302ac64f9c0001fdb",
+        "canonical_country": "US",
+        "name": "Texas Hold'em Poker: Pokerist",
+        "publisher_name": "KamaGames",
+        "publisher_id": "5840c2760211a64f0b0001a5",
+        "humanized_name": "Texas Hold'em Poker",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/13/ed/a713ed3f-a921-0f25-2c97-d8e502e3a27e/AppIcon-com.iphonesoft3g.texaspoker-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c502b302ac64f9c0001fdb",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "46aa87c308eaa84c",
+      "app_id": "55f3733b02ac64eb8400006e",
+      "network": "TikTok",
+      "phashion_group": "46aa87c308eaa84c",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "46aa87c308eaa84c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Don\u2019t miss out \u2014 win today!"
+        },
+        {
+          "id": "6189dcca63ea74c2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Great prize! Win today!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55f3733b02ac64eb8400006e",
+        "canonical_country": "US",
+        "name": "Huuuge Casino 777 Slots Games",
+        "publisher_name": "Huuuge Games",
+        "publisher_id": "5614bc773f07e25d29002a45",
+        "humanized_name": "Huuuge Casino 777 Slots Games",
+        "icon_url": "https://play-lh.googleusercontent.com/njjBFu61BlTecfoM_f-Rp_KTEL5wjgNXizJ4GlIyip6C09OxemiIABsXsx9h4YHWfps=s150",
+        "os": "unified",
+        "id": "55f3733b02ac64eb8400006e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b3c96cade8debbc6",
+      "app_id": "55c5020a02ac64f9c0001f66",
+      "network": "TikTok",
+      "phashion_group": "b3c96cade8debbc6",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-09",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "b3c96cade8debbc6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01263b128d55a6aa/thumb",
+          "video_duration": 15,
+          "width": 2160,
+          "height": 3840,
+          "message": "You Know YOU Deserve it - Play Now & Enjoy!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5020a02ac64f9c0001f66",
+        "canonical_country": "US",
+        "name": "Slotomania Slots Casino Games",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "Slotomania Slots Casino Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/82/a8/2882a853-e34a-0d37-3c54-158f11f1a697/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5020a02ac64f9c0001f66",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "7bc2da32b5f3709a",
+      "app_id": "559edb17d2a0f9042f002a52",
+      "network": "TikTok",
+      "phashion_group": "7bc2da32b5f3709a",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-28",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "7bc2da32b5f3709a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/07480fe64813b854/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/07480fe64813b854/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/07480fe64813b854/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Try & Win Today!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "559edb17d2a0f9042f002a52",
+        "canonical_country": "US",
+        "name": "Casino Roulette: Roulettist",
+        "publisher_name": "KamaGames",
+        "publisher_id": "5840c2760211a64f0b0001a5",
+        "humanized_name": "Casino Roulette",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/59/b7/4159b7f9-67a5-8f4b-f767-f8d4a053a9d0/AppIcon-com.iphonesoft3g.roulette-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "559edb17d2a0f9042f002a52",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f53283bf134fd4e5",
+      "app_id": "5af5afad09c8b14d4327867e",
+      "network": "TikTok",
+      "phashion_group": "f53283bf134fd4e5",
+      "ad_type": "video",
+      "first_seen_at": "2025-01-09",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "f53283bf134fd4e5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f0ffe0f54d1234c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f0ffe0f54d1234c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f0ffe0f54d1234c/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "Get 6,000,000 coins for 100% FREE!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5af5afad09c8b14d4327867e",
+        "canonical_country": "US",
+        "name": "Jackpot World - Slots Casino",
+        "publisher_name": "Netmarble",
+        "publisher_id": "5614c62a3f07e25d2900a08c",
+        "humanized_name": "Jackpot World",
+        "icon_url": "https://play-lh.googleusercontent.com/GbSmufLwKwNJmOGukpGY-t0g4GLW23QL8YVDEowY3fgKZuDHrvRSivQmzsuLAsNPdVSf92GKjD6B7ON9z77YpA=s150",
+        "os": "unified",
+        "id": "5af5afad09c8b14d4327867e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b779846d6d258517",
+      "app_id": "55d20e3902ac64ee7300002b",
+      "network": "TikTok",
+      "phashion_group": "b779846d6d258517",
+      "ad_type": "video",
+      "first_seen_at": "2025-03-29",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "b779846d6d258517",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f4d97f9734008f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f4d97f9734008f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/25f4d97f9734008f/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "Get a Welcome Bonus of 2M FREE Chips!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d20e3902ac64ee7300002b",
+        "canonical_country": "US",
+        "name": "Zynga Poker - Texas Holdem Game",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Zynga Poker",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/00/03/e80003fe-937f-01c6-5f03-5081b40f218a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d20e3902ac64ee7300002b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "feefbafd61a4225a",
+      "app_id": "55d20e3902ac64ee7300002b",
+      "network": "TikTok",
+      "phashion_group": "feefbafd61a4225a",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "feefbafd61a4225a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2ceb0225db06ca48/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2ceb0225db06ca48/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2ceb0225db06ca48/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Think you\u2019ve got the skills? Prove it at the tables in Zynga Poker: Texas Hold\u2019em!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d20e3902ac64ee7300002b",
+        "canonical_country": "US",
+        "name": "Zynga Poker - Texas Holdem Game",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Zynga Poker",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/00/03/e80003fe-937f-01c6-5f03-5081b40f218a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d20e3902ac64ee7300002b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "944695d205f08d32",
+      "app_id": "55d3a1a902ac64350a0010aa",
+      "network": "TikTok",
+      "phashion_group": "944695d205f08d32",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-08",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "944695d205f08d32",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3447b9ea7ca4e776/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3447b9ea7ca4e776/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3447b9ea7ca4e776/thumb",
+          "video_duration": 12,
+          "width": 720,
+          "height": 1280,
+          "message": "Play the best FREE poker game in town!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d3a1a902ac64350a0010aa",
+        "canonical_country": "CZ",
+        "name": "Poker Atrix / Playshoo",
+        "publisher_name": "Outerdawn",
+        "publisher_id": "5604d4d98ac350172203fad4",
+        "humanized_name": "Poker Atrix / Playshoo",
+        "icon_url": "https://play-lh.googleusercontent.com/Fd0rnlpWK-Dx7Ez7tXfaX-E-eiIopGc0ZQtuiY1-e-_8Rf2_JL_qgm6GpqjYluBmFiA=s150",
+        "os": "unified",
+        "id": "55d3a1a902ac64350a0010aa",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "54ca44b12862258a",
+      "app_id": "559edb17d2a0f9042f002a52",
+      "network": "TikTok",
+      "phashion_group": "54ca44b12862258a",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-12",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "54ca44b12862258a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/392bd668f68d0a46/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/392bd668f68d0a46/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/392bd668f68d0a46/thumb",
+          "video_duration": 10,
+          "width": 720,
+          "height": 1280,
+          "message": "Play now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "559edb17d2a0f9042f002a52",
+        "canonical_country": "US",
+        "name": "Casino Roulette: Roulettist",
+        "publisher_name": "KamaGames",
+        "publisher_id": "5840c2760211a64f0b0001a5",
+        "humanized_name": "Casino Roulette",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/59/b7/4159b7f9-67a5-8f4b-f767-f8d4a053a9d0/AppIcon-com.iphonesoft3g.roulette-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "559edb17d2a0f9042f002a52",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

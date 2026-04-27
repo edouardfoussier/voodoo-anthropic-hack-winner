@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_tqbWAByYb7MH1KnrUChBMNdv?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdHFiV0FCeVliN01IMUtuclVDaEJNTmR2P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YBHCmj9Nv%7ERD0GDfFhd434MQJZs72EO5kDGijQ%7E1zWql9siXqAyUsUqebonlwOaeSVumKsyXoaa5heCCxhpDaGFJhzm1rgIOr87RE5kHsV%7Efu1p2v34tzlkdymbJYU2slhF5feSrtuqTsRVhdUT0Q8csmo2LToB%7EJ5ofxXbVyUwsGnMqDjwzYwnQsfDUZ2LmvZHwsoZwWJiiqdKASC1eM4RKYEFZ4FcpUYUevI8KdfXnbzoLdijY9d1dk3JAl15NAHd2GNij2SaUon0LsY2Sy3ryLD01FRh%7EQM1IuSJGjSixoXLwTf8raGsbNbdOls4hxU38aKZU%7E%7EZwULl83syQsA__",
+  "job_id": "job_U86a34qrioy4HW3rwAdiLRhQ",
+  "asset_id": "asset_tqbWAByYb7MH1KnrUChBMNdv",
+  "stub": false,
+  "prompt": "Vertical 9:16 Flappy Dunk gameplay still: three magenta (#D81155) hoops stacked diagonally across a warm beige (#EAD5A0) sky, a glowing blue (#5CB3FF) ball streaking through all three with a ribbon-like trail, thick black outlines, flat shading, vibrant high-contrast 2D cartoon style, authentic Flappy Dunk HUD with score counter rapidly ticking up and 'COMBO x5 \ud83d\udd25' banner flashing in magenta, hearts indicator full in corner, on-screen overlay text 'Tap. Flap. Swoosh.' in bold white-with-black-outline cartoon font. [Audio: VO 'Three in a row \u2014 wait, FIVE?!' / energetic 128bpm competitive arcade beat with hand-claps / triple swoosh staccato then combo explosion SFX at 3s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

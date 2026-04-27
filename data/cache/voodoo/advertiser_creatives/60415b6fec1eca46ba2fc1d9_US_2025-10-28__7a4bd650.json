@@ -1,0 +1,5102 @@
+{
+  "count": 135,
+  "available_networks": [
+    "Applovin",
+    "Digital Turbine",
+    "Facebook",
+    "InMobi",
+    "Instagram",
+    "Meta Audience Network",
+    "Mintegral",
+    "Supersonic",
+    "TikTok",
+    "Unity",
+    "Youtube"
+  ],
+  "ad_units": [
+    {
+      "id": "9c29a97d05eb2735",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Applovin",
+      "phashion_group": "9c29a97d05eb2735",
+      "ad_type": "playable",
+      "first_seen_at": "2024-07-06",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "9c29a97d05eb2735",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5967e4a0759f3a2a/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5967e4a0759f3a2a/thumb",
+          "html_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5967e4a0759f3a2a/index.html?",
+          "width": 430,
+          "height": 932,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "other"
+      ],
+      "share": 0.322851,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.006047
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.00603
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.006655
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.018286
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.003565
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.030751
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.043448
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.063492
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.390111
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.984151
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.853817
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.506402
+          ]
+        ],
+        "dimensions": [
+          [
+            "430x932",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 113,
+        "data": [
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.375277
+          ],
+          [
+            "5ae5bb3fcab16e684b173bb0",
+            0.058408
+          ],
+          [
+            "5c689d3a93aa0276c98585e9",
+            0.029349
+          ],
+          [
+            "66e92264ec0da130117f89fd",
+            0.028953
+          ],
+          [
+            "61f12c8ab3ae271fddd7fa87",
+            0.027202
+          ],
+          [
+            "61fe4505ee3e2b67d64c4b21",
+            0.020115
+          ],
+          [
+            "61f0d887cd7a5540ab011d53",
+            0.019751
+          ],
+          [
+            "61325d5eb3ae2730574e36c5",
+            0.018273
+          ],
+          [
+            "5b6af0a62ba45d4cc3be4963",
+            0.016892
+          ],
+          [
+            "64a8e532a930d8478994719b",
+            0.016562
+          ],
+          [
+            "60a27dc171b9072c638a783e",
+            0.015613
+          ],
+          [
+            "5b9f058c5d7c137c3fa14a28",
+            0.014117
+          ],
+          [
+            "62913d95b3ae2742e42b4e49",
+            0.013308
+          ],
+          [
+            "5c941eeffdad6c70ae4a4497",
+            0.013224
+          ],
+          [
+            "6153f700624ea54df7a116c1",
+            0.012682
+          ],
+          [
+            "5fc705f49f22db4d87f86430",
+            0.011972
+          ],
+          [
+            "58b0e358907ffc0af900032d",
+            0.011248
+          ],
+          [
+            "605648c1ec1eca13c7dce895",
+            0.011185
+          ],
+          [
+            "5e4f80a23ea98373e0d56218",
+            0.011029
+          ],
+          [
+            "5a7f8ef5cab16e7c9a178f24",
+            0.009717
+          ],
+          [
+            "6709c3aa924e7fb2e2ec0e0a",
+            0.009512
+          ],
+          [
+            "60f9f219d14df23a7000e7b8",
+            0.009204
+          ],
+          [
+            "60dd17fbf7f8696025003b25",
+            0.00859
+          ],
+          [
+            "56cb9fac1dc4576de50001ba",
+            0.008251
+          ],
+          [
+            "63065836ad4adb44c475d86b",
+            0.008208
+          ],
+          [
+            "62bc1f341800973c6afeae17",
+            0.00802
+          ],
+          [
+            "655fed31d90a265454f805a0",
+            0.007362
+          ],
+          [
+            "5cefe94c9b90423fa3aff751",
+            0.007245
+          ],
+          [
+            "6344cf545b6ccd1c0dbbfaae",
+            0.007114
+          ],
+          [
+            "607791d99fac733c11555bd5",
+            0.006843
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bccdd0be2e54b1e2",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Applovin",
+      "phashion_group": "bccdd0be2e54b1e2",
+      "ad_type": "playable",
+      "first_seen_at": "2023-10-27",
+      "last_seen_at": "2026-03-12",
+      "creatives": [
+        {
+          "id": "bccdd0be2e54b1e2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/79839d635e20acfd/media",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/79839d635e20acfd/thumb",
+          "html_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/79839d635e20acfd/index.html?",
+          "width": 320,
+          "height": 480,
+          "button_text": "GET",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "other"
+      ],
+      "share": 0.243437,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.027167
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.003317
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.481825
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.667891
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.46795
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.737632
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.236173
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.058771
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "320x480",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 40,
+        "data": [
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.804604
+          ],
+          [
+            "55d20e6102ac64ee7300082d",
+            0.060316
+          ],
+          [
+            "5b9f058c5d7c137c3fa14a28",
+            0.017712
+          ],
+          [
+            "67b47d5327e2c1851797ba25",
+            0.013717
+          ],
+          [
+            "55d20e4602ac64ee7300028a",
+            0.011251
+          ],
+          [
+            "606593eabcfaad041a7a129e",
+            0.010496
+          ],
+          [
+            "5c689d3a93aa0276c98585e9",
+            0.008869
+          ],
+          [
+            "5c941eeffdad6c70ae4a4497",
+            0.007785
+          ],
+          [
+            "648dbb4f8bab0357537613f8",
+            0.00608
+          ],
+          [
+            "61298fb033c4d633f9258426",
+            0.005477
+          ],
+          [
+            "64f16c5647164c27637435a1",
+            0.005201
+          ],
+          [
+            "5cefe94c9b90423fa3aff751",
+            0.004937
+          ],
+          [
+            "591d87e30211a6ba9500079c",
+            0.004263
+          ],
+          [
+            "62c69a51d3258007c5283acf",
+            0.004144
+          ],
+          [
+            "60c65d3c861fb108e77ee308",
+            0.003079
+          ],
+          [
+            "6177759bb3ae27393e9b692c",
+            0.002919
+          ],
+          [
+            "55d9585d02ac645ad22ee738",
+            0.002173
+          ],
+          [
+            "6200d1c82e0ec148ad900dd6",
+            0.002116
+          ],
+          [
+            "64590801a1dfb0115af0e25f",
+            0.002044
+          ],
+          [
+            "65c81950fdef58527188aecb",
+            0.001982
+          ],
+          [
+            "6892f7c74cc2f15fd1feadb4",
+            0.001854
+          ],
+          [
+            "5c32f2eefe6cd0699349249c",
+            0.001599
+          ],
+          [
+            "62e1221a0ad605020729a52d",
+            0.001324
+          ],
+          [
+            "620e6b048db557274ca330b2",
+            0.001208
+          ],
+          [
+            "68abe72e455a6b7e125d394f",
+            0.001206
+          ],
+          [
+            "662a6595c8d3632d66ebeaf4",
+            0.001138
+          ],
+          [
+            "62d0c896b3ae2702b5d41bcc",
+            0.001138
+          ],
+          [
+            "5ef3ff76555b5522140de3bb",
+            0.0011
+          ],
+          [
+            "619849f7a020f15edff133a3",
+            0.001094
+          ],
+          [
+            "5da561c7fe0f7b44daa0e9a6",
+            0.001058
+          ]
+        ]
+      }
+    },
+    {
+      "id": "617274a6ac0497db",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Applovin",
+      "phashion_group": "617274a6ac0497db",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-21",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "617274a6ac0497db",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a43c397bdc708ac4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a43c397bdc708ac4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a43c397bdc708ac4/thumb",
+          "video_duration": 30,
+          "width": 720,
+          "height": 1280,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.094571,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.218744
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.468498
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.729398
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.577808
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 73,
+        "data": [
+          [
+            "5ae5bb3fcab16e684b173bb0",
+            0.096872
+          ],
+          [
+            "66e92264ec0da130117f89fd",
+            0.065607
+          ],
+          [
+            "61fe4505ee3e2b67d64c4b21",
+            0.060584
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.056447
+          ],
+          [
+            "61325d5eb3ae2730574e36c5",
+            0.046355
+          ],
+          [
+            "61f0d887cd7a5540ab011d53",
+            0.039772
+          ],
+          [
+            "64a8e532a930d8478994719b",
+            0.03808
+          ],
+          [
+            "60a27dc171b9072c638a783e",
+            0.037088
+          ],
+          [
+            "6153f700624ea54df7a116c1",
+            0.034071
+          ],
+          [
+            "5b9f058c5d7c137c3fa14a28",
+            0.030511
+          ],
+          [
+            "5fc705f49f22db4d87f86430",
+            0.029759
+          ],
+          [
+            "5c689d3a93aa0276c98585e9",
+            0.024741
+          ],
+          [
+            "605648c1ec1eca13c7dce895",
+            0.023155
+          ],
+          [
+            "61f12c8ab3ae271fddd7fa87",
+            0.021932
+          ],
+          [
+            "5e4f80a23ea98373e0d56218",
+            0.018946
+          ],
+          [
+            "63ae04a2ad4adb4207a85deb",
+            0.018846
+          ],
+          [
+            "6620842f9003bc6a84e9bf35",
+            0.018555
+          ],
+          [
+            "62bc1f341800973c6afeae17",
+            0.01786
+          ],
+          [
+            "607791d99fac733c11555bd5",
+            0.017497
+          ],
+          [
+            "655fed31d90a265454f805a0",
+            0.016123
+          ],
+          [
+            "5c941eeffdad6c70ae4a4497",
+            0.015869
+          ],
+          [
+            "62913d95b3ae2742e42b4e49",
+            0.014535
+          ],
+          [
+            "606ebdb2ec1eca4973eda126",
+            0.01315
+          ],
+          [
+            "60e038c0b3ae2705d6842c62",
+            0.012233
+          ],
+          [
+            "6439562eb3ae27742d86f882",
+            0.01161
+          ],
+          [
+            "6344cf545b6ccd1c0dbbfaae",
+            0.01089
+          ],
+          [
+            "61950f4f1800971427671ab9",
+            0.009852
+          ],
+          [
+            "5a7f8ef5cab16e7c9a178f24",
+            0.00954
+          ],
+          [
+            "6415c242373e2c6b350b3492",
+            0.009498
+          ],
+          [
+            "6794c12d43283ae80dfb5430",
+            0.009131
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3ef5204f62809219",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "3ef5204f62809219",
+      "ad_type": "video",
+      "first_seen_at": "2025-05-17",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "3ef5204f62809219",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/thumb",
+          "video_duration": 21,
+          "width": 720,
+          "height": 1280,
+          "title": "Slice It All!",
+          "button_text": "Download",
+          "message": "Release your anxiety with a perfect slice!"
+        },
+        {
+          "id": "83eec9811074f62f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/thumb",
+          "video_duration": 21,
+          "width": 720,
+          "height": 1280,
+          "title": "Slice It All!",
+          "button_text": "Download",
+          "message": "Flip the knife and slice amazing obstacles in juiciest way!"
+        },
+        {
+          "id": "c6cf5efc0b8564d0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/thumb",
+          "video_duration": 21,
+          "width": 720,
+          "height": 1280,
+          "title": "Slice It All!",
+          "button_text": "Download",
+          "message": "Are you ready for a slice master challenge?"
+        },
+        {
+          "id": "db552491ca6f6873",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/thumb",
+          "video_duration": 21,
+          "width": 720,
+          "height": 1280,
+          "title": "Slice It All!",
+          "button_text": "Download",
+          "message": "The best game of the year!"
+        },
+        {
+          "id": "f01425f0d45afc4f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f5769da7e1c455c3/thumb",
+          "video_duration": 21,
+          "width": 720,
+          "height": 1280,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "The most addictive game"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.083102,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.794884
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.919601
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.810464
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.367712
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.355417
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.356284
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.363282
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "115a513c2a091a55",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "115a513c2a091a55",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-23",
+      "last_seen_at": "2026-04-12",
+      "creatives": [
+        {
+          "id": "115a513c2a091a55",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3550fe3d338c9e3e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3550fe3d338c9e3e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3550fe3d338c9e3e/thumb",
+          "video_duration": 19,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Flip the knife and slice amazing obstacles in juiciest way!"
+        },
+        {
+          "id": "547bc64131f888aa",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3550fe3d338c9e3e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3550fe3d338c9e3e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3550fe3d338c9e3e/thumb",
+          "video_duration": 19,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Are you ready for a slice master challenge?"
+        },
+        {
+          "id": "62a0bd4dee271035",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3550fe3d338c9e3e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3550fe3d338c9e3e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3550fe3d338c9e3e/thumb",
+          "video_duration": 19,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "The most addictive game"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.035324,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.516695
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.41369
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.886061
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "27f0a3415ab3b079",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "27f0a3415ab3b079",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-10",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "27f0a3415ab3b079",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec731ea9d9f777a3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec731ea9d9f777a3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec731ea9d9f777a3/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Release your anxiety with a perfect slice!"
+        },
+        {
+          "id": "9aeb4a8f2847d44f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec731ea9d9f777a3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec731ea9d9f777a3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec731ea9d9f777a3/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Flip the knife and slice amazing obstacles in juiciest way!"
+        },
+        {
+          "id": "dfcaddf233b646b0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec731ea9d9f777a3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec731ea9d9f777a3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec731ea9d9f777a3/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Are you ready for a slice master challenge?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.033332,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.934272
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.453191
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.408726
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "31047bf0b0260136",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "31047bf0b0260136",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-21",
+      "last_seen_at": "2026-01-24",
+      "creatives": [
+        {
+          "id": "31047bf0b0260136",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/150ed4f1a9a3855d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/150ed4f1a9a3855d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/150ed4f1a9a3855d/thumb",
+          "video_duration": 19,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Flip the knife and slice amazing obstacles in juiciest way!"
+        },
+        {
+          "id": "7425ec8dabd793c9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/150ed4f1a9a3855d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/150ed4f1a9a3855d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/150ed4f1a9a3855d/thumb",
+          "video_duration": 19,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Are you ready for a slice master challenge?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.02537,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.904604
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "d67c9e83d7449086",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "d67c9e83d7449086",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-13",
+      "last_seen_at": "2026-01-03",
+      "creatives": [
+        {
+          "id": "d67c9e83d7449086",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a0e4caa526f4336a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a0e4caa526f4336a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a0e4caa526f4336a/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Flip the knife and slice amazing obstacles in juiciest way!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.022544,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.639774
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.529559
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "4c13b3af2fd4de2d",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Applovin",
+      "phashion_group": "4c13b3af2fd4de2d",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-22",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "4c13b3af2fd4de2d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/895dfe725fa0c332/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/895dfe725fa0c332/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/895dfe725fa0c332/thumb",
+          "video_duration": 30,
+          "width": 720,
+          "height": 1280,
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "rewarded",
+        "interstitial",
+        "other"
+      ],
+      "share": 0.016841,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.256175
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.590264
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.607484
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.459668
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.407533
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 28,
+        "data": [
+          [
+            "5a7f8ef5cab16e7c9a178f24",
+            0.096161
+          ],
+          [
+            "622390aa2e0fa027dbdc26b8",
+            0.090994
+          ],
+          [
+            "639288eec0233b02387980ca",
+            0.083702
+          ],
+          [
+            "64a8e532a930d8478994719b",
+            0.0725
+          ],
+          [
+            "5c941eeffdad6c70ae4a4497",
+            0.059226
+          ],
+          [
+            "605648c1ec1eca13c7dce895",
+            0.049099
+          ],
+          [
+            "60a27dc171b9072c638a783e",
+            0.048092
+          ],
+          [
+            "6709c3aa924e7fb2e2ec0e0a",
+            0.047353
+          ],
+          [
+            "62913d95b3ae2742e42b4e49",
+            0.044972
+          ],
+          [
+            "63e8eb55df5f3954c550bd53",
+            0.044008
+          ],
+          [
+            "61f12c8ab3ae271fddd7fa87",
+            0.033418
+          ],
+          [
+            "63ae04a2ad4adb4207a85deb",
+            0.028696
+          ],
+          [
+            "63ee6f80b3ae27314e3df618",
+            0.02745
+          ],
+          [
+            "5e2195075c6ace1a0989612c",
+            0.026866
+          ],
+          [
+            "607791d99fac733c11555bd5",
+            0.02661
+          ],
+          [
+            "6153f700624ea54df7a116c1",
+            0.02455
+          ],
+          [
+            "6415c242373e2c6b350b3492",
+            0.02455
+          ],
+          [
+            "657c47787fa17843dc069f66",
+            0.024467
+          ],
+          [
+            "61fe4505ee3e2b67d64c4b21",
+            0.024167
+          ],
+          [
+            "5e0058fa4149e809e6af6178",
+            0.023077
+          ],
+          [
+            "5b9f058c5d7c137c3fa14a28",
+            0.017846
+          ],
+          [
+            "655a9b3130f15a5b64e15a78",
+            0.015445
+          ],
+          [
+            "66e92264ec0da130117f89fd",
+            0.015072
+          ],
+          [
+            "5fc705f49f22db4d87f86430",
+            0.013099
+          ],
+          [
+            "61f0d887cd7a5540ab011d53",
+            0.012234
+          ],
+          [
+            "62bc1f341800973c6afeae17",
+            0.011837
+          ],
+          [
+            "61950f4f1800971427671ab9",
+            0.010052
+          ],
+          [
+            "6632e974ecfd4665387eda83",
+            0.004458
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ad0d6848057e40f2",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "ad0d6848057e40f2",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-16",
+      "last_seen_at": "2026-02-22",
+      "creatives": [
+        {
+          "id": "ad0d6848057e40f2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc265034070a5666/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc265034070a5666/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc265034070a5666/thumb",
+          "video_duration": 14,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Are you ready for a slice master challenge?"
+        },
+        {
+          "id": "b0971225c4944c51",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc265034070a5666/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc265034070a5666/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cc265034070a5666/thumb",
+          "video_duration": 14,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "The best game of the year!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.012524,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "16677c35b2d1387a",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "16677c35b2d1387a",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-04",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "16677c35b2d1387a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/41973f456f7ab671/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/41973f456f7ab671/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/41973f456f7ab671/thumb",
+          "video_duration": 26,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "The most addictive game"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.012506,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.9321
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "98eabf7e496a3806",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "98eabf7e496a3806",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-14",
+      "last_seen_at": "2026-03-29",
+      "creatives": [
+        {
+          "id": "98eabf7e496a3806",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1afc0e94c1b60d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1afc0e94c1b60d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1afc0e94c1b60d/thumb",
+          "video_duration": 17,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Descargar",
+          "message": "The most addictive game"
+        },
+        {
+          "id": "ae31c47296b5a099",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1afc0e94c1b60d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1afc0e94c1b60d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1afc0e94c1b60d/thumb",
+          "video_duration": 17,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Are you ready for a slice master challenge?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.012096,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "2de51f7ff48ea8b7",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "2de51f7ff48ea8b7",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-09",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "2de51f7ff48ea8b7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cce2703f6fabe23/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cce2703f6fabe23/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cce2703f6fabe23/thumb",
+          "video_duration": 28,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Are you ready for a slice master challenge?"
+        },
+        {
+          "id": "d5df61cc9d8b5e7e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cce2703f6fabe23/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cce2703f6fabe23/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cce2703f6fabe23/thumb",
+          "video_duration": 28,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Release your anxiety with a perfect slice!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.011536,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.89538
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "f2765bc493b09282",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "TikTok",
+      "phashion_group": "f2765bc493b09282",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-24",
+      "last_seen_at": "2026-03-07",
+      "creatives": [
+        {
+          "id": "f2765bc493b09282",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3e2eeae1819e7a10/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3e2eeae1819e7a10/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3e2eeae1819e7a10/thumb",
+          "video_duration": 21,
+          "width": 720,
+          "height": 1280,
+          "message": "I paid for this ad please download the game"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.011138,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "d8175e94eb1e5bc8",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "TikTok",
+      "phashion_group": "d8175e94eb1e5bc8",
+      "ad_type": "video",
+      "first_seen_at": "2021-05-28",
+      "last_seen_at": "2026-02-22",
+      "creatives": [
+        {
+          "id": "d8175e94eb1e5bc8",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/144fefb1f930b35a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/144fefb1f930b35a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/144fefb1f930b35a/thumb",
+          "video_duration": 21,
+          "width": 720,
+          "height": 1280,
+          "message": "I paid for this ad please download the game"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.009917,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "720x1280",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "0002f6e818a02d3f",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "0002f6e818a02d3f",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-25",
+      "last_seen_at": "2025-11-02",
+      "creatives": [
+        {
+          "id": "0002f6e818a02d3f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cb814b009be4eae5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cb814b009be4eae5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cb814b009be4eae5/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Release your anxiety with a perfect slice!"
+        },
+        {
+          "id": "e220164d46574d33",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cb814b009be4eae5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cb814b009be4eae5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cb814b009be4eae5/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "button_text": "Install",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.00854,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "8c34c9a3183ee5d9",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "8c34c9a3183ee5d9",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-31",
+      "last_seen_at": "2026-01-31",
+      "creatives": [
+        {
+          "id": "8c34c9a3183ee5d9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/47b7744b9b7a2203/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/47b7744b9b7a2203/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/47b7744b9b7a2203/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Release your anxiety with a perfect slice!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.00652,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "8f088065bfefa9df",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "8f088065bfefa9df",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-14",
+      "last_seen_at": "2026-01-14",
+      "creatives": [
+        {
+          "id": "8f088065bfefa9df",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f990d4434e5f0a33/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f990d4434e5f0a33/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f990d4434e5f0a33/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Flip the knife and slice amazing obstacles in juiciest way!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.006392,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "0937f1d9132553a6",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "0937f1d9132553a6",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-09",
+      "last_seen_at": "2026-02-09",
+      "creatives": [
+        {
+          "id": "0937f1d9132553a6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7fafa5ffe295f04a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7fafa5ffe295f04a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7fafa5ffe295f04a/thumb",
+          "video_duration": 60,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Flip the knife and slice amazing obstacles in juiciest way!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.006381,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    },
+    {
+      "id": "8d51bbc6a62245e9",
+      "app_id": "60415b6fec1eca46ba2fc1d9",
+      "network": "Youtube",
+      "phashion_group": "8d51bbc6a62245e9",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-03",
+      "last_seen_at": "2026-02-03",
+      "creatives": [
+        {
+          "id": "8d51bbc6a62245e9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bee8789d4c6374fa/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bee8789d4c6374fa/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bee8789d4c6374fa/thumb",
+          "video_duration": 30,
+          "width": 1280,
+          "height": 720,
+          "title": "Slice It All!",
+          "button_text": "Install",
+          "message": "Are you ready for a slice master challenge?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "share": 0.006139,
+      "breakdown": {
+        "date": [
+          [
+            [
+              "2025-10-28T00:00:00Z",
+              "2025-11-02T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-03T00:00:00Z",
+              "2025-11-09T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-10T00:00:00Z",
+              "2025-11-16T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-17T00:00:00Z",
+              "2025-11-23T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-11-24T00:00:00Z",
+              "2025-11-30T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-01T00:00:00Z",
+              "2025-12-07T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-08T00:00:00Z",
+              "2025-12-14T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-15T00:00:00Z",
+              "2025-12-21T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-22T00:00:00Z",
+              "2025-12-28T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2025-12-29T00:00:00Z",
+              "2026-01-04T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-05T00:00:00Z",
+              "2026-01-11T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-12T00:00:00Z",
+              "2026-01-18T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-19T00:00:00Z",
+              "2026-01-25T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-01-26T00:00:00Z",
+              "2026-02-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-02T00:00:00Z",
+              "2026-02-08T00:00:00Z"
+            ],
+            1.0
+          ],
+          [
+            [
+              "2026-02-09T00:00:00Z",
+              "2026-02-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-16T00:00:00Z",
+              "2026-02-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-02-23T00:00:00Z",
+              "2026-03-01T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-02T00:00:00Z",
+              "2026-03-08T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-09T00:00:00Z",
+              "2026-03-15T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-16T00:00:00Z",
+              "2026-03-22T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-23T00:00:00Z",
+              "2026-03-29T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-03-30T00:00:00Z",
+              "2026-04-05T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-06T00:00:00Z",
+              "2026-04-12T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-13T00:00:00Z",
+              "2026-04-19T00:00:00Z"
+            ],
+            0.0
+          ],
+          [
+            [
+              "2026-04-20T00:00:00Z",
+              "2026-04-26T00:00:00Z"
+            ],
+            0.0
+          ]
+        ],
+        "dimensions": [
+          [
+            "1280x720",
+            1.0
+          ]
+        ]
+      },
+      "top_publishers": {
+        "count": 0,
+        "data": []
+      }
+    }
+  ]
+}

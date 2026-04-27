@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_BXx75oX2FoYvySEy82N9X6st?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQlh4NzVvWDJGb1l2eVNFeTgyTjlYNnN0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=e8ehUwN4V9lbZvbZeTpuCzwlaic85pJmkO-E-9edOZCui9a60OcHB0rU1iU-MN6oCMMdcthk3lwVQkQm4EGGUd5NkpJaA68cguFSrhKSohIvCXY2l3QzCSj-NY0gSqkGbbn3Zo9vOv81e3Ct2OFa0ButKV%7EaCDVy69Z6Z%7EZusyqN8EObI4zZJRoYrW8I3rLtqB9gJtiXYsjtjGMWt83kuAImN0jxoeplteWr1gt40I%7EVi%7E2WbFIOR6bhBeC4V5mAh8oRJ5o17yt1H4Xtz8ufxlqPMQ3WjIabsVeWNEWvin%7EHmWpMmkzdSwVjLNS6ELU5L14JJeTMv078BNAfr%7EcGQA__",
+  "job_id": "job_JvNQECUoW638DVYnRKN7zq2K",
+  "asset_id": "asset_BXx75oX2FoYvySEy82N9X6st",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, aquapark.io endgame moment: 3D low-poly cartoonish character on a bright orange (#ff8c1c) hang glider soaring past the finish banner above cyan (#42bcf5) water, white (#ffffff) confetti bursts, leaderboard UI in corner showing '1st' highlighted in orange, race progress bar full, bright colorful low-poly style, on-screen text overlay '#1 \u2014 gg' in chunky white font with orange stroke, authentic aquapark.io HUD chrome, no extra invented characters.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,43 @@
+{
+  "count": 1,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "c74932f2ba7951c3",
+      "app_id": "5c143d3cb094be69d2175c59",
+      "network": "TikTok",
+      "phashion_group": "c74932f2ba7951c3",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "c74932f2ba7951c3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f80cd386c87b9ca7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f80cd386c87b9ca7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f80cd386c87b9ca7/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "message": "Ready to build your own bakery and wow every customer?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5c143d3cb094be69d2175c59",
+        "canonical_country": "US",
+        "name": "Bingo Frenzy - Live Bingo Games",
+        "publisher_name": "Vertex Games",
+        "publisher_id": "65dfbf52152a895dd4bac6e1",
+        "humanized_name": "Bingo Frenzy",
+        "icon_url": "https://play-lh.googleusercontent.com/01zQ7QMMGho1uuAxV7zO8pMY3-xZITYCHOUhmcEkpwmmTGks9QDORgEZWfQTHzR3gag=s150",
+        "os": "unified",
+        "id": "5c143d3cb094be69d2175c59",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

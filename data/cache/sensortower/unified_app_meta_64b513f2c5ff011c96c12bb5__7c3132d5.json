@@ -1,0 +1,29 @@
+{
+  "apps": [
+    {
+      "unified_app_id": "64b513f2c5ff011c96c12bb5",
+      "name": "Invincible: Guarding the Globe",
+      "canonical_app_id": 6449294809,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 6449294809
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.ubisoft.invincible.guardians.globe.idle.superhero.rpg.battle.afk"
+        }
+      ],
+      "unified_publisher_ids": [
+        "5614bde63f07e25d290033fd"
+      ],
+      "itunes_publisher_ids": [
+        317644720
+      ],
+      "android_publisher_ids": [
+        "Ubisoft+Entertainment"
+      ]
+    }
+  ]
+}

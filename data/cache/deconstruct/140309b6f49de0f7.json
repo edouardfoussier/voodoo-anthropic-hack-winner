@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "140309b6f49de0f7",
+    "ad_unit_id": "140309b6f49de0f7",
+    "app_id": "6478d3edb3ae272847ad30f8",
+    "advertiser_name": "8 Ball Pool",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea7c6c4ed8ca0d5/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea7c6c4ed8ca0d5/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6ea7c6c4ed8ca0d5/preview",
+    "phashion_group": "140309b6f49de0f7",
+    "share": null,
+    "first_seen_at": "2025-02-03T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Play 8 Ball Pool now!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A man delivers 'bad news' to his partner, which is revealed to be a game achievement.",
+    "visual_action": "A man sits on a couch looking at a tablet, reacting with shock and excitement.",
+    "text_overlay": "I have bad news babe",
+    "voiceover_transcript": "I have bad news babe. What's up? I just made the 8 ball in.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "UGC skit of a man telling his partner 'bad news' which is a game win.",
+    "Gameplay footage of 8-ball pool with the creator's reaction in a corner.",
+    "Creator delivers a direct-to-camera call to action to download the game.",
+    "3D-rendered animation of pool balls with a large CTA button.",
+    "Final brand screen with the game title and a gameplay preview."
+  ],
+  "on_screen_text": [
+    "I have bad news babe",
+    "I just made the 8 ball in",
+    "are you serious?!",
+    "everyone thinks they're good at 8 Ball Pool until they try it",
+    "tap below to download and play a game now",
+    "PLAY FREE NOW",
+    "8 POOL"
+  ],
+  "cta_text": "PLAY FREE NOW",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#7088A8",
+    "#2E8B57",
+    "#1A0B2E"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual male gamers who enjoy competitive social sports games like pool.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001706
+}

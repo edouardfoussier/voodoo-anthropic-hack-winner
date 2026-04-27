@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_VgGMG8WspsWLR1btoywnUV7R?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9WZ0dNRzhXc3BzV0xSMWJ0b3l3blVWN1IqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Zy2fUy1Ki8gn25vPj4jB9QnIub99WGwJZDgF0wpqgro2kwJg68SIdW0d2tgRKRboCDDSEX4J9sY9g4U2CgRK%7EJR1hNYu64Rx0YuE5zetPF9CEj7LkxwtI3UXupFQ1VoU6qbH%7E5yNTlXLTeplqjMhgRLr6-oLwTSrHZ50txnhEJDcog8cQ-ZKiRpz5GnSGp9DN1R0lH6C%7ESSq6zwBhohq633JFPk8lpuvSoZ8FIUansGiyPZ0mAodwEm16Os-CKzEMYQLlYKOJycYNV104VC7WDdXW5Mr%7EMsPu3MlvovAgdTIKEIlaSscjDpRUhW5va6J5bvMKeQ7FYi4WU-uABwrJA__",
+  "job_id": "job_be8gbKg3uxB6iWAsVgU5YEWn",
+  "asset_id": "asset_VgGMG8WspsWLR1btoywnUV7R",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "A massive red crowd sprints around a Paris corner \u2014 and slams face-to-face with a BIGGER blue crowd. Score freezes. \"WHY IS THIS LEVEL SO HARD?\"",
+  "mode": "video",
+  "input_frames": 1
+}

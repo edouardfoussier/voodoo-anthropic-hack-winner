@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1453402726",
+  "title": "\"Ever Played Something This Relaxing?\" — Finger-Guided Dive",
+  "hook_3s": "A finger drags a glowing trajectory arc from a sky-high platform down into a tiny pink pool — VO whispers: \"Ever played a game that actually feels relaxing?\"",
+  "scene_flow": [
+    "0–3s: Top-down-ish angled view of the dive platform, a fingertip enters frame and slowly traces a curved dotted aim line toward the pool below while VO asks the relaxation question.",
+    "3–7s: Finger releases — the bright pink ragdoll character tips off the platform in slow-mo, height markers ticking down (50m, 30m, 10m) with soft chimes per trick rotation.",
+    "7–11s: Camera follows the spin; finger taps to time a perfect tuck — a subtle purple ring pulses on each successful flip, ASMR-style 'thunk' on each rotation.",
+    "11–14s: Near-vertical entry, splash collapses inward (low-splash = perfect), depth counter rockets past -42m on a bold magenta banner.",
+    "14–15s: Pool ripples calm to a flat mirror, end card: pink character silhouette + CTA."
+  ],
+  "visual_direction": "Lean fully into Flip & Dive 3D's signature minimalist 3D look: pale #AEE2FF sky and water, geometric white platform stack, the hot #FF007F ragdoll as the only saturated character element, and #C754D9 UI banners for depth/height callouts. Add an overlaid translucent fingertip + dotted aim arc to mimic the \"hand solving a puzzle\" archetype, but here the puzzle IS the dive trajectory. Soft cinematic slow-mo, gentle bloom, no clutter — the calm/satisfying mood is sold by negative space and crisp geometric shapes.",
+  "text_overlays": [
+    "Ever played something THIS relaxing?",
+    "Just trace the perfect dive…",
+    "Time the flips ✦",
+    "PERFECT ENTRY",
+    "-42m DEEP"
+  ],
+  "cta": "Dive In",
+  "rationale": "Voodoo's current Flip & Dive rotation is all silent gameplay videos and one playable — zero VO-driven \"relaxation question\" hooks, which is the trending satisfaction-mixed pattern from the market scan. This brief grafts that proven UGC-style narrated opener onto authentic Flip & Dive mechanics (finger-traced dive arc instead of bus-sorting), giving UA a fresh top-of-funnel angle to A/B against the existing mute creatives without cannibalizing them. Test as a low-budget variant; if CTR lifts, scale.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, minimalist 3D with bright contrasting colors and simple geometric shapes: a tall white tiered diving platform on the left rising into a pale #AEE2FF sky, a small turquoise swimming pool far below on flat ground, a bright #FF007F humanoid ragdoll character mid-crouch at the platform edge ready to leap, a translucent fingertip overlay tracing a dotted curved aim line from character down into the pool, height markers '50m / 30m / 10m' along the side in clean sans-serif, a bold #C754D9 banner across the upper third reading 'Ever played something THIS relaxing?', soft bloom, calm satisfying mood, authentic Flip & Dive 3D in-game HUD chrome, no extra characters, no stock UI. [Audio: VO (soft female, ASMR-close mic): 'Ever played a game that actually feels relaxing?' / chillhop lo-fi 70 BPM, mellow Rhodes piano / soft fingertip-tap on screen at 0.5s, gentle wind whoosh at 2s.]",
+    "Storyboard frame mid-dive, aspect 9:16, minimalist 3D with bright contrasting colors and simple geometric shapes: the #FF007F ragdoll character tucked in a flip mid-air against a #AEE2FF sky gradient, motion-blur arc trailing behind in faint #C754D9, the small turquoise pool visible directly below in the lower third, a depth/height marker column on the right showing '20m', a clean #C754D9 banner overlay reading 'Time the flips ✦', authentic Flip & Dive 3D HUD with simple geometric platform stub at top of frame, no extra characters, soft shadows, satisfying slow-mo feel. [Audio: silent VO / calm satisfying lo-fi 70 BPM continues / soft 'whoomp' whoosh per rotation, subtle chime on flip-complete at 2.5s.]",
+    "Storyboard end-card frame, aspect 9:16, minimalist 3D with bright contrasting colors and simple geometric shapes: top-down view of a small turquoise rectangular pool centered on flat #AEE2FF ground, a tiny pinpoint #FF007F splash ripple at the exact center showing a perfect entry, a huge bold #C754D9 banner across the middle reading 'PERFECT ENTRY  -42m', clean depth counter UI at the bottom, authentic Flip & Dive 3D minimalist HUD, no character visible above water, calm mirror-like ripples, satisfying negative space. [Audio: VO (soft, smiling): 'Yeah… that kind of relaxing.' / lo-fi resolves on warm major chord / clean low-splash 'plip' SFX at 0.3s, soft success chime at 1.5s.]"
+  ]
+}

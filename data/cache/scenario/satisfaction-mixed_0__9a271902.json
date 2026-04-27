@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_3h75fw7VQJxnVpGnFLa5jEkh?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM2g3NWZ3N1ZRSnhuVnBHbkZMYTVqRWtoP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ShK9ZunTt4bbmc2f%7EC-dj9UnRyPKbs1SKSlGwbuq9lzvAqZ75pvbOXK%7Ej2D2k2V8AejY%7E9m8pVXHa3DIIDAmvD-5a8Cg6crLvSbX-kEiwbNf8eSd2ENaY-CU5t8qD1sXcXW1mfbe2eHLGM7KAxAnLf0XylN6CqXIzGmfumcHoQua326v75i0Ho6wdMvsH-wn6rFgLY62casPKX76jcF9-kL72oOAIn7fc8uCViHBCyi-aEasDFT0RW4eJreShNQLg2d9O7r5wGubGypzTWEoH7GSsRUOyg5bVB37JWpZ3Dz46KbvKjOtdbGw49wtmDFmEkHI8ctA%7EfNNBZQp0hoCBQ__",
+  "job_id": "job_qheBMwy4b7jC4UFBkTykJ7xC",
+  "asset_id": "asset_3h75fw7VQJxnVpGnFLa5jEkh",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, stylized 3D cartoon mobile game shot, top-down tilted view of a glowing cyan #00A3FF multiplier gate marked '\u00d710' with a massive royal purple #5824F5 crowd of chunky low-poly stickmen stampeding through it, yellow #FFD12C number '\u00d710 COMBO!' popping in bold cartoon font above the gate, particle sparks and rim lighting, vibrant high-contrast palette (#5824F5, #00A3FF, #FFD12C), energetic competitive mood, clean mobile-ad composition.",
+  "model_id": "flux.1-dev"
+}

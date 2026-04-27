@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "9888fad6ae816caf",
+    "ad_unit_id": "9888fad6ae816caf",
+    "app_id": "57d6bb900211a6b7290001a8",
+    "advertiser_name": "Merge Dragons!",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01b340af0f4e4063/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01b340af0f4e4063/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01b340af0f4e4063/preview",
+    "phashion_group": "9888fad6ae816caf",
+    "share": null,
+    "first_seen_at": "2026-04-13T00:00:00",
+    "last_seen_at": "2026-04-13T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Check out new exciting events!🤩",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A magical chest is tapped to reveal free gifts.",
+    "visual_action": "Text overlay flashes 'FREE GIFTS', then a hand taps a glowing chest in a fantasy forest.",
+    "text_overlay": "FREE GIFTS are waiting for you!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Intro text 'FREE GIFTS are waiting for you!' flashes over a blue forest background.",
+    "A hand taps a glowing purple and blue treasure chest sitting on a leaf.",
+    "The chest opens, and magical items fly out towards the viewer with a bright flash.",
+    "A collection grid of plants and creatures appears with 'Play & Win' and 'Collect Them All!'."
+  ],
+  "on_screen_text": [
+    "FREE GIFTS are waiting for you!",
+    "Play & Win",
+    "Collect Them All!"
+  ],
+  "cta_text": "Collect Them All!",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#4FB8C4",
+    "#FFFFFF",
+    "#F7E031"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual players who enjoy collecting cute creatures and fantasy-themed progression.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015760000000000001
+}

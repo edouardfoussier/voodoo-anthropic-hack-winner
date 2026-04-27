@@ -1,0 +1,31 @@
+{
+  "app_id": "1479551182",
+  "name": "Push'em all",
+  "genre": "Action",
+  "sub_genre": "Hypercasual",
+  "core_loop": "Swipe to move the character, use an expanding stick to push crowds of enemies off the platform, and reach the end of the level.",
+  "audience_proxy": "Casual gamers of all ages looking for simple, satisfying, and quick action-oriented gameplay sessions.",
+  "visual_style": "Minimalist 3D with bright, contrasting colors and simple stickman-like figures.",
+  "palette": {
+    "primary_hex": "#2a7dfa",
+    "secondary_hex": "#56a38b",
+    "accent_hex": "#e3001b",
+    "description": "Vibrant blue water and green/sandy platforms contrasted sharply by bright red enemy figures."
+  },
+  "key_mechanics": [
+    "swiping",
+    "pushing",
+    "crowd-control",
+    "physics-based-movement",
+    "power-ups"
+  ],
+  "character_present": true,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "Level progress timeline",
+    "Combo multiplier text",
+    "Coin currency counter",
+    "Power-up notification ('SIZE UP!')",
+    "Stickman crowds"
+  ]
+}

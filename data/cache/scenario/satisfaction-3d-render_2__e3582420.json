@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_DhrgqkbDdZeXeeet4tLabfKp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRGhyZ3FrYkRkWmVYZWVldDR0TGFiZktwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=R6zhzH626myo2O-Q-hJUOdUDrNWpYFISDvfCvz9RZDaYqFTeK%7EbNo35Ei28JhMXnbYwFdLs71yy6H1GBT3EhAWKjj7Au3H%7EFdmUFMaNzatapNENWxuEar85yspaLbp1MXuJyCmmbPzuDGTNynWCBWchCvzpC32JhKZxoSr4EMdDDhG-E3zzw4HuuYOfOgBjFZttNvc5eqIYlcG8VyYGEr4JZfDwWkUcrY9i1jEul-2P5WuG%7Ez5ThAczKea%7EABAwNo400i7l1P9-pPSMApUV62qlIM2-PfQhfpsC8I6K0ZTaUXuNtvOY44vyqQJuTD4fBdLTrhCsfK25RCWZtLOxzsg__",
+  "job_id": "job_UziUvwL3pD6wWqPkSJL5uuU4",
+  "asset_id": "asset_DhrgqkbDdZeXeeet4tLabfKp",
+  "stub": false,
+  "prompt": "Storyboard frame 3 (end card), 9:16 vertical aspect ratio. Three full pastel marble jars side by side on a light grey (#F0F0F8) shelf against a lavender (#E5DFFF) background, sparkles around them. Large rounded orange (#FFB13B) CTA button at bottom reading 'Play Free' in white. Clean and colorful 3D cartoon style with soft, rounded shapes. Bright, celebratory, satisfying finish.",
+  "model_id": "flux.1-dev"
+}

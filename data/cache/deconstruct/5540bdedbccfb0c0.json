@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "5540bdedbccfb0c0",
+    "ad_unit_id": "5540bdedbccfb0c0",
+    "app_id": "690973a175ff8bcdf7a420e8",
+    "advertiser_name": "Poker Fate: ACG Texas Hold'em",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a9b96dedc0007b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a9b96dedc0007b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a9b96dedc0007b/preview",
+    "phashion_group": "5540bdedbccfb0c0",
+    "share": null,
+    "first_seen_at": "2026-04-14T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "女神からの甘い招待。オールインで応えよ",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Provocative anime character close-ups with high-energy Japanese voiceover.",
+    "visual_action": "Close-up shots of a pink-haired anime girl in a bunny suit licking a lollipop, followed by a suggestive shot of her legs.",
+    "text_overlay": "HOSHIMIYA KANA CV: 上坂すみれ",
+    "voiceover_transcript": "あ！会長！大好き！オールイン！",
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Suggestive close-ups of the pink-haired bunny girl character.",
+    "Character splash art with name and voice actress credits.",
+    "Gameplay footage of a high-stakes poker 'All-in' move.",
+    "Winning 'Royal Flush' hand reveal with character reaction.",
+    "End card displaying game title and 'Now Available' text."
+  ],
+  "on_screen_text": [
+    "HOSHIMIYA KANA",
+    "CV: 上坂すみれ",
+    "星宮かな",
+    "ストロベリーダイキリ",
+    "All in!!",
+    "ロイヤルフラッシュ",
+    "美少女 × ドレス × ポーカー！",
+    "好評配信中"
+  ],
+  "cta_text": "好評配信中",
+  "cta_timing_seconds": 3.0,
+  "palette_hex": [
+    "#FF85B2",
+    "#FFFFFF",
+    "#301934"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Male anime enthusiasts and mobile gamers who enjoy competitive card games with waifu-style character collection.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001693
+}

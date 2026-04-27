@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-animation",
+  "visual_match": 15,
+  "mechanic_match": 10,
+  "audience_match": 25,
+  "overall": 15,
+  "rationale": "This is a Thief Puzzle / \"pull-the-pin\" style fail-bait archetype with stick-figure 2D animation, bright yellow/green palette, and a narrative-driven character gag — none of which align with Bounce Blast 3D's character-free, calm/satisfying 3D abstract physics-puzzle DNA (dark purple/orange palette, block placement + chain reactions). Mechanic match is near zero: there's no thief/draw-puzzle hook to graft onto tap-to-place block clearing without misrepresenting the product, which risks installs but terrible D1/D7 retention. Audience skews younger and meme-driven vs. the 25-55 relaxed casual target — do not greenlight; if testing fail-emotion creatives, build a native version using a \"wrong block placement → physics fail → satisfying retry\" beat instead."
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_7pxtP9rmo1TcSkV1cUKEvs3k?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfN3B4dFA5cm1vMVRjU2tWMWNVS0V2czNrP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=BRzefJlJXXFkfJYyZWxb%7ElS-8AMvcoJmb2Hy3UGOjIQJ2ZOF85H0qX6A8wJds3GL2F2fNPFLTV-fsrq1jXV9DdMIXJjviwzFAbzi7iNgs6L5mC%7EF4ayzbgXe6YaYjk7DQ5Lo7wlo7mbD41JQZ02yFdK6%7Ec2oWx4AwgZDRLkovKgoufmM8gthEMKHgWUF3Qymp%7EEWOnLcA8SCHFz8euZ7laiUrmwdvVKZRFcDQDU%7ETFOaqU97H51hFa6OrtNfKvBmwbtGBTO6ckfXw2naqc6BPyaiJcNvFkht1Z9cMU5b4KGxShA2eZ8yL4oPk7TjPyqetKUV3eUhE22kwasRGXnoGA__",
+  "job_id": "job_NpvTU7Gq7TaxhcgnhxufLYYV",
+  "asset_id": "asset_7pxtP9rmo1TcSkV1cUKEvs3k",
+  "stub": false,
+  "prompt": "Storyboard frame 3, aspect 9:16: medium shot of the same woman in a bright minimalist living room doing a small seated fist-pump victory pose, smiling calmly, royal blue (#5469B9) phone glow on her hands, navy (#1E2744) throw pillow behind her, a single gold (#FFD700) accent lamp in frame; clean vibrant abstract aesthetic featuring glossy beveled blocks shown as a faint reflection on the phone; on-screen text overlay 'Play Free \u2192'; warm, premium, calm/satisfying mood.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

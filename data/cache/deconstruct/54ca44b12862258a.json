@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "54ca44b12862258a",
+    "ad_unit_id": "54ca44b12862258a",
+    "app_id": "559edb17d2a0f9042f002a52",
+    "advertiser_name": "Casino Roulette: Roulettist",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/392bd668f68d0a46/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/392bd668f68d0a46/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/392bd668f68d0a46/preview",
+    "phashion_group": "54ca44b12862258a",
+    "share": null,
+    "first_seen_at": "2025-08-12T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Play now!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A live-action presenter introduces a roulette spin in a virtual casino setting.",
+    "visual_action": "A woman in a red blazer stands behind a digital roulette table as the wheel begins to spin.",
+    "text_overlay": "Let's spin the wheel!",
+    "voiceover_transcript": "Let's spin the wheel!",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Presenter invites the audience to watch the roulette wheel spin.",
+    "The camera zooms in on the wheel as the ball lands on the green zero.",
+    "The presenter reacts to the win and congratulates the players."
+  ],
+  "on_screen_text": [
+    "Let's spin the wheel!",
+    "Oh my, that was a fine shot! Zero wins, bet played.",
+    "Congratulations to the winners!"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#006b3c",
+    "#b31b1b",
+    "#002366"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult casino enthusiasts who enjoy the atmosphere of live-dealer table games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001359
+}

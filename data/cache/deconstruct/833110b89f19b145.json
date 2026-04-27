@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "833110b89f19b145",
+    "ad_unit_id": "833110b89f19b145",
+    "app_id": "55d939bf02ac645ad2026001",
+    "advertiser_name": "Ladbrokes Sports Betting App",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/accf1bdf55cde999/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/accf1bdf55cde999/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/accf1bdf55cde999/preview",
+    "phashion_group": "833110b89f19b145",
+    "share": null,
+    "first_seen_at": "2025-12-15T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "⚽🏇Our Bet Builder got Bigger & Better! 🏇⚽",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy sports montage and feature announcement.",
+    "visual_action": "The 'BET BUILDER+' logo slides in on a red background, followed by a dynamic collage of a footballer, boxer, and flying darts.",
+    "text_overlay": "BET BUILDER+",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Intro animation of the 'BET BUILDER+' logo on a vibrant red background.",
+    "Dynamic collage of sports figures (footballer, boxer) and equipment (darts, tennis ball) appears.",
+    "Main feature text 'BET BUILDER JUST GOT BIGGER & BETTER' is displayed with descriptive subtext.",
+    "Closing brand slogan 'THAT'S LADISFACTION' appears on screen."
+  ],
+  "on_screen_text": [
+    "BET BUILDER+",
+    "BET BUILDER JUST GOT BIGGER & BETTER",
+    "Mix Multiple Football Fixtures & other sports with Bet Builder+",
+    "18+. Odds subject to change. Restrictions and T&Cs apply.",
+    "TAKE TIME TO THINK",
+    "GambleAware",
+    "THAT'S",
+    "LADISFACTION"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#E21E26",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult sports bettors looking for more flexibility and multi-sport options in their parlay bets.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001605
+}

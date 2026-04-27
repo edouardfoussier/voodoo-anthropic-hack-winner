@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 55,
+  "mechanic_match": 62,
+  "audience_match": 78,
+  "overall": 63,
+  "rationale": "The \"SMART/GENIUS/PSYCHOPATH\" satisfaction meter is a proven casual-arcade hook that maps cleanly onto Paper.io 2's broad audience and territory-fill payoff — swap the grid for the player's expanding colored zone and the meter fills as % captured. Frictions: the centroid palette (forest green + royal blue) clashes with Paper.io 2's high-saturation neon brand, and the source hook is block-placement (Tetris/block-blast adjacency), not trail-drawing, so we'd need to re-shoot in-engine rather than reuse assets. Worth a test, but only as a custom production — do not license or directly clone the source creative."
+}

@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "82ee028d444b53b7",
+    "ad_unit_id": "82ee028d444b53b7",
+    "app_id": "55d939bf02ac645ad2026001",
+    "advertiser_name": "Ladbrokes Sports Betting App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/16245adc4e9bb76e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/16245adc4e9bb76e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/16245adc4e9bb76e/preview",
+    "phashion_group": "82ee028d444b53b7",
+    "share": null,
+    "first_seen_at": "2026-01-13T00:00:00",
+    "last_seen_at": "2026-03-31T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Build it your way. Get a free bet. That's Ladisfaction",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A skydiver jumps from a plane to illustrate the 'lengths' he goes to for a bet.",
+    "visual_action": "Close-up of a man in a helmet jumping out of a plane door into a freefall over a rural landscape.",
+    "text_overlay": "Ladbrokes GambleAware 18+",
+    "voiceover_transcript": "Whatever lengths you go to to build your bet builder...",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "A man jumps out of a plane while talking about the effort he puts into his bet builder.",
+    "Mid-air shot of the man checking the Ladbrokes app on his phone while falling.",
+    "Transition to a graphic overlay explaining the weekly free bet offer for the Premier League.",
+    "Closing brand screen with the 'Ladisfaction' slogan and responsible gambling information."
+  ],
+  "on_screen_text": [
+    "Ladbrokes",
+    "GambleAware 18+",
+    "YOU BUILD IT. WE GIVE YOU A FREE BET.",
+    "THAT'S LADISFACTION",
+    "taketimetothink.co.uk",
+    "TAKE TIME TO THINK"
+  ],
+  "cta_text": "YOU BUILD IT. WE GIVE YOU A FREE BET.",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#E2001A",
+    "#FFFFFF",
+    "#4C7031"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Male sports betting enthusiasts aged 18-45 who follow the Premier League.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001816
+}

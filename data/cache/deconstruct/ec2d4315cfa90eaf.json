@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "ec2d4315cfa90eaf",
+    "ad_unit_id": "ec2d4315cfa90eaf",
+    "app_id": "6697ac96aa318ab3c8d162e7",
+    "advertiser_name": "Mystery Town: Merge Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/036f0472392702cf/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/036f0472392702cf/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/036f0472392702cf/preview",
+    "phashion_group": "ec2d4315cfa90eaf",
+    "share": null,
+    "first_seen_at": "2026-03-13T00:00:00",
+    "last_seen_at": "2026-03-30T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Satisfying ice cream matching gameplay in a tropical setting.",
+    "visual_action": "A player flicks an ice cream sundae from the bottom of the screen to match it with a cluster at the top, earning coins.",
+    "text_overlay": "To-Go Order",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "The scene opens on a sandy table with various ice cream sundaes and a 'To-Go Order' sign.",
+    "The player launches a pink sundae from the bottom to match one in the center, earning coins.",
+    "Successive matches are made with different sundae types, causing the coin counter to increment from 100 to 130.",
+    "The gameplay loop continues with smooth animations and a relaxing beach backdrop."
+  ],
+  "on_screen_text": [
+    "100",
+    "To-Go Order",
+    "110",
+    "120",
+    "130"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#87CEEB",
+    "#F5F5DC",
+    "#FFB6C1"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual gamers who enjoy relaxing matching puzzles with a dessert or food theme.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001628
+}

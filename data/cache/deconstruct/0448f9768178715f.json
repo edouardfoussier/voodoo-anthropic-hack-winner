@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "0448f9768178715f",
+    "ad_unit_id": "0448f9768178715f",
+    "app_id": "58f8371eeab9545843000f03",
+    "advertiser_name": "Critical Strike CS: Online FPS",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/462c5671794d9b57/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/462c5671794d9b57/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/462c5671794d9b57/preview",
+    "phashion_group": "0448f9768178715f",
+    "share": null,
+    "first_seen_at": "2023-10-10T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "COUNTER STRIKE MOBILE!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "UGC creator reacts with shock and disbelief to a classic tactical shooter menu screen.",
+    "visual_action": "A man wearing sunglasses is keyed over a game menu featuring tactical soldiers, gesturing wildly.",
+    "text_overlay": "AINT NOWAY, BRO.",
+    "voiceover_transcript": "Ain't no way, bro. For real? For real? For real?",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "UGC creator expresses shock at the game's availability on mobile.",
+    "Creator continues to react excitedly while the game menu remains static in the background.",
+    "The App Store badge is prominently displayed throughout the entire clip to drive immediate conversion."
+  ],
+  "on_screen_text": [
+    "NEW GAME",
+    "FIND SERVERS",
+    "OPTIONS",
+    "QUIT",
+    "AINT NOWAY, BRO.",
+    "Download on the App Store"
+  ],
+  "cta_text": "Download on the App Store",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#D4FF00",
+    "#000000",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Young male gamers 18-30 who enjoy tactical shooters and follow high-energy UGC reaction content.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001271
+}

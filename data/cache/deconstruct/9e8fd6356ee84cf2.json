@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "9e8fd6356ee84cf2",
+    "ad_unit_id": "9e8fd6356ee84cf2",
+    "app_id": "66d211d85ca5ed0dbdb92d59",
+    "advertiser_name": "Capybara Go!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029a5276c6783a1f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029a5276c6783a1f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/029a5276c6783a1f/preview",
+    "phashion_group": "9e8fd6356ee84cf2",
+    "share": null,
+    "first_seen_at": "2026-01-08T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Best Game of the Year 2025! Tons of rewards! Super stress relieving!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A man portrays a weak Level 1 player complaining about his basic weapon.",
+    "visual_action": "A man in a striped shirt holds a black stick like a club in a bedroom setting.",
+    "text_overlay": "Level 1 Players: \"My capybara only has a club 🙄\"",
+    "voiceover_transcript": "Wobbly wobbly wobbly wobbly wobbly wobbly",
+    "emotional_pitch": "fail"
+  },
+  "scene_flow": [
+    "Level 1 player shown with basic gear and a disappointed expression.",
+    "Transition to 'Pro' player using a promotional code 'LUCKY666'.",
+    "Pro player shown with enhanced visual effects like glowing eyes and a mustache filter.",
+    "Pro player performs a rhythmic dance to the music to show off superior loot."
+  ],
+  "on_screen_text": [
+    "Level 1 Players:",
+    "\"My capybara only has a club 🙄\"",
+    "Pros using code \"LUCKY666\" off this video and getting the best loot"
+  ],
+  "cta_text": "Pros using code \"LUCKY666\"",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#2E2E2E",
+    "#FFFFFF",
+    "#8B4513"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Young male gamers 18-30 who enjoy RPG progression and loot-based games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001273
+}

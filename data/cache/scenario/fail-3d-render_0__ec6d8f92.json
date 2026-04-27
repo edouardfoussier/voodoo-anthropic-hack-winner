@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_BVLYbxDZDXNeQuW6ccKUBhAp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQlZMWWJ4RFpEWE5lUXVXNmNjS1VCaEFwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=KLvPLjkhk70vt3ONaxeUBWERsBWYPmQrMsEnA%7EpBk8LEvcHXkvg1PUuRjBJ9kpkDVKyss9tgKdc6UM712JUq%7EU4RuowdHmfkb8lSDiBCEDqCu3J1-4jx-aIf4MBMc47hcTndYFaquKFlgk8Y2aqa45nsRqxRt7IkrBWmRGLHFMFXZfnUpsH6bLKBcDNlxYuXIEYEZVsBjyaVMtpZMoU%7E8HqzCubGK5efKd8AKsaIW3uUxw1IP1HqSV8920iQS082wCiENTLyZlwgoR93qXTXaEx1oabzgltHHm%7ECuyy9zX5GfKEFwWTAAeLft68UMCYoNJgbUCEtlu0-IlE51iqtpg__",
+  "job_id": "job_YaNsDVRj4GEFft7MRQkFftiF",
+  "asset_id": "asset_BVLYbxDZDXNeQuW6ccKUBhAp",
+  "stub": false,
+  "prompt": "Hero frame, vertical 9:16 mobile screenshot, classic 2D flat design solitaire game with traditional green felt aesthetic, casino green background (#1A874B) filling the screen, seven tableau columns of crisp white playing cards (#FFFFFF) with bright red hearts and diamonds (#E31C1B) and black spades/clubs, four foundation slots top-right with three Aces already placed, timer HUD top-center reading '0:03' glowing red, score counter and undo + finish buttons along the bottom bar, a fingertip mid-drag pulling a red Queen of Hearts toward a black King, large bold red stamp text overlay 'WRONG MOVE \u2717' slammed diagonally across center, authentic in-game UI chrome matching Solitaire - Voodoo Card Game!, no characters, no humans, no animals, flat 2D vector style, sharp shadows under cards, high contrast, mobile ad creative",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

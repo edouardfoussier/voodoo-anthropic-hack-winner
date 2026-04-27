@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_g6YXRu1ZRws6d7DzfUeQ5FdR?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZzZZWFJ1MVpSd3M2ZDdEemZVZVE1RmRSP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=n5mGGL9ebvsaYQ6gW5zu-MB9lFS9UrH%7EBhsLzmSzFc7AOS4DirWADfbjr9RctXhEwxZ6hEJFZiGHpmubcGc09MwLtsW8HGSJpkucjL7lMu8zXQWJCOEbrT8nSveCqq1LtOGCypNcwBl%7EfLwSU3d5EWd1elMBqFU7rYFQZNX7TIhZy4%7EWdxYqp7zhmjYvtPK7ej02cvZoP3RwQJW2Y6lXTncm0asLbzwpchfK01h9KJg-G9PiJuaxdJlhDdlp2Hx%7EabAe0tmuzkM25c7DresL2CrnUlZ-xcwobINjSGSscf%7ENXLsQg0BNwPh6Rqtren67ONBh7OBuTSXTl-I4TSQiew__",
+  "job_id": "job_ivazeBqoYJuopFAE15wPEDoX",
+  "asset_id": "asset_g6YXRu1ZRws6d7DzfUeQ5FdR",
+  "stub": false,
+  "prompt": "9:16 vertical mobile reveal frame, Mystical Minimalism, black #100D06 backdrop dissolving into a gold-lit silhouette portrait of a famous athlete rendered only in golden-yellow #D4A024 and pale gold #FCE588 light strokes, swirling gold dust confetti, elegant serif overlay text 'Solved in 7.' in #FCE588, triumphant minimal payoff frame, cinematic premium feel",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

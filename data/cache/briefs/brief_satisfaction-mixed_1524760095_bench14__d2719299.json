@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1524760095",
+  "title": "\"Ever Felt THIS Satisfying?\" — Pole Extension ASMR",
+  "hook_3s": "A finger drags across a cyan rooftop as the runner's balancing pole snaps longer, longer, LONGER — each pole piece clicking on with a buttery chime.",
+  "scene_flow": [
+    "0-3s: Close-up POV behind the runner on a stark white rooftop path, finger swipes left-right collecting yellow pole pieces — pole visibly grows with satisfying click-click-click.",
+    "3-7s: Camera pulls back as the now-massive pole locks onto two parallel rails between skyscrapers; runner slides smoothly across a cyan city skyline, diamonds chiming into the counter.",
+    "7-11s: Tension beat — a spinning saw obstacle slices a chunk off the pole; quick gasp, then player collects a burst of pole pieces to recover, pole regrows in one oddly-satisfying snap.",
+    "11-14s: Triumph slide across the longest rail yet, pole perfectly balanced, level progress bar fills to 100% with a yellow flash.",
+    "14-15s: Freeze on hero pose mid-slide, CTA card slams in over the cyan skyline."
+  ],
+  "visual_direction": "Lock to Roof Rails' signature 3D minimalist look: stark #EAF6FA white rooftop ribbon cutting through a #5CD6FF pastel-cyan sky and blocky cyan/white skyscrapers, with #FFC824 yellow pole pieces and diamonds as the only warm pop. Clean uncluttered geometry, soft ambient occlusion, no textures — just flat pastel color blocks. Camera stays in the game's signature low third-person chase angle so every frame reads as authentic gameplay; HUD (top-left diamond counter, top progress bar, level indicator) always visible. Satisfaction comes from the rhythmic visual stacking of yellow pole pieces and the smooth rail-slide motion blur, not from added VFX.",
+  "text_overlays": [
+    "Ever played a game that ACTUALLY relaxes you?",
+    "Just… collect 👆",
+    "Watch the pole grow 🟡🟡🟡",
+    "Don't let it snap! ⚠️",
+    "So satisfying 🤤",
+    "Your turn →"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Roof Rails rotation is all wordless gameplay loops and a static playable — they have ZERO satisfaction-question/UGC-voiceover hooks, which is exactly the archetype winning the market right now. This brief grafts the proven \"Hey! Have you played a game that actually relaxes you?\" opener onto Roof Rails' native pole-extension loop, so we get the trending hook WITHOUT the bait-and-switch risk flagged in game-fit (no stylus, no top-down sort — just runner POV + ASMR pole clicks). UA: ship as a 15s video first to validate the VO hook against the silent incumbents, then port the winning beats into a playable variant.",
+  "scenario_prompts": [
+    "Roof Rails authentic in-game frame, 9:16 vertical aspect, third-person chase camera low behind the runner on a stark white #EAF6FA rooftop ribbon path between bright pastel #5CD6FF cyan blocky skyscrapers, character holding a long horizontal balancing pole studded with glowing #FFC824 yellow pole-piece segments, more yellow pole pieces floating in a row ahead waiting to be collected, top-left diamond currency counter and top horizontal level progress bar HUD visible, 3D minimalist with simple geometry, bright pastel colors, clean uncluttered aesthetic, soft ambient occlusion, no textures, on-screen text overlay reading 'Ever played a game that ACTUALLY relaxes you?' in bold white sans-serif at top. [Audio: VO warm female 'Hey — ever played a game that actually relaxes you?' / chill energetic-competitive lo-fi trap 95 BPM with crisp hi-hats / rhythmic click-click chime as each yellow pole piece snaps onto the pole, soft whoosh of forward run.]",
+    "Roof Rails authentic in-game frame, 9:16 vertical aspect, mid-action shot of the runner sliding on two parallel thin white rails stretched between two #5CD6FF cyan pastel skyscrapers high above a minimalist city, the balancing pole now extremely long and lined with #FFC824 yellow segments perfectly bridging both rails, #EAF6FA white clouds and clean sky background, diamond pickups sparkling along the rail path, HUD progress bar near-full and diamond counter ticking up, 3D minimalist simple geometry, bright pastel palette of #5CD6FF cyan, #EAF6FA white, #FFC824 yellow, clean uncluttered aesthetic, on-screen text overlay 'Watch the pole grow 🟡🟡🟡' in chunky white sans-serif center-screen. [Audio: VO 'Just collect… and slide' / upbeat energetic trap build 100 BPM / smooth metallic rail-slide whoosh, satisfying chime cascade on diamond pickups.]",
+    "Roof Rails authentic in-game frame, 9:16 vertical aspect, dramatic close shot of a spinning grey saw-blade obstacle mid-rooftop slicing into the runner's long yellow #FFC824 pole, several pole pieces flying off in a clean arc, runner still on the stark #EAF6FA white path between #5CD6FF cyan blocky buildings, HUD level indicator and progress bar visible top of screen, 3D minimalist simple geometry, bright pastel colors, clean uncluttered aesthetic, no textures just flat color blocks, on-screen text overlay 'Don't let it SNAP! ⚠️' in bold yellow sans-serif with slight shake. [Audio: VO gasp then 'oh no—' / tension-drop trap stutter 95 BPM / sharp saw-buzz SFX at 0.8s, wood-snap crack as pole pieces fly, quick recovery chime at 3.5s.]"
+  ]
+}

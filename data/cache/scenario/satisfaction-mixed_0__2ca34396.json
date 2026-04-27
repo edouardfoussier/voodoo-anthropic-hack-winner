@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_dC6ahmJs6RX7xvwcxgpV1GQJ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZEM2YWhtSnM2Ulg3eHZ3Y3hncFYxR1FKP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=R4lLoQGavE%7ETfiP0CJjxaZxC5dJkRSfcEJux1Td%7E5Ur6tnqX6Apv3iwFcklAcCryQthQV7cA%7E9kTP8RMDHiG06TPRvxlcBQljmRd7cQMIPJICf8cDrDzn0SGpJa2FOOYqVL3ubjJJ6Pl%7EJjcb4FZxtmpXEzUqbLFyYj6Ey5uV67KKrxChCPAIs17EJpHreZgm%7EDFCHPyBsTxvdRsHOvhCeUOBCSd%7EJNkMjwxGTRArASXoXEfTDtBlJMDnSgwz91LV4m4sKl2ANr6LtWZ-ovHm7zQfBEcFUHZ0gB9K5p87%7E4r7UHoosUglEFfHmnm3qpjxy4sTD3oWMRmpODLaqHqPA__",
+  "job_id": "job_SpBs4k4HgL2Pjyaqh1gHsmAu",
+  "asset_id": "asset_dC6ahmJs6RX7xvwcxgpV1GQJ",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, Stylized 3D Cartoon: first-person POV of a young man belly-flopping onto a messy bed holding a glowing smartphone, phone screen blasts royal purple #5824F5 and cyan #00A3FF light across his face and the bedroom walls, warm yellow #FFD12C lamp accent, cinematic shallow depth of field, energetic handheld feel, large bold white on-screen text 'POV: I rushed home just to play this', high contrast, mobile-ad composition.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "ba0bfa636895f462",
+    "ad_unit_id": "ba0bfa636895f462",
+    "app_id": "55d20e3b02ac64ee73000055",
+    "advertiser_name": "Jackpot Party - Casino Slots",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b763bcfde2f517ad/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b763bcfde2f517ad/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b763bcfde2f517ad/preview",
+    "phashion_group": "ba0bfa636895f462",
+    "share": null,
+    "first_seen_at": "2025-11-24T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Miss the party? Return now and enjoy massive wins again!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A purple wolf blows away a grid of houses to reveal a hidden mansion.",
+    "visual_action": "The wolf character takes a deep breath and blows, clearing the screen of small house icons.",
+    "text_overlay": "JACKPOT PARTY",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A purple wolf peers over a dense grid of small brick house icons.",
+    "The wolf inhales and blows a powerful gust of wind, scattering the houses.",
+    "A grand mansion and lush garden are revealed behind the cleared icons.",
+    "The game title 'Huff N' Even More Puff Grand' and 'Jackpot Party' logo appear.",
+    "A 'PLAY NOW!' button is displayed as gold coins rain down across the screen."
+  ],
+  "on_screen_text": [
+    "JACKPOT PARTY",
+    "HUFF N' EVEN MORE PUFF GRAND",
+    "PLAY NOW!"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#A084CA",
+    "#2E7D32",
+    "#FFD700"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult social casino players who enjoy classic slot themes and satisfying visual progression.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001592
+}

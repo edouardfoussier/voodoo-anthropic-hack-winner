@@ -1,0 +1,154 @@
+{
+  "count": 908,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "36fda4bcccdf568e",
+      "app_id": "64b3d49432c4c106de15913b",
+      "network": "TikTok",
+      "phashion_group": "36fda4bcccdf568e",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-18",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "36fda4bcccdf568e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/94571721e8371a4c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/94571721e8371a4c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/94571721e8371a4c/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "message": "\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u3092\u6795\u5143\u306b\u7f6e\u3044\u3066\u30dd\u30b1\u30e2\u30f3\u3068\u697d\u3057\u304f\u7761\u7720\u7ba1\u7406 \u4eca\u3059\u3050\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "64b3d49432c4c106de15913b",
+        "canonical_country": "JP",
+        "name": "Pok\u00e9mon Sleep",
+        "publisher_name": "The Pok\u00e9mon Company",
+        "publisher_id": "561542d73f07e25d2903e682",
+        "humanized_name": "Pok\u00e9mon Sleep",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/a2/d2/11a2d231-8d20-4c7a-89a2-e81456b3c013/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "64b3d49432c4c106de15913b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e4ce88977e588e50",
+      "app_id": "66c292ff6bbfce0e306de36b",
+      "network": "TikTok",
+      "phashion_group": "e4ce88977e588e50",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "e4ce88977e588e50",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/81db4098e41d387d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/81db4098e41d387d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/81db4098e41d387d/thumb",
+          "video_duration": 10,
+          "width": 720,
+          "height": 1280,
+          "message": "\u30dd\u30b1\u30dd\u30b1\u306f\u3001\u30d0\u30c8\u30eb\u3060\u3051\u3058\u3083\u306a\u3044\uff01\u6c17\u8efd\u306b\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u3092\u697d\u3057\u3082\u3046"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66c292ff6bbfce0e306de36b",
+        "canonical_country": "US",
+        "name": "Pok\u00e9mon TCG Pocket",
+        "publisher_name": "The Pok\u00e9mon Company",
+        "publisher_id": "561542d73f07e25d2903e682",
+        "humanized_name": "Pok\u00e9mon TCG Pocket",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f4/f6/07f4f628-905e-6843-613f-2c59038004be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66c292ff6bbfce0e306de36b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e196ea180d4e17fc",
+      "app_id": "6967199ff897ed1de46b7c56",
+      "network": "TikTok",
+      "phashion_group": "e196ea180d4e17fc",
+      "ad_type": "video",
+      "first_seen_at": "2025-07-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "e196ea180d4e17fc",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/88f6411f611c51e4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/88f6411f611c51e4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/88f6411f611c51e4/thumb",
+          "video_duration": 6,
+          "width": 720,
+          "height": 1280,
+          "message": "\u6709\u540d\u7af6\u8d70\u99ac\u30fb\u9a0e\u624b\u304c\u5b9f\u540d\u3067\u767b\u5834\u3059\u308b\u7af6\u99ac\u30e1\u30c0\u30eb\u30b2\u30fc\u30e0\uff01\u4eca\u3059\u3050\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\uff01"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6967199ff897ed1de46b7c56",
+        "canonical_country": "JP",
+        "name": "\u30d1\u30ef\u30d7\u30ed\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30ba",
+        "publisher_name": "Konami",
+        "publisher_id": "560c84aa8ac3506439034e48",
+        "humanized_name": "\u30d1\u30ef\u30d7\u30ed\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30ba",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/fa/2c/e9fa2c72-8348-16d7-1b87-7d8a53bf32c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6967199ff897ed1de46b7c56",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0317362c99408721",
+      "app_id": "55c5337402ac64f9c0002ef6",
+      "network": "TikTok",
+      "phashion_group": "0317362c99408721",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-17",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "0317362c99408721",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/991569fe0dbb28e2/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/991569fe0dbb28e2/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/991569fe0dbb28e2/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "message": "\u30d3\u30b8\u30e5\u30a2\u30eb\u304c\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u3057\u305feFootball\u2122\u3092\u697d\u3057\u3082\u3046"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5337402ac64f9c0002ef6",
+        "canonical_country": "JP",
+        "name": "\u5b9f\u6cc1\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u7403",
+        "publisher_name": "Konami",
+        "publisher_id": "560c84aa8ac3506439034e48",
+        "humanized_name": "\u5b9f\u6cc1\u30d1\u30ef\u30d5\u30eb\u30d7\u30ed\u91ce\u7403",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/e0/78/a5e0781c-b24a-67cd-dde2-377d70940bbc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5337402ac64f9c0002ef6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

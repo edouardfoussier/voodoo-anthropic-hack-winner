@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-in-game",
+  "target_game_id": "1235581326",
+  "title": "Flappy Dunk · \"Why This Hoop Is So Hard\" Fail Bait",
+  "hook_3s": "A player taps too late — the ball clips the rim, ricochets off three hoops and faceplants on the beige court. \"Bet you can't beat this.\"",
+  "scene_flow": [
+    "0-3s: Cold open mid-match. VS HUD visible (player vs opponent score 0-0). A finger taps; ball arcs toward a magenta hoop and CLANGS the rim — slow-mo wobble.",
+    "3-7s: Ball pinballs between two more hoops, lives/hearts indicator drains from 3 to 1. Big text overlay: 'WHY THIS LEVEL IS SO HARD'.",
+    "7-11s: Cursor-style finger retries — taps too early, ball nosedives past the final hoop, opponent scores. Red 'MISS' stamp + combo break shatter FX.",
+    "11-14s: Quick cut montage of three near-miss attempts ending in cartoon faceplants on the beige court.",
+    "14-15s: Freeze on losing scoreboard. CTA banner slams in: 'CAN YOU WIN?' with Install button."
+  ],
+  "visual_direction": "Lean fully into the Flappy Dunk DNA: warm beige (#EAD5A0) court background, saturated magenta (#D81155) hoops and banners, bright blue (#5CB3FF) ball trail and accent UI. Thick black outlines on every object, flat shading, no gradients. Keep the authentic VS matchmaking HUD, lives/hearts row, and combo counter on-screen at all times. Camera stays locked in the standard side-on gameplay framing — the only \"ad\" layer is bold sans-serif overlay text and a giant cursor-finger to sell the fail-bait trope.",
+  "text_overlays": [
+    "WHY THIS HOOP IS SO HARD 😤",
+    "Tap too early…",
+    "Tap too late…",
+    "MISS!",
+    "CAN YOU WIN?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Flappy Dunk rotation is all \"best basketball game\" brag-video and silent playables — they have ZERO fail-bait creatives, despite fail-in-game being a proven hypercasual scroll-stopper. This brief plugs that gap by importing the archetype's challenge-frame (\"can you win?\") while staying mechanically honest to tap-timing hoop play. UA team: A/B this against the YouTube brag videos on TikTok/Reels where fail-bait outperforms boast-led copy.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic Flappy Dunk in-game screenshot: blue basketball mid-bounce clipping the rim of a magenta (#D81155) hoop on a warm beige (#EAD5A0) court background, bright blue (#5CB3FF) motion trail, thick black outlines, flat shading, vibrant high-contrast colors, 2D cartoon style. On-screen HUD: VS scoreboard top-center showing 0-2, three hearts in top-left with one greyed out, combo counter '0x'. Giant white cursor-finger overlay tapping the screen. Bold black sans-serif overlay text: 'WHY THIS HOOP IS SO HARD 😤'. No human character. [Audio: VO (frustrated gen-z) 'bro this level is RIGGED' / punchy upbeat trap 128bpm with competitive snare rolls / clang-on-rim at 0.8s, whoosh on cursor tap, fail-buzzer at 4.5s]",
+    "Storyboard frame, aspect 9:16, Flappy Dunk gameplay still: blue ball nosediving below a magenta hoop ring, beige (#EAD5A0) court, blue (#5CB3FF) trail breaking apart into particles, red 'MISS!' stamp slammed across center, magenta (#D81155) banner at bottom, thick black outlines, flat shading, 2D cartoon style, vibrant high-contrast colors. HUD shows lives indicator at 1 heart, opponent score ticking up. Overlay text: 'TAP TOO LATE…'. [Audio: VO 'NO WAY' / energetic competitive trap 128bpm / shatter SFX on miss, crowd 'ooooh' sting at 2s, heart-loss blip at 3s]",
+    "Storyboard frame, aspect 9:16, Flappy Dunk end-card: losing scoreboard center-screen on warm beige (#EAD5A0) background, magenta (#D81155) CTA banner reading 'CAN YOU WIN?' with bright blue (#5CB3FF) Install button, blue basketball deflated next to a magenta hoop, thick black outlines, flat shading, vibrant high-contrast 2D cartoon style. Bold overlay text: 'CAN YOU WIN?'. No character on screen. [Audio: VO (taunting) 'only 3% finish this — prove me wrong' / triumphant competitive trap drop 130bpm / button-tap chime at 1s, coin-jingle on CTA reveal at 2.5s]"
+  ]
+}

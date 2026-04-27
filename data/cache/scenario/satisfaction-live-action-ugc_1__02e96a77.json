@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_wni2uFFmNzR3sH3jJt4kwXY2?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfd25pMnVGRm1OelIzc0gzakp0NGt3WFkyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=hvvTthRCIDhD3QU4bnXoiOSV-3A41xCUVbPNlVAZ2qWz0vnOkWaCt90Q9bhz3h%7EM2ezLZjb%7EBkUDQfPScNy0-uMHudjqPr%7ERBNptzegE1mvczy0eMdDszklEo3tR4dJT9HlW-kmKp1LO2jCSAewrTt6matw9fh6JeyqZP%7E0ANQh-w10-srTrgd6RTDNxvQtf%7E-Tpi5u-nw%7EOPRQPAbbr74ai3g5j5fWOb-8J9APgmHGnKhFzXiO1r7jp8Pgs0BHe-NO4SBPLAT7zqsZbA2H%7E7E2TGtte8rIMm0uUeX-rVdGdfIcZKAXiSFuYSXSCYqbsxM5UkOCTXVqMrxUKrI1l7w__",
+  "job_id": "job_3b8bHAKbe4AT5SqzWV8KvW4f",
+  "asset_id": "asset_wni2uFFmNzR3sH3jJt4kwXY2",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, Stylized 3D Cartoon style: over-the-shoulder shot of a smartphone screen showing a massive cel-shaded purple stickman crowd flooding through a glowing multiplier gate labeled 'x8', cannon at the bottom, enemy red base in the distance, palette dominated by royal purple #5824F5 and cyan #00A3FF with #FFD12C yellow gate numbers and coin sparks, on-screen text 'watch the multiplier hit\u2026' at top, glossy chunky 3D render, vibrant hyper-casual game UI",
+  "model_id": "flux.1-dev"
+}

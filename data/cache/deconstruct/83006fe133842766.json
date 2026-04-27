@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "83006fe133842766",
+    "ad_unit_id": "83006fe133842766",
+    "app_id": "55c52ea602ac64f9c0002d3b",
+    "advertiser_name": "Praia Bingo: Jogos de Bingo",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00878a3f33c48b46/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00878a3f33c48b46/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00878a3f33c48b46/preview",
+    "phashion_group": "83006fe133842766",
+    "share": null,
+    "first_seen_at": "2026-04-14T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Escolha seu time e jogue no bingo mais emocionante!\nBaixe agora e participe da disputa! Quem vai ser o vencedor?",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid-fire bingo gameplay showing numbers being marked off quickly.",
+    "visual_action": "Bingo balls rolling and cards being filled with blue and yellow highlights.",
+    "text_overlay": "BINGO 1.000, DUAS DUPLAS, PRAIA BINGO",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Fast-paced montage of bingo numbers being called and marked on multiple cards.",
+    "The player hits a 'BINGO' and a celebratory graphic flashes on screen.",
+    "Final end card showing the game logo, a mascot, and a 'Play Now' button over a grid of bingo cards."
+  ],
+  "on_screen_text": [
+    "BINGO 1.000",
+    "DUAS DUPLAS",
+    "PRAIA BINGO",
+    "BINGO!",
+    "GRÁTIS",
+    "JOGUE AGORA"
+  ],
+  "cta_text": "JOGUE AGORA",
+  "cta_timing_seconds": 6.0,
+  "palette_hex": [
+    "#5D2E8C",
+    "#2196F3",
+    "#FFD700"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual adults in Brazil who enjoy social bingo games and vibrant, beach-themed aesthetics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001523
+}

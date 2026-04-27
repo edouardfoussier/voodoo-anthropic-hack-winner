@@ -1,0 +1,11 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_H5ce9FD1zuqAEK5EpPZBM4XH?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSDVjZTlGRDF6dXFBRUs1RXBQWkJNNFhIP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=dZmklX3SiGEu7RafADODRz5th1pH7gm0mhSg6jOni0q8yGSJLP1hcOR%7Ev879o8bs27372fl1QC2lDPajiEBOusxlp4AW-qbrT%7EBTMsDtbfGCqejSSikfp%7E9gkiSpfPR2TMNgSG%7En%7EHYtABnGJRvlLumIGdnTTuzw9wBe6K%7Ei1JtxWu%7EaLAQ69FYY9ZVseMNjykaHITUxGXOBeG1rpRuKifKT3vZiXmMl3%7ExzMDqpS1tQwT%7EgiYwDZ4gAZGAd86S2rbR7DfVMRCLHSpI0f25IJxmxvNU-lYE-8euuTRV50HM4dHu2IM-KH6w3SRBIzzXJucHeZNbKmtjy2a1uI-U9NA__",
+  "job_id": "job_TVSQQXkfRjLU7bMTcSsLHGRu",
+  "asset_id": "asset_H5ce9FD1zuqAEK5EpPZBM4XH",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, 3D Casual Abstract style, first-person POV of a hand holding a smartphone in a dim moody living room, phone screen fills 70% of frame showing a physics puzzle: deep charcoal #20232B background, plush purple #403F6D rounded grid frame with colored blocks mid-placement, glowing amber #FDBA4D progress bar at top and bouncing balls leaving warm light trails, soft bloom, cinematic depth of field, on-screen text overlay reading 'POV: my 5-minute reset' in clean bold white sans-serif, premium casual mobile game ad still",
+  "model_id": "flux.1-dev",
+  "mode": "img2img",
+  "reference_image": "00.png",
+  "img2img_strength": 0.6
+}

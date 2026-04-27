@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-animation",
+  "target_game_id": "6754363534",
+  "title": "Sand Loop — Charge & Release: The Satisfying Pixel Reveal",
+  "hook_3s": "Macro shot of jewel-toned sand streams pouring from buckets onto a glowing conveyor — a single grain falls into place with a soft 'tink'.",
+  "scene_flow": [
+    "0-3s HOOK: Extreme close-up of vibrant sand cascading from a tilting bucket onto a moving conveyor belt; audio = ASMR pour + soft chime.",
+    "3-7s SETUP: Pull back to reveal multiple color-coded buckets above a conveyor; finger taps release red sand into a red-coded slot — satisfying snap-to-grid feedback.",
+    "7-11s TENSION: A 'wrong color' near-miss — yellow sand drifts toward a blue lane; a perfectly timed tap diverts it. Lock-and-key obstacle clicks open.",
+    "11-14s PAYOFF: Camera tilts down to show the pixel-art image (a cute cat) completing grain-by-grain in a sparkling reveal.",
+    "14-15s CTA: Finished pixel art glows; logo + 'Play Now' button pulses."
+  ],
+  "visual_direction": "Lean fully into the calm/satisfying ASMR DNA: sky-blue (#4A90E2) backdrop with soft gradient, crisp white (#FFFFFF) conveyor and UI chrome, and gold (#FFD700) accents on buckets, taps, and the final reveal sparkle. Use 3D stylized props (chunky buckets, rounded conveyor) contrasted against crisp pixel-art sand compositions. Macro depth-of-field, shallow focus on sand grains, gentle bloom on the gold accents. Motion is unhurried — every tap produces a clean haptic-style visual pop. No anime tropes, no power-fantasy bombast; the 'satisfaction' beat from the archetype is preserved purely through tactile pour-and-snap moments and the climactic pixel reveal.",
+  "text_overlays": [
+    "Tap to pour",
+    "Match the color",
+    "Don't mix them up!",
+    "Watch it come to life…",
+    "Can you finish it?",
+    "Play Now"
+  ],
+  "cta": "Play Free",
+  "rationale": "We keep the archetype's 'satisfaction' emotional pitch but swap anime power-charge for ASMR pour-and-reveal — the actual moment-to-moment feel of Sand Loop. The hero beat (macro sand cascade + pixel reveal) is gameplay-truthful, IP-safe, and built to stop the scroll for 25-45 casual puzzlers. UA: test against ASMR/sorting lookalikes; the near-miss beat is the variant lever — A/B with and without the 'Don't mix them up!' tension overlay.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 mobile ad still: extreme macro shot of vibrant pixel-art sand grains pouring from a glossy 3D stylized bucket onto a clean white conveyor belt, sky-blue gradient background (#4A90E2), white conveyor (#FFFFFF), gold accents and sparkle highlights (#FFD700), shallow depth of field, soft bloom, calm ASMR mood, 3D stylized objects with vibrant colors and pixel-art sand compositions, on-screen text 'Tap to pour' in bold rounded white sans-serif at top, app store ad composition, ultra crisp, high saturation.",
+    "Storyboard frame, vertical 9:16: top-down angled view of three color-coded 3D buckets (red, blue, yellow) hovering above a white conveyor belt carrying streams of matching pixel-art sand into colored slots, sky-blue background (#4A90E2), white belt (#FFFFFF), glowing gold tap indicator (#FFD700) on the red bucket, 3D stylized objects with vibrant colors and pixel-art sand compositions, clean UI, soft shadows, on-screen text 'Match the color' centered in bold white sans-serif, mobile playable ad style.",
+    "Storyboard payoff frame, vertical 9:16: a completed pixel-art cat image fully formed from colorful sand grains glowing on the conveyor, gold sparkle particles (#FFD700) bursting upward, sky-blue backdrop (#4A90E2), white frame and UI elements (#FFFFFF), 3D stylized objects with vibrant colors and pixel-art sand compositions, joyful satisfying reveal moment, on-screen text 'Watch it come to life…' in white bold rounded sans-serif at top with a pulsing yellow Play Now button at bottom."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "6d02e264d0a4f33d",
+    "ad_unit_id": "6d02e264d0a4f33d",
+    "app_id": "663a25f4e0e45603950b2ec5",
+    "advertiser_name": "YoYa Time: Build, Share & Play",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfbfe9c019c06d88/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfbfe9c019c06d88/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfbfe9c019c06d88/preview",
+    "phashion_group": "6d02e264d0a4f33d",
+    "share": null,
+    "first_seen_at": "2026-02-09T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Dressing Up: Engage & Play with Our Fashion Games",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A character walks into a 'Sparkle Changing Room' and is instantly transformed into a high-fashion avatar.",
+    "visual_action": "A 2D animated character walks across the screen and enters a purple curtained changing room.",
+    "text_overlay": "SPARKLE CHANGING ROOM",
+    "voiceover_transcript": null,
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "Character enters the changing room and reveals a pink Y2K-inspired outfit with Hello Kitty boots.",
+    "Fast-paced montage of the in-game customization menu selecting hair, clothes, and accessories.",
+    "Final reveal of a glamorous blonde character with a pink fur coat and a small dog.",
+    "Showcase of a third character in baggy jeans and a street-style look.",
+    "End screen with a 'PLAY' button and app store icons."
+  ],
+  "on_screen_text": [
+    "SPARKLE CHANGING ROOM",
+    "ANGEL",
+    "SPARKLE",
+    "SPAKLE",
+    "WOW!",
+    "PLAY",
+    "Download on the App Store",
+    "GET IT ON Google Play"
+  ],
+  "cta_text": "PLAY",
+  "cta_timing_seconds": 13.5,
+  "palette_hex": [
+    "#FFB6C1",
+    "#FFFFFF",
+    "#D1C4E9"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Young girls and teenagers who enjoy fashion, character customization, and aesthetic dress-up games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00173
+}

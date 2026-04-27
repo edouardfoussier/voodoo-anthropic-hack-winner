@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-3d-render",
+  "target_game_id": "1570641170",
+  "title": "Fail-to-Clear: The \"Almost Had It\" Fakeout",
+  "hook_3s": "A finger drags a wobbly line across glossy candy-colored balls — and misses the last one by a pixel. The board buzzes red. \"ONE MOVE LEFT.\"",
+  "scene_flow": [
+    "0–3s: Tight macro on the white play area. A chubby finger sloppily drags a connect-line through red balls but stops one ball short. Top bar flashes '1 MOVE LEFT' in panic red.",
+    "3–7s: Cut to a fail-style reaction beat — the phone tilts, balls jiggle, a cartoon 'X' stamp slaps the screen with a comedic thud SFX. Overlay: 'BRO. HOW.'",
+    "7–11s: Retry. The finger now traces a clean, satisfying curve linking 8 red balls in one stroke; a rocket power-up ignites and chain-pops the orange and blue balls across the grid.",
+    "11–14s: Goal counters tick to zero, confetti bursts in the brand blue/orange/pink palette, level-complete stars slam in. Overlay: 'NOW THAT'S CLEAN.'",
+    "14–15s: End card — game logo on the orange bottom banner, CTA pulses."
+  ],
+  "visual_direction": "Lean fully into the game's clean 2D aesthetic with soft 3D-shaded glossy spheres — no live-action, no human characters (game has none). Bright white play area framed by the signature #4B86D6 blue top HUD (showing goal icons + move counter) and the warm #F18332 orange bottom banner. Connect-lines glow in #E81E4D pink-red when dragged. The \"fail\" energy comes from kinetic camera shake, an oversized cartoon X stamp, and exaggerated ball jiggle physics — keeping the calm/satisfying core but injecting the trending fail-then-win emotional pitch the archetype demands.",
+  "text_overlays": [
+    "1 MOVE LEFT 😬",
+    "BRO. HOW.",
+    "WAIT — TRY THIS",
+    "NOW THAT'S CLEAN ✨",
+    "LEVEL CLEAR!"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current rotation on this title leans heavily on calm \"satisfying color match\" gameplay loops and generic daily-rewards videos — there is zero fail-emotion or fakeout-tension hook in their lineup. This brief imports the trending Fail archetype but reworks it into an in-game \"almost lost / actually won\" beat, preserving IPM honesty by keeping every frame on the real board. UA team: test against the satisfying-gameplay video as the control; expect higher 3s hold-rate from the tension hook.",
+  "scenario_prompts": [
+    "Hero frame, mobile puzzle game screenshot, aspect 9:16, Collect Em All! Clear the Dots in-game view: clean white play area with a 6x7 grid of glossy 3D-shaded colored spheres (red, blue, yellow, green, purple), a glowing hot-pink #E81E4D connect-line being drawn through 5 red spheres but stopping one ball short of a sixth red sphere, prominent #4B86D6 blue top HUD bar showing level goal icons and a red '1 MOVE LEFT' counter, warm #F18332 orange bottom banner, oversized cartoon white 'X' stamp overlay with comic shake lines, on-screen text '1 MOVE LEFT 😬' in bold rounded sans-serif, bright colorful clean 2D aesthetic with soft 3D shading on the interactive game pieces, no characters, no humans, authentic mobile puzzle UI chrome",
+    "Storyboard frame 2, aspect 9:16, Collect Em All! Clear the Dots gameplay still: same clean white board, a long sweeping #E81E4D pink connect-line elegantly chaining 8 glossy red spheres in one curved stroke, a rocket power-up igniting mid-board with a bright spark burst, #4B86D6 blue top HUD with goal counters ticking down, #F18332 orange bottom banner, on-screen text 'NOW THAT'S CLEAN ✨' in bold white rounded type, bright colorful clean 2D aesthetic with soft 3D shading on the interactive game pieces, no characters, in-game UI fidelity matching the reference screenshots",
+    "Storyboard frame 3, aspect 9:16, Collect Em All! Clear the Dots level-complete moment: white play area mostly cleared with a few residual glossy spheres, confetti bursts in #4B86D6 blue, #F18332 orange, and #E81E4D pink raining across the screen, three gold stars slamming into a result panel, blue top HUD showing all goals checked off, orange bottom banner with game logo, on-screen text 'LEVEL CLEAR!' in bold rounded sans-serif, bright colorful clean 2D aesthetic with soft 3D shading on the interactive game pieces, no characters, no humans"
+  ]
+}

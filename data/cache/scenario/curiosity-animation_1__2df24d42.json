@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_N7AKrNjpeyhX4Lg7K1g271WT?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTjdBS3JOanBleWhYNExnN0sxZzI3MVdUP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YnbX9K3zrsIzFD86144NJhCNIce2Hq05RyW2w%7EC%7EYhq2XnNcTekrMGzNhCtLYkOOwt-IvK0Kk6wgqcz7mhHwnKxubmRFxb-vcXWo%7E2AM3L8BWbRkjR0M4XyJs6e-f4DxVdsM2XUC9crejjSvIzyRoVJkaCfvBIXT91C0LtdU4xEtVp%7E88mYAWY6-exuxukm6ZBT0V6lJPm2YPxJ9uBmnSWUvD0SHSCpNB0nFHZox1mN14kHl0NArXiTHtJtojtYeQ%7E0Qgf7F3Ecqc6ellIsRbwjU6zbZBLhVf3vfsT9unkolWetFEhNcQ9LLlkn%7EKhAfsw7KrIk4v6KL2RPNKfhhOA__",
+  "job_id": "job_QMXQ21SFv324NCK65H1VJifz",
+  "asset_id": "asset_N7AKrNjpeyhX4Lg7K1g271WT",
+  "stub": false,
+  "prompt": "Storyboard frame 2, vertical 9:16, in-game Knock'em All FPV. The toy gun fires a ball at a thin purple #6B15E8 support beam visible through the cross-section cut; a whole stack of red #D91A1A crash-test dummies is mid-collapse in physics ragdoll chaos, tumbling between underground floors. Bright #8ED4FF pastel sky above the slice. Comic-book style hit text 'BIM' pops in yellow. Level progress bar UI at top filling toward 100%. Minimalist 3D with bright, flat colors and simple geometric environments. On-screen text overlay: 'Shoot the supports\u2026'. [Audio: VO 'One shot brings it ALL down' / upbeat satisfying 100bpm soft-pop with handclaps / pop-pop tap SFX, wooden domino tumble cascade, 'BIM' comic stinger at 1.5s].",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

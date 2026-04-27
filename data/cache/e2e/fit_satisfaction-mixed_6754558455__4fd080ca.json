@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 45,
+  "mechanic_match": 30,
+  "audience_match": 78,
+  "overall": 42,
+  "rationale": "Audience overlap is strong — jigsaw \"satisfaction\" hooks index well with the same 25-55 female casual puzzle demo Marble Sort targets. However, mechanic match is the dealbreaker: drag-to-place jigsaw assembly misrepresents the tap-release/timing/physics-drop core loop, which risks high IPM but poor D1/D7 retention from mismatched installers. Palette is also off (cool blue/green/grey vs. the game's lavender + orange); if adapting, swap to a tap-to-drop marble sorting hook with the lilac palette and keep only the ASMR-style satisfaction framing."
+}

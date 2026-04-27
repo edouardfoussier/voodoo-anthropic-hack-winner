@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "d314d3eea35e0b5d",
+    "ad_unit_id": "d314d3eea35e0b5d",
+    "app_id": "67ecf5e455b6d71ffc36536e",
+    "advertiser_name": "크랙 - 즉흥 서사 플레이, AI 채팅",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3d5ab494e51891c5/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3d5ab494e51891c5/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3d5ab494e51891c5/preview",
+    "phashion_group": "d314d3eea35e0b5d",
+    "share": null,
+    "first_seen_at": "2026-03-13T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "피폐 남주냐...햇살캐 섭남이냐...\n그것이 문제로다...\n#서브남주 #빙의물 #악녀 #크랙",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A split-screen comparison of two attractive male leads asking the viewer to choose their favorite archetype.",
+    "visual_action": "Two anime-style male characters are displayed side-by-side with a choice prompt overlay.",
+    "text_overlay": "메인 남주파 vs 서브병 말기환자, 당신은 어느쪽? 로판 악녀가 되다",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Initial split-screen comparison of two male leads with a personality/role prompt.",
+    "Characters blink and change expressions while the background transitions to a fantasy setting.",
+    "The two characters are shown together in front of a fantasy castle background.",
+    "Final title card appears with a call to action asking the player to choose a target."
+  ],
+  "on_screen_text": [
+    "메인 남주파 vs 서브병 말기환자, 당신은 어느쪽?",
+    "로판 악녀가 되다",
+    "흑발 황태자 남주 vs 금발 댕댕이 서브남",
+    "누굴 공략할까?",
+    "여주바라기 남자들 속 악녀로 살아남기"
+  ],
+  "cta_text": "누굴 공략할까?",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#141414",
+    "#F7E7CE",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Young women who enjoy romance fantasy webtoons and otome-style choice games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001609
+}

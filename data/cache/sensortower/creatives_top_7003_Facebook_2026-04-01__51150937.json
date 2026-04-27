@@ -1,0 +1,407 @@
+{
+  "count": 1467,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "a501f1d09aa3b810",
+      "app_id": "582219400211a6c9240005fc",
+      "network": "Facebook",
+      "phashion_group": "a501f1d09aa3b810",
+      "ad_type": "video",
+      "first_seen_at": "2025-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a501f1d09aa3b810",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Now",
+          "button_text": "Play Game",
+          "message": "Fun puzzles & stories."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "582219400211a6c9240005fc",
+        "canonical_country": "US",
+        "name": "Gardenscapes",
+        "publisher_name": "Playrix",
+        "publisher_id": "5614b8de3f07e25d29001b9e",
+        "humanized_name": "Gardenscapes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/64/1e1964c3-4291-3b5f-c6e0-dae70c445d99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "582219400211a6c9240005fc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fd3d6237db0ba2b6",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "fd3d6237db0ba2b6",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-20",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "fd3d6237db0ba2b6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d183ad43f59f23b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d183ad43f59f23b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d183ad43f59f23b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d683378596d7773",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "5d683378596d7773",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "5d683378596d7773",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "ef1402a924956332",
+      "app_id": "594990020211a674a00013c6",
+      "network": "Facebook",
+      "phashion_group": "ef1402a924956332",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-12",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "ef1402a924956332",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71115af62aa08b79/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71115af62aa08b79/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71115af62aa08b79/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "What are you waiting for?",
+          "button_text": "Play Game",
+          "message": "Don't Miss Out On Your Gifts!\nCome Back Now And Collect Them!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "594990020211a674a00013c6",
+        "canonical_country": "US",
+        "name": "Solitaire Grand Harvest",
+        "publisher_name": "Playtika",
+        "publisher_id": "5614c22f3f07e25d290063a9",
+        "humanized_name": "Solitaire Grand Harvest",
+        "icon_url": "https://play-lh.googleusercontent.com/4dsPtcGXkfF3ylgSZgkb54ay86InZVQdKvs6UrBwYdsCPpv1AegcN_V38sWqCqopDPsGYiPvQ48mgY5lyMtdzw=s150",
+        "os": "unified",
+        "id": "594990020211a674a00013c6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e97cea064e36fc2a",
+      "app_id": "618499119e5ed235096241dc",
+      "network": "Facebook",
+      "phashion_group": "e97cea064e36fc2a",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-12",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "e97cea064e36fc2a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0030d9b0b4a11dea/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "School Hours? Bingo Time!",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "618499119e5ed235096241dc",
+        "canonical_country": "US",
+        "name": "Bingo Card Klondike Adventures",
+        "publisher_name": "Brightika",
+        "publisher_id": "5febff86d5651249c37b078b",
+        "humanized_name": "Bingo Card Klondike Adventures",
+        "icon_url": "https://play-lh.googleusercontent.com/iAkjsxv0dQFFtLHIp-xKZK-Vljbf2siokJohxVT_b2bTIvJRSIvdAMl40tvoqwykY7_CNBIxMt15rWRj8TiUVw=s150",
+        "os": "unified",
+        "id": "618499119e5ed235096241dc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0f3720dd2bf8b11d",
+      "app_id": "658ea0be1fc48c4dbb3065e6",
+      "network": "Facebook",
+      "phashion_group": "0f3720dd2bf8b11d",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-29",
+      "last_seen_at": "2026-04-02",
+      "creatives": [
+        {
+          "id": "0f3720dd2bf8b11d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "Left or right, it's all up to you",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "658ea0be1fc48c4dbb3065e6",
+        "canonical_country": "US",
+        "name": "Last Z: Survival Shooter",
+        "publisher_name": "Florere Game",
+        "publisher_id": "6736d19c146810f6057add10",
+        "humanized_name": "Last Z: Survival Shooter",
+        "icon_url": "https://play-lh.googleusercontent.com/DVXTZpTR02_xoN1kOqnhOOuW9p1LiUHiu_Vw0xjzdu1SswhIbLp3OdV4x6skiarMGcE=s150",
+        "os": "unified",
+        "id": "658ea0be1fc48c4dbb3065e6",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "358760851712f452",
+      "app_id": "660dff47d4e03e76a49f832f",
+      "network": "Facebook",
+      "phashion_group": "358760851712f452",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-05",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "358760851712f452",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "It\u2019s fun even without installing",
+          "button_text": "Install Now",
+          "message": "BIG NEWS!\nGet ready for the most epic gaming experience of your life!\nWhat secrets will you uncover?\nPlay now and find out!"
+        },
+        {
+          "id": "8d16b4aef17589f6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0055884a92e7d82c/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "It\u2019s fun even without installing",
+          "button_text": "Install Now",
+          "message": "BIG NEWS!\nGet ready for the most epic gaming experience of your life!\nWhat secrets will you uncover in our brand new game?\nPlay now and be one of the first to find out!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "660dff47d4e03e76a49f832f",
+        "canonical_country": "KR",
+        "name": "\ud611\ub3d9 \ud0c0\uc6cc \ub514\ud39c\uc2a4 : \uce5c\uad6c\uc640 \ud568\uaed8",
+        "publisher_name": "Supermagic",
+        "publisher_id": "6234d6c2b1503f7859bb0e3d",
+        "humanized_name": "\ud611\ub3d9 \ud0c0\uc6cc \ub514\ud39c\uc2a4 : \uce5c\uad6c\uc640 \ud568\uaed8",
+        "icon_url": "https://play-lh.googleusercontent.com/Hlc2-66nb99p3dy5qJE095Di19ib_uSHaEwfJ5_j09vJb2mw98q3cSnGRg28Q-Auww=s150",
+        "os": "unified",
+        "id": "660dff47d4e03e76a49f832f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2cb638b3a5384a6d",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "2cb638b3a5384a6d",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-18",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "2cb638b3a5384a6d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a3c9767b2a31c1/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Crush your opponents!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "aa8b3e7656d46dcd",
+      "app_id": "63c0a80dedbc613cc4f954e4",
+      "network": "Facebook",
+      "phashion_group": "aa8b3e7656d46dcd",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-15",
+      "last_seen_at": "2026-04-17",
+      "creatives": [
+        {
+          "id": "aa8b3e7656d46dcd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00b08c746ce393e9/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "63c0a80dedbc613cc4f954e4",
+        "canonical_country": "US",
+        "name": "Landlord Simulator",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Landlord Simulator",
+        "icon_url": "https://play-lh.googleusercontent.com/I5xiVnmCbJB1aKjbiUCtwokqqWHECt5KAHVD0PQ-gLRg4s4Xw1tU6xmT1gjqmiHc_QbM=s150",
+        "os": "unified",
+        "id": "63c0a80dedbc613cc4f954e4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "28aa9f0d301861b2",
+      "app_id": "68d54465f1d82abe28b390f1",
+      "network": "Facebook",
+      "phashion_group": "28aa9f0d301861b2",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-09",
+      "last_seen_at": "2026-04-09",
+      "creatives": [
+        {
+          "id": "28aa9f0d301861b2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00bd85dfc7cedbe0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00bd85dfc7cedbe0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00bd85dfc7cedbe0/thumb",
+          "video_duration": 12,
+          "width": 720,
+          "height": 1280,
+          "title": "Free Game Rewards Inside!",
+          "button_text": "Install Now",
+          "message": "Gamers! Get free in-game rewards, premium skins, and exclusive items. Download now and claim your rewards before time runs out!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "68d54465f1d82abe28b390f1",
+        "canonical_country": "US",
+        "name": "SkinWin - diamond & skin",
+        "publisher_name": "Huaxing Oriental Technology",
+        "publisher_id": "60374dc9a9b80020420f37b3",
+        "humanized_name": "SkinWin - diamond",
+        "icon_url": "https://play-lh.googleusercontent.com/tKDi6J2OU0Jm4CF7HYEEBGi1BrEsTq3zd2t9tq85dpVbGih1i2Rq9otDIXYgeZ7-pRYH7UhhMz8jUkfDiPuf=s150",
+        "os": "unified",
+        "id": "68d54465f1d82abe28b390f1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

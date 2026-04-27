@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_qthJaDfXFPdSZSQwPeHExLDx?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcXRoSmFEZlhGUGRTWlNRd1BlSEV4TER4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ZCr7zIGzhip0yV%7Ebe6SswSBacIKE2sgrJHpNn7adjOU0TEBM6UFY9kbZcEnktlC7rQnvUlu%7Ec4AluytYNNM6Y04XKOkdF1Zsjs5h5NS71cii-lWUflIZNKNxIAK1E%7E1hdKhpZnEe6M3bUWtIBc60-C73N5Pod5SnDEZ31sqKdAWja-I9GqVjeS6--UQUz%7EmtsUm%7ELfYkuI16ja2O7yuPledD7IVXeLarixN9%7ER2Svlmf2TZyMrWgj7ro9bYsnoSP-L2xjVG2P1vi1kVLg2-EFtpD76vL2XfkhYJwREleKjVYoDogMbgIlENjVXFXAzs2BLs9RpSE548ty%7E60SZq2kg__",
+  "job_id": "job_v8zGwNKDnyBfMR3FruvNnN88",
+  "asset_id": "asset_qthJaDfXFPdSZSQwPeHExLDx",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, top-down three-quarter view of a soft-rounded 3D cartoon marble-sorting machine on a lavender #E5DFFF background, light grey #F0F0F8 conveyor belt mid-motion with glossy pastel marbles (red, blue, green, yellow) tumbling toward colored boxes, a vibrant orange #FFB13B circular countdown timer reading '3' pulsing in the upper third, bold rounded orange text overlay 'Can You Sort It In Time?', clean and colorful 3D cartoon style with soft rounded shapes, soft rim lighting, gentle depth of field, satisfying mobile puzzle ad aesthetic",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

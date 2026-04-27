@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "324576e74c036899",
+    "ad_unit_id": "324576e74c036899",
+    "app_id": "647db77c25186e7cb5c12245",
+    "advertiser_name": "Polygun Arena: Online Shooter",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14c93c346a8ebfdf/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14c93c346a8ebfdf/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14c93c346a8ebfdf/preview",
+    "phashion_group": "324576e74c036899",
+    "share": null,
+    "first_seen_at": "2025-08-22T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Join the ULTIMATE Low-Poly SHOOTER!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced FPS gameplay montage featuring shotgun and sniper kills.",
+    "visual_action": "First-person perspective of a player shooting enemies in a wooden building, switching weapons rapidly.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Close-range shotgun combat inside a wooden barn structure.",
+    "Transition to sniper scope view for a long-distance headshot through a window.",
+    "Assault rifle gameplay with red dot sight targeting enemies in a courtyard.",
+    "Suppressed pistol kill at close range.",
+    "End card reveal with game title, characters, and a call-to-action button."
+  ],
+  "on_screen_text": [
+    "39 KILLS TO WIN",
+    "268",
+    "1633",
+    "2306",
+    "POLYGUN ARENA",
+    "PLAY NOW!"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 7.5,
+  "palette_hex": [
+    "#795548",
+    "#F44336",
+    "#2196F3"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Competitive mobile gamers who enjoy stylized, low-poly first-person shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001435
+}

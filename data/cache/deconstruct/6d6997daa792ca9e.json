@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "6d6997daa792ca9e",
+    "ad_unit_id": "6d6997daa792ca9e",
+    "app_id": "67d61d6845ea3db694554f49",
+    "advertiser_name": "Gecko Out",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/003b965d8d5ff532/preview",
+    "phashion_group": "6d6997daa792ca9e",
+    "share": null,
+    "first_seen_at": "2026-01-10T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A 3D maze navigation game featuring a dynamic 'Brain Age' counter that reacts to player movement.",
+    "visual_action": "A pink glowing line is guided through a complex isometric maze by a finger icon while a brain age counter fluctuates at the top.",
+    "text_overlay": "NEXT GENERATION SNAKE GAME, YOUR BRAIN AGE: 75",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "The snake begins its journey at the edge of a large isometric maze, guided by a hand cursor.",
+    "The snake navigates through several corridors, with the 'Brain Age' counter updating in real-time based on progress.",
+    "The snake reaches the middle of the maze, demonstrating the path-finding gameplay and complex layout."
+  ],
+  "on_screen_text": [
+    "NEXT GENERATION SNAKE GAME",
+    "YOUR BRAIN AGE: 75",
+    "AGE: 73",
+    "AGE: 72",
+    "AGE: 71",
+    "AGE: 69",
+    "AGE: 70",
+    "AGE: 74"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#737373",
+    "#FF00FF",
+    "#E0E0E0"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy brain-teaser games and testing their cognitive speed.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017360000000000001
+}

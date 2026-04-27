@@ -1,0 +1,516 @@
+{
+  "apps": [
+    {
+      "unified_app_id": "59263f7c66f750256b000990",
+      "name": "Hexa Pop!",
+      "canonical_app_id": "io.voodoo.hexapop",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "io.voodoo.hexapop"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "59bad4eb63f2dc0d0b9689e2",
+      "name": "Did you know?",
+      "canonical_app_id": "sergey.interesting",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "sergey.interesting"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "voodoo"
+      ]
+    },
+    {
+      "unified_app_id": "5a20950b0cf6925e6ca2d7fa",
+      "name": "Perfect Tower",
+      "canonical_app_id": 1318292856,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1318292856
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.hypnocatstudio.perfecttower"
+        },
+        {
+          "app_id": "com.perfecttower.towerperfect"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1",
+        "59edf43b0211a611d4bc1496",
+        "609bf6530f4d22236318de59"
+      ],
+      "itunes_publisher_ids": [
+        660671521
+      ],
+      "android_publisher_ids": [
+        "Hypnocat+Studio",
+        "VO\u041eDO\u041e"
+      ]
+    },
+    {
+      "unified_app_id": "5a7ccfaf3ffca53c44a0238f",
+      "name": "Infinite Golf",
+      "canonical_app_id": "com.infinite.infinitegolf",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "com.infinite.infinitegolf"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VO\u041eDO\u041e"
+      ]
+    },
+    {
+      "unified_app_id": "5a7fe3fe0b59460ed7578c30",
+      "name": "Baseball Boy Saga",
+      "canonical_app_id": "com.voodoobaseballboy.baseballboy",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "com.voodoobaseballboy.baseballboy"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VO\u041eDO\u041e"
+      ]
+    },
+    {
+      "unified_app_id": "5a827b3eae157d074edd3090",
+      "name": "Hair Clipper (jokes)",
+      "canonical_app_id": "com.hair.clipper.hairclipperjoke",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "com.hair.clipper.hairclipperjoke"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VO\u041eDO\u041e"
+      ]
+    },
+    {
+      "unified_app_id": "5a83d7d721c5792f70214c6d",
+      "name": "Your Craft Exploration 3D",
+      "canonical_app_id": "com.craftexploration.craft",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "com.craftexploration.craft"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VO\u041eDO\u041e"
+      ]
+    },
+    {
+      "unified_app_id": "5b4bf679850abd4c70b76a12",
+      "name": "Pick The Gold",
+      "canonical_app_id": 1406337644,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1406337644
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.cubegame.pickthegold"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59a52a600211a69f575a2de4",
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        1250425422
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "5b7fb002a2750e059117336a",
+      "name": "Dodgeball Duel",
+      "canonical_app_id": 1431556749,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1431556749
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.matte.dodgeball"
+        }
+      ],
+      "unified_publisher_ids": [
+        "58e59a990211a6232c000104",
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        1214713919
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "5c2fc2db0072662221e4c8f6",
+      "name": "Jewel Empire : Quest & Match 3",
+      "canonical_app_id": "teskin.je.quest",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "teskin.je.quest"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "5c99c181f9eb560f75c309ff",
+      "name": "Balls Rotate",
+      "canonical_app_id": "com.serejadexxx.ballsRotate",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1457528184
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.serejadexxx.ballsRotate"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1",
+        "5ad5cd17ecb2f32c1aa7ee5e"
+      ],
+      "itunes_publisher_ids": [
+        1372525546
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "5c9f03f7139dd80593633e85",
+      "name": "Gobble Dash",
+      "canonical_app_id": 1457978214,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1457978214
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.carpegame.gobbledash"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1",
+        "5d22be8033797d75bc4de439"
+      ],
+      "itunes_publisher_ids": [
+        1260152115
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "5cd2156e0bb024606203030e",
+      "name": "Leaf Blower 3D",
+      "canonical_app_id": "com.deven.blower3d",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1462584687
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.deven.blower3d"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1",
+        "5b77df5ab2d25d285bf2b371"
+      ],
+      "itunes_publisher_ids": [
+        1426589662
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "5d75ac65b25c6169998097b5",
+      "name": "Voodoo Sauce Test App",
+      "canonical_app_id": "io.voodoo.voodoosaucetestapp",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "io.voodoo.voodoosaucetestapp"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "5d7b4e1d3cc0fa2d52e488f5",
+      "name": "Stack Merge 3D",
+      "canonical_app_id": 1478998981,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1478998981
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.serejadexxx.aaaaaaa"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1",
+        "5ad5cd17ecb2f32c1aa7ee5e"
+      ],
+      "itunes_publisher_ids": [
+        1372525546
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "5e9cfa6cd25aa532b329e34e",
+      "name": "Candy Deluxe - Match 3 Puzzle",
+      "canonical_app_id": "teskin.candy.deluxe",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "teskin.candy.deluxe"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6030dcbd3ffc351952859aff",
+      "name": "Jewel Rush",
+      "canonical_app_id": "tk.jewels.rush",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "tk.jewels.rush"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "604e927aec1eca0ba66e7c9e",
+      "name": "Match People 3D",
+      "canonical_app_id": 1557837855,
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1557837855
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.ksenastranger.MatchPeople3D"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1",
+        "5ad5cd17ecb2f32c1aa7ee5e"
+      ],
+      "itunes_publisher_ids": [
+        1372525546
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "6117eb9318009766ea401467",
+      "name": "Tiles Empire - Tile Connect",
+      "canonical_app_id": "teskin.tile.empire",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 1593203284
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "teskin.tile.empire"
+        }
+      ],
+      "unified_publisher_ids": [
+        "589e65a3f3fc645dbd00167c",
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        1487837981
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "646367fd5b503a570f71e928",
+      "name": "Same Color",
+      "canonical_app_id": "com.cihan.samecolorrrr",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "com.cihan.samecolorrrr"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "64ec66cdfc030f03a574b6ef",
+      "name": "Parking Traffic 3D",
+      "canonical_app_id": "teskin.parking.traffic",
+      "cohort_id": null,
+      "itunes_apps": [
+        {
+          "app_id": 6471974813
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "teskin.parking.traffic"
+        }
+      ],
+      "unified_publisher_ids": [
+        "589e65a3f3fc645dbd00167c",
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [
+        1487837981
+      ],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "65de550c5eed8036df7affa4",
+      "name": "Animal Adventures",
+      "canonical_app_id": "com.ohmgames.candyland",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "com.ohmgames.candyland"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    },
+    {
+      "unified_app_id": "67d227d97ba9eef64e6d7c86",
+      "name": "Mahjong Empire - Puzzle Art!",
+      "canonical_app_id": "teskin.mahjong.empire",
+      "cohort_id": null,
+      "itunes_apps": [],
+      "android_apps": [
+        {
+          "app_id": "teskin.mahjong.empire"
+        }
+      ],
+      "unified_publisher_ids": [
+        "59bad4eb63f2dc0d0b9689e1"
+      ],
+      "itunes_publisher_ids": [],
+      "android_publisher_ids": [
+        "VOODOO"
+      ]
+    }
+  ]
+}

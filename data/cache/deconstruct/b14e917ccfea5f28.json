@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "b14e917ccfea5f28",
+    "ad_unit_id": "b14e917ccfea5f28",
+    "app_id": "55c50c2b02ac64f9c000230f",
+    "advertiser_name": "edjing Mix - Music DJ app",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14cc393f49933cfc/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14cc393f49933cfc/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/14cc393f49933cfc/preview",
+    "phashion_group": "b14e917ccfea5f28",
+    "share": null,
+    "first_seen_at": "2025-12-18T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Ready to learn how to mix?",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A surprising mashup of Mariah Carey and King Von plays over a high-energy party scene.",
+    "visual_action": "Split screen showing Mariah Carey and King Von album covers with an app logo in the center over a dark, crowded party video.",
+    "text_overlay": "its just Edjing mashup",
+    "voiceover_transcript": "All I want for Christmas is you... Just hopped on this next...",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the mashup concept with Mariah Carey's Christmas song playing over a party scene.",
+    "The beat drops, transitioning the audio into a rap mashup while maintaining the holiday melody.",
+    "Interactive UI elements appear, inviting the user to select two songs to mash up.",
+    "The mashup continues playing as the background party footage loops."
+  ],
+  "on_screen_text": [
+    "its just Edjing mashup",
+    "The mashup...",
+    "Add you 2 fav songs",
+    "+",
+    "+",
+    "MASH-UP!"
+  ],
+  "cta_text": "MASH-UP!",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#000000",
+    "#FFFFFF",
+    "#B22222"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Gen Z and Millennial music enthusiasts who enjoy viral mashups and creative audio editing tools.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001656
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_gfUxxC6zyNQiEQMbvJTAnkDn?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9nZlV4eEM2enlOUWlFUU1idkpUQW5rRG4qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=nOt02hZtbEPwgER40NC3d8NoACi0dSOZYr45Wx4QfAz7nMj1c9qXfeSYoeYMjyNvmgJ0MiGn2Cpy94qyd%7EkCZj0zt6InrRjkJyI5FdOJ62zB4GaLHENTDPoxayU2Pw9TT8o4BY%7EOLYAKlwOE2eI5RvuVhHR7FcWcxnm3gY9YOsXJ5WH75u3ZyYaSMSgv0-zpo1Cq3JymlO%7E1ZEnw6I9JMqsMnVeRqmr9tfAqhpANJGIBUmZW-wOksOrBhmid3hzJ4KR5UgYDkCEgt6X3FWHzKARB0BHjB2MbPVdE10pNFrTfpLpV-SoSqk3%7EuXhw8V9CdGgLDAdxXBYEZDLI91OaYg__",
+  "job_id": "job_dB15rgdWQmBhAjYhtWjctvpJ",
+  "asset_id": "asset_gfUxxC6zyNQiEQMbvJTAnkDn",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Storyboard frame \u2014 landmark victory, aspect 9:16, authentic Crowd City endgame shot: huge red (#FF0000) ocean of low-poly stickmen swarming around the low-poly Eiffel Tower in a pastel Paris-style city block, last green (#00FF00) crowd being consumed and flipping red, no blue remaining, Crowd City HUD with timer '0:03' top-left and score bubbles top-right showing red #1, on-screen text overlay 'You're #1 \ud83c\udfc6', stickman-like character models, colorful low-poly 3D environment, muted pastel background buildings, mobile hypercasual game UI",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": true,
+  "audio": false
+}

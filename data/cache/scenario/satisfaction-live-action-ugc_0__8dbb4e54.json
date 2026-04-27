@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_nr1rX8NgAiDpRzvMq2JNvAbm?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfbnIxclg4TmdBaURwUnp2TXEySk52QWJtP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=UP6Ia1SM4zJE9xPMgiuHLfAQovTs6agG1rxkJIbP6jnfBfHsRiWbJWnxpgNbuV6uY0j%7EImA5TRwydUt1ioT7gxtm8OvA7qbc44f4H46WJEJFWaQQmiy1ErakICG-ZEsk3thgRrF6Rff2f5JAWQlP2eeb%7EmXIxYvwANLwrQzRXYlqVxKRuasd5GhtnBB97jaUxa3FysojDm8PPzz7eDx7QX23MqwuAgogKtbQJPg8CUMep8dturtBuKII%7Esp0fvlvpiaow8-cDCHuWS8s0PoRLsHUbFYOpRvLPpirEE0u9njcQFVLDU6hkfRqNsoI%7EJ5NAEaiuzvdOTExNus4wDjCiw__",
+  "job_id": "job_hgGgBhLJfPaEGscHN29LQA71",
+  "asset_id": "asset_nr1rX8NgAiDpRzvMq2JNvAbm",
+  "stub": false,
+  "prompt": "Hero frame, vertical 9:16 mobile ad still, 3D Casual Abstract style, top half shows a casual 30-something person on a couch in a warm dim living room holding a phone with a surprised satisfied smile, bottom half is a full-bleed mobile game screen showing a dark #20232B background with deep purple #403F6D grid frames and dozens of glowing yellow-orange #FDBA4D balls bouncing in a chain reaction with motion-blur trails, bold white sans-serif text overlay reading 'this is so satisfying', cinematic lighting, high contrast, photoreal UGC top half, polished 3D render bottom half",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "375fe2895a08f339",
+    "ad_unit_id": "375fe2895a08f339",
+    "app_id": "5b8e9647a2750e6598c510a7",
+    "advertiser_name": "Papa Murphy’s Take+Bake Pizza",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/328bfda916a18f22/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/328bfda916a18f22/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/328bfda916a18f22/preview",
+    "phashion_group": "375fe2895a08f339",
+    "share": null,
+    "first_seen_at": "2026-04-07T00:00:00",
+    "last_seen_at": "2026-04-13T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Your favorite pizzas are 50% Off! Any pizza, any size, even gluten free! Order online with code 50PIZZA before Monday 4/13.\nOnline only. Exclusions apply.",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Slow-motion cheese falling onto a pizza base with a bold 50% off discount overlay.",
+    "visual_action": "Shredded mozzarella falls in slow motion onto a pizza crust spread with tomato sauce.",
+    "text_overlay": "50% OFF Pizza",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Slow-motion cheese falling onto pizza dough with 50% off text.",
+    "Pizza baking in an oven with 'All Sizes All Crusts' text.",
+    "Extreme close-up of bubbling cheese and fresh vegetable toppings.",
+    "A hand places a finished pizza on a table with a promo code banner.",
+    "Close-up of a slice being pulled away with a long cheese stretch.",
+    "Final shot of a different pizza slice being lifted, showing various toppings."
+  ],
+  "on_screen_text": [
+    "50% OFF Pizza",
+    "ALL SIZES ALL CRUSTS*",
+    "CODE: 50PIZZA",
+    "4.8 to 4.13"
+  ],
+  "cta_text": "CODE: 50PIZZA",
+  "cta_timing_seconds": 3.0,
+  "palette_hex": [
+    "#D2122E",
+    "#F9E076",
+    "#1A1A1A"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Budget-conscious foodies and families looking for a quick dinner deal.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014210000000000002
+}

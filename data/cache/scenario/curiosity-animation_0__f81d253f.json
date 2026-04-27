@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_NMLCjjNnQSE3ZbWdiixb9h61?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTk1MQ2pqTm5RU0UzWmJXZGlpeGI5aDYxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=b03ap7F9sAr8uDuUT2xXuI%7EWGknYsyA4pvwDmuzxr7Q54UKlmnz5m9hr-kPeKkZaNZL3w6pqVa3PYj8xtYELhp%7EjxDdVbJZH30OwBzuND9%7Eu5%7EcOqGlPMqWfRGHMkhtPuOe3J7kpkFIMncMT%7EaQS4jSW3yuMNvqCvpMJqhyF6Ag7oypwbIjnKf%7ENXEVuU2WkhFv-TriqGrgrLoI7gLPRdwDgcCpCm--YViznKiQSjPFvbifMS9vYftWpXGhtio1ppak3H94tTUxN797ZOQJ1FG-aUXB0-j77S3%7EwvTSWbBZ%7Ef0Kh-Z3r5a2IAkG%7EzQXvjDvb5-Br-V9EleQEId4sbA__",
+  "job_id": "job_Zn9kfFxRAQTe5Qmg2LbHefcF",
+  "asset_id": "asset_NMLCjjNnQSE3ZbWdiixb9h61",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect ratio, Push'em All mobile game in-game screenshot style: overhead three-quarter view of a sandy-green (#56a38b) floating platform surrounded by vibrant blue water (#2a7dfa), the platform sliced open in a clean architectural cross-section to reveal four stacked underground floors crammed with bright red (#e3001b) stickman enemies waiting in formation, top floor shows the blue-shirted player stickman mid-swipe with extending push-stick, authentic game HUD visible: level progress timeline at top, combo multiplier text, coin counter, bold white overlay text 'What's UNDER the platform?', minimalist 3D flat-shaded style with simple stickman-like figures, bright contrasting colors, no realistic textures, no muted palette. [Audio: VO (curious whisper) 'Wait... what's actually under there?' / energetic competitive trap beat 140bpm building tension / whoosh on camera dive at 1.5s, low bass thud on reveal at 3s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

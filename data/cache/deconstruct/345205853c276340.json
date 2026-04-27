@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "345205853c276340",
+    "ad_unit_id": "345205853c276340",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/33a2492146fbf087/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/33a2492146fbf087/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/33a2492146fbf087/preview",
+    "phashion_group": "345205853c276340",
+    "share": null,
+    "first_seen_at": "2025-05-06T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Destroy enemy robots, dominate the battlefield!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-action gameplay showing a powerful robot securing multiple kills in a city environment.",
+    "visual_action": "A four-armed robot walks through a city, locks onto an enemy, and fires its heavy weaponry.",
+    "text_overlay": "TRIPLE KILL [KO'NG] Pilot 3KMT08",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Robot navigates a city environment while targeting an enemy in the distance.",
+    "Robot engages and destroys the enemy, triggering 'KILL' and 'RAMPAGE' UI notifications.",
+    "Camera zooms into a futuristic mechanical hatch transition.",
+    "Final brand reveal with the game logo and call to action."
+  ],
+  "on_screen_text": [
+    "TRIPLE KILL",
+    "RAMPAGE",
+    "KILL",
+    "WAR ROBOTS",
+    "PLAY FOR FREE!"
+  ],
+  "cta_text": "PLAY FOR FREE!",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#1a1a1a",
+    "#f39c12",
+    "#c0392b"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers 18-35 interested in competitive sci-fi shooters and mech combat.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016359999999999999
+}

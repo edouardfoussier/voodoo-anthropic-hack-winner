@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "f337c160f6261433",
+    "ad_unit_id": "f337c160f6261433",
+    "app_id": "5a9e98aa2d1d806724ed6091",
+    "advertiser_name": "御城プロジェクト:RE",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2e23a7ab41958d13/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2e23a7ab41958d13/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2e23a7ab41958d13/preview",
+    "phashion_group": "f337c160f6261433",
+    "share": null,
+    "first_seen_at": "2026-03-25T00:00:00",
+    "last_seen_at": "2026-04-05T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "最大でガチャ1,000連分相当のアイテムがもらえる！強力な城娘をゲットしよう",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Golden sliding doors open to reveal a game event announcement.",
+    "visual_action": "The ad starts with a logo on a golden background, followed by traditional Japanese sliding doors opening with a bright light effect.",
+    "text_overlay": "御城プロジェクト:RE CASTLE DEFENSE, 招城祭 復刻開催!!, 2026年3月10日~4月13日 メンテナンスまで",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Intro with game logo on a golden patterned background.",
+    "Sliding doors open to reveal a reprint event announcement with specific dates.",
+    "Promotion of a 1,000-item reward alongside character artwork.",
+    "Rapid montage showcasing various anime-style female characters (Castle Girls).",
+    "Final splash screen detailing login rewards and the game title."
+  ],
+  "on_screen_text": [
+    "御城プロジェクト:RE CASTLE DEFENSE",
+    "招城祭 復刻開催!!",
+    "2026年3月10日~4月13日 メンテナンスまで",
+    "最大ガチャ 1,000連分相当のアイテムがもらえる!",
+    "可憐で強力な城娘を獲得できる",
+    "大チャンス!",
+    "期間中のログインで最高レアの異伝城娘が1体もらえる!"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#F7E062",
+    "#C62828",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of anime-style gacha games and tower defense who enjoy collecting moe-personified historical castle characters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001904
+}

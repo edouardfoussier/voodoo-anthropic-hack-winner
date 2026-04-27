@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "8457d7521673cb07",
+    "ad_unit_id": "8457d7521673cb07",
+    "app_id": "5fdc269d0dd7512c9bb6675f",
+    "advertiser_name": "777Real(777リアル) パチンコ･パチスロアプリ",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7634a00ff874f21/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7634a00ff874f21/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a7634a00ff874f21/preview",
+    "phashion_group": "8457d7521673cb07",
+    "share": null,
+    "first_seen_at": "2025-08-22T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "最新機種が無料で遊べる！",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Dramatic anime character close-up on a pachinko machine screen.",
+    "visual_action": "Zooming out from a high-intensity anime scene to reveal a smartphone running a pachinko simulator.",
+    "text_overlay": "もう引けねぇんだよ!",
+    "voiceover_transcript": "もう引けねぇんだよ! スリーセブンリアルに",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Dramatic anime close-up on a pachinko machine screen with high-energy voiceover.",
+    "Zoom out to reveal the 777 Real app on a smartphone featuring the Tokyo Revengers machine.",
+    "Rapid montage of high-intensity gameplay effects and dramatic text overlays.",
+    "Showcase of multiple popular pachinko and pachislot titles available for free in the app.",
+    "Final call to action screen with the app logo and a search bar instruction."
+  ],
+  "on_screen_text": [
+    "もう引けねぇんだよ!",
+    "777 Real スリーセブンリアル",
+    "e東京リベンジャーズが遊べる!",
+    "激アツの演出を",
+    "スマホで忠実に再現",
+    "100機種以上のパチンコ・パチスロが無料で遊べる!",
+    "777リアル で検索"
+  ],
+  "cta_text": "777リアル で検索",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#00FF00",
+    "#FF0000",
+    "#FFD700"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Japanese male fans of Tokyo Revengers and pachinko enthusiasts looking for a high-quality mobile simulator.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001871
+}

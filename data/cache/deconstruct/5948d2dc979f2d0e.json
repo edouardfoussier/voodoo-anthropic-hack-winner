@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "5948d2dc979f2d0e",
+    "ad_unit_id": "5948d2dc979f2d0e",
+    "app_id": "622390aa2e0fa027dbdc26b8",
+    "advertiser_name": "Block Blast!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cba54b334dc21f2/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cba54b334dc21f2/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0cba54b334dc21f2/preview",
+    "phashion_group": "5948d2dc979f2d0e",
+    "share": null,
+    "first_seen_at": "2026-02-17T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "😎Most Addictive Game.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid block clearing leading to an 'All Clear!' screen.",
+    "visual_action": "Pink blocks are placed into a grid, triggering multiple line clears and score multipliers.",
+    "text_overlay": "All Clear!",
+    "voiceover_transcript": "Great. Excellent.",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Rapidly clearing a nearly full board of pink blocks.",
+    "Achieving a 'Combo 11' and an 'All Clear!' message.",
+    "Starting a new round by placing blocks in a cross pattern.",
+    "Final line clear followed by a TikTok end screen."
+  ],
+  "on_screen_text": [
+    "100",
+    "10000",
+    "Great",
+    "Excellent",
+    "Combo 11",
+    "All Clear!",
+    "20000",
+    "20143",
+    "Good",
+    "21000",
+    "@user729261405"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#2b3a67",
+    "#f48fb1",
+    "#ffffff"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile gamers who enjoy satisfying, fast-paced block puzzle mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001369
+}

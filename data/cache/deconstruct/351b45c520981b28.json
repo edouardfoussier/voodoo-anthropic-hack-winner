@@ -1,0 +1,50 @@
+{
+  "raw": {
+    "creative_id": "351b45c520981b28",
+    "ad_unit_id": "351b45c520981b28",
+    "app_id": "57db92923858f271a0000b40",
+    "advertiser_name": "Jigsaw Puzzle - Classic Puzzle",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b6bb89898741484/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b6bb89898741484/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b6bb89898741484/preview",
+    "phashion_group": "351b45c520981b28",
+    "share": null,
+    "first_seen_at": "2026-04-15T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "In need of styling inspo? We’ve got you covered ✨ #stylinginspo #style #ootd #newin",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced fashion lookbook featuring multiple outfit transitions.",
+    "visual_action": "A woman stands in a minimalist room, snapping through several distinct autumn/winter outfits in front of a large plant.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "Model poses in a layered green sweater and brown trousers with a beige blazer.",
+    "Quick cut to a blue sweater paired with a brown suede midi skirt.",
+    "Transition to a casual denim look with a brown jacket and red sweater draped over shoulders.",
+    "Model turns to show a pink vest and patterned skirt ensemble.",
+    "Final shot of the model walking out of frame in the initial green and brown outfit."
+  ],
+  "on_screen_text": [],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#F7F7F7",
+    "#4A5D23",
+    "#5C4033"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Women aged 25-45 interested in minimalist fashion and capsule wardrobe inspiration.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001178
+}

@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "bb8ce667a1c3ba3b",
+    "ad_unit_id": "bb8ce667a1c3ba3b",
+    "app_id": "5d7d610eecda053b441077fe",
+    "advertiser_name": "Holdem or Foldem: Texas Poker",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0e767eb74888ce8c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0e767eb74888ce8c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0e767eb74888ce8c/preview",
+    "phashion_group": "bb8ce667a1c3ba3b",
+    "share": null,
+    "first_seen_at": "2026-02-25T00:00:00",
+    "last_seen_at": "2026-04-01T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Simpsons-style characters playing poker in an Egyptian tomb.",
+    "visual_action": "A character reveals a pair of aces while sitting at a poker table in an ancient Egyptian setting.",
+    "text_overlay": null,
+    "voiceover_transcript": "I think we're done here.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Characters in an Egyptian tomb setting start a high-stakes poker game.",
+    "A character confidently pushes all his chips into the center, declaring he is all in.",
+    "The protagonist reveals a winning hand, causing shock among the other players.",
+    "Transition to mobile gameplay footage showing a Royal Flush being played.",
+    "Final screen displays the game logo and a 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "Holdem or Foldem",
+    "ROYAL FLUSH",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#FFD700",
+    "#4B3621",
+    "#4B0082"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults who enjoy casual poker games and animated sitcom aesthetics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001591
+}

@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "5d683378596d7773",
+    "ad_unit_id": "5d683378596d7773",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/preview",
+    "phashion_group": "5d683378596d7773",
+    "share": null,
+    "first_seen_at": "2025-10-04T00:00:00",
+    "last_seen_at": "2026-04-21T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "For those who dream of piloting their own Robot!",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Intense aerial robot combat resulting in a 'Titan Slayer' achievement.",
+    "visual_action": "A winged Titan robot flies through a city, firing energy weapons and destroying an enemy robot.",
+    "text_overlay": "TITAN SLAYER",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Titan robot engages in aerial combat and destroys a large enemy.",
+    "Continuous gameplay footage showing the robot flying and targeting multiple ground units.",
+    "Rapid succession of kills earning 'Double Kill' and 'Triple Kill' badges.",
+    "Cinematic transition to a glowing mechanical core assembly.",
+    "Final brand reveal with the game logo and call to action."
+  ],
+  "on_screen_text": [
+    "TITAN SLAYER",
+    "DOUBLE KILL",
+    "TRIPLE KILL",
+    "WAR ROBOTS",
+    "PLAY FOR FREE!"
+  ],
+  "cta_text": "PLAY FOR FREE!",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#2C3E50",
+    "#3498DB",
+    "#F1C40F"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers 18-35 interested in mecha combat and competitive multiplayer shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001633
+}

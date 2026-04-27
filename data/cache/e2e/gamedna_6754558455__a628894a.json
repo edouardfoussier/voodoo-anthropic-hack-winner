@@ -1,0 +1,30 @@
+{
+  "app_id": "6754558455",
+  "name": "Marble Sort!",
+  "genre": "Puzzle",
+  "sub_genre": "Sorting Puzzle",
+  "core_loop": "Tap to release colored marbles from trays, watch them fall onto a moving conveyor belt, and time their drop into matching collection boxes to clear levels.",
+  "audience_proxy": "Female-skewing casual players aged 25-55 who enjoy satisfying, brain-training puzzles.",
+  "visual_style": "Casual 3D",
+  "palette": {
+    "primary_hex": "#C7C2F8",
+    "secondary_hex": "#A0A8C0",
+    "accent_hex": "#FFB33B",
+    "description": "A soft and playful palette with a dominant light purple, accented by a bright, cheerful orange and grounded by neutral greys."
+  },
+  "key_mechanics": [
+    "Tapping",
+    "Sorting",
+    "Timing",
+    "Physics-based dropping"
+  ],
+  "character_present": false,
+  "ui_mood": "calm/satisfying",
+  "screenshot_signals": [
+    "Color Sorting",
+    "Physics Gameplay",
+    "Relaxing Mood",
+    "Puzzle Solving",
+    "Level Progression"
+  ]
+}

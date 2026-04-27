@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "125a9631c4596da2",
+    "ad_unit_id": "125a9631c4596da2",
+    "app_id": "53857baf830f78f0bc0068e3",
+    "advertiser_name": "Warframe Companion",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/065aa77b02e50a5f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/065aa77b02e50a5f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/065aa77b02e50a5f/preview",
+    "phashion_group": "125a9631c4596da2",
+    "share": null,
+    "first_seen_at": "2026-02-24T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Master your Warframe: Dominate the battlefield with skill and strategy.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Visceral combat with a heavy weapon and explosive effects.",
+    "visual_action": "A red armored warrior slams a giant mace into enemies, triggering green gas clouds.",
+    "text_overlay": "MATURE 17+ ESRB Blood and Gore Violence In-Game Purchases / Users Interact",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Red armored character initiates combat with a massive mace in a city street.",
+    "Close-up shots of enemies being defeated with green gas explosions.",
+    "The character runs through the environment, showcasing mobility and power.",
+    "Final sequence of heavy attacks and environmental traversal."
+  ],
+  "on_screen_text": [
+    "MATURE 17+ ESRB Blood and Gore Violence In-Game Purchases / Users Interact"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#C41E3A",
+    "#32CD32",
+    "#5C4033"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Hardcore action gamers who enjoy fast-paced, visceral sci-fi combat and power fantasies.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001555
+}

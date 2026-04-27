@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "46aa87c308eaa84c",
+    "ad_unit_id": "46aa87c308eaa84c",
+    "app_id": "55f3733b02ac64eb8400006e",
+    "advertiser_name": "Huuuge Casino 777 Slots Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/08eccae93d1b92c7/preview",
+    "phashion_group": "46aa87c308eaa84c",
+    "share": null,
+    "first_seen_at": "2026-02-09T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Don’t miss out — win today!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A vibrant Valentine's Day themed jackpot announcement featuring a 5 billion coin prize and a Zeus character.",
+    "visual_action": "Animated hearts and lightning surround a large jackpot display with a prominent 'Spin' button.",
+    "text_overlay": "HUUUGE VALENTINE'S JACKPOT 5,000,000,000.00 SPIN",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Static display of the Huuuge Valentine's Jackpot banner with a 5 billion coin prize.",
+    "Visual focus on the Zeus character and the heart-themed decorative elements.",
+    "Persistent call-to-action to 'Spin' for a Valentine's win throughout the loop."
+  ],
+  "on_screen_text": [
+    "HUUUGE CASINO",
+    "HUUUGE VALENTINE'S JACKPOT",
+    "5,000,000,000.00",
+    "SPIN",
+    "Spin For Valentine's Win!"
+  ],
+  "cta_text": "SPIN",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#7B1FA2",
+    "#FFD700",
+    "#D32F2F"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult social casino enthusiasts who enjoy high-stakes virtual slots and seasonal promotional events.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001732
+}

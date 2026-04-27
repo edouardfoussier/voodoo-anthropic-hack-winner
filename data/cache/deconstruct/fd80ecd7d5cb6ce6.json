@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "fd80ecd7d5cb6ce6",
+    "ad_unit_id": "fd80ecd7d5cb6ce6",
+    "app_id": "6178e7bfdb622901de5dd950",
+    "advertiser_name": "Pikmin Bloom",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98fe358c2794e84a/preview",
+    "phashion_group": "fd80ecd7d5cb6ce6",
+    "share": null,
+    "first_seen_at": "2026-03-17T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "ピクミンと毎日を過ごして、仲良し度をあげよう",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Pikmin gathering in a field with a text question.",
+    "visual_action": "Various Pikmin types are seen interacting with everyday objects on a green lawn.",
+    "text_overlay": "スマホでピクミンを育てられる？",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of Pikmin in a field with a question about growing them on a smartphone.",
+    "Gameplay footage showing the planting of Pikmin seedlings in virtual pots.",
+    "A player character walking through a park with Pikmin following behind.",
+    "Visual demonstration of Pikmin growing and appearing on screen.",
+    "Final call-to-action screen with the game title and download link."
+  ],
+  "on_screen_text": [
+    "スマホでピクミンを育てられる？",
+    "苗を植えて・・・",
+    "歩くと・・・",
+    "ピクミンが育つよ！",
+    "PIKMIN BLOOM",
+    "スマホにピクミン。",
+    "#ピクミンブルーム",
+    "無料ダウンロード"
+  ],
+  "cta_text": "無料ダウンロード",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#76C945",
+    "#FFFFFF",
+    "#E0E0E0"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile users and Nintendo fans looking for a relaxing, outdoor-oriented collection game.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016740000000000001
+}

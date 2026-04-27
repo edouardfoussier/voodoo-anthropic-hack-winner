@@ -1,0 +1,29 @@
+{
+  "archetype_id": "challenge-mixed",
+  "target_game_id": "1235581326",
+  "title": "POV: Home From School, One More Dunk",
+  "hook_3s": "POV crash onto the bed — phone flips up, thumb taps, ball swishes through a neon magenta hoop on beat one.",
+  "scene_flow": [
+    "0–3s: Live-action POV — backpack drops, person flops face-first onto bed holding phone vertical, screen fills frame.",
+    "3–6s: Hard cut into Flappy Dunk gameplay — tap-tap-tap rhythm, ball arcs through three magenta hoops in a row, combo counter explodes.",
+    "6–10s: VS matchmaking screen flashes, opponent's score creeps up; thumb taps faster, hearts indicator flickers down to 1.",
+    "10–13s: Clutch swish at the buzzer, score flips to WIN, confetti burst in beige + blue + magenta.",
+    "13–15s: End card — game logo, CTA pulse, thumb tap reveals 'Play Free'."
+  ],
+  "visual_direction": "Open with grainy phone-camera live action (warm bedroom light to bridge into the #EAD5A0 beige) then snap into pure Flappy Dunk 2D cartoon: thick black outlines, flat shading, #D81155 magenta hoops and banners, #5CB3FF blue ball trail and combo bursts. Keep the bridge frame matched in color temperature so the cut feels seamless. All gameplay UI must be authentic Flappy Dunk chrome — top-center score, hearts row, combo multiplier, VS portraits.",
+  "text_overlays": [
+    "POV: home from school",
+    "just one quick game…",
+    "3X COMBO 🔥",
+    "opponent's catching up",
+    "buzzer beater 🏀",
+    "your turn"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Flappy Dunk rotation leans on generic \"best basketball game\" video and a static playable — zero UGC/POV creative in market. This brief imports the trending Gen Z POV-flop hook but reframes it around the dunk-rhythm core loop and VS tension, giving UA a fresh CTR-driver to A/B against the tired \"Best basketball game ever\" copy. Run as a 10–15% budget probe on TikTok/Admob; if CTR lifts >20% vs control, scale.",
+  "scenario_prompts": [
+    "Authentic Flappy Dunk in-game vertical screenshot, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors, warm beige #EAD5A0 court background, bright magenta #D81155 basketball hoop with net mid-swish, glowing blue #5CB3FF ball trail arcing through the hoop, top-center score reading '12' with hearts indicator and 3X combo multiplier burst, magenta VS banner at top edge, on-screen text 'just one quick game…' in bold white sans-serif with black outline, no human characters, pure gameplay HUD fidelity matching Flappy Dunk IP",
+    "Flappy Dunk gameplay storyboard frame, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors, split-screen VS matchmaking moment on beige #EAD5A0 background, two score columns separated by a magenta #D81155 lightning bolt divider, blue #5CB3FF accent rings around player avatars (game's existing ball-character style, no invented humans), hearts row showing 1 life left, combo explosion particles, on-screen text '3X COMBO 🔥' in chunky magenta letters with thick black outline, authentic Flappy Dunk UI chrome",
+    "Flappy Dunk victory end-card frame, aspect 9:16, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors, beige #EAD5A0 backdrop with magenta #D81155 confetti and blue #5CB3FF sparkles, large hoop in center with ball frozen mid-swish through net, scoreboard showing WIN in magenta banner, on-screen text 'your turn' in bold white outlined letters above a pulsing blue Play Free button, no human figures, faithful to Flappy Dunk's hypercasual arcade HUD"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "7208f7d1080fbc08",
+    "ad_unit_id": "7208f7d1080fbc08",
+    "app_id": "559de11d1eaf540e68000c82",
+    "advertiser_name": "The Times: UK & World News",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f02cf6fda7ea1b8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f02cf6fda7ea1b8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f02cf6fda7ea1b8/preview",
+    "phashion_group": "7208f7d1080fbc08",
+    "share": null,
+    "first_seen_at": "2026-03-05T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "For trusted, in-depth analysis and live news as it happens, subscribe to The Times and Sunday Times today.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman gazes at a painting in a gallery as a subscription offer appears.",
+    "visual_action": "Close-up profile of a woman looking up at a framed artwork in a gallery setting.",
+    "text_overlay": "THE TIMES THE SUNDAY TIMES FLASH SALE £1 for 3 months",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "A woman is shown in profile looking up at a painting in a gallery with the newspaper logo.",
+    "The text 'FLASH SALE £1' appears in the center of the frame.",
+    "The text 'for 3 months' is added below the price.",
+    "The scene holds on the complete offer as the camera slowly zooms."
+  ],
+  "on_screen_text": [
+    "THE TIMES THE SUNDAY TIMES",
+    "FLASH SALE",
+    "£1",
+    "for 3 months"
+  ],
+  "cta_text": "£1 for 3 months",
+  "cta_timing_seconds": 1.0,
+  "palette_hex": [
+    "#151515",
+    "#FFFFFF",
+    "#A68B6A"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Intellectually curious adults and professionals seeking high-quality news coverage.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014520000000000002
+}

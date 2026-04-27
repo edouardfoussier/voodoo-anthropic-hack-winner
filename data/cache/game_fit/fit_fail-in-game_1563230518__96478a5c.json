@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 15,
+  "mechanic_match": 20,
+  "audience_match": 45,
+  "overall": 22,
+  "rationale": "This is a classic Bus Jam / parking-puzzle fail hook — visually and mechanically it has nothing to do with Solitaire's green felt + playing cards aesthetic, and the \"blocked vehicle\" fail beat doesn't translate to drawing/stacking cards. Casual puzzle audiences do overlap somewhat, but adapting this archetype would require a full creative rebuild (e.g., a \"wrong card move blocks foundation\" fail), at which point it's no longer this cluster. Recommend skipping unless the team specifically wants to test a hybrid fail-hook variant authored from scratch around card-stacking dead-ends."
+}

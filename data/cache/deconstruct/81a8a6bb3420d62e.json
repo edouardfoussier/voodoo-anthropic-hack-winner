@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "81a8a6bb3420d62e",
+    "ad_unit_id": "81a8a6bb3420d62e",
+    "app_id": "631f0446c6086b1541b17c01",
+    "advertiser_name": "Hunt & Seek",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a17f62e9c3103/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a17f62e9c3103/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a17f62e9c3103/preview",
+    "phashion_group": "81a8a6bb3420d62e",
+    "share": null,
+    "first_seen_at": "2026-04-16T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A grainy, black-and-white 'horror' clip bait-and-switches into colorful 3D hide-and-seek gameplay.",
+    "visual_action": "Shaky, low-quality footage of a dark room cuts to a bright, stylized 3D bedroom where a character transforms into an object.",
+    "text_overlay": "THIS IS TERRIFYING",
+    "voiceover_transcript": "Hey, hey, hey, hey, hey, hey, hey",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Starts with a fake 'scary' black-and-white video clip to grab attention.",
+    "Transitions to a 3D bedroom environment where players are hiding as objects.",
+    "A police officer character performs a dance while searching for hidden players.",
+    "The player character uses a trampoline to jump onto a bed and hide next to a teddy bear.",
+    "The seeker continues to look around the room while the player remains undetected."
+  ],
+  "on_screen_text": [
+    "THIS IS TERRIFYING",
+    "Antony Lore: Somewhere, a better hiding spot is crying",
+    "You",
+    "Ella",
+    "Joey",
+    "Tim"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#000000",
+    "#FFFFFF",
+    "#4B5EAA"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual gamers who enjoy social-media-style humor and hide-and-seek gameplay.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001804
+}

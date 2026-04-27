@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "163451d3c2edb055",
+    "ad_unit_id": "163451d3c2edb055",
+    "app_id": "66d27b94782b200e42488550",
+    "advertiser_name": "Perfect Tidy",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/168554b31e265146/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/168554b31e265146/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/168554b31e265146/preview",
+    "phashion_group": "163451d3c2edb055",
+    "share": null,
+    "first_seen_at": "2025-12-20T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Get the buses out!!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand icon taps on colored buses to clear a traffic jam and pick up matching passengers.",
+    "visual_action": "A finger taps a green bus, which drives to a parking bay to collect green stick-figure passengers.",
+    "text_overlay": "Don't even try to solve this, YOU CAN'T",
+    "voiceover_transcript": "Hey!",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Introduction of the bus-matching mechanic with a hand pointer.",
+    "Fast-paced gameplay showing multiple buses clearing the jam.",
+    "The player fails to clear the level, resulting in a large 'FAIL' overlay.",
+    "End card display with the game title and a call to action."
+  ],
+  "on_screen_text": [
+    "Don't even try to solve this, YOU CAN'T",
+    "DOWNLOAD NOW",
+    "FAIL",
+    "BUS ESCAPE TRAFFIC JAM",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 12.5,
+  "palette_hex": [
+    "#FFFFFF",
+    "#4A4AFF",
+    "#FF4A4A"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile gamers who enjoy color-matching puzzles and logic challenges.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001624
+}

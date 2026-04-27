@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "f09a99e1760e0859",
+    "ad_unit_id": "f09a99e1760e0859",
+    "app_id": "55d20e4002ac64ee73000128",
+    "advertiser_name": "4 Pics 1 Word",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec2c38ec1c19de13/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec2c38ec1c19de13/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ec2c38ec1c19de13/preview",
+    "phashion_group": "f09a99e1760e0859",
+    "share": null,
+    "first_seen_at": "2026-01-08T00:00:00",
+    "last_seen_at": "2026-04-06T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Only 5% can solve this level... 🧠",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A classic 4-pics-1-word puzzle challenge featuring cold-themed imagery.",
+    "visual_action": "Four images depicting shivering people, polar bears, and ice scraping are shown above a word blank 'C _ _ D'.",
+    "text_overlay": "4 PICS 1 WORD",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Static display of a word puzzle with four images representing the word 'COLD'.",
+    "A hand cursor enters the frame and hovers over the 'PLAY' button.",
+    "The cursor clicks the 'PLAY' button to prompt user interaction."
+  ],
+  "on_screen_text": [
+    "4 PICS 1 WORD",
+    "C _ _ D",
+    "PLAY"
+  ],
+  "cta_text": "PLAY",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#1a233e",
+    "#ffffff",
+    "#8fb8e3"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle game players who enjoy word association and brain teasers.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001204
+}

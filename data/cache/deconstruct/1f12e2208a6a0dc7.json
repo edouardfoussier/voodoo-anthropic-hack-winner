@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "1f12e2208a6a0dc7",
+    "ad_unit_id": "1f12e2208a6a0dc7",
+    "app_id": "674a32c22947b59eda621005",
+    "advertiser_name": "Disney Solitaire",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1f0475c716fecdb3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1f0475c716fecdb3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1f0475c716fecdb3/preview",
+    "phashion_group": "1f12e2208a6a0dc7",
+    "share": null,
+    "first_seen_at": "2026-02-12T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Discover Disney Solitaire Magic!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Disney characters dancing in bubbles within a park setting.",
+    "visual_action": "Beast and Belle dance on a picnic blanket inside a magical bubble in a sunny park environment.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Disney characters dance in bubbles in a real-world park environment.",
+    "Transition to the Disney Solitaire game interface with a scrolling deck selection.",
+    "Showcase of various Disney movie-themed card decks like Moana and Toy Story.",
+    "Final call to action screen with 'PLAY NOW' and app store links."
+  ],
+  "on_screen_text": [
+    "Disney Solitaire",
+    "Lilo & Stitch",
+    "Moana",
+    "The Lion King",
+    "Ratatouille",
+    "Toy Story",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 2.0,
+  "palette_hex": [
+    "#003399",
+    "#FFCC00",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Disney fans and casual gamers of all ages who enjoy classic solitaire with a thematic twist.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001273
+}

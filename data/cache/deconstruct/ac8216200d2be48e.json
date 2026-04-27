@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "ac8216200d2be48e",
+    "ad_unit_id": "ac8216200d2be48e",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/daf5468d4fea4f12/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/daf5468d4fea4f12/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/daf5468d4fea4f12/preview",
+    "phashion_group": "ac8216200d2be48e",
+    "share": null,
+    "first_seen_at": "2025-10-26T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Experience the power of robot guns!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-intensity mech combat with a 'Double Kill' achievement.",
+    "visual_action": "A blue battle mech fires rockets at enemy units on a road, triggering explosions and a 'Double Kill' notification.",
+    "text_overlay": "DOUBLE KILL",
+    "voiceover_transcript": "Double kill",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Mech engages multiple enemies on an industrial road and achieves a double kill.",
+    "Continuous rocket fire at targets while the mech advances through the environment.",
+    "Mech jumps into the air and unleashes a massive barrage of missiles.",
+    "Transition to a black end-card with 'PLAY GAME!' text and sparks."
+  ],
+  "on_screen_text": [
+    "DOUBLE KILL",
+    "PLAY GAME!"
+  ],
+  "cta_text": "PLAY GAME!",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#2271B3",
+    "#7A7A7A",
+    "#E65100"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Competitive male gamers interested in high-octane mech combat and tactical shooters.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001356
+}

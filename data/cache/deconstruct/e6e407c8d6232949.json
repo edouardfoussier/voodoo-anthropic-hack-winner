@@ -1,0 +1,67 @@
+{
+  "raw": {
+    "creative_id": "e6e407c8d6232949",
+    "ad_unit_id": "e6e407c8d6232949",
+    "app_id": "5ec45e3767881d189d1ee062",
+    "advertiser_name": "Braindom: Brain Games Test",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dfb1c962604c7cff/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dfb1c962604c7cff/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dfb1c962604c7cff/preview",
+    "phashion_group": "e6e407c8d6232949",
+    "share": null,
+    "first_seen_at": "2025-08-26T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 13.0,
+    "aspect_ratio": "1080:1920",
+    "width": 1080,
+    "height": 1920,
+    "message": "No one can solve these riddles 🤯🤯",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Childhood Trauma Test optical illusion.",
+    "visual_action": "A hand points to an optical illusion of two cats forming a dog's face under a bold title.",
+    "text_overlay": "CHILDHOOD TRAUMA TEST WHAT DO YOU SEE FIRST?",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction with a cat/dog optical illusion and the title 'Childhood Trauma Test'.",
+    "Rapid sequence of multiple-choice optical illusions being selected by a hand.",
+    "Display of a detailed 'Test Result' screen with a trauma funnel diagram.",
+    "Final call to action to 'Take Test' for personalized results."
+  ],
+  "on_screen_text": [
+    "CHILDHOOD TRAUMA TEST",
+    "WHAT DO YOU SEE FIRST?",
+    "Elephant",
+    "Night Forest",
+    "Apple",
+    "Butterfly",
+    "Faces",
+    "Hourglass",
+    "Legs",
+    "Tuxedo",
+    "YOUR TEST RESULT",
+    "Physical trauma",
+    "Sexual trauma",
+    "Emotional trauma",
+    "Neglect",
+    "Witnessing violence",
+    "TAKE TEST"
+  ],
+  "cta_text": "TAKE TEST",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#D3D3D3",
+    "#800020",
+    "#000000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults interested in psychology, personality quizzes, and mental health self-reflection.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001758
+}

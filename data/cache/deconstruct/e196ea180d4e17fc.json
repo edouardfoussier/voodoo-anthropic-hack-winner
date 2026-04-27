@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "e196ea180d4e17fc",
+    "ad_unit_id": "e196ea180d4e17fc",
+    "app_id": "6967199ff897ed1de46b7c56",
+    "advertiser_name": "パワプロアドベンチャーズ",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/88f6411f611c51e4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/88f6411f611c51e4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/88f6411f611c51e4/preview",
+    "phashion_group": "e196ea180d4e17fc",
+    "share": null,
+    "first_seen_at": "2025-07-23T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "有名競走馬・騎手が実名で登場する競馬メダルゲーム！今すぐダウンロード！",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A smartphone displays horse racing gameplay with a challenge to win a high-payout ticket.",
+    "visual_action": "Smartphone screen showing horse race odds and a race in progress against a blurred racing background.",
+    "text_overlay": "目指せ 万馬券!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Smartphone screen displays horse racing odds and the start of a race.",
+    "Large text '万馬券!' (High-payout ticket) appears as horses cross the finish line.",
+    "A pile of gold coins grows rapidly with text promising medal increases.",
+    "Final CTA screen showing the app icon and download instructions."
+  ],
+  "on_screen_text": [
+    "KONAMI",
+    "amusement",
+    "コナステ メダルコーナー",
+    "目指せ",
+    "万馬券!",
+    "馬券的中でお得なメダル爆増",
+    "今すぐダウンロード",
+    "アーケードで人気の競馬ゲームがスマホで遊べる!"
+  ],
+  "cta_text": "今すぐダウンロード",
+  "cta_timing_seconds": 3.5,
+  "palette_hex": [
+    "#FFFFFF",
+    "#FFD700",
+    "#00A859"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Japanese adult males interested in horse racing betting and arcade-style medal games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001387
+}

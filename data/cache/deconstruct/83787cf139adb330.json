@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "83787cf139adb330",
+    "ad_unit_id": "83787cf139adb330",
+    "app_id": "66a9b8250c767522a8e2927f",
+    "advertiser_name": "Spot Differences Find & Search",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0230842257d5da77/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0230842257d5da77/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0230842257d5da77/preview",
+    "phashion_group": "83787cf139adb330",
+    "share": null,
+    "first_seen_at": "2025-12-16T00:00:00",
+    "last_seen_at": "2026-04-11T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Find 5 differences puzzle with a cartoon character in a kitchen.",
+    "visual_action": "A hand selects differences between two side-by-side images.",
+    "text_overlay": "Find 5 differences",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Introduction of the 'Find 5 differences' puzzle featuring a Marge Simpson-like character.",
+    "Hand clicks on the first two differences: a light switch and a bloody handprint.",
+    "Hand clicks on a sticky note difference on the wall.",
+    "Hand clicks on the character's dress, resulting in a 'fail' X mark and buzzer sound.",
+    "Transition to the final CTA screen with the game logo and 'PLAY' button."
+  ],
+  "on_screen_text": [
+    "Find 5 differences",
+    "SPOT DIFFERENCES Find & Search",
+    "PLAY"
+  ],
+  "cta_text": "PLAY",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#F9D71C",
+    "#76B947",
+    "#ED1C24"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual puzzle fans who enjoy pop culture references and spot-the-difference challenges.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016150000000000001
+}

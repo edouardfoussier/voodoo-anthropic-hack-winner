@@ -1,0 +1,231 @@
+{
+  "target_game": {
+    "app_id": "proto_thesphinx",
+    "name": "TheSphinx",
+    "genre": "Trivia",
+    "sub_genre": "Guessing Game",
+    "core_loop": "The user asks yes/no questions via voice or text to an AI, analyzes the answers, and attempts to guess a secret famous person before running out of questions.",
+    "audience_proxy": "Educated adults aged 25-45 who enjoy intellectual challenges, trivia, and sophisticated puzzle games.",
+    "visual_style": "Mystical Minimalism",
+    "palette": {
+      "primary_hex": "#100D06",
+      "secondary_hex": "#D4A024",
+      "accent_hex": "#FCE588",
+      "description": "A dark, premium palette featuring a near-black background with glowing golden-yellow text and accents, creating a mysterious and sophisticated atmosphere."
+    },
+    "key_mechanics": [
+      "Questioning",
+      "Deducing",
+      "Voice Input",
+      "Guessing"
+    ],
+    "character_present": true,
+    "ui_mood": "tense/challenging",
+    "screenshot_signals": [
+      "Minimalist UI",
+      "Dark Mode Aesthetic",
+      "Voice-based Gameplay",
+      "Trivia/Guessing Game",
+      "Celebrity Content"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US"
+    ],
+    "networks": [
+      "TikTok"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 10,
+    "num_phashion_groups": 10
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "label": "Satisfaction · live-action-UGC",
+      "member_creative_ids": [
+        "e5f7659c7c52df69"
+      ],
+      "centroid_hook": {
+        "summary": "A young man dances energetically in a blue-lit room, expressing his positive feelings after playing a mobile game.",
+        "visual_action": "A young man waves his arms above his head and dances to a beat in his room.",
+        "text_overlay": "how I feel after playing Crossword Go all night after school",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#1A2D59",
+        "#5A5B3B",
+        "#D9D0C1"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 2.0,
+      "derivative_spread": 1.0,
+      "freshness_days": 10.0,
+      "overall_signal_score": 1.9,
+      "rationale": "1 creatives across 1 unique advertisers, average age 10d. Hook representative: \"A young man dances energetically in a blue-lit room, expressing his positive fee\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "411c1c21e5a1009a",
+        "2d1cb76ebe18267b"
+      ],
+      "centroid_hook": {
+        "summary": "A user is shown playing a digital jigsaw puzzle on a smartphone, dragging pieces from a selection tray at the bottom of the screen to assemble a picture of a landscape.",
+        "visual_action": "A close-up of a woman's hand holding a smartphone, with her finger dragging a puzzle piece from a horizontal scroll bar at the bottom onto the main puzzle area.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#EFEFEF",
+        "#4DAAF0",
+        "#68A835"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.319,
+      "derivative_spread": 1.0,
+      "freshness_days": 94.0,
+      "overall_signal_score": 0.557,
+      "rationale": "2 creatives across 2 unique advertisers, average age 94d. Hook representative: \"A user is shown playing a digital jigsaw puzzle on a smartphone, dragging pieces\""
+    },
+    {
+      "archetype_id": "asmr-3d-render",
+      "label": "Asmr · 3D-render",
+      "member_creative_ids": [
+        "09b9a5138bab6a90"
+      ],
+      "centroid_hook": {
+        "summary": "Red pepper flakes are satisfyingly poured into a clear glass jar, accompanied by ASMR-like sounds.",
+        "visual_action": "A kitchen drawer opens, then a hand pours red pepper flakes from off-screen into a glass jar labeled 'RED PEPPER'.",
+        "text_overlay": "No. 047 RED PEPPER",
+        "voiceover_transcript": null,
+        "emotional_pitch": "asmr"
+      },
+      "palette_hex": [
+        "#F9B0E1",
+        "#E1F2FF",
+        "#D82A36"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.21,
+      "derivative_spread": 1.0,
+      "freshness_days": 143.0,
+      "overall_signal_score": 0.486,
+      "rationale": "1 creatives across 1 unique advertisers, average age 143d. Hook representative: \"Red pepper flakes are satisfyingly poured into a clear glass jar, accompanied by\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "satisfaction-live-action-ugc",
+      "visual_match": 20,
+      "mechanic_match": 15,
+      "audience_match": 25,
+      "overall": 20,
+      "rationale": "Major friction on every axis: the blue-lit bedroom UGC palette and casual teen-dance energy directly contradict TheSphinx's mystical-minimalist black/gold premium aesthetic and tense/challenging mood. The hook shows post-play euphoria with zero gameplay surfacing, which fails to communicate the AI questioning/deduction loop or the celebrity-guessing payoff that actually sells this game. Audience skews young/casual (\"after school\") versus the educated 25-45 intellectual target — only run this if testing a deliberate counter-positioning experiment, otherwise skip in favor of voice-interaction or \"can the AI guess who I'm thinking of\" demonstration hooks."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 15,
+      "mechanic_match": 10,
+      "audience_match": 25,
+      "overall": 15,
+      "rationale": "Hard pass for TheSphinx. The bright pastel/green-blue jigsaw palette and tactile drag-and-drop satisfaction hook directly contradict the game's dark mystical-minimalism aesthetic, and the mechanic (spatial assembly) has zero overlap with voice-driven yes/no deduction about a hidden celebrity. Audience also skews casual relax-style puzzlers (often older/female-skewed jigsaw players) rather than the educated 25-45 intellectual-challenge crowd — don't adapt this archetype, the only salvageable idea would be replacing the jigsaw with a \"piece-by-piece celebrity reveal\" concept, which is effectively a different creative."
+    },
+    {
+      "archetype_id": "asmr-3d-render",
+      "visual_match": 12,
+      "mechanic_match": 8,
+      "audience_match": 20,
+      "overall": 13,
+      "rationale": "Hard pass. The archetype's pastel pink/red kitchen ASMR aesthetic clashes directly with TheSphinx's dark, mystical gold-on-black premium look, and pouring spices has zero conceptual bridge to a voice-driven Q&A celebrity-guessing loop. The ASMR/satisfying-pour audience skews casual scroll-hypnotists rather than the educated 25-45 trivia enthusiasts we need — don't adapt this template, the frictions are too deep to salvage."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-live-action-ugc",
+        "target_game_id": "proto_thesphinx",
+        "title": "\"It Guessed Me in 12 Questions\" — Reaction UGC × Mystical Minimalism",
+        "hook_3s": "Candle-lit face, phone glowing gold: \"I tried to outsmart an AI sphinx. It read my mind in 12 questions.\"",
+        "scene_flow": [
+          "0-3s HOOK: Educated 30-something sits in a dark room, only a warm gold phone-glow on their face. Smirk to camera. Overlay sets the dare.",
+          "3-7s SETUP: Over-the-shoulder of TheSphinx UI — black screen, glowing #D4A024 prompt 'Think of a famous person.' User whispers/taps a yes/no question. Golden answer pulses back.",
+          "7-11s ESCALATION: Quick-cut montage of 3 questions getting eerily specific ('Are they still alive?' → 'Did they win an Oscar?'). User's eyes widen, leans closer. Question counter ticks down in gold.",
+          "11-14s PAYOFF: Sphinx reveals the exact celebrity name in glowing #FCE588 serif type. User throws hands up — the satisfaction-archetype reaction beat — but contained, impressed, not goofy.",
+          "14-15s CTA: Logo lockup on near-black, gold CTA button pulses."
+        ],
+        "visual_direction": "Translate the archetype's bedroom-UGC energy into \"premium midnight UGC\": shoot handheld vertical in a dim room lit ONLY by the phone screen, so the user's face is washed in #D4A024 gold against #100D06 near-black negative space. Keep wardrobe muted (charcoal, black knit). All on-screen UI cards float in true black with hairline gold borders and #FCE588 highlight text in a refined serif — Mystical Minimalism, no clutter, no neon. Reaction beats stay restrained and intelligent (lean-in, raised brow, single fist-pump) rather than teen dance, matching the 25-45 intellectual audience while preserving the satisfaction payoff that makes the archetype work.",
+        "text_overlays": [
+          "I challenged an AI to read my mind",
+          "I picked the most obscure celebrity I could think of",
+          "Question 7… how does it know this",
+          "It guessed in 12.",
+          "Your turn."
+        ],
+        "cta": "Outsmart The Sphinx",
+        "rationale": "We're salvaging a low-fit archetype (20/15/25) by keeping its proven satisfaction-reaction structure but swapping bedroom-blue teen energy for a candle-lit, premium \"I just got mind-read\" beat that actually surfaces the AI questioning loop — the thing that sells this game. UA should test this against a pure gameplay-demo control; if reaction-style wins, it unlocks the UGC creator pipeline for an otherwise hard-to-UGC trivia title. Cap spend until CTR/IPM clears benchmark given the documented audience and tonal friction.",
+        "scenario_prompts": [
+          "Hero frame, 9:16 vertical mobile ad still: a thoughtful 35-year-old in a charcoal sweater sitting in a pitch-black room, face lit only by the warm golden glow of a phone screen, eyes wide with disbelief, leaning toward camera. Mystical Minimalism visual style, premium cinematic UGC. Strict palette: near-black background #100D06, glowing golden-yellow #D4A024 light wash, #FCE588 highlight on the eyes. Elegant serif on-screen text overlay reads 'It guessed in 12.' in #FCE588. High contrast, shallow depth of field, grain.",
+          "Storyboard frame 2, 9:16 vertical: over-the-shoulder shot of a smartphone held in dim room, screen showing a minimalist trivia app UI on pure #100D06 black with a single glowing #D4A024 line of text 'Is your person still alive?' and a small gold question counter. Mystical Minimalism, hairline gold borders, no clutter. On-screen text overlay in elegant serif: 'Question 7… how does it know this' in #FCE588. Cinematic, mysterious, sophisticated.",
+          "Storyboard frame 3, 9:16 vertical: close-up of the same user mid-reaction, restrained fist-pump, half-smile of impressed defeat, phone glow painting their face gold. Background pure #100D06 near-black. Mystical Minimalism premium UGC aesthetic, palette locked to #100D06 / #D4A024 / #FCE588. Bold serif overlay across upper third: 'Outsmart The Sphinx' in glowing #FCE588. Vertical mobile ad framing, cinematic grain."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_KjRssMBibC8Gsg8mcAxSbaMV?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfS2pSc3NNQmliQzhHc2c4bWNBeFNiYU1WP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=h7Mu0i%7EfDiulzmVxhgg2%7EI2FQ4WJNS6QFws7WPYuZQYJmbpCSTtzzbCZEvFYw-Wo%7E9Ef%7ECfIbYc-4eSFISLeGpOkOa53hS%7EhV0%7EuUko4tb45DaTFTq5J%7EpN1qaDJCC5sCfE6QdmCZqIg2dBg7N9I3rS9ngrgL22EjQZ7d7KfpA5ILtZQixBZxNewDAS5S-sOAc4ywzXlD-Sk1uR08P0lRdBxyqXm%7EhPfQHQErbiGv1pwQuZnZARQP4TWRBgIYLzM-eIO9G%7E0PRKoTF8Z-MJvnnfEn6cJGqmMRV76NQXCCs8sY9Ssaa0s4W7YD0dNF8WQSDvwOi1CKSy98fQUzF%7EyKg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_xFWgXAf3nuxY63KrRHdispAq?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeEZXZ1hBZjNudXhZNjNLclJIZGlzcEFxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=hAZgYtsYdvgDfhTmPNEypuN%7EEqnX4RHXnOZkSvGbQzWyDsdV-cnpyGYSJKiGs1%7EOZ-etgOxa5z-%7EVSwQZHkx7yGG6mBAvDFH-hR7X00GsYvIJFrJxmKydfqgHUzHEQQr9CSYyH0viWpPvKUJRxBVrQPG0DRjSPNnF7pjpibqB30xS6hHBjbGkH5mZsQy3rbT--nRLUB6WHy0iEEBLkP3N1lhymEPUoUpwEhnY5oJUZb06lubIBxKrzNqT69%7EE9cqGJmYMrP7JTviVu-mfs8ZYq23j%7EDayOgz%7EE0U0hLm1UgoEW0xtB5nT1yBy3KInIVKiZ1BZrmqtQI2Pe00eGFgyw__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_kfBW6h4qU2Poe55PYYraunW2?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfa2ZCVzZoNHFVMlBvZTU1UFlZcmF1blcyP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=szXEO5QlKU3DFMuLLvYnmkbVTyAP-2k3TDkzT1xZ49F5pu-P8eaQMgisIEiO8CUIVkEnjtSPJr6IGIayFaQVIHuRyLSYswa9vXTiRix81V6bW4o4J3llq%7ExNE1ofQjNiIpaCVbjv8ZCFPKZH0fZcFEO4L84NmicrKrJDbxqfw6Ht%7EGfWTyK5CpnZ4y5u8Lj4c5iWatOd6AiclU6UeH2OvtIqB3jY5XkMvzMyu5dVo20PDpOWaKhN%7EVIw7J7-Xbni133f52r0aChLEaGbQeOb503R-8qRyF-wFojl81Zs4rDsigUOLxf0PSPkwSsyMosLifosn07zqvC%7EuBK%7E9qt%7EBQ__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=1.90 × game_fit=20/100 ⇒ priority=0.38"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "proto_thesphinx",
+        "title": "The Reveal: Piece by Piece, Guess the Icon",
+        "hook_3s": "A glowing golden silhouette flickers in the dark — \"I know who you're thinking of. Do you?\"",
+        "scene_flow": [
+          "0-3s HOOK: Pitch-black screen. A faint golden silhouette of a famous face pulses into view, fragmented like shards of light. Whisper-toned VO: 'I'm thinking of someone famous…'",
+          "3-7s SETUP: POV of a phone in dark room. User taps mic, asks 'Are they alive?' — golden waveform ripples, AI replies 'Yes.' One shard of the silhouette ignites, revealing an eye.",
+          "7-11s ESCALATION: Rapid-fire questions ('Athlete?' No. 'Musician?' Yes. 'Still performing?' Yes.) — each answer lights another shard. Question counter ticks down in gold: 8… 5… 3.",
+          "11-14s PAYOFF: User whispers a name. The full portrait ignites in golden filigree against the void — correct. A subtle smile, satisfaction beat.",
+          "14-15s CTA: Logo + Sphinx eye motif. 'Can you outsmart The Sphinx?' Tap to play."
+        ],
+        "visual_direction": "Mystical Minimalism rendered in near-black (#100D06) negative space, with celebrity portraits constructed from glowing golden-yellow filigree (#D4A024) and luminous highlights (#FCE588) — think gilded shadow-art meets oracle vision. No clutter: a single phone, a single face emerging from darkness, gold light as the only storyteller. Camera stays close and intimate; light reveals are choreographed to each AI answer, swapping the jigsaw archetype's tactile drag-satisfaction for a voice-triggered illumination-satisfaction. Premium, cerebral, slightly occult — the opposite of casual pastel puzzle ads.",
+        "text_overlays": [
+          "I'm thinking of someone famous.",
+          "Ask anything. Yes or no.",
+          "Musician? …Yes.",
+          "3 questions left.",
+          "Can you name them?",
+          "Outsmart The Sphinx"
+        ],
+        "cta": "Play Free",
+        "rationale": "We discard the jigsaw mechanic but keep the archetype's core dopamine driver — incremental reveal toward a satisfying completed image — and translate it into a voice-deduction illumination loop that authentically showcases TheSphinx's actual gameplay. The gold-on-black mystical aesthetic is a scroll-stopper in a feed of bright casual ads, directly targeting the 25-45 intellectual audience who self-select on 'sophisticated' visual cues. UA team: A/B test celebrity silhouettes (musician vs. athlete vs. actor) as the hero reveal — face recognition will be the primary CTR lever.",
+        "scenario_prompts": [
+          "Hero frame, 9:16 vertical aspect ratio, Mystical Minimalism style. A glowing golden filigree portrait of a famous-looking face emerging from pure near-black void (#100D06), constructed from luminous golden-yellow lines (#D4A024) with bright pale-gold highlights (#FCE588) like cracks of light. Half the face is illuminated, half dissolves into darkness. Centered on-screen text in elegant serif gold: 'Can you name them?' Cinematic, premium, oracle-like, sophisticated, no clutter, negative space dominant.",
+          "Storyboard frame, 9:16 vertical, Mystical Minimalism. Close-up of hands holding a smartphone in a dark room, screen glowing with a golden voice-waveform ripple on near-black background (#100D06). Soft golden ambient light (#D4A024) on fingertips, pale yellow accent glow (#FCE588) from the screen. Minimalist UI showing a single tap-to-speak mic icon. On-screen overlay text in thin gold serif: 'Ask anything. Yes or no.' Tense, intimate, cerebral mood.",
+          "Storyboard frame, 9:16 vertical aspect, Mystical Minimalism aesthetic. A fully revealed celebrity portrait rendered entirely in glowing golden filigree lines (#D4A024) with luminous highlights (#FCE588) against a deep near-black background (#100D06), surrounded by faint constellation-like dots. A small gold counter reads '0 questions left.' Bold gold serif text overlay at bottom: 'Outsmart The Sphinx.' Triumphant, mystical, premium reveal moment."
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_SwLQSaHWp7QHm7NSafJCK8Ri?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfU3dMUVNhSFdwN1FIbTdOU2FmSkNLOFJpP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=RVX6Qkxk%7ESvQ%7EgHPvs2DkPHdAr4CR6xbOpKMeqhAobUeb8mwaNxoAXSkqx0FeBgNiDuo5BtgsFu4LPzjxW%7E9nwfe33RwldU-fRVk14ZVGvAYTRqHhiJeSRyq2%7EIQTDZnUW0OLH2R-toKUOs5wRdXaSrPhBrzHjdZxathNR-HKlCbxA1e-C3oIoZ5XX0KJJNyNhUgK97WItjHvQQpYeprc1n4LO59LNhmvgn5duu%7EfXdrbYc0aU-KqZlHqr1lCFFIcdQPEQjvPiP4DXvUapEFGOT8haHl3PxO5h89w6fnShsZ8PygWD5oPGwuzx1v5SC1IDTTAhqNyb3QiElnRqJ9tA__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_uy7SKEWtgmUxVYKeqH6a4BBq?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdXk3U0tFV3RnbVV4VllLZXFINmE0QkJxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=a3l0Yg2gdWDzIfFtiNKJRA7fa7wwfqL43w85yjXcyPWPqnlOsReWJvBFg-APQFpOt6VzgcXAQ5p1ZT66DhM0PQY3NLZeYuSfv2Hb--hDXYvn%7EPgsAbJK5cTkR7bqbuJ%7E9NRXSYVJnsBGJ5Ohwi-yW8zNEvInkxKd2Uz2%7EskfHak77PwwVcQGTHbMVmNkc9nMZCHq-kuUPlFNsrWZHgbjpAkNOZmWkg1lp%7Eqkh0kQNcksMF40Y3OuFMkruUABQN9k8ld1yP%7EHQ-X1MHkPkf4Vu2BwuLBTPB87xhkSTfdPP02sxF08f9o7BNW6oYpYfRsMm%7EJZJ8RHW%7EOyaBM2-Hj%7Ewg__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_JgKAH74F7JQzkcMGXqrgE11F?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSmdLQUg3NEY3SlF6a2NNR1hxcmdFMTFGP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=jOAiWrs3kBgNGIcB6muwOjj6dQpjfrTvNryJeIVXr9sj8UXSEdN2swrk4LYNG-FL2W2ys7AeWv6SNBTMdODDm3sRTdILfrGE43XHx3wTFz0IgPrWtdAfSABfsmtJ8aQPwIQI1BzkH-Mf8kIoHQY%7EC%7Ec-M3UQ7ExZhsolewEDrq9LH0TlngVxZsUYtwvG8FLDVta7MdJ8IZeaiiZhucxEZLDkNdQfZfbeGyC1nk8aGmSjmps%7Elk2UDLXAMDWKhAESo4sb3Y1dgldgoq7ry0OeOukkPIdR6jXnZKOoQeCfty%7EINg3RI6N0mAeivVZDT8jpal9-RsOFobsT-lmT73Zrmw__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.56 × game_fit=15/100 ⇒ priority=0.08"
+    }
+  ],
+  "pipeline_duration_seconds": 594.7244743330084,
+  "total_cost_usd": 0.05468125,
+  "generated_at": "2026-04-25T20:19:26.672780Z"
+}

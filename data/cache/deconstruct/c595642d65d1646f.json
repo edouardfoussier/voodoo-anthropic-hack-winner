@@ -1,0 +1,64 @@
+{
+  "raw": {
+    "creative_id": "c595642d65d1646f",
+    "ad_unit_id": "c595642d65d1646f",
+    "app_id": "60892aef62e4301a2eb3aee1",
+    "advertiser_name": "Wing Fighter",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0366cf97d71eb992/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0366cf97d71eb992/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0366cf97d71eb992/preview",
+    "phashion_group": "c595642d65d1646f",
+    "share": null,
+    "first_seen_at": "2026-04-16T00:00:00",
+    "last_seen_at": "2026-04-20T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A cinematic sci-fi invasion of a futuristic city.",
+    "visual_action": "A massive purple portal opens in a dark sky above a futuristic cityscape, releasing a fleet of enemy ships.",
+    "text_overlay": "Warning! Warning! Enemy forces have invaded",
+    "voiceover_transcript": "Warning! Warning! Enemy forces have invaded.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Cinematic 3D render of a futuristic city being invaded by ships from a purple sky portal.",
+    "Transition to a high-tech air defense array activating with red and blue laser beams.",
+    "Top-down gameplay footage showing defensive units and 'Guard Protocol' in action against waves of enemies.",
+    "A countdown timer screen indicating the time remaining until the next invasion.",
+    "Final end card featuring cinematic artwork of fighter jets and a call to download."
+  ],
+  "on_screen_text": [
+    "Warning! Warning!",
+    "Enemy forces have invaded",
+    "Air defense array",
+    "activate!",
+    "Defense Array",
+    "Guard Protocol Activated",
+    "1 Day",
+    "Until Next Invasion",
+    "WING FIGHTER",
+    "Free Download",
+    "THE BATTLE FOR SURVIVAL HAS BEGUN",
+    "Download Now",
+    "Content in this ad unlocks at a specific level"
+  ],
+  "cta_text": "Download Now",
+  "cta_timing_seconds": 14.0,
+  "palette_hex": [
+    "#1A1A1A",
+    "#7B2CBF",
+    "#00D4FF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male gamers 18-35 who enjoy sci-fi aesthetics and strategic combat or tower defense games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001921
+}

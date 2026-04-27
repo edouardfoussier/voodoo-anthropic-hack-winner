@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-live-action-ugc",
+  "target_game_id": "6748054540",
+  "title": "\"POV: My Brain After One Chain Reaction\" — UGC Reaction × Bounce Blast B-Roll",
+  "hook_3s": "Split-screen: a tired adult slumps on the couch — then a single tap unleashes a cascade of glowing yellow-orange balls bouncing through a dark purple grid. Their face lights up.",
+  "scene_flow": [
+    "0–3s HOOK: Phone-shot selfie of a 30-something on the couch, dim room, deadpan stare. Overlay: 'me after a 9-hour workday'. Lower third reveals Bounce Blast 3D gameplay starting.",
+    "3–7s SETUP: Cut to full-screen gameplay — finger taps a colored block into the grid, obstacles lock in. ASMR click. Overlay: 'one tap…'",
+    "7–11s PAYOFF: Blocks transform into bouncing balls — physics chain reaction explodes across the board in #FDBA4D streaks. Screen-recorded combo counter ticks up. Reaction cam (PiP) shows the creator's jaw drop, then slow satisfied smile.",
+    "11–14s ESCALATION: Quick montage of 3 increasingly chaotic clears, each more satisfying than the last. Creator does a small celebratory fist-pump.",
+    "14–15s CTA: End card on dark #20232B background, logo + bouncing ball loop, tap-to-play prompt."
+  ],
+  "visual_direction": "Lean into the contrast between gritty vertical phone-cam UGC (warm room light, slight grain) and the polished 3D Casual Abstract gameplay capture. Gameplay sections fill 100% of frame with the signature dark #20232B background, deep #403F6D purple grid frames, and bright #FDBA4D accent balls/trails that pop like embers in the dark. Use crisp ASMR-style click and bounce SFX, minimal music — let physics carry the satisfaction. Reaction inserts stay small (PiP or quick cuts) so the gameplay is always the star. Smooth, calm pacing — never frantic — to match the 25-55 casual audience and the calm/satisfying UI mood.",
+  "text_overlays": [
+    "me after a 9-hour workday",
+    "one tap…",
+    "wait for it 👀",
+    "this is so satisfying",
+    "I cannot stop playing",
+    "Tap to Play"
+  ],
+  "cta": "Tap to Play",
+  "rationale": "This adapts the winning UGC-satisfaction archetype by keeping the relatable creator-reaction framing (which drove the win) but front-loading actual Bounce Blast chain-reaction B-roll to fix the archetype's biggest fit gap — zero gameplay signal. The split-screen reaction format gives UA both a scroll-stopping human hook AND clear mechanic legibility for our 25-55 physics-puzzle audience. Recommend testing two hook variants: tired-after-work vs. bedtime-wind-down, both targeting calm-time-filler intent.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 mobile ad still, 3D Casual Abstract style, top half shows a casual 30-something person on a couch in a warm dim living room holding a phone with a surprised satisfied smile, bottom half is a full-bleed mobile game screen showing a dark #20232B background with deep purple #403F6D grid frames and dozens of glowing yellow-orange #FDBA4D balls bouncing in a chain reaction with motion-blur trails, bold white sans-serif text overlay reading 'this is so satisfying', cinematic lighting, high contrast, photoreal UGC top half, polished 3D render bottom half",
+    "Storyboard frame 1, vertical 9:16, 3D Casual Abstract style, close-up of a finger tapping a colored block into a puzzle grid, dark #20232B background with #403F6D purple frame borders, single #FDBA4D yellow-orange highlight glowing around the tapped block, soft ambient occlusion, calm satisfying mood, white text overlay reading 'one tap…' in clean sans-serif, shallow depth of field",
+    "Storyboard frame 2, vertical 9:16, 3D Casual Abstract style, explosive physics chain reaction with 20+ glossy #FDBA4D yellow-orange balls ricocheting across a dark #20232B grid bordered in #403F6D deep purple, dynamic motion trails and light streaks, sparks of accent color, bright combo counter in corner, bold white text overlay reading 'wait for it 👀', high-energy but clean composition, premium mobile game render"
+  ]
+}

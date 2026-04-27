@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_hMm7cvKBZU4qfPxxDQLFzPhd?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfaE1tN2N2S0JaVTRxZlB4eERRTEZ6UGhkP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=SVxj3s6wWb9QGflT2lGOC4K3JIpKwZ-eLh3AYJh1kghmSzAAgioUqFQmqwcWn7BR2MQltbmgQhT-7SKIWOxx-ppitL%7EnMSVYfysk3FVdWWeogDDKWlkLR6yymbEJh0hAKwhudkZDgxbvg30tbV26MT2YFSQM7pTU7e1N1-A0v7puUavwhxbsHB800OspPIMnKPj%7E6Fh9%7EqYiJbj1Y3uHH1IvlgaUYd-7wUhHdCiRKiVdHczVIFYy8AjstlukFI2742he2EcmnQJ4QmqBZmgDWkXIMdCiZD9doAmHOAwobZoZvpbcfsvkKdDSihppcBV%7EbU9X7ZtP8OqD9NESk4Ps7g__",
+  "job_id": "job_eHjcPDAKgydzQitYkXxdHbnF",
+  "asset_id": "asset_hMm7cvKBZU4qfPxxDQLFzPhd",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, Flappy Dunk gameplay still: blue ball nosediving below a magenta hoop ring, beige (#EAD5A0) court, blue (#5CB3FF) trail breaking apart into particles, red 'MISS!' stamp slammed across center, magenta (#D81155) banner at bottom, thick black outlines, flat shading, 2D cartoon style, vibrant high-contrast colors. HUD shows lives indicator at 1 heart, opponent score ticking up. Overlay text: 'TAP TOO LATE\u2026'. [Audio: VO 'NO WAY' / energetic competitive trap 128bpm / shatter SFX on miss, crowd 'ooooh' sting at 2s, heart-loss blip at 3s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

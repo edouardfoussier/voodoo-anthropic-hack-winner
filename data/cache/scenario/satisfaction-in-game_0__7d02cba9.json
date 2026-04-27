@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_QvnXFFJ87k8P4Mxq6fQhd38q?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUXZuWEZGSjg3azhQNE14cTZmUWhkMzhxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=sUIvtODaoDhGg8TFlNiPDejsnqcu8CQ29ImRy35KUUr4luokau5ZKJaFU7W9AyvKoj1iHGbPTGRHBeNpj2HzjtSEbuOriKaQUArN%7EjAMuDijGwEvWnKmgyxG93szMokc7oKnLxe7e-jS3OqfGoGHGdelSfBJzyIzcNc%7EzT%7Eyqf%7Ed1ni-3H1g40u8sd%7EYLFWkRl06Ir0FR-55y%7ETqY10%7EMpY8HxNT209VWAWaswjLmdwdyS1DlCNuhqNeCAlOKq4JtCnIlG5o3G7XKg0I8D4HemTihaZK1yJqcUPjOdYc6FzRVz-BL41huAONoz3i%7E-ZnGC6y%7Eh9GyMQ%7EEiMpzi7BAw__",
+  "job_id": "job_YTGBAKcJPA6E9pkovpLS1S1K",
+  "asset_id": "asset_QvnXFFJ87k8P4Mxq6fQhd38q",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical aspect ratio, clean and colorful 3D cartoon style with soft rounded shapes, top-down 3/4 view of a glossy light grey (#F0F0F8) marble-sorting machine on a soft lavender background (#E5DFFF), vibrant pastel marbles in pink, blue, yellow and orange tumbling from a tray onto a conveyor belt and dropping into color-matched boxes below, one orange marble mid-air with a subtle motion blur, bold orange (#FFB13B) headline text 'Tap to drop' at the top, soft ambient lighting, satisfying mobile puzzle game ad still, ultra clean rendering",
+  "model_id": "flux.1-dev"
+}

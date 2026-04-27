@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "ba4591c761ac2c74",
+    "ad_unit_id": "ba4591c761ac2c74",
+    "app_id": "67e4d21af6ce7824d64b8049",
+    "advertiser_name": "Referee Simulator 3D",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e5f7f695046ea5c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e5f7f695046ea5c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6e5f7f695046ea5c/preview",
+    "phashion_group": "ba4591c761ac2c74",
+    "share": null,
+    "first_seen_at": "2026-03-11T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Make the toughest calls on the field. Try the Referee life now!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A soccer player is tripped in the box, prompting a referee decision.",
+    "visual_action": "A player in a striped jersey is fouled by a defender; a choice UI appears.",
+    "text_overlay": "REFEREE SIMULATOR, PENALTY, OUT",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "A foul occurs in the penalty area, triggering a choice between 'PENALTY' and 'OUT'.",
+    "The user selects 'OUT', resulting in an incorrect call and a frustrated player reaction.",
+    "A VAR replay sequence highlights the foul from multiple angles to show the mistake.",
+    "The defender celebrates the bad call while the fouled player remains on the turf.",
+    "The ad concludes with a branded end card and a 'PLAY NOW' call to action."
+  ],
+  "on_screen_text": [
+    "REFEREE SIMULATOR",
+    "PENALTY",
+    "OUT",
+    "VAR",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 14.0,
+  "palette_hex": [
+    "#4CC9F0",
+    "#F9C74F",
+    "#90BE6D"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual sports fans who enjoy soccer and interactive decision-making games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016840000000000002
+}

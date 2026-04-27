@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "3be5f41d4de3b0d7",
+    "ad_unit_id": "3be5f41d4de3b0d7",
+    "app_id": "697ae701ad2d1597f2a9f172",
+    "advertiser_name": "Solitaire Cash",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1af125ebedf58cbc/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1af125ebedf58cbc/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1af125ebedf58cbc/preview",
+    "phashion_group": "3be5f41d4de3b0d7",
+    "share": null,
+    "first_seen_at": "2026-04-16T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Your Favorite Card Game, Now With Cash",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid solitaire gameplay with a fast-climbing money counter.",
+    "visual_action": "Cards are moved to foundations while a green money bar at the top increments quickly from $12 to $63.",
+    "text_overlay": "You received $63 USD from SOLITAIRE CASH",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Fast-paced solitaire gameplay showing cards being cleared and a money counter rapidly increasing.",
+    "Pop-up notifications appear showing specific dollar amounts received from the app as the counter hits $429.",
+    "A leaderboard screen highlights the top player winning a $426 cash prize.",
+    "Final splash screen with the game logo, payment methods (PayPal, Visa, Venmo), and a 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "$12",
+    "$63",
+    "You received $63 USD from SOLITAIRE CASH",
+    "$149",
+    "You received $72 USD from SOLITAIRE CASH",
+    "LEADERBOARD",
+    "Prize $426",
+    "Solitaire CASH",
+    "PLAY NOW",
+    "Winnings are based on skill and shouldn't replace income"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#2E7D32",
+    "#7B1FA2",
+    "#FFD600"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual adults who enjoy classic solitaire and are motivated by the potential for real-money rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001876
+}

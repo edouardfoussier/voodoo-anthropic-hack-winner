@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_KGVxtSSUYKtQcA3nsNGWoCdU?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfS0dWeHRTU1VZS3RRY0EzbnNOR1dvQ2RVP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ZZ4b5i3gnGbxM4HjYed1S%7EVT0uhCKUrv2bfSUnGWuVPNM3FjASPM%7EHiXhItESTnhNYDuyMd6hnPhpLV95EFZfypl6sBVmtaq80Y%7EeSvl2te%7EAymszw2hjsQM3JBrTHi0TSDToF3SJlgZim9TFTDwVPFMGoESQ1PiXQ6yuk-O4TX%7EXERadE4b-z9t7Y72D9tynZaFBe3Zd3s6SdzBE4PDdlKG2D1nyy0PFaR-soNe%7EubTdzXh9HWRlXz7FVm-pD51kpgBMFI2uSfivHCLgeQYaMpoPEEyyz-4yigGqTV%7EuoEBq-fgqRlOLHc2zE%7E5HDAAuAdhhVaM%7EKvu4qdNntXcIg__",
+  "job_id": "job_M6cDHJMfXsL1aNCZR2UFjVB7",
+  "asset_id": "asset_KGVxtSSUYKtQcA3nsNGWoCdU",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, Minimalist 3D with bright, contrasting colors and simple geometric shapes. A bright #FF007F humanoid ragdoll mid-flip diving headfirst into a small circular #AEE2FF swimming pool, but the pool's side wall is sliced open like an architectural cross-section, revealing a vertical shaft plunging deep below with stacked depth markers (-50m, -200m) and a glowing #C754D9 purple abyss at the bottom. Bold pink banner overlay reads 'HOW DEEP CAN YOU GO?' in the game's chunky sans-serif. Soft pastel lighting, flat shading, in-game HUD with depth counter top-right, height markers along the platform edge. Authentic Flip & Dive 3D in-game moment, no realism, no shadows. [Audio: VO (curious whisper) 'Wait\u2026 how deep does it actually go?' / calm satisfying lo-fi at 80 BPM with soft synth pads / whoosh on flip at 0.5s, muted splash at 2s, ascending chime as depth counter ticks past 200m]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

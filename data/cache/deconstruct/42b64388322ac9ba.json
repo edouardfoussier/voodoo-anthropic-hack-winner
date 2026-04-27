@@ -1,0 +1,65 @@
+{
+  "raw": {
+    "creative_id": "42b64388322ac9ba",
+    "ad_unit_id": "42b64388322ac9ba",
+    "app_id": "667637e0a749170e4b18707b",
+    "advertiser_name": "The Vault: Logic Puzzle Box",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8c455bfbc4120cee/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8c455bfbc4120cee/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8c455bfbc4120cee/preview",
+    "phashion_group": "42b64388322ac9ba",
+    "share": null,
+    "first_seen_at": "2026-02-15T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Secrets Within Boxes: Uncover the Mystery",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A man sitting on a toilet claims he's cracked three safes but is stuck on a Martian one.",
+    "visual_action": "The camera enters a bathroom to reveal a man sitting on a toilet holding a phone, looking directly at the viewer.",
+    "text_overlay": "I'VE CRACKED THREE SAFES TODAY",
+    "voiceover_transcript": "I've cracked three safes today and I still can't figure out this Martian one.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "UGC intro of a man in a bathroom talking about his puzzle progress.",
+    "Transition to game footage of a Martian-themed safe with the man in a PiP overlay.",
+    "Demonstration of solving a dial-based puzzle within the game.",
+    "The safe opens to reveal a high-tech interior as the man issues a challenge to the viewer."
+  ],
+  "on_screen_text": [
+    "I'VE",
+    "CRACKED THREE",
+    "SAFES TODAY",
+    "AND I",
+    "STILL CAN'T",
+    "FIGURE",
+    "THIS",
+    "MARTIAN",
+    "ONE",
+    "We're finally on Mars, Nathan. Ready to explore these Martian vaults?",
+    "Let me try. Watch me solve it faster than you.",
+    "Ha! Told you I'm the puzzle master.",
+    "Download the Vault Logic Puzzle Box and see if you can beat my record.",
+    "THE VAULT",
+    "CAN YOU UNLOCK THE VAULT"
+  ],
+  "cta_text": "CAN YOU UNLOCK THE VAULT",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#4B5320",
+    "#FFFFFF",
+    "#D2691E"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual gamers who enjoy logic puzzles and brain teasers with a competitive edge.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0019039999999999999
+}

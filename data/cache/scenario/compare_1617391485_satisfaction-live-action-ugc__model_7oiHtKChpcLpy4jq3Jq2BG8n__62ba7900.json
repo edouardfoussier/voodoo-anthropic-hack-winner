@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_XJfxUED1ctiZjnsrzr5RECVV?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWEpmeFVFRDFjdGlaam5zcnpyNVJFQ1ZWP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qpitqSy0oq8909idKArUaLjIjG7-Gh11%7EKtSheBS7AVi4OLc3goeYcFjQdeqDqU5UQ4qaBhbad1rwUqsFMbTtVX3retSCkzQooCFRZ%7ElC6MZbBxXpc0zH82PJqwzQ5frT%7ENcunxZv8HkGeyu6QzWgMKx5meclyMTOTQGGP4jQjnJLQ7jsg5rs4XfYwMuIEc8Wz7M-lUq-NgJvkc75JTo50RGAsLvZTgXng9K4dXNTvrCM20Nhh82SkMHYFSGoyToHU55ggCty8Ce0YHoFhNPnrvLsQiA76D1Z3sPvmRlncPHqoN7wEpyaRbjtgCftBrnBT21OzWsBoc9KRpVKRjSPA__",
+  "job_id": "job_SVwA9B8pMpYnUGtqfRFymVGJ",
+  "asset_id": "asset_XJfxUED1ctiZjnsrzr5RECVV",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical mobile ad still: close-up of a 35-year-old woman's face on a dark couch at night, lit entirely by the royal blue (#5469B9) glow of her phone screen, dark navy (#1E2744) room behind her, a soft gold (#FFD700) reflection in her eyes from an in-game combo, subtle satisfied half-smile. Phone screen visible at bottom edge showing glossy beveled multi-colored blocks on a high-contrast dark grid in the clean vibrant abstract aesthetic of Block Blast. Bold white sans-serif overlay text top-center: 'me at 11pm, one more round'. Photorealistic UGC selfie look, shallow depth of field, grainy phone-camera texture.",
+  "model_id": "model_7oiHtKChpcLpy4jq3Jq2BG8n",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "b247da31031a32bc",
+    "ad_unit_id": "b247da31031a32bc",
+    "app_id": "61706f68479fc7789c180167",
+    "advertiser_name": "Episode: Reality Stars",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b50aad59751c831/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b50aad59751c831/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4b50aad59751c831/preview",
+    "phashion_group": "b247da31031a32bc",
+    "share": null,
+    "first_seen_at": "2026-02-15T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Wait for the twist",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A group of six attractive, stylishly dressed characters pose and laugh together.",
+    "visual_action": "Characters are shown in a group shot, smiling and laughing with slight animations like hair flips and posing.",
+    "text_overlay": null,
+    "voiceover_transcript": "Join the hottest cast ever!",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Group shot of six attractive characters in formal wear posing and laughing.",
+    "Camera zooms in slightly on the male characters in the back row.",
+    "Transition to a new group of seven characters in a different art style against a purple background.",
+    "Final title card appears with the game logo and a call to action button."
+  ],
+  "on_screen_text": [
+    "Episode",
+    "REALITY STARS",
+    "PLAY TODAY!"
+  ],
+  "cta_text": "PLAY TODAY!",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#D881C5",
+    "#2B4C8C",
+    "#222222"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Young adults who enjoy reality TV drama and interactive romance stories.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001505
+}

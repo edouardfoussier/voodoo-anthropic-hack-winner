@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_3Q13spG2Np9LPtkNv236FTnf?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM1ExM3NwRzJOcDlMUHRrTnYyMzZGVG5mP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=bl0idRllg0i9TEVKJmPo2A6GZLgbZaRNdKdwkC1Obh3HFuZ32E1xg9up-J053ryClHkDwWCBuLCHo09xAZsUU0rHMyUay7jDq1zdWua4LFKub8i0OaLBARfAfF3izxWukB89cQv56VIlGBRuXZoTmHoKPqDeyqHsbn2DHEoszIIPYGDWLfqDIm43zmNr4m9LUSJyL5xqQDrDP9fQT-H0eXtAaMxDjmaOnPb3pVbKUHF%7Eti-qF2HCYJH4gO4mtw0mqm72wvq1dXKdf7Jjirp8eenutfXDc2M5ZsKjJ1Lk8%7E23PXRL6sN9hXZ0Hv%7EgMV8zhP-ZI-35cIx1D02Yf61RkQ__",
+  "job_id": "job_tS6WNiYakSBnFx1xDPcpfL32",
+  "asset_id": "asset_3Q13spG2Np9LPtkNv236FTnf",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, top-down three-quarter view of four color-coded 3D buckets (red, blue, yellow, green) suspended above a sky-blue conveyor belt with a lock-and-key obstacle mid-track, streams of cubed pixel-art sand falling in parallel, palette #4A90E2 background, #FFFFFF belt highlights, #FFD700 glowing lock, on-screen text 'Match the colors' in bold white sans-serif, 3D stylized objects with vibrant colors and pixel-art sand compositions.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "742cbaa6e1af7899",
+    "ad_unit_id": "742cbaa6e1af7899",
+    "app_id": "55f3733b02ac64eb8400006e",
+    "advertiser_name": "Huuuge Casino 777 Slots Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1d49ac85bf5e9e9c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1d49ac85bf5e9e9c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1d49ac85bf5e9e9c/preview",
+    "phashion_group": "742cbaa6e1af7899",
+    "share": null,
+    "first_seen_at": "2026-01-30T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Great prize! Win today!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A narrator lists things they are good at, starting with claiming a massive welcome bonus.",
+    "visual_action": "Fast-paced transition from the casino logo to a Welcome Bonus screen with a character.",
+    "text_overlay": "777 Huuuuge CASINO, WELCOME BONUS! FREE CHIPS 50,000,000 Collect!",
+    "voiceover_transcript": "Three things I'm good at? One, claiming my welcome bonus 50 million free chips.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Intro sequence showing the Huuuuge Casino logo over a red carpet entrance.",
+    "Demonstration of claiming a 50 million chip welcome bonus.",
+    "Gameplay montage showing slot machine spins leading to a BIG WIN animation.",
+    "Social feature showcase where the player selects a top-tier club.",
+    "End card with the game logo, PLAY NOW! button, and app store links."
+  ],
+  "on_screen_text": [
+    "777 Huuuuge CASINO",
+    "WELCOME BONUS!",
+    "FREE CHIPS 50,000,000",
+    "Collect!",
+    "BIG WIN",
+    "PLAY NOW!"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#8E24AA",
+    "#FFD700",
+    "#D32F2F"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult social casino players looking for high-stakes excitement and large starting bonuses.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018189999999999999
+}

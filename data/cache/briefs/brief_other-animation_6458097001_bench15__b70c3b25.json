@@ -1,0 +1,28 @@
+{
+  "archetype_id": "other-animation",
+  "target_game_id": "6458097001",
+  "title": "Ultra Instinct Archer — Rainbow Charge Shot Showcase",
+  "hook_3s": "Anime-style archer pulls back the bowstring as a crackling blue energy arrow ignites against a pulsing rainbow sky.",
+  "scene_flow": [
+    "0-3s: Tight close-up on the female archer's eyes glowing electric blue, bowstring drawing back as cyan energy crackles around the arrowhead — rainbow light pulses behind her.",
+    "3-7s: Camera whips to over-the-shoulder aiming view; the signature Archery Clash! trajectory arc materializes in gold across a vibrant arena, locking onto a rival duelist's health bar.",
+    "7-11s: Release — arrow rips through frame in a streak of blue/yellow/green VFX, slow-mo impact shatters opponent shield, KO banner explodes on screen.",
+    "11-14s: Quick montage: rarity-coloured gear cards rain down, bow upgrade tier-up flash (+ATK), level progression bar fills.",
+    "14-15s: Hero archer strikes a victory pose against rainbow backdrop, CTA stamp lands."
+  ],
+  "visual_direction": "Lean into Archery Clash!'s 3D stylized cartoonish-but-realistically-lit look, then crank the saturation: bright #2A9DF4 energy auras around the bow, #FFD700 trajectory arc and damage numbers, #32CD32 rarity glows on dropped gear. Rainbow gradient skybox borrowed from the anime archetype but grounded in the game's existing arena geometry, banners, and HUD chrome. Energetic/competitive pacing — fast cuts, screen-shake on release, anime-style speed lines on the arrow streak. Female protagonist stays on-model with current in-game character, no Goku likeness.",
+  "text_overlays": [
+    "UNLEASH ULTRA AIM",
+    "LOCK ON 🎯",
+    "PERFECT SHOT!",
+    "+LEGENDARY BOW",
+    "CAN YOU WIN THE DUEL?"
+  ],
+  "cta": "PLAY NOW!",
+  "rationale": "Voodoo's current Archery Clash! rotation is dominated by silent playables and a self-aware \"I paid for this ad\" video — there is zero high-energy anime/VFX character-showcase angle in their mix, despite the audience skewing young male anime-adjacent. This brief imports the trending rainbow charge-up hook from the market scan but legally reskins it onto the game's own female archer with a bow-draw payoff, solving the IP risk while filling the showcase gap. UA should A/B this against the existing playable-heavy lineup on Applovin/Admob to capture anime-leaning installs the current creatives miss.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16: in-game moment from Archery Clash!, stylized female archer protagonist at full bowstring draw in over-the-shoulder duel stance, glowing electric blue (#2A9DF4) energy crackling along a nocked arrow, golden (#FFD700) parabolic aiming trajectory arc projecting toward an opponent silhouette across a colorful PvP arena, vibrant green (#32CD32) rarity glow on equipped bow, authentic Archery Clash! HUD with health bars top-left and right, turn indicator, gear slots, pulsing rainbow gradient skybox behind, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text 'UNLEASH ULTRA AIM' in bold yellow #FFD700 with blue #2A9DF4 outline",
+    "Storyboard frame, aspect 9:16: in-game Archery Clash! impact moment, blue (#2A9DF4) energy arrow striking opponent duelist mid-arena, shattered shield VFX, large yellow (#FFD700) 'PERFECT SHOT!' damage callout, green (#32CD32) critical-hit number popping, opponent health bar draining red, signature game HUD chrome intact with turn timer and gear icons, rainbow light rays in background, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text 'PERFECT SHOT!' in bold #FFD700",
+    "Storyboard frame, aspect 9:16: Archery Clash! post-victory loot reveal, three gear cards fanned out with rarity backgrounds in #2A9DF4 blue, #FFD700 gold, and #32CD32 green, legendary bow card center with upgrade arrow +1 tier, confetti VFX, level progression bar filling on top, authentic in-game results screen UI with XP bar and reward chest, female archer protagonist celebrating in background on the arena platform, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text '+LEGENDARY BOW' in bold #FFD700"
+  ]
+}

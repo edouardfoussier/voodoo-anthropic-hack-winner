@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_bD85QFLzMyemgtNpB3CaK1C7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfYkQ4NVFGTHpNeWVtZ3ROcEIzQ2FLMUM3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=MI2wdNV0xOu9upw2RF1m33MBZ2S36YX-o1GZsBg%7EBHP4xH%7ED4psa3tpX0jUM8uTy4bUoBXg4tQcgKRnCoXW5VBw0SWTRSDTo-1NZ1eMBiOUggFlyGYx5qetOBYQ%7E0hesPT2X33VSf2yUE2FUbYSOPYKgId8%7ElJhVKgkozIIKzUhZ1MOHLYPBfHNncrlMAbE4GemR6d7rxi06AS7WcrA6W2%7EPT9wRhtKOl9DXiBbsm6wcF%7EqpvR4AyXnlSbjmP-2ffTeRq7k2mrjhul1LsR6jAwDQsn%7EXaPp66JcD1F3QX-z3xHkZdmFRllIKMnGEBar%7Ew18NcgmxRrLUY36vhiYfPA__",
+  "job_id": "job_37TnEzMwGkAkWzch9d6NT1Tc",
+  "asset_id": "asset_bD85QFLzMyemgtNpB3CaK1C7",
+  "stub": false,
+  "prompt": "Storyboard frame 1, 9:16 vertical aspect, live-action UGC selfie shot: young woman lying on her back on a bed holding a vertical smartphone above her face, grinning, natural warm bedroom lighting, slightly grainy phone-camera look, the phone screen visibly displays Crowd City gameplay \u2014 a red (#FF0000) low-poly stickman swarm running through a pastel city with a blue (#0000FF) rival crowd and green (#00FF00) score popup, low-poly colorful 3D environment with simple stickman-like character models visible on the phone screen, large white on-screen text overlay 'why do you look so happy?', authentic TikTok UGC framing",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

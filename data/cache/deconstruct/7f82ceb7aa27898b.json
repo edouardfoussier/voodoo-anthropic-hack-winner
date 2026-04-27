@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "7f82ceb7aa27898b",
+    "ad_unit_id": "7f82ceb7aa27898b",
+    "app_id": "6884386ecaf624b94c5544cd",
+    "advertiser_name": "Jigblock Puzzle - Jigsaw",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/preview",
+    "phashion_group": "7f82ceb7aa27898b",
+    "share": null,
+    "first_seen_at": "2026-03-13T00:00:00",
+    "last_seen_at": "2026-04-03T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand cursor clicks on landscape puzzle tiles, making them disappear one by one.",
+    "visual_action": "A cartoon hand clicks on a grid of landscape images, causing the clicked tiles to vanish.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Hand cursor clicks on landscape tiles in a grid, clearing them.",
+    "Rapid clicking continues to clear the entire landscape image grid.",
+    "Transition to a green screen showing a classic art puzzle being assembled.",
+    "Final end card with game title and a 'Play' button."
+  ],
+  "on_screen_text": [
+    "Jigblock Puzzle Jigsaw",
+    "Play"
+  ],
+  "cta_text": "Play",
+  "cta_timing_seconds": 13.5,
+  "palette_hex": [
+    "#4B6E23",
+    "#E6D5B8",
+    "#008000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy relaxing, tile-matching or jigsaw-style games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001264
+}

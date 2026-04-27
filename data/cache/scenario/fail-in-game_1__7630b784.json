@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_ZDcvjy4zD3zwv6ektd23xA3N?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWkRjdmp5NHpEM3p3djZla3RkMjN4QTNOP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=rXqIaHrPr6Pr%7EoDx7G75zlljBAABGojFitEJrT6rU-%7ErJwiRdM1WH0-skuvCFFSbMius%7EMrSoTOtJQ6Au9oDpG6XFbNEFxRtWOA-1ybuI6oah%7E07iwLaEZYX3PwBHGD88SYgE-DUSq8GcnHjAevutFUCfLRr8wvgevx8zw7n1qFQw34A15LqjxVUAi5YVQsMZqPJ1EH%7EWAnzkPzmCqFwf2tYkbLA2UYsUf9dPq1QQG-XDdXKQAvHr8h8xCfLg95POUJ5b1q1pIHNbscqugrgZz32VRr9Vxw3qoE0LpcyTFWRmQkV-AKeudWA90qRj5VRlYGTxyHhst1pOlSv-fYL7Q__",
+  "job_id": "job_JnExAXAjMJtRdVgyksMLREN6",
+  "asset_id": "asset_ZDcvjy4zD3zwv6ektd23xA3N",
+  "stub": false,
+  "prompt": "Storyboard frame, 9:16 vertical, authentic Flip & Dive 3D gameplay shot from low side angle: pink ragdoll character over-rotating in mid-air above a small cyan (#AEE2FF) square pool, purple (#C754D9) height markers ticking down the tower edge, JUMP button faded at bottom, bold pink (#FF007F) overlay banner reading 'JUST AIM FOR THE POOL\u2026', minimalist 3D with bright contrasting colors and simple geometric shapes, clean pastel sky, no textures. [Audio: VO: 'easy right?' / same calm marimba beat continuing / airy whoosh on flip, ticking timing-meter SFX]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

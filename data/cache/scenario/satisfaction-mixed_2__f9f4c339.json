@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_82PMF2jwGopXymsXPXDZc3XD?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfODJQTUYyandHb3BYeW1zWFBYRFpjM1hEP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=PAPBMEcgGNz8L-1YcKP2wDuDrt3ZKJIC7PW4p5KNuXzqU2PzHtoGXxmk8Xz4%7EYwW4AdNkWR3P0AJQ-fipho0L46OkmHuSap27XwIq01bE042a7qACtTc3nsa29yXYI7v%7Ed1MPCvc4sF5-0mWq%7Ev0k1yUxF6Tzq526U-sW3neBhpXZKrUq1bprhU2nvKb15tpr1BtzqelXJ-TjFyXBexGmGF0IwpemxFpHauQKSXv6DqOrE4R%7EGE6f7omL3d3Vp7KwiDI%7EGs1FGz%7E9nMVZJXHhEFmi0lfROx56F2b9X4ogQFEMt42i5IsZCWlAfaxQ49Ga7nQCvzpbv4xCaVEIxMq4g__",
+  "job_id": "job_SSnGnSCYCZa2q5FKMktxyUhj",
+  "asset_id": "asset_82PMF2jwGopXymsXPXDZc3XD",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, stylized 3D cartoon, huge purple #5824F5 stickman mob crashing into a red enemy base, explosion of yellow #FFD12C coins and gems erupting skyward, cyan #00A3FF energy ring on impact, bold overlay text 'CRUSH THE BASE' in chunky cartoon font, palette (#5824F5, #00A3FF, #FFD12C), satisfying victory moment.",
+  "model_id": "flux.1-dev"
+}

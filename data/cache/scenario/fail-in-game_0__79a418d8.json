@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_XpCMj6zbTFrNx5XAvZ8YG5K3?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWHBDTWo2emJURnJOeDVYQXZaOFlHNUszP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=pJSG-%7EeYfCzbaLim5FtZHaReGx8EwJQ912ItEpi1bOwgEm2Axpup-p3Bk28TOfSZ8Av3aZQbmq%7EIpvdtPx0DuWZzCJT0iAJZ7PLJKcGZRRVw4swMHtPcvvh62H-XQKl26tZ3yIYyrmj2-QY%7ESJbKm%7EdsySTKDUp4vEJzNokbySoYRHu3yiVlBaEuyuiXkJForuSM2aOovlVtiJ%7EbsVWsNz180A3LFS5SCMNF-FxTB1u6dwq5Sup8tutmKz0sV1m8vflVnCvFlXzIh0IBNedkcuJ0qnsf74l%7ExXnZ%7ErSzEMrsaRi-p-nRpdhsQS3yjYIr6tXjUgak94pLWD6taaeK4g__",
+  "job_id": "job_XdayViv6zYPNipvXtVLZ9hpX",
+  "asset_id": "asset_XpCMj6zbTFrNx5XAvZ8YG5K3",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic Flappy Dunk in-game screenshot: blue basketball mid-bounce clipping the rim of a magenta (#D81155) hoop on a warm beige (#EAD5A0) court background, bright blue (#5CB3FF) motion trail, thick black outlines, flat shading, vibrant high-contrast colors, 2D cartoon style. On-screen HUD: VS scoreboard top-center showing 0-2, three hearts in top-left with one greyed out, combo counter '0x'. Giant white cursor-finger overlay tapping the screen. Bold black sans-serif overlay text: 'WHY THIS HOOP IS SO HARD \ud83d\ude24'. No human character. [Audio: VO (frustrated gen-z) 'bro this level is RIGGED' / punchy upbeat trap 128bpm with competitive snare rolls / clang-on-rim at 0.8s, whoosh on cursor tap, fail-buzzer at 4.5s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

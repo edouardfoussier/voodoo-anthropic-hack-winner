@@ -1,0 +1,63 @@
+{
+  "raw": {
+    "creative_id": "f53283bf134fd4e5",
+    "ad_unit_id": "f53283bf134fd4e5",
+    "app_id": "5af5afad09c8b14d4327867e",
+    "advertiser_name": "Jackpot World - Slots Casino",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f0ffe0f54d1234c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f0ffe0f54d1234c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f0ffe0f54d1234c/preview",
+    "phashion_group": "f53283bf134fd4e5",
+    "share": null,
+    "first_seen_at": "2025-01-08T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Get 6,000,000 coins for 100% FREE!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced slot machine gameplay with rapidly increasing coin counts and fire effects.",
+    "visual_action": "The slot machine reels spin quickly, landing on winning combinations of fruits and bells while a coin counter at the bottom surges.",
+    "text_overlay": "777 FLAMING, FREE GAMES 1/77, JACKPOT WORLD",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Continuous slot machine gameplay showing '777 FLAMING' theme and 'Free Games' progression.",
+    "Rapidly accumulating coin counter at the bottom of the screen synchronized with reel spins.",
+    "Transition to a spinning 3D diamond asset on a golden pedestal.",
+    "Final branding screen with 'Spin the world with Jackpot World' and a 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "JACKPOT WORLD",
+    "777 FLAMING",
+    "FREE GAMES 1/77",
+    "32,671",
+    "1,063,806",
+    "2,084,705",
+    "4,914,709",
+    "7,288,260",
+    "8,399,049",
+    "9,820,860",
+    "13,101,860",
+    "SPIN THE WORLD WITH JACKPOT WORLD",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#8B0000",
+    "#FFD700",
+    "#000000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual casino game enthusiasts who are motivated by high-frequency rewards and classic slot aesthetics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.002003
+}

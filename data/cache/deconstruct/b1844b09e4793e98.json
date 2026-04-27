@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "b1844b09e4793e98",
+    "ad_unit_id": "b1844b09e4793e98",
+    "app_id": "62be6a5fbab10c69c5a0a42a",
+    "advertiser_name": "MONOPOLY GO!",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/preview",
+    "phashion_group": "b1844b09e4793e98",
+    "share": null,
+    "first_seen_at": "2026-03-13T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Play MONOPOLY GO! Free",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Mr. Monopoly and Hello Kitty dance together to introduce a brand collaboration.",
+    "visual_action": "Mr. Monopoly and Hello Kitty perform a synchronized dance against a pink background with floating circles.",
+    "text_overlay": "MONOPOLY GO! HELLO KITTY AND FRIENDS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Mr. Monopoly and Hello Kitty dance together against a vibrant pink backdrop.",
+    "Quick cuts introduce Sanrio characters like Cinnamoroll, Pochacco, Pompompurin, and Kuromi with festive star effects.",
+    "The characters transition to a 3D Monopoly board set in a colorful London-inspired city under a rainbow.",
+    "The full cast dances together on the board as event stickers and confetti fall.",
+    "Final end card displays the event dates and a 'Play Now' call to action."
+  ],
+  "on_screen_text": [
+    "MONOPOLY GO!",
+    "HELLO KITTY AND FRIENDS",
+    "JOIN THE HELLO KITTY CELEBRATION!",
+    "MARCH 10 - 29",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 11.5,
+  "palette_hex": [
+    "#FF69B4",
+    "#00BFFF",
+    "#FFD700"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Fans of Sanrio characters and casual mobile gamers who enjoy social, high-energy board games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017980000000000001
+}

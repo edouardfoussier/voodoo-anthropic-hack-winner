@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "a501f1d09aa3b810",
+    "ad_unit_id": "a501f1d09aa3b810",
+    "app_id": "582219400211a6c9240005fc",
+    "advertiser_name": "Gardenscapes",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+    "phashion_group": "a501f1d09aa3b810",
+    "share": null,
+    "first_seen_at": "2025-04-10T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Fun puzzles & stories.",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A cat jumps on a keyboard, startling a man who then sighs.",
+    "visual_action": "An orange cat jumps onto a desk keyboard in front of a computer monitor, startling a man in a chair.",
+    "text_overlay": "Gardenscapes",
+    "voiceover_transcript": "Ah...",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Austin is startled by a cat jumping on his keyboard while he is at his computer.",
+    "The scene transitions to a match-3 puzzle board featuring colorful buttons and gems.",
+    "A hand interacts with the puzzle, matching items to uncover a hidden cardboard box.",
+    "A white cat is revealed from the box upon completing the match sequence.",
+    "The final screen displays a level selection menu with a 'Play Now!' button."
+  ],
+  "on_screen_text": [
+    "Gardenscapes",
+    "Choose the next level",
+    "Play Now!"
+  ],
+  "cta_text": "Play Now!",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#4C8C2B",
+    "#F2A900",
+    "#005696"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual gamers who enjoy lighthearted character-driven stories and match-3 puzzles.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016480000000000002
+}

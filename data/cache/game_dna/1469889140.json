@@ -1,0 +1,29 @@
+{
+  "app_id": "1469889140",
+  "name": "Crazy Kick! Fun Football game",
+  "genre": "Arcade",
+  "sub_genre": "Sports",
+  "core_loop": "Swipe to control the ball, dodge defenders, and score a goal to advance to the next level.",
+  "audience_proxy": "Casual mobile gamers, skewing male, ages 8-30, looking for quick, physics-based sports action.",
+  "visual_style": "3D hyper-casual, low-poly, bright and colorful with simple stickman characters.",
+  "palette": {
+    "primary_hex": "#F5D77F",
+    "secondary_hex": "#1CB4F0",
+    "accent_hex": "#99CC33",
+    "description": "Vibrant and sunny palette dominated by sandy yellow and sky blue, with bright green UI accents."
+  },
+  "key_mechanics": [
+    "swiping",
+    "physics-based movement",
+    "dodging",
+    "aiming"
+  ],
+  "character_present": true,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "Level progression tracker",
+    "In-game text overlays",
+    "Trajectory trail",
+    "Opponent characters"
+  ]
+}

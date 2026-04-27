@@ -1,0 +1,61 @@
+{
+  "raw": {
+    "creative_id": "aa22b342f5d0f844",
+    "ad_unit_id": "aa22b342f5d0f844",
+    "app_id": "6753a94a9049e6c00f8fd6ed",
+    "advertiser_name": "Queens Master: Sudoku Puzzle",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/preview",
+    "phashion_group": "aa22b342f5d0f844",
+    "share": null,
+    "first_seen_at": "2026-04-15T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Compares the game to Sudoku and introduces the title with a transition of falling crowns.",
+    "visual_action": "A Sudoku board is shown, then a shower of golden crowns covers the screen to reveal a new puzzle grid.",
+    "text_overlay": "Like Sudoku puzzles? Try Queens Master.",
+    "voiceover_transcript": "Like Sudoku puzzles? Try Queens Master. This game has three simple rules.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction comparing the game to Sudoku with a crown transition.",
+    "Tutorial walkthrough of Rule 1: One queen per color, showing tile crossing.",
+    "Tutorial walkthrough of Rule 2: Queens cannot touch each other.",
+    "Tutorial walkthrough of Rule 3: One queen per row and column.",
+    "Final puzzle completion and brand reveal."
+  ],
+  "on_screen_text": [
+    "Like Sudoku puzzles? Try Queens Master.",
+    "DOWNLOAD",
+    "This game has three simple rules.",
+    "Rule 1: One queen per colour.",
+    "Let's start by crossing out tiles",
+    "Single tap to mark an X",
+    "Rule 2: Queens can't touch each other.",
+    "Rule 3: One queen per row and column.",
+    "Double tap to place a queen",
+    "Queens Master"
+  ],
+  "cta_text": "DOWNLOAD",
+  "cta_timing_seconds": 3.0,
+  "palette_hex": [
+    "#E6F7E6",
+    "#F28B82",
+    "#81C784"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual puzzle enthusiasts who enjoy logic games like Sudoku and are looking for a fresh, simple challenge.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001915
+}

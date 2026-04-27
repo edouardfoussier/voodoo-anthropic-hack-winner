@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "6748054540",
+  "title": "Tap. Place. Bounce. — Chain-Reaction Satisfaction",
+  "hook_3s": "Close-up: a manicured thumb taps a glowing amber block from the tray and snaps it into a dark purple grid — the block pulses gold, then the whole row erupts into bouncing balls.",
+  "scene_flow": [
+    "0–3s HOOK: Tight overhead phone-in-hand shot. Thumb drags a #FDBA4D block from the tray onto a moody #20232B grid. Satisfying click + amber glow on placement.",
+    "3–7s BUILD: Camera pushes in. Player taps two more blocks, completing a row. Tension beat — the placed blocks shimmer and tremble.",
+    "7–11s PAYOFF: Blocks transform into glowing yellow-orange balls that ricochet across the board, smashing purple obstacles in a physics chain reaction. Slow-mo on the biggest combo.",
+    "11–14s ESCALATE: Quick montage of 3 harder levels clearing in cascading bounces, level meter fills, 'LEVEL 7' badge pops.",
+    "14–15s CTA: Game logo over a final satisfying clear. Download button pulses in #FDBA4D."
+  ],
+  "visual_direction": "Lean fully into the game's dark, moody DNA: deep charcoal #20232B background with rich #403F6D purple UI frames and tray, every interactive moment kissed with bright #FDBA4D yellow-orange light (block glow, ball trails, progress bar, CTA). 3D Casual Abstract style — soft global illumination, subtle bevels on blocks, glossy spherical balls with motion blur trails. No characters; the hero is the player's thumb plus the board. ASMR-grade SFX cues: soft tactile click on placement, low whoosh on transform, popcorn-pop chain on chain-reaction. Camera stays phone-POV/overhead until the payoff, where it tilts in for a 3D parallax reveal of bouncing physics.",
+  "text_overlays": [
+    "Tap to place.",
+    "Fill the row…",
+    "Watch what happens 👀",
+    "CHAIN REACTION!",
+    "Can you clear Level 10?",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "Keeps the winning satisfaction/drag-place hook that scores 75/100 on audience but fixes both flagged frictions: full recolor into the game's signature dark purple + amber palette, and an extended 15s arc that pays off the physics chain-reaction beat the jigsaw reference completely misses. Test against a control that cuts at the 7s placement beat to isolate whether the bounce payoff lifts IPM — our bet is the chain-reaction reveal is the true 'satisfaction' moment for this game and will outperform pure jigsaw mimicry.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, 3D Casual Abstract style, overhead close-up of a woman's thumb dragging a glowing yellow-orange (#FDBA4D) cube from a deep purple (#403F6D) tray onto a dark charcoal (#20232B) grid puzzle board on a smartphone screen, soft volumetric glow under the placed block, subtle bevels, glossy plastic materials, moody cinematic lighting, on-screen text overlay reading 'Tap to place.' in clean white sans-serif, premium mobile-game ad still, ultra-detailed, 4k",
+    "Storyboard frame — payoff, aspect 9:16, 3D Casual Abstract style, dynamic 3D view of multiple glossy yellow-orange (#FDBA4D) spheres bouncing and ricocheting across a dark #20232B grid framed in #403F6D purple, motion-blur light trails, purple obstacle blocks shattering into particles mid-air, dramatic rim lighting, satisfying physics chain reaction, on-screen text overlay 'CHAIN REACTION!' in bold amber caps, mobile-game ad keyframe, cinematic",
+    "Storyboard frame — CTA, aspect 9:16, 3D Casual Abstract style, fully cleared puzzle board glowing in #FDBA4D against a #20232B background with #403F6D purple UI frame, level progress bar filled to max in amber, large rounded 'Play Free' button in #FDBA4D pulsing at center, soft confetti of yellow-orange spheres settling, calm satisfying mood, on-screen text overlay 'Can you clear Level 10?', polished mobile-ad endcard"
+  ]
+}

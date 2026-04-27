@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "fce452ef68c8c630",
+    "ad_unit_id": "fce452ef68c8c630",
+    "app_id": "5e4b143dab3bcb7c8fa09fb1",
+    "advertiser_name": "Toca Boca Hair Salon 4",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8f62b33d491722e4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8f62b33d491722e4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8f62b33d491722e4/preview",
+    "phashion_group": "fce452ef68c8c630",
+    "share": null,
+    "first_seen_at": "2026-03-15T00:00:00",
+    "last_seen_at": "2026-04-13T00:00:00",
+    "video_duration": 4.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "😻🐾 Katz-tastische Puppenhaus-Welt für kleine & große Gabby-Fans 🏠😻",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A child interacts with the elevator mechanism of a physical Gabby's Dollhouse toy.",
+    "visual_action": "Hands place a character into a pink cup and slide it down a teal tower.",
+    "text_overlay": "sorgt es für unendlichen Spielspaß!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Close-up of hands operating the elevator tower mechanism.",
+    "Wide shot of the dollhouse being opened to reveal interior rooms.",
+    "Close-up of the Gabby character descending in the elevator.",
+    "Final shot of the character arriving at the bottom of the play set."
+  ],
+  "on_screen_text": [
+    "DreamWorks GABBY'S DOLLHOUSE",
+    "sorgt es für unendlichen Spielspaß!"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#48D1CC",
+    "#FF69B4",
+    "#9370DB"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Parents of preschool-aged children who are fans of the Gabby's Dollhouse animated series.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001179
+}

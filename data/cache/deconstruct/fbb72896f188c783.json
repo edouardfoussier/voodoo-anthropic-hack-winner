@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "fbb72896f188c783",
+    "ad_unit_id": "fbb72896f188c783",
+    "app_id": "55d2acec02ac64a768000016",
+    "advertiser_name": "LINE Rangers: Brown-Cony Wars!",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5a41ffb1822a5dfd/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5a41ffb1822a5dfd/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5a41ffb1822a5dfd/preview",
+    "phashion_group": "fbb72896f188c783",
+    "share": null,
+    "first_seen_at": "2026-04-02T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "LINEレンジャー×デッドアカウントのスペシャルイベントを無料で楽しもう✨\n今ならログインするだけで漆栖川希詠のレンジャーがもらえる！",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Introduction of a collaboration character from 'Dead Account' alongside gameplay footage.",
+    "visual_action": "A chibi character stands centered while a gameplay window in the background shows a battle scene.",
+    "text_overlay": "コラボ限定レンジャーと",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the lead collaboration character with a gameplay window.",
+    "Reveal of the full lineup of collaboration characters.",
+    "Gameplay montage showing the characters' special abilities and combat.",
+    "Final splash screen with the collaboration title and 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "コラボ限定レンジャーと",
+    "バトルを楽しもう！",
+    "LINE Rangers x デッドアカウント",
+    "今すぐプレイ！"
+  ],
+  "cta_text": "今すぐプレイ！",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#004D4D",
+    "#4A90E2",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Japanese mobile gamers who are fans of the 'Dead Account' manga series and enjoy casual tower defense games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00124
+}

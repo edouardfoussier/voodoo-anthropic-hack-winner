@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_MWCs7Y29iDtMzgt7S7xz1DVY?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTVdDczdZMjlpRHRNemd0N1M3eHoxRFZZP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=UCjKt-HRU6mFuuttOxrcK1XN3xkhRjWss1FdLD%7EugiH48Zqlu1HZZpWZ8Tn85rXdXnEnKwch74nP7lQPIEhKSPFCAiLAORVOiEKck1ZVuL2CHFFrGQcNTU9Y1hGogl9s82U4ESyBQCsPzvuNs%7EGksXbdNlanatBPwtVqTUTACI0h1T49kd71EhKNuKpeOMpEIzlu34HJZqTCg7IFmLLUwGvYwL2BB8XEaDPReviMjNCUdiM28yUTmDYz1nVkY3GWs0fWEes%7EllrwNtHluntjdczo4GygDiDVltV7vked32vrl4vqkC-CqKwDLPOTyU4mOetBDbaxM4e6RpqjFQdTiw__",
+  "job_id": "job_YPhUaycCRGRX1Uyvxk9mXZqH",
+  "asset_id": "asset_MWCs7Y29iDtMzgt7S7xz1DVY",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, Flappy Dunk end-card: losing scoreboard center-screen on warm beige (#EAD5A0) background, magenta (#D81155) CTA banner reading 'CAN YOU WIN?' with bright blue (#5CB3FF) Install button, blue basketball deflated next to a magenta hoop, thick black outlines, flat shading, vibrant high-contrast 2D cartoon style. Bold overlay text: 'CAN YOU WIN?'. No character on screen. [Audio: VO (taunting) 'only 3% finish this \u2014 prove me wrong' / triumphant competitive trap drop 130bpm / button-tap chime at 1s, coin-jingle on CTA reveal at 2.5s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

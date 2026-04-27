@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "cdbf0ff4086dcb65",
+    "ad_unit_id": "cdbf0ff4086dcb65",
+    "app_id": "55d9589402ac645ad22f9717",
+    "advertiser_name": "한게임 포커",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98f3e8c55f7bf1c8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98f3e8c55f7bf1c8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98f3e8c55f7bf1c8/preview",
+    "phashion_group": "cdbf0ff4086dcb65",
+    "share": null,
+    "first_seen_at": "2026-02-13T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "이것이 바로 포커의 찐 재미, 한게임 포커",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Influencers excitedly unbox a physical poker set from Hangame.",
+    "visual_action": "Two men celebrate with confetti while holding a black poker case and shouting the brand name.",
+    "text_overlay": "(짜잔) 한게임! 한게임 포커!",
+    "voiceover_transcript": "한게임에서 포커 세트를 보내주셨다! 한게임! 한게임! 한게임 포커!",
+    "emotional_pitch": "celebrity"
+  },
+  "scene_flow": [
+    "Influencers unbox a physical poker set and celebrate with confetti.",
+    "Dynamic transition with playing cards flying into the screen.",
+    "Gameplay montage showing multiple players and betting action.",
+    "Winning hand sequence with fireworks and celebratory text overlays.",
+    "Final end card with influencers, game logo, and download prompt."
+  ],
+  "on_screen_text": [
+    "(짜잔)",
+    "한게임!",
+    "한게임 포커!",
+    "혼자보다는",
+    "둘이",
+    "둘보다 여럿이!",
+    "함께라서 더 즐거운 포커!",
+    "HANGAME POKER SINCE 2000",
+    "한게임 포커 with 용쥬르이용주",
+    "같이 포커 한 판 어때?",
+    "지금 바로 플레이"
+  ],
+  "cta_text": "지금 바로 플레이",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#0B162C",
+    "#D4AF37",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Korean men aged 25-45 who enjoy social poker and follow popular local variety content creators.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001768
+}

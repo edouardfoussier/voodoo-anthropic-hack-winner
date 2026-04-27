@@ -1,0 +1,59 @@
+{
+  "raw": {
+    "creative_id": "eb6c91082c870fcd",
+    "ad_unit_id": "eb6c91082c870fcd",
+    "app_id": "657764bcad4adb78f0c03332",
+    "advertiser_name": "DraftKings Casino - Real Money",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9ae0d01e4fff08c3/preview",
+    "phashion_group": "eb6c91082c870fcd",
+    "share": null,
+    "first_seen_at": "2026-03-15T00:00:00",
+    "last_seen_at": "2026-04-11T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "EXCLUSIVE FLEX SPINS have landed on DraftKings Casino 🚀 Head to the app for your daily chance at FREE Flex Spins 🎰",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-contrast announcement of free daily spins on a branded casino platform.",
+    "visual_action": "The 'FLEX SPINS' logo glows as slot game icons begin to rotate in the center of the frame.",
+    "text_overlay": "GET A DAILY CHANCE AT FREE FLEX SPINS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Main offer 'FREE FLEX SPINS' is introduced with DraftKings branding and legal disclaimers.",
+    "A carousel of slot game icons starts spinning in the center to show variety.",
+    "Icons for 'Cleopatra', 'Whitney Houston', and 'Hyper Nova' are showcased as the carousel rotates.",
+    "The loop continues, emphasizing the '100+ slots' variety available for the promotion."
+  ],
+  "on_screen_text": [
+    "DRAFTKINGS CASINO",
+    "GET A DAILY CHANCE AT FREE FLEX SPINS",
+    "On your choice of 100+ slots",
+    "FLEX SPINS",
+    "GAMBLING PROBLEM? CALL 1-800-GAMBLER",
+    "HYPER NOVA MEGAWAYS",
+    "BIG BANK BREAKOUT",
+    "CLEOPATRA",
+    "WHITNEY HOUSTON"
+  ],
+  "cta_text": "GET A DAILY CHANCE AT FREE FLEX SPINS",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#310062",
+    "#F9E076",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults 21+ in legal gambling states who enjoy online slots and promotional bonuses.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001885
+}

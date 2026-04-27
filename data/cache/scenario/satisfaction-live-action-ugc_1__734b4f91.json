@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_fxHNZDHpYVymrGTfyxyj7wGo?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZnhITlpESHBZVnltckdUZnl4eWo3d0dvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ihs6N%7EvoGQehaJwwCJ4041FeOCqlGlST85tJteskY6xd53N8Yxt%7EkXddWW8BEZLyxGHb3rMwmj3mj7vDTUcd5v8OkmOgFXADShLgNbAk6sf46lsXbsU09FoykVY8bE-gNdTAtvvN9kW9s%7EZkT7aS1PSc6OmWLJoRV3lyD2mYW0qjg0%7EhNNT-f4f1YTkoK%7Eiyov4toHoLnXnuuQ9Dml5nzD0bof96a3RSNaseQoth8qIVkZWgp4YlMP3I2XEq85qL5DFMkaLrpioLc1NcI%7Erqk968Jb%7E1KjmPSpZUhrO5KslnXQ5Nf1c2abPKA4Bsh1EaPMLmFkaJvPkicRoep0G90g__",
+  "job_id": "job_EyCxKar97fyusjVo1rYzRQtQ",
+  "asset_id": "asset_fxHNZDHpYVymrGTfyxyj7wGo",
+  "stub": false,
+  "prompt": "Storyboard frame, vertical 9:16, over-the-shoulder phone-in-hand UGC shot: young woman's thumb tapping a smartphone displaying Flappy Dunk \u2014 beige (#EAD5A0) court, magenta (#D81155) hoops stacked vertically, blue (#5CB3FF) ball with motion trail, VS score bar at top showing '9 vs 2', iMessage bubble overlay reading 'you look happier lately??' in grey, 2D cartoon style with thick black outlines, flat shading, and vibrant, high-contrast colors inside the phone screen, naturalistic muted living-room lighting outside the phone, high contrast between real-world UGC framing and saturated in-game art",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

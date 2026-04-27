@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "c2f9c449b1c44c66",
+    "ad_unit_id": "c2f9c449b1c44c66",
+    "app_id": "55d93bf102ac645ad2090002",
+    "advertiser_name": "Gala - Bingo & Casino Games",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/940578e6169be1b8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/940578e6169be1b8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/940578e6169be1b8/preview",
+    "phashion_group": "c2f9c449b1c44c66",
+    "share": null,
+    "first_seen_at": "2026-02-05T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Whirl our Daily Free Spin for free chances to win cash & more at Gala.",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A man at a fruit market uses a mobile app, causing the fruit patterns on his sweater to spin like a slot machine.",
+    "visual_action": "Close-up of a phone screen showing a 'Daily Free Spin' prompt, followed by a man's fruit-patterned sweater spinning.",
+    "text_overlay": "DAILY FREE SPIN",
+    "voiceover_transcript": "Want to get in on that Gala joy?",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Close-up of a mobile phone screen displaying a 'Daily Free Spin' game.",
+    "A man at an outdoor fruit market looks at his phone while holding an orange.",
+    "The fruit graphics on the man's pink sweater spin rapidly like slot machine reels.",
+    "The man reacts with joy as the sweater reels stop on three pineapples.",
+    "A bystander watches with a skeptical look before the final brand logo appears."
+  ],
+  "on_screen_text": [
+    "GambleAware 18+",
+    "DAILY FREE SPIN",
+    "Gala",
+    "WHERE A LITTLE Gala JOY GOES A LONG WAY",
+    "TAKE TIME TO THINK"
+  ],
+  "cta_text": "Join us to get your daily free spin",
+  "cta_timing_seconds": 7.0,
+  "palette_hex": [
+    "#F5A9B8",
+    "#FFF100",
+    "#1A237E"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "UK adults 25-55 who enjoy casual mobile gaming and lighthearted, relatable entertainment.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018219999999999998
+}

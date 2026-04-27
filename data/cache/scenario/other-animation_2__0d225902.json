@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_tQ3LRUUyUsMKqwoTj9bMETHx?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdFEzTFJVVXlVc01LcXdvVGo5Yk1FVEh4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ofTBA1cHFcsRPxUElJGEBfFNX4WYhENsk0lw8RfCZAMoXhrHjFmrvrqmQRhfv4eNcf6tDo-MLg7k93YurZevIAx9%7Exgys4LvuAh2qCaH04NMv1tiGGrDg2l%7EEdlRPOfxSUa9FbUUkts4Eyna-veZnYhFotMnTPTL9M9bS1-aQ4tiNS7%7EixiYsfLZLCNuH2Z77R-YqiA-t3I0FBVdM6mub3M3KWFEKSXRuhcYSix9X8wMJgBLzD5PQm0cY28YPS1X%7EDZ%7EC-QVcP5oQ5nPCAEIgy6yfA5f-ppSDBetcdUvGnoR3ehv0OVLIEjAmD4KMwNxvBnuT9eS9iYRGR-bbPyerg__",
+  "job_id": "job_s6pSMf5UzQAR3x3DbZWuCSGw",
+  "asset_id": "asset_tQ3LRUUyUsMKqwoTj9bMETHx",
+  "stub": false,
+  "prompt": "Storyboard frame 3, 9:16 vertical: Archery Clash! upgrade screen close-up, bow weapon card tier-upgrading from blue #2A9DF4 common to gold #FFD700 legendary, +stat numbers popping in #32CD32, sparkle particles, authentic upgrade UI panel with star rating and rarity border. 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting. Bold on-screen text: 'LOOT THE WIN'. Frame must read as the real Archery Clash! upgrade menu, identical UI chrome to reference screenshots. [Audio: VO 'Upgrade. Dominate.' / triumphant trap riser resolving on tonic / level-up chime stack at 1s, golden sparkle shimmer, satisfying click-lock SFX at 3s]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

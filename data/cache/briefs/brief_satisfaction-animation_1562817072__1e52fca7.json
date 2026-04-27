@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-animation",
+  "target_game_id": "1562817072",
+  "title": "Charge the x10: Mob Unleashed",
+  "hook_3s": "Tiny mob screams, cannon glows cyan-purple, then BOOM — they rocket toward a giant golden x10 gate.",
+  "scene_flow": [
+    "0-3s HOOK: Close-up on a tiny, outnumbered purple mob trembling in front of a glowing cannon; camera shake, cyan energy charges up, yellow 'x10' gate looms ahead.",
+    "3-7s POWER-UP BEAT: Player finger drags to aim, cannon fires — slow-mo burst of stick-figures streaming through the x10 gate, multiplying into a massive roaring crowd as numbers count up 10 → 100 → 1000.",
+    "7-11s PAYOFF: The now-enormous purple mob floods the enemy's cyan base, smashing towers in a satisfying cartoon crunch; yellow coins and confetti explode upward.",
+    "11-14s PROGRESSION TEASE: Quick cut to base-upgrade screen — unit card levels up with a golden flash, hinting at the meta-loop.",
+    "14-15s CTA CARD: Logo slam with cannon icon and 'Play Free' button pulsing."
+  ],
+  "visual_direction": "Stylized 3D Cartoon with chunky, readable silhouettes and exaggerated squash-and-stretch on the mob. Lean hard into the brand palette: royal purple (#5824F5) dominates the hero mob and background gradients, electric cyan (#00A3FF) powers the cannon charge VFX and enemy base, and warm yellow (#FFD12C) is reserved exclusively for high-attention beats — the multiplier gate, coin explosions, and CTA. High-contrast rim lighting, punchy cel-shading, and a slight wide-angle lens to make crowds feel massive. Camera language borrows the archetype's \"charge and release\" energy: tight close-up → whip-pan → wide hero shot of the swarming army.",
+  "text_overlays": [
+    "Tiny squad…",
+    "AIM THE CANNON",
+    "x10!",
+    "MOB UNLEASHED",
+    "Upgrade & Conquer",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "We keep the winning archetype's \"power-up and charge\" emotional beat but rebuild it natively around Mob Control's actual core loop — aim, shoot, multiply, overrun — so the ad is honest and IPM-safe. The hero moment is the x10 gate transformation, which doubles as gameplay tutorial and dopamine payoff in under 7 seconds. Run as primary video creative for male 18-35 hyper-casual lookalikes; expect strong CTR from the satisfaction beat and improved D1 retention vs. bait-and-switch creatives.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, Stylized 3D Cartoon: a massive roaring purple mob of chunky cartoon stick-figures bursting through a giant glowing golden multiplier gate that reads 'x10!', cyan energy trails streaking behind them, royal purple #5824F5 dominant background with electric cyan #00A3FF rim light and warm yellow #FFD12C gate glow, dramatic low-angle wide lens, cel-shaded, high contrast, mobile game ad key art, on-screen text 'x10!' in bold yellow",
+    "Storyboard frame, aspect 9:16, Stylized 3D Cartoon: extreme close-up on a cartoon cannon charging up with swirling cyan #00A3FF energy, a tiny nervous purple #5824F5 mob of 5 stick-figures clustered at its base, warm yellow #FFD12C sparks flying, deep purple gradient sky, player's finger silhouette dragging an aim line, punchy cel-shading, on-screen text 'AIM THE CANNON' in white with yellow outline",
+    "Storyboard frame, aspect 9:16, Stylized 3D Cartoon: epic wide shot of an enormous purple #5824F5 cartoon mob flooding and smashing a cyan #00A3FF enemy fortress, yellow #FFD12C coins and confetti exploding skyward, motion blur and impact dust, vibrant high-contrast palette, energetic competitive mood, on-screen text 'MOB UNLEASHED' in chunky bold yellow letters"
+  ]
+}

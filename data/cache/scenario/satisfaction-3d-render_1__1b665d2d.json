@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_s5DvYRjJDKd5xnnfsJ7GBn3k?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfczVEdllSakpES2Q1eG5uZnNKN0dCbjNrP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=D4TVtOnXHQlYo%7EfKmFlcLu5WSJ6kf3lKsnCLSL0At84e-5rTmN-rdG01ciL3JF8ecdkKRgz15UUAU6Augz0gqR1BHQSl4buMYDJItimZE9DJoLZtxN9is9PMijA1EeXjNW8eP2fL5VXWCLEv2-ACvf6dZm2ewTQCj23iR7XdU%7E8J6uZVoGBofp5SBFW0911ZNr1fyEfHphG%7EmhlWK0swcpg9psD-WfePKzzM7aLg6BenXmt-LBCgoQmtrXCMq0VMe7h3MrRNWSr3emvDtOThjw8KJptzB3dRdV3Sqvh%7Et4pXJ-pOPH8UH8FaVPVEXa1KGqTg9ADg7DxGFC9gzA9c6Q__",
+  "job_id": "job_BsAQvF8rAJUdLSXdS6qBJ3xm",
+  "asset_id": "asset_s5DvYRjJDKd5xnnfsJ7GBn3k",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, isometric three-quarter view of a cute 3D cartoon sorting machine: stacked pastel trays on top, a light grey (#F0F0F8) conveyor belt in the middle carrying multicolored glossy marbles, three labeled color boxes below (orange, blue, pink), lavender (#E5DFFF) background, vibrant orange (#FFB13B) accent on a tappable button, on-screen text 'Tap to sort!' in rounded orange type, Clean and colorful 3D cartoon style with soft, rounded shapes, calm satisfying mood",
+  "model_id": "flux.1-dev"
+}

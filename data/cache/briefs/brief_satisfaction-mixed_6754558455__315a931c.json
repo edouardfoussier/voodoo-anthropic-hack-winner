@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "6754558455",
+  "title": "Sort the Satisfaction — Marble Sort! Hybrid Hook",
+  "hook_3s": "A manicured finger taps a pastel tray — glossy marbles tumble in buttery slow-mo onto a lavender conveyor, each one chiming as it lands.",
+  "scene_flow": [
+    "0–3s HOOK: ASMR close-up of a woman's finger hovering over a soft pastel tray; tap triggers a satisfying cascade of glossy color-coded marbles in slow motion against a lavender backdrop.",
+    "3–6s REVEAL: Camera pulls back to show the full Marble Sort! machine — conveyor belt humming, colored boxes glowing below. Marbles roll, plink, and drop into matching boxes. Tiny 'ding' + sparkle on each correct sort.",
+    "6–10s TENSION: Belt speeds up, mixed-color marbles approach. A red marble is heading toward the blue box — on-screen prompt 'TAP TO STOP!' — finger taps, belt pauses, marble redirects correctly. Dopamine pop.",
+    "10–13s WIN: Level clears, confetti burst in orange accent, stars fill, next level peek with a special striped marble teasing new mechanic.",
+    "13–15s CTA: Phone-in-hand product shot, app icon zooms in, 'Play Free' button pulses."
+  ],
+  "visual_direction": "Clean and colorful 3D cartoon style with soft, rounded shapes. Lavender (#E5DFFF) backdrop with a light grey (#F0F0F8) sorting machine and conveyor; marbles in candy-bright primaries with subtle subsurface glow. Vibrant orange (#FFB13B) reserved for titles, CTAs, and win-state confetti. Macro depth-of-field on the hook frame for ASMR intimacy, then crisp top-down/3-quarter on gameplay. Soft global illumination, gentle bokeh, no harsh shadows — calm, satisfying, tactile.",
+  "text_overlays": [
+    "Can you sort them all?",
+    "Tap to release 👆",
+    "Match the colors",
+    "Don't miss!",
+    "Level 1 Complete ✨",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "The jigsaw archetype's audience overlap is gold, but the drag-to-place mechanic misrepresents our tap-and-release loop and risks policy flags — so we keep the ASMR finger-on-screen satisfaction beat but hard-cut at 3s into authentic Marble Sort gameplay in our true lavender/orange palette. UA team: test this hybrid against a pure-gameplay control on Meta + TikTok, watch D1 retention as the truth metric, and scale only if retention holds within 15% of organic. Lead with the slow-mo marble cascade thumbnail — it carries jigsaw-tier scroll-stop energy without the bait.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, macro close-up of a woman's manicured finger tapping a soft rounded pastel tray releasing a cascade of glossy candy-colored marbles in slow motion onto a light grey (#F0F0F8) conveyor belt, lavender (#E5DFFF) background, vibrant orange (#FFB13B) title text reading 'Can you sort them all?' at top, Clean and colorful 3D cartoon style with soft, rounded shapes, soft global illumination, shallow depth of field, ASMR satisfying mood",
+    "Storyboard frame 2, aspect 9:16, three-quarter view of a cute 3D cartoon sorting machine with a moving conveyor belt carrying red, blue, yellow, and green glossy marbles dropping into matching colored boxes below, light grey (#F0F0F8) machine on lavender (#E5DFFF) background, vibrant orange (#FFB13B) on-screen text 'Match the colors' with tap-finger icon, Clean and colorful 3D cartoon style with soft, rounded shapes, soft pastel lighting, calm satisfying UI mood",
+    "Storyboard frame 3 win state, aspect 9:16, sorting machine surrounded by a burst of vibrant orange (#FFB13B) confetti and sparkles, all colored boxes filled with matching marbles glowing softly, lavender (#E5DFFF) background with light grey (#F0F0F8) accents, big bold orange text 'Level 1 Complete ✨' centered, Clean and colorful 3D cartoon style with soft, rounded shapes, celebratory but calm tone, soft bokeh"
+  ]
+}

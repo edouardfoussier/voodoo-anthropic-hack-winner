@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 25,
+  "mechanic_match": 20,
+  "audience_match": 35,
+  "overall": 25,
+  "rationale": "This is a classic Bus Jam / puzzle \"relaxation\" hook — its calm, top-down stylus puzzle aesthetic clashes hard with Crazy Kick's energetic, competitive 3D stickman soccer DNA, and the sandy-yellow/sky-blue palette doesn't align with the orange/blue puzzle look. Mechanically there's no transferable signal: swipe-to-aim physics shots and dodging defenders cannot be honestly conveyed by a parking-lot sliding puzzle, so usage would risk misleading-ad policy flags and poor D1 retention. Only minor audience overlap on the broad casual male skew — recommend skipping this archetype unless we test a deliberate fake-puzzle-to-soccer bait-and-switch, which carries store-policy risk."
+}

@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "6754558455",
+  "title": "\"Actually Relaxing?\" — Stylus ASMR Sort",
+  "hook_3s": "A manicured hand with a stylus taps a lavender tray — pastel marbles cascade onto the conveyor with a soft click-clack as a voice asks, \"Wait… a game that's ACTUALLY relaxing?\"",
+  "scene_flow": [
+    "0-3s HOOK: Top-down POV of a hand holding a stylus hovering over a Marble Sort! level on a phone; VO: 'Ever played a game that's actually relaxing?' — stylus taps the first tray, marbles tumble.",
+    "3-7s SATISFACTION BUILD: Close-up of marbles bouncing along the moving grey conveyor, slow-mo on a yellow marble plinking into the matching orange-rimmed box. ASMR pops and clicks.",
+    "7-11s LIGHT TENSION: Conveyor speeds up, mixed colors approach — stylus taps two trays in perfect rhythm, marbles split left/right into correct boxes. A 'Level Complete' burst in accent orange.",
+    "11-14s PROGRESSION TEASE: Quick montage of 3 harder levels with special blocks (rainbow marble, locked box) clearing in satisfying succession.",
+    "14-15s CTA: Phone tilts up, lavender end-card with logo and orange 'PLAY FREE' button pulses."
+  ],
+  "visual_direction": "Top-down phone-in-hand framing shot on a soft lavender (#E5DFFF) felt surface to match the in-game background. Render gameplay in Marble Sort!'s clean 3D cartoon style: soft rounded marbles with subtle subsurface glow, light-grey (#F0F0F8) conveyor machine with gentle bevels, and orange (#FFB13B) accents on titles, level meter, and CTA. Lighting is bright, diffused, almost product-shot — no harsh shadows. ASMR-grade sound design: marble clinks, conveyor hum, satisfying 'thunk' on box drops. Stylus-and-hand POV is the only live-action element; everything else is the actual game canvas.",
+  "text_overlays": [
+    "Actually relaxing? 🤔",
+    "Tap. Drop. Sort.",
+    "Wrong color? Restart 😅",
+    "So. Satisfying.",
+    "Can YOU clear Level 20?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Marble Sort! rotation is all faceless gameplay-only video with generic \"match the color\" copy — they have zero hand-cam / stylus-POV / VO-led \"is this actually relaxing?\" creatives, which is the exact satisfaction archetype winning the market scan. This brief grafts that proven hook structure onto authentic Marble Sort! gameplay (no bus-jam bait-and-switch) and locks the palette to lavender + orange so it reads as on-brand IP. UA team: launch as a fresh-angle test against the existing gameplay-only baseline; expect lift on 25-55 female casual puzzle segments where ASMR/UGC hooks over-index.",
+  "scenario_prompts": [
+    "Top-down 9:16 vertical mobile gameplay still of Marble Sort!, clean and colorful 3D cartoon style with soft rounded shapes, soft lavender #E5DFFF background, light grey #F0F0F8 sorting machine with two suspended trays of pastel marbles, a moving conveyor belt below catching falling glossy marbles in pink/yellow/blue/green, color-matched drop boxes with #FFB13B orange rims at the bottom, a real human hand holding a white stylus tapping the left tray from above, no characters or mascots, soft diffused product lighting, subtle ASMR feel, clean minimal HUD with a small orange level counter top-left, on-screen text 'Actually relaxing? 🤔' in rounded bold orange #FFB13B, ultra crisp, authentic in-game frame, 9:16 aspect",
+    "9:16 vertical extreme close-up storyboard frame of a single yellow glossy marble mid-bounce on the light grey #F0F0F8 conveyor belt of Marble Sort!, clean and colorful 3D cartoon style with soft rounded shapes, lavender #E5DFFF blurred background, motion blur streaks behind the marble, an orange #FFB13B rimmed yellow drop-box waiting just below, no characters, satisfying physics moment, soft pastel lighting, in-game HUD edges visible, on-screen text 'So. Satisfying.' in chunky rounded #FFB13B orange caps, 9:16 aspect",
+    "9:16 vertical end-card frame, clean and colorful 3D cartoon style with soft rounded shapes, full lavender #E5DFFF background, centered Marble Sort! machine in light grey #F0F0F8 with a tray of rainbow pastel marbles ready to drop, conveyor and color-sorted boxes with #FFB13B orange accents fully visible, no characters, large rounded orange #FFB13B CTA button with white text 'PLAY FREE', signature on-screen text 'Can YOU clear Level 20?' above the button in bold orange, polished mobile ad end-card look, 9:16 aspect"
+  ]
+}

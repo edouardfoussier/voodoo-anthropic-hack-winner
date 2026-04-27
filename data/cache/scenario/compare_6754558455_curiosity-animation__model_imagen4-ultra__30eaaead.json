@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_935UJ9NLi7zL7CuJ9u7HLyXL?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOTM1VUo5TkxpN3pMN0N1Sjl1N0hMeVhMP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ksk9zsjjZglHNaBMrwjw6aoWylTu1sA2MC2HujT7yIQfZAX%7EmxciCVXX21aIGVxkS7uAtr7eF7LSC0NDpWZEKu3PA838ngjBHGtNhTNCivIBXSxu3uotMsWDXno6AO0YE-lJz46Po0naJ4qR-Tqx7mPjbkh1yLdI%7EhVhYht0%7ETeQKy%7EFHIeLBOQnNebNhIKz%7EuHx%7ES5MMTWLmOw7Jnm6LRAHgRb4zjqVFLEdxh%7Er5xJNo3fpUFvGkn1jVgdFeZgwzYgeH8HCa%7EYbvTEwZJVPCXOoLw%7E8j7JjX5fy4UEeO24OBjhpbqqKX484uAcrMW%7E8LG4Ls8z3HsAfAbKRFteA7A__",
+  "job_id": "job_ZGtzBJViYUJsnYCh7u37xGBm",
+  "asset_id": "asset_935UJ9NLi7zL7CuJ9u7HLyXL",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, clean and colorful 3D cartoon style with soft rounded shapes, a single oversized glowing rainbow marble pulsing with a warm orange (#FFB13B) aura hovering above a light grey (#F0F0F8) sorting machine tray, soft pastel lavender (#E5DFFF) background with subtle bokeh sparkles, on-screen text 'What happens if you tap?' in bold rounded orange letters at the top, ASMR-satisfying mood, soft diffused lighting, no characters, mobile game ad still",
+  "model_id": "model_imagen4-ultra",
+  "mode": "custom"
+}

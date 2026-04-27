@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "54817dd5f6f6f8ca",
+    "ad_unit_id": "54817dd5f6f6f8ca",
+    "app_id": "62eda7f1b3ae275b582e56ed",
+    "advertiser_name": "Block Crush!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12fae28477891b8f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12fae28477891b8f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12fae28477891b8f/preview",
+    "phashion_group": "54817dd5f6f6f8ca",
+    "share": null,
+    "first_seen_at": "2026-04-24T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Block Crush — Play at Your Pace :)",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "UGC creator expresses frustration with unsatisfying games to set up a payoff.",
+    "visual_action": "A young man talks directly to the camera while holding his phone, appearing annoyed.",
+    "text_overlay": "\"Bro every game that claims to be satisfying is not proving to be true I need a legit one\" 😭🙏",
+    "voiceover_transcript": "Bro every game that claims to be satisfying is not proving to be true I need a legit one",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "UGC creator expresses frustration with the lack of truly satisfying mobile games.",
+    "Transition to gameplay of Block Crush showing blocks being systematically destroyed in a satisfying pattern.",
+    "Montage of different levels demonstrating the physics and visual feedback of the block crushing.",
+    "Final end card featuring the game logo and a 'PLAY' button."
+  ],
+  "on_screen_text": [
+    "\"Bro every game that claims to be satisfying is not proving to be true I need a legit one\" 😭🙏",
+    "LITERALLY BLOCK CRUSH:",
+    "Level: 8-6",
+    "Level: 7-4",
+    "BLOCK CRUSH",
+    "PLAY"
+  ],
+  "cta_text": "PLAY",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#5D3A1A",
+    "#F7B500",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual mobile gamers seeking satisfying, stress-relieving puzzle gameplay with high visual feedback.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017079999999999999
+}

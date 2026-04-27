@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_GF2NzaTseVPY112gFNYhJVRy?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfR0YyTnphVHNlVlBZMTEyZ0ZOWWhKVlJ5P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=vDynDI8IXPi6t2kHeO%7EFkqKzA6BxOQSxHQoWVeWvwGpHjpUkF02D0KK8Ln2vEBaFIzyl6e9Hk4iMoYlF3OqxKGnsCg7nDsq2%7E8K0-7rWyA5u2B-3ilrBfDrjOJwpBWBwmqY2LW4iHztPQiZ7LE822Bbwhy0--xwUqPZ8q-Qy0AHNSZRUDFEef7KRFc7w8DR9ImgN4SLIddxg7AfDGXVfcGgTaNOP5BSp2b5m4Y5CfdYN5UGFYOKbFt2rr7YEU4iAFoBee58V1SWgW-0Oz47T9SCbB4b4C%7EFXAL%7EtMPvJKAtq%7EDrx9Eq2ZN6MiPlXnGxxTzPn3uopKDGm74neblLTSg__",
+  "job_id": "job_wavAyZMuJnzCBxXPwVXtaM37",
+  "asset_id": "asset_GF2NzaTseVPY112gFNYhJVRy",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical aspect ratio: extreme close-up of a single glossy L-shaped block being dropped into the final slot of a row on an 8x8 dark navy grid, the completed row flashing brilliant gold (#FFD700) and shattering into sparkle particles, royal blue (#5469B9) backdrop with dark navy board (#1E2744), clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, dramatic specular highlights, slow-motion 3D render, on-screen text overlay '+1,240 COMBO!' in bold gold numerals top-right, mobile game ad style.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

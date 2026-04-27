@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "04c55e65f758116d",
+    "ad_unit_id": "04c55e65f758116d",
+    "app_id": "57b423180211a6a1ca000084",
+    "advertiser_name": "Flik & Flak",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ad88252bda4f97b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ad88252bda4f97b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ad88252bda4f97b/preview",
+    "phashion_group": "04c55e65f758116d",
+    "share": null,
+    "first_seen_at": "2026-03-13T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Children exploring a lush forest and playing by a stream.",
+    "visual_action": "Four children in outdoor gear walk away from the camera into the woods, followed by a girl launching a leaf boat in a stream.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Group of children walking into a sunlit forest carrying sticks.",
+    "Kids playing by a rocky stream, launching leaf boats and helping each other cross rocks.",
+    "Montage of children running through tall grass and climbing trees.",
+    "Close-up shots highlighting colorful watches on the children's wrists during their activities.",
+    "Final scene of two children holding hands in a field with the brand logo appearing."
+  ],
+  "on_screen_text": [
+    "flik flak"
+  ],
+  "cta_text": "flik flak",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#4A5D23",
+    "#5B7C99",
+    "#E8D5B5"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Parents of active children aged 4-10 looking for durable and stylish outdoor accessories.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001597
+}

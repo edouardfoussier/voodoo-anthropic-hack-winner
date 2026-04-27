@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "bb42507a1f6496f0",
+    "ad_unit_id": "bb42507a1f6496f0",
+    "app_id": "55d9589402ac645ad22f9717",
+    "advertiser_name": "한게임 포커",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98f3e8c55f7bf1c8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98f3e8c55f7bf1c8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98f3e8c55f7bf1c8/preview",
+    "phashion_group": "bb42507a1f6496f0",
+    "share": null,
+    "first_seen_at": "2026-02-13T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "이것이 바로 포커의 찐 재미, 한게임 포커",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Two popular Korean comedians excitedly unbox a branded poker set.",
+    "visual_action": "A man opens a black briefcase to reveal a poker set while his friend reacts with high energy.",
+    "text_overlay": "한게임에서 포커 세트를 보내주셨다!",
+    "voiceover_transcript": "한게임에서 포커 세트를 보내주셨다! 한게임! 한게임 포커!",
+    "emotional_pitch": "celebrity"
+  },
+  "scene_flow": [
+    "Influencers unbox a physical poker set gift from the game developer.",
+    "High-energy celebration transition into mobile poker gameplay.",
+    "Showcase of multiplayer poker matches with winning hands and card animations.",
+    "Final call to action featuring the influencers and the game logo."
+  ],
+  "on_screen_text": [
+    "(짜잔)",
+    "한게임에서",
+    "포커 세트를 보내주셨다!",
+    "한게임!",
+    "한게임 포커!",
+    "혼자보다는",
+    "둘이",
+    "둘보다 여럿이!",
+    "함께라서 더 즐거운 포커!",
+    "한게임 포커 with 용쥬르이용주",
+    "같이 포커 한 판 어때?",
+    "*지금 바로 플레이"
+  ],
+  "cta_text": "같이 포커 한 판 어때? *지금 바로 플레이",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#1A1A2E",
+    "#FFD700",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Korean men aged 20-45 who enjoy social card games and follow popular comedians.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001768
+}

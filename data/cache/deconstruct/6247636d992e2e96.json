@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "6247636d992e2e96",
+    "ad_unit_id": "6247636d992e2e96",
+    "app_id": "637bf637ad4adb7d0e6ed0c5",
+    "advertiser_name": "BetRivers: Casino & Sportsbook",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/59e56a31161e6373/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/59e56a31161e6373/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/59e56a31161e6373/preview",
+    "phashion_group": "6247636d992e2e96",
+    "share": null,
+    "first_seen_at": "2026-02-13T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Game on! New to BetRivers? Place your first qualifying sports bet. If it doesn’t win, you’ll get Bonus Bets back, because every player deserves a comeback.",
+    "button_text": "Sign Up",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-contrast display of a $500 bonus offer over a basketball stadium background.",
+    "visual_action": "Large yellow text '$500' flashes on screen, followed by the 'NEW PLAYERS' headline and a cutout of NBA star Chris Paul.",
+    "text_overlay": "NEW PLAYERS UP TO $500 SECOND CHANCE BONUS BET",
+    "voiceover_transcript": null,
+    "emotional_pitch": "celebrity"
+  },
+  "scene_flow": [
+    "Initial flash of '$500' text over a blurred basketball arena background.",
+    "Headline 'NEW PLAYERS' and 'SECOND CHANCE BONUS BET' appear to define the promotion.",
+    "A cutout image of Chris Paul and the BetRivers logo slide into the frame.",
+    "Final layout settles with the deposit code 'SPORTS' and a 'BET NOW' call-to-action button."
+  ],
+  "on_screen_text": [
+    "$500",
+    "NEW PLAYERS",
+    "UP TO $500",
+    "SECOND CHANCE BONUS BET",
+    "DEPOSIT CODE SPORTS",
+    "BET RIVERS",
+    "BET NOW",
+    "GAMBLING PROBLEM? CALL 1-800-GAMBLER"
+  ],
+  "cta_text": "BET NOW",
+  "cta_timing_seconds": 2.0,
+  "palette_hex": [
+    "#FFCC00",
+    "#002147",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult sports fans and casual bettors looking for high-value sign-up incentives and brand trust via celebrity endorsement.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018340000000000001
+}

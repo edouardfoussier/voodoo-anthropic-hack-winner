@@ -1,0 +1,8 @@
+{
+  "archetype_id": "curiosity-animation",
+  "visual_match": 18,
+  "mechanic_match": 15,
+  "audience_match": 40,
+  "overall": 22,
+  "rationale": "Hard pass for Push'em All. The archetype's muted slate/khaki/teal palette and realistic landmark cross-section animation are stylistically incompatible with the game's bright primary-color, stickman-on-a-platform identity — viewers clicking this hook expect a base-builder/exploration/narrative experience, not a swipe-and-push hypercasual. Audience overlap is only mildly present (broad casual mobile users skew curiosity-driven), but the mechanic delta is severe: there is no plausible 3-second pivot from a subterranean bunker reveal into crowd-pushing physics without catastrophic IPM drop and likely policy/misleading-ad risk. Recommend not adapting this archetype; if curiosity-cross-section must be tested, restage it as a \"what's under the platform?\" reveal showing water/sharks below the stickman arena instead."
+}

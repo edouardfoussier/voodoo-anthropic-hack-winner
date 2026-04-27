@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-3d-render",
+  "visual_match": 15,
+  "mechanic_match": 10,
+  "audience_match": 45,
+  "overall": 20,
+  "rationale": "This is a Playrix-style \"fail\" live-action/3D-render hook built around a cat-and-chair gag with a Gardenscapes overlay — it has zero structural relationship to Crowd City's swarm-and-consume loop, low-poly stickman aesthetic, or bright primary palette (member palette is earthy blue/yellow/brown). Casual hypercasual players do overlap with puzzle audiences, but a fail-narrative hook can't telegraph the satisfying snowball mechanic that drives Crowd City's IPM. Recommend skipping this archetype; if testing fail-emotion at all, build a native version showing the player's crowd shrinking/getting eaten before a comeback, not a borrowed pet-fail trope."
+}

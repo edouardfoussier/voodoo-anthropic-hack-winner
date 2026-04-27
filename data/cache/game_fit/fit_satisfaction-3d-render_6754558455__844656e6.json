@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "visual_match": 55,
+  "mechanic_match": 48,
+  "audience_match": 78,
+  "overall": 58,
+  "rationale": "The \"satisfying pour into labeled jar\" ASMR-style 3D render aligns well with Marble Sort!'s calm/satisfying mood and skews to the same 25-55 female casual audience, so the audience overlap is the strongest asset. However, the mechanical translation is weak: pouring spice into a single jar doesn't visually telegraph color-sorting, conveyor timing, or tap-to-release physics — the player won't understand the core loop from this hook. Recommend adapting the archetype by swapping the pepper-in-jar for multi-colored marbles pouring/sorting into matching colored jars on a conveyor, and shifting the palette from the muted pink/sage to the game's lavender + orange accent to preserve brand recognition."
+}

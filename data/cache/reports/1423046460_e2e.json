@@ -1,0 +1,346 @@
+{
+  "target_game": {
+    "app_id": "1423046460",
+    "name": "Paper.io 2",
+    "genre": "Arcade",
+    "sub_genre": ".io",
+    "core_loop": "Draw trails to capture territory, expand your zone, and eliminate opponents by crossing their paths.",
+    "audience_proxy": "Broad casual audience, appealing to both male and female players across a wide age range (10-35) looking for quick, competitive bursts.",
+    "visual_style": "Vibrant, minimalist 3D top-down with bright, solid colors.",
+    "palette": {
+      "primary_hex": "#FFD700",
+      "secondary_hex": "#00BFFF",
+      "accent_hex": "#FF00FF",
+      "description": "Bright, high-contrast primary colors with neon accents."
+    },
+    "key_mechanics": [
+      "drawing-trails",
+      "capturing-territory",
+      "dodging-enemies",
+      "collecting-items"
+    ],
+    "character_present": true,
+    "ui_mood": "energetic/competitive",
+    "screenshot_signals": [
+      "progress-bar",
+      "kill-feed-text",
+      "bonus-level-screen",
+      "collectible-coins",
+      "collectible-gems",
+      "player-avatars",
+      "territory-colors"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 16,
+    "num_phashion_groups": 16
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "satisfaction-in-game",
+      "label": "Satisfaction · in-game",
+      "member_creative_ids": [
+        "67a7083d6f23bd94"
+      ],
+      "centroid_hook": {
+        "summary": "Rapid block placement clearing a green grid.",
+        "visual_action": "Blocks are placed quickly into a grid, filling it up while a progress bar moves from 'SMART' to 'GENIUS'.",
+        "text_overlay": "SMART GENIUS PSYCHOPATH",
+        "voiceover_transcript": null,
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#2E8B57",
+        "#FFD700",
+        "#4169E1"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.861,
+      "derivative_spread": 1.0,
+      "freshness_days": 2.0,
+      "overall_signal_score": 4.444,
+      "rationale": "1 creatives across 1 unique advertisers, average age 2d (velocity source: sov). Hook representative: \"Rapid block placement clearing a green grid.\""
+    },
+    {
+      "archetype_id": "other-animation",
+      "label": "Other · animation",
+      "member_creative_ids": [
+        "5d287f88cf4759b9"
+      ],
+      "centroid_hook": {
+        "summary": "Static character art of Goku Ultra Instinct with a prominent 'PLAY NOW!' call to action.",
+        "visual_action": "Goku is depicted charging a blue energy blast against a vibrant, rainbow-colored background with glowing orbs.",
+        "text_overlay": "Dragon Ball Z Dokkan Battle PLAY NOW!",
+        "voiceover_transcript": null,
+        "emotional_pitch": "other"
+      },
+      "palette_hex": [
+        "#00BFFF",
+        "#FFFF00",
+        "#FF00FF"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.745,
+      "derivative_spread": 1.0,
+      "freshness_days": 620.0,
+      "overall_signal_score": 1.06,
+      "rationale": "1 creatives across 1 unique advertisers, average age 620d (velocity source: sov). Hook representative: \"Static character art of Goku Ultra Instinct with a prominent 'PLAY NOW!' call to\""
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "label": "Satisfaction · animation",
+      "member_creative_ids": [
+        "f41b68dd7e9c7ab2",
+        "f8b53e0f8d3ee77a"
+      ],
+      "centroid_hook": {
+        "summary": "Goku SSJ3 performs his iconic Dragon Fist attack.",
+        "visual_action": "Goku charges energy and punches forward, summoning a massive golden dragon.",
+        "text_overlay": "Dragon Fist!!!",
+        "voiceover_transcript": "Dragon Fist!!!",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#FFD700",
+        "#1E3A8A",
+        "#4B0082"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.311,
+      "derivative_spread": 1.0,
+      "freshness_days": 367.0,
+      "overall_signal_score": 0.895,
+      "rationale": "2 creatives across 2 unique advertisers, average age 367d (velocity source: sov). Hook representative: \"Goku SSJ3 performs his iconic Dragon Fist attack.\""
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "label": "Satisfaction · mixed",
+      "member_creative_ids": [
+        "bdf6fd7b1032fa14",
+        "5ba7458dea1165c1"
+      ],
+      "centroid_hook": {
+        "summary": "A hand uses a stylus to solve a bus-sorting puzzle while the narrator asks a question about relaxation.",
+        "visual_action": "A hand with a stylus slides colorful buses around a crowded parking lot to clear a path for passengers.",
+        "text_overlay": "Hey! Played a game that Actually makes you Feel relaxed?",
+        "voiceover_transcript": "Hey! Have you ever played a game that actually makes you feel relaxed?",
+        "emotional_pitch": "satisfaction"
+      },
+      "palette_hex": [
+        "#4A90E2",
+        "#9B51E0",
+        "#F2994A"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.034,
+      "derivative_spread": 1.0,
+      "freshness_days": 114.0,
+      "overall_signal_score": 0.829,
+      "rationale": "2 creatives across 2 unique advertisers, average age 114d (velocity source: sov). Hook representative: \"A hand uses a stylus to solve a bus-sorting puzzle while the narrator asks a que\""
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "label": "Curiosity · animation",
+      "member_creative_ids": [
+        "0d364815e2ca3d52",
+        "e6e407c8d6232949",
+        "94abdde96b93e53e"
+      ],
+      "centroid_hook": {
+        "summary": "Revealing secret underground bunkers beneath famous landmarks like the Eiffel Tower.",
+        "visual_action": "A cross-section view pans down from the Eiffel Tower to show a complex multi-story underground shelter.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#2c3e50",
+        "#d35400",
+        "#2d5a27"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.099,
+      "derivative_spread": 1.0,
+      "freshness_days": 238.3,
+      "overall_signal_score": 0.821,
+      "rationale": "3 creatives across 3 unique advertisers, average age 238d (velocity source: sov). Hook representative: \"Revealing secret underground bunkers beneath famous landmarks like the Eiffel To\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "satisfaction-in-game",
+      "visual_match": 55,
+      "mechanic_match": 62,
+      "audience_match": 78,
+      "overall": 63,
+      "rationale": "The \"SMART/GENIUS/PSYCHOPATH\" satisfaction meter is a proven casual-arcade hook that maps cleanly onto Paper.io 2's broad audience and territory-fill payoff — swap the grid for the player's expanding colored zone and the meter fills as % captured. Frictions: the centroid palette (forest green + royal blue) clashes with Paper.io 2's high-saturation neon brand, and the source hook is block-placement (Tetris/block-blast adjacency), not trail-drawing, so we'd need to re-shoot in-engine rather than reuse assets. Worth a test, but only as a custom production — do not license or directly clone the source creative."
+    },
+    {
+      "archetype_id": "other-animation",
+      "visual_match": 35,
+      "mechanic_match": 10,
+      "audience_match": 30,
+      "overall": 20,
+      "rationale": "Palette overlaps incidentally (cyan/magenta/yellow neons), but the anime-IP static splash with energy-blast hero is fundamentally off-brand for a minimalist top-down .io game — there's no way to honestly represent trail-drawing or territory capture through Goku key art. Audience also skews to mid-core anime/RPG fans (Dokkan players), not the broad casual snackable-arcade crowd Paper.io 2 monetizes. Do not adapt; if the team wants a \"character hero\" angle, build a custom mascot/skin showcase instead of borrowing this archetype."
+    },
+    {
+      "archetype_id": "satisfaction-animation",
+      "visual_match": 25,
+      "mechanic_match": 10,
+      "audience_match": 35,
+      "overall": 20,
+      "rationale": "This is licensed Dragon Ball Z anime IP — using it for Paper.io 2 is a hard non-starter due to copyright/trademark exposure, regardless of creative performance. Beyond the IP issue, a charged-energy anime punch has zero mechanical link to drawing trails and capturing territory, and the dark indigo/purple palette clashes with Paper.io's bright minimalist look (only the gold overlaps). Skip this archetype; if the underlying signal is \"satisfying power-release moment,\" test a safe analog like a massive territory-sweep finisher with a gold-burst payoff instead."
+    },
+    {
+      "archetype_id": "satisfaction-mixed",
+      "visual_match": 25,
+      "mechanic_match": 15,
+      "audience_match": 55,
+      "overall": 25,
+      "rationale": "This is a classic puzzle/sort \"relaxation\" hook (bus jam / stylus ASMR genre) that has almost zero overlap with Paper.io 2's competitive territory-capture loop — showing a calm sorting puzzle would misrepresent the product and drive low-intent installs that churn fast. Palette (muted blue/purple/orange) and the \"relaxed\" emotional pitch directly conflict with the game's energetic, high-contrast neon visual identity and competitive .io tension. Audience demographics partially overlap (broad casual), but mechanic and tonal mismatch make this a poor fit; only worth testing as a misleading-style hybrid hook that pivots into actual Paper.io gameplay after 3s, and even then expect IPM but ROAS risk."
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "visual_match": 18,
+      "mechanic_match": 15,
+      "audience_match": 55,
+      "overall": 25,
+      "rationale": "The dark, earthy palette (navy, burnt orange, forest green) and cross-section landmark reveal aesthetic clash hard with Paper.io 2's bright, flat top-down minimalist look — there's no natural way to render territory-capture gameplay as an underground bunker reveal without abandoning the brand. Mechanically the curiosity-reveal hook doesn't map to drawing trails or zone capture, so any adaptation would be a bait-and-switch that risks low IPM quality and install-to-play drop-off. Audience overlap on broad casual curiosity content is the only redeeming axis; recommend skipping unless the team wants to test a heavily reskinned \"what's hidden under the map\" reveal that pivots into actual gameplay within 2 seconds."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "satisfaction-in-game",
+        "target_game_id": "1423046460",
+        "title": "SMART → GENIUS → PSYCHOPATH: Territory Fill Meter",
+        "hook_3s": "A neon-yellow zone explodes outward across the map as a meter rockets from SMART to GENIUS — can you push it to PSYCHOPATH?",
+        "scene_flow": [
+          "0-3s: Top-down Paper.io 2 arena, player's small yellow territory in a sea of grey. Trail loops out and SLAMS shut — a huge chunk floods yellow. Meter pops up: 'SMART' lights up.",
+          "3-7s: Faster captures, two cyan and magenta opponents get cut off and eliminated via kill-feed. Territory % climbs 22% → 54%. Meter advances to 'GENIUS' with a satisfying chime.",
+          "7-12s: Camera zooms slightly as the player carves an absurdly long, risky loop around the entire remaining map, dodging an enemy trail by one pixel. Loop closes — screen floods yellow. Meter pings 'PSYCHOPATH' in glitching magenta.",
+          "12-15s: '99% MAP CAPTURED' stamp, coins/gems rain into HUD, CTA card slams in over the fully-yellow board."
+        ],
+        "visual_direction": "Authentic Paper.io 2 top-down camera, minimalist 3D paper-thin arena. Player territory in primary #FFD700 gold, rival zones in #00BFFF cyan and #FF00FF magenta on a soft off-white grid. Native HUD intact: top-left % progress bar, kill-feed ticker top-right, coin/gem counters. Meter overlay sits bottom-center as a clean horizontal bar with three stops, glowing in the palette accents. Motion is snappy, every loop-close triggers a quick screen-flash and bloom — no extra characters, no stock arcade tropes, just the territory expanding and meter climbing.",
+        "text_overlays": [
+          "SMART",
+          "GENIUS",
+          "How far can YOU go?",
+          "PSYCHOPATH 🤯",
+          "99% CAPTURED"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Paper.io 2 rotation is all unlabeled Unity playables and videos with no satisfaction-meter hook in market — this brings the trending SMART/GENIUS/PSYCHOPATH escalation framework that's spiking in casual UA but is underrepresented on this title. UA should test this against the existing Applovin playable as a video-first IPM lift play; the meter overlay is a cheap, modular asset we can A/B with different final-stage labels (PSYCHOPATH vs GODLIKE vs CHEATER).",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, authentic Paper.io 2 in-game top-down view: a vibrant minimalist 3D arena with bright solid colors, player's gold #FFD700 territory occupying ~70% of a soft off-white paper grid, thin cyan #00BFFF and magenta #FF00FF rival zones being cut off, a glowing yellow trail mid-loop about to close a massive capture, native Paper.io 2 HUD visible (top-left territory percentage progress bar reading 70%, kill-feed text top-right, coin and gem counters), bottom-center horizontal three-stage meter overlay with the middle stop 'GENIUS' lit in neon magenta, no extra characters, crisp bloom on trail edges, high-contrast neon palette. [Audio: VO (gleeful, rising) 'Oh, that's GENIUS' / punchy upbeat trap 120BPM with rising synth riser / whoosh on trail draw, satisfying chime + bass thump on loop-close at 2.5s.]",
+          "Storyboard frame 1, aspect 9:16, Paper.io 2 top-down arena early game: small gold #FFD700 player territory in lower third of a pale grid, two opponent zones in cyan #00BFFF and magenta #FF00FF, a short yellow trail extending outward, vibrant minimalist 3D with bright solid colors, native HUD (progress bar at 18%, kill-feed empty, coin counter), bottom-center meter overlay with first stop 'SMART' just lighting up in gold, clean energetic competitive mood, no characters added. [Audio: VO (calm, curious) 'Start small...' / minimal trap kick 110BPM building / soft pen-on-paper SFX for trail, light ding when SMART lights at 1s.]",
+          "Storyboard frame 2, aspect 9:16, Paper.io 2 climactic top-down shot: arena nearly entirely flooded gold #FFD700, last sliver of cyan #00BFFF rival being eliminated, magenta #FF00FF accent glow around the screen edge, native HUD shows 99% progress bar, kill-feed text stacked top-right, coin/gem rain animation, vibrant minimalist 3D bright solid colors, bottom-center meter overlay fully maxed with 'PSYCHOPATH' stamped in glitching neon magenta, screen-flash bloom, no added characters. [Audio: VO (unhinged shout) 'PSYCHOPATH!' / hard-hitting trap drop 128BPM with 808s / screen-flash whoosh, coin cascade chimes, deep bass impact at 0.8s.]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_8nVP9eSM1yC6HkAwjCJudbZp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOG5WUDllU00xeUM2SGtBd2pDSnVkYlpwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=kzE0jpQFdTRHh1rg3adTaPWtXStNn2s4Wu635Q87ZpcM3CnTjFNB-lk%7EHDGD5qB6S9Do3srqBtaLZhVcXWrYizqR%7E57qPX7d6sCkatkgbXwbbLGGCc-C6bmPfGXxdwxAxKZigrd9QeYVgfTtq7Skg3eOU2lmmLjyoPbEmOe8HLiZgMrrXqbyKSOR3s-gNzjupmiXXNm5rdOfAs3JqMSqOHyEVLbFeYiiRZU2B1mwHMChavotmVa%7EQOkPvigNmV5cWXpLdJExs712YDBvcBbDgHqKFBjo9KMYvmv14QW03ISxvD3jUl8kK8PJ%7Edy5JJeXvDVLrzSYkvVbAgoMGbPPRw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_jJA2x5Li6NGFQtWcCPWcYgTz?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfakpBMng1TGk2TkdGUXRXY0NQV2NZZ1R6P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=qjAXoEjEwksvLeEB5ct6wruVj0WQQZxDwz8i-f%7E5XO1CMX2sRUXauN2-Q5SwMdPNls-D60sZc%7ESdTycnuEHIYd94dmTMNmY5cHkDyiRq91scNEpPJeE1SEGf%7Eo9g28ATqbn52qqu1hCDIfva08R-T7hOq6NfZURKYrbnl3gFfNbcZoUlyWDo3ZfrpZEO-JF-N0f1odJp%7EWQlWmZb3QvLtMA7ZdhFshVc%7Er1dF7-rMPqWdcREcxEvhS2-2UAxpy4iILvtYD5TzhT7d8p1SdJwtVDs789uZ3qrjJnVtx9NukOLZ-iLwkZGQPhrYP8Mj4qxhMSm4yE9a7xlaYDAZgSlkw__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_gPJtn71MGXuKJ1EG1CyAYXvg?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZ1BKdG43MU1HWHVLSjFFRzFDeUFZWHZnP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=rwAYqVZX9zAQAh370kfO8u%7EsjswAoFxMaX6w-qz2Bz44EDg87AiC58KtIc9P6o3UsL0xvpukRXNiRNY2a%7ESfvD-DlUdFGQD8lxjFYhsteX%7EJJ6FUtzE3K-Nq9NYLkvGv1L76PgZHjE8PCjujkvx0lLUNowl48EbY0DcEEcNVHwSPG-NQ1dRVLGA5Znb%7ESCL%7Ev3duIjZrVq2xI333iibrlmLaJu1ORe-RAvay1gi6K6UNz3iByzb6xMqc9zY68BO%7E0LcUdXuIDRKkkCz1JiGR4xHai0gWQFanqKKtpqlDDLnk16S0Tuql0fq5FtuVtVY6tvluKmJQfpv06CUyK51J0A__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=4.44 × game_fit=63/100 ⇒ priority=2.80"
+    },
+    {
+      "brief": {
+        "archetype_id": "satisfaction-mixed",
+        "target_game_id": "1423046460",
+        "title": "\"Relaxing? Think Again.\" — Satisfaction Bait-&-Switch for Paper.io 2",
+        "hook_3s": "A finger calmly traces a perfect neon-yellow square across a pastel grid — \"oddly satisfying\" ASMR vibe — until a magenta enemy slices the trail and the screen EXPLODES into Paper.io 2 chaos.",
+        "scene_flow": [
+          "0–3s: Top-down close-up of a fingertip slowly drawing a clean #FFD700 trail on a soft grid, ASMR pen-on-paper SFX, narrator asks the satisfaction question.",
+          "3–6s: Camera pulls back — the 'puzzle' is actually a Paper.io 2 arena. A magenta opponent races toward the unfinished trail. Tension spike.",
+          "6–10s: Player frantically swipes to close the loop, captures a huge territory chunk in a #FFD700 flash, kill-feed pops 'YOU ELIMINATED Pink_42'.",
+          "10–13s: Territory % bar rockets from 12% → 68%, coins/gems scatter, screen shakes with combo chimes.",
+          "13–15s: End card: Paper.io 2 logo on neon grid, CTA button pulses."
+        ],
+        "visual_direction": "Lock to Paper.io 2's authentic minimalist 3D top-down camera with bright solid color blocks. Open soft and pastel to mimic the trending \"relaxation\" archetype, then snap to the game's signature high-contrast palette: #FFD700 player territory, #00BFFF rival zone, #FF00FF danger trails. Keep the grid floor, thin trail extrusion, and HUD chrome (% bar top-left, kill feed top-right, coin counter) pixel-faithful to the live game. No invented characters — the player is represented by the standard Paper.io 2 square avatar only.",
+        "text_overlays": [
+          "Ever played a game that ACTUALLY relaxes you?",
+          "Just draw… and capture…",
+          "WAIT — BEHIND YOU!",
+          "68% TERRITORY 🔥",
+          "Can YOU survive?"
+        ],
+        "cta": "Play Free",
+        "rationale": "Voodoo's current Paper.io 2 rotation is all straight gameplay video + playables with no copy — they're missing the satisfaction/ASMR bait-and-switch hook that's winning in the broader puzzle-sort market. This brief borrows the trending \"relaxation question\" opener for top-of-funnel scroll-stop, then pivots hard into authentic competitive .io gameplay by 3s to protect intent and ROAS. UA team: test against the 12/23 Admob video as control; expect higher IPM, monitor D1 retention to confirm the pivot filters out pure-puzzle seekers.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, authentic Paper.io 2 in-game moment: minimalist 3D top-down view of a bright #FFD700 yellow square avatar mid-draw, extruding a thin glowing yellow trail across a soft pastel grid floor, a #FF00FF magenta rival square approaching from the right edge on a collision course, #00BFFF cyan captured territory visible in the background, faithful Paper.io 2 HUD with territory percentage bar top-left and kill-feed text top-right, vibrant minimalist 3D top-down with bright solid colors, on-screen text overlay 'Ever played a game that ACTUALLY relaxes you?' in bold white sans-serif. [Audio: VO (calm female): 'Ever played a game that actually relaxes you?' / soft lo-fi ASMR pads 70 BPM building tension / pen-on-paper scratch SFX, faint heartbeat at 2.5s]",
+          "Storyboard frame, aspect 9:16, authentic Paper.io 2 gameplay: dramatic top-down zoom of the #FFD700 yellow trail snapping closed into a massive captured territory flood-fill, #FF00FF magenta enemy eliminated mid-screen, scattered collectible coins and gems bouncing, kill-feed text 'YOU ELIMINATED Pink_42' top-right, territory bar surging to 68%, #00BFFF cyan rival zones shrinking, vibrant minimalist 3D top-down with bright solid colors palette #FFD700 #00BFFF #FF00FF, bold on-screen text overlay '68% TERRITORY 🔥'. [Audio: VO (excited): 'Wait — not so relaxing now!' / punchy upbeat electronic 128 BPM drop / whoosh on capture, coin chime stack, satisfying bass thud at 1.8s]",
+          "Storyboard end card, aspect 9:16, Paper.io 2 logo centered on a neon grid floor with #FFD700 #00BFFF #FF00FF territory tiles radiating outward, minimalist 3D top-down with bright solid colors, glowing 'Play Free' CTA button pulsing at bottom, faint % bar and coin HUD framing, on-screen text 'Can YOU survive?'. [Audio: VO (punchy): 'Can you survive?' / energetic competitive synth stinger 130 BPM / UI click on CTA, rising whoosh into logo reveal]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_Ldi2JTRpbEfPJ19byfsyRMCw?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTGRpMkpUUnBiRWZQSjE5Ynlmc3lSTUN3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=l6Kpi%7EGp-sLhDDKmiCF0rwv57kheSF1qobqrEXkjB5bhYWVa31bFbtx7xMGLHrzm3I1xPPUNYRQAqoysp8TvciKa5pAIMNvnm1v8926oxAKkgpV9BTVqwx8iXM7Y8X1Hgjg-uu8kZMYORav3klvzLpmgPdeaE35yDZScVvSmTLLBRnO3DbLQHKsKi5LXsopStRMz7kMBRKAHyOYVYiuddTyY0x-zD9EkWombTqGwEQarVInn7oIKqaIXMKVykgl6ch8INYP6BcpE9yWUC2G09fT4hCA20ACzfeuch3aeMUgf-%7EyPxrRGtpqZRi8at0p0Wl2KQuhbK2FlIYmPysAsuw__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_Srtouo9K99SCn1XGAJErWsyU?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfU3J0b3VvOUs5OVNDbjFYR0FKRXJXc3lVP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=mM4DfpBktateTFL0m6RgDvsSKnQYANX9Flp2ihCd2TDBWKtSbWN8x5meemtOFDqmMmktiPWlSAiRfVHmZlyQpi4OWYDZIEqs3fSoSb5nkqBcf8LUcjDm21v6ldr3-8ZvPUIUg0hJ5K2AcMxpuurfHRpJDwelZIcc%7EPRidgvw9UYbtsuz0EA5fU8-sICUn4TtjvIofOXwxurXsdMwcPlM0rdecuvgpPZAc90EjconNoDUEN1twW1brjpWdHZ8EGDPLqz4C6v55oGILA4pYfQuH848o%7Em7M89pJgvTH0sAwic7WSH7WpEXo0dsunP9BC0sG%7E6pKeXdL0TpgBLLmkfolA__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_QGvJwwF7xWUEsZJ5zwt4Jyh8?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUUd2Snd3Rjd4V1VFc1pKNXp3dDRKeWg4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=i1zYEAYJrUPAZfEaRi2lZXx0KT14QP%7EUPzhvKypVPHE0VMKXyDdW9rTGUU0YeB5cpOo7bRXPKYu8AynYJd0myZfbg8Cd6XMUoIGbOZl8HQERjp5NqMUAfgDoipzrML8OiPVdXi44hF3a0jSWzcYg14W4SCQ8VlEXdn3rNtLgL3ddlpaWnpyuqjOK3qy6ab%7EyTIY5RilF%7EhHkc-X9CSqINT3xFhdPY3kYq9bzqD%7EaON-E1SemreomxEb7K47jshne3-530A3U72poM0ksL%7EerI5aglEQsp3RQvrbrGPI-GuKHVNMp4UM1134uN4ZDtS6gCoLUmS0U5A4a6mkEmHMCdA__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.83 × game_fit=25/100 ⇒ priority=0.21"
+    },
+    {
+      "brief": {
+        "archetype_id": "curiosity-animation",
+        "target_game_id": "1423046460",
+        "title": "What's Hidden Under the Map?",
+        "hook_3s": "\"What's hidden UNDER the paper map?\" — camera peels back a Paper.io 2 territory grid like a sticker, revealing a secret neon vault beneath.",
+        "scene_flow": [
+          "0-3s: Top-down Paper.io 2 match in progress — yellow player carving a trail through cyan/magenta territories. Finger taps the map. A glowing crack appears.",
+          "3-6s: Camera tilts into a cross-section: the flat paper-territory layer peels up to reveal a hidden multi-tier vault below stacked with gems, coins, and a giant '?% captured' progress bar.",
+          "6-10s: Player snaps back to top-down. Now racing to capture a massive uncharted zone, dodging two AI opponents closing in on the trail. Kill-feed pops: 'You eliminated Blue!'",
+          "10-13s: Bonus-level screen flashes — gems and coins rain in, territory meter rockets from 32% to 87%.",
+          "13-15s: End card: yellow territory dominates the screen, CTA pulses."
+        ],
+        "visual_direction": "Lock to Paper.io 2's signature vibrant minimalist 3D top-down: flat shaded territory blocks in #FFD700 yellow (hero), #00BFFF cyan (rival), #FF00FF magenta (rival), thick solid trail lines, no textures. The \"reveal\" beat briefly tilts the camera 30° to show the paper map as a literal thin layer with a hidden treasure vault below — same flat-color language, just stacked vertically — before snapping back to clean top-down. Keep HUD authentic: top-left territory % progress bar, right-side kill feed text, floating gem/coin pickups. Energetic, high-contrast, zero gradients.",
+        "text_overlays": [
+          "What's UNDER the map?",
+          "Tap to peel it back 👇",
+          "Secret zone unlocked!",
+          "Capture it before they do",
+          "87% — NEW RECORD",
+          "Can YOU dominate?"
+        ],
+        "cta": "PLAY FREE",
+        "rationale": "Voodoo's current Paper.io 2 rotation leans on straight gameplay capture and fail/retry playables — none use the curiosity-reveal hook that's trending across .io and casual scans. This brief imports the \"what's hidden underneath\" mechanic but reskins it natively to Paper.io 2's flat-paper metaphor (peel the map → secret vault), so it earns the curiosity click without bait-and-switch and pivots to real gameplay by 3s. UA: test against the Applovin playable as control; expect lift on CTR/IPM from cold casual audiences.",
+        "scenario_prompts": [
+          "Hero frame, 9:16 vertical, authentic Paper.io 2 in-game moment: vibrant minimalist 3D top-down view, flat solid colors #FFD700 yellow player territory mid-screen with a thick yellow trail line extending into uncaptured white space, #00BFFF cyan and #FF00FF magenta rival territories on edges, a glowing crack splitting the paper map open to reveal a hidden lower layer with floating gems and coins beneath, top-left territory progress bar reading '32%', right-side kill-feed text, bold white sans-serif overlay 'What's UNDER the map?' centered top, no characters, bright high-contrast solid colors no gradients no textures. [Audio: VO (curious whisper) 'Wait... what's under the map?' / energetic competitive synth 124 BPM building tension / paper-peel rip SFX at 1s, low bass reveal hit at 2s, coin shimmer at 3s]",
+          "Storyboard frame 2, 9:16 vertical, authentic Paper.io 2 gameplay: top-down flat-shaded 3D arena, #FFD700 yellow player carving an aggressive trail loop around a huge uncaptured zone, two rival blobs in #00BFFF cyan and #FF00FF magenta closing in from opposite sides, scattered collectible gems and coins along the path, kill-feed text 'You eliminated Blue!' top-right, territory bar filling fast at '64%', bold overlay 'Capture it before they do' lower third, vibrant minimalist style solid colors no gradients. [Audio: VO 'Get it before they do!' / punchy upbeat competitive trap 130 BPM / whoosh on trail draw, chime on gem pickup at 2s, glass-shatter elimination SFX at 3.5s]",
+          "Storyboard frame 3 end card, 9:16 vertical, Paper.io 2 victory state top-down: screen dominated by #FFD700 yellow territory ~87%, tiny slivers of #00BFFF cyan and #FF00FF magenta cornered, bonus-level screen overlay with cascading coins and gems, progress bar maxed glowing, large bold overlay 'PLAY FREE' bottom center with pulsing arrow, vibrant minimalist 3D flat solid colors high contrast. [Audio: VO 'Your turn — play free' / triumphant energetic synth stinger 128 BPM / coin-rain cascade SFX, victory chime at 1s, button-tap click at 4s]"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_HgxsK9QdkduZFwL5SioNLEBo?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSGd4c0s5UWRrZHVaRndMNVNpb05MRUJvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=uksnOEZFmQPVy2qpQapjaiuW%7EYFlziYzBEE4IEU3-BmDj1sfW8CWBK9kcBD4GBcbHI1Kkcx3OWjdS9sWiAJQrm%7E5kHm09Hba024%7E-Y1dhrHA3VJsrWcrC5ahjsK-nCyJkKyb%7ERazVM2KRIPVy4xXiijJMbr7Ml%7EVPbIthgw62-yMNsXxEkVCXm661FEh3zTOy1S3YPzdRyxBj5SfRSwX8xCErFvCAMBXf-dEfWhqu11nwuD1IJE2Ck%7EXXXyd5h58vXQhkGluhP2O1simwl2%7EeO6qwipcdXD4FyOqQUhsr3kSiHZQx8OSKWvIgODgRME8OhTwx2CCwuYXf03YXMT6WA__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_yNDbSgsjDhWqNoKxsnPsoW2c?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeU5EYlNnc2pEaFdxTm9LeHNuUHNvVzJjP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Zjj2OCPmq5LZMaAMCsoTM5sbr0cpQuymvi5ZPgpQkty3LfbY%7E1NvCvBQE182OP4nzxyvfCMj%7E6Ny85O5jBpPlQ2%7EqEkMVu9YA47gHgq6E03J2DuBpHwhliRXJCcg6Nv3U3GnQVWU-Pe5yhQblfZ3cW7znhiWr060ovtyxP%7EzyKPabU-ttz4kZSgWo2rXUm372hCRoeOW9Q0g0b1LIZazwz8CamzqUijBzFySrLfce4taDyqUCoFG1fuhQEQvMt9hkfhrzEUcxGEiZgxouRIB3j6xNgjPXAq4QV1vDyqfglxwpIGqCJ7PQiNkEGro%7E-rUICYV32Uyv4sSrrJsqqeoEg__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_dABorGyKusFs9rykwky8F4ti?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZEFCb3JHeUt1c0ZzOXJ5a3dreThGNHRpP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=EIpgzn-MCNKeWlGz878p%7EDPZNhpiZnp8IbFZuSpjou%7ENCXMoAfzzeIrG0WHQtyygZMWADTmZcwVg2UVDKPRhjRBkmfSLAmMHTRYO4VRLSpkO1lE-B5CAr6428gDIdXE7nNYgBf7-4hSNFOKwdo-T%7EvuvfCLyRdqS5DOBPCV1k-NS9U%7EYc8t2PRZEm3nunUG%7EerLLR6MT4XqLQfdV0yi0jNhupqAaHwkLKbC2drO-fAerV67CS7tBg7bwEPHP3bbCgdmQOi7nwSvjt3UV28uOl981iJ%7Eky08TajXWfRHncVedjONw6rPCrqoUgqR7BPhiCvIdPJxoWOSJBC%7E5T07FGQ__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.82 × game_fit=25/100 ⇒ priority=0.21"
+    }
+  ],
+  "pipeline_duration_seconds": 723.3368244589947,
+  "total_cost_usd": 0.024882,
+  "generated_at": "2026-04-26T09:46:05.297963Z"
+}

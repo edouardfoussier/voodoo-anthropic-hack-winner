@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_yfbif2wsZZC87RPyF6XDdrnp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeWZiaWYyd3NaWkM4N1JQeUY2WERkcm5wP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=HYWzlAmIR2jwKQe8ZFoA1cKeLHb3HMeex-t4Ffxh%7EV1ngW6j9WpGG4S-9KV-CUUnZtHkqeiP5e5nslRufg8uc5fv5vYH2HVbANP4JL58QU7hMBuvabkiPX4H7EeXJfj9HBge45i-J66Xee40dFn1Q353ndVwa1E1eQ%7EDWodwelzlQJmLv1ULdKZrQE5yIGuJsqph68WZvyo2PDn7pZl6YhaAsiAcl6tTFzviKZhDh-SLYJSpx6CKPx9Q1PaRCby61A%7EffE5yw6oLFuwNPlXAc9BO%7Eoi2GgK98p94iH2ucOn2HUCTrctMBQWvpf1RvBvoZJy%7EOrvHrILNKd0K5PAY1Q__",
+  "job_id": "job_4qbu4HkTX5HR8DThXeuRGgDa",
+  "asset_id": "asset_yfbif2wsZZC87RPyF6XDdrnp",
+  "stub": false,
+  "prompt": "Storyboard frame, 9:16 vertical aspect ratio, Push'em All in-game gameplay shot: top-down dynamic view of sandy-green (#56a38b) platform over blue water (#2a7dfa), player stickman just grabbed a glowing power-up, push-stick massively expanded sweeping a huge crowd of red (#e3001b) stickman enemies tumbling off the edge in physics-based ragdoll chaos, motion blur on swipe, signature yellow 'SIZE UP!' notification banner popping center-screen, combo multiplier 'x12 COMBO' in bold white, coin counter ticking up, level timeline HUD at top, minimalist 3D flat-shaded stickman style, bright contrasting colors. [Audio: no VO / punchy upbeat trap drop 145bpm / satisfying swoosh-thwack on stick swing, rapid chime stack on combo count, splash SFX as crowd hits water.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_jPkgzPZ9Uaoe9RbmJmzdAxMZ?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfalBrZ3pQWjlVYW9lOVJibUptemRBeE1aP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=V7bnwcENEOaEsifzXWGrdQz6c2AUaZKcGOOyexzTdCSA2wyoH8WGD2Yg1CkpEkpxL3WwwHqYyNSz1UOdP7A9AWSa09Qp4kl%7ERuDImo-R3WKXsvN9dywH%7EVqLFcu089umaIPoj4ppN3StO5TfrX9lHywreLDuXFJA2hSePtc4eKA5Dt%7EQLb6mMWGEB16hhZ3Dm95hcpuVMEQF704o-ZfpF1%7ERup4j5lc3YrqMP6s1wIMD%7EQGjJLdqLmxOExZ6wZLIAo2gO65j6W2RlIpC3M4rEYL23wo3teOwn9fRVfwRZSvpd08iuhl30rHSP-zvY7Asp9vYA9lkfua-AbOpYe59Tg__",
+  "job_id": "job_Jtx4jtiTZen7SC8mCKioXTRL",
+  "asset_id": "asset_jPkgzPZ9Uaoe9RbmJmzdAxMZ",
+  "stub": false,
+  "prompt": "Hero frame, vertical 9:16 mobile ad still, in-game moment from Knock'em All hypercasual shooter. First-person POV: a colorful toy-like gun in the lower foreground aimed across a bright #8ED4FF pastel sky platform with red #D91A1A crash-test dummy enemies standing in a row. The ground is sliced open in a clean cross-section diagram reveal showing a 3-story underground dummy factory beneath \u2014 conveyor belts, stacked red dummies, #6B15E8 purple elevators. Minimalist 3D with bright, flat colors and simple geometric environments. Top of screen shows a level progress bar UI. Bold white on-screen text: 'What's UNDER the platform?'. No characters on screen besides dummies. Clean, toy-diorama lighting, no grit. [Audio: VO (curious female whisper) 'Wait\u2026 what's under there?' / calm satisfying lo-fi 90bpm with soft mallet melody / soft whoosh as ground slices open at 2s, subtle mechanical hum from factory].",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_Jaw4nBnbNHG397WDF6UEE5wi?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9KYXc0bkJuYk5IRzM5N1dERjZVRUU1d2kqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=QmNxN%7EPDXeDgqjLRDEUM9BZEApy1BuZXcQcQpewPb%7EiJPaVTFAWXyc5Qye8ZZOBOejShZdphq1bvYMQoksfGgARbjNwdDiGo78omdzRN9oGmcniIgAggI8R1f92Zh78K5YYZNIMAh79XEU0e2fcQOHAMm-rMp4i2HdKIkeS52vUxwkrQ2K59ED1WoZkW4ANOewWFC7jh3I-w8-w3voU%7Eb9kV3ENx%7ECWONm2BGP1ajRtsz1v8Psmzqjv0OkV7Ocxsk2nys6K9w1CLymZgNA9NH38MkgrIHGJul5oYB3HWkNaSZuP7nZa17q7%7EKtfOEnnXkCuJ4el94M6knzMbfO7dhg__",
+  "job_id": "job_VrC9Y4QCPgM6yo6Fi3VeaGvD",
+  "asset_id": "asset_Jaw4nBnbNHG397WDF6UEE5wi",
+  "stub": false,
+  "model_id": "model_open-ai-sora-2",
+  "prompt": "A single red stickman jogs down a pastel street \u2014 tap, and 200 bystanders flip red in a satisfying wave.",
+  "mode": "video",
+  "input_frames": 1
+}

@@ -1,0 +1,904 @@
+{
+  "count": 3054,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "0a72d2ab7841d76a",
+      "app_id": "55d93bf102ac645ad2090002",
+      "network": "Facebook",
+      "phashion_group": "0a72d2ab7841d76a",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-05",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "0a72d2ab7841d76a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join Gala",
+          "button_text": "Sign Up",
+          "message": "Get 100 Free Spins if you deposit & play \u00a310 on slots. Sound like your kind of fun?"
+        },
+        {
+          "id": "246c36e08dea5b58",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Daily Free Spin",
+          "button_text": "Learn More",
+          "message": "Whirl our Daily Free Spin reel for free chances to win up to \u00a350 cash and more."
+        },
+        {
+          "id": "562667873a3f8f4b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Grab guaranteed daily prizes!",
+          "button_text": "Learn More",
+          "message": "Grab guaranteed prizes every day in our Daily Free Bingo room!"
+        },
+        {
+          "id": "bc5736a71db77943",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Grab guaranteed daily prizes!",
+          "button_text": "Learn More",
+          "message": "Enjoy your daily dose of free fun with Daily Free Bingo & win guaranteed prizes!"
+        },
+        {
+          "id": "e1c2045f99365ce2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join Gala",
+          "button_text": "Learn More",
+          "message": "Collect free Gala Points to use on wins you want at the Gala Rewards Club. There are more chances to win than ever at Gala."
+        },
+        {
+          "id": "e9eb976f2a2bbd11",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join Gala",
+          "button_text": "Sign Up",
+          "message": "Get 100 Free Spins if you deposit & play \u00a310 on slots. Sound like your kind of fun? Gala, where a little joy goes a long way."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93bf102ac645ad2090002",
+        "canonical_country": "GB",
+        "name": "Gala - Bingo & Casino Games",
+        "publisher_name": "Gala",
+        "publisher_id": "59baf7e50211a6be9ed99c29",
+        "humanized_name": "Gala - Bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/B9zokV-YpTRrQrxy7kTjONc3B62-EZyEOb_nPsWnDvAg1yjoiFi2_ayGNXcmc5KYXzJ_d9OwcQ6duuleO5-JLro=s150",
+        "os": "unified",
+        "id": "55d93bf102ac645ad2090002",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "de4c5b5239280a1a",
+      "app_id": "5e4b143dab3bcb7c8fa09fb1",
+      "network": "Facebook",
+      "phashion_group": "de4c5b5239280a1a",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-27",
+      "last_seen_at": "2026-04-13",
+      "creatives": [
+        {
+          "id": "de4c5b5239280a1a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7993205107e2259d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7993205107e2259d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7993205107e2259d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Monster Jam Smash & Bash",
+          "button_text": "Shop Now",
+          "message": "Kids are going nuts for this! Bounce your truck off the trampoline to get smashed! Then repair it and take down the tower! \ud83d\udca5"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5e4b143dab3bcb7c8fa09fb1",
+        "canonical_country": "US",
+        "name": "Toca Boca Hair Salon 4",
+        "publisher_name": "Piknik",
+        "publisher_id": "64f90e1670d3f24c7fdad0c7",
+        "humanized_name": "Toca Boca Hair Salon 4",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/b6/cf/a8b6cfbb-e380-96f7-9f7a-9e662d48cee4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5e4b143dab3bcb7c8fa09fb1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fb897782ef9ff0e5",
+      "app_id": "59baf7f70211a6be9ed99cac",
+      "network": "Facebook",
+      "phashion_group": "fb897782ef9ff0e5",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-15",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "fb897782ef9ff0e5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7092653a45960a13/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7092653a45960a13/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7092653a45960a13/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Deal or No Deal for FREE \ud83d\udcb0",
+          "button_text": "Play Game",
+          "message": "\ud83c\udf81 Experience the thrill of Deal or No Deal \u2013 exclusive to tombola! Ready to take on the challenge?\nWin up to \u00a31,000 for FREE! \ud83d\udcb8\nSMS opt in required. 18+ gambleaware.org. T&Cs Apply"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "59baf7f70211a6be9ed99cac",
+        "canonical_country": "GB",
+        "name": "tombola bingo \u2013 UK Bingo Games",
+        "publisher_name": "PokerStars",
+        "publisher_id": "5614c38f3f07e25d2900778c",
+        "humanized_name": "tombola bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/jAVRTgNtmmV2-6bqRfAJrSqZj-87Yl30aBNVoMOBzQRCh35ysE1d42a5p-E3Vy2e2DDi=s150",
+        "os": "unified",
+        "id": "59baf7f70211a6be9ed99cac",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d17a0914d30f6a19",
+      "app_id": "55d93bf102ac645ad2090002",
+      "network": "Facebook",
+      "phashion_group": "d17a0914d30f6a19",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-05",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "d17a0914d30f6a19",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Daily Free Spin",
+          "button_text": "Learn More",
+          "message": "Whirl our Daily Free Spin for free chances to win cash & more at Gala."
+        },
+        {
+          "id": "ff74ac9fcf3092da",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Daily Free Spin",
+          "button_text": "Learn More",
+          "message": "Whirl our Daily Free Spin reel for free chances to win up to \u00a350 cash and more."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93bf102ac645ad2090002",
+        "canonical_country": "GB",
+        "name": "Gala - Bingo & Casino Games",
+        "publisher_name": "Gala",
+        "publisher_id": "59baf7e50211a6be9ed99c29",
+        "humanized_name": "Gala - Bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/B9zokV-YpTRrQrxy7kTjONc3B62-EZyEOb_nPsWnDvAg1yjoiFi2_ayGNXcmc5KYXzJ_d9OwcQ6duuleO5-JLro=s150",
+        "os": "unified",
+        "id": "55d93bf102ac645ad2090002",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f7e204ec249b5b8f",
+      "app_id": "56fee3eff49ea42a540000d4",
+      "network": "Facebook",
+      "phashion_group": "f7e204ec249b5b8f",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-02",
+      "last_seen_at": "2026-04-13",
+      "creatives": [
+        {
+          "id": "f7e204ec249b5b8f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ea2cb1c5200c01e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ea2cb1c5200c01e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ea2cb1c5200c01e/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "A Whopper of an offer! \ud83c\udf54",
+          "button_text": "Learn More",
+          "message": "Nottingham you\u2019ve got a fresh new restaurant! Come on down we've got all your favourites and more!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "56fee3eff49ea42a540000d4",
+        "canonical_country": "US",
+        "name": "BURGER KING App",
+        "publisher_name": "Restaurant Brands International",
+        "publisher_id": "5b3149587f6d443bda4d2f6d",
+        "humanized_name": "BURGER KING App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/50/c4/fa50c416-7d9f-50c2-a3cd-f1cf94207b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "56fee3eff49ea42a540000d4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "92cf0070c34c83c0",
+      "app_id": "56fee3eff49ea42a540000d4",
+      "network": "Facebook",
+      "phashion_group": "92cf0070c34c83c0",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-10",
+      "last_seen_at": "2026-04-02",
+      "creatives": [
+        {
+          "id": "92cf0070c34c83c0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e9d742929a818a2e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e9d742929a818a2e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e9d742929a818a2e/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Now that's what we call value!",
+          "button_text": "Install Now",
+          "message": "Enjoy \u00a33 Whopper Wednesday and more, only when you download the BK App!"
+        },
+        {
+          "id": "a4f6f481632f92af",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e9d742929a818a2e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e9d742929a818a2e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e9d742929a818a2e/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Now that's what we call value!",
+          "button_text": "Install Now",
+          "message": "\u00a33 Whopper Wednesday sounds like an offer you can't refuse! Download the BK App for more."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "56fee3eff49ea42a540000d4",
+        "canonical_country": "US",
+        "name": "BURGER KING App",
+        "publisher_name": "Restaurant Brands International",
+        "publisher_id": "5b3149587f6d443bda4d2f6d",
+        "humanized_name": "BURGER KING App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/50/c4/fa50c416-7d9f-50c2-a3cd-f1cf94207b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "56fee3eff49ea42a540000d4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f89be3b7e72a2dc8",
+      "app_id": "56fee3eff49ea42a540000d4",
+      "network": "Facebook",
+      "phashion_group": "f89be3b7e72a2dc8",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-01",
+      "last_seen_at": "2026-04-08",
+      "creatives": [
+        {
+          "id": "f89be3b7e72a2dc8",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e1164c889040527/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e1164c889040527/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e1164c889040527/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Learn More",
+          "message": "Nottingham we're giving out FREE Whoppers ONLY on 7th April. Head to your fresh new restaurant and grab yours, while they last."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "56fee3eff49ea42a540000d4",
+        "canonical_country": "US",
+        "name": "BURGER KING App",
+        "publisher_name": "Restaurant Brands International",
+        "publisher_id": "5b3149587f6d443bda4d2f6d",
+        "humanized_name": "BURGER KING App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/50/c4/fa50c416-7d9f-50c2-a3cd-f1cf94207b1e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "56fee3eff49ea42a540000d4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "82ee028d444b53b7",
+      "app_id": "55d939bf02ac645ad2026001",
+      "network": "Facebook",
+      "phashion_group": "82ee028d444b53b7",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-13",
+      "last_seen_at": "2026-03-31",
+      "creatives": [
+        {
+          "id": "82ee028d444b53b7",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/16245adc4e9bb76e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/16245adc4e9bb76e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/16245adc4e9bb76e/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "That's Ladisfaction",
+          "button_text": "Learn More",
+          "message": "Build it your way. Get a free bet. That's Ladisfaction"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d939bf02ac645ad2026001",
+        "canonical_country": "GB",
+        "name": "Ladbrokes Sports Betting App",
+        "publisher_name": "Entain",
+        "publisher_id": "56289dc502ac6486a70076c6",
+        "humanized_name": "Ladbrokes Sports Betting App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/ad/f9/e8adf94e-b0f6-cab8-16cb-936896f71376/Ladbrokes_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d939bf02ac645ad2026001",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3b45890e708f8e3b",
+      "app_id": "55d93bf102ac645ad2090002",
+      "network": "Facebook",
+      "phashion_group": "3b45890e708f8e3b",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-06",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "3b45890e708f8e3b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1bc8e6ea8c9390/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1bc8e6ea8c9390/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1bc8e6ea8c9390/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Grab guaranteed daily prizes!",
+          "button_text": "Learn More",
+          "message": "Grab guaranteed prizes every day in our Daily Free Bingo room!"
+        },
+        {
+          "id": "d134d82e57077833",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1bc8e6ea8c9390/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1bc8e6ea8c9390/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1bc8e6ea8c9390/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Grab guaranteed daily prizes!",
+          "button_text": "Learn More",
+          "message": "Enjoy your daily dose of free fun with Daily Free Bingo & win guaranteed prizes!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93bf102ac645ad2090002",
+        "canonical_country": "GB",
+        "name": "Gala - Bingo & Casino Games",
+        "publisher_name": "Gala",
+        "publisher_id": "59baf7e50211a6be9ed99c29",
+        "humanized_name": "Gala - Bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/B9zokV-YpTRrQrxy7kTjONc3B62-EZyEOb_nPsWnDvAg1yjoiFi2_ayGNXcmc5KYXzJ_d9OwcQ6duuleO5-JLro=s150",
+        "os": "unified",
+        "id": "55d93bf102ac645ad2090002",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fcfe3fffb7fd95e6",
+      "app_id": "556f4a4fa3f735a75800008a",
+      "network": "Facebook",
+      "phashion_group": "fcfe3fffb7fd95e6",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-12",
+      "last_seen_at": "2026-04-11",
+      "creatives": [
+        {
+          "id": "fcfe3fffb7fd95e6",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa868908c51aa9f3/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa868908c51aa9f3/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/aa868908c51aa9f3/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83c\udf52 Get up to 500 Free Spins!",
+          "button_text": "Get Offer",
+          "message": "New Customer Offer: Get up to 500 Free Spins when you deposit \u00a310!\nPlus, why not check out Prize Matcher? It's our free daily game where you can win Cash, Free Spins or Golden Chips!\n18 | GambleAware.Org | T&Cs apply."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "556f4a4fa3f735a75800008a",
+        "canonical_country": "GB",
+        "name": "bet365 - Sportsbook & Casino",
+        "publisher_name": "bet365 (Hillside Technology Limited)",
+        "publisher_id": "5614c91b3f07e25d2900cf16",
+        "humanized_name": "bet365 - Sportsbook",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/52/7a/a6527a70-9721-e55c-e1e4-7626e7fca6f3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "556f4a4fa3f735a75800008a",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "422f7b98098a7efe",
+      "app_id": "5d3fa01b5c6ace393f6dc2b4",
+      "network": "Facebook",
+      "phashion_group": "422f7b98098a7efe",
+      "ad_type": "video",
+      "first_seen_at": "2023-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "422f7b98098a7efe",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/26f33f0db7a13cd0/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play MindPal Now!",
+          "button_text": "Play Game",
+          "message": "Play fun games to test your brain skills including problem solving, memory, attention and language. Play now to compare your brain score with your friends! \ud83d\ude80"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d3fa01b5c6ace393f6dc2b4",
+        "canonical_country": "US",
+        "name": "MindPal - Brain Training Games",
+        "publisher_name": "Elektron Labs",
+        "publisher_id": "5d3fa01b5c6ace393f6dc2b3",
+        "humanized_name": "MindPal - Brain Training Games",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/de/02/bede025c-9381-2b0e-f31e-a1fd8bd13d4f/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d3fa01b5c6ace393f6dc2b4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e0bb97ab170ab17b",
+      "app_id": "57a3e53efbf6796f73000035",
+      "network": "Facebook",
+      "phashion_group": "e0bb97ab170ab17b",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-11",
+      "last_seen_at": "2026-04-02",
+      "creatives": [
+        {
+          "id": "e0bb97ab170ab17b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cab4405526d4278a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cab4405526d4278a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cab4405526d4278a/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "Enter Before 26 May",
+          "button_text": "Sign Up",
+          "message": "Welcome to My Premier League Wish. Whether it\u2019s something big, something simple, or something for someone you care about, we\u2019d love to hear the Premier League wish that would mean the most to you \ud83d\udcab\nThe Premier League will bring a selection of wishes to life, with plenty of additional prizes for fans along the way \ud83c\udf81\nOpen for entries until 26 May 2026."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "57a3e53efbf6796f73000035",
+        "canonical_country": "US",
+        "name": "Premier League - Scores, News",
+        "publisher_name": "Premier League",
+        "publisher_id": "55f8933d8ac350426b0373e7",
+        "humanized_name": "Premier League",
+        "icon_url": "https://play-lh.googleusercontent.com/gvlKi4GfJUgLh6HaVbM1wz_55NVngbs1Icn4t9oDzXIyxSLiT3401TrjAJNpeJs7mKtg1Tm2yTDFv_-mkWxh=s150",
+        "os": "unified",
+        "id": "57a3e53efbf6796f73000035",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "dab02f7b99afab4b",
+      "app_id": "55d93b9302ac645ad207f208",
+      "network": "Facebook",
+      "phashion_group": "dab02f7b99afab4b",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-01",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "dab02f7b99afab4b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92846e12ec11196e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92846e12ec11196e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92846e12ec11196e/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "title": "New Slots every week!",
+          "button_text": "Learn More",
+          "message": "\ud83c\udfb0 Introducing Brett Flair & The New Slots\nDropping the newest games every week on Betfair Casino.\n18+ | T&Cs apply | Please gamble responsibly."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93b9302ac645ad207f208",
+        "canonical_country": "GB",
+        "name": "Betfair Sports Betting",
+        "publisher_name": "Betfair",
+        "publisher_id": "56289d9e02ac6486a7005316",
+        "humanized_name": "Betfair Sports Betting",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/e8/0a/8ce80ac7-3772-1724-8c2b-4e45ed93f90d/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93b9302ac645ad207f208",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "9b994f18a7cb459a",
+      "app_id": "5d00c184b9ab946db069da65",
+      "network": "Facebook",
+      "phashion_group": "9b994f18a7cb459a",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-23",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "9b994f18a7cb459a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f26b532e9ff5a708/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f26b532e9ff5a708/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f26b532e9ff5a708/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "18+. Bet Responsibly.\nGambleAware.org.",
+          "button_text": "Sign Up",
+          "message": "\ud83d\udd25 Love matchdays? Get a Free Bet Builder every Sunday on any match! \u26bd\ud83c\udfaf\nSign up, claim, and start building. 18+ and T&Cs apply*"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d00c184b9ab946db069da65",
+        "canonical_country": "GB",
+        "name": "Virgin Bet: Sports & Casino",
+        "publisher_name": "Virgin Bet",
+        "publisher_id": "5d8db79f8b200d6fab0647de",
+        "humanized_name": "Virgin Bet: Sports",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/69/38/e46938a0-4285-d877-1456-7105aeb55427/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d00c184b9ab946db069da65",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b7b1ef3d3a7f5c41",
+      "app_id": "55d93b9302ac645ad207f208",
+      "network": "Facebook",
+      "phashion_group": "b7b1ef3d3a7f5c41",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-01",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "b7b1ef3d3a7f5c41",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfd95f63a1a80a84/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfd95f63a1a80a84/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cfd95f63a1a80a84/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Betfair Casino",
+          "button_text": "Learn More",
+          "message": "\ud83c\udfb0 Introducing... Brett Flair and The New Slots. We're dropping the latest games every week at Betfair Casino. \ud83d\udc40\n18+ T&Cs Apply. Please Gamble Responsibly."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93b9302ac645ad207f208",
+        "canonical_country": "GB",
+        "name": "Betfair Sports Betting",
+        "publisher_name": "Betfair",
+        "publisher_id": "56289d9e02ac6486a7005316",
+        "humanized_name": "Betfair Sports Betting",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/e8/0a/8ce80ac7-3772-1724-8c2b-4e45ed93f90d/AppIcon-1x_U007emarketing-0-9-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93b9302ac645ad207f208",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b1844b09e4793e98",
+      "app_id": "62be6a5fbab10c69c5a0a42a",
+      "network": "Facebook",
+      "phashion_group": "b1844b09e4793e98",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "b1844b09e4793e98",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Your family fav, re-imagined",
+          "button_text": "Install Now",
+          "message": "Play MONOPOLY GO! Free"
+        },
+        {
+          "id": "e73a150a7e257606",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e1613031b15a8613/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Don't Miss Hello Kitty\u00ae Fun!",
+          "button_text": "Play Game",
+          "message": "Come Back to Hello Kitty\u00ae!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "62be6a5fbab10c69c5a0a42a",
+        "canonical_country": "US",
+        "name": "MONOPOLY GO!",
+        "publisher_name": "Scopely",
+        "publisher_id": "560c44e48ac3506439005117",
+        "humanized_name": "MONOPOLY GO!",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/7a/dd/9f7add1e-0907-6bc3-1ebb-65ede304ad9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "62be6a5fbab10c69c5a0a42a",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a501f1d09aa3b810",
+      "app_id": "582219400211a6c9240005fc",
+      "network": "Facebook",
+      "phashion_group": "a501f1d09aa3b810",
+      "ad_type": "video",
+      "first_seen_at": "2025-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a501f1d09aa3b810",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Now",
+          "button_text": "Play Game",
+          "message": "Fun puzzles & stories."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "582219400211a6c9240005fc",
+        "canonical_country": "US",
+        "name": "Gardenscapes",
+        "publisher_name": "Playrix",
+        "publisher_id": "5614b8de3f07e25d29001b9e",
+        "humanized_name": "Gardenscapes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/64/1e1964c3-4291-3b5f-c6e0-dae70c445d99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "582219400211a6c9240005fc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "28f051c1f9ed53df",
+      "app_id": "641484dd02fbee78c17c735e",
+      "network": "Facebook",
+      "phashion_group": "28f051c1f9ed53df",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-22",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "28f051c1f9ed53df",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4700917e12aa0bc1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4700917e12aa0bc1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4700917e12aa0bc1/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "title": "Play Free,Win Big!",
+          "button_text": "Install Now",
+          "message": "\ud83d\udc30 Fair! Free! Fun! \ud83e\udd5a No purchase needed! No rigged games! Grab your Easter luck for FREE! \ud83d\udea2\ud83c\udf40"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "641484dd02fbee78c17c735e",
+        "canonical_country": "US",
+        "name": "Bingo Voyage: Live Bingo Games",
+        "publisher_name": "Vertex Games",
+        "publisher_id": "65dfbf52152a895dd4bac6e1",
+        "humanized_name": "Bingo Voyage",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/7a/b6/337ab67d-8b58-d724-0122-d62baac49f7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "641484dd02fbee78c17c735e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "be343a7a9e1c7cbd",
+      "app_id": "558e14af9b83754564000655",
+      "network": "Facebook",
+      "phashion_group": "be343a7a9e1c7cbd",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-03",
+      "last_seen_at": "2026-04-13",
+      "creatives": [
+        {
+          "id": "be343a7a9e1c7cbd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "Spin to Win & Win a Share of \u00a35K \ud83d\udc0e \ud83d\udd25",
+          "button_text": "Sign Up",
+          "message": "RUNNER ROULETTE IS LIVE.. Pick your horse the right way \ud83d\udd25\nSpin the Runner Roulette and get your Grand National horse \ud83d\udc0e\n\ud83d\udcb0 Also win a share of \u00a35,000\n\ud83c\udf9f\ufe0f FREE to enter\nWill your runner bring it home? \ud83d\udc40\nT&Cs apply | 18+ Gamble responsibly"
+        },
+        {
+          "id": "ccbd9ccabd565014",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Sign Up",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "558e14af9b83754564000655",
+        "canonical_country": "GB",
+        "name": "Racing Post Newspaper",
+        "publisher_name": "Racing Post",
+        "publisher_id": "55f986d08ac35052cd000d61",
+        "humanized_name": "Racing Post Newspaper",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/36/12/05361212-be6e-c473-5c8e-040752f1c321/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "558e14af9b83754564000655",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d683378596d7773",
+      "app_id": "55c5240f02ac64f9c0002a31",
+      "network": "Facebook",
+      "phashion_group": "5d683378596d7773",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-04",
+      "last_seen_at": "2026-04-21",
+      "creatives": [
+        {
+          "id": "5d683378596d7773",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2d4d6b9bbd3f27fe/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Start now!",
+          "button_text": "Play Game",
+          "message": "For those who dream of piloting their own Robot!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5240f02ac64f9c0002a31",
+        "canonical_country": "US",
+        "name": "War Robots Multiplayer Battles",
+        "publisher_name": "MY.GAMES",
+        "publisher_id": "66887d8fb5fb802d18f2078a",
+        "humanized_name": "War Robots Multiplayer Battles",
+        "icon_url": "https://play-lh.googleusercontent.com/6u6C8wZH8wlPsEhUYOAtW0qpG2Kh11XyTqUKnMIsTcpNgfTTeC_qerDlTu--64l41bY=s150",
+        "os": "unified",
+        "id": "55c5240f02ac64f9c0002a31",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

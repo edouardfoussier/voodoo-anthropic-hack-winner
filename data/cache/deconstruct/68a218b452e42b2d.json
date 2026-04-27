@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "68a218b452e42b2d",
+    "ad_unit_id": "68a218b452e42b2d",
+    "app_id": "6645186f04a3235f79b44cbe",
+    "advertiser_name": "Find The Cat - Spot It!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/preview",
+    "phashion_group": "68a218b452e42b2d",
+    "share": null,
+    "first_seen_at": "2025-12-28T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Proven to reduce anxiety & ADHD!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A UGC-style woman introduces a puzzle game that transitions into gameplay.",
+    "visual_action": "A woman speaks directly to the camera before a screen wipe reveals a black-and-white hidden object game set in a barn.",
+    "text_overlay": "you don't wanna miss this puzzle",
+    "voiceover_transcript": "You don't wanna miss this puzzle.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "UGC-style woman introduces the game to the camera.",
+    "Gameplay footage showing a hidden object puzzle where cats are found in a barn.",
+    "Cut to a real cat lying next to a phone playing the game.",
+    "Close-up shots of the real cat wearing a scarf, emphasizing a cozy, slow-paced vibe.",
+    "Final end card with game logo and a call-to-action button."
+  ],
+  "on_screen_text": [
+    "you don't wanna",
+    "miss this puzzle",
+    "Munchie loves to play find the cat",
+    "though he wishes for a human version for sure",
+    "slow puzzle nowhere to rush",
+    "and he can drink tea while playing",
+    "anywhere, anytime",
+    "Find The Cat",
+    "PLAY"
+  ],
+  "cta_text": "PLAY",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#2B2B2B",
+    "#F5F5DC"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Cat owners and casual puzzle fans looking for a relaxing, low-stress mobile game.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001805
+}

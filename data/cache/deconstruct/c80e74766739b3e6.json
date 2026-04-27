@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "c80e74766739b3e6",
+    "ad_unit_id": "c80e74766739b3e6",
+    "app_id": "5fdc269d0dd7512c9bb6675f",
+    "advertiser_name": "777Real(777リアル) パチンコ･パチスロアプリ",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c0fc23c937cbd8b2/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c0fc23c937cbd8b2/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c0fc23c937cbd8b2/preview",
+    "phashion_group": "c80e74766739b3e6",
+    "share": null,
+    "first_seen_at": "2025-07-04T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "＼パチンコ・パチスロが無料で遊べる！／",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy slot machine jackpot sequence with flashing lights and anime visuals.",
+    "visual_action": "The slot machine reels spin and land on a winning 'V' combination with explosive visual effects.",
+    "text_overlay": "SG RUSH",
+    "voiceover_transcript": "モンキーターン！",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Close-up of the slot machine reels hitting a jackpot with 'V' symbols.",
+    "Full view of the Monkey Turn V machine interface featuring anime character art.",
+    "Multi-screen display showing various gameplay modes and bonus rounds simultaneously.",
+    "Introduction of the '777 Real' app logo over active gameplay footage.",
+    "Final call-to-action screen with download links and 'Install Now' text."
+  ],
+  "on_screen_text": [
+    "SG RUSH",
+    "TOTAL 379枚",
+    "大人気機種 モンキーターンV",
+    "が無料で遊べるアプリ！",
+    "777 Real",
+    "いますぐインストール！"
+  ],
+  "cta_text": "いますぐインストール！",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#000000",
+    "#FFFFFF",
+    "#E60012"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Japanese adult males interested in pachinko and anime-themed slot games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014290000000000001
+}

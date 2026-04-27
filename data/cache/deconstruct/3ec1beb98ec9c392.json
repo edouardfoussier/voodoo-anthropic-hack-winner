@@ -1,0 +1,68 @@
+{
+  "raw": {
+    "creative_id": "3ec1beb98ec9c392",
+    "ad_unit_id": "3ec1beb98ec9c392",
+    "app_id": "6495957f54a0f87c94cce15f",
+    "advertiser_name": "Venue - Relaxing Design Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a5499fea41ef51d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a5499fea41ef51d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2a5499fea41ef51d/preview",
+    "phashion_group": "3ec1beb98ec9c392",
+    "share": null,
+    "first_seen_at": "2025-09-24T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 7.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "From weddings 💍 to corporate events, it’s your chance to build and run the perfect venue. 'Venue' gives you the freedom to design, manage, and succeed in style! 🎩",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced interior design customization showing immediate visual changes.",
+    "visual_action": "A user taps through various marble and wood textures for a kitchen, then quickly switches to fabric options for a wedding venue.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Quickly cycling through kitchen countertop and cabinet materials to show customization.",
+    "Switching between different colored organza drapes in a wedding reception hall.",
+    "Confirmation screen showing the design has been submitted for voting with a 2-hour timer.",
+    "A montage of various completed interior and exterior design projects in a grid layout.",
+    "Final brand logo 'VENUE' with app store download buttons."
+  ],
+  "on_screen_text": [
+    "Slate Whisp Marble",
+    "Coffee Terrazzo",
+    "Pedal Terrazzo",
+    "Balsa",
+    "Sand",
+    "Cloud Organza",
+    "Ivory Organza",
+    "Sky Organza",
+    "Celadon Organza",
+    "Rose Organza",
+    "Lilac Organza",
+    "Grey Organza",
+    "Design Sent To Voting!",
+    "Result ready in: 2h 0m",
+    "VENUE",
+    "GET IT ON Google Play",
+    "Download on the App Store"
+  ],
+  "cta_text": "VENUE",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#F4C2C2",
+    "#FFFFFF",
+    "#D3D3D3"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Women 25-50 who enjoy interior design, home decor, and creative simulation games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001653
+}

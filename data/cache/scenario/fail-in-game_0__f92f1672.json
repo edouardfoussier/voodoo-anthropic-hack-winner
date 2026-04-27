@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_UHMV9QsycK9JiqvZSoZ9DP2x?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVUhNVjlRc3ljSzlKaXF2WlNvWjlEUDJ4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=SvdLGfWzM9ucy2rxn7BuqrrwgfsQxEnB1nmoB5VppC8MJoNZLZmZGY69yrtBhiMCx2-1iBPWcF4ewXLzkT7mdsdBi0QoV84ZDflYazBKiFbuT-DKkmPp20gIfLl0ydDX7dZNwGAa%7EkPRGhghr0buCVb-Bz3aOKTlmBTYsZ-iKg4aRZuOXWnPXHna%7EiC0QXTNE6MHGFSk5slX0Ewcd1ztsEGrraCIn5qdpHuHPBtdSTDV65hQNcKwT%7EwGjDsTiU%7EvNWLy08YNq2RtY8s0cF-Sw4WBFV6X4dHZLyPjmau1gekf-GQ5p6Y5kfUsGRmETdKjAEt9c4V-8akEThldnBh5Qg__",
+  "job_id": "job_F7FVi3xh26MSoLLtKwZk6H7R",
+  "asset_id": "asset_UHMV9QsycK9JiqvZSoZ9DP2x",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical mobile ad still, authentic in-game screenshot of Crazy Kick! Fun Football arcade soccer game: third-person behind-the-ball view on a sandy-yellow (#F5D77F) low-poly football pitch with chalk-white lines, sky-blue (#1CB4F0) stadium and sky in background, white soccer ball mid-air with a glowing dotted trajectory trail curving toward the goal, two simple stickman defenders in colored jerseys lunging to block, stickman goalkeeper diving, level progression tracker bar at top of screen, lime-green (#99CC33) UI chrome and HUD buttons, bold white impact-font on-screen text 'WHY IS THIS LEVEL SO HARD?' across the upper third, 3D hyper-casual low-poly bright and colorful with simple stickman characters, vibrant sunny lighting, mobile game UI, no logos",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

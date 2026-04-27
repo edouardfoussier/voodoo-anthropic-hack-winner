@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "21019639de46a839",
+    "ad_unit_id": "21019639de46a839",
+    "app_id": "6153b4a2f3e690163b93ec0b",
+    "advertiser_name": "Metalstorm: Modern Air Combat",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0065ab237f733083/preview",
+    "phashion_group": "21019639de46a839",
+    "share": null,
+    "first_seen_at": "2026-04-04T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🔒 Lock on. 🎯 Fire. 💥 Destroy the enemy in real PvP matches.",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-speed aerial dogfight under a bridge with explosions.",
+    "visual_action": "A fighter jet flies low under a bridge while dodging incoming fire and explosions.",
+    "text_overlay": "METALSTORM",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Jet maneuvers under a bridge amidst heavy fire and laser beams.",
+    "Close-up of jet engines and rapid-fire gun combat in a sunset sky.",
+    "High-speed chase through a desert canyon with multiple explosions and missile trails.",
+    "Jet performs evasive maneuvers to dodge a homing missile in the night sky.",
+    "End card showing the game logo and 'PLAY NOW FOR FREE' call to action."
+  ],
+  "on_screen_text": [
+    "METALSTORM",
+    "PLAY NOW FOR FREE",
+    "Download on the App Store",
+    "GET IT ON Google Play",
+    "EPIC GAMES STORE"
+  ],
+  "cta_text": "PLAY NOW FOR FREE",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#000000",
+    "#FF4500",
+    "#4A4A4A"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy high-intensity flight simulators and aerial combat games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016779999999999998
+}

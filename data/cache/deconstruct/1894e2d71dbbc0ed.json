@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "1894e2d71dbbc0ed",
+    "ad_unit_id": "1894e2d71dbbc0ed",
+    "app_id": "618208ab32fe426c231091d4",
+    "advertiser_name": "456 Run Challenge: Clash 3D",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/402daf68c6c555b1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/402daf68c6c555b1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/402daf68c6c555b1/preview",
+    "phashion_group": "1894e2d71dbbc0ed",
+    "share": null,
+    "first_seen_at": "2026-01-02T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "A Passion for Running: Join the 456 Run Challenge",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A Roblox-style character in a Squid Game tracksuit lies nervously in a bunk bed.",
+    "visual_action": "The camera pans across a dark, crowded dormitory filled with bunk beds while the character looks around anxiously.",
+    "text_overlay": "POV: try to sleep in squid game",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "A Roblox character in a green tracksuit lies in a bunk bed looking anxious.",
+    "The camera pans through the dark dormitory showing rows of bunk beds and other players.",
+    "A player from an upper bunk jumps down suddenly, startling the main character.",
+    "The scene cuts to gameplay of a character jumping across floating ice platforms in a winter-themed challenge.",
+    "A hand appears on screen to tap the 'Play Now' button over the gameplay footage."
+  ],
+  "on_screen_text": [
+    "POV: try to sleep in squid game",
+    "456 Run Challenge",
+    "Play Now"
+  ],
+  "cta_text": "Play Now",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#1A1A2E",
+    "#2D5A4C",
+    "#87CEEB"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual gamers and fans of the Squid Game aesthetic who enjoy simple, high-stakes runner games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016840000000000002
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_8FcwZCDrYdu8CTyr4R49NBJR?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF84RmN3WkNEcllkdThDVHlyNFI0OU5CSlIqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=dnNNleucASDGCPzZz2RsxqpggAMumHZ6BzA9U8DkuKpUT0IEiJj8p1s-TI8kjHZFmWZhbkWV36IGe9QgLDK1L%7E%7EPu4ZliIs3wtnWRFXcmsulP%7E%7EYQ83YkwxdEqa189RQ8cz8m15Yc7jZSvjUCUlIlu-MNl4Dt-nXbUpvq0bgCc8Hx2igcplQemtgiKTC8k0afBhHVaONkuVCXwfTCUnoKDgMsdeIXPbaHIQlfhFpMcRZKnWlC6fx2GAmIHBJLLqZw6pdwl0Wf3AGJu30K6HMHgIU66w05-iTQSGB1zgo9MZkQZUEuie0OZ1gDpta8bfkTpsGpFAKahL%7Ehi74TuvwEw__",
+  "job_id": "job_W5exCPoyQpmhSbS88mAJVHGT",
+  "asset_id": "asset_8FcwZCDrYdu8CTyr4R49NBJR",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Storyboard frame, aspect 9:16, in-game Archery Clash! moment: a charged arrow mid-air splitting an incoming enemy arrow in two, sparks and motion lines, blue (#2A9DF4) arena banners blurred behind, yellow (#FFD700) impact burst, green (#32CD32) 'PSYCHOPATH' meter maxed top-right, aiming reticle still visible, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text 'PSYCHOPATH \ud83c\udfaf' slamming center. [Audio: VO satisfied 'no way' / hard trap drop 140BPM / arrow-on-arrow metal clink, bass-boom impact, crowd-roar swell]",
+  "mode": "video",
+  "input_frames": 1,
+  "tail_image": false,
+  "audio": false
+}

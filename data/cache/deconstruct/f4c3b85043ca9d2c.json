@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "f4c3b85043ca9d2c",
+    "ad_unit_id": "f4c3b85043ca9d2c",
+    "app_id": "66193b9ead4adb2170e90f91",
+    "advertiser_name": "Amikin Village: Magic Sim RPG",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0051df9a670868eb/preview",
+    "phashion_group": "f4c3b85043ca9d2c",
+    "share": null,
+    "first_seen_at": "2026-04-07T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 7.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A female UGC creator enthusiastically introduces Amikin Village while playing on her phone.",
+    "visual_action": "Split-screen showing a blonde woman reacting to gameplay on the top and active in-game combat on the bottom.",
+    "text_overlay": null,
+    "voiceover_transcript": "Esse jogo é o Amikin Village e é muito divertido. Você coleciona Amikins...",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "UGC creator introduces the game Amikin Village with a split-screen layout.",
+    "Gameplay footage shows a character battling a deer-like creature in a lush green field.",
+    "The character captures a creature and the creator explains the collection and building mechanics.",
+    "A transition to base-building gameplay showing resource gathering and village construction.",
+    "The creator expresses her addiction to the game while high-action combat against a boss creature is shown."
+  ],
+  "on_screen_text": [
+    "AMIKIN VILLAGE",
+    "700/700",
+    "LVL 12"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#76b041",
+    "#4a90e2",
+    "#ff00ff"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual mobile gamers who enjoy monster-collecting and base-building adventures.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0011639999999999999
+}

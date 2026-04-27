@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-in-game",
+  "target_game_id": "1469889140",
+  "title": "Why Is This Level So Hard? — Soccer Fail Bait",
+  "hook_3s": "Finger swipes, ball curves wide, hits the post — stickman keeper laughs. \"WHY IS THIS LEVEL SO HARD?\"",
+  "scene_flow": [
+    "0-3s: Tight over-the-shoulder shot of the sandy-yellow pitch. A finger swipes the ball — trajectory trail arcs, ball clangs the post and bounces out. Big red FAIL stamp.",
+    "3-7s: Retry. Finger swipes again, ball weaves past two stickman defenders but the keeper tips it over. Level tracker shows 'LEVEL 4' still locked. Confused emoji overlay.",
+    "7-11s: Third attempt — exaggerated wobbly swipe, ball loops backward into own net. Stickman shooter face-palms. Overlay: 'CAN YOU WIN?'",
+    "11-15s: Cursor taps a perfect curved swipe, ball rockets top-corner, net ripples, confetti pops in #99CC33 green. CTA slams in: PLAY FREE."
+  ],
+  "visual_direction": "Lean fully into Crazy Kick's sunny, low-poly DNA: sandy-yellow (#F5D77F) pitch with chalk-white lines, sky-blue (#1CB4F0) stadium backdrop, lime-green (#99CC33) UI chrome and confetti. Keep the third-person behind-the-ball camera identical to the live game, with the signature dotted trajectory trail, level progression bar at the top, and simple stickman defenders/keeper. Animation should feel intentionally clumsy on the fail beats (overshoots, wobbly trail) and crisp on the win beat — the contrast sells the \"looks easy, actually tricky\" bait.",
+  "text_overlays": [
+    "WHY IS THIS LEVEL SO HARD?",
+    "99% FAIL HERE 😩",
+    "CAN YOU WIN?",
+    "ONE MORE TRY...",
+    "TOP CORNER! 🔥",
+    "PLAY FREE"
+  ],
+  "cta": "PLAY FREE",
+  "rationale": "Voodoo's current rotation on Crazy Kick is all straight gameplay/glory copy (\"Kick your way to glory\") with zero fail-bait or curiosity-gap framing — this brief imports the market-winning \"WHY IS THIS LEVEL SO HARD / CAN YOU WIN?\" hook formula they're missing. UA should test this against the existing Admob video stack as a CTR/IPM lift play; the fail→win arc also doubles as a soft tutorial for the swipe mechanic, which should improve D1 retention on installs from this creative.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical mobile ad still, authentic in-game screenshot of Crazy Kick! Fun Football arcade soccer game: third-person behind-the-ball view on a sandy-yellow (#F5D77F) low-poly football pitch with chalk-white lines, sky-blue (#1CB4F0) stadium and sky in background, white soccer ball mid-air with a glowing dotted trajectory trail curving toward the goal, two simple stickman defenders in colored jerseys lunging to block, stickman goalkeeper diving, level progression tracker bar at top of screen, lime-green (#99CC33) UI chrome and HUD buttons, bold white impact-font on-screen text 'WHY IS THIS LEVEL SO HARD?' across the upper third, 3D hyper-casual low-poly bright and colorful with simple stickman characters, vibrant sunny lighting, mobile game UI, no logos",
+    "Storyboard fail beat, 9:16 vertical, in-game frame from Crazy Kick! Fun Football: ball clanging the goalpost and bouncing back, dotted trajectory trail curving wide and missing, sandy-yellow (#F5D77F) pitch, sky-blue (#1CB4F0) backdrop, lime-green (#99CC33) level tracker and HUD at top showing 'LEVEL 4', stickman goalkeeper with arms up, stickman defender stickmen in the box, large red 'FAIL' stamp overlay and white text '99% FAIL HERE 😩', 3D hyper-casual low-poly bright and colorful with simple stickman characters, authentic mobile gameplay screenshot composition, no logos",
+    "Storyboard win beat, 9:16 vertical, in-game frame from Crazy Kick! Fun Football: white soccer ball ripping into the top-corner of the net, glowing dotted trajectory trail arcing perfectly past a diving stickman keeper, net rippling, sandy-yellow (#F5D77F) pitch, sky-blue (#1CB4F0) stadium, lime-green (#99CC33) confetti burst and UI chrome, level progression bar filling up, bold white text 'TOP CORNER! 🔥' and a green 'PLAY FREE' CTA button at bottom, 3D hyper-casual low-poly bright and colorful with simple stickman characters, energetic competitive mobile game UI, authentic in-game screenshot, no logos"
+  ]
+}

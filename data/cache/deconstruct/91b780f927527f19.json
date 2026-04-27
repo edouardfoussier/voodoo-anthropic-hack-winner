@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "91b780f927527f19",
+    "ad_unit_id": "91b780f927527f19",
+    "app_id": "55d93b9302ac645ad207f208",
+    "advertiser_name": "Betfair Sports Betting",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8eb33b80ad8dccb0/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8eb33b80ad8dccb0/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8eb33b80ad8dccb0/preview",
+    "phashion_group": "91b780f927527f19",
+    "share": null,
+    "first_seen_at": "2026-04-08T00:00:00",
+    "last_seen_at": "2026-04-09T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Stick with the favourites",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-contrast promotional offer for horse racing betting.",
+    "visual_action": "Bold black text 'BET £10' appears on a bright yellow background, quickly expanding to show the full 'GET £10' offer with horse racing footage in the background.",
+    "text_overlay": "AVAILABLE EVERY DAY OF AINTREE BET £10 GET £10 ON RACING MULTIS",
+    "voiceover_transcript": "With Betfair, bet ten pound and get a free ten pound bet on racing multis.",
+    "emotional_pitch": "other"
+  },
+  "scene_flow": [
+    "Initial flash of 'BET £10' text on a solid yellow background.",
+    "Transition to the full offer 'BET £10 GET £10' with a blurred horse racing clip behind the text.",
+    "Rapid zoom-in on the Betfair logo and stylized typography.",
+    "Final static frame with the Betfair logo and mandatory gambling awareness disclaimers."
+  ],
+  "on_screen_text": [
+    "AVAILABLE EVERY DAY OF AINTREE",
+    "BET £10",
+    "GET £10",
+    "ON RACING MULTIS",
+    "18+ GambleAware",
+    "betfair"
+  ],
+  "cta_text": "BET £10 GET £10",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFCC00",
+    "#000000",
+    "#FFFFFF"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult sports bettors in the UK looking for promotional incentives during major horse racing events like Aintree.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001498
+}

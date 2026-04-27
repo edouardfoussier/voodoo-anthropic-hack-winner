@@ -1,0 +1,154 @@
+{
+  "count": 108,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "9136fdde919cd968",
+      "app_id": "681eb48a7a54db51c803a365",
+      "network": "TikTok",
+      "phashion_group": "9136fdde919cd968",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-18",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "9136fdde919cd968",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bd8495edd3938f9/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bd8495edd3938f9/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bd8495edd3938f9/thumb",
+          "video_duration": 9,
+          "width": 540,
+          "height": 960,
+          "message": "Foodie Sizzle feels like a soft daydream, join with me pls"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "681eb48a7a54db51c803a365",
+        "canonical_country": "US",
+        "name": "Foodie Sizzle",
+        "publisher_name": "Onesoft",
+        "publisher_id": "5b6de3cab80f52168dc0abc3",
+        "humanized_name": "Foodie Sizzle",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/c5/ad/19c5adf1-b8cc-3c97-1f4d-073a70c143cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "681eb48a7a54db51c803a365",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0d364815e2ca3d52",
+      "app_id": "6573c39d5c3b423d5d04560f",
+      "network": "TikTok",
+      "phashion_group": "0d364815e2ca3d52",
+      "ad_type": "video",
+      "first_seen_at": "2025-06-02",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "0d364815e2ca3d52",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/479f55e8080d623a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/479f55e8080d623a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/479f55e8080d623a/thumb",
+          "video_duration": 13,
+          "width": 720,
+          "height": 1280,
+          "message": "Collect, build, survive. Do whatever it takes to live in the Zombie Apocalypse!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6573c39d5c3b423d5d04560f",
+        "canonical_country": "US",
+        "name": "Dark War:Survival",
+        "publisher_name": "Florere Game",
+        "publisher_id": "6736d19c146810f6057add10",
+        "humanized_name": "Dark War:Survival",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/d9/c5/98d9c5f9-084a-de8c-120c-7a17748750d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6573c39d5c3b423d5d04560f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0f1d747b3e7d863f",
+      "app_id": "66d27b94782b200e42488550",
+      "network": "TikTok",
+      "phashion_group": "0f1d747b3e7d863f",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-13",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "0f1d747b3e7d863f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/037621dcaf59896e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/037621dcaf59896e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/037621dcaf59896e/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "Hey, come and solve this tricky puzzle! I'm stuck with this level!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66d27b94782b200e42488550",
+        "canonical_country": "US",
+        "name": "Perfect Tidy",
+        "publisher_name": "Onesoft",
+        "publisher_id": "5b6de3cab80f52168dc0abc3",
+        "humanized_name": "Perfect Tidy",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/fd/f4/78fdf49e-865e-8a46-c270-d33a0937081e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66d27b94782b200e42488550",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "533f467cac384b24",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "TikTok",
+      "phashion_group": "533f467cac384b24",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-06",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "533f467cac384b24",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03e1d70de3d56c8d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03e1d70de3d56c8d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03e1d70de3d56c8d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "BLOCK BLAST IS MY LIFE\uff01"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "count": 4846,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "0a72d2ab7841d76a",
+      "app_id": "55d93bf102ac645ad2090002",
+      "network": "Facebook",
+      "phashion_group": "0a72d2ab7841d76a",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-05",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "0a72d2ab7841d76a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join Gala",
+          "button_text": "Sign Up",
+          "message": "Get 100 Free Spins if you deposit & play \u00a310 on slots. Sound like your kind of fun?"
+        },
+        {
+          "id": "246c36e08dea5b58",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Daily Free Spin",
+          "button_text": "Learn More",
+          "message": "Whirl our Daily Free Spin reel for free chances to win up to \u00a350 cash and more."
+        },
+        {
+          "id": "562667873a3f8f4b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Grab guaranteed daily prizes!",
+          "button_text": "Learn More",
+          "message": "Grab guaranteed prizes every day in our Daily Free Bingo room!"
+        },
+        {
+          "id": "bc5736a71db77943",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Grab guaranteed daily prizes!",
+          "button_text": "Learn More",
+          "message": "Enjoy your daily dose of free fun with Daily Free Bingo & win guaranteed prizes!"
+        },
+        {
+          "id": "e1c2045f99365ce2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join Gala",
+          "button_text": "Learn More",
+          "message": "Collect free Gala Points to use on wins you want at the Gala Rewards Club. There are more chances to win than ever at Gala."
+        },
+        {
+          "id": "e9eb976f2a2bbd11",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join Gala",
+          "button_text": "Sign Up",
+          "message": "Get 100 Free Spins if you deposit & play \u00a310 on slots. Sound like your kind of fun? Gala, where a little joy goes a long way."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93bf102ac645ad2090002",
+        "canonical_country": "GB",
+        "name": "Gala - Bingo & Casino Games",
+        "publisher_name": "Gala",
+        "publisher_id": "59baf7e50211a6be9ed99c29",
+        "humanized_name": "Gala - Bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/B9zokV-YpTRrQrxy7kTjONc3B62-EZyEOb_nPsWnDvAg1yjoiFi2_ayGNXcmc5KYXzJ_d9OwcQ6duuleO5-JLro=s150",
+        "os": "unified",
+        "id": "55d93bf102ac645ad2090002",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a372808901bcfa42",
+      "app_id": "55d939bf02ac645ad2026001",
+      "network": "Facebook",
+      "phashion_group": "a372808901bcfa42",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-09",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a372808901bcfa42",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/77bf03e24608e28e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/77bf03e24608e28e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/77bf03e24608e28e/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Wild Tomb \ud83d\udc8e",
+          "button_text": "Learn More",
+          "message": "Explore hidden treasures \ud83c\udffa\ud83d\udc8e Unlock rewards! That's Ladisfaction! \ud83e\udd29"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d939bf02ac645ad2026001",
+        "canonical_country": "GB",
+        "name": "Ladbrokes Sports Betting App",
+        "publisher_name": "Entain",
+        "publisher_id": "56289dc502ac6486a70076c6",
+        "humanized_name": "Ladbrokes Sports Betting App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/ad/f9/e8adf94e-b0f6-cab8-16cb-936896f71376/Ladbrokes_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d939bf02ac645ad2026001",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "be343a7a9e1c7cbd",
+      "app_id": "558e14af9b83754564000655",
+      "network": "Facebook",
+      "phashion_group": "be343a7a9e1c7cbd",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-03",
+      "last_seen_at": "2026-04-13",
+      "creatives": [
+        {
+          "id": "be343a7a9e1c7cbd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "Spin to Win & Win a Share of \u00a35K \ud83d\udc0e \ud83d\udd25",
+          "button_text": "Sign Up",
+          "message": "RUNNER ROULETTE IS LIVE.. Pick your horse the right way \ud83d\udd25\nSpin the Runner Roulette and get your Grand National horse \ud83d\udc0e\n\ud83d\udcb0 Also win a share of \u00a35,000\n\ud83c\udf9f\ufe0f FREE to enter\nWill your runner bring it home? \ud83d\udc40\nT&Cs apply | 18+ Gamble responsibly"
+        },
+        {
+          "id": "ccbd9ccabd565014",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/92a6f3fa4478cdb1/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "button_text": "Sign Up",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "558e14af9b83754564000655",
+        "canonical_country": "GB",
+        "name": "Racing Post Newspaper",
+        "publisher_name": "Racing Post",
+        "publisher_id": "55f986d08ac35052cd000d61",
+        "humanized_name": "Racing Post Newspaper",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/36/12/05361212-be6e-c473-5c8e-040752f1c321/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "558e14af9b83754564000655",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "8f6022dd3c3dd4a2",
+      "app_id": "55d939bf02ac645ad2026001",
+      "network": "Facebook",
+      "phashion_group": "8f6022dd3c3dd4a2",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-07",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "8f6022dd3c3dd4a2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2d4473fa96eadbe/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2d4473fa96eadbe/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d2d4473fa96eadbe/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "The GOT slot is here!\ud83d\udd25",
+          "button_text": "Learn More",
+          "message": "Spin the GOT Slot \ud83d\udc51 Take the Throne & win up to \u00a385K\ud83d\udd25That's Ladisfaction! \ud83e\udd29"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d939bf02ac645ad2026001",
+        "canonical_country": "GB",
+        "name": "Ladbrokes Sports Betting App",
+        "publisher_name": "Entain",
+        "publisher_id": "56289dc502ac6486a70076c6",
+        "humanized_name": "Ladbrokes Sports Betting App",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/ad/f9/e8adf94e-b0f6-cab8-16cb-936896f71376/Ladbrokes_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d939bf02ac645ad2026001",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

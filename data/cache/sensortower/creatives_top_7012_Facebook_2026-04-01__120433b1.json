@@ -1,0 +1,84 @@
+{
+  "count": 647,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "94abdde96b93e53e",
+      "app_id": "576fc77df7b5cc0861000419",
+      "network": "Facebook",
+      "phashion_group": "94abdde96b93e53e",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-03",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "94abdde96b93e53e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f4b73069b92fc73/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f4b73069b92fc73/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f4b73069b92fc73/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The dragons have taken flight! \ud83d\udc32",
+          "button_text": "Play Game",
+          "message": "Come back to the game! \ud83d\udca5"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "576fc77df7b5cc0861000419",
+        "canonical_country": "US",
+        "name": "Empires & Puzzles: Match-3 RPG",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Empires & Puzzles",
+        "icon_url": "https://play-lh.googleusercontent.com/dVCcOxLus9TJE0FD6QtkUcbmCFeqJacSXgou4EfKGlbZGzEkn6DCz2LN9w8BmA6WjnAZjDQIHjPuFZzIM_4xLA=s150",
+        "os": "unified",
+        "id": "576fc77df7b5cc0861000419",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f8b53e0f8d3ee77a",
+      "app_id": "5ff50fc745acaa307cbafd30",
+      "network": "Facebook",
+      "phashion_group": "f8b53e0f8d3ee77a",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-09",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "f8b53e0f8d3ee77a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326dc902a76a0775/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326dc902a76a0775/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/326dc902a76a0775/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "Merge NOW!",
+          "button_text": "Play Game",
+          "message": "I just wanted to try it"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5ff50fc745acaa307cbafd30",
+        "canonical_country": "US",
+        "name": "Merge Elves : Merge 3 Puzzle",
+        "publisher_name": "Ivy Mobile",
+        "publisher_id": "5bc0f7179a22547cba413c2e",
+        "humanized_name": "Merge Elves",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/c8/c2/b3c8c231-db84-d73a-128b-5d46fdd5ae12/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5ff50fc745acaa307cbafd30",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

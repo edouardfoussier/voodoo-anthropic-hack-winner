@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "154dc357b43b88a8",
+    "ad_unit_id": "154dc357b43b88a8",
+    "app_id": "55c506cf02ac64f9c000215e",
+    "advertiser_name": "WSOP Poker: Texas Holdem Game",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0ef52ffc23d1c25f/preview",
+    "phashion_group": "154dc357b43b88a8",
+    "share": null,
+    "first_seen_at": "2026-04-22T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "You are a WSOP player, of course you get a Daily Bonus 🤑",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy text-based announcement with neon visuals.",
+    "visual_action": "Rapidly flashing large 3D text overlays against a dark background with blue and purple laser beams.",
+    "text_overlay": "BIGGEST WELCOME BACK EVER!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "High-energy text intro announcing a major update or return.",
+    "Showcase of massive chip stacks and spinning reward wheels on a poker table.",
+    "Transition through flying poker chips to a character reveal.",
+    "Introduction of the 'Loot Lane' feature with multipliers and slot icons.",
+    "End card with the game logo and a 'Claim Now' button."
+  ],
+  "on_screen_text": [
+    "BIGGEST",
+    "WELCOME",
+    "BACK",
+    "EVER!",
+    "GOLD & SILVER WHEELS",
+    "HUGE STACK OF CHIPS!",
+    "EPIC BENEFITS BUNDLE!",
+    "THE ALL-NEW LOOTLANE",
+    "the chips are on me!",
+    "WORLD SERIES OF POKER",
+    "CLAIM NOW"
+  ],
+  "cta_text": "CLAIM NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#120038",
+    "#FFD700",
+    "#00AEEF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Competitive poker players and social casino fans who enjoy high-energy rewards and progression systems.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017829999999999999
+}

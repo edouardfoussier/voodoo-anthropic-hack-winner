@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "b94faba3cf97df89",
+    "ad_unit_id": "b94faba3cf97df89",
+    "app_id": "55fac6f202ac64c13c000081",
+    "advertiser_name": "Quick Hit Casino - Vegas Slots",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12dd82b513a673a1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12dd82b513a673a1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/12dd82b513a673a1/preview",
+    "phashion_group": "b94faba3cf97df89",
+    "share": null,
+    "first_seen_at": "2026-03-27T00:00:00",
+    "last_seen_at": "2026-04-05T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🤩come back and WIN now💰",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Animated cats jumping over golden eggs with a slot game logo.",
+    "visual_action": "Two white cats jump and dance in front of a field of golden eggs with lightning bolts against an Asian city backdrop.",
+    "text_overlay": "EggLink ASTRO CAT",
+    "voiceover_transcript": "Astro Cat!",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Intro with dancing cats and golden eggs over an Asian city background.",
+    "Transition to a slot machine interface with various symbols spinning.",
+    "The reels land on a full screen of golden eggs, triggering a win.",
+    "A cartoon fox character celebrates and vacuums up gold coins.",
+    "Final end card with game logo and 'NEW SLOT ALERT!' message."
+  ],
+  "on_screen_text": [
+    "EggLink ASTRO CAT",
+    "Quick Hit SLOTS",
+    "NEW SLOT ALERT!",
+    "OPEN APP"
+  ],
+  "cta_text": "OPEN APP",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#FFD700",
+    "#800080",
+    "#228B22"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult social casino players who enjoy Asian-themed slot machines and high-energy animations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001627
+}

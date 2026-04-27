@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 20,
+  "mechanic_match": 15,
+  "audience_match": 55,
+  "overall": 22,
+  "rationale": "This is a Bus Jam / parking-puzzle \"fail bait\" archetype — a tap-to-solve color-matching loop that has zero mechanical overlap with aquapark.io's physics-based sliding/bumping racing core. The palette (green/red/blue) and hand-cursor puzzle staging also clash with the bright blue-water, character-on-slide visual identity, so reusing the format would require a full rebuild rather than a swap-in. Only the broad casual/young audience overlaps; recommend skipping this archetype unless we genuinely fake-puzzle the slide (e.g., \"pick the right tube to avoid the obstacle\") which is a stretch and not where this cluster's signal lives."
+}

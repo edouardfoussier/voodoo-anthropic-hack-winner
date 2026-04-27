@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_v5wXKQ3TSVRG7FtSGSY2cd6Z?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdjV3WEtRM1RTVlJHN0Z0U0dTWTJjZDZaP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ca5QBzmNA3ac7ttaujKgVsaVzykHfbIs-Fqn15ftKfYGF6j1uXL%7EBJ6SNt25IE5LGs3AS1JjwNqK6ztsK7QlFfYOTXn1Z3VW0yhmubkfUu0UnElnUmNf185twNOySSvQS8%7EOMxsG5mA4D99C9N9V6vVO9HL-nHDMeoYW4XUy8y2HZgpu6a9Yu6Fxy8fcvmporLt0UdV6twL3UCLp3ekySX34%7ExSWrWihWwRHv2uh7ilU83A5GBwNBgQ14YlAius%7E9hE52hHWimnrbllEtqDf-RbXbsfKUxpIxt9M30piemvL84b1IjtxkGaIGPTOMR-cLP29Y44t0ipz51AAawmBlQ__",
+  "job_id": "job_94P81KpNgAgVm8nniUwhQ51t",
+  "asset_id": "asset_v5wXKQ3TSVRG7FtSGSY2cd6Z",
+  "stub": false,
+  "prompt": "Storyboard gameplay frame, aspect 9:16, Roof Rails in-game style: third-person behind-the-runner view of the low-poly minimalist character sliding along a thin white #EAF6FA rail stretched between two pastel rooftops, long horizontal balancing pole extended wide collecting yellow #FFC824 pole-piece pickups mid-air, bright cyan #5CD6FF sky background, motion lines, diamond counter and progress bar HUD visible at top, clean 3D minimalist simple geometry, bright pastel colors uncluttered aesthetic, on-screen text 'COLLECT. EXTEND. SLIDE.' in bold white caps lower-third. [Audio: no VO / driving 130bpm energetic competitive synth-house / rapid coin-chime pings on each pole-piece pickup, smooth metallic rail-slide whoosh, satisfying combo riser]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

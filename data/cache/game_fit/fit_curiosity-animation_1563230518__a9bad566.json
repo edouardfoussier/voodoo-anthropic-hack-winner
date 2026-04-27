@@ -1,0 +1,8 @@
+{
+  "archetype_id": "curiosity-animation",
+  "visual_match": 15,
+  "mechanic_match": 8,
+  "audience_match": 30,
+  "overall": 14,
+  "rationale": "This archetype is a near-total mismatch for a classic Solitaire title: the cross-section bunker reveal is a narrative/strategy-game trope (think Whiteout Survival, State of Survival) with dark earth-tone palettes that clash hard with the bright green-felt, card-forward visual language players expect from solitaire ads. There is no plausible bridge to drawing/stacking/sorting mechanics, and forcing one would produce a misleading \"fake ad\" that risks low IPM and high churn. Skip — or only consider if the team wants to test deceptive curiosity hooks, which is off-brand for a casual mental-puzzle audience."
+}

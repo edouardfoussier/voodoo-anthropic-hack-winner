@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "4c22a106a8680a3d",
+    "ad_unit_id": "4c22a106a8680a3d",
+    "app_id": "616fb573bc6b147008bf312d",
+    "advertiser_name": "Solitaire Clash: Win Real Cash",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4a90c5308582dab3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4a90c5308582dab3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4a90c5308582dab3/preview",
+    "phashion_group": "4c22a106a8680a3d",
+    "share": null,
+    "first_seen_at": "2025-12-22T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 7.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Top Real Cash Skill-based Game!!!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman dances happily while a PayPal balance overlay rapidly increases from $723 to over $900.",
+    "visual_action": "UGC-style video of a woman in a blue hoodie smiling and dancing, paired with a dynamic PayPal wallet UI showing rising funds.",
+    "text_overlay": "POV: Playing Solitaire Clash won't make you a millionaire, but it can help you pay your bills. I can win up to $200 a day. 🥰🥳",
+    "voiceover_transcript": "You're a champion bitch, there you go",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "UGC creator dances as a PayPal balance counter ticks up rapidly in the corner.",
+    "The balance hits $907.00 and a transaction confirmation for a PayPal card appears.",
+    "Final screen shows a PayPal balance summary with confetti and a 'Win Cash' button."
+  ],
+  "on_screen_text": [
+    "skill-based real cash game. Winnings depend on your skills.",
+    "POV: Playing Solitaire Clash won't make you a millionaire, but it can help you pay your bills. I can win up to $200 a day. 🥰🥳",
+    "PayPal balance $723.06",
+    "TODAY'S INCOME $907.00",
+    "Win Cash",
+    "This skill-based game is for players 18+. Actual prizes and gameplay may vary by rules and performance. Top-ups are available, but not required."
+  ],
+  "cta_text": "Win Cash",
+  "cta_timing_seconds": 6.0,
+  "palette_hex": [
+    "#2D5BA3",
+    "#FFFFFF",
+    "#F7F7F7"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Young adults and gig workers looking for easy ways to supplement their income through mobile games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017490000000000001
+}

@@ -1,0 +1,8 @@
+{
+  "archetype_id": "other-animation",
+  "visual_match": 12,
+  "mechanic_match": 5,
+  "audience_match": 20,
+  "overall": 11,
+  "rationale": "This is a licensed-IP anime hero shot for a gacha RPG — it has nothing in common with Color Road's minimalist abstract geometry, pastel palette, or reflex color-matching loop. Beyond the obvious IP/legal blocker, the saturated rainbow + character-charging-energy hook signals a mid-core anime RPG audience, which is a poor overlap with hypercasual reflex players and would attract low-LTV, low-intent installs. Do not adapt; skip this archetype entirely."
+}

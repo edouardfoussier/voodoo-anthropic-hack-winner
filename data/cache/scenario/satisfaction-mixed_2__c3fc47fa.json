@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_rhRWnFxpaspgab8KSxmkBo3D?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfcmhSV25GeHBhc3BnYWI4S1N4bWtCbzNEP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=pPmgujbwocyrDkmu6c6uUVgouim8wvUm6l1bta%7EGUZaJwMkdtkOgcCfnYEnYdxzK5jXbmvRf8DyeKIJYx4zjxmeypOmvMNFMDsIA3LD-ETqKzLz4hkgzcit0aFbuR7A-AcsmWoPoKU3y7DxOY96RJggsqVQdkK5giP1H0R8EuDrxjt-R1OuTdaz3SJ4V48afAPsltQryDE34iYmQNKQ8VDx7iOVmeJvVWsrNzT4QMH%7ELiwwa-ePHWF4qwth0sXbgvcuM1QxKJFssJPniUaTa2EG2EkhAXDW2ULX29f9M6RHnJ6nh31HoEH55EkSkjW407LR87xxSYUNluTvjc%7ERjRg__",
+  "job_id": "job_X2fRsWY8TXFiSmLK8Ks2MFWB",
+  "asset_id": "asset_rhRWnFxpaspgab8KSxmkBo3D",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, end-card style: Flappy Dunk court background in beige #EAD5A0 with confetti in magenta #D81155 and blue #5CB3FF, giant magenta 'YOU WIN \ud83c\udfc6' banner across middle with thick black outline, final score 21-18 in cartoon scoreboard HUD, pulsing blue 'Dunk Now' install button at bottom, on-screen text 'GG \ud83c\udfc6', 2D cartoon style with thick black outlines, flat shading, vibrant high-contrast colors, energetic competitive mood, authentic Flappy Dunk UI chrome, no human characters",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

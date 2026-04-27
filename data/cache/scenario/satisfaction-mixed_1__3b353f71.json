@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_V2MVWiDrxomKZR3wDW7nuxcp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVjJNVldpRHJ4b21LWlIzd0RXN251eGNwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=esuO1pHcdnzrt-U5Fi0HLLI3BuID8GdkIuEQO-t0jAQkb3wYRHwF-xPTkshgkGNAyE2V1E%7E4jexhpyISZGNSgz-B8faOlRwutCYq0-p5Sp2b1ebN-DTJtIH32NcnGVrbhq3pWdodpF8BFn2xbcvqe2Y9xHKS6NDgdkW47kJJdcaeZDA91j-iE1%7EtJuuMnq%7EkL3iVS24KYpOKqy%7EapskEd0DRAvHJfP9mqM6431h%7EdtOU7MrkU4wjet9GrZb08oVWb9tMsMUwZNVMZ6mXvmXvXdQa1p0K%7E9baWgAboIK8enUPSsVpK%7ExCVUyGIMnOrvSfBE1YskhqQRcse--hH1AcJg__",
+  "job_id": "job_9mDjyPUpSQ6n6DwwarZtponb",
+  "asset_id": "asset_V2MVWiDrxomKZR3wDW7nuxcp",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, authentic Knock'em All gameplay still: slow-motion chain-reaction shot, one red dummy (#D91A1A) ragdolling sideways into four more dummies bowling-pin style off a pastel blue (#8ED4FF) hexagonal platform, accent-purple (#6B15E8) progress bar filling visibly at bottom, multiple comic 'POW' and 'BIM' bursts stacked, toy gun barrel still visible bottom-center in first-person, minimalist 3D flat-color geometric environment with no textures, on-screen text 'Chain reaction \ud83d\udca5' centered in playful bold white. [Audio: VO 'oh that's nice\u2026' satisfied exhale / same lo-fi 80 BPM with a low sub-bass swell / stacked rubbery thud SFX, ascending chime on combo at 2s, progress-bar ding at 4s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

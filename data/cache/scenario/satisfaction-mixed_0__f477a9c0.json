@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_XJkg36TNa6LAr2U4e7V6bDM2?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWEprZzM2VE5hNkxBcjJVNGU3VjZiRE0yP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=VFz8xWs7bawKBljVSSXnGUaYLF3q5oc-LcHD5k1D6-4OH2hpUO5XyEzQdzAf0NImwicaVOuwusdza4o--DEEUFEJPQp4d2Io8V5CEWIHliXlW2dy4JlN2An7dFcPvEhE-PwsLzRbgf1zA11G1On4yLMAQNFx1hvlGLVIb8HA9kSbA5Pg9uhJdz8oOfnH%7ECm%7EkwOfjeOncniIoCEh2v9ld%7E4QaOZ8l3rVSPS5oaxgc1azIUo9Q8r8CorlZfDsuJObh5HQORCLcBxDe7sfBEc2HEIHTxJWZxwS-j%7EWY4tnXmbKKG69WJVJC0Wet6ncWBl1sKw2Akt1muu6OO21GsWe6Q__",
+  "job_id": "job_RvN7YsSXnp4Y4v8MRa6F5GCi",
+  "asset_id": "asset_XJkg36TNa6LAr2U4e7V6bDM2",
+  "stub": false,
+  "prompt": "9:16 vertical mobile ad still, Mystical Minimalism style, near-black background (#100D06) with a single large luminous golden-yellow (#D4A024) ornate serif question mark glowing at center, pale gold (#FCE588) particle dust drifting upward, thin elegant serif text overlay 'Can the AI read your mind?' in soft gold, cinematic vignette, premium oracle-chamber atmosphere, ultra-minimal UI, film grain, hero frame",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

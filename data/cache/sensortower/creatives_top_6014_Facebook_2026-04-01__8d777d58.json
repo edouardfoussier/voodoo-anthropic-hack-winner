@@ -1,0 +1,234 @@
+{
+  "count": 3054,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "0a72d2ab7841d76a",
+      "app_id": "55d93bf102ac645ad2090002",
+      "network": "Facebook",
+      "phashion_group": "0a72d2ab7841d76a",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-05",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "0a72d2ab7841d76a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join Gala",
+          "button_text": "Sign Up",
+          "message": "Get 100 Free Spins if you deposit & play \u00a310 on slots. Sound like your kind of fun?"
+        },
+        {
+          "id": "246c36e08dea5b58",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Daily Free Spin",
+          "button_text": "Learn More",
+          "message": "Whirl our Daily Free Spin reel for free chances to win up to \u00a350 cash and more."
+        },
+        {
+          "id": "562667873a3f8f4b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Grab guaranteed daily prizes!",
+          "button_text": "Learn More",
+          "message": "Grab guaranteed prizes every day in our Daily Free Bingo room!"
+        },
+        {
+          "id": "bc5736a71db77943",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Grab guaranteed daily prizes!",
+          "button_text": "Learn More",
+          "message": "Enjoy your daily dose of free fun with Daily Free Bingo & win guaranteed prizes!"
+        },
+        {
+          "id": "e1c2045f99365ce2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join Gala",
+          "button_text": "Learn More",
+          "message": "Collect free Gala Points to use on wins you want at the Gala Rewards Club. There are more chances to win than ever at Gala."
+        },
+        {
+          "id": "e9eb976f2a2bbd11",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a278266fa03c92e0/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Join Gala",
+          "button_text": "Sign Up",
+          "message": "Get 100 Free Spins if you deposit & play \u00a310 on slots. Sound like your kind of fun? Gala, where a little joy goes a long way."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93bf102ac645ad2090002",
+        "canonical_country": "GB",
+        "name": "Gala - Bingo & Casino Games",
+        "publisher_name": "Gala",
+        "publisher_id": "59baf7e50211a6be9ed99c29",
+        "humanized_name": "Gala - Bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/B9zokV-YpTRrQrxy7kTjONc3B62-EZyEOb_nPsWnDvAg1yjoiFi2_ayGNXcmc5KYXzJ_d9OwcQ6duuleO5-JLro=s150",
+        "os": "unified",
+        "id": "55d93bf102ac645ad2090002",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "de4c5b5239280a1a",
+      "app_id": "5e4b143dab3bcb7c8fa09fb1",
+      "network": "Facebook",
+      "phashion_group": "de4c5b5239280a1a",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-27",
+      "last_seen_at": "2026-04-13",
+      "creatives": [
+        {
+          "id": "de4c5b5239280a1a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7993205107e2259d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7993205107e2259d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7993205107e2259d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Monster Jam Smash & Bash",
+          "button_text": "Shop Now",
+          "message": "Kids are going nuts for this! Bounce your truck off the trampoline to get smashed! Then repair it and take down the tower! \ud83d\udca5"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5e4b143dab3bcb7c8fa09fb1",
+        "canonical_country": "US",
+        "name": "Toca Boca Hair Salon 4",
+        "publisher_name": "Piknik",
+        "publisher_id": "64f90e1670d3f24c7fdad0c7",
+        "humanized_name": "Toca Boca Hair Salon 4",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/b6/cf/a8b6cfbb-e380-96f7-9f7a-9e662d48cee4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5e4b143dab3bcb7c8fa09fb1",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "fb897782ef9ff0e5",
+      "app_id": "59baf7f70211a6be9ed99cac",
+      "network": "Facebook",
+      "phashion_group": "fb897782ef9ff0e5",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-15",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "fb897782ef9ff0e5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7092653a45960a13/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7092653a45960a13/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7092653a45960a13/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Deal or No Deal for FREE \ud83d\udcb0",
+          "button_text": "Play Game",
+          "message": "\ud83c\udf81 Experience the thrill of Deal or No Deal \u2013 exclusive to tombola! Ready to take on the challenge?\nWin up to \u00a31,000 for FREE! \ud83d\udcb8\nSMS opt in required. 18+ gambleaware.org. T&Cs Apply"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "59baf7f70211a6be9ed99cac",
+        "canonical_country": "GB",
+        "name": "tombola bingo \u2013 UK Bingo Games",
+        "publisher_name": "PokerStars",
+        "publisher_id": "5614c38f3f07e25d2900778c",
+        "humanized_name": "tombola bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/jAVRTgNtmmV2-6bqRfAJrSqZj-87Yl30aBNVoMOBzQRCh35ysE1d42a5p-E3Vy2e2DDi=s150",
+        "os": "unified",
+        "id": "59baf7f70211a6be9ed99cac",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d17a0914d30f6a19",
+      "app_id": "55d93bf102ac645ad2090002",
+      "network": "Facebook",
+      "phashion_group": "d17a0914d30f6a19",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-05",
+      "last_seen_at": "2026-04-23",
+      "creatives": [
+        {
+          "id": "d17a0914d30f6a19",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Daily Free Spin",
+          "button_text": "Learn More",
+          "message": "Whirl our Daily Free Spin for free chances to win cash & more at Gala."
+        },
+        {
+          "id": "ff74ac9fcf3092da",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7960bc10e2e65b62/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "Daily Free Spin",
+          "button_text": "Learn More",
+          "message": "Whirl our Daily Free Spin reel for free chances to win up to \u00a350 cash and more."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93bf102ac645ad2090002",
+        "canonical_country": "GB",
+        "name": "Gala - Bingo & Casino Games",
+        "publisher_name": "Gala",
+        "publisher_id": "59baf7e50211a6be9ed99c29",
+        "humanized_name": "Gala - Bingo",
+        "icon_url": "https://play-lh.googleusercontent.com/B9zokV-YpTRrQrxy7kTjONc3B62-EZyEOb_nPsWnDvAg1yjoiFi2_ayGNXcmc5KYXzJ_d9OwcQ6duuleO5-JLro=s150",
+        "os": "unified",
+        "id": "55d93bf102ac645ad2090002",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

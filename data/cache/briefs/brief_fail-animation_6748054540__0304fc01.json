@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-animation",
+  "target_game_id": "6748054540",
+  "title": "Almost Had It — Chain Reaction Fail-to-Win",
+  "hook_3s": "A single amber ball ricochets across a moody purple grid, JUST misses the last block — screen freezes on \"Almost...\" before the player taps to fix it.",
+  "scene_flow": [
+    "0-3s: HERO FRAME — slow zoom on a near-complete 3D grid in deep navy/purple. One amber ball bounces, clips two blocks, then rolls to a stop one tile short of victory. Big text: 'ALMOST HAD IT 😩'",
+    "3-7s: A ghost-hand drags the WRONG colored block into the tray slot. Balls fire off, fizzle out against a wall. Red X pulses. Text: 'NOT LIKE THAT'",
+    "7-12s: Reset. Hand places the CORRECT amber block — physics cascade triggers: blocks transform into bouncing balls, chain reaction sweeps the grid in satisfying slow-mo with golden particle trails. Text: 'NOW WATCH THIS'",
+    "12-15s: Grid clears in a burst of #FDBA4D light, level-complete stars pop, CTA card slides in over the calm purple background."
+  ],
+  "visual_direction": "Lean fully into Bounce Blast's 3D Casual Abstract DNA: matte deep-charcoal #20232B background, soft volumetric purple #403F6D grid frames with subtle rim light, and hero amber #FDBA4D balls/blocks as the only saturated element so every bounce pops. Camera stays calm and slightly top-down (no shaky stick-figure energy) — the \"fail\" beat is conveyed through physics near-misses and a gentle screen-freeze + emoji overlay, not slapstick. Motion language is weighty and bouncy with squash-and-stretch on balls, soft motion blur, and golden particle bursts on chain hits to sell the satisfying ASMR payoff.",
+  "text_overlays": [
+    "ALMOST HAD IT 😩",
+    "NOT LIKE THAT ❌",
+    "NOW WATCH THIS 👀",
+    "CHAIN REACTION!",
+    "LEVEL 1 ✓",
+    "Can YOU solve it?"
+  ],
+  "cta": "Play Free",
+  "rationale": "We're salvaging the Fail-archetype's proven scroll-stopping tension (\"almost won → frustration → redemption\") but swapping stick-figure slapstick for an authentic in-engine near-miss that actually shows the place-block→ball-bounce→chain-reaction loop. This protects CTR from the fail hook while keeping IPM honest, so installs convert into D1/D7 retention instead of bouncing. UA: test this against a pure-satisfying control to isolate whether the fail-frame lift outweighs audience-fit risk on the 25-55 cohort.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect, 3D Casual Abstract mobile puzzle game render, top-down tilted camera on a glossy deep-charcoal #20232B play area with deep purple #403F6D rounded grid frames, a single glowing amber #FDBA4D bouncing ball mid-air with soft motion-blur trail, one block slot left empty and highlighted, calm moody studio lighting with subtle volumetric glow, bold white sans-serif on-screen text 'ALMOST HAD IT 😩' at top, polished cinematic mobile-ad still",
+    "Storyboard frame 2, 9:16 vertical aspect, 3D Casual Abstract style, same deep-charcoal #20232B background and purple #403F6D grid, a stylized translucent finger dragging the WRONG colored block into a tray, small red X icon pulsing, amber #FDBA4D balls fizzling against a wall, muted disappointed lighting, on-screen text 'NOT LIKE THAT ❌' centered, clean mobile UI framing",
+    "Storyboard payoff frame, 9:16 vertical aspect, 3D Casual Abstract render, explosive chain-reaction moment with multiple amber #FDBA4D balls bouncing across the deep-charcoal #20232B grid, purple #403F6D blocks shattering into golden particles, slow-motion energy, warm rim-light glow, satisfying ASMR mood, big bold white text 'NOW WATCH THIS 👀' at the top, premium mobile game ad still"
+  ]
+}

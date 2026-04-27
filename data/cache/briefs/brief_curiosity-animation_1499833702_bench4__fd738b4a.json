@@ -1,0 +1,29 @@
+{
+  "archetype_id": "curiosity-animation",
+  "target_game_id": "1499833702",
+  "title": "What's Under The Platform? — Cross-Section Reveal",
+  "hook_3s": "\"What's hidden BENEATH the platform?\" — camera slices the pastel world in half, revealing a secret multi-floor dummy factory underground.",
+  "scene_flow": [
+    "0-3s: First-person Knock'em All POV — toy gun aimed at red dummies on a sky-blue platform. Tap-tap, two dummies fall off the edge. Hook text appears.",
+    "3-7s: Camera pulls back and the ground SLICES open in a clean cross-section reveal — beneath the bright platform sits a 3-story underground 'dummy factory': conveyor belts, stacks of red crash-test dummies, purple elevators feeding new enemies up to the surface.",
+    "7-11s: Cut back to FPV. Now the player understands — shoot the support beams visible in the cross-section. A single tap collapses a floor, and a whole column of dummies tumbles in chained physics ragdoll chaos. 'BIM' 'BAM' comic pops.",
+    "11-14s: Progress bar at top fills to 100%, level-clear confetti in #6B15E8 and #D91A1A. Cross-section seals back up — clean pastel world restored.",
+    "14-15s: CTA card with toy gun icon and finger-tap prompt."
+  ],
+  "visual_direction": "Lean fully into Knock'em All's signature minimalist 3D: airy #8ED4FF pastel sky backdrops, flat-shaded geometric platforms, vibrant #D91A1A crash-test dummies, and #6B15E8 accents on the underground machinery and elevators. The cross-section cut should feel like a clean diagram-style slice (think architectural blueprint meets toy diorama) — no dirt, no realism, just stacked colored geometry. Preserve the exact in-game HUD: top progress bar, comic-book \"BIM\" hit pops, first-person toy gun in lower frame. Camera language is smooth, satisfying, low-friction — no shake, no grit.",
+  "text_overlays": [
+    "What's UNDER the platform?",
+    "A secret dummy factory 👀",
+    "Shoot the supports…",
+    "BIM! 💥 Chain collapse",
+    "Level 1 of 480",
+    "Can YOU clear it?"
+  ],
+  "cta": "Tap to Play",
+  "rationale": "Voodoo's current Knock'em All rotation is 100% straight gameplay playables/videos with no narrative curiosity hook — this brings the trending \"hidden world reveal\" angle they don't yet have, while staying mechanically honest by tying the reveal directly to the tap-to-shoot loop (shoot supports → chain physics collapse). UA team: run this against broad casual lookalikes as a top-funnel curiosity opener, then retarget non-installers with the existing pure-gameplay playables to close.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 mobile ad still, in-game moment from Knock'em All hypercasual shooter. First-person POV: a colorful toy-like gun in the lower foreground aimed across a bright #8ED4FF pastel sky platform with red #D91A1A crash-test dummy enemies standing in a row. The ground is sliced open in a clean cross-section diagram reveal showing a 3-story underground dummy factory beneath — conveyor belts, stacked red dummies, #6B15E8 purple elevators. Minimalist 3D with bright, flat colors and simple geometric environments. Top of screen shows a level progress bar UI. Bold white on-screen text: 'What's UNDER the platform?'. No characters on screen besides dummies. Clean, toy-diorama lighting, no grit. [Audio: VO (curious female whisper) 'Wait… what's under there?' / calm satisfying lo-fi 90bpm with soft mallet melody / soft whoosh as ground slices open at 2s, subtle mechanical hum from factory].",
+    "Storyboard frame 2, vertical 9:16, in-game Knock'em All FPV. The toy gun fires a ball at a thin purple #6B15E8 support beam visible through the cross-section cut; a whole stack of red #D91A1A crash-test dummies is mid-collapse in physics ragdoll chaos, tumbling between underground floors. Bright #8ED4FF pastel sky above the slice. Comic-book style hit text 'BIM' pops in yellow. Level progress bar UI at top filling toward 100%. Minimalist 3D with bright, flat colors and simple geometric environments. On-screen text overlay: 'Shoot the supports…'. [Audio: VO 'One shot brings it ALL down' / upbeat satisfying 100bpm soft-pop with handclaps / pop-pop tap SFX, wooden domino tumble cascade, 'BIM' comic stinger at 1.5s].",
+    "Storyboard frame 3, vertical 9:16, end-card style still from Knock'em All. The cross-section has sealed back into a clean pastel #8ED4FF platform, confetti in #D91A1A red and #6B15E8 purple bursts across the frame, level progress bar UI at top shows 100% complete. First-person toy gun rests in lower frame, last red crash-test dummy ragdolls off the platform edge. Minimalist 3D with bright, flat colors and simple geometric environments. Large bold white text overlay: 'Tap to Play' with a tapping finger icon. No human character on screen. [Audio: VO 'Your turn — tap to play' / cheerful satisfying chime resolution 95bpm / confetti pop SFX, soft success chime, single finger-tap click at 4.5s]."
+  ]
+}

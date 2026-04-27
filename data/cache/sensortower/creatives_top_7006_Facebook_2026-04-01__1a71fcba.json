@@ -1,0 +1,432 @@
+{
+  "count": 325,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "11a76b3cbb976853",
+      "app_id": "55d9396602ac645ad201489c",
+      "network": "Facebook",
+      "phashion_group": "11a76b3cbb976853",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-26",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "11a76b3cbb976853",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udcf2 T\u00e9l\u00e9charge l'app d\u00e8s maintenant !",
+          "button_text": "Install Now",
+          "message": "1ER PARI DOUBL\u00c9 jusqu'\u00e0 100\u20ac \ud83e\udd1d"
+        },
+        {
+          "id": "363632bf3da1e02f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udcf2 T\u00e9l\u00e9charge l'app d\u00e8s maintenant !",
+          "button_text": "Install Now",
+          "message": "1ER PARI DOUBL\u00c9 jusqu'\u00e0 100\u20ac \ud83e\udd1d"
+        },
+        {
+          "id": "c6429a7216a31981",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udcf2 T\u00e9l\u00e9charge l'app d\u00e8s maintenant !",
+          "button_text": "Install Now",
+          "message": "1ER PARI DOUBL\u00c9 jusqu'\u00e0 100\u20ac \ud83e\udd1d"
+        },
+        {
+          "id": "f8df9fb683c3b921",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/57eb4cba592ce97d/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udcf2 T\u00e9l\u00e9charge l'app d\u00e8s maintenant !",
+          "button_text": "Install Now",
+          "message": "1ER PARI DOUBL\u00c9 jusqu'\u00e0 100\u20ac \ud83e\udd1d"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d9396602ac645ad201489c",
+        "canonical_country": "FR",
+        "name": "Unibet Paris Sportifs et Poker",
+        "publisher_name": "La Fran\u00e7aise des Jeux",
+        "publisher_id": "5614c1043f07e25d29005242",
+        "humanized_name": "Unibet Paris Sportifs et Poker",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/76/5b/af765b0b-e770-da86-8d40-d0b2173885af/AppIconProd-0-0-1x_U007epad-0-1-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d9396602ac645ad201489c",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f2bb3b51aa47cc24",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Facebook",
+      "phashion_group": "f2bb3b51aa47cc24",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-01",
+      "last_seen_at": "2026-04-14",
+      "creatives": [
+        {
+          "id": "f2bb3b51aa47cc24",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/52ea1890e3c7064b/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "5 parties de Spin & Rush offertes*\ud83d\udd25",
+          "button_text": "Download",
+          "message": "Les Smash KO d\u00e9barquent sur Betclic : \u00e9limine tes adversaires et d\u00e9couvre le montant de la prime que tu r\u00e9cup\u00e8res ! \ud83e\udd29"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "c4650f4b843024fd",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Facebook",
+      "phashion_group": "c4650f4b843024fd",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-16",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "c4650f4b843024fd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5fafcc71648b9f07/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5fafcc71648b9f07/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5fafcc71648b9f07/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "Jusqu'\u00e0 100\u20ac revers\u00e9s en Feebets* \ud83d\udd25",
+          "button_text": "Download",
+          "message": "Parie et regarde les matchs de tennis en live sur l'appli avec Betclic ! \ud83c\udfbe\ud83d\udcfa"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "cb4f4c618659a37d",
+      "app_id": "55d93a4202ac645ad203fe75",
+      "network": "Facebook",
+      "phashion_group": "cb4f4c618659a37d",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-16",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "cb4f4c618659a37d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f36003f1d5df78/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f36003f1d5df78/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/37f36003f1d5df78/thumb",
+          "video_duration": 8,
+          "width": 1080,
+          "height": 1920,
+          "title": "5 parties de Spin & Rush offertes*\ud83d\udd25",
+          "button_text": "Download",
+          "message": "Plus \u00e9pur\u00e9e, plus simple et plus lisible ! \ud83e\udd29\nRetrouve toute l\u2019offre de poker sur l\u2019app Betclic !"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93a4202ac645ad203fe75",
+        "canonical_country": "FR",
+        "name": "Betclic Paris Sportifs & Poker",
+        "publisher_name": "Betclic Everest Group",
+        "publisher_id": "56289e5502ac6486a700f3bf",
+        "humanized_name": "Betclic Paris Sportifs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/23/7f/9c237fa9-b6b1-9435-3741-e4ffa34fa1b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93a4202ac645ad203fe75",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f955d59d5cd1c606",
+      "app_id": "59baf8100211a6be9ed99da9",
+      "network": "Facebook",
+      "phashion_group": "f955d59d5cd1c606",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-19",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f955d59d5cd1c606",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/93e18a0b019cc651/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/93e18a0b019cc651/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/93e18a0b019cc651/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "PokerStars - Spin&Go",
+          "button_text": "Learn More",
+          "message": "Jouez des Spin&Go et tentez de gagner jusqu\u2019\u00e0 1 million \u20ac"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "59baf8100211a6be9ed99da9",
+        "canonical_country": "GB",
+        "name": "Paddy Power Games",
+        "publisher_name": "Paddy Power",
+        "publisher_id": "5614cf3e3f07e25d29012545",
+        "humanized_name": "Paddy Power Games",
+        "icon_url": "https://play-lh.googleusercontent.com/EsC41RrBfF7DN3xu_js6WAslGxl11H2K60wLbCSXAGibsfn3fKH_4dRocNruD-pKtg=s150",
+        "os": "unified",
+        "id": "59baf8100211a6be9ed99da9",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f42ba6d0196271bd",
+      "app_id": "5af5afad09c8b14d4327867e",
+      "network": "Facebook",
+      "phashion_group": "f42ba6d0196271bd",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-07",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "f42ba6d0196271bd",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "Come Back Gift Awaits",
+          "button_text": "Play Game",
+          "message": "WE'VE MISSED YOU! \ud83e\udd17\nRejoin us and claim your surprise gift!\nLimited time only. What are you waiting for?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5af5afad09c8b14d4327867e",
+        "canonical_country": "US",
+        "name": "Jackpot World - Slots Casino",
+        "publisher_name": "Netmarble",
+        "publisher_id": "5614c62a3f07e25d2900a08c",
+        "humanized_name": "Jackpot World",
+        "icon_url": "https://play-lh.googleusercontent.com/GbSmufLwKwNJmOGukpGY-t0g4GLW23QL8YVDEowY3fgKZuDHrvRSivQmzsuLAsNPdVSf92GKjD6B7ON9z77YpA=s150",
+        "os": "unified",
+        "id": "5af5afad09c8b14d4327867e",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2d640feefa21b85c",
+      "app_id": "60fb6ed2ea6f9e5e0737e01c",
+      "network": "Facebook",
+      "phashion_group": "2d640feefa21b85c",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-16",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "2d640feefa21b85c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/01bae61b57afb76a/thumb",
+          "video_duration": 10,
+          "width": 720,
+          "height": 1280,
+          "title": "Claim your COMEBACK GIFTS now!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "60fb6ed2ea6f9e5e0737e01c",
+        "canonical_country": "US",
+        "name": "Jackpot Master - Slots - Casino",
+        "publisher_name": "Tripledot Studios",
+        "publisher_id": "5a63fb6f68c90d39d2db5430",
+        "humanized_name": "Jackpot Master",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/c4/a8/f9c4a8c5-2dd3-aee9-a905-59e80ae70797/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "60fb6ed2ea6f9e5e0737e01c",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "30feaac4fac5536a",
+      "app_id": "5d7d610eecda053b441077fe",
+      "network": "Facebook",
+      "phashion_group": "30feaac4fac5536a",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-10",
+      "last_seen_at": "2026-04-20",
+      "creatives": [
+        {
+          "id": "30feaac4fac5536a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02896151e11fd170/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02896151e11fd170/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/02896151e11fd170/thumb",
+          "video_duration": 13,
+          "width": 720,
+          "height": 1280,
+          "title": "Play now !!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d7d610eecda053b441077fe",
+        "canonical_country": "US",
+        "name": "Holdem or Foldem: Texas Poker",
+        "publisher_name": "AppLovin",
+        "publisher_id": "5b636e91197e97572b98422b",
+        "humanized_name": "Holdem or Foldem",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/22/d2/ba22d262-df91-cea3-add7-1e8aaadadea0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d7d610eecda053b441077fe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3a670b194c98ca31",
+      "app_id": "5d7d610eecda053b441077fe",
+      "network": "Facebook",
+      "phashion_group": "3a670b194c98ca31",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-10",
+      "last_seen_at": "2026-04-01",
+      "creatives": [
+        {
+          "id": "3a670b194c98ca31",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0810c08c5742482b/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0810c08c5742482b/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0810c08c5742482b/thumb",
+          "video_duration": 11,
+          "width": 720,
+          "height": 1280,
+          "title": "Play now !!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d7d610eecda053b441077fe",
+        "canonical_country": "US",
+        "name": "Holdem or Foldem: Texas Poker",
+        "publisher_name": "AppLovin",
+        "publisher_id": "5b636e91197e97572b98422b",
+        "humanized_name": "Holdem or Foldem",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/22/d2/ba22d262-df91-cea3-add7-1e8aaadadea0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d7d610eecda053b441077fe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3b5ba0b2a5ff183d",
+      "app_id": "5d7d610eecda053b441077fe",
+      "network": "Facebook",
+      "phashion_group": "3b5ba0b2a5ff183d",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "3b5ba0b2a5ff183d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/092c6b27be259a27/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/092c6b27be259a27/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/092c6b27be259a27/thumb",
+          "video_duration": 11,
+          "width": 720,
+          "height": 1280,
+          "title": "Play now !!",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d7d610eecda053b441077fe",
+        "canonical_country": "US",
+        "name": "Holdem or Foldem: Texas Poker",
+        "publisher_name": "AppLovin",
+        "publisher_id": "5b636e91197e97572b98422b",
+        "humanized_name": "Holdem or Foldem",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/22/d2/ba22d262-df91-cea3-add7-1e8aaadadea0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d7d610eecda053b441077fe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

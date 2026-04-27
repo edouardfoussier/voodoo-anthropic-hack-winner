@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "e558cf8f9478d98b",
+    "ad_unit_id": "e558cf8f9478d98b",
+    "app_id": "5e4b143dab3bcb7c8fa09fb1",
+    "advertiser_name": "Toca Boca Hair Salon 4",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3211755ed7d3aedd/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3211755ed7d3aedd/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3211755ed7d3aedd/preview",
+    "phashion_group": "e558cf8f9478d98b",
+    "share": null,
+    "first_seen_at": "2026-03-02T00:00:00",
+    "last_seen_at": "2026-04-06T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🔍🐶 Die neuen Abenteuer des Such- & Rettungsteams zum Nachspielen zu Hause 🐾💥",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A child playing with a new PAW Patrol toy set.",
+    "visual_action": "A child's hand pushes a blue toy car towards a large PAW Patrol playset on a wooden floor.",
+    "text_overlay": "Es ist endlich da ...",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction of the PAW Patrol Pup Squad HQ with children playing.",
+    "Close-up shots of the toy figures and interactive elements like the elevator.",
+    "Demonstration of the car ramp and moving parts of the playset.",
+    "Children showing excitement and joy while playing with the set together."
+  ],
+  "on_screen_text": [
+    "Es ist endlich da ...",
+    "... das neue Pup Squad HQ zu den aktuellen Search & Rescue Episoden!",
+    "Heute auf Rettungsmission",
+    "und morgen das nächste Abenteuer.",
+    "Unendlich Platz für viel Fantasie!",
+    "Für kleine PAW Patrol Fans",
+    "ein echtes Highlight!"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#00529B",
+    "#E31E24",
+    "#FDB913"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Parents of young children who are fans of the PAW Patrol series.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001696
+}

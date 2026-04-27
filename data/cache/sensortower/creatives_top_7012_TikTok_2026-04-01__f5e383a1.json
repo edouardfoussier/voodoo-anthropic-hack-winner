@@ -1,0 +1,406 @@
+{
+  "count": 139,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "bdf6fd7b1032fa14",
+      "app_id": "66d27b94782b200e42488550",
+      "network": "TikTok",
+      "phashion_group": "bdf6fd7b1032fa14",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-23",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "bdf6fd7b1032fa14",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6907999ceebbe373/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6907999ceebbe373/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6907999ceebbe373/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Free the road!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66d27b94782b200e42488550",
+        "canonical_country": "US",
+        "name": "Perfect Tidy",
+        "publisher_name": "Onesoft",
+        "publisher_id": "5b6de3cab80f52168dc0abc3",
+        "humanized_name": "Perfect Tidy",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/fd/f4/78fdf49e-865e-8a46-c270-d33a0937081e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66d27b94782b200e42488550",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f41b68dd7e9c7ab2",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "f41b68dd7e9c7ab2",
+      "ad_type": "video",
+      "first_seen_at": "2024-05-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f41b68dd7e9c7ab2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d287f88cf4759b9",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "5d287f88cf4759b9",
+      "ad_type": "video",
+      "first_seen_at": "2024-08-14",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "5d287f88cf4759b9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        },
+        {
+          "id": "ea99fbfc48af6696",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "The Best DBZ Battle Experience is Here"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0ae6143e6858709f",
+      "app_id": "5ef6bb393bc90d3dc313b366",
+      "network": "TikTok",
+      "phashion_group": "0ae6143e6858709f",
+      "ad_type": "video",
+      "first_seen_at": "2025-07-10",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "0ae6143e6858709f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f2e8f62326790dea/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f2e8f62326790dea/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/f2e8f62326790dea/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "Elon Musk's IQ Test: The One That Reduced His Employees to Tears - Can You Pass It?"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5ef6bb393bc90d3dc313b366",
+        "canonical_country": "US",
+        "name": "IQ Boost: Training Brain Games",
+        "publisher_name": "Brightika",
+        "publisher_id": "5febff86d5651249c37b078b",
+        "humanized_name": "IQ Boost: Training Brain Games",
+        "icon_url": "https://play-lh.googleusercontent.com/a-wM-m78YwkRMybNEvlm6baOB0mOnkxY2xIc02eIVAD5DrInE0wjhRrY2yU4lDo-=s150",
+        "os": "unified",
+        "id": "5ef6bb393bc90d3dc313b366",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "3e0ed6f1c46e8a57",
+      "app_id": "64e7a621ad4adb4e30f02dbb",
+      "network": "TikTok",
+      "phashion_group": "3e0ed6f1c46e8a57",
+      "ad_type": "video",
+      "first_seen_at": "2025-10-07",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "3e0ed6f1c46e8a57",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/68af98a9a716881d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/68af98a9a716881d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/68af98a9a716881d/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "Find out if you can stay sane enough to escape from the asylum."
+        },
+        {
+          "id": "89ec642501236a25",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/68af98a9a716881d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/68af98a9a716881d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/68af98a9a716881d/thumb",
+          "video_duration": 14,
+          "width": 576,
+          "height": 1024,
+          "message": "Play for a unique escape the room experience. Escape Mental Hospital is ready."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "64e7a621ad4adb4e30f02dbb",
+        "canonical_country": "US",
+        "name": "Escape from Mental Hospital",
+        "publisher_name": "Peaksel",
+        "publisher_id": "560c83028ac3506439033244",
+        "humanized_name": "Escape from Mental Hospital",
+        "icon_url": "https://play-lh.googleusercontent.com/IHVXHPK_oH4P7b6rK8m1rPGEfuU5TXxs_8ay4HgGMHReRXIzLMkUxHothYAroX1WcMI=s150",
+        "os": "unified",
+        "id": "64e7a621ad4adb4e30f02dbb",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "42b64388322ac9ba",
+      "app_id": "667637e0a749170e4b18707b",
+      "network": "TikTok",
+      "phashion_group": "42b64388322ac9ba",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-15",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "42b64388322ac9ba",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8c455bfbc4120cee/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8c455bfbc4120cee/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8c455bfbc4120cee/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "message": "Secrets Within Boxes: Uncover the Mystery"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "667637e0a749170e4b18707b",
+        "canonical_country": "US",
+        "name": "The Vault: Logic Puzzle Box",
+        "publisher_name": "Peaksel",
+        "publisher_id": "560c83028ac3506439033244",
+        "humanized_name": "The Vault: Logic Puzzle Box",
+        "icon_url": "https://play-lh.googleusercontent.com/k881kBmAT4s7LLJ4SS8ONmJ7Q2mTCjRjBJ9ycMoxLiIh16PxsP2bst9qb_0Te0RRixAb=s150",
+        "os": "unified",
+        "id": "667637e0a749170e4b18707b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5ba7458dea1165c1",
+      "app_id": "679ad2c9e8b4ba3a4e049aab",
+      "network": "TikTok",
+      "phashion_group": "5ba7458dea1165c1",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-16",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "5ba7458dea1165c1",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03aaebe3cbe5f146/thumb",
+          "video_duration": 9,
+          "width": 1080,
+          "height": 1920,
+          "message": "Classic Tetris Meets Modern Vibes: Dive In!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "679ad2c9e8b4ba3a4e049aab",
+        "canonical_country": "US",
+        "name": "Tetris\u00ae Block Party",
+        "publisher_name": "Playstudios",
+        "publisher_id": "560c5bb68ac35064390237c1",
+        "humanized_name": "Tetris Block Party",
+        "icon_url": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y=s150",
+        "os": "unified",
+        "id": "679ad2c9e8b4ba3a4e049aab",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "78d0609d7512f42c",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "78d0609d7512f42c",
+      "ad_type": "video",
+      "first_seen_at": "2024-12-20",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "78d0609d7512f42c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "Simple & Addictive Gameplay"
+        },
+        {
+          "id": "8fe99ace5e34b078",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/05c6a3bc6ebf8cb5/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "68a218b452e42b2d",
+      "app_id": "6645186f04a3235f79b44cbe",
+      "network": "TikTok",
+      "phashion_group": "68a218b452e42b2d",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-28",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "68a218b452e42b2d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/061df2f472076f36/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "Proven to reduce anxiety & ADHD!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6645186f04a3235f79b44cbe",
+        "canonical_country": "US",
+        "name": "Find The Cat - Spot It!",
+        "publisher_name": "Agave Games",
+        "publisher_id": "618e91f5b3ae2733538bb701",
+        "humanized_name": "Find The Cat",
+        "icon_url": "https://play-lh.googleusercontent.com/JVUrYb53YKB2WTdq4OXnFELdD3FqjDqZxayl9Hnzgxx-7rx_6I3NQ7j_VjCxegOz6QhFOdUAbtfejfv1siyJgQ=s150",
+        "os": "unified",
+        "id": "6645186f04a3235f79b44cbe",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "18336d4e3bd427cb",
+      "app_id": "66cd51e99e7c3b9775dd562b",
+      "network": "TikTok",
+      "phashion_group": "18336d4e3bd427cb",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-03",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "18336d4e3bd427cb",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/075613d78ddaa413/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/075613d78ddaa413/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/075613d78ddaa413/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Colorful Puzzle: A Creative Challenge Awaits!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66cd51e99e7c3b9775dd562b",
+        "canonical_country": "US",
+        "name": "Drop Away: Color Puzzle",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Drop Away: Color Puzzle",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/99/90/4e999058-cf79-6bd4-15fa-d45acfbf7df4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66cd51e99e7c3b9775dd562b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

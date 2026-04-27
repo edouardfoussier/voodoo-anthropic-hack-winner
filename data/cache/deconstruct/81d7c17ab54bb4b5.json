@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "81d7c17ab54bb4b5",
+    "ad_unit_id": "81d7c17ab54bb4b5",
+    "app_id": "55de054a02ac6453fd0524b9",
+    "advertiser_name": "윈조이 포커 - 블랙잭, 바카라, 슬롯, 로우바둑이",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8af35a5f61aae188/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8af35a5f61aae188/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8af35a5f61aae188/preview",
+    "phashion_group": "81d7c17ab54bb4b5",
+    "share": null,
+    "first_seen_at": "2026-02-27T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Anime character intro transitioning into high-stakes slot machine gameplay.",
+    "visual_action": "A rabbit-eared anime girl looks over her shoulder before the scene cuts to a slot machine spinning and hitting a win.",
+    "text_overlay": "룰렛 돌리다 달나라 갔다옴 ㅋ\n원조이포커 신규 슬롯 오픈",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Intro featuring an anime character with promotional text overlays.",
+    "Fast-paced slot machine gameplay showing winning symbol combinations and multipliers.",
+    "A large 'MEGA WIN' animation with gold coins filling the screen.",
+    "A bright 'JACKPOT' animation with firework visual effects.",
+    "Final end card displaying the game logo and a call-to-action button."
+  ],
+  "on_screen_text": [
+    "룰렛 돌리다 달나라 갔다옴 ㅋ",
+    "원조이포커 신규 슬롯 오픈",
+    "MEGA WIN",
+    "JACKPOT",
+    "WINJOY POKER",
+    "이기는 즐거움 원조이 포커",
+    "지금 달나라가기 >"
+  ],
+  "cta_text": "지금 달나라가기 >",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#1a1a4b",
+    "#ffd700",
+    "#ff4d6d"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Korean adults who enjoy social casino games and high-energy slot machine visuals.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001775
+}

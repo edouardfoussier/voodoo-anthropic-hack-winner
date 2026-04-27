@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "17cc39c998c9fc2c",
+    "ad_unit_id": "17cc39c998c9fc2c",
+    "app_id": "65bc21a632c4c13a4e185cef",
+    "advertiser_name": "Block Rush - Block Puzzle Game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/011e79ac3b0b8f2d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/011e79ac3b0b8f2d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/011e79ac3b0b8f2d/preview",
+    "phashion_group": "17cc39c998c9fc2c",
+    "share": null,
+    "first_seen_at": "2026-03-12T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rapid-fire block clearing gameplay",
+    "visual_action": "Red blocks are placed quickly on a grid, clearing multiple horizontal lines with a glowing effect.",
+    "text_overlay": "These weird blocks>>",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Fast-paced placement of red blocks clearing multiple lines on a grid.",
+    "Quick cuts showing different block colors and shapes being cleared in rapid succession.",
+    "A montage of positive feedback text overlays like 'Great!' and 'Brilliant!' appearing as scores climb.",
+    "Final brand reveal for 'Block Rush' featuring a search bar and app store download buttons."
+  ],
+  "on_screen_text": [
+    "These weird blocks>>",
+    "Great!",
+    "This game is perfect for killing boredom",
+    "Wonderful!",
+    "it's totally free",
+    "Brilliant!",
+    "Fantastic!",
+    "Easy to solve but hard to get high score",
+    "Good!",
+    "Block Rush"
+  ],
+  "cta_text": "Block Rush",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#2B46A5",
+    "#D32F2F",
+    "#FFA000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual puzzle enthusiasts looking for satisfying, low-stress gameplay to kill time.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001673
+}

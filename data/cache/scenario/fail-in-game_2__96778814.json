@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_bYc7kA6AhuoXq3Hqf54PLZXF?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfYlljN2tBNkFodW9YcTNIcWY1NFBMWlhGP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=CD34n7hFgeKOcHv-bBfS0J6pfU1FEiN5fQFAJyDRrzwinqzMXz4eqeMk-UI8KEXab%7EGOoq7tVnoR3qkWwskVxU-BFhgz14TAs%7EmG29qd3ZdzGE96pqzNBR83xlDs1Ww9SIoQwDCFfKNsVSI-ka4oedYOWnE6Nd33%7EAdG7TnB1fTDSEYKikezDNUqHap2ZGngK7nqaJLDxYWkmjLZRFUuEkuOuB5R%7EvUlvVbE5WklScfjXcIC1%7EU9zljRRQOSQDIYgME5TNW1z3O5Jo01Vk3-0cbHBmp4fEhPxQTrVK5Y0YkxmFafX-bmR-RxezGmq5JHESNellMAIe0Ba6eVrgsMuQ__",
+  "job_id": "job_muuMYA9MyXCXE12FdwBAotsG",
+  "asset_id": "asset_bYc7kA6AhuoXq3Hqf54PLZXF",
+  "stub": false,
+  "prompt": "9:16 clean Push'em All level-start frame, finger-tap cursor hovering over the blue stickman hero (#2a7dfa) on a sandy-green starting platform (#56a38b), narrow blue-water track stretching ahead lined with red stickman crowds (#e3001b) waiting on side ledges. Full HUD visible: empty progress timeline, combo counter at zero, coin total top-right. Minimalist 3D, bright contrasting colors, simple stickman-like figures, flat shading, no textures. Bold yellow overlay text 'CAN YOU WIN?' pulses center-screen above a green PLAY FREE button. [Audio: VO (taunting female) 'Can YOU win?' / 140bpm energetic competitive electro with hand-clap / UI tap-pop on cursor, rising whoosh into button-glow chime]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

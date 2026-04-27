@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "3b45890e708f8e3b",
+    "ad_unit_id": "3b45890e708f8e3b",
+    "app_id": "55d93bf102ac645ad2090002",
+    "advertiser_name": "Gala - Bingo & Casino Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1bc8e6ea8c9390/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1bc8e6ea8c9390/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cf1bc8e6ea8c9390/preview",
+    "phashion_group": "3b45890e708f8e3b",
+    "share": null,
+    "first_seen_at": "2026-02-06T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Grab guaranteed prizes every day in our Daily Free Bingo room!",
+    "button_text": "Learn More",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman prepares to play Gala Bingo on her phone while a narrator asks if the viewer wants to join in.",
+    "visual_action": "Close-up of a smartphone screen showing the Gala Bingo app interface followed by a cut to a woman on a sofa.",
+    "text_overlay": "Gala Play Bingo",
+    "voiceover_transcript": "Want to get in on that Gala joy?",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Close-up of the Gala Bingo app being launched on a smartphone.",
+    "A woman on a sofa and a man by a window share a knowing look.",
+    "The woman celebrates enthusiastically in a giant yellow beanbag chair.",
+    "Brand slogan 'WHERE A LITTLE Gala JOY GOES A LONG WAY' appears over the scene.",
+    "Final screen with the Gala logo and a responsible gambling message."
+  ],
+  "on_screen_text": [
+    "GambleAware 18+",
+    "Gala Play Bingo",
+    "18+. From 19/11/25. Daily Free Bingo Room games run every 5 minutes from 00:00 to 23:55 (UK Time). Max 6 tickets per player/game. Prizes are Gala Points. Restrictions & T&Cs apply.",
+    "WHERE A LITTLE Gala JOY GOES A LONG WAY",
+    "TAKE TIME TO THINK",
+    "taketimetothink.co.uk"
+  ],
+  "cta_text": "Play Bingo",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFEB00",
+    "#2D2983",
+    "#000000"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "UK adults 18-45 who enjoy casual mobile gaming and social bingo apps.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017109999999999998
+}

@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "0e53beeb905c90e0",
+    "ad_unit_id": "0e53beeb905c90e0",
+    "app_id": "622390aa2e0fa027dbdc26b8",
+    "advertiser_name": "Block Blast!",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/095047a8ce867eca/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/095047a8ce867eca/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/095047a8ce867eca/preview",
+    "phashion_group": "0e53beeb905c90e0",
+    "share": null,
+    "first_seen_at": "2026-01-24T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "New version, challenge higher scores",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Three friends playing the game in a quiet hotel room.",
+    "visual_action": "Three people in a hotel bed with game footage overlaid on top.",
+    "text_overlay": "POV: After a long day out, the hotel room is dead silent... nothing but the sounds of this game",
+    "voiceover_transcript": null,
+    "emotional_pitch": "asmr"
+  },
+  "scene_flow": [
+    "Three friends lying in a hotel bed playing the game simultaneously.",
+    "Split-screen gameplay showing different color themes and block-clearing.",
+    "Satisfying sound effects play as blocks are cleared and combos are achieved.",
+    "Final screen displays the game logo and app store download buttons."
+  ],
+  "on_screen_text": [
+    "POV: After a long day out, the hotel room is dead silent... nothing but the sounds of this game",
+    "Combo 6",
+    "Good",
+    "Perfect!",
+    "BLOCK BLAST ADVENTURE MASTER",
+    "Download on the App Store",
+    "GET IT ON Google Play"
+  ],
+  "cta_text": "BLOCK BLAST",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#FF4081",
+    "#2B3A8C"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual mobile gamers who enjoy satisfying, low-stress puzzle games for relaxation.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001227
+}

@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-3d-render",
+  "target_game_id": "1563230518",
+  "title": "One Move From Disaster — Solitaire Voodoo Fail",
+  "hook_3s": "Timer screams red. Three seconds left. One wrong card drag and the whole green-felt board collapses — can YOU save it?",
+  "scene_flow": [
+    "0-3s HOOK: Tight zoom on a classic solitaire board, green felt, white cards mid-cascade. The timer flashes red 0:03 — a finger drags the WRONG card onto the wrong pile. A giant red 'FAIL ✗' stamp slams the screen.",
+    "3-7s TENSION: Camera pulls back to show the full tableau — foundations almost complete, only 2 red Aces missing. Voiceover-style overlay: 'Wait... it's still solvable.' A ghost-hand hesitates between two cards.",
+    "7-12s PAYOFF: Player POV nails the correct sequence — drag red Queen onto black King, flip hidden card (red Ace!), shoot it to the foundation. Score counter explodes upward, undo button glows, timer freezes at 0:01.",
+    "12-15s CTA: All four foundations complete with a satisfying card-stack snap. Green felt fills the frame, red 'YOU WIN' burst, app icon slides in with CTA."
+  ],
+  "visual_direction": "Stay 100% inside the game's DNA: flat 2D classic solitaire on traditional casino-green felt (#1A874B), crisp white playing cards (#FFFFFF) with sharp red suits and accents (#E31C1B). No 3D characters, no humans, no pets — the drama comes entirely from the cards, the timer, and the drag gesture. Use punchy zoom-ins on card flips, a slight screen-shake on the FAIL stamp, and a clean satisfying snap-to-foundation animation on the win. UI chrome (timer top-center, score counter, undo + finish buttons bottom) must match the actual app screenshots exactly.",
+  "text_overlays": [
+    "0:03 LEFT…",
+    "WRONG MOVE ✗",
+    "Wait — it's still solvable!",
+    "Drag the red Ace 👆",
+    "FOUNDATION COMPLETE",
+    "Can YOU finish it?"
+  ],
+  "cta": "Play Free",
+  "rationale": "The Fail/3D-render archetype wins on pattern-interrupt + 'I can do better' bait, but the original cat-skit has zero mechanical bridge to solitaire and would mis-install. We port only the emotional beat (FAIL → recovery → win) and execute it with native solitaire gameplay so IPM and D1 retention hold. UA team: lean this on lookalikes of casual card/puzzle adults; expect strong CTR from the FAIL stamp and high IPM because the hook teaches the core loop on-screen.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 mobile screenshot, classic 2D flat design solitaire game with traditional green felt aesthetic, casino green background (#1A874B) filling the screen, seven tableau columns of crisp white playing cards (#FFFFFF) with bright red hearts and diamonds (#E31C1B) and black spades/clubs, four foundation slots top-right with three Aces already placed, timer HUD top-center reading '0:03' glowing red, score counter and undo + finish buttons along the bottom bar, a fingertip mid-drag pulling a red Queen of Hearts toward a black King, large bold red stamp text overlay 'WRONG MOVE ✗' slammed diagonally across center, authentic in-game UI chrome matching Solitaire - Voodoo Card Game!, no characters, no humans, no animals, flat 2D vector style, sharp shadows under cards, high contrast, mobile ad creative",
+    "Storyboard frame 2, vertical 9:16, classic 2D flat solitaire tableau on traditional green felt (#1A874B), white cards (#FFFFFF) with red suit pips (#E31C1B), close-up on a hidden face-down card flipping to reveal the Ace of Hearts with a soft glow, foundation piles visible top of screen, timer HUD shows '0:01' in red, score counter ticking up, undo and finish buttons at bottom, on-screen text overlay 'Drag the red Ace 👆' in clean white sans-serif with red underline, in-game UI identical to Solitaire - Voodoo Card Game!, no characters or mascots, flat 2D casino aesthetic, crisp drag-and-drop gameplay moment",
+    "Storyboard frame 3 win state, vertical 9:16, classic 2D flat design solitaire, full traditional green felt background (#1A874B), four foundation piles each topped with a King — two red (#E31C1B) and two black on white cards (#FFFFFF), confetti of tiny red and white card-suit icons bursting outward, large bold overlay text 'FOUNDATION COMPLETE' in white with red drop shadow, timer frozen at 0:01, score counter showing a high number, undo and finish buttons glowing at bottom bar, authentic Solitaire - Voodoo Card Game! HUD and card art, no characters, no people, flat 2D vector style, satisfying victory mobile ad frame"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "6a74efc874daf90e",
+    "ad_unit_id": "6a74efc874daf90e",
+    "app_id": "61706f68479fc7789c180167",
+    "advertiser_name": "Episode: Reality Stars",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4495d5bcf15f8270/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4495d5bcf15f8270/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4495d5bcf15f8270/preview",
+    "phashion_group": "6a74efc874daf90e",
+    "share": null,
+    "first_seen_at": "2026-01-09T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Bored? We've got some teas for you ;)",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A character in a swimsuit performs a photoshoot with camera flashes.",
+    "visual_action": "A female character strikes poses in a studio while a silhouette photographer takes photos.",
+    "text_overlay": null,
+    "voiceover_transcript": "Okay, work that pose. Beautiful. Now switch it up, get a little strange with it.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Character strikes a standard pose in a photo studio.",
+    "Character transitions into a series of increasingly awkward and strange poses.",
+    "Camera flashes illuminate the character during the shoot.",
+    "Final screen shows a group of characters and the game title 'Episode REALITY STARS'."
+  ],
+  "on_screen_text": [
+    "Episode REALITY STARS",
+    "PLAY TODAY!"
+  ],
+  "cta_text": "PLAY TODAY!",
+  "cta_timing_seconds": 9.0,
+  "palette_hex": [
+    "#2c2c2c",
+    "#ffffff",
+    "#b19cd9"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Young women interested in fashion, modeling, and interactive drama games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00146
+}

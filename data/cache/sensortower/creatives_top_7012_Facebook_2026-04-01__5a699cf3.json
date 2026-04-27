@@ -1,0 +1,186 @@
+{
+  "count": 961,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "a501f1d09aa3b810",
+      "app_id": "582219400211a6c9240005fc",
+      "network": "Facebook",
+      "phashion_group": "a501f1d09aa3b810",
+      "ad_type": "video",
+      "first_seen_at": "2025-04-10",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "a501f1d09aa3b810",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7008616c0dade35d/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "Play Now",
+          "button_text": "Play Game",
+          "message": "Fun puzzles & stories."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "582219400211a6c9240005fc",
+        "canonical_country": "US",
+        "name": "Gardenscapes",
+        "publisher_name": "Playrix",
+        "publisher_id": "5614b8de3f07e25d29001b9e",
+        "humanized_name": "Gardenscapes",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/19/64/1e1964c3-4291-3b5f-c6e0-dae70c445d99/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "582219400211a6c9240005fc",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e6e407c8d6232949",
+      "app_id": "5ec45e3767881d189d1ee062",
+      "network": "Facebook",
+      "phashion_group": "e6e407c8d6232949",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-26",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "e6e407c8d6232949",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dfb1c962604c7cff/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dfb1c962604c7cff/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/dfb1c962604c7cff/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "title": "TRY IT YOURSELF",
+          "button_text": "Play Game",
+          "message": "No one can solve these riddles \ud83e\udd2f\ud83e\udd2f"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5ec45e3767881d189d1ee062",
+        "canonical_country": "US",
+        "name": "Braindom: Brain Games Test",
+        "publisher_name": "Matchingham Games",
+        "publisher_id": "5edf12993ad646419fe129f8",
+        "humanized_name": "Braindom: Brain Games Test",
+        "icon_url": "https://play-lh.googleusercontent.com/6skyXaefYf3uMAhHL0q0jYQSvtIQiQavOMkab6m6DHuJyweNfg4TEi350baUMQ82ZHk=s150",
+        "os": "unified",
+        "id": "5ec45e3767881d189d1ee062",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "9bbee0a07e35302e",
+      "app_id": "5f94ce82e604925818c4d435",
+      "network": "Facebook",
+      "phashion_group": "9bbee0a07e35302e",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-06",
+      "last_seen_at": "2026-04-22",
+      "creatives": [
+        {
+          "id": "9bbee0a07e35302e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "title": "Hast du kurz Zeit? Tippen und spielen!",
+          "button_text": "Install Now",
+          "message": "Entdecke ein aufregendes neues Abenteuer \ud83c\udf34"
+        },
+        {
+          "id": "ccaeb6576b7d190e",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "title": "Turn wild land into a booming paradise!",
+          "button_text": "Install Now",
+          "message": "Farm, build, explore\u2014your island adventure starts now!"
+        },
+        {
+          "id": "f681f31439d2955b",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b6a5d966418e7e73/thumb",
+          "video_duration": 15,
+          "width": 576,
+          "height": 1024,
+          "title": "\ud83c\udfe0 \ud83d\uddfa Build and travel!",
+          "button_text": "Install Now",
+          "message": "\u26f0Start a gorgeous adventure \u2764\ufe0f\u200d"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5f94ce82e604925818c4d435",
+        "canonical_country": "US",
+        "name": "Magicabin: Witch's Adventure",
+        "publisher_name": "Ivy Mobile",
+        "publisher_id": "5bc0f7179a22547cba413c2e",
+        "humanized_name": "Magicabin: Witch's Adventure",
+        "icon_url": "https://play-lh.googleusercontent.com/jmitdK0auy9ZmWr_CsmBAdya0JHQqtO71zbibEn7lgB0RXBiAA04WnGXCCOxuPrARvY=s150",
+        "os": "unified",
+        "id": "5f94ce82e604925818c4d435",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "aa22b342f5d0f844",
+      "app_id": "6753a94a9049e6c00f8fd6ed",
+      "network": "Facebook",
+      "phashion_group": "aa22b342f5d0f844",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-16",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "aa22b342f5d0f844",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00190140cfe70660/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "The Queen Awaits, Claim Your Crown",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6753a94a9049e6c00f8fd6ed",
+        "canonical_country": "US",
+        "name": "Queens Master: Sudoku Puzzle",
+        "publisher_name": "Kwalee",
+        "publisher_id": "55f88dbb8ac350426b01f69f",
+        "humanized_name": "Queens Master",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4a/38/cd4a3872-f4e8-8ad1-78e1-78ddf187ad5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "6753a94a9049e6c00f8fd6ed",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

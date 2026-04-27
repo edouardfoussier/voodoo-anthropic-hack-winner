@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "c5dd150ef09fc708",
+    "ad_unit_id": "c5dd150ef09fc708",
+    "app_id": "55d9589402ac645ad22f9717",
+    "advertiser_name": "한게임 포커",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e09aadeeb1430a66/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e09aadeeb1430a66/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e09aadeeb1430a66/preview",
+    "phashion_group": "c5dd150ef09fc708",
+    "share": null,
+    "first_seen_at": "2026-04-06T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "누구나 쉽고 재미있게 한게임 포커\n지금 플레이하고 칩 쓸어 담아가세요",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Displays a massive chip win and a card hand with text welcoming beginners.",
+    "visual_action": "A pile of poker chips totaling 10.5 billion is shown alongside a card hand.",
+    "text_overlay": "포커 초보여도 포커가 처음이어도",
+    "voiceover_transcript": "포커 초보여도 포커가 처음이어도",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Initial shot of a high-stakes poker win and card hand with beginner-friendly messaging.",
+    "Flashy transition with 'RIGHT NOW' text and green light effects.",
+    "Logo reveal of Hangame Poker on a classic green felt table.",
+    "Final call to action screen offering a 1 billion chip reward for new players."
+  ],
+  "on_screen_text": [
+    "포커 초보여도",
+    "포커가 처음이어도",
+    "RIGHT NOW",
+    "HANGAME POKER SINCE 2000",
+    "당장 플레이하고 10억 칩 받으러 가자!",
+    "확률형 아이템 포함"
+  ],
+  "cta_text": "당장 플레이하고 10억 칩 받으러 가자!",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#1B5E20",
+    "#D4AF37",
+    "#000000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Korean adults interested in competitive card games and high-stakes poker simulations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014889999999999999
+}

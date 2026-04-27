@@ -1,0 +1,29 @@
+{
+  "archetype_id": "fail-in-game",
+  "target_game_id": "6754558455",
+  "title": "Marble Sort! — \"One Wrong Tap\" Fail-Bait",
+  "hook_3s": "A perfect pastel sort going right… until one mistimed tap sends orange marbles spilling into the blue box.",
+  "scene_flow": [
+    "0-3s: Close-up on the conveyor as a finger taps a tray — marbles cascade in slow-mo, perfectly landing in their colored boxes. Overlay teases 'Easy, right?'",
+    "3-7s: Pace picks up. Two trays release at once, marbles tumble cleanly into matching boxes — small 'satisfying' sparkle FX. Overlay: 'Almost there…'",
+    "7-11s: A red tray opens a half-second too early; red marbles bounce off the conveyor edge and rain into the BLUE box. Screen shake, soft 'fail' chime. Overlay: '99% FAIL HERE'",
+    "11-14s: Reset. The level re-racks. A finger hovers, hesitating over the correct tray — timing bar pulses. Overlay: 'Can YOU solve it?'",
+    "14-15s: Snap to logo + CTA card with one marble dropping perfectly into its box."
+  ],
+  "visual_direction": "Lock to Marble Sort!'s pastel lavender (#E5DFFF) backdrop and light-grey (#F0F0F8) sorting machine, with the orange accent (#FFB13B) reserved for overlays, the timing indicator, and the failure flash. Clean 3D cartoon style with soft rounded shapes — glossy marbles, chunky rounded trays, a smooth matte conveyor belt. No characters; only a stylized finger-tap cursor. Camera stays in the established 3/4 in-game angle so the ad reads as authentic gameplay, not a render reel. Failure beat uses a brief desaturation + orange vignette rather than crash/explosion tropes.",
+  "text_overlays": [
+    "Easy, right?",
+    "Almost there…",
+    "99% FAIL HERE",
+    "One wrong tap 😬",
+    "Can YOU solve it?",
+    "Tap to try"
+  ],
+  "cta": "Can You Solve It?",
+  "rationale": "Voodoo's current rotation leans entirely on calm \"satisfying sort\" and explainer hooks (\"Get the right color to the right box\") — there is zero fail-bait in the lineup despite it being the dominant casual-puzzle UA pattern. This brief imports the proven fail-in-game archetype but reshoots it natively in Marble Sort!'s pastel/conveyor DNA (mistimed tap → wrong-box spill) so it differentiates on emotion (tension/curiosity) without breaking IP fidelity. UA team: test against the existing satisfaction creatives as the curiosity/IPM lift variant.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical mobile game screenshot, Clean and colorful 3D cartoon style with soft, rounded shapes. Authentic in-game moment from Marble Sort!: a light grey (#F0F0F8) sorting machine centered on a soft lavender (#E5DFFF) background, two rounded marble trays mid-release, glossy red and blue marbles tumbling with physics onto a horizontal moving conveyor belt, colored drop-boxes below (red, blue, yellow, green) — but red marbles are mis-bouncing off the conveyor edge toward the BLUE box. Bold orange (#FFB13B) on-screen text reads '99% FAIL HERE' in chunky rounded sans-serif at top. Stylized finger-tap cursor visible on a tray. No characters. Same UI chrome as Marble Sort!: level counter top-left, star progress bar top-center, pause button top-right. Mobile portrait HUD, soft ambient shadows, pastel palette dominated by #E5DFFF and #F0F0F8 with #FFB13B accents.",
+    "Storyboard frame 1, 9:16 vertical, Clean and colorful 3D cartoon style with soft, rounded shapes. Authentic Marble Sort! gameplay still: overhead-3/4 view of the light grey sorting machine on lavender (#E5DFFF) background, a single tray opening with a stream of glossy yellow marbles falling cleanly onto the conveyor belt and dropping into the matching yellow box below, tiny sparkle FX. Orange (#FFB13B) overlay text 'Easy, right?' top-center in rounded sans-serif. Marble Sort! HUD intact: level number, star bar, pause icon. No characters, palette #E5DFFF / #F0F0F8 / #FFB13B.",
+    "Storyboard frame 2, 9:16 vertical, Clean and colorful 3D cartoon style with soft, rounded shapes. Authentic Marble Sort! moment: the same light grey (#F0F0F8) machine on lavender (#E5DFFF) backdrop, conveyor belt mid-motion, a finger-tap cursor hovering hesitantly above a red tray with a glowing orange (#FFB13B) timing pulse around it, marbles queued inside the tray. Bold orange overlay text 'Can YOU solve it?' centered. Standard Marble Sort! HUD: level counter, star progress, pause button. No characters, soft rounded shapes, pastel palette #E5DFFF / #F0F0F8 / #FFB13B."
+  ]
+}

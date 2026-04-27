@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "fb897782ef9ff0e5",
+    "ad_unit_id": "fb897782ef9ff0e5",
+    "app_id": "59baf7f70211a6be9ed99cac",
+    "advertiser_name": "tombola bingo – UK Bingo Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7092653a45960a13/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7092653a45960a13/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7092653a45960a13/preview",
+    "phashion_group": "fb897782ef9ff0e5",
+    "share": null,
+    "first_seen_at": "2026-01-15T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🎁 Experience the thrill of Deal or No Deal – exclusive to tombola! Ready to take on the challenge?\nWin up to £1,000 for FREE! 💸\nSMS opt in required. 18+ gambleaware.org. T&Cs Apply",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Branded 'Deal or No Deal' box opening with a 'Play for Free' callout.",
+    "visual_action": "A hand selects two numbered boxes which reveal monetary values.",
+    "text_overlay": "DEAL OR NO DEAL PLAY FOR FREE",
+    "voiceover_transcript": "Deal or No Deal at Tombola. Play for free.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Branded intro with 'Deal or No Deal' logo and Tombola branding.",
+    "Simulated gameplay showing a hand picking two boxes.",
+    "Reveal of prize amounts and a 'WINNER' celebration with confetti.",
+    "Value proposition highlight: 'No deposit required'.",
+    "End card with 'Download to play' and app store icons."
+  ],
+  "on_screen_text": [
+    "tombola",
+    "DEAL OR NO DEAL",
+    "PLAY FOR FREE",
+    "WINNER",
+    "No deposit required",
+    "Download to play"
+  ],
+  "cta_text": "Download to play",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#E60000",
+    "#00A68C",
+    "#FFFFFF"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults 18+ who enjoy casual gambling and popular TV game show formats.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014880000000000002
+}

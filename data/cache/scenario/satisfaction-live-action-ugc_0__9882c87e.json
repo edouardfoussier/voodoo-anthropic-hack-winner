@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_KjRssMBibC8Gsg8mcAxSbaMV?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfS2pSc3NNQmliQzhHc2c4bWNBeFNiYU1WP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=h7Mu0i%7EfDiulzmVxhgg2%7EI2FQ4WJNS6QFws7WPYuZQYJmbpCSTtzzbCZEvFYw-Wo%7E9Ef%7ECfIbYc-4eSFISLeGpOkOa53hS%7EhV0%7EuUko4tb45DaTFTq5J%7EpN1qaDJCC5sCfE6QdmCZqIg2dBg7N9I3rS9ngrgL22EjQZ7d7KfpA5ILtZQixBZxNewDAS5S-sOAc4ywzXlD-Sk1uR08P0lRdBxyqXm%7EhPfQHQErbiGv1pwQuZnZARQP4TWRBgIYLzM-eIO9G%7E0PRKoTF8Z-MJvnnfEn6cJGqmMRV76NQXCCs8sY9Ssaa0s4W7YD0dNF8WQSDvwOi1CKSy98fQUzF%7EyKg__",
+  "job_id": "job_ygkAbZNSJYA3sjEphfTrDyBN",
+  "asset_id": "asset_KjRssMBibC8Gsg8mcAxSbaMV",
+  "stub": false,
+  "prompt": "Hero frame, 9:16 vertical mobile ad still: a thoughtful 35-year-old in a charcoal sweater sitting in a pitch-black room, face lit only by the warm golden glow of a phone screen, eyes wide with disbelief, leaning toward camera. Mystical Minimalism visual style, premium cinematic UGC. Strict palette: near-black background #100D06, glowing golden-yellow #D4A024 light wash, #FCE588 highlight on the eyes. Elegant serif on-screen text overlay reads 'It guessed in 12.' in #FCE588. High contrast, shallow depth of field, grain.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

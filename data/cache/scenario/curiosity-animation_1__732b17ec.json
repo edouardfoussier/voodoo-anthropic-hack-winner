@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_N6pFoc58C1LfN7oViYsEmcib?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfTjZwRm9jNThDMUxmTjdvVmlZc0VtY2liP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Yw4L1ZJe1fOGFNfsFdWlAVp4%7EkSgvxyJx5etw1%7ELyH9kMxt45J0DrupRsYEBEIlzD8occNaBY2yUQsjXG3Y08ACYiwbhfJ8iBOtXb1lmM3Dw283uHuWZSI8SvPIZyZjsbl70za0ghUUAqESeGGjLJ66tVSPyVRGaScRYGQOS5GkdETKvPrcSR9Jex0ToG0y-unv4wd7Q9tcXtGrHHizXmByC69RUzO-oueUcjYAXpC7VWc7htFLm81EWy%7EYrbDEWLUzWoAQTkzLembNgSQmKLQpoh42NkUTN46T0RxWdod-KXTcCFxZ5StqVw8KWJjCiAerP%7EB%7EZuh3h0QmcheBRLw__",
+  "job_id": "job_dDdTqXmLJz8RnsvrrqhVSJXp",
+  "asset_id": "asset_N6pFoc58C1LfN7oViYsEmcib",
+  "stub": false,
+  "prompt": "Storyboard frame 2, aspect 9:16, clean and colorful 3D cartoon style with soft rounded shapes, a cascade of glossy multi-color marbles (red, blue, yellow, green, purple) tumbling from a tray onto a light grey (#F0F0F8) conveyor belt with gentle motion blur, lavender (#E5DFFF) background, vibrant orange (#FFB13B) sparkle accents on each marble bounce, on-screen text 'Release the rainbow' in rounded orange typography, satisfying physics moment, mobile puzzle game ad",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

@@ -1,0 +1,33 @@
+{
+  "app_id": "1453989822",
+  "name": "aquapark.io",
+  "genre": "Racing",
+  "sub_genre": "Hypercasual",
+  "core_loop": "Slide down a water track, steer to overtake or bump opponents off the edge, and reach the finish line first to advance.",
+  "audience_proxy": "Broad, casual audience, skewing younger (7-25), looking for quick, competitive, and colorful gameplay.",
+  "visual_style": "3D, low-poly, bright, colorful, cartoonish.",
+  "palette": {
+    "primary_hex": "#42bcf5",
+    "secondary_hex": "#ffffff",
+    "accent_hex": "#ff8c1c",
+    "description": "Bright blue water and white slides contrasted with vibrant orange UI elements."
+  },
+  "key_mechanics": [
+    "sliding",
+    "steering",
+    "bumping",
+    "gliding",
+    "overtaking"
+  ],
+  "character_present": true,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "Water slide track",
+    "Animal avatars",
+    "Inner tubes",
+    "Hang glider",
+    "Power-up icons",
+    "Race progress bar",
+    "Multiplayer leaderboard"
+  ]
+}

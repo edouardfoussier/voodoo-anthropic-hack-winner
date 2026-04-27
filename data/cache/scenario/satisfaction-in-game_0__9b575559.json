@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_QBJaJQ2acbJwbjwRiMSPdF5q?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUUJKYUpRMmFjYkp3Ymp3UmlNU1BkRjVxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=M9MLeGcttospk3LP08LyH%7EasNd0wY8K6EKRVkZBRR1XZELtVdWHQcQ5cjNDwcOQtPntpTl6v7mxqPpkkBe0BEKPTAOZaxjGlzPK2i9qEfgBZAnSyRYIham4zY42ykpTAsf%7Ec-GWDQpfOFSvG6QmYxJujo1fCOlDv9QrcrU8cMNxvQ0jIrCVdo0oex8gC0z2IHPCL77HfoRUZHxQ1WjwwvqwCPW8beljFjODj6faSS0X5mbHQ5vZvlGdaTF3Snpz36MKQ9uHd9Z90v1hFzYgPvcyZ20h%7ErZorMUZOmLk3k2wnJk8vyjERQlVfMczzGt4VtIz0zC%7EEtu8Fxnt6Q0%7EiYw__",
+  "job_id": "job_YSHaUEJjKH8MNr7Q4x9Vgn2e",
+  "asset_id": "asset_QBJaJQ2acbJwbjwRiMSPdF5q",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, authentic in-game screenshot of Marble Sort!: macro close-up of glossy pastel-colored marbles (lavender, mint, peach, soft yellow) mid-fall in slow motion from a light grey rounded tray onto a moving light grey conveyor belt, color-coded sorting boxes visible below, soft lavender #E5DFFF background, light grey #F0F0F8 machine chrome, vibrant orange #FFB13B accent on the level counter HUD top-center, clean and colorful 3D cartoon style with soft rounded shapes, no characters, subtle motion blur on falling marbles, on-screen text overlay 'Can you resist the drop?' in bold rounded orange typography, soft studio lighting, depth of field, tactile and satisfying mood.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

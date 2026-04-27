@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "dd4c963801130577",
+    "ad_unit_id": "dd4c963801130577",
+    "app_id": "55c5146002ac64f9c00025d7",
+    "advertiser_name": "サモンズボード",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/128d008469f58868/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/128d008469f58868/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/128d008469f58868/preview",
+    "phashion_group": "dd4c963801130577",
+    "share": null,
+    "first_seen_at": "2025-07-05T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "『転生したらスライムだった件』コラボが期間限定で開催！あの人気キャラクターたちをGETしよう！",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Rimuru's summoning and transformation sequence announcing the collaboration.",
+    "visual_action": "Rimuru transforms from slime to human form with a sword slash effect against a dark background.",
+    "text_overlay": "『サモンズボード』にリムルを召喚。成功しました。",
+    "voiceover_transcript": "サモンズボードにリムルを召喚。成功しました。",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Rimuru's summoning and transformation sequence with text overlays.",
+    "Character lineup reveal featuring the main cast from the anime series.",
+    "Showcase of specific in-game character units and their names.",
+    "Final call to action detailing free rewards and event dates."
+  ],
+  "on_screen_text": [
+    "2025/6/26(木) メンテナンス後 ~ 7/10(木) 13:59",
+    "『サモンズボード』にリムルを召喚。",
+    "成功しました。",
+    "転生したらスライムだった件",
+    "サモンズボード",
+    "コラボイベント開催！",
+    "魔国連邦リムル=テンペスト",
+    "リムル&ミリム",
+    "運命の二人リムル&シズ",
+    "期間中にお知らせメールからキャラクターをGETしよう！",
+    "期間中コラボログボガチャが最大5回無料！",
+    "さらに光結晶最大15個GET！"
+  ],
+  "cta_text": "期間中コラボログボガチャが最大5回無料！さらに光結晶最大15個GET！",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#00AEEF",
+    "#FFFFFF",
+    "#000000"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of the 'That Time I Got Reincarnated as a Slime' anime who enjoy strategy/RPG mobile games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.002077
+}

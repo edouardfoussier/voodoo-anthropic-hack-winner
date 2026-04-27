@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "f7872ca75c7dec57",
+    "ad_unit_id": "f7872ca75c7dec57",
+    "app_id": "5719761c02ac645af8000004",
+    "advertiser_name": "Diggy's Adventure Escape Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c1fb7c0a7f372f01/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c1fb7c0a7f372f01/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c1fb7c0a7f372f01/preview",
+    "phashion_group": "f7872ca75c7dec57",
+    "share": null,
+    "first_seen_at": "2026-04-10T00:00:00",
+    "last_seen_at": "2026-04-12T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 540,
+    "height": 960,
+    "message": "🧬 The Exclusive DNA Offer is here! It combines the rare DNA you need with a massive Energy refill. ⚡\n🔔 This deal won't be around for long, so head to the shop 👉 https://pxfd.co/pixelshopda and grab yours now!",
+    "button_text": "Learn more",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A treasure chest opens to reveal glowing, colorful DNA strands under an 'Exclusive DNA Offer' headline.",
+    "visual_action": "A wooden chest with a gold emblem opens against a blue diamond background, releasing vibrant DNA helixes.",
+    "text_overlay": "EXCLUSIVE DNA OFFER",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of a closed treasure chest with promotional text.",
+    "The chest opens, revealing colorful DNA strands.",
+    "A 'GET NOW' button appears to prompt user action.",
+    "The scene holds on the final offer state with the open chest."
+  ],
+  "on_screen_text": [
+    "EXCLUSIVE DNA OFFER",
+    "GET NOW"
+  ],
+  "cta_text": "GET NOW",
+  "cta_timing_seconds": 2.0,
+  "palette_hex": [
+    "#76D6FF",
+    "#FFD700",
+    "#9C27B0"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual mobile gamers who enjoy collection-based progression and special rewards.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001311
+}

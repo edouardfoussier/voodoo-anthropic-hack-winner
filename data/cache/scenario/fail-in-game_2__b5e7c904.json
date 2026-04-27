@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_TqpYae1No4PsutGCrMEjUqcb?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVHFwWWFlMU5vNFBzdXRHQ3JNRWpVcWNiP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=H4nKthlMaWefM7H2TgGMHLvD1XoM%7EhPBc3IWTIl84JryfotsVP1QuffeOrsu5YlXEwBWLDNPSNjoSmXtr2wLhfR6OeC3U-jlwD1Gek99W80vm-%7Eu23nLHcwqVwHwKliyDevoqtJtpagvg577vKy1sI2nB0EWUL0Q4Qr7taXp1uJFFOGk6YoyQFVvbtMkCcndCt3ao1NLck4kD8lFA3SIEA5rC6xWkyVA7ZXDN2Ki1lnpPdxRvWNIfzWYWQX36w3OzQze584PpVNDS6jcZXwmkfFBYUcBb78FeyzJAosdrkP9byIhQH--4ssT0FpWbeMs6vtfjMzBa4X8LlJTWKBxxA__",
+  "job_id": "job_5Zphfq5uAyR3xdjtUX3w4je7",
+  "asset_id": "asset_TqpYae1No4PsutGCrMEjUqcb",
+  "stub": false,
+  "prompt": "Storyboard win beat, 9:16 vertical, in-game frame from Crazy Kick! Fun Football: white soccer ball ripping into the top-corner of the net, glowing dotted trajectory trail arcing perfectly past a diving stickman keeper, net rippling, sandy-yellow (#F5D77F) pitch, sky-blue (#1CB4F0) stadium, lime-green (#99CC33) confetti burst and UI chrome, level progression bar filling up, bold white text 'TOP CORNER! \ud83d\udd25' and a green 'PLAY FREE' CTA button at bottom, 3D hyper-casual low-poly bright and colorful with simple stickman characters, energetic competitive mobile game UI, authentic in-game screenshot, no logos",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

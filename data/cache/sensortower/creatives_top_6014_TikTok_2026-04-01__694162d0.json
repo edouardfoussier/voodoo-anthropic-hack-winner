@@ -1,0 +1,154 @@
+{
+  "count": 837,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "125a9631c4596da2",
+      "app_id": "53857baf830f78f0bc0068e3",
+      "network": "TikTok",
+      "phashion_group": "125a9631c4596da2",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-24",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "125a9631c4596da2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/065aa77b02e50a5f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/065aa77b02e50a5f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/065aa77b02e50a5f/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "message": "Master your Warframe: Dominate the battlefield with skill and strategy."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "53857baf830f78f0bc0068e3",
+        "canonical_country": "US",
+        "name": "Warframe Companion",
+        "publisher_name": "Digital Extremes",
+        "publisher_id": "55f88e348ac350426b022687",
+        "humanized_name": "Warframe Companion",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/11/32/ac113257-288e-0045-ef63-5fbd3038588d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "53857baf830f78f0bc0068e3",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "0eb36af402d8ea45",
+      "app_id": "55c50c2b02ac64f9c000230f",
+      "network": "TikTok",
+      "phashion_group": "0eb36af402d8ea45",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-12",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "0eb36af402d8ea45",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76e9457321dc90e7/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76e9457321dc90e7/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/76e9457321dc90e7/thumb",
+          "video_duration": 13,
+          "width": 1080,
+          "height": 1920,
+          "message": "Drop your first beat today. Edjing Mix makes mixing simple for beginners. Start your DJ journey now!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c50c2b02ac64f9c000230f",
+        "canonical_country": "US",
+        "name": "edjing Mix - Music DJ app",
+        "publisher_name": "MWM",
+        "publisher_id": "666b457e0c57f4f65de7cbd2",
+        "humanized_name": "edjing Mix",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ec/3d/13ec3d47-e540-93c8-625e-19bd3a0aa6c9/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c50c2b02ac64f9c000230f",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "00e3e8e3cb2a5860",
+      "app_id": "673c0ae472f4c26836a99529",
+      "network": "TikTok",
+      "phashion_group": "00e3e8e3cb2a5860",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-02",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "00e3e8e3cb2a5860",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7b04fbedb7359755/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Show the world you\u2019re the ultimate manager."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "673c0ae472f4c26836a99529",
+        "canonical_country": "US",
+        "name": "Ultimate Football Manager",
+        "publisher_name": "Miniclip",
+        "publisher_id": "65670b56ad4adb650837a435",
+        "humanized_name": "Ultimate Football Manager",
+        "icon_url": "https://play-lh.googleusercontent.com/jAwq8uTCsTK4POOhZjIUN1cVjzE670yBvAxoHAZalkihu50AUMCKwad7o6Zlu_M8yw=s150",
+        "os": "unified",
+        "id": "673c0ae472f4c26836a99529",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2e02ad05ae871b6a",
+      "app_id": "55d93d7702ac645ad20d7433",
+      "network": "TikTok",
+      "phashion_group": "2e02ad05ae871b6a",
+      "ad_type": "video",
+      "first_seen_at": "2025-09-14",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "2e02ad05ae871b6a",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/315e14c2b05bf271/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/315e14c2b05bf271/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/315e14c2b05bf271/thumb",
+          "video_duration": 14,
+          "width": 720,
+          "height": 1280,
+          "message": "Spark a love for reading with the award-winning reading app that makes reading fun & easy."
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d93d7702ac645ad20d7433",
+        "canonical_country": "US",
+        "name": "Reading Eggs - Learn to Read",
+        "publisher_name": "Blake eLearning",
+        "publisher_id": "560c4a6a8ac350643900e542",
+        "humanized_name": "Reading Eggs",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/57/ea/8e57ea76-7c50-7910-8959-fbcc82b13c51/AppIcon_PRODUCTION-1x_U007emarketing-0-11-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55d93d7702ac645ad20d7433",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

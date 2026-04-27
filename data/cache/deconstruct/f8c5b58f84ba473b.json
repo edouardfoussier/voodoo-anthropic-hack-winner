@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "f8c5b58f84ba473b",
+    "ad_unit_id": "f8c5b58f84ba473b",
+    "app_id": "55f3733b02ac64eb8400006e",
+    "advertiser_name": "Huuuge Casino 777 Slots Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/91a0a3acda4ba13e/preview",
+    "phashion_group": "f8c5b58f84ba473b",
+    "share": null,
+    "first_seen_at": "2026-02-16T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Great prize! Win today!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A 3D cheerleader dances in a stadium as a massive jackpot counter climbs and gold coins rain down.",
+    "visual_action": "A cheerleader performs a dance routine on a football field with fireworks and falling coins.",
+    "text_overlay": "COLOSSAL JACKPOT",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A 3D cheerleader dances on a football field while a 'COLOSSAL JACKPOT' counter ticks up.",
+    "Gold coins rain down over the character as fireworks burst in the background.",
+    "The headline shifts to 'Win Big This Super Bowl!' while the dance continues.",
+    "The 'PLAY NOW' button is prominently displayed at the bottom of the screen throughout."
+  ],
+  "on_screen_text": [
+    "HUUUGE CASINO",
+    "COLOSSAL JACKPOT",
+    "Win Big This Super Bowl!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFD700",
+    "#4CAF50",
+    "#0D47A1"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Adult mobile gamers who enjoy casino-style games and sports-themed events.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0012410000000000001
+}

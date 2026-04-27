@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "6754558455",
+  "title": "Tap, Drop, Sort: The Marble ASMR Loop",
+  "hook_3s": "Close-up: a finger taps a lavender tray, glossy marbles cascade onto a moving belt — pure ASMR satisfaction in soft purple light.",
+  "scene_flow": [
+    "0-3s HOOK: Macro top-down of a phone in a woman's hand, soft lilac UI glowing. A fingertip taps a tray; jewel-like marbles spill onto the conveyor with a crisp click-clack sound.",
+    "3-7s MECHANIC REVEAL: Camera pulls slightly back to show three matching colored boxes. Marbles roll along the belt; a perfectly timed tap drops an orange marble into the orange box — sparkle VFX, satisfying chime.",
+    "7-11s TENSION BEAT: A near-miss — wrong-color marble approaches the wrong box. Hand hesitates, taps at the last second, marble plops correctly. Slow-mo emphasizes the timing thrill.",
+    "11-14s PAYOFF: Rapid montage of trays emptying, boxes filling, level-complete burst in accent orange against lilac background. Stars pop, progress bar fills.",
+    "14-15s CTA: Logo lockup with app icon, finger taps 'Play Free' button."
+  ],
+  "visual_direction": "Casual 3D render with soft global illumination and shallow depth-of-field, mimicking a cozy desk-top diorama. Dominant lavender (#C7C2F8) backdrop and trays, neutral grey (#A0A8C0) conveyor belt with subtle motion blur, and bright orange (#FFB33B) accents on hero marbles, success VFX, and CTA button. Glossy translucent marbles with subtle subsurface scatter to amplify the ASMR/satisfaction read. UI is calm, rounded, minimal — no clutter. Hand model is feminine, manicured, neutral-toned to mirror the 25-55 female casual audience.",
+  "text_overlays": [
+    "Can you sort them all?",
+    "Tap to drop 👆",
+    "Time it right…",
+    "Oddly satisfying 💜",
+    "Level 1 Complete ⭐",
+    "Play Free Now"
+  ],
+  "cta": "Play Free",
+  "rationale": "We keep the proven 'satisfaction' emotional pitch from the winning jigsaw archetype but swap the mechanic to an honest tap-to-drop marble sort, protecting D1/D7 retention from the mismatch flagged in scoring. The lilac + orange palette and ASMR macro framing lean into the 25-55 female casual demo where audience fit indexed 78/100. UA should A/B the 'Oddly satisfying' overlay vs. 'Can you sort them all?' as the 3s hook — the former rides the satisfaction trend, the latter drives curiosity-led IPM.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, Casual 3D render style, macro close-up of a woman's manicured finger tapping a soft lavender (#C7C2F8) tray on a smartphone screen, glossy translucent colored marbles cascading onto a neutral grey (#A0A8C0) moving conveyor belt, bright orange (#FFB33B) marble glowing in the foreground, soft diffused studio lighting, shallow depth of field, cozy satisfying mood, on-screen text overlay reading 'Oddly satisfying 💜' in rounded white type, app store ad still",
+    "Storyboard frame mechanic reveal, aspect 9:16, Casual 3D style, top-down view of a smartphone with three pastel collection boxes (lavender #C7C2F8, grey #A0A8C0, orange #FFB33B) at the bottom of the screen, marbles rolling along a conveyor belt above them, sparkle VFX as an orange marble drops perfectly into the matching orange box, calm minimalist UI, soft global illumination, on-screen text overlay 'Tap to drop 👆' in bold rounded font, mobile ad creative",
+    "Storyboard payoff frame, aspect 9:16, Casual 3D render, smartphone screen filled with a level-complete celebration, golden orange (#FFB33B) stars bursting against a soft lilac (#C7C2F8) background, neutral grey (#A0A8C0) progress bar fully filled, glossy marbles settled in their boxes, confetti particles, warm satisfying glow, on-screen text overlay 'Level 1 Complete ⭐' in chunky white rounded type, vertical mobile ad still"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "archetype_id": "fail-3d-render",
+  "target_game_id": "1524760095",
+  "title": "Pole Too Short?! — Fail-to-Win Rooftop Run",
+  "hook_3s": "A spinning saw slices the pole down to a stub mid-slide — the runner wobbles over a cyan skyline canyon as the screen freezes on \"OH NO!\"",
+  "scene_flow": [
+    "0-3s: Cold open mid-run on a white rooftop rail; a buzzing yellow saw swings in and SHEARS the pole down to a tiny stub. Freeze-frame wobble, comedic 'OH NO' overlay.",
+    "3-7s: 'Fail' replay — character teeters, slow-mo drop between two pastel skyscrapers. Big red 'DON'T DO THIS' stamp.",
+    "7-11s: Rewind whoosh. This time a finger-tap drags the runner through a stream of glowing pole pieces; the pole grows comically long, magenta sparkles trailing.",
+    "11-14s: Triumphant slide across THREE connected rails, ducking saws, diamonds vacuumed up, level bar fills to MAX with a satisfying chime.",
+    "14-15s: Logo lockup on cyan sky, CTA pulses."
+  ],
+  "visual_direction": "Lock to Roof Rails' signature 3D minimalist look: chunky low-poly rooftops, stark #EAF6FA white paths, #5CD6FF cyan sky gradient, #FFC824 yellow accents on pole pieces and saws, magenta diamond pickups. Soft global lighting, no textures — just clean flat shading. Camera is the standard behind-the-shoulder Roof Rails follow-cam with a slight Dutch tilt on the fail beat for comedy. Keep HUD authentic: top-left diamond counter, top-center level progress bar, level indicator pill. Saw obstacles are flat yellow discs with triangular teeth, exactly as in-game.",
+  "text_overlays": [
+    "OH NO!",
+    "Pole too short 😱",
+    "DON'T DO THIS",
+    "Tap to grab MORE →",
+    "MAX POLE = WIN",
+    "Can YOU finish it?"
+  ],
+  "cta": "PLAY FREE",
+  "rationale": "Voodoo's current Roof Rails rotation is almost entirely no-copy gameplay videos and a single playable — there is zero \"fail-first / wrong-way vs right-way\" comedic framing in market, even though Fail · 3D-render is a proven scroll-stopper across casual UA. This brief imports that emotional pitch but anchors it to Roof Rails' actual saw-cuts-pole moment, so the hook is on-mechanic (no Gardenscapes cat detour) and the \"DON'T DO THIS → DO THIS\" structure doubles as a tutorial, lifting IPM for low-intent broad-casual traffic.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, in-game screenshot of Roof Rails: behind-the-shoulder view of a runner mid-slide on a stark white #EAF6FA rooftop rail between two low-poly pastel skyscrapers, bright cyan #5CD6FF sky gradient, a flat yellow #FFC824 circular saw with triangular teeth slicing the long balancing pole in half, glowing yellow pole-piece collectibles floating ahead, magenta diamond pickups, authentic HUD with top-center progress bar and top-left diamond counter and level indicator pill, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, bold white sans-serif on-screen text 'OH NO!' centered, no textures, soft global lighting",
+    "Storyboard frame 2, aspect 9:16, in-game Roof Rails moment: runner with a comically long horizontal balancing pole sliding across THREE parallel white rails connecting cyan #5CD6FF rooftops, a stream of yellow #FFC824 pole-piece collectibles being absorbed, magenta diamonds sparkling, two yellow saw obstacles dodged behind, top-center level progress bar nearly full, diamond counter visible top-left, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, on-screen text 'MAX POLE = WIN' in chunky yellow caps, clean #EAF6FA path, no textures",
+    "Storyboard frame 3, aspect 9:16, freeze-frame fail beat in Roof Rails: stubby cut-off balancing pole, runner teetering at the edge of a white #EAF6FA rooftop rail with a deep drop between pastel low-poly buildings under a #5CD6FF cyan sky, severed yellow pole pieces tumbling, slight Dutch-tilt camera, authentic HUD intact with progress bar and #FFC824 yellow level indicator, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, red stamp text 'DON'T DO THIS' overlaid, no textures, soft shadows"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_m7ZtdibjsnjJhqH444RBKS3C?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfbTdadGRpYmpzbmpKaHFINDQ0UkJLUzNDP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=YtNDJAdV58xdNf2DtlxCVOnmaMBTNhit4PZO85wUbNKtoSOEX4IFF4o6BoCPdk0OCNqBitQKGBohQJHYYOCe55dEWlVGoxoHQFgcep9dTbMOEWbqXHfRlvfPICBDXuJ2fDEF33rhV2gZqQ3ieHBBVhvzQdB%7EDFiLh0aHIfVLEkqhQs23iecaMlmDAKlFyeT8xABCmSRjmtz6QJGKF5QRcpHCUTMdaCrM0I1pZzppZSGxMEej5Iy4NcWhy-k2IVUng8rI4AL62oIv1Gc1cHkV2y5x-G7M4%7EShWuadm7lmS7o%7ERMC1T2qXCpQC8NxrqnndIh4MSngWor%7ErERWoLSnxzg__",
+  "job_id": "job_t8L7LytmGk1KdBvG79ozMyin",
+  "asset_id": "asset_m7ZtdibjsnjJhqH444RBKS3C",
+  "stub": false,
+  "prompt": "Authentic Roof Rails in-game screenshot, 9:16 vertical mobile aspect, third-person chase camera behind the stylized minimalist runner character sprinting along a stark white #EAF6FA rooftop rail between cyan #5CD6FF skyscrapers, balancing a massive horizontal pole made of glowing yellow #FFC824 segments, a magenta spinning saw obstacle dead ahead about to shear the pole, yellow diamond pickups floating along the rail, HUD: progress bar top-center at 80%, diamond counter top-right, level indicator top-left, 3D minimalist style with simple geometry, bright pastel colors, clean uncluttered aesthetic, bold white on-screen text '99% FAIL THIS RAIL \ud83d\ude33'. [Audio: VO (anxious male, gen-z) 'bro nobody clears this\u2026' / 140bpm punchy competitive trap, sub-heavy / collect-chime stack 0-2s, tense riser 2-4s, sharp metallic SAW-SHEAR crack at 4.5s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

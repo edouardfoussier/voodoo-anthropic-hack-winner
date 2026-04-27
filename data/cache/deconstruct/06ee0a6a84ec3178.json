@@ -1,0 +1,69 @@
+{
+  "raw": {
+    "creative_id": "06ee0a6a84ec3178",
+    "ad_unit_id": "06ee0a6a84ec3178",
+    "app_id": "5aad42d99f479f0a74d40440",
+    "advertiser_name": "PUBG MOBILE",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0010778984d17c28/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0010778984d17c28/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0010778984d17c28/preview",
+    "phashion_group": "06ee0a6a84ec3178",
+    "share": null,
+    "first_seen_at": "2026-03-09T00:00:00",
+    "last_seen_at": "2026-04-01T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Learn more",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Teaser announcement for the new Royale Pass A18",
+    "visual_action": "Bold text 'NEW RP A18 COMING SOON' flashes on a bright yellow background followed by a character reveal",
+    "text_overlay": "NEW RP A18 COMING SOON",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Teaser for the upcoming Royale Pass A18 with bold yellow branding.",
+    "Preview of the 'A18 Kicker' character and the Elite Pass prize pools.",
+    "Price comparison showing a massive discount from 720 UC to 60 UC for new users.",
+    "Detailed breakdown of pre-order rewards including the Static Maverick and Sonic Siren sets.",
+    "Final summary of the 100% RP bonus chance and additional cosmetic items."
+  ],
+  "on_screen_text": [
+    "NEW RP A18 COMING SOON",
+    "A18 KICKER",
+    "Lv. 1-50 Elite Pass Prize Pool",
+    "A18 Crate Draw 10 Voucher",
+    "Lv. 1-100 Elite Pass Prize Pool",
+    "ELITE PASS",
+    "720 UC",
+    "60 UC",
+    "LOWEST EVER PRICE",
+    "EXCLUSIVE TO NEW RPA USERS",
+    "PRE-ORDER PERIOD: 3/8-5/15",
+    "STATIC MAVERICK SET (LV. 3)",
+    "SONIC SIREN SET",
+    "SONIC SIREN COVER",
+    "100% CHANCE FOR AN RP BONUS",
+    "ALL FACES RETURN",
+    "STARRY PURPLE TRAIL",
+    "ELITE RP UPGRADE CARD (A18)"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#F9E100",
+    "#1A237E",
+    "#FFFFFF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Competitive mobile battle royale players interested in seasonal cosmetics and discounted pass upgrades.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.002016
+}

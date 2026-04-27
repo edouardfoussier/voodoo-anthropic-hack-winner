@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "f622a6e9bbedafe7",
+    "ad_unit_id": "f622a6e9bbedafe7",
+    "app_id": "55c5329202ac64f9c0002e8f",
+    "advertiser_name": "Marvel Contest of Champions",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2bb6271fa79648a3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2bb6271fa79648a3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2bb6271fa79648a3/preview",
+    "phashion_group": "f622a6e9bbedafe7",
+    "share": null,
+    "first_seen_at": "2026-02-19T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Captain America, Spider-Man, Thor, Shuri, Mister Fantastic & more await your summons to battle!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Hulk and The Thing engage in a high-intensity fighting match.",
+    "visual_action": "Hulk punches The Thing repeatedly in a jungle-themed arena with a 'FIGHT' overlay.",
+    "text_overlay": "MARVEL CONTEST OF CHAMPIONS, PLAY ANYWHERE, DOWNLOAD FREE",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "The 'FIGHT' prompt initiates a battle between Hulk and The Thing in a jungle arena.",
+    "Hulk executes a rapid combo of punches, visibly depleting The Thing's health bar.",
+    "The screen displays 'PLAY ANYWHERE' and 'DOWNLOAD FREE' alongside platform icons over a space background."
+  ],
+  "on_screen_text": [
+    "MARVEL CONTEST OF CHAMPIONS",
+    "FIGHT",
+    "PLAY ANYWHERE",
+    "Download on the App Store",
+    "GET IT ON Google Play",
+    "PC VERSION",
+    "DOWNLOAD FREE",
+    "KABAM"
+  ],
+  "cta_text": "DOWNLOAD FREE",
+  "cta_timing_seconds": 1.0,
+  "palette_hex": [
+    "#000000",
+    "#FFD700",
+    "#4B5320"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Marvel fans and competitive gamers looking for high-quality mobile fighting experiences.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001375
+}

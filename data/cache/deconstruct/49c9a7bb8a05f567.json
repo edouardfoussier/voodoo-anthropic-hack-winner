@@ -1,0 +1,49 @@
+{
+  "raw": {
+    "creative_id": "49c9a7bb8a05f567",
+    "ad_unit_id": "49c9a7bb8a05f567",
+    "app_id": "5d5b97412abd3d12ef100cea",
+    "advertiser_name": "Jewel Sliding - Block Puzzle",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/preview",
+    "phashion_group": "49c9a7bb8a05f567",
+    "share": null,
+    "first_seen_at": "2026-03-29T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A man and a turkey fall from a collapsing bridge onto a precarious stack of colorful blocks.",
+    "visual_action": "The bridge breaks, and the characters land on a block tower while a hand starts removing pieces.",
+    "text_overlay": null,
+    "voiceover_transcript": "Ahhh! Ahhh!",
+    "emotional_pitch": "fail"
+  },
+  "scene_flow": [
+    "A man and a turkey fall from a breaking bridge onto a stack of colorful blocks.",
+    "A hand removes blocks from the stack, causing the platform to tilt.",
+    "The man screams in terror as the turkey balances on the wobbling tower.",
+    "The player continues to remove blocks, making the structure increasingly unstable."
+  ],
+  "on_screen_text": [],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#87CEEB",
+    "#4CAF50",
+    "#8B4513"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual mobile gamers who enjoy physics-based puzzle games with a humorous or high-stakes theme.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001474
+}

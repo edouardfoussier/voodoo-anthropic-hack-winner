@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "d07ba91ec64f0063",
+    "ad_unit_id": "d07ba91ec64f0063",
+    "app_id": "5cdcb9bda4f4b65b46852598",
+    "advertiser_name": "Cube Block - Woody Puzzle Game",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03ead7dddf86a130/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03ead7dddf86a130/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03ead7dddf86a130/preview",
+    "phashion_group": "d07ba91ec64f0063",
+    "share": null,
+    "first_seen_at": "2026-04-04T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A wooden block is slotted into a concrete wall, triggering a satisfying row-clearing explosion.",
+    "visual_action": "A 3D wooden block is dragged into a matching hole; the top layer of the concrete wall shatters into physics-based debris.",
+    "text_overlay": "Cube Block - Woody Puzzle Game",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "A wooden block is placed into the top-left slot of a concrete puzzle board.",
+    "The entire top row shatters into small gray fragments and falls to the bottom.",
+    "A second block is selected from the side menu and placed into a lower slot.",
+    "More concrete pieces break away, revealing the wooden structure underneath."
+  ],
+  "on_screen_text": [
+    "Cube Block - Woody Puzzle Game"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#8B5A2B",
+    "#A9A9A9",
+    "#D2B48C"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual puzzle enthusiasts who find satisfaction in physics-based destruction and spatial organization.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001249
+}

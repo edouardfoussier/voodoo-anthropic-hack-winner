@@ -1,0 +1,49 @@
+{
+  "raw": {
+    "creative_id": "e3c6af26067bd4c1",
+    "ad_unit_id": "e3c6af26067bd4c1",
+    "app_id": "66dfa5a76f5f0cddd1327739",
+    "advertiser_name": "Fruit Clash - Sort & Merge",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cdafcf90b8bcc2dd/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cdafcf90b8bcc2dd/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/cdafcf90b8bcc2dd/preview",
+    "phashion_group": "e3c6af26067bd4c1",
+    "share": null,
+    "first_seen_at": "2025-11-25T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Gravity’s my biggest enemy",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Satisfying fruit-merging gameplay with cute character designs.",
+    "visual_action": "Fruits are dropped into a container, merging into larger ones with popping sound effects.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "The container is shown full of colorful, expressive fruit characters.",
+    "A fruit is dropped from the top, merging with another to create a larger fruit.",
+    "A large green melon is formed, shifting the entire pile.",
+    "Gameplay continues with more fruits being dropped into the mix."
+  ],
+  "on_screen_text": [],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#E63946",
+    "#7B5E57",
+    "#F4A7B9"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual puzzle game players who enjoy satisfying physics and cute aesthetics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001405
+}

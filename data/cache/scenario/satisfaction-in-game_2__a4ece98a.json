@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_Fzeh9Dd8kkBjDNMCd5UmzCa8?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfRnplaDlEZDhra0JqRE5NQ2Q1VW16Q2E4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=KjCSjew4xPCUsZi1aW8gl6VYz7DZ%7Ehf1Frxn0P5ITCv7HzvpqXkfs9WIC8OTHquPNqeNWhBuYxfaB0CXKQEQHEhMIaPsAsdilzVFJ%7El7x6pHH4WDBMSahqg8VZQ-GjeMm3bJeWPg-9KHWUavp5p6YIYN-cN7w4AtyrFNmKPxblstnfjIG0UyF%7ERvco14HNrMRQVedJesNZYxQtaT72eoUo4HCQgDm0O1Alknh9FOoCoJW3OKKx5qooC31%7EcDHwTumDseAo%7E4tU%7EwA0RNrJ9zkGZx%7ESY0PCkgc7qE7uePjJkRIYZxcMv6v1MeWYw%7EB9V71ZOkiPuv2ibD6YTWpGgUtg__",
+  "job_id": "job_s2PQHEzRHv6DwEs741opHbby",
+  "asset_id": "asset_Fzeh9Dd8kkBjDNMCd5UmzCa8",
+  "stub": false,
+  "prompt": "Aspect 9:16, 3D low-poly bright colorful cartoonish aquapark.io hang-glider section, cartoon animal racer gliding mid-air off a ramp above a bright blue (#42bcf5) pool, three rival racers tumbling off-screen below, white (#ffffff) clouds and slide structures, sun flare, signature orange (#ff8c1c) HUD with finish-line progress bar nearly full and 1st-place crown icon, massive bold overlay text 'PSYCHOPATH \ud83d\udd25' shaking in orange with white outline, exact aquapark.io art direction, no fabricated mechanics. [Audio: VO (gleeful) 'PSYCHOPATH!!' / peak-drop competitive trap 128 BPM with bass hit / triple knockout whoosh, glass-shatter SFX at 1.2s, victory chime at 3s].",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

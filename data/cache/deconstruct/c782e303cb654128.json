@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "c782e303cb654128",
+    "ad_unit_id": "c782e303cb654128",
+    "app_id": "66d27b94782b200e42488550",
+    "advertiser_name": "Perfect Tidy",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b5a50859a89c02a/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b5a50859a89c02a/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b5a50859a89c02a/preview",
+    "phashion_group": "c782e303cb654128",
+    "share": null,
+    "first_seen_at": "2025-12-20T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 540,
+    "height": 960,
+    "message": "Get all the buses out!!!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A hand cursor efficiently clears a crowded parking lot by matching car colors to a queue of waiting passengers.",
+    "visual_action": "A hand cursor taps on a red car, then blue cars, which move to a loading zone to pick up matching passengers.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "The video opens with a complex car puzzle and a line of colored passengers.",
+    "A hand cursor selects cars in the correct order to match the front of the passenger line.",
+    "Matched cars move to the top slots, fill up with passengers, and drive away.",
+    "The gameplay continues, showing the strategic clearing of the parking lot."
+  ],
+  "on_screen_text": [
+    "85",
+    "115",
+    "160"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#A9A9A9",
+    "#FF0000",
+    "#0000FF"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile gamers who enjoy sorting and matching puzzles with satisfying mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001283
+}

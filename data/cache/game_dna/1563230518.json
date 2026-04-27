@@ -1,0 +1,31 @@
+{
+  "app_id": "1563230518",
+  "name": "Solitaire - Voodoo Card Game!",
+  "genre": "Card",
+  "sub_genre": "Solitaire",
+  "core_loop": "Draw cards, stack them in descending alternating colors, and move them to foundation piles before the timer runs out.",
+  "audience_proxy": "Casual players of all ages, leaning towards adults seeking quick, familiar mental puzzles.",
+  "visual_style": "Classic 2D flat design with a traditional green felt aesthetic.",
+  "palette": {
+    "primary_hex": "#1A874B",
+    "secondary_hex": "#FFFFFF",
+    "accent_hex": "#E31C1B",
+    "description": "Traditional casino green background with stark white cards and bright red accents."
+  },
+  "key_mechanics": [
+    "drawing",
+    "stacking",
+    "sorting",
+    "drag-and-drop"
+  ],
+  "character_present": false,
+  "ui_mood": "tense/challenging",
+  "screenshot_signals": [
+    "green background",
+    "playing cards",
+    "timer",
+    "score counter",
+    "undo button",
+    "finish button"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_3TzQtoA7goas8LNaSRWRstRo?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM1R6UXRvQTdnb2FzOExOYVNSV1JzdFJvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ulYqdSV0MIktdS7d-oFTTKsJRx-fcXcdJU0IfS9kCfg0KRNPZWL1TLjiQFbl408uJa16xB%7EFLS2JYbK9nMzbQOLu84MugnqjuQArowMKyQ9K2bYBoMoBH7lOpKMF6wz0WfoRaBBZHuvy7qtM%7Em%7EJ4M1g0wluRhLDZRcKsoGvvCtiwj5y5%7ERnbK6hkgfZDF3YwxWIalSyNRUGnONArydWAr%7EI%7E8TeBUVwDFrCZANaPnWn5GHvRUPrqIyV6%7EefQ%7E3vzGWqJ7WYJlWj8e0e6irbeAtpPr8b84hgkcl5LaGYnyYyHDn%7EHVOj7MDorWSqW%7EnvwcAgvYaECaFLlSanBbxqFQ__",
+  "job_id": "job_jvjxybzeN49kSuyCMUq2HvZ6",
+  "asset_id": "asset_3TzQtoA7goas8LNaSRWRstRo",
+  "stub": false,
+  "prompt": "Storyboard frame 3, vertical 9:16 aspect ratio, mystical minimalism style: dramatic reveal card on a near-black canvas (#100D06), large luminous golden serif name 'BEYONC\u00c9' centered with soft #FCE588 bloom and #D4A024 underline flourish, fine gold particles radiating outward, on-screen text overlay at top reading 'I'm never sleeping again.', sophisticated mysterious tone, cinematic, high-end mobile game key art",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

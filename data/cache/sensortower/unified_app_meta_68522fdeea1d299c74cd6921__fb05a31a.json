@@ -1,0 +1,29 @@
+{
+  "apps": [
+    {
+      "unified_app_id": "68522fdeea1d299c74cd6921",
+      "name": "Royal Kingdom",
+      "canonical_app_id": 1606549505,
+      "cohort_id": "cohort_69c4419337ebae041f2f1fb7",
+      "itunes_apps": [
+        {
+          "app_id": 1606549505
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.dreamgames.royalkingdom"
+        }
+      ],
+      "unified_publisher_ids": [
+        "5f16a8019f7b275235017613"
+      ],
+      "itunes_publisher_ids": [
+        1482155846
+      ],
+      "android_publisher_ids": [
+        "Dream+Games,+Ltd."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_5DML6JCmb4P7Mf1Dnzwnajf7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNURNTDZKQ21iNFA3TWYxRG56d25hamY3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=riP2m34apxhMGrqDgV7wiTtjSHUSo9SGHXsgaFNh7s%7EG4zuGS09N9-8KQ7zwrjvMdRwYtmXo73d5apCSLVDGQ1i9KW%7EQpgPeGeOo9qvd%7ElbGqK2ksBY2HUIPgddMlLtr79ld39OA8Nb1zlbHSZ%7EgEo6Yr6%7EmoRa60etOdHv8HMr-FLzgW342nDAbCthJt2gMTNqfGSLvBDA6mYGRBL0gO-ogOGE1NXD6MHgl65xVUCVCZqqFjQYtEnrxdu50zx2ms4HptqLTGcJ4YflV8Hi0oRxwUI-Yq%7El1ClJV4ijVS2H4NHoAyKmvcNc-UWK%7EfEe5kapFtZvH1FoVMTnQB5oLhw__",
+  "job_id": "job_mdKF7sjwxt5BH6WbModcYzjo",
+  "asset_id": "asset_5DML6JCmb4P7Mf1Dnzwnajf7",
+  "stub": false,
+  "prompt": "Storyboard frame 3 redemption shot, 9:16 vertical aspect, first-person view of toy gun firing a perfectly aimed yellow ball knocking three red crash-test dummies (#D91A1A) off a geometric platform in a satisfying domino chain, bodies tumbling into pastel #8ED4FF void, bright #6B15E8 purple combo-flash radiating from impact, level progress bar filling to 100% in purple, minimalist 3D bright flat colors, no characters on screen, bold overlay text 'YOUR TURN \u2014 TAP TO PLAY' in white with purple drop shadow at bottom center, authentic Knock'em All UI. [Audio: VO (confident): 'Your turn.' / calm uplifting chiptune swell 100 BPM / triple chime combo at 1s, satisfying whoosh-pop on each dummy knockoff.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

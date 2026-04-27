@@ -1,0 +1,71 @@
+{
+  "raw": {
+    "creative_id": "feefbafd61a4225a",
+    "ad_unit_id": "feefbafd61a4225a",
+    "app_id": "55d20e3902ac64ee7300002b",
+    "advertiser_name": "Zynga Poker - Texas Holdem Game",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2ceb0225db06ca48/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2ceb0225db06ca48/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2ceb0225db06ca48/preview",
+    "phashion_group": "feefbafd61a4225a",
+    "share": null,
+    "first_seen_at": "2025-12-11T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Think you’ve got the skills? Prove it at the tables in Zynga Poker: Texas Hold’em!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "UGC creator reacts to a high-stakes 10 million coin flop in Zynga Poker.",
+    "visual_action": "Split-screen showing game footage on top and a male creator reacting on the bottom.",
+    "text_overlay": "10 MILLION VIRTUAL COIN",
+    "voiceover_transcript": "10 million virtual coin flop, let's see what I get. No way, I think I got a full...",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Creator reacts to a high-value flop in a poker game.",
+    "Creator identifies a winning hand and explains his betting strategy.",
+    "Creator mocks opponents while increasing the bet amount.",
+    "Creator issues a direct challenge to the viewer to play for free."
+  ],
+  "on_screen_text": [
+    "10 MILLION VIRTUAL COIN",
+    "FLOP",
+    "I GET NO",
+    "WAY I THINK I",
+    "GOT A FULL",
+    "HOUSE",
+    "I'M GONNA KEEP",
+    "BETTING ABOVE",
+    "EVERYBODY",
+    "BECAUSE I",
+    "KNOW I'M",
+    "GONNA WIN",
+    "THIS NOW I'M",
+    "GONNA",
+    "DEFINITELY BET",
+    "DOUBLE",
+    "THIS NOOB",
+    "THESE GUYS HAVE",
+    "NO IDEA WHAT'S",
+    "COMING FOR THEM",
+    "PLAY FOR FREE"
+  ],
+  "cta_text": "PLAY FOR FREE",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#4B0082",
+    "#FFFF00",
+    "#E0AC69"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Competitive adult males who enjoy social casino games and high-stakes poker simulations.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.002032
+}

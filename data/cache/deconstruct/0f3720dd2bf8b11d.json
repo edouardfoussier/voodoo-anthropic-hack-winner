@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "0f3720dd2bf8b11d",
+    "ad_unit_id": "0f3720dd2bf8b11d",
+    "app_id": "658ea0be1fc48c4dbb3065e6",
+    "advertiser_name": "Last Z: Survival Shooter",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004a2711b3cccca8/preview",
+    "phashion_group": "0f3720dd2bf8b11d",
+    "share": null,
+    "first_seen_at": "2026-04-01T00:00:00",
+    "last_seen_at": "2026-04-02T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Two anime-style heroines face a massive zombie blockade on a bridge.",
+    "visual_action": "A girl on a pink weaponized motorcycle and a girl with a katana prepare to charge through a horde of zombies.",
+    "text_overlay": "Looks like a dead end",
+    "voiceover_transcript": "Looks like a dead end. Just a traffic jam. Clear it.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Characters confront a zombie blockade on a bridge and decide to push through.",
+    "The katana-wielding girl leaps off the bike to slice through zombies in mid-air.",
+    "The motorcycle speeds up, using a truck as a ramp to fly over a massive explosion.",
+    "The duo lands safely and drives away as the game title and slogan appear."
+  ],
+  "on_screen_text": [
+    "Looks like a dead end",
+    "Just a traffic jam",
+    "Clear it",
+    "RAMP",
+    "BREAK THE DEADLOCK"
+  ],
+  "cta_text": "BREAK THE DEADLOCK",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#4A4A4A",
+    "#E91E63",
+    "#B71C1C"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Male fans of anime-style action games and zombie survival themes who enjoy high-octane cinematic sequences.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016059999999999998
+}

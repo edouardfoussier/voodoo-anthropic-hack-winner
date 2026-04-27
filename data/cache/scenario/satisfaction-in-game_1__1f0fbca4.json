@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_DFUFadSUJZrryx8uRHdvpboh?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfREZVRmFkU1VKWnJyeXg4dVJIZHZwYm9oP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Eb8NeY77oPQz04nC7vzDzUQFInNyMfIOZ7-O2zHaPT4WFBKbkn6W2bQMwr8Ra2GhDpCRZcGjgcScE4e%7E5PU0lGBQ45d1IapUEcZG8mzsKiTDRdt7BSip0ILpJrmopjHFoLK6SzUZH1GlNyxOcJt7E0tE2EHWkr%7E3qG%7EXA-YGsCj-C7ARUT1MRbl%7Ew2HmzTOMmYXxAy-YZ-1aCqV1pStaUwvrv%7EwsSXizLblRDauoOoTM-krStZsVUqBizoGmglO4Xj1fqPp%7E73GfVH5t0SA6gOSrQDE50E-A6XZEQBzfcSS4DrCVUY1cs2IpRz6-PlTXmMTwNz3WNx%7ElqBoDTULJRg__",
+  "job_id": "job_N6pCobwECpVRxoyypGrmVWoU",
+  "asset_id": "asset_DFUFadSUJZrryx8uRHdvpboh",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, authentic in-game view of Marble Sort!: 3/4 isometric shot of the full sorting machine \u2014 multiple trays at top, light grey conveyor belt moving pastel marbles across the middle, four color-coded drop boxes (lavender, mint, peach, orange) at the bottom with one box glowing orange #FFB13B on a successful match, soft pastel lavender #E5DFFF backdrop, light grey #F0F0F8 machine, clean colorful 3D cartoon style with rounded soft shapes, no characters, HUD shows level progress bar and tap-prompt finger icon, on-screen text overlay 'Match every color' in rounded white-on-orange pill, calm and satisfying lighting.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

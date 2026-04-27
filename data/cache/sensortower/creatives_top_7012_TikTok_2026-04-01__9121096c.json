@@ -1,0 +1,164 @@
+{
+  "count": 149,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "bdf6fd7b1032fa14",
+      "app_id": "66d27b94782b200e42488550",
+      "network": "TikTok",
+      "phashion_group": "bdf6fd7b1032fa14",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-23",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "bdf6fd7b1032fa14",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6907999ceebbe373/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6907999ceebbe373/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6907999ceebbe373/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Free the road!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66d27b94782b200e42488550",
+        "canonical_country": "US",
+        "name": "Perfect Tidy",
+        "publisher_name": "Onesoft",
+        "publisher_id": "5b6de3cab80f52168dc0abc3",
+        "humanized_name": "Perfect Tidy",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/fd/f4/78fdf49e-865e-8a46-c270-d33a0937081e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66d27b94782b200e42488550",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f41b68dd7e9c7ab2",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "f41b68dd7e9c7ab2",
+      "ad_type": "video",
+      "first_seen_at": "2024-05-09",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f41b68dd7e9c7ab2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7e3451af4e17467f/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5d287f88cf4759b9",
+      "app_id": "55c5342c02ac64f9c0002f34",
+      "network": "TikTok",
+      "phashion_group": "5d287f88cf4759b9",
+      "ad_type": "video",
+      "first_seen_at": "2024-08-14",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "5d287f88cf4759b9",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "Get New Characters and Fight Some Spectacular Battles"
+        },
+        {
+          "id": "ea99fbfc48af6696",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d70746faffcc6574/thumb",
+          "video_duration": 5,
+          "width": 1080,
+          "height": 1920,
+          "message": "The Best DBZ Battle Experience is Here"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55c5342c02ac64f9c0002f34",
+        "canonical_country": "JP",
+        "name": "DRAGON BALL Z DOKKAN BATTLE",
+        "publisher_name": "Bandai Namco",
+        "publisher_id": "5614c2323f07e25d290063fd",
+        "humanized_name": "DRAGON BALL Z DOKKAN BATTLE",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/21/0a/18210aca-99b3-1169-beb4-6fa6147d7c84/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "55c5342c02ac64f9c0002f34",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f34cd460e9714de4",
+      "app_id": "5c77ba4ab9ab940c3f6bc822",
+      "network": "TikTok",
+      "phashion_group": "f34cd460e9714de4",
+      "ad_type": "video",
+      "first_seen_at": "2026-01-21",
+      "last_seen_at": "2026-04-25",
+      "creatives": [
+        {
+          "id": "f34cd460e9714de4",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bddbd94ef96d7c9c/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bddbd94ef96d7c9c/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/bddbd94ef96d7c9c/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "message": "Super addictive block puzzle game! Bet you won\u2019t be able to stop playing!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5c77ba4ab9ab940c3f6bc822",
+        "canonical_country": "US",
+        "name": "Blockudoku: Block Puzzle Game",
+        "publisher_name": "Miniclip",
+        "publisher_id": "65670b56ad4adb650837a435",
+        "humanized_name": "Blockudoku: Block Puzzle Game",
+        "icon_url": "https://play-lh.googleusercontent.com/s-6Wv_B6xk0y3hDbJL0bgaDxOerMY40mjXoTg9jInA1KlEke9CTrudfhwBQLUClah4R2j8BOzm5FwAlKkdEM7A=s150",
+        "os": "unified",
+        "id": "5c77ba4ab9ab940c3f6bc822",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

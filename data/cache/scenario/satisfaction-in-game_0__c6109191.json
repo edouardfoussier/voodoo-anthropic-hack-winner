@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_ZDgegfgsYCkYWsLfJXdgn4S8?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfWkRnZWdmZ3NZQ2tZV3NMZkpYZGduNFM4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=j2MdB2vQPfWpgAdxtJC97DxpsdHNLoRlGCT7USTrJ2yA6P6xwIHbpzkrydaEKhF%7EJU5CBxskfNu7Gsra%7Ej7mz6jQa6BZzHnZkQYCEjzjDEL4rk3wiDpx4CrLHVyNkyw8ylDbh%7E7XD2iOWiu%7ECzbaww37X%7EtCcwx-mI0Y4ujfFEM-XM4tXJnJ%7EXKIVY2hudlbEHCMzoXaR2CeKothU5klgXl3vPnT4QpoVLo0RvQ%7EzmUEeJc%7EueaRvkGsS97MBwFHQj5CQ3oS0ECuc1QCxSS0XQWsHf6JyXyNSiGzsvWlMHBwZdEqyBYtPoucrK8Mft%7EFLilPomfeA3qBqO2oHVOKTw__",
+  "job_id": "job_ZQb6tZdy6eB5GdF9txpkMtCR",
+  "asset_id": "asset_ZDgegfgsYCkYWsLfJXdgn4S8",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, top-down 3D Casual Abstract render of a dark moody puzzle grid with deep purple #403F6D rounded cell frames on a matte #20232B background, a luminous stream of glowing amber #FDBA4D spheres pouring from the top of the screen and cascading into the grid like granules filling a jar, soft motion blur on the falling balls, warm rim light, gentle depth-of-field, on-screen text 'No. 001 \u2014 POUR THE BOUNCE' in clean bold sans-serif at the top, ASMR satisfying mood, no characters, mobile ad still",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

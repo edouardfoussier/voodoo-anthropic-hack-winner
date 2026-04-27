@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "6751c67a884336fa",
+    "ad_unit_id": "6751c67a884336fa",
+    "app_id": "57d212275a304243dd001268",
+    "advertiser_name": "88 Fortunes Slots Casino Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d01b3ad04d8abe1b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d01b3ad04d8abe1b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d01b3ad04d8abe1b/preview",
+    "phashion_group": "6751c67a884336fa",
+    "share": null,
+    "first_seen_at": "2025-05-27T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Claim 7B Free Coins Today!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cows in UFOs fly across the screen while player scores rapidly increase.",
+    "visual_action": "Animated cows in flying saucers move horizontally across a bright, colorful background with escalating coin counters.",
+    "text_overlay": "88 FORTUNES SLOTS, INVADERS ATTACK AGAIN FROM PLANET MOOLAH, PLAY NOW!",
+    "voiceover_transcript": "Moo! Moo! Moo! Moo!",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the Planet Moolah theme with cows in UFOs and character scoreboards.",
+    "Rapidly increasing coin counts for four different characters to simulate winning momentum.",
+    "Continuous movement of UFOs and pulsing CTA button to maintain visual engagement."
+  ],
+  "on_screen_text": [
+    "88 FORTUNES SLOTS",
+    "QUEST FOR THE HIDDEN SCROLLS",
+    "INVADERS ATTACK AGAIN FROM PLANET MOOLAH",
+    "PLAY NOW!"
+  ],
+  "cta_text": "PLAY NOW!",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#00AEEF",
+    "#FFD700",
+    "#32CD32"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adults 35+ who enjoy casual social casino games with humorous or quirky themes.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001657
+}

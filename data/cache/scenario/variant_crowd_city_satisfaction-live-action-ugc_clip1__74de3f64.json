@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_QtcKdtHZUDvuzVFGPD1WtXPm?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9RdGNLZHRIWlVEdnV6VkZHUEQxV3RYUG0qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=hOv7lstdsP3UeRuSZjgTD8mdG1XDEFMGlCEBwoLWVUyNY9S9HRCOqLQMxi4oIWhk4QuYBEmxIUedb00OKXdnYMo7KMs7SNQEVbpvTUOVwMxsmQWsWHLb%7ESCZwLEj-74IKqhS%7EWPlGJei9cJQxaayy1lpzebnVJIewqtFxryOlIEErAXUkeo-H4t6mFIq8fa%7EzHslcQcYEoRI4L16k30iOj-yhom6ww64m8oGfJY6GIeF62mpnpXyR6XJdkn-JgJjoP7BO5Lb%7Ebc1ugxA1peoELRowYawQqh4Jf71hmFopgDP0i%7ECC1Rkx07HNy81faIgdY%7EM1hHblViaK-pn28Mveg__",
+  "job_id": "job_MQLW1qW6cXK3KXmtmSMCDKcj",
+  "asset_id": "asset_QtcKdtHZUDvuzVFGPD1WtXPm",
+  "stub": false,
+  "model_id": "model_kling-o1-i2v",
+  "prompt": "Storyboard frame 1, 9:16 vertical aspect, live-action UGC selfie shot: young woman lying on her back on a bed holding a vertical smartphone above her face, grinning, natural warm bedroom lighting, slightly grainy phone-camera look, the phone screen visibly displays Crowd City gameplay \u2014 a red (#FF0000) low-poly stickman swarm running through a pastel city with a blue (#0000FF) rival crowd and green (#00FF00) score popup, low-poly colorful 3D environment with simple stickman-like character models",
+  "mode": "video",
+  "input_frames": 1
+}

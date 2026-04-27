@@ -1,0 +1,29 @@
+{
+  "archetype_id": "curiosity-animation",
+  "target_game_id": "1479551182",
+  "title": "What's Under the Platform? — Cross-Section Reveal for Push'em All",
+  "hook_3s": "Camera slices through the bright blue water beside the platform — revealing hungry sharks circling directly below the red stickman crowd about to be pushed in.",
+  "scene_flow": [
+    "0-3s: Top-down hero shot of the sandy platform. Camera tilts and the world splits in half like a diorama — water surface peels away to expose sharks swimming under the arena. Overlay: 'What's down there?'",
+    "3-7s: Snap back to gameplay POV. Player swipes, the stick expands, and a red stickman crowd is shoved toward the edge. Combo multiplier ticks up: x2, x3, x4.",
+    "7-11s: Cross-section view returns mid-push — we follow a red stickman tumbling off the platform and SPLASH into the shark zone below. Coin counter spikes, 'SIZE UP!' power-up triggers.",
+    "11-14s: Wider stick sweeps a massive crowd off in one satisfying arc, level progress bar fills to FINISH.",
+    "14-15s: End card with logo, tap-to-play pulse, CTA."
+  ],
+  "visual_direction": "Lean fully into the Push'em All DNA: minimalist 3D, sandy/green platform (#56a38b), vibrant blue water (#2a7dfa), bright red stickman enemies (#e3001b). The 'cross-section' twist is achieved by literally cutting away the water surface to expose a stylized underwater layer — same flat-shaded minimalist 3D, no realism. Keep the energetic/competitive HUD (progress timeline top, combo multiplier center, coin counter top-right). Camera is dynamic: orbiting reveal into top-down gameplay, then a clean diorama split for the payoff. No muted slate/khaki tones from the source archetype — translate the curiosity beat into our bright primary palette.",
+  "text_overlays": [
+    "What's under the platform?",
+    "Swipe to push →",
+    "COMBO x4!",
+    "SIZE UP!",
+    "Don't fall in 🦈",
+    "FINISH"
+  ],
+  "cta": "Push 'Em In!",
+  "rationale": "Voodoo's current rotation on Push'em All is all straight gameplay videos and a playable — zero curiosity-driven 'reveal' hooks despite curiosity·animation trending across 3 advertisers in the scan. This brief brings the underrepresented cross-section/reveal angle but restages it safely as 'what lurks beneath the arena' so the 3-second pivot to core swipe-push gameplay is honest and IPM-safe. UA team: test against the existing pure-gameplay videos as the curiosity-hook variant; expect lift on CTR with comparable install intent.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, Push'em All in-game moment: minimalist 3D sandy-green platform (#56a38b) floating in vibrant blue water (#2a7dfa), camera angled to reveal a stylized cross-section cutaway of the water beside the platform exposing flat-shaded cartoon sharks swimming underneath. On the platform surface: a dense crowd of bright red stickman figures (#e3001b) clustered near the edge, an expanding push-stick mechanic visible. Authentic game HUD: level progress timeline along the top, coin counter top-right, combo multiplier center. On-screen text overlay 'What's under the platform?' in bold white sans-serif. Bright, contrasting colors, simple stickman-like figures, minimalist 3D visual style, energetic competitive mood, no realism, no muted tones.",
+    "Storyboard frame, aspect 9:16, Push'em All gameplay: top-down-ish 3D view of the sandy-green platform (#56a38b) surrounded by vibrant blue water (#2a7dfa), an expanding push-stick sweeping a crowd of bright red stickman enemies (#e3001b) off the edge, several red stickmen mid-air tumbling toward the water. HUD shows progress timeline, coin counter, and a large 'COMBO x4!' overlay in bold yellow. Minimalist 3D with bright contrasting colors and simple stickman-like figures, energetic competitive UI, authentic Push'em All chrome.",
+    "Storyboard frame, aspect 9:16, Push'em All cross-section payoff shot: split diorama view showing the sandy-green platform (#56a38b) on top and the underwater layer in vibrant blue (#2a7dfa) below, a single red stickman figure (#e3001b) caught mid-splash falling from platform into water where stylized flat-shaded sharks circle. 'SIZE UP!' power-up notification overlay in bright accent red, coin counter visible top-right, level progress timeline along top edge. Minimalist 3D, bright contrasting colors, simple stickman-like figures, no realism, authentic in-game Push'em All look."
+  ]
+}

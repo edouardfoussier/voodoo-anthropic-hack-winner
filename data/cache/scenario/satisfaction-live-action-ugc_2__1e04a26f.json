@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_VSyanDbe3ZY6htyK6MFf1UnD?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVlN5YW5EYmUzWlk2aHR5SzZNRmYxVW5EP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Na0ftZkCNcoF3ADL-btHvLbhEWWXwdyYxnZbZ7jYK50FXJVn8S8BjJfHPCtlcG%7EXLlV-Sabes9MC2rGiEfddJ26UhD5hWW7VyT5-f1JDvfUrrUgtS1BHYHBgreFYOdQT661FCoUFIMC6k1GFOF9Di1RMRI2rtMZoWqRmCt26vX2csgj-c-jkuIhpLrlsaXCaK5bKp4nBc%7EhjLl%7Emj73eeFRr6Syi0J5rDoXsG25gSCtRZgNHP-wuFm8IT2jcTCxkIE7gaD3EJmX-D0mEALDzGpLg8TlLEgR6DX6YxUWxz0XPo%7ElP3YuybXoM2mMrQVQNQGTtWgvEk0D5S0b-sn%7EFEA__",
+  "job_id": "job_phLFGxrNTYgV95ZS5HdMicyd",
+  "asset_id": "asset_VSyanDbe3ZY6htyK6MFf1UnD",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical aspect ratio: dynamic 3D Casual Abstract render of a physics chain reaction in full motion \u2014 a dozen amber #FDBA4D balls bouncing across a purple #403F6D grid, motion blur trails, blocks shattering into geometric particles, all on a rich dark #20232B background. Slight slow-motion feel, confetti of warm yellow sparks. Bold white text overlay centered: 'the chain reaction tho \ud83e\udd2f'. Premium satisfying puzzle ad, calm-but-explosive energy.",
+  "model_id": "flux.1-dev"
+}

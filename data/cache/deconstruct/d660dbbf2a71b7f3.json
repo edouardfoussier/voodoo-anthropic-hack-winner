@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "d660dbbf2a71b7f3",
+    "ad_unit_id": "d660dbbf2a71b7f3",
+    "app_id": "55de054a02ac6453fd0524b9",
+    "advertiser_name": "윈조이 포커 - 블랙잭, 바카라, 슬롯, 로우바둑이",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cd0e64b69449718/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cd0e64b69449718/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cd0e64b69449718/preview",
+    "phashion_group": "d660dbbf2a71b7f3",
+    "share": null,
+    "first_seen_at": "2025-12-16T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A slot machine spin resulting in a jackpot win with a curiosity-inducing headline.",
+    "visual_action": "Slot reels spin and land on three 7s, triggering a jackpot animation with falling gold coins.",
+    "text_overlay": "시작 2시간만에 잭팟 터진 비결..!?",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Initial slot spin with a hook headline asking for the secret to winning.",
+    "Reels land on a jackpot combination, triggering a celebratory coin animation.",
+    "Transition text asking the viewer if they are the next winner.",
+    "Final brand end card with logo and download call-to-action."
+  ],
+  "on_screen_text": [
+    "시작 2시간만에 잭팟 터진 비결..!?",
+    "9 different symbols in a single spin awards the Free Game",
+    "JACKPOT",
+    "다음 주인공은 바로 나?!",
+    "WINJOY POKER",
+    "이기는 즐거움! 원조어 포커",
+    "지금 다운로드"
+  ],
+  "cta_text": "지금 다운로드",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#000000",
+    "#FFD700",
+    "#2E0854"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Adults interested in social casino games and the excitement of high-stakes gambling.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017620000000000001
+}

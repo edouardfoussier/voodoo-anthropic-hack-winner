@@ -1,0 +1,60 @@
+{
+  "raw": {
+    "creative_id": "6e751c54f7fa0401",
+    "ad_unit_id": "6e751c54f7fa0401",
+    "app_id": "60ad1093c3f01a19d9528f08",
+    "advertiser_name": "LogicLike: Kids Learning Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03edf46679c4a6a5/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03edf46679c4a6a5/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/03edf46679c4a6a5/preview",
+    "phashion_group": "6e751c54f7fa0401",
+    "share": null,
+    "first_seen_at": "2026-03-13T00:00:00",
+    "last_seen_at": "2026-04-09T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman uses hand gestures and a song to teach the concepts of big and small to children.",
+    "visual_action": "A woman moves her hands wide for 'big' and close together for 'small' with corresponding animal stickers.",
+    "text_overlay": "Get your child ready for kindergarten",
+    "voiceover_transcript": "This is big, big, big. This is small, small, small.",
+    "emotional_pitch": "tutorial"
+  },
+  "scene_flow": [
+    "Woman teaches 'big' and 'small' with hand gestures and animal overlays.",
+    "Woman teaches 'short' and 'tall' using hand heights and a giraffe graphic.",
+    "Woman teaches 'fast' and 'slow' with arm movements and animal icons.",
+    "Final CTA screen with app branding and download button."
+  ],
+  "on_screen_text": [
+    "LogicLike",
+    "Get your child ready for kindergarten",
+    "THIS IS BIG",
+    "THIS IS SMALL",
+    "THIS IS SHORT",
+    "THIS IS TALL",
+    "THIS IS FAST",
+    "THIS IS SLOW",
+    "Boost Your Child's Skills",
+    "Download Now"
+  ],
+  "cta_text": "Download Now",
+  "cta_timing_seconds": 11.5,
+  "palette_hex": [
+    "#FFFFFF",
+    "#F9E100",
+    "#D8B4A6"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Parents of toddlers and preschoolers looking for educational screen time.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001777
+}

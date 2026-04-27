@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_vgZoZUdEK8oUkG2TRsis2wSS?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF92Z1pvWlVkRUs4b1VrRzJUUnNpczJ3U1MqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=dZRWQ-Qe%7EvocFzstTr88CVntp5PnHBkLnzjDP8E9-z0zCrdWhgWoqDM6zlRvuG%7EMdHyvbUZ-TnzXXXce4t3eO7uTsKbOkl1%7EZNv0cCs-5QuhAn%7EdjB4foUpQEolWA9V9ykdMngaSO6C1PQjV9VsJaBM1phk4%7Eauo6%7ECq1ODRZlp1GR%7EqxYihdzePCcu5Nfc2sH7aJ5%7EFsTemgtN-5biEuXegPMfWhxwQ4NKOCd9ka7YqMbdF%7EiVOjnXN-ooJQxRlgt3p-cJvBBiOmKZSp6cTuCQPTZDKjprtKHly8EBwZvj2Krnr9Oozv0Zg8Q%7ExgbCp2LK6BrfXNV1ZhIKFPu736Q__",
+  "job_id": "job_WaibPh8J3BKgzhpprxGeWXZ8",
+  "asset_id": "asset_vgZoZUdEK8oUkG2TRsis2wSS",
+  "stub": false,
+  "model_id": "model_bytedance-seedance-2-0",
+  "prompt": "3-7s: She flips the phone to camera \u2014 full-screen Crowd City gameplay: a red stickman swarm sprinting through a pastel low-poly city, snowballing neutral pedestrians (counter ticks 47 \u2192 112 \u2192 240).",
+  "mode": "video",
+  "input_frames": 1
+}

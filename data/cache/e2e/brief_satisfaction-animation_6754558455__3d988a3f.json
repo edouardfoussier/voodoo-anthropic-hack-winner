@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-animation",
+  "target_game_id": "6754558455",
+  "title": "Drop. Sort. Satisfy. — Marble Cascade",
+  "hook_3s": "A single lavender marble drops in slow-mo, kisses the conveyor, and triggers a candy-colored cascade into matching boxes — pure ASMR sorting.",
+  "scene_flow": [
+    "0-3s HOOK: Extreme close-up of one glossy lavender marble suspended above a tray. Finger taps. Marble drops in slow-motion onto a moving conveyor belt — soft 'plink' SFX.",
+    "3-7s ESCALATION: Camera pulls back. Multiple colored marbles release in rhythm, bouncing along the conveyor with satisfying physics. Each lands in its matching color box with a chime — purple→purple, orange→orange.",
+    "7-11s PAYOFF: A near-miss — an orange marble heads toward the wrong box. Tap-to-time prompt appears, user 'taps,' marble redirects mid-air into the correct orange box. Confetti burst.",
+    "11-14s ESCALATION 2: Levels speed up, conveyor splits into two lanes, marbles cascade in a satisfying chain — boxes fill, level-clear stars pop.",
+    "14-15s CTA: Logo lockup with marble bouncing into 'PLAY' button."
+  ],
+  "visual_direction": "Casual 3D render with soft global illumination and a calm, ASMR-friendly mood. Dominant light lavender (#C7C2F8) backdrop with neutral grey (#A0A8C0) tray and conveyor surfaces, punched with bright orange (#FFB33B) accent marbles, highlights, and CTA. Glossy marble materials with subtle subsurface glow, soft shadows, shallow depth of field on the hero drop. Frame composition is clean and vertical-first; UI feels minimal and tactile, echoing the game's calm/satisfying mood. No characters — the marbles are the stars.",
+  "text_overlays": [
+    "Can you sort them all?",
+    "Tap to drop 👆",
+    "Time it right…",
+    "Perfect match! ✨",
+    "Level 12 cleared",
+    "Play free now"
+  ],
+  "cta": "Play Free",
+  "rationale": "We keep the winning archetype's \"drop → satisfying payoff\" emotional beat but swap merge for sort to prevent misleading-install churn and protect D1. The lavender + orange reskin aligns the ad to the store listing so creative-to-CPI handoff feels native, while the tap-to-time interactive moment at 7-11s pre-qualifies players who enjoy the actual core loop. UA team: test against female 25-55 lookalikes; expect strong CTR from ASMR hook, watch IPM and D1 as the truth signals.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect ratio, Casual 3D render style, extreme close-up of a single glossy lavender marble suspended in slow-motion above a soft grey conveyor belt, bright orange accent highlights, palette strictly #C7C2F8 lavender background, #A0A8C0 neutral grey conveyor, #FFB33B orange rim light, shallow depth of field, soft global illumination, ASMR mood, on-screen text overlay reading 'Tap to drop 👆' in clean rounded sans-serif at top center, minimal UI, mobile game ad still",
+    "Storyboard frame 2, 9:16 vertical aspect ratio, Casual 3D style, mid-shot of multiple colored marbles cascading along a moving conveyor belt and dropping into matching colored collection boxes, lavender #C7C2F8 background, grey #A0A8C0 boxes and tray, vivid orange #FFB33B marbles and chime sparkles, glossy physics-based reflections, satisfying confetti micro-particles, on-screen text overlay 'Perfect match! ✨' centered, calm satisfying puzzle mood",
+    "Storyboard frame 3 CTA, 9:16 vertical aspect ratio, Casual 3D render, a single orange marble bouncing into a large rounded 'PLAY FREE' button, lavender #C7C2F8 backdrop, grey #A0A8C0 soft shadow plate, #FFB33B orange CTA button glow, Marble Sort logo lockup above, clean minimal mobile ad end-card, on-screen text 'Play Free Now' bold and centered"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_9A9HUduSRaB7DZMibJvhfkcY?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOUE5SFVkdVNSYUI3RFpNaWJKdmhma2NZP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=cNABR4Khn2RencGCHM1MSkxqIM-kv6MHfIGTpU6jsequwP3gzcWb0%7EGZoWdkbi04YoF%7EjEHN6Gvwa%7EHJUj7afrAXusw6XKBbOUO0ez34AjYfq%7EMPINDiMFmBpG7XuHCj32nFl9a7cY0ewXGN69Lf8YldOQkeo4G950vCTe6e24bfmY4s6t%7EmB8tVj2E4YQ%7EaDxtBnIQgt2NpDE40VtrjStlTd1u7exMrvwRF-CGYtXXVArMP8uTddrHkZUOvGiXO2gqw8x2ZIZeWNzNlelhPGeqUnXrU0Zu8jWNbtVBB0Z-sh84yHRXtT9JoCNJa-%7ES698k0pf21XObMBP0W%7EcWDWg__",
+  "job_id": "job_qEa5cxv54vDNYBmm9xSuo7b2",
+  "asset_id": "asset_9A9HUduSRaB7DZMibJvhfkcY",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16: extreme close-up of a woman's hand with a soft neutral manicure holding a modern smartphone in portrait orientation, fingertip tapping the screen, on the screen a Clean and colorful 3D cartoon style with soft, rounded shapes scene of glossy pastel marbles tumbling from a lavender tray onto a light grey conveyor belt with color-coded boxes below, lavender background #E5DFFF, light grey machine #F0F0F8, vibrant orange accent #FFB13B on the title, soft diffuse studio lighting, shallow depth of field, on-screen text overlay in bold rounded orange letters reading 'Can you sort them all?', mobile ad still, ultra crisp",
+  "model_id": "flux.1-dev"
+}

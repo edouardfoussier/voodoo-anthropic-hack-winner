@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "3e0ed6f1c46e8a57",
+    "ad_unit_id": "3e0ed6f1c46e8a57",
+    "app_id": "64e7a621ad4adb4e30f02dbb",
+    "advertiser_name": "Escape from Mental Hospital",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/68af98a9a716881d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/68af98a9a716881d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/68af98a9a716881d/preview",
+    "phashion_group": "3e0ed6f1c46e8a57",
+    "share": null,
+    "first_seen_at": "2025-10-07T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Find out if you can stay sane enough to escape from the asylum.",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "UGC host poses a direct challenge question to the viewer over gameplay footage.",
+    "visual_action": "A woman in a picture-in-picture overlay speaks directly to the camera while gameplay of a dark hospital room is shown below.",
+    "text_overlay": "COULD YOU ESCAPE FROM A MENTAL HOSPITAL?",
+    "voiceover_transcript": "Could you escape from a mental hospital? I have been...",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "UGC host introduces the game with a direct challenge to the viewer's problem-solving skills.",
+    "Gameplay montage shows various puzzles including a combination lock and hidden object collection.",
+    "Host provides a testimonial on why she enjoys the game, highlighting brain training and entertainment value.",
+    "Direct call-to-action targeting Android users to download and try the game."
+  ],
+  "on_screen_text": [
+    "COULD YOU ESCAPE FROM A MENTAL HOSPITAL?",
+    "I HAVE BEEN LOVING THIS GAME CALLED ESCAPE FROM MENTAL HOSPITAL",
+    "WHERE YOU NEED TO SOLVE PUZZLING CHALLENGES TO ESCAPE",
+    "IT'S SUCH A FUN WAY TO PASS THE TIME",
+    "BUT ALSO TRAIN MY BRAIN",
+    "SO IF YOU HAVE AN ANDROID",
+    "DEFINITELY RECOMMEND YOU CHECK OUT ESCAPE FROM MENTAL HOSPITAL"
+  ],
+  "cta_text": "CHECK OUT ESCAPE FROM MENTAL HOSPITAL",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#354F52",
+    "#C5A059",
+    "#121212"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual puzzle game fans on Android looking for brain-training challenges and escape room mechanics.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001895
+}

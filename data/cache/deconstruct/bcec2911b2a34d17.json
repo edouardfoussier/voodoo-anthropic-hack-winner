@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "bcec2911b2a34d17",
+    "ad_unit_id": "bcec2911b2a34d17",
+    "app_id": "698be7c6f1fceaadc22c2ce0",
+    "advertiser_name": "창세기전 키우기",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010a2de88fec5e1c/preview",
+    "phashion_group": "bcec2911b2a34d17",
+    "share": null,
+    "first_seen_at": "2026-03-09T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "창세기전의 감동은 그대로, 성장은 더 빠르게.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Cinematic transition from a dark, war-torn landscape to a vibrant, peaceful kingdom.",
+    "visual_action": "The camera pans across a desolate, smoky battlefield before transitioning to a bright, sunny path leading to a grand castle.",
+    "text_overlay": "끝났던 창세기전이 다시 시작된다",
+    "voiceover_transcript": null,
+    "emotional_pitch": "transformation"
+  },
+  "scene_flow": [
+    "A dark, ruined battlefield with smoke and fire representing the past.",
+    "A transition to a bright, prosperous kingdom with a castle representing the new beginning.",
+    "Final splash screen featuring the game title, main characters, and pre-registration links."
+  ],
+  "on_screen_text": [
+    "창세기전",
+    "끝났던 창세기전이",
+    "다시 시작된다",
+    "창세기전 키우기",
+    "Google Play에서 사전 예약 중",
+    "App Store에서 사전 예약 중"
+  ],
+  "cta_text": "사전 예약 중",
+  "cta_timing_seconds": 4.0,
+  "palette_hex": [
+    "#302018",
+    "#C8A878",
+    "#121212"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Fans of the Genesis War IP and idle RPG enthusiasts looking for a nostalgic revival.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001304
+}

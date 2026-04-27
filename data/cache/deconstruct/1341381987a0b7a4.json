@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "1341381987a0b7a4",
+    "ad_unit_id": "1341381987a0b7a4",
+    "app_id": "61f25154b3ae273d7d51223f",
+    "advertiser_name": "遊戯王 マスターデュエル",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00354bb49b6adbef/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00354bb49b6adbef/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00354bb49b6adbef/preview",
+    "phashion_group": "1341381987a0b7a4",
+    "share": null,
+    "first_seen_at": "2025-12-16T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "強力な追加カードが登場",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Showcase of new card selection pack and game logo.",
+    "visual_action": "A grid of six Yu-Gi-Oh cards is displayed, followed by a transition to the game logo over a digital game board.",
+    "text_overlay": "KONAMI, セレクションパック 「ラス・オブ・ザ・タイラント」登場！, Yu-Gi-Oh! MASTER DUEL",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Display of six featured cards from the 'Wrath of the Tyrant' selection pack.",
+    "Transition to the Yu-Gi-Oh! Master Duel logo over a game board background.",
+    "Final call-to-action screen with the game logo and 'Play Now' button."
+  ],
+  "on_screen_text": [
+    "KONAMI",
+    "セレクションパック 「ラス・オブ・ザ・タイラント」登場！",
+    "Yu-Gi-Oh! MASTER DUEL",
+    "今すぐプレイ！"
+  ],
+  "cta_text": "今すぐプレイ！",
+  "cta_timing_seconds": 3.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#1A1A1A",
+    "#B8860B"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Competitive card game enthusiasts and fans of the Yu-Gi-Oh! franchise.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001375
+}

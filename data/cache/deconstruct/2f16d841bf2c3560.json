@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "2f16d841bf2c3560",
+    "ad_unit_id": "2f16d841bf2c3560",
+    "app_id": "57db92923858f271a0000b40",
+    "advertiser_name": "Jigsaw Puzzle - Classic Puzzle",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7d4c63c53dbf03d3/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7d4c63c53dbf03d3/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/7d4c63c53dbf03d3/preview",
+    "phashion_group": "2f16d841bf2c3560",
+    "share": null,
+    "first_seen_at": "2026-04-04T00:00:00",
+    "last_seen_at": "2026-04-22T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Suede for Spring 🤎 #suedestyling #style #ootd #suedejacket",
+    "button_text": "View now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman models a stylish brown suede jacket for a spring fashion look.",
+    "visual_action": "The woman buttons up a brown suede jacket while wearing a patterned headscarf and blue jeans against a neutral background.",
+    "text_overlay": "Suede for Spring",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Introduction of the brown suede jacket with a close-up of the woman buttoning it.",
+    "The model turns to show the back and side profile of the jacket.",
+    "The model poses with her hands in her pockets, smiling at the camera.",
+    "Final full-body shot showcasing the complete spring outfit."
+  ],
+  "on_screen_text": [
+    "Suede for Spring",
+    "@insidejigsaw"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#8B4513",
+    "#4682B4",
+    "#E5E4E2"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Fashion-forward women aged 25-45 looking for seasonal styling inspiration.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001441
+}

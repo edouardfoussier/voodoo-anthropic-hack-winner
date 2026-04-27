@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_WuDo1i1t8X9aHLJQUG9PdSZ7?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfV3VEbzFpMXQ4WDlhSExKUVVHOVBkU1o3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Fry3oZiXTvPN7T6uxyrfwJpjn7H1WBhX4ekw8k6%7ElpThvTZqvP39GnL0HYw2FpkEjqi64iMSgWgc6gfrqsv0yDHJDoRpIEDEN1RvsbnSEjhpoPM99leHxCfuiqCII3%7E1MXmRbGZoscmIBsIllzk2b0csoDJj%7EaGOCLEb9HcnBoa1m-WLGVpHDhLWWs5t8Nri4VEh5N6p3EiqsQUjryB%7E1fEAzFi7qQdIF4X%7EDxhbMyEA8kuHBVNIJIB5nt6PpPkaFUdYFR7CfViq4EXwtcEj6i0Pzwi14VgRSJYljx3CZ0kDB7NPM8t1L2pWMzTKJ7puy0YC7pZJgru9iSdQY1KS1Q__",
+  "job_id": "job_LbmytYbAjM3ADtPnN3oMc2WZ",
+  "asset_id": "asset_WuDo1i1t8X9aHLJQUG9PdSZ7",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16: aquapark.io hang-glider section, cartoon animal racer gliding off a white ramp under a yellow hang glider over a bright #42bcf5 blue water park, finish line banner ahead in #ff8c1c orange, low-poly palm trees and slide loops in background, multiplayer leaderboard pinned top-right with player in 1st, 3D low-poly bright colorful cartoonish style, on-screen text 'Last one splashing WINS' in white with orange drop shadow.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

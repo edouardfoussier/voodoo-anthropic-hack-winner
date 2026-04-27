@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "99a58677ed57715d",
+    "ad_unit_id": "99a58677ed57715d",
+    "app_id": "5af02835c618f463caf068cb",
+    "advertiser_name": "Lightning Link Casino Slots",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/a8bf6d0fbdfb3bcd/preview",
+    "phashion_group": "99a58677ed57715d",
+    "share": null,
+    "first_seen_at": "2026-02-16T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Virtual 10,000,000 FREE Coins!\n(Must be 18+ to play. No real money can be won)",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy slot machine spin with lightning effects and game logo.",
+    "visual_action": "The game logo appears followed by a rapid slot reel spin landing on multiple bonus symbols.",
+    "text_overlay": "SPIN IT GRAND DIAMONDS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Intro sequence featuring the Spin It Grand Diamonds logo with lightning effects.",
+    "Gameplay footage showing reels spinning and landing on multiple bonus symbols.",
+    "Transition to the Hold & Spin Wheel Feature screen with fire and lightning visuals.",
+    "Jackpot counter rapidly increasing to over 13 billion as coins fly across the screen.",
+    "Final end card with the game logo and a Play Now call-to-action button."
+  ],
+  "on_screen_text": [
+    "SPIN IT GRAND DIAMONDS",
+    "18+. No real money or prizes can be won. Purchases / paid random items optional.",
+    "HOLD & SPIN WHEEL FEATURE",
+    "10 $ / $ WINS",
+    "JACKPOT WINNER!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#E61E43",
+    "#FFD700",
+    "#0056B3"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Adults 25-55 who enjoy the high-energy visual and auditory feedback of social casino games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00178
+}

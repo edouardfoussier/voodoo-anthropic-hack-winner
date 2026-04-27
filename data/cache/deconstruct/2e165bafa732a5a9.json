@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "2e165bafa732a5a9",
+    "ad_unit_id": "2e165bafa732a5a9",
+    "app_id": "58dce04f0211a613bb000606",
+    "advertiser_name": "Sudoku.com - Number Games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0615ef4a7c0d29e4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0615ef4a7c0d29e4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0615ef4a7c0d29e4/preview",
+    "phashion_group": "2e165bafa732a5a9",
+    "share": null,
+    "first_seen_at": "2025-10-09T00:00:00",
+    "last_seen_at": "2026-04-18T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Enjoy your time – play SUDOKU!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman demonstrates Sudoku logic on a physical whiteboard.",
+    "visual_action": "A woman in a green shirt marks red 'X's on a whiteboard Sudoku grid to show excluded cells.",
+    "text_overlay": "The numbers on the right exclude six possible cells",
+    "voiceover_transcript": "The numbers on the right exclude six possible cells",
+    "emotional_pitch": "tutorial"
+  },
+  "scene_flow": [
+    "A woman explains Sudoku logic by marking 'X's on a whiteboard grid to eliminate possibilities.",
+    "She demonstrates how to find a hidden single by excluding cells in a 3x3 block using surrounding numbers.",
+    "She repeats the logic for a second block, applying row and column constraints to find the next number.",
+    "The video transitions to a clean end card featuring the Sudoku.com logo and app icon."
+  ],
+  "on_screen_text": [
+    "The numbers on the right exclude six possible cells",
+    "and the numbers under this block exclude two more",
+    "We're left with one free cell",
+    "Here two rows and columns already contain 7",
+    "So another goes to this cell",
+    "Sudoku.com"
+  ],
+  "cta_text": "Sudoku.com",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#48BB78",
+    "#E53E3E"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Puzzle enthusiasts and casual gamers who enjoy brain-teasing logic challenges and clear instructional content.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001781
+}

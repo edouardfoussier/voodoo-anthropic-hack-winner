@@ -1,0 +1,28 @@
+{
+  "archetype_id": "challenge-in-game",
+  "target_game_id": "1345968745",
+  "title": "\"99% Fail Level 47\" — Helix Jump Challenge",
+  "hook_3s": "Neon ball freezes mid-bounce above a wall of red traps — \"99% FAIL THIS. CAN YOU?\"",
+  "scene_flow": [
+    "0-3s: Cold open on a stacked helix tower, cyan ball frozen mid-bounce above a dense ring of red trap platforms. Bold overlay slams in: 'WHY IS LEVEL 47 SO HARD?'",
+    "3-7s: Time resumes — finger drags to rotate the tower, ball plunges through a tiny green gap, smashes a stack and combos. Multiplier counter spikes x3, x5, x7.",
+    "7-11s: Camera tightens — ball threads three near-misses against red rings, screen shakes, overlay: 'ONLY 1% MAKE IT.'",
+    "11-14s: Ball hits a red platform, GAME OVER flash, retry prompt 'CAN YOU BEAT IT?'",
+    "14-15s: Cut to App Store badge with ball bouncing onto the CTA button — 'PLAY FREE'."
+  ],
+  "visual_direction": "Lock to Helix Jump's authentic 3D minimalist look: a cylindrical helix tower of stacked discs in soft pastel rings, neon cyan (#5CE1E6) ball as the hero, lime green (#39FF14) safe gaps glowing, red (#FF0000) trap segments pulsing as danger. Light, near-white background to maximize contrast. Energetic camera with subtle dolly + screen shake on smashes; particle bursts on combo hits. UI chrome stays game-accurate: top-left score, top-right multiplier, level number badge. Overlays use bold sans-serif white-on-red challenge banners that punch over gameplay without occluding the ball.",
+  "text_overlays": [
+    "WHY IS LEVEL 47 SO HARD?",
+    "ONLY 1% MAKE IT",
+    "DON'T TOUCH RED",
+    "CAN YOU BEAT IT?",
+    "PLAY FREE"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Helix Jump rotation is all silent, copy-less video and playables — zero challenge-framing or text-driven hooks. This brief imports the market-winning \"WHY IS THIS LEVEL SO HARD / CAN YOU WIN?\" overlay formula onto authentic Helix gameplay, filling a clear creative gap. UA should A/B this against the no-copy baseline on Admob video first; expect lift on IPM from the curiosity + ego-bait combo on a broad casual audience.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic Helix Jump in-game screenshot: a vertical cylindrical helix tower of stacked pastel discs viewed slightly from above, a glowing neon cyan (#5CE1E6) bouncing ball frozen mid-air above a dense ring of bright red (#FF0000) trap platforms, one narrow lime green (#39FF14) safe gap glowing below, light off-white background, soft drop shadows, score counter top-left and x3 multiplier top-right in clean white sans-serif HUD, level badge '47', bold white-on-red overlay banner across upper third reading 'WHY IS LEVEL 47 SO HARD?', 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters, no people, crisp mobile game render",
+    "Storyboard frame, aspect 9:16, authentic Helix Jump gameplay still: cyan (#5CE1E6) ball mid-fall smashing through a stack of pastel helix discs with green (#39FF14) particle burst, red (#FF0000) trap segments visible on the ring below, motion blur trail, light background, multiplier text 'x7' glowing in HUD, overlay text 'ONLY 1% MAKE IT' in bold white sans-serif, 3D minimalist style with simple geometric shapes and high-contrast neon palette, no character on screen, in-game UI chrome intact",
+    "Storyboard frame, aspect 9:16, authentic Helix Jump end-card moment: cyan (#5CE1E6) ball resting on a green (#39FF14) safe platform at the base of the helix tower, red (#FF0000) trap ring glowing above, soft white background, large centered overlay 'CAN YOU BEAT IT?' in bold white sans-serif with red underline, App Store style 'PLAY FREE' button bottom-center, 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters, clean mobile game HUD"
+  ]
+}

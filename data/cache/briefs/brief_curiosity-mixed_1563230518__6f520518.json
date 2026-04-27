@@ -1,0 +1,29 @@
+{
+  "archetype_id": "curiosity-mixed",
+  "target_game_id": "1563230518",
+  "title": "POV: Lunch Break Solitaire Run",
+  "hook_3s": "POV: 12 minutes left on lunch — phone out, thumb hovers over a red King on green felt, timer ticking.",
+  "scene_flow": [
+    "0-3s: Hands-only POV at an office desk slides phone into frame; screen lights up to the classic green-felt Solitaire tableau with the timer already counting down.",
+    "3-7s: Quick thumb taps drag a red Queen onto a black King, then cascade three alternating-color stacks in rapid succession — satisfying card-snap SFX.",
+    "7-11s: Foundation piles fill Ace→King with crisp flip animations; score counter spikes, undo button glows but goes unused.",
+    "11-14s: Final card auto-completes with confetti burst over the green felt; timer freezes with seconds to spare.",
+    "14-15s: App icon punches in over the felt with CTA."
+  ],
+  "visual_direction": "Lean fully into the casino green-felt heritage (#1A874B) with stark white cards (#FFFFFF) and bright red suit accents (#E31C1B). Classic 2D flat design — no 3D, no gradients beyond the felt texture. Vertical 9:16 phone-in-hand POV framing keeps the gameplay UI dominant on screen: visible timer, score counter, undo and finish buttons exactly as in the live build. Tense/challenging mood conveyed via ticking-clock SFX and quick-cut thumb drags rather than flashy VFX, preserving the adult-casual audience trust signal.",
+  "text_overlays": [
+    "POV: 12 min lunch left",
+    "One game of Solitaire…",
+    "…just one.",
+    "Foundations stacking 🔥",
+    "Beat the timer",
+    "Tap to play free"
+  ],
+  "cta": "Play Free",
+  "rationale": "Adapts the high-velocity \"POV rush home\" curiosity hook to a relatable adult micro-moment (lunch break) that matches Solitaire's casual-adult audience while preserving the archetype's first-person urgency. Pure in-game footage in the original green-felt palette protects fidelity and avoids the off-brand Tetris/backflip energy flagged in the fit scan. Recommend testing against a control of straight gameplay; expect lift on IPM from the curiosity overlay and tight 15s arc.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, vertical mobile screenshot of Solitaire - Voodoo Card Game! authentic in-game moment: classic 2D flat design with traditional green felt aesthetic background (#1A874B), seven tableau columns of stark white playing cards (#FFFFFF) with bright red heart and diamond pips (#E31C1B) and black spades/clubs, mid-drag animation of a red Queen of Hearts being drag-and-dropped onto a black King of Spades in descending alternating-color stack, four foundation piles top-right partially built with Aces and 2s, visible HUD with timer counter, score counter, undo button and finish button matching the live app UI chrome exactly, no characters or people on screen, bold white sans-serif overlay text 'POV: 12 min lunch left' across upper third, photoreal phone-screen fidelity to reference screenshots, no generic stock-game tropes",
+    "Storyboard frame, aspect 9:16, vertical in-game capture of Solitaire - Voodoo Card Game! in classic 2D flat design with traditional green felt table (#1A874B), white cards (#FFFFFF) with red suit accents (#E31C1B), foundation piles top-right nearly complete showing Aces through Jacks of all four suits stacking up, tableau columns being cleared via drag-and-drop sorting, score counter spiking with a glow, timer ticking down in the header, undo and finish buttons visible, exact same UI chrome and card art as the live Solitaire - Voodoo Card Game! build, no characters present, white overlay text 'Foundations stacking 🔥' centered, tense challenging mood",
+    "Storyboard frame, aspect 9:16, vertical end-card style still of Solitaire - Voodoo Card Game! authentic gameplay: classic 2D flat traditional green felt background (#1A874B) with completed foundation piles of white cards (#FFFFFF) topped by red Kings of Hearts and Diamonds (#E31C1B), subtle confetti over the felt, timer frozen with seconds remaining, score counter at peak, undo and finish buttons in their live positions, identical UI chrome to reference screenshots, no characters, bold red and white overlay text 'Beat the timer — Play Free' lower third, casino-card fidelity, no stock-game clichés"
+  ]
+}

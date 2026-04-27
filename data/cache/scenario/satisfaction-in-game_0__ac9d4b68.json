@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_66TjqcZtGQGoFfKtHZLe9VEB?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNjZUanFjWnRHUUdvRmZLdEhaTGU5VkVCP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Sf44Ak5tnTFwFL%7EmCovo%7E0ccEltF7NCcaKwRwnWrQr%7EmXiR-AbsKUVXiGH6yVjHJsUFt2GQNlEEExlNAwVIp7sVzguKbWtvtF08LGywRRFMNTyxTUoQIXZmz%7Et%7EkszJkEK7R9IQvFmf46p6GQo-qZ-tw87xDYQG%7EI2kRS0xLpNdccwArROVA1tneGhyYdqCcUAwKknEHc9YU-CzF2XBmHlF0IxI57EP0vd7dCt3hrII7482e5mZ3y9oqpJJg3-A95dSUkAD8LH2-nXaWSslwxiNxJ2sKpF5SYDeTSkzE5o5mbl03dUqvbhk1VS3SiHdp6kwms7PqRXExZsvD1l-6Bw__",
+  "job_id": "job_jwCPXoXqS6f95xbnu398L8N4",
+  "asset_id": "asset_66TjqcZtGQGoFfKtHZLe9VEB",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, mobile game ad still: top-down view of a dark navy #1E2744 8x8 grid nearly full of glossy beveled polyomino blocks in saturated jewel tones, one luminous golden #FFD700 L-shaped block hovering above with soft glow and particle sparks, royal blue #5469B9 background with subtle radial gradient, clean vibrant abstract aesthetic featuring glossy beveled blocks on a high-contrast dark grid, bold white sans-serif on-screen text 'Can you clear it in ONE move?' at top, cinematic studio lighting, crisp specular highlights, ultra-detailed, no characters",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

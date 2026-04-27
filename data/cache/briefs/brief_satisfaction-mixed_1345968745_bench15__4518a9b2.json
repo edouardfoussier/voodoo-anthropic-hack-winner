@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1345968745",
+  "title": "POV: Home Alone with the Helix",
+  "hook_3s": "POV: I finally got home — phone out, thumb on the helix, neon ball already falling.",
+  "scene_flow": [
+    "0-3s: Live-action POV — keys drop, shoes off, person face-plants onto couch. Phone lifts into frame, screen lights up cyan (#5CE1E6).",
+    "3-7s: Hard cut into Helix Jump gameplay — finger drags to rotate the tower, neon ball bounces through stacked ring platforms, near-miss on a red (#FF0000) trap segment.",
+    "7-11s: Combo build: ball smashes through 3, 5, 7 platforms in a row, screen pulses green (#39FF14), score multiplier x4 → x7 stamps onto the HUD.",
+    "11-14s: Camera tilts as the ball plummets through the final stretch, level-complete burst, satisfaction exhale from the player overlay (small picture-in-picture grin).",
+    "14-15s: End card — logo, helix tower silhouette, CTA pop."
+  ],
+  "visual_direction": "Lean fully into Helix Jump's neon-on-light DNA: bright off-white background tower, cyan #5CE1E6 ring platforms, #39FF14 safe-zone glow on combo, #FF0000 trap segments as the only danger color. 3D minimalist geometry — clean rings, glossy bouncing ball, no clutter. The live-action bookend is shot warm and dim so the phone screen becomes the ONLY source of saturated neon, making the gameplay pop. Energetic, competitive UI mood: chunky score multiplier text, level progression dots top-left, subtle screen-shake on smashes.",
+  "text_overlays": [
+    "POV: I finally got home",
+    "One run. Just one.",
+    "COMBO x5 🔥",
+    "Don't. Touch. Red.",
+    "Level 12 cleared",
+    "Your turn →"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current Helix Jump rotation is 100% silent gameplay capture (no copy, no framing) across Admob video and Unity playables — there is zero live-action or POV-narrative creative in market. This brief imports the trending \"rush home to play\" satisfaction hook the market scan flagged as a velocity winner, but rebuilds the in-phone capture as authentic Helix Jump (neon palette, rotating tower, red traps) so we test the underrepresented UGC/POV framing as an isolated variable without diluting IP fidelity. UA team: ship as a 15s video first; if CPI beats the silent-gameplay baseline, port the POV bookend into a Unity playable variant.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect ratio, authentic Helix Jump in-game screenshot: top-down tilted 3D view of a vertical helix tower made of stacked cyan #5CE1E6 ring platforms on a clean light off-white background, one glossy neon ball mid-bounce smashing through a ring with a green #39FF14 shockwave burst, a thin #FF0000 red trap segment visible on the ring just below, score multiplier HUD reading 'COMBO x5' in bold white sans-serif top-center, level progression dots top-left, 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters, no people, no logos, crisp mobile game UI chrome, high contrast, glossy plastic shading.",
+    "Storyboard frame 1, 9:16 vertical aspect ratio, live-action POV shot from a young adult's perspective lying back on a couch in a warm dim living room, hands holding a vertical smartphone in the lower third of frame, the phone screen brightly displaying authentic Helix Jump gameplay — stacked cyan #5CE1E6 ring platforms forming a helix tower on light background with a bouncing ball and one #FF0000 red trap segment, overlay text 'POV: I finally got home' in clean white sans-serif at top, 3D minimalist bright contrasting colors and simple geometric shapes inside the phone, photoreal outside the phone, no other characters visible.",
+    "Storyboard frame 2, 9:16 vertical aspect ratio, full-screen authentic Helix Jump gameplay capture: dramatic downward camera angle following the neon ball plummeting through a long open gap in the helix tower, cyan #5CE1E6 platforms blurring past, a #39FF14 green safe-zone glow trailing behind the ball, one #FF0000 red trap ring narrowly avoided, bold overlay text 'Don't. Touch. Red.' centered in white, score multiplier and level dots HUD intact, 3D minimalist style with bright contrasting colors and simple geometric shapes, no characters, light off-white background tower, glossy and high contrast."
+  ]
+}

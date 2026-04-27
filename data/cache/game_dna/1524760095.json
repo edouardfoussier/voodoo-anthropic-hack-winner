@@ -1,0 +1,32 @@
+{
+  "app_id": "1524760095",
+  "name": "Roof Rails",
+  "genre": "Hypercasual",
+  "sub_genre": "Runner",
+  "core_loop": "Run forward, collect pole pieces to extend your balancing pole, use the pole to slide on rails between rooftops, and avoid obstacles that cut the pole.",
+  "audience_proxy": "Broad casual audience, appealing to all ages and genders looking for quick, accessible entertainment.",
+  "visual_style": "3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic.",
+  "palette": {
+    "primary_hex": "#5CD6FF",
+    "secondary_hex": "#EAF6FA",
+    "accent_hex": "#FFC824",
+    "description": "Bright cyan and blue cityscape with a stark white path and vibrant yellow and magenta accents."
+  },
+  "key_mechanics": [
+    "running",
+    "collecting",
+    "sliding",
+    "avoiding",
+    "balancing"
+  ],
+  "character_present": true,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "progress bar",
+    "diamond currency",
+    "level indicator",
+    "rails",
+    "collectible pole pieces",
+    "saw obstacles"
+  ]
+}

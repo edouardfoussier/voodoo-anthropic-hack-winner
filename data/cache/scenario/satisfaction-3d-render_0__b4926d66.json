@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_uvNu18pgJPUSwY3ZwU2Md3Z8?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdXZOdTE4cGdKUFVTd1kzWndVMk1kM1o4P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=i4D-2SiHsSIneiMch%7EZ4C6xA0JjiBZh-Sm1Tj8-Wt71KEK6vmYWmVQHnHOtcDEQsiUZkGR%7E0FGUw1pjJd-JXxrcFgD0IjWSIKPrPnkpEMzUYhoG4LOpF4umhVUwRILTU7wXQfF0%7EwO20%7EdhFVDp6AMFYvPwhSRc%7EgIwGwv6Hb3j56dQK8NNR%7Ed2Zs35L5Z1nhLWD7HJJsmbmVkSoEgbRAiCYWc5XwYNOg2cDRtSok7Rg8V5IwP96FBWZyotAn8yUmMltzgjw7uDAQC1tQWnrBeJxDUMpPZ%7EZtC-mXgloHbZw4AAA-PmM4pK2Dy%7E%7E7VdcU6Gw5pIzOE%7EjGm1ilFQxkg__",
+  "job_id": "job_HiW4kg3gYhXtwipvEqbaoRnr",
+  "asset_id": "asset_uvNu18pgJPUSwY3ZwU2Md3Z8",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, macro close-up of a 3D stylized bucket tipping and pouring vibrant pixel-art sand grains onto a glossy sky-blue conveyor belt, an empty pixel-art frame glows below, palette dominated by #4A90E2 sky blue and #FFFFFF clean white with #FFD700 gold accents on the bucket rim and sparkles, soft studio lighting, shallow depth of field, ASMR satisfying mood, on-screen text 'Pour the sand\u2026' in bold rounded white sans-serif, 3D stylized objects with vibrant colors and pixel-art sand compositions.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

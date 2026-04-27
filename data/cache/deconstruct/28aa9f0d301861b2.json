@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "28aa9f0d301861b2",
+    "ad_unit_id": "28aa9f0d301861b2",
+    "app_id": "68d54465f1d82abe28b390f1",
+    "advertiser_name": "SkinWin - diamond & skin",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00bd85dfc7cedbe0/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00bd85dfc7cedbe0/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00bd85dfc7cedbe0/preview",
+    "phashion_group": "28aa9f0d301861b2",
+    "share": null,
+    "first_seen_at": "2026-04-09T00:00:00",
+    "last_seen_at": "2026-04-09T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Gamers! Get free in-game rewards, premium skins, and exclusive items. Download now and claim your rewards before time runs out!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Showing off a Free Fire account loaded with diamonds and rare skins.",
+    "visual_action": "A hand holds a phone displaying a Free Fire inventory full of premium items and a high diamond count.",
+    "text_overlay": "I succeeded 💎",
+    "voiceover_transcript": "Do you want to get Epic FF rewards like me?",
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Handheld footage of a Free Fire account with maxed-out diamonds and rare skins.",
+    "Transition to the SkinWin app listing on the Google Play Store.",
+    "Demonstration of the SkinWin app interface showing various diamond packs and skin bundles available for exchange.",
+    "Final call-to-action screen with the app logo and Google Play download button."
+  ],
+  "on_screen_text": [
+    "I succeeded 💎",
+    "WOW❗",
+    "Do you want to get Epic FF rewards like me",
+    "open skinwin just tap to claim your prizes",
+    "SkinWin - diamond & skin",
+    "Uninstall",
+    "Play",
+    "Wow! It's so easy to get diamonds!",
+    "there are tons of Epic FF skins waiting for you",
+    "don't wait download skinwin now",
+    "SKINWIN",
+    "Earn your rich"
+  ],
+  "cta_text": "download skinwin now",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#121212",
+    "#00BFFF",
+    "#FFD700"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Young male Free Fire players seeking free in-game currency and cosmetic items.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.00178
+}

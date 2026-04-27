@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "207efc0c5ac00983",
+    "ad_unit_id": "207efc0c5ac00983",
+    "app_id": "67e4d21af6ce7824d64b8049",
+    "advertiser_name": "Referee Simulator 3D",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66fd89edb137cd6e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66fd89edb137cd6e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/66fd89edb137cd6e/preview",
+    "phashion_group": "207efc0c5ac00983",
+    "share": null,
+    "first_seen_at": "2026-02-28T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 540,
+    "height": 960,
+    "message": "Players protest, fans shout... The decision is yours!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Influencer reacts to his referee performance score in a split-screen format.",
+    "visual_action": "A man speaks to the camera while the bottom half of the screen shows a game report from a referee simulator.",
+    "text_overlay": "Gümüşhane 0 : 3 Kapadokya",
+    "voiceover_transcript": "I got an 8.4, nice, nice.",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Influencer reviews his referee performance score on a split-screen layout.",
+    "Close-up of the game's 'Referee Observer' report detailing specific foul decisions.",
+    "Cinematic transition to a 3D rendered soccer stadium with a ball in motion.",
+    "End card displays the game title 'Referee Simulator' with a call-to-action button."
+  ],
+  "on_screen_text": [
+    "Gümüşhane 0 : 3 Kapadokya",
+    "Hakem Gözlemcisi",
+    "1. FAUL KONTROLÜ",
+    "2. Elle Oynama Kontrolü",
+    "3. FAUL KONTROLÜ",
+    "Hakem Puanı 8,4/10",
+    "REFEREE SIMULATOR",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 7.0,
+  "palette_hex": [
+    "#4CAF50",
+    "#1E88E5",
+    "#FFD700"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male soccer fans who enjoy simulation games and testing their sports knowledge.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001639
+}

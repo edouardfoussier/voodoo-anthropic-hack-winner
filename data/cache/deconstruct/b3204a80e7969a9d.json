@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "b3204a80e7969a9d",
+    "ad_unit_id": "b3204a80e7969a9d",
+    "app_id": "55d9589402ac645ad22f9717",
+    "advertiser_name": "한게임 포커",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e09aadeeb1430a66/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e09aadeeb1430a66/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e09aadeeb1430a66/preview",
+    "phashion_group": "b3204a80e7969a9d",
+    "share": null,
+    "first_seen_at": "2026-04-06T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "누구나 쉽고 재미있게 한게임 포커\n지금 플레이하고 칩 쓸어 담아가세요",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced poker gameplay montage with beginner-friendly messaging.",
+    "visual_action": "Rapidly changing poker hands and accumulating chip stacks with bold text overlays.",
+    "text_overlay": "포커 초보여도 포커가 처음이어도",
+    "voiceover_transcript": "포커 초보여도 포커가 처음이어도",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Rapid montage of poker hands and accumulating chip stacks with high-energy sound effects.",
+    "Dynamic transition featuring a glowing spade icon and green light rays.",
+    "Bold 'RIGHT NOW' text animation on a checkered background.",
+    "Final brand reveal with 'HANGAME POKER' logo and a call to action for a 1 billion chip reward."
+  ],
+  "on_screen_text": [
+    "포커 초보여도",
+    "포커가 처음이어도",
+    "RIGHT NOW",
+    "HANGAME POKER SINCE 2000",
+    "당장 플레이하고 10억 칩 받으러 가자!",
+    "확률형 아이템 포함"
+  ],
+  "cta_text": "당장 플레이하고 10억 칩 받으러 가자!",
+  "cta_timing_seconds": 4.5,
+  "palette_hex": [
+    "#0d1b2a",
+    "#2d5a27",
+    "#d4af37"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Korean adults looking for an accessible yet high-stakes mobile poker experience.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001483
+}

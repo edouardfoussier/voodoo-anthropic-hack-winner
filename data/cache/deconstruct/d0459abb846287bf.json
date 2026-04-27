@@ -1,0 +1,64 @@
+{
+  "raw": {
+    "creative_id": "d0459abb846287bf",
+    "ad_unit_id": "d0459abb846287bf",
+    "app_id": "5e62eb6af57acf2bd0bb6508",
+    "advertiser_name": "Harry Potter: Puzzles & Spells",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9e079464fda11127/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9e079464fda11127/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/9e079464fda11127/preview",
+    "phashion_group": "d0459abb846287bf",
+    "share": null,
+    "first_seen_at": "2026-01-06T00:00:00",
+    "last_seen_at": "2026-04-20T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Customize your magical Match-3 journey.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "UGC creator excitedly introduces the game's Hogwarts orientation and character creation.",
+    "visual_action": "A woman holds a phone displaying the character customization screen while speaking to the camera.",
+    "text_overlay": "Oooh! Hogwarts orientation! Check this out!",
+    "voiceover_transcript": "Oooh, Hogwarts orientation! Check this out!",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "UGC creator introduces the game and character customization.",
+    "Close-up of character creation UI showing hair and eye options.",
+    "Transition to the 'Choose Your House' screen selecting Ravenclaw.",
+    "Display of the 'Choose Your Wand' screen with specific wand stats.",
+    "Final gameplay montage of match-3 puzzles with a 'Play Now' CTA."
+  ],
+  "on_screen_text": [
+    "Oooh!",
+    "Hogwarts orientation!",
+    "Check this out!",
+    "CHOOSE YOUR HOUSE",
+    "RAVENCLAW",
+    "Wit, Learning, Wisdom",
+    "TAP ON A HOUSE CREST TO LEARN MORE",
+    "CONFIRM",
+    "CHOOSE YOUR WAND",
+    "TAP ON A WAND TO LEARN MORE",
+    "Harry Potter: Puzzles & Spells",
+    "for free!",
+    "PLAY NOW"
+  ],
+  "cta_text": "PLAY NOW",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#1a1a3a",
+    "#d4af37",
+    "#ffffff"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Harry Potter fans and casual puzzle gamers who enjoy personalization and fantasy themes.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001686
+}

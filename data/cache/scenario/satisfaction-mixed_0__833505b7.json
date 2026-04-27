@@ -1,0 +1,11 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_K8MUZsZH56hb1dBMkhnij4xy?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfSzhNVVpzWkg1NmhiMWRCTWtobmlqNHh5P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=fbLENKO2HwgHI0yaD3kXdQW4cFgVipm8p3KO953koWVaF6UIRoZ9Dqt27QNJ3NWu9yDytEULwkLfFmD69bWuuiqCtdhy5Yr49ZBYjgZHCDT6xB0tRHbuMoyGM1ltAixSHWxd-fSJyQoRYQOyX6oKGz%7E5bINGfRpnCWsLVaBhf8gmIPMHaT3ALaLp0wFJRNQMLEIRfYMhS3Z-9FCkRSs9iD%7EuiVXtpUu1Kg%7EulBjqoDp1ax3uqaSmwL1COqGoE0uT%7EK11dulEC8UPJqRIfOzIBeCeo0ouWrgkmbUyKLqW-IG2qL7yCIf5BLuxKJ1-TEQR5mzMFrPA4kZLbKxvZyHA4w__",
+  "job_id": "job_T4tG1jVqzbGSQxxxmvztsHyx",
+  "asset_id": "asset_K8MUZsZH56hb1dBMkhnij4xy",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, 3D Casual Abstract style, extreme close-up of a fingertip placing a glowing yellow-orange (#FDBA4D) beveled 3D cube into a deep purple (#403F6D) grid cell on a smartphone screen, dark moody navy background (#20232B), soft bloom and bouncing ball trails erupting from the placed block, on-screen text 'Tap to place.' in clean white sans-serif, tactile macro photography feel, cinematic lighting, high detail, mobile game ad still.",
+  "model_id": "flux.1-dev",
+  "mode": "img2img",
+  "reference_image": "00.png",
+  "img2img_strength": 0.6
+}

@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "e64eed0da78e3087",
+    "ad_unit_id": "e64eed0da78e3087",
+    "app_id": "53857baf830f78f0bc0068e3",
+    "advertiser_name": "Warframe Companion",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/502c474e26ea3ae9/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/502c474e26ea3ae9/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/502c474e26ea3ae9/preview",
+    "phashion_group": "e64eed0da78e3087",
+    "share": null,
+    "first_seen_at": "2026-03-28T00:00:00",
+    "last_seen_at": "2026-04-19T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Vast worlds to explore, tons of weapons to master and unlimited ways to express yourself.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A mysterious narrator asks 'What is Warframe?' over dark, cinematic visuals.",
+    "visual_action": "A shadowy figure walks through a dark blue mist, followed by a tight close-up of an eye.",
+    "text_overlay": null,
+    "voiceover_transcript": "What is Warframe?",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "A mysterious figure walks through a dark blue environment asking 'What is Warframe?'",
+    "A series of fast-paced gameplay clips showcase various combat styles and abilities.",
+    "The narrator's eye is shown in close-up as he speaks about the forgotten war.",
+    "The video concludes with a branded end card and a call to action to play for free."
+  ],
+  "on_screen_text": [
+    "MATURE 17+ M ESRB",
+    "WARFRAME",
+    "PLAY FREE NOW"
+  ],
+  "cta_text": "PLAY FREE NOW",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#05101a",
+    "#ffffff",
+    "#4cc9f0"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Hardcore sci-fi action gamers who enjoy fast-paced combat and cinematic storytelling.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0013570000000000001
+}

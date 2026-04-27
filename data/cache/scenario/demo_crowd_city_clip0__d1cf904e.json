@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets/asset_Lxq6CsV1a4FPKQ5U5EUF7GJ4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy9hc3NldF9MeHE2Q3NWMWE0RlBLUTVVNUVVRjdHSjQqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc4MTk4Mzk5fX19XX0_&Key-Pair-Id=K36FIAB9LE2OLR&Signature=kgS3zin7xfyELvDxyRvFVt6x6eiHLONa4QeRbVAaf9F3M8pLp014K2Z8uDujbOPEJA4LwEV2VYqyEAOhdyu29NOeQD1Opo6Y7jlS1e%7Ej7p2BrJcwFfSYAFGrUuVBr0HTQrkuqCc62E-xy45bXquyvz5RuSTgf9771R9abEBPBSjMoMqDU2UUeCHd0vSkxnzbz70ols1MGl%7E9e0sNfuC2JIK8JqnZHJI6g8WkcEihfq3fq8Ispq7oH4-Rm-7dDSGR1Nuaskh0f4qj04sOy8POdh2WOBnt0GIK4XGPzNlBKKXVpcg1FIQvVNHWHSBOxyBHnDMqsZqCcpYQdljf6YezYg__",
+  "job_id": "job_p4Tm9r4srjM2tAsLPCECDdci",
+  "asset_id": "asset_Lxq6CsV1a4FPKQ5U5EUF7GJ4",
+  "stub": false,
+  "model_id": "model_bytedance-seedance-2-0",
+  "prompt": "0-3s: Selfie-style vertical shot, young woman lounging on bed grinning at her phone. Friend off-camera: 'Okay\u2026 why do you look so happy today?'",
+  "mode": "video",
+  "input_frames": 1
+}

@@ -1,0 +1,51 @@
+{
+  "raw": {
+    "creative_id": "9136fdde919cd968",
+    "ad_unit_id": "9136fdde919cd968",
+    "app_id": "681eb48a7a54db51c803a365",
+    "advertiser_name": "Foodie Sizzle",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bd8495edd3938f9/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bd8495edd3938f9/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3bd8495edd3938f9/preview",
+    "phashion_group": "9136fdde919cd968",
+    "share": null,
+    "first_seen_at": "2025-12-18T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": "540:960",
+    "width": 540,
+    "height": 960,
+    "message": "Foodie Sizzle feels like a soft daydream, join with me pls",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A young man celebrates reaching level 55 in 'Foodie Sizzle' while relaxing on his bed.",
+    "visual_action": "Man lying on a bed looking at a tablet, then flipping over to play more intensely.",
+    "text_overlay": "\"You look happier\" / \"Thanks I've been playing Foodie Sizzle all day and finally reached level 55!\"",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Man lies on bed looking at a tablet with text overlays about his happiness.",
+    "He flips onto his stomach to continue playing the game 'Foodie Sizzle'.",
+    "He sits up abruptly, cheering and pumping his fist in celebration of reaching level 55."
+  ],
+  "on_screen_text": [
+    "\"You look happier\"",
+    "\"Thanks I've been playing Foodie Sizzle all day and finally reached level 55!\""
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#87CEEB",
+    "#D3D3D3",
+    "#1A1A1A"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Young adult casual gamers who enjoy the sense of achievement from leveling up in mobile games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001432
+}

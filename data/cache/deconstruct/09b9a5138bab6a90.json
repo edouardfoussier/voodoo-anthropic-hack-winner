@@ -1,0 +1,64 @@
+{
+  "raw": {
+    "creative_id": "09b9a5138bab6a90",
+    "ad_unit_id": "09b9a5138bab6a90",
+    "app_id": "6334cb825c183338983c2280",
+    "advertiser_name": "My Tidy Life",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71bcdf80de5e029d/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71bcdf80de5e029d/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71bcdf80de5e029d/preview",
+    "phashion_group": "09b9a5138bab6a90",
+    "share": null,
+    "first_seen_at": "2025-12-03T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 11.0,
+    "aspect_ratio": null,
+    "width": 576,
+    "height": 1024,
+    "message": "Your turn to clean this mess!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Satisfying 3D animation of filling a spice jar.",
+    "visual_action": "Red pepper flakes pour into a glass jar labeled No. 047 on a pink kitchen counter.",
+    "text_overlay": "No. 047 RED PEPPER",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Camera pans across a stylized 3D kitchen to focus on a pink countertop.",
+    "Red pepper flakes pour into a jar labeled No. 047 until full.",
+    "Black pepper flakes pour into a jar labeled No. 292 until full.",
+    "The filled jars are placed into a drawer with a perfectly organized spice collection."
+  ],
+  "on_screen_text": [
+    "No. 047 RED PEPPER",
+    "No. 292 BLACK PEPPER",
+    "No. 072 CINNAMON",
+    "No. 092 CUMIN",
+    "No. 002 CURRY",
+    "No. 330 DRIED ORANGE",
+    "No. 001 GINGER",
+    "No. 255 LAVENDER",
+    "No. 254 NUTMEG",
+    "No. 133 PAPRIKA",
+    "No. 150 PEPPER",
+    "No. 171 PINK SALT",
+    "No. 012 SAFFRON",
+    "No. 233 THYME"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#F8C8DC",
+    "#FFFFFF",
+    "#333333"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Casual players who find satisfaction in organization, tidying, and ASMR-style gameplay.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001895
+}

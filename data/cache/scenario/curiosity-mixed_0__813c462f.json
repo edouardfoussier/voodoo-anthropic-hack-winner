@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_orgfGbMspHbpHWck1d7j1X5H?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfb3JnZkdiTXNwSGJwSFdjazFkN2oxWDVIP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=TFGdIM3nDde0I7-hhvCCKOYub6OgFyeGJ0k8DhM11TnV4KstEJiy5XyM4MNrUkf4Aunexvtd98Xq5hU5loL7tC2NhuzdKVi3vIYEYjXbJYxKQlcjMlJDSP78Lv9Vc6KsqiNivxo3JMpRw5SQNVdM%7EQcZDLpanP4EpsG%7EFZsyLieHjuI8if3xs%7EK-yRis2UJIfRUE5gr-OnE9qSNjBz%7ECAkzX9CSUdsPdSR-QuQ13Vcx-D7d46OjNT4SexE5m2nx18ouZiWDZV4KHsshmnopuVlkKjtEJTlTqteAKuKcsJ23npYJwYKbAV94SUCRcxJFQusuURGVyYJvprnMugCy%7EMg__",
+  "job_id": "job_TgNDgRRm6AQyuFLovUdAZJHA",
+  "asset_id": "asset_orgfGbMspHbpHWck1d7j1X5H",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, vertical mobile screenshot of Solitaire - Voodoo Card Game! authentic in-game moment: classic 2D flat design with traditional green felt aesthetic background (#1A874B), seven tableau columns of stark white playing cards (#FFFFFF) with bright red heart and diamond pips (#E31C1B) and black spades/clubs, mid-drag animation of a red Queen of Hearts being drag-and-dropped onto a black King of Spades in descending alternating-color stack, four foundation piles top-right partially built with Aces and 2s, visible HUD with timer counter, score counter, undo button and finish button matching the live app UI chrome exactly, no characters or people on screen, bold white sans-serif overlay text 'POV: 12 min lunch left' across upper third, photoreal phone-screen fidelity to reference screenshots, no generic stock-game tropes",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

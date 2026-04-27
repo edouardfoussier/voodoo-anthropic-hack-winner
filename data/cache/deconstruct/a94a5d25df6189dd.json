@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "a94a5d25df6189dd",
+    "ad_unit_id": "a94a5d25df6189dd",
+    "app_id": "55c5309f02ac64f9c0002dfe",
+    "advertiser_name": "Sniper 3D：Gun Shooting Games",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/d1b60b005955cbc1/preview",
+    "phashion_group": "a94a5d25df6189dd",
+    "share": null,
+    "first_seen_at": "2025-09-23T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Play with your friends",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A sniper scope view of a hostage situation where the shot misses and hits the hostage.",
+    "visual_action": "Sniper scope zooms in on a terrorist holding a woman hostage; the shot is fired and hits the woman.",
+    "text_overlay": "Don't fail",
+    "voiceover_transcript": "Don't fail.",
+    "emotional_pitch": "fail"
+  },
+  "scene_flow": [
+    "Sniper scope view of a hostage situation at an airport; the shot misses and hits the hostage.",
+    "Close-up of the sniper rifle firing a bullet in slow motion.",
+    "Wide shot of the airport tarmac showing the failed mission and an explosion.",
+    "Sniper character looks disappointed as 'FAILED' text appears.",
+    "Final scene shows the game title 'SNIPER 3D' with a 'PLAY' button and a new mission scene."
+  ],
+  "on_screen_text": [
+    "Don't fail",
+    "FAILED",
+    "SNIPER 3D",
+    "FREE SHOOTER GAME",
+    "PLAY"
+  ],
+  "cta_text": "PLAY",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#2C3E50",
+    "#E74C3C",
+    "#F1C40F"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "Men 18-35 who enjoy action-packed shooter games and mission-based challenges.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001732
+}

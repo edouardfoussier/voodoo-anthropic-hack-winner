@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "15927a959d015509",
+    "ad_unit_id": "15927a959d015509",
+    "app_id": "55f3733b02ac64eb8400006e",
+    "advertiser_name": "Huuuge Casino 777 Slots Games",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b038fff84eed7cc/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b038fff84eed7cc/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0b038fff84eed7cc/preview",
+    "phashion_group": "15927a959d015509",
+    "share": null,
+    "first_seen_at": "2026-04-10T00:00:00",
+    "last_seen_at": "2026-04-20T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "",
+    "button_text": "Play game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy slot machine spin with a lucky cat theme.",
+    "visual_action": "Reels spinning quickly with vibrant symbols and waving lucky cats in a Japanese-themed setting.",
+    "text_overlay": "Huuuge Casino The Ultimate Casino Thrill!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "The slot machine reels spin rapidly against a vibrant Japanese-themed background with waving lucky cats.",
+    "A winning combination of three red '7' symbols lands on the center payline.",
+    "A 'BIG WIN' graphic explodes onto the screen with celebratory sound effects and visual flair.",
+    "The total win counter at the bottom of the screen rapidly tallies up a massive coin prize."
+  ],
+  "on_screen_text": [
+    "Huuuge Casino",
+    "The Ultimate Casino Thrill!",
+    "SUPER PRIZE GOLD CAT",
+    "DOUBLE",
+    "WILD",
+    "BAR",
+    "BIG WIN",
+    "Spin"
+  ],
+  "cta_text": "Spin",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFD700",
+    "#E60012",
+    "#2E0854"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Adults 35+ who enjoy the high-stakes excitement and visual rewards of social casino slot games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017109999999999998
+}

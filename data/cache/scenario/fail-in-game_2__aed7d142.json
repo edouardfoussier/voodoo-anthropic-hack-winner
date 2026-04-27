@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_yKCAb2vSJUXayZqxaMRFBgLm?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfeUtDQWIydlNKVVhheVpxeGFNUkZCZ0xtP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=jcOFS9yZjXDfWT6VghbtuI8R-Gs0N6fLWtgz1mZ85emvol-xX8vmw8hhuIQCX6JI-ujeItW6O57G0POrb1FYsrQQM0KaPRBNlbkmzv8jFhA9qNChMhHmOAUvnBc3LBvc-ZLlf0CE0YsNElw9p09x-oBgxlJYXz%7EKhH1IbNBKj7iHPwOsGGyo0ithG0tmLAoq9WyMp2w8zi9lsqgbfpzT62zE65R%7E22HOF1qSFuicgMrB2QT1CqFThnRZjNEWNzT%7EdX6iD1-Og050nZL-T368x4p5cd8zE-D0amwACQj9yXZpcXuRjVpqFpZeLI85Mw%7E91cQoBpzmwlTdym40G68-gw__",
+  "job_id": "job_mYczhD11ZB2e7CK7zBbSnueD",
+  "asset_id": "asset_yKCAb2vSJUXayZqxaMRFBgLm",
+  "stub": false,
+  "prompt": "Authentic Roof Rails in-game hero frame, 9:16 vertical, third-person low-angle behind the minimalist runner character launching from a cyan #5CD6FF rooftop onto a long white #EAF6FA rail, oversized horizontal yellow #FFC824 pole catching sunlight, trail of yellow pole pieces and diamonds curving ahead, distant magenta saws spinning on the rail, HUD progress bar top-center, diamond counter top-right, level indicator top-left, 3D minimalist simple geometry, bright pastel colors, clean uncluttered aesthetic, bold yellow on-screen text 'CAN YOU CLEAR IT?'. [Audio: VO (challenging) 'your turn \u2014 tap to try' / 140bpm energetic competitive trap build / whoosh on launch 0.5s, rising chime ladder 1-3s, button-tap click at 4.8s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,161 @@
+{
+  "count": 458,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "49c9a7bb8a05f567",
+      "app_id": "5d5b97412abd3d12ef100cea",
+      "network": "Facebook",
+      "phashion_group": "49c9a7bb8a05f567",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-29",
+      "last_seen_at": "2026-04-16",
+      "creatives": [
+        {
+          "id": "49c9a7bb8a05f567",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00a054ca10518511/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5d5b97412abd3d12ef100cea",
+        "canonical_country": "US",
+        "name": "Jewel Sliding - Block Puzzle",
+        "publisher_name": "Wisdom Network",
+        "publisher_id": "5c689d391109cd4b8d4500bf",
+        "humanized_name": "Jewel Sliding",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/50/b8/ec50b89b-ec72-0761-4751-cb7aadc43f70/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5d5b97412abd3d12ef100cea",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f8c6782d0148b33f",
+      "app_id": "66cd51e99e7c3b9775dd562b",
+      "network": "Facebook",
+      "phashion_group": "f8c6782d0148b33f",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-21",
+      "last_seen_at": "2026-04-19",
+      "creatives": [
+        {
+          "id": "f8c6782d0148b33f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00c1f90e6ce09519/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00c1f90e6ce09519/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00c1f90e6ce09519/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Relax with Drop Away",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "66cd51e99e7c3b9775dd562b",
+        "canonical_country": "US",
+        "name": "Drop Away: Color Puzzle",
+        "publisher_name": "Take-Two Interactive",
+        "publisher_id": "5614b32f3f07e2077c000488",
+        "humanized_name": "Drop Away: Color Puzzle",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/99/90/4e999058-cf79-6bd4-15fa-d45acfbf7df4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "66cd51e99e7c3b9775dd562b",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "a7b00a740fdf90d5",
+      "app_id": "5b0bf793add5fb1967fd21ad",
+      "network": "Facebook",
+      "phashion_group": "a7b00a740fdf90d5",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-23",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "a7b00a740fdf90d5",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00e6521a4ec4ab9e/thumb",
+          "video_duration": 10,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ud83d\udd25 Tap to play! \ud83d\udc49\ud83c\udffb\ud83d\udc49\ud83c\udffb\ud83d\udc49\ud83c\udffb",
+          "button_text": "Play Game",
+          "message": "Time-limited events starting soon! \ud83c\udf89\ud83d\udd25"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "5b0bf793add5fb1967fd21ad",
+        "canonical_country": "US",
+        "name": "Viola\u2019s Quest: Marble Blast",
+        "publisher_name": "Two Desperados",
+        "publisher_id": "56511f5202ac640e66000002",
+        "humanized_name": "Viola\u2019s Quest",
+        "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/e9/fe/49e9fe59-af13-8b48-ac5f-9ac978d18e9a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/150x150bb.jpg",
+        "os": "unified",
+        "id": "5b0bf793add5fb1967fd21ad",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "2086debe0e0fd8a1",
+      "app_id": "69a3b7065235fa4805fc68a4",
+      "network": "Facebook",
+      "phashion_group": "2086debe0e0fd8a1",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-03",
+      "last_seen_at": "2026-04-06",
+      "creatives": [
+        {
+          "id": "2086debe0e0fd8a1",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010c11fdc825d798/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u3010\u65b0\u767a\u58f2\u3011No.1\u4e73\u6db2\u304c\u9032\u5316",
+          "button_text": "Learn more",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "69a3b7065235fa4805fc68a4",
+        "canonical_country": "US",
+        "name": "Arrow Cube Escape",
+        "publisher_name": "CyberAgent",
+        "publisher_id": "5614b4a13f07e2077c0010d8",
+        "humanized_name": "Arrow Cube Escape",
+        "icon_url": "https://play-lh.googleusercontent.com/k_9MZtpdy3gYNVgynIWwv-1omuSkl4WGr5bOKYT-PJDC5PsEdFQMXWEBU7Jr3TfyjeBviAD3DN3_2KpDhGfa=s150",
+        "os": "unified",
+        "id": "69a3b7065235fa4805fc68a4",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

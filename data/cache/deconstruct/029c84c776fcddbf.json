@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "029c84c776fcddbf",
+    "ad_unit_id": "029c84c776fcddbf",
+    "app_id": "5a639d7bd99e270b0f78d750",
+    "advertiser_name": "Hard Rock Jackpot Casino",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/35c93bb5182d73d1/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/35c93bb5182d73d1/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/35c93bb5182d73d1/preview",
+    "phashion_group": "029c84c776fcddbf",
+    "share": null,
+    "first_seen_at": "2026-04-12T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 7.0,
+    "aspect_ratio": null,
+    "width": 540,
+    "height": 960,
+    "message": "Spring is calling! Escape for two nights or more and save up to 15% off.\nBook now through May 31, 2026.",
+    "button_text": "Book now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Showcase of a luxury hotel room and tropical resort exterior.",
+    "visual_action": "Pans across a modern hotel room then cuts to a sunny resort pool with palm trees.",
+    "text_overlay": "I don't need much, but I do need a weekend here",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Luxury hotel room interior with modern decor.",
+    "Outdoor resort pool area with palm trees and waterfall.",
+    "Close-up of a spinning roulette wheel in a casino.",
+    "Slot machines displaying multi-million dollar jackpots.",
+    "Indoor spa pool and tropical drinks being toasted.",
+    "Wide shot of the guitar-shaped hotel building."
+  ],
+  "on_screen_text": [
+    "I don't need much, but I do need a weekend here",
+    "DRAGON LINK",
+    "$2,067,967.26",
+    "GOLDEN CENTURY",
+    "HAPPY & PROSPEROUS"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#FFFFFF",
+    "#00A8E1",
+    "#8B5E3C"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Adults 25-55 looking for a luxury vacation or casino gaming experience.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001416
+}

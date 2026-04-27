@@ -1,0 +1,28 @@
+{
+  "archetype_id": "fail-in-game",
+  "target_game_id": "1563230518",
+  "title": "Blocked Foundation: The Solitaire Fail Hook",
+  "hook_3s": "A red Queen of Hearts hovers over a blocked foundation pile — timer ticking, the wrong move slams down, \"FAIL\" flashes across the green felt.",
+  "scene_flow": [
+    "0-3s: Tight zoom on a Solitaire tableau on green felt. A finger drags a red Queen toward a black King — overlay: 'WHY IS THIS LEVEL SO HARD?'",
+    "3-7s: Finger fumbles — drops the Queen on the wrong foundation pile. Cards shake red, buzzer sound, timer drops to 0:08. Overlay: 'WRONG MOVE!'",
+    "7-11s: Camera pulls back showing a fully blocked board, undo button pulsing red. Overlay: 'CAN YOU WIN?'",
+    "11-14s: Fast cut — a smarter sequence: alternating-color stack cascades down, foundations fill Ace→King in a satisfying combo. Overlay: 'YOUR TURN'",
+    "14-15s: End card with logo + CTA over green felt."
+  ],
+  "visual_direction": "Lock to the game's authentic look: deep casino green felt (#1A874B) as the table, crisp white cards (#FFFFFF) with bold red suits and red accent UI (#E31C1B) for the timer, fail flash, and undo button. Classic 2D flat design — no 3D, no characters, no mascots. Camera stays close to the tableau like a real gameplay capture, with a single human finger as the only \"actor.\" Fail beat uses a red screen-shake + red vignette pulse to sell tension without breaking the flat aesthetic.",
+  "text_overlays": [
+    "WHY IS THIS LEVEL SO HARD?",
+    "WRONG MOVE!",
+    "0:08 LEFT…",
+    "CAN YOU WIN?",
+    "YOUR TURN"
+  ],
+  "cta": "PLAY FREE",
+  "rationale": "Adapts the proven \"fail-in-game\" hook to Solitaire by reframing the blocked-bus beat as a blocked-foundation dead-end — a frustration every Solitaire player recognizes. UA team should A/B the \"WRONG MOVE!\" fail flash vs. a no-fail control; expect strong IPM lift from puzzle-curious adults who can't resist correcting a visible mistake. Keep all assets native to the game's green-felt UI to maximize click-to-install fidelity.",
+  "scenario_prompts": [
+    "Hero frame, vertical 9:16 mobile screenshot, Classic 2D flat design with a traditional green felt aesthetic, authentic Solitaire - Voodoo Card Game! gameplay capture: deep casino green felt table (#1A874B) with seven tableau columns of crisp white playing cards (#FFFFFF) showing bold red hearts and diamonds (#E31C1B) and black spades/clubs, four foundation slots top-right, stockpile top-left, a human index finger mid-drag holding a Red Queen of Hearts hovering over a blocked black-card column, red glow vignette around the wrong drop zone, red digital timer reading 0:08 in top HUD, score counter and red undo button visible, bold white sans-serif overlay text 'WHY IS THIS LEVEL SO HARD?' across the top, no characters, no mascots, flat 2D vector card faces, in-game UI chrome identical to the reference screenshots",
+    "Storyboard frame 2, vertical 9:16, Classic 2D flat design with a traditional green felt aesthetic, Solitaire - Voodoo Card Game! fail moment: green felt background (#1A874B), white playing cards (#FFFFFF) with red suit pips (#E31C1B), the dropped Queen card tilted askew on the wrong foundation, a bright red 'X' burst and red screen-edge flash, timer in red ticking down, pulsing red undo button, bold white overlay text 'WRONG MOVE!' centered, no human characters, flat vector style, authentic in-game HUD with stockpile and foundation piles",
+    "Storyboard frame 3, vertical 9:16, Classic 2D flat design with a traditional green felt aesthetic, Solitaire - Voodoo Card Game! satisfying win cascade: green felt table (#1A874B), white cards (#FFFFFF) flying in arcs from tableau into four foundation piles with red heart and diamond suits (#E31C1B) glowing, alternating descending color stacks neatly arranged, score counter spiking, green and white particle sparkles, bold white overlay text 'YOUR TURN' at the bottom, classic 2D flat vector card art, no characters, native in-game UI chrome matching reference screenshots"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "app_id": "1345968745",
+  "name": "Helix Jump",
+  "genre": "Arcade",
+  "sub_genre": "Hypercasual",
+  "core_loop": "Rotate the helix tower to guide a bouncing ball down through gaps while avoiding colored trap platforms to reach the bottom.",
+  "audience_proxy": "Broad, casual audience of all ages looking for quick, reflex-based entertainment.",
+  "visual_style": "3D minimalist with bright, contrasting colors and simple geometric shapes.",
+  "palette": {
+    "primary_hex": "#5CE1E6",
+    "secondary_hex": "#39FF14",
+    "accent_hex": "#FF0000",
+    "description": "Vibrant, high-contrast neon colors against lighter backgrounds to emphasize gameplay elements and danger zones."
+  },
+  "key_mechanics": [
+    "rotating",
+    "bouncing",
+    "falling",
+    "avoiding",
+    "smashing"
+  ],
+  "character_present": false,
+  "ui_mood": "energetic/competitive",
+  "screenshot_signals": [
+    "Score multiplier text",
+    "Level progression map",
+    "Boss level banner",
+    "Power-up indicators",
+    "High score display"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "835112031262210e",
+    "ad_unit_id": "835112031262210e",
+    "app_id": "55d939a502ac645ad202102f",
+    "advertiser_name": "Winamax Paris Sportifs",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/efae2caa58df9f9e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/efae2caa58df9f9e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/efae2caa58df9f9e/preview",
+    "phashion_group": "835112031262210e",
+    "share": null,
+    "first_seen_at": "2026-04-19T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Marble Race 🚀🚀",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy 3D marble race through a futuristic space environment.",
+    "visual_action": "Colorful marbles speed down a glowing purple track in space, passing a large planet.",
+    "text_overlay": "WINAMAX",
+    "voiceover_transcript": "Yeah! Yeah! Yeah!",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Marbles speed down a linear space track with high-energy chanting music.",
+    "The camera follows the marbles as they enter a spiral loop around a moon.",
+    "A splash screen appears with the event title 'Marble Race to the Moon' and a prize announcement.",
+    "Final screen displays the prize pool, event schedule, and app promotion."
+  ],
+  "on_screen_text": [
+    "WINAMAX",
+    "MARBLE RACE TO THE MOON",
+    "UNE SEULE RÈGLE : CHOISIR LA BONNE BILLE !",
+    "1 000 000 € OFFERTS",
+    "DIFFUSION EN INTÉGRALITÉ SUR L'APP",
+    "15 COURSES DU 20 AU 24 AVRIL"
+  ],
+  "cta_text": "DIFFUSION EN INTÉGRALITÉ SUR L'APP",
+  "cta_timing_seconds": 7.0,
+  "palette_hex": [
+    "#4B0082",
+    "#FF00FF",
+    "#000000"
+  ],
+  "visual_style": "3D-render",
+  "audience_proxy": "French-speaking adults interested in sports betting and competitive casual games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016840000000000002
+}

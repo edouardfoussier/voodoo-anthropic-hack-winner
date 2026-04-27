@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_uNM3toZCnxEa5wd7SGMRCz31?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdU5NM3RvWkNueEVhNXdkN1NHTVJDejMxP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=l5pS1wgvhZyUEtSJSNpGa0i1IOLxwEwYjhv2zyDSdWoz0m%7EK5YWWhMrmftq%7EYYz6kCd5Cpi73JIaLm8Zt-VSfjmwQ7SBQc4RyBVRdS8nHa9C1Wfg2s6qV-5RVJYMKteV8ioF76W%7EDgpQALwBvin7ykeWBxDU1UxC72BxOfIlIYnaay4KnYlgCveG1vPIvGrDMP6sunOS2-WxALlgWuP6LrR5KoejmdRJ5YtAodCg52POiKwENFwlM2FhPXzWLSrvLcFRqlFeCMg96zJaQRt-hNFQzM6xBtV3G-5dQ%7ECs-PTWCMto1VBmPeN%7ERiZ9HR%7E-PXmkQHR9dopsVlRwwi0t8w__",
+  "job_id": "job_XCjZHomLZDNsN6SM7To57Dz5",
+  "asset_id": "asset_uNM3toZCnxEa5wd7SGMRCz31",
+  "stub": false,
+  "prompt": "Storyboard frame 3 CTA, aspect 9:16: smartphone tilted slightly forward on a lavender pastel surface #E5DFFF, screen showing a completed Marble Sort level with all colored boxes full and a soft confetti burst, Clean and colorful 3D cartoon style with soft, rounded shapes, light grey machine #F0F0F8, large vibrant orange #FFB13B 'Play Free' button centered below the Marble Sort! logo, on-screen text overlay 'Level 1 cleared!' in playful orange rounded font, bright clean app store style composition",
+  "model_id": "flux.1-dev"
+}

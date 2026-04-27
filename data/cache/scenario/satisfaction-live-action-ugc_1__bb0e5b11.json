@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_zUW4Xec6GmVcQ9uXTonW9Vfp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfelVXNFhlYzZHbVZjUTl1WFRvblc5VmZwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=IniRwruMXFc0-3lnisXp%7EvsLmqGd4lNppOdhHuIe7maNSdGf6UnqWqiXw972zI0IffsFCQu-BJ2CInk8FYKlskjYFrYhLx4goi9J510MW1dUg-QvEaNNpWeVttSmwteRCB1pgsY%7EXucWu0R8qL%7EqedvOS0ztJ5HatPEEYABoYD0mWd-T4x3MYT4LEnJCxZJkCe8G389X0yTXeU9ssOFy0SGFfr2ZKw2mKSOd6joDnVDhcqoBiLoSPssBKF6Y9iJl0JQkI307lZfBm-35D0PEMzdoxTNYU6lFNGEkMoe7JGOFPHyCNjoLusI-3eG0B58OOwbjJSLxGSUdPVot7aorPg__",
+  "job_id": "job_TW4mK4JeQdWwP5a59Nop8RJq",
+  "asset_id": "asset_zUW4Xec6GmVcQ9uXTonW9Vfp",
+  "stub": false,
+  "prompt": "Storyboard frame, 9:16 vertical aspect ratio, clean and colorful 3D cartoon style with soft, rounded shapes, close-up macro of three glossy pastel marbles mid-bounce on a light grey (#F0F0F8) conveyor belt, lavender background (#E5DFFF), tiny motion-blur trails, a vibrant orange (#FFB13B) sorting box glowing in the foreground, chunky orange overlay text 'tap \u2192 drop \u2192 sort', ASMR product-shot lighting, ultra-satisfying",
+  "model_id": "flux.1-dev"
+}

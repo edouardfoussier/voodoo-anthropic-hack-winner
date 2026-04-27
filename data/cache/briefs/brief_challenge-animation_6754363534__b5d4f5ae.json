@@ -1,0 +1,28 @@
+{
+  "archetype_id": "challenge-animation",
+  "target_game_id": "6754363534",
+  "title": "Don't Spill The Sand — Challenge Reframe for Sand Loop",
+  "hook_3s": "Close-up: a single grain of red sand rolls toward the WRONG bucket — \"Can you save it in time?\"",
+  "scene_flow": [
+    "0–3s HOOK: Macro ASMR shot of vibrant sand streaming down a conveyor belt; a rogue red grain drifts toward a blue bucket. Text: 'Can you save it?'",
+    "3–7s STAKES: Pull back to reveal a half-finished pixel-art heart about to be ruined by one wrong color. A finger hovers, the belt speeds up subtly. Text: '99% fail this level.'",
+    "7–11s GAMEPLAY: Tap-tap-tap — buckets swap, locks click open, colored sand cascades into perfect rows. Satisfying pops and soft chimes. Text: 'Tap to sort. Don't spill.'",
+    "11–14s PAYOFF: The pixel-art image completes in a sparkle reveal — a glowing heart / sunset / cat. Calm exhale moment. Text: 'Oddly satisfying.'",
+    "14–15s CTA: Logo lockup over the finished pixel art with a gentle bounce. Text: 'Play Free'"
+  ],
+  "visual_direction": "Lean fully into Sand Loop's calm/ASMR DNA while borrowing only the *structural* tension of the challenge archetype (a near-miss fail state) — never its shouty combat energy. Sky-blue (#4A90E2) backdrop with soft studio lighting, crisp white (#FFFFFF) conveyor rigs, and golden-yellow (#FFD700) accent buckets and sparkles. 3D stylized chunky props with shallow depth of field, macro close-ups on grain-level sand physics, and the signature pixel-art reveal as the emotional climax. Motion is smooth and weighty — no harsh shakes, no flashes; tension comes from a single grain's trajectory, not explosions.",
+  "text_overlays": [
+    "Can you save it?",
+    "99% fail this level",
+    "Tap to sort. Don't spill.",
+    "Oddly satisfying ✨",
+    "Play Free"
+  ],
+  "cta": "Play Free",
+  "rationale": "We keep the archetype's proven challenge/curiosity hook (\"Can you survive/save it?\") but swap combat stakes for a near-miss sand-spill — preserving CTR drivers without breaking the post-install promise of a calm sorting puzzle. This protects D1 retention for the 25–45 ASMR-puzzle audience while still testing the \"challenge\" emotional pitch. Recommend A/B testing the 99% fail overlay vs. a pure-ASMR cold open to isolate which hook converts the casual demo best.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16: extreme macro close-up of a single glowing red sand grain rolling along a clean white 3D conveyor belt toward a golden-yellow bucket, soft sky-blue (#4A90E2) studio background, white (#FFFFFF) belt rig, gold (#FFD700) bucket accents, shallow depth of field, ASMR product-shot lighting, 3D stylized objects with vibrant colors and pixel-art sand compositions, bold white on-screen text 'Can you save it?' top-center, calm satisfying mood, mobile ad still",
+    "Storyboard frame 2, aspect 9:16: top-down 3D stylized scene of three color-coded buckets (red, blue, gold #FFD700) on a white (#FFFFFF) conveyor belt over a sky-blue (#4A90E2) backdrop, streams of pixel-art sand pouring into a half-completed pixel-art heart below, a cartoon finger tapping a bucket, vibrant saturated colors, 3D stylized objects with vibrant colors and pixel-art sand compositions, on-screen text 'Tap to sort. Don't spill.' centered, clean UI mockup, 15s playable ad frame",
+    "Storyboard frame 3 payoff, aspect 9:16: completed glowing pixel-art heart made of perfectly sorted red and gold (#FFD700) sand grains, sparkles and soft bokeh, white (#FFFFFF) frame edges, sky-blue (#4A90E2) gradient background, calm satisfying ASMR aesthetic, 3D stylized objects with vibrant colors and pixel-art sand compositions, bold on-screen text 'Oddly satisfying ✨' bottom-center, mobile ad reveal shot"
+  ]
+}

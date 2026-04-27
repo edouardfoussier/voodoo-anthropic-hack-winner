@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "ef1402a924956332",
+    "ad_unit_id": "ef1402a924956332",
+    "app_id": "594990020211a674a00013c6",
+    "advertiser_name": "Solitaire Grand Harvest",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71115af62aa08b79/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71115af62aa08b79/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/71115af62aa08b79/preview",
+    "phashion_group": "ef1402a924956332",
+    "share": null,
+    "first_seen_at": "2025-10-12T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Don't Miss Out On Your Gifts!\nCome Back Now And Collect Them!",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A vibrant reward screen featuring a mountain of gold coins and a gift offer.",
+    "visual_action": "Gold coins shimmer in a farm setting while reward icons for power-ups appear above them.",
+    "text_overlay": "COME BACK & COLLECT YOUR GIFT!",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Static display of a farm landscape with a massive pile of gold coins and a 'Collect Now' button.",
+    "Three specific power-up icons (infinity energy, +5 cards, wild card) pop up sequentially.",
+    "Cartoon dog characters at the bottom perform idle animations like blinking and smiling.",
+    "The entire scene remains a static call-to-action for the duration of the clip."
+  ],
+  "on_screen_text": [
+    "SOLITAIRE GRAND HARVEST",
+    "COME BACK & COLLECT YOUR GIFT!",
+    "COLLECT NOW",
+    "+5",
+    "AI Generated Content"
+  ],
+  "cta_text": "COLLECT NOW",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFD700",
+    "#87CEEB",
+    "#4B8B3B"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Casual mobile gamers, likely adults 35-65, who enjoy relaxing solitaire and farm-themed progression games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0016749999999999998
+}

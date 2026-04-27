@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_QQC5kSmM5AaTkZVnWJXKMECs?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfUVFDNWtTbU01QWFUa1pWbldKWEtNRUNzP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=vv%7EdcdRWdNP3Z95603krEgdojyGk8rOrZgT%7EShL3o2xyKqjN-e7C9J1MbBxTccGJ1E4I5ZKOhWKspmgwSzUZvJhM1YNb5LwE7pyz5lIhO-9kWVTFuN29a0Ld1qu7kHjevj5-iwXUihpv5YusDjCcot0SnBtq-cam9EUNEfFVUVlF5yHcmOwo708cY3XDwnIa2RM4jJmKrVuZYIYiHauSvUVHHPuRfo8Qn3EDDkNg4jB57hgpWQ%7EzELvkqqOsLP6cVr0Ks-aaTk6lQWCINJqfbDzVX8NrXJezTqEJ0xEQEiVlwYsKwTxLBxPGCCg5e-QpvGD5x-VeWYbjWf951Hl7rQ__",
+  "job_id": "job_fhVCwcGKv5bMAg6cRUhqPGR7",
+  "asset_id": "asset_QQC5kSmM5AaTkZVnWJXKMECs",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical aspect, authentic in-game Crowd City screenshot: victorious end-of-round moment, enormous red (#FF0000) stickman crowd flooding an entire pastel low-poly city block with Eiffel Tower landmark in background, tiny remaining blue (#0000FF) stickmen being chased into a corner, bright green (#00FF00) 'WINNER' banner flashing across center screen, HUD timer reading '0:00' and final crowd count '847', low-poly colorful 3D environment with simple stickman-like character models, on-screen text overlay 'can't stop playing', saturated hypercasual mobile game UI",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

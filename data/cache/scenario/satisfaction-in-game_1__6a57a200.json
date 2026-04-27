@@ -1,0 +1,8 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_vTShPHgvfREVQcK7gbVjrnGi?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdlRTaFBIZ3ZmUkVWUWNLN2diVmpybkdpP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=wTJBcEdWrZqoRQzxHFbCmY%7Ekkf%7Er3Woc8T33vCRc2xfmfoj1JnDtDZdHnGB5M6KHLPVMwrPxTzGAoS2-Q3wNPbGIaas5zfK5Soz461AsrB2Vdt4-W6uzbdiS7QpqvQeb0jIxA%7E0BZggRKQPtnR-74I9qte4Dhe%7EzgENpQm51FEjC-e-CGw420kWwPnb-cYekG%7Ex4DnfO4V%7E9Nx33IZz59iMULMw4f36DE7AsvPOncQP%7EDCUu3LFHtMoxeBhMu%7EHnCzw67NgWn-0niIiCA4w-8iJuceBpXU3r4PWy5lgXLAR3RRNoUrs-M48lBl-8j-TIoGZavGS5zQWT6R6zl5OyuQ__",
+  "job_id": "job_MSaE87dsgWKzzbwte9rHesYq",
+  "asset_id": "asset_vTShPHgvfREVQcK7gbVjrnGi",
+  "stub": false,
+  "prompt": "Storyboard frame 2, 9:16 vertical aspect ratio, clean and colorful 3D cartoon style with soft rounded shapes, close-up of a finger tapping a tray on the lavender (#E5DFFF) sorting machine, multiple pastel marbles rolling along a light grey (#F0F0F8) conveyor belt mid-motion, combo counter glowing in vibrant orange (#FFB13B), playful overlay text 'So satisfying\u2026' in rounded orange letters, shallow depth of field, casual puzzle game ad aesthetic",
+  "model_id": "flux.1-dev"
+}

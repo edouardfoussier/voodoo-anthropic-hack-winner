@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "37f1cd76e2dd395d",
+    "ad_unit_id": "37f1cd76e2dd395d",
+    "app_id": "58ddbbaef479660387000613",
+    "advertiser_name": "Hustle Castle: Medieval games",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ad5d2289f7f1c499/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ad5d2289f7f1c499/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ad5d2289f7f1c499/preview",
+    "phashion_group": "37f1cd76e2dd395d",
+    "share": null,
+    "first_seen_at": "2026-01-23T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Create your own epic robot builds and dominate!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-intensity mech combat showing a spider-like robot destroying an enemy.",
+    "visual_action": "A multi-armed robot fires heavy machine guns at a target in a desert canyon.",
+    "text_overlay": "KILL",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Spider-mech engages an enemy robot behind cover in a desert environment.",
+    "Enemy is destroyed, triggering a 'KILL' notification.",
+    "Mech advances and engages a second enemy at close range.",
+    "Second enemy is destroyed, triggering a 'DOUBLE KILL' notification.",
+    "Final logo screen with game title and call to action."
+  ],
+  "on_screen_text": [
+    "KILL",
+    "DOUBLE KILL",
+    "WAR ROBOTS",
+    "PLAY FOR FREE!"
+  ],
+  "cta_text": "PLAY FOR FREE!",
+  "cta_timing_seconds": 13.0,
+  "palette_hex": [
+    "#8B4513",
+    "#00BFFF",
+    "#FF4500"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy tactical combat and customizable mechs.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001573
+}

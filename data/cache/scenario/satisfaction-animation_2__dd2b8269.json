@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_8wyDdwaAtB7bBtowAV69UC3t?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOHd5RGR3YUF0QjdiQnRvd0FWNjlVQzN0P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ALA07Z0KXTPEBqTlD-m6d0qWmxB0Xz7oYYhjDYiiQnOj3n73igwg8CA0Wo-HPNFhP40JherYqVbRVVHIJ5rwzUox8NbKjI853L96XgZCAqpc3PNXBf8ei%7EYz7EBI3VYuWEgXfY%7E-9cDYzoPlbn6aYxOZwn7iRF-f94-KXMaoRTrRLk2gJPc-CiaqnbI-Bbaet1rvWXz%7EKZNTrRvE8emHVJzMNm-W9qsJE6uoOelRzVI0IPVAkL2KBJzGHNdusEBKB6AMjxwZK2tTJjVEDcFouIcwxks2J-b20Ik0ON2qUpZFKK57rTLhSOWvqi%7ERBGYp7InsNmxmpGP0YzJv63WFlQ__",
+  "job_id": "job_o9q5y38tDDSrQLfRD3CFB8Zn",
+  "asset_id": "asset_8wyDdwaAtB7bBtowAV69UC3t",
+  "stub": false,
+  "prompt": "Storyboard payoff frame, vertical 9:16: a completed pixel-art cat image fully formed from colorful sand grains glowing on the conveyor, gold sparkle particles (#FFD700) bursting upward, sky-blue backdrop (#4A90E2), white frame and UI elements (#FFFFFF), 3D stylized objects with vibrant colors and pixel-art sand compositions, joyful satisfying reveal moment, on-screen text 'Watch it come to life\u2026' in white bold rounded sans-serif at top with a pulsing yellow Play Now button at bottom.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

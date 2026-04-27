@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_UUbkzL4PbHD7DNJeAXsNx7Tw?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVVVia3pMNFBiSEQ3RE5KZUFYc054N1R3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=ZZMCyWDIiE4dZ73fzfSW%7EyOVoTjxbbFi4Pl6w25Tv%7EYdHCJ23XmaqazZ3JDfmmFdrllXZxXsUIepymsUnk-VENyizQJ29mxTlddOxrASdy2fnHiWuJn7aA1eAYneDtQTkB5RGUicD4hqXLG9soiB95pjyXwzqBkeIFY-DeSUzi%7EDutaueMXk5NVonXRVB3iK4tcwnIcDyvrq6XBPa8GD-Km0G5V6AA8T3suClmIczviQivfGlIFB%7EkpM19ATNar3aEtHzLN4Y5hgjtwJbtTdAGo0PY8Qew9i-5yscKzYdYYV2IqLEYVRiHnJxanCsqk%7ES4LGA6Tg7k7cNoQpQyBMIA__",
+  "job_id": "job_Ra4ieH9SYHMzHLkS6dsQ67kH",
+  "asset_id": "asset_UUbkzL4PbHD7DNJeAXsNx7Tw",
+  "stub": false,
+  "prompt": "Storyboard payoff frame, aspect 9:16, authentic Marble Sort! level-complete moment: all three color drop-boxes filled and gently glowing, last striped special marble dropping into its matching box, soft #FFB13B orange confetti burst, light-grey #F0F0F8 machine in center, #E5DFFF lavender background, 'Level Clear' badge in rounded orange pill, next-level arrow bottom-right; on-screen text overlay 'Play Free' in bold rounded white sans-serif over an orange button; clean and colorful 3D cartoon style with soft, rounded shapes, no characters, calm satisfying mood, matches in-game UI exactly",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

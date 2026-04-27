@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_WdiKnDgQ6yzjWzxHefbCTRW3?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfV2RpS25EZ1E2eXpqV3p4SGVmYkNUUlczP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=P3DrFDSGJr4RZGUnx%7EYYbPyleUbFY%7EMN05lEfl5x3W13%7ENc1WFlwFoLB6fJE53MXkjDjZ2yP714H6d0oCZopVs3nE2o7Ihl2IBeTASm1Z6hHKTUdM2bZmRB3McbxHn0UUKO7V9HnB2fzfWGGdQbdR408s%7EYYwIGgETfMFCAk04paOpwtaBHCi0lfOZ99bkDjzD52youUt55EWYz3zTKT1lin7FVjDAZOPqC26Mg1jtZuTl1JhJRVuUr60GtZO2PEeiGHtqUCrDk22c43NiGs5lU19DkGyrBvWyBmstXf19gqBDcsgEW7CHJtcpB6P2aQbLyPN8hZRhTAlw5E7Q0ghg__",
+  "job_id": "job_DgRX4rMunKrSXfw1WReiuayr",
+  "asset_id": "asset_WdiKnDgQ6yzjWzxHefbCTRW3",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16: in-game Archery Clash! impact moment, blue (#2A9DF4) energy arrow striking opponent duelist mid-arena, shattered shield VFX, large yellow (#FFD700) 'PERFECT SHOT!' damage callout, green (#32CD32) critical-hit number popping, opponent health bar draining red, signature game HUD chrome intact with turn timer and gear icons, rainbow light rays in background, 3D stylized with vibrant colors, slightly cartoonish character models, and realistic lighting, on-screen text 'PERFECT SHOT!' in bold #FFD700",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

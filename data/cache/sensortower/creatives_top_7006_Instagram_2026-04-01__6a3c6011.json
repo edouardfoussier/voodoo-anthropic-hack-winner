@@ -1,0 +1,279 @@
+{
+  "count": 7,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "937f20f03e48e5c0",
+      "app_id": "55d9589402ac645ad22f9717",
+      "network": "Instagram",
+      "phashion_group": "937f20f03e48e5c0",
+      "ad_type": "video",
+      "first_seen_at": "2025-11-26",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "937f20f03e48e5c0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f41ee190d48544d/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f41ee190d48544d/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0f41ee190d48544d/thumb",
+          "video_duration": 11,
+          "width": 1080,
+          "height": 1920,
+          "title": "\uce74\ub4dc\ub85c \ud640\ub9ac\ub294 \uc9c4\uc9dc \uc2b9\ubd80",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d9589402ac645ad22f9717",
+        "canonical_country": "KR",
+        "name": "\ud55c\uac8c\uc784 \ud3ec\ucee4",
+        "publisher_name": "NHN",
+        "publisher_id": "561dbec33f07e2c9bd0002b8",
+        "humanized_name": "\ud55c\uac8c\uc784 \ud3ec\ucee4",
+        "icon_url": "https://play-lh.googleusercontent.com/4nBBG7wDBEpC6YaqIyDliX6bCXeME3gpx0_zUUMeD9pA73M3lwmq-zsjDSCZMa4-ow=s150",
+        "os": "unified",
+        "id": "55d9589402ac645ad22f9717",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "f1c41767269f694c",
+      "app_id": "6736ab5cef93f345b08f9d79",
+      "network": "Instagram",
+      "phashion_group": "f1c41767269f694c",
+      "ad_type": "video",
+      "first_seen_at": "2025-08-11",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "f1c41767269f694c",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1161b7a49ac835b5/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1161b7a49ac835b5/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/1161b7a49ac835b5/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "\uc6b0\uc2b9\uc758 \uc2dc\uc791, \ud53c\ub9dd \uc1fc\ub2e4\uc6b4 \ud640\ub364",
+          "button_text": "Install Now",
+          "message": "\ud640\ub364 \ud1a0\ub108\uba3c\ud2b8 \uc624\ud508!"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6736ab5cef93f345b08f9d79",
+        "canonical_country": "KR",
+        "name": "\ud53c\ub9dd \uc1fc\ub2e4\uc6b4 \ud640\ub364 : \ud14d\uc0ac\uc2a4 \ud640\ub364, \ud3ec\ucee4, \ud1a0\ub108\uba3c\ud2b8",
+        "publisher_name": "Neowiz",
+        "publisher_id": "56048dcb8ac35017220053bb",
+        "humanized_name": "\ud53c\ub9dd \uc1fc\ub2e4\uc6b4 \ud640\ub364 : \ud14d\uc0ac\uc2a4 \ud640\ub364",
+        "icon_url": "https://play-lh.googleusercontent.com/6bY1qIiLAYnCGjTLAGjPy7THRYbXb2IpzUEaHrzNmcXu59D4z0Enu8ZMY_9rNwdPqa8=s150",
+        "os": "unified",
+        "id": "6736ab5cef93f345b08f9d79",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "d660dbbf2a71b7f3",
+      "app_id": "55de054a02ac6453fd0524b9",
+      "network": "Instagram",
+      "phashion_group": "d660dbbf2a71b7f3",
+      "ad_type": "video",
+      "first_seen_at": "2025-12-16",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "d660dbbf2a71b7f3",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cd0e64b69449718/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cd0e64b69449718/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4cd0e64b69449718/thumb",
+          "video_duration": 15,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u2663\ufe0f \uc708\uc870\uc774 \ud3ec\ucee4 , \uc9c4\uc9dc \uc2e4\ub825\uc790\ub4e4\uc758 \uac8c\uc784! \ud83c\udfb0",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55de054a02ac6453fd0524b9",
+        "canonical_country": "KR",
+        "name": "\uc708\uc870\uc774 \ud3ec\ucee4 - \ube14\ub799\uc7ad, \ubc14\uce74\ub77c, \uc2ac\ub86f, \ub85c\uc6b0\ubc14\ub451\uc774",
+        "publisher_name": "Netmarble",
+        "publisher_id": "5614c62a3f07e25d2900a08c",
+        "humanized_name": "\uc708\uc870\uc774 \ud3ec\ucee4 - \ube14\ub799\uc7ad",
+        "icon_url": "https://play-lh.googleusercontent.com/3N4VPQLql1WOdvXGvs80lf9k6OQT1lbBUuh6zK7XxBkCZTi2tvJOeVyAwBGuKLzU0U_G=s150",
+        "os": "unified",
+        "id": "55de054a02ac6453fd0524b9",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "104367ab229fc163",
+      "app_id": "55de054a02ac6453fd0524b9",
+      "network": "Instagram",
+      "phashion_group": "104367ab229fc163",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-27",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "104367ab229fc163",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8af35a5f61aae188/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8af35a5f61aae188/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8af35a5f61aae188/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u2663\ufe0f \uc708\uc870\uc774 \ud3ec\ucee4 , \uc9c4\uc9dc \uc2e4\ub825\uc790\ub4e4\uc758 \uac8c\uc784! \ud83c\udfb0",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55de054a02ac6453fd0524b9",
+        "canonical_country": "KR",
+        "name": "\uc708\uc870\uc774 \ud3ec\ucee4 - \ube14\ub799\uc7ad, \ubc14\uce74\ub77c, \uc2ac\ub86f, \ub85c\uc6b0\ubc14\ub451\uc774",
+        "publisher_name": "Netmarble",
+        "publisher_id": "5614c62a3f07e25d2900a08c",
+        "humanized_name": "\uc708\uc870\uc774 \ud3ec\ucee4 - \ube14\ub799\uc7ad",
+        "icon_url": "https://play-lh.googleusercontent.com/3N4VPQLql1WOdvXGvs80lf9k6OQT1lbBUuh6zK7XxBkCZTi2tvJOeVyAwBGuKLzU0U_G=s150",
+        "os": "unified",
+        "id": "55de054a02ac6453fd0524b9",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "bb42507a1f6496f0",
+      "app_id": "55d9589402ac645ad22f9717",
+      "network": "Instagram",
+      "phashion_group": "bb42507a1f6496f0",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-13",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "bb42507a1f6496f0",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98f3e8c55f7bf1c8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98f3e8c55f7bf1c8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/98f3e8c55f7bf1c8/thumb",
+          "video_duration": 12,
+          "width": 1080,
+          "height": 1920,
+          "title": "\ub204\uad6c\ub098 \uc27d\uac8c \uc990\uae30\ub294 \ud55c\uac8c\uc784 \ud3ec\ucee4",
+          "button_text": "Install Now",
+          "message": "\uc774\uac83\uc774 \ubc14\ub85c \ud3ec\ucee4\uc758 \ucc10 \uc7ac\ubbf8, \ud55c\uac8c\uc784 \ud3ec\ucee4"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d9589402ac645ad22f9717",
+        "canonical_country": "KR",
+        "name": "\ud55c\uac8c\uc784 \ud3ec\ucee4",
+        "publisher_name": "NHN",
+        "publisher_id": "561dbec33f07e2c9bd0002b8",
+        "humanized_name": "\ud55c\uac8c\uc784 \ud3ec\ucee4",
+        "icon_url": "https://play-lh.googleusercontent.com/4nBBG7wDBEpC6YaqIyDliX6bCXeME3gpx0_zUUMeD9pA73M3lwmq-zsjDSCZMa4-ow=s150",
+        "os": "unified",
+        "id": "55d9589402ac645ad22f9717",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "5f8c76e80528162f",
+      "app_id": "55de054a02ac6453fd0524b9",
+      "network": "Instagram",
+      "phashion_group": "5f8c76e80528162f",
+      "ad_type": "video",
+      "first_seen_at": "2026-02-26",
+      "last_seen_at": "2026-04-15",
+      "creatives": [
+        {
+          "id": "5f8c76e80528162f",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c53c4b1c461d36c4/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c53c4b1c461d36c4/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c53c4b1c461d36c4/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "\u2663\ufe0f \uc708\uc870\uc774 \ud3ec\ucee4 , \uc9c4\uc9dc \uc2e4\ub825\uc790\ub4e4\uc758 \uac8c\uc784! \ud83c\udfb0",
+          "button_text": "Install now",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55de054a02ac6453fd0524b9",
+        "canonical_country": "KR",
+        "name": "\uc708\uc870\uc774 \ud3ec\ucee4 - \ube14\ub799\uc7ad, \ubc14\uce74\ub77c, \uc2ac\ub86f, \ub85c\uc6b0\ubc14\ub451\uc774",
+        "publisher_name": "Netmarble",
+        "publisher_id": "5614c62a3f07e25d2900a08c",
+        "humanized_name": "\uc708\uc870\uc774 \ud3ec\ucee4 - \ube14\ub799\uc7ad",
+        "icon_url": "https://play-lh.googleusercontent.com/3N4VPQLql1WOdvXGvs80lf9k6OQT1lbBUuh6zK7XxBkCZTi2tvJOeVyAwBGuKLzU0U_G=s150",
+        "os": "unified",
+        "id": "55de054a02ac6453fd0524b9",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "b3204a80e7969a9d",
+      "app_id": "55d9589402ac645ad22f9717",
+      "network": "Instagram",
+      "phashion_group": "b3204a80e7969a9d",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-06",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "b3204a80e7969a9d",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e09aadeeb1430a66/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e09aadeeb1430a66/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/e09aadeeb1430a66/thumb",
+          "video_duration": 6,
+          "width": 1080,
+          "height": 1920,
+          "title": "\uc9c4\uc815\ud55c \uac8c\uc784\uc758 \uc7ac\ubbf8, \ud55c\uac8c\uc784 \ud3ec\ucee4",
+          "button_text": "Install Now",
+          "message": "\ub204\uad6c\ub098 \uc27d\uace0 \uc7ac\ubbf8\uc788\uac8c \ud55c\uac8c\uc784 \ud3ec\ucee4\n\uc9c0\uae08 \ud50c\ub808\uc774\ud558\uace0 \uce69 \uc4f8\uc5b4 \ub2f4\uc544\uac00\uc138\uc694"
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "55d9589402ac645ad22f9717",
+        "canonical_country": "KR",
+        "name": "\ud55c\uac8c\uc784 \ud3ec\ucee4",
+        "publisher_name": "NHN",
+        "publisher_id": "561dbec33f07e2c9bd0002b8",
+        "humanized_name": "\ud55c\uac8c\uc784 \ud3ec\ucee4",
+        "icon_url": "https://play-lh.googleusercontent.com/4nBBG7wDBEpC6YaqIyDliX6bCXeME3gpx0_zUUMeD9pA73M3lwmq-zsjDSCZMa4-ow=s150",
+        "os": "unified",
+        "id": "55d9589402ac645ad22f9717",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_kvA4aUBcmUh61xQNbRw1QsgV?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfa3ZBNGFVQmNtVWg2MXhRTmJSdzFRc2dWP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=b%7ETjPF5fk7h1Sxzil1TwilqE1qZzov776bnfuLyXeV9BP1j%7EtbdPd3le8JIGpQ9E0ug4JAsjk9akZ0jtM9oTz3LItxv6AkDuUeL8hgzdf-BhVxDX4FOtB%7EKAk6wledVPAfWEXj3IHWLnVtUg231bcVnjIl8ryPUPkSrYsXeHgL1mlO%7E7lmthY6lYgqIOFNfphkoVyXYaB-eng1BfNsvf2yNjPrAUPel7u-qggc%7E6tWkz9iKMgz15XBI4F4N3BhxUP-dNOZiuY4Jlviffq33TQoyCi1VLDR3Z6JMjp6NFjknLS9LufqXJbFedZMrQtVM0hxvK93pL5RHD1A7yvvFKaw__",
+  "job_id": "job_N9Ntcpnh3jAmHU9QwKC8ma2f",
+  "asset_id": "asset_kvA4aUBcmUh61xQNbRw1QsgV",
+  "stub": false,
+  "prompt": "Storyboard frame 1, aspect 9:16, authentic Helix Jump gameplay still: cyan #5CE1E6 ball smashing through a neon green #39FF14 ring on a rotating helix tower of stacked disc platforms, bright shatter particles, red #FF0000 trap segment visible on next platform below, multiplier badge 'x3 COMBO!' flaring in upper third, level number HUD pill, soft light background, portrait camera, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, in-game UI chrome only",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

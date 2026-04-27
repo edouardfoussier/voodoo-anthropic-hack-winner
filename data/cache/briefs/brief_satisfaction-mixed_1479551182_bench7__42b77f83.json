@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1479551182",
+  "title": "\"Ever Played a Game That…\" — POV Push Satisfaction",
+  "hook_3s": "\"Ever played a game that actually makes you feel something?\" — phone tilts down to a red stickman crowd getting yeeted into blue water.",
+  "scene_flow": [
+    "0–3s: Vertical phone-in-hand UGC framing. Casual VO: 'Hey — ever played a game that actually makes you feel something?' Phone screen shows the Push'em All platform with a swarm of red stickmen approaching.",
+    "3–7s: Cut to clean in-game POV. Thumb swipes; the blue player extends the stick and sweeps a dense red crowd off the edge — slow-mo splash into water. Combo counter ticks x4, x7, x12.",
+    "7–11s: 'SIZE UP!' power-up notification flashes. Stick grows huge, clearing an entire wave in one swing. Coins fountain up. Progress bar surges toward the finish.",
+    "11–14s: Quick montage of 3 satisfying push moments — domino chain, edge-of-platform near-miss, final boss crowd wipe.",
+    "14–15s: Finish-line confetti, score tally, CTA card snaps in over the gameplay still."
+  ],
+  "visual_direction": "Lean fully into the Push'em All DNA: vibrant #2a7dfa water, #56a38b sandy-green platform, and #e3001b stickman enemies as the only red on screen so every push reads instantly. Minimalist 3D, no textures beyond flat shading, soft sun shadows. Open with shaky vertical UGC phone-holding framing for authenticity, then cut to crisp top-down-ish gameplay capture with the native HUD intact (progress timeline top, combo multiplier center-screen, coin counter top-right, 'SIZE UP!' burst). Camera punches in on impacts; physics ragdolls exaggerated for the satisfaction payoff.",
+  "text_overlays": [
+    "Ever played a game that…",
+    "…actually feels GOOD?",
+    "COMBO x12 🔥",
+    "SIZE UP!",
+    "Try not to smile 😏",
+    "Push'em All →"
+  ],
+  "cta": "Play Free",
+  "rationale": "Voodoo's current rotation on Push'em All is silent gameplay-only video and a playable — zero UGC framing and zero voice-led \"satisfaction\" hooks despite that archetype winning across 3 advertisers in the scan. This brief imports the trending UGC \"ever played a game that…\" VO opener over native push-crowd footage, giving UA a fresh top-of-funnel angle (relatable handheld hook) without faking the core loop. Ship as a 15s video first; if CTR lifts, fork a playable variant with the same VO cold-open.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical mobile gameplay screenshot of Push'em All: minimalist 3D low-poly scene, sandy-green (#56a38b) rectangular platform floating over vibrant blue (#2a7dfa) water, a blue stickman player at center wielding a long horizontal extending stick sweeping a dense crowd of bright red (#e3001b) stickman enemies off the edge, red ragdolls mid-air splashing into the water, flat shading, soft sun shadow, native HUD: thin level progress timeline across the top, large white 'COMBO x12' multiplier text center-screen, small coin counter top-right, bold overlay text 'actually feels GOOD?' in white sans-serif near top third, bright contrasting colors, energetic competitive mood, authentic in-game Push'em All moment",
+    "Storyboard frame 1, 9:16 vertical, UGC-style: a hand holding a smartphone in portrait, phone screen clearly shows Push'em All gameplay — sandy-green (#56a38b) platform, blue (#2a7dfa) water, red (#e3001b) stickman crowd being pushed by a blue stickman with extending stick, minimalist 3D bright contrasting colors, slightly blurred living-room background, big white overlay text 'Ever played a game that…' across the top of the frame, casual relatable feel",
+    "Storyboard frame 2, 9:16 vertical Push'em All in-game capture: blue stickman player on a #56a38b platform over #2a7dfa water, oversized power-up stick mid-swing flattening a wave of #e3001b red stickmen who fly off into the water as ragdolls, golden coins erupting upward, bright yellow 'SIZE UP!' power-up notification banner mid-screen, level progress timeline at top, minimalist 3D simple stickman figures with flat bright contrasting colors, exaggerated physics, authentic Push'em All HUD and asset style"
+  ]
+}

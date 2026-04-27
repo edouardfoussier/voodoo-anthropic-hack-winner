@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "df2c1e3d2e59732b",
+    "ad_unit_id": "df2c1e3d2e59732b",
+    "app_id": "6178e7bfdb622901de5dd950",
+    "advertiser_name": "Pikmin Bloom",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20e923674bfa3291/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20e923674bfa3291/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/20e923674bfa3291/preview",
+    "phashion_group": "df2c1e3d2e59732b",
+    "share": null,
+    "first_seen_at": "2026-01-23T00:00:00",
+    "last_seen_at": "2026-04-14T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Deine Pikmin begleiten dich, egal, wohin du gehst.",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Showcase of cute fast-food themed Pikmin characters.",
+    "visual_action": "Rapid cuts between a burger-red Pikmin, fries-yellow Pikmin, and drink-blue Pikmin against a clean white background.",
+    "text_overlay": "Burger-Deko-Pikmin",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Sequential showcase of three fast-food themed Decor Pikmin.",
+    "Text prompt asking which Pikmin the player will meet today.",
+    "In-game footage showing the player walking and planting flowers on a map.",
+    "Discovery animation of a Burger Decor Pikmin appearing in a field.",
+    "End card with game logo and download call-to-action."
+  ],
+  "on_screen_text": [
+    "Burger-Deko-Pikmin",
+    "Welches Deko-Pikmin triffst du heute?",
+    "PIKMIN BLOOM",
+    "Pikmin, immer mit dabei",
+    "Kostenlos herunterladen"
+  ],
+  "cta_text": "Kostenlos herunterladen",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#76B82D",
+    "#E30613"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Casual mobile gamers and Nintendo fans who enjoy cute collectibles and walking-based gameplay.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0017200000000000002
+}

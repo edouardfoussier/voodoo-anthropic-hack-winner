@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "0be8ad9c02795fd4",
+    "ad_unit_id": "0be8ad9c02795fd4",
+    "app_id": "5ea51d26067dc60fe13743fb",
+    "advertiser_name": "Nuestro Diario: Noticias GT",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0108c4b974abda89/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0108c4b974abda89/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/0108c4b974abda89/preview",
+    "phashion_group": "0be8ad9c02795fd4",
+    "share": null,
+    "first_seen_at": "2026-02-26T00:00:00",
+    "last_seen_at": "2026-04-07T00:00:00",
+    "video_duration": 9.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🇬🇹 Aunque vivás lejos, ser chapín se lleva en la sangre\nEnterate de lo que pasa en Guate sin andar buscando\n🗞 Noticias reales en una sola app\n📲 Bajala ya, ¡es gratis!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A woman checks her reflection in a van mirror before turning to address the viewer about time-saving news.",
+    "visual_action": "Woman looking into a side mirror of a yellow van, then turning and gesturing to the camera.",
+    "text_overlay": null,
+    "voiceover_transcript": "¿Tienes poco tiempo? Con Nuestro Diario USA te enteras de nuestras noticias...",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Woman introduces the app while standing next to a branded news van.",
+    "Screen recording shows the app interface and various news headlines.",
+    "Woman demonstrates using the app on her smartphone outdoors.",
+    "Woman leans against the van, reinforcing the brand connection.",
+    "End card displays the app logo and a call to download for free."
+  ],
+  "on_screen_text": [
+    "Nuestro Diario Noticias como son",
+    "Nuestro Diario USA",
+    "Reserva tus vacaciones y pasa momentos inolvidables",
+    "Juez ordena que alias el 'Lobo' regrese a Fraijanes II",
+    "Nuestro Diario APP",
+    "App Nuestro Diario USA 'Descargala gratis'"
+  ],
+  "cta_text": "App Nuestro Diario USA 'Descargala gratis'",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#F9E100",
+    "#0056A4",
+    "#FFFFFF"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "Spanish-speaking expatriates in the USA who want to stay connected with news from their home country quickly.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001588
+}

@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "f56c99802cdbe16c",
+    "ad_unit_id": "f56c99802cdbe16c",
+    "app_id": "551ca009add5fb97630010cd",
+    "advertiser_name": "freenet Mail - E-Mail Postfach",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d4c93c214acb0af/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d4c93c214acb0af/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/8d4c93c214acb0af/preview",
+    "phashion_group": "f56c99802cdbe16c",
+    "share": null,
+    "first_seen_at": "2026-02-12T00:00:00",
+    "last_seen_at": "2026-04-23T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Mega Angebote bei Mega SIM!\n📱 Unlimited surfen für mtl. 31,99 €\n📱 0 € Anschlusspreis\n📱 Mit bis zu 300 Mbit/s",
+    "button_text": "Order Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Unfolding a crumpled paper to reveal a hidden message.",
+    "visual_action": "A person's hands are shown unfolding a crumpled white piece of paper on a dark grey table.",
+    "text_overlay": "MEGA SIM",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Hands begin to unfold a crumpled piece of paper on a dark table.",
+    "The paper is flattened to reveal a handwritten mobile plan offer for 'UNLIMITED MAX'.",
+    "A zoom-in effect highlights the '31,99€' price point.",
+    "The video loops with a glitch transition back to the unfolding action."
+  ],
+  "on_screen_text": [
+    "MEGA SIM",
+    "UNLIMITED MAX",
+    "für mtl. 31,99€",
+    "inkl. Highspeed",
+    "und 0€ Anschlusspreis"
+  ],
+  "cta_text": null,
+  "cta_timing_seconds": null,
+  "palette_hex": [
+    "#FFFFFF",
+    "#3A3D40",
+    "#000000"
+  ],
+  "visual_style": "live-action-UGC",
+  "audience_proxy": "German-speaking consumers looking for affordable unlimited mobile data contracts.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015710000000000001
+}

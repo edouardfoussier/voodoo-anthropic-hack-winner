@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_2VWQ9Q8SahGfkYaybrPHEwNR?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMlZXUTlROFNhaEdma1lheWJyUEhFd05SP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=SE49H3SAjtW7ItcG%7Ee1ZVfFSvraeMUhB-kX5xqxiexxfH6LyMvtnZQabN6nKwkd40YnoIk1akHHLszEQj2dIENRXYdgEPjLA4ZEJkAiXrJpOKnsp5Wfnm17LvZaBCAzCdAymomzfgSkCfqq3CWAGia-B-8Uhr0GjWC5YbS7hFLTtcxhmQDoLiXiles%7Ed-VJaSl%7EL9xc4AgcK1RwBnw9%7EfCmfbERCHIO-gI5rC1Yc9HYnOoeodpm836mE5kYl%7Er3jEX717ujXAvjy73lif4DGB5uA1rt1Yo0S8vKZ2nXhzkeHk%7EscOYicf8sxJ8vzngyatE98bmNcb4kEQpq7EtinzA__",
+  "job_id": "job_39WZUhq8yuSNEymRzz5n8cW5",
+  "asset_id": "asset_2VWQ9Q8SahGfkYaybrPHEwNR",
+  "stub": false,
+  "prompt": "Storyboard frame 3, aspect 9:16, 3D Casual Abstract top-down of a now-empty puzzle grid bathed in a warm golden #FDBA4D ripple of light, deep purple #403F6D frame edges fading into a #20232B black background, a single last amber ball settling at center, a thin progress bar fully filled in accent yellow, on-screen text 'LEVEL COMPLETE' in crisp white sans-serif, clean satisfying payoff shot for a mobile puzzle ad",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

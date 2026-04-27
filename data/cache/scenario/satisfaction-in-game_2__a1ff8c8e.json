@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_8oJxhMfG1YnbXFeeF3mYA2ew?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfOG9KeGhNZkcxWW5iWEZlZUYzbVlBMmV3P3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=SR432GeRdlK6HiFFw4V-rGNZQEheB1YO34u7Dw8TADJsEld30iY5Qnj5SaT7LMXF8i8p7VmIMb7S63c24CDAezbIEfC1afms5a-RGeIRfuBR9w48KWtCedQju0znRJbxGcbsrxZH1-g9n8hfj%7EGA5butQyyYZMFIh4svRhQvwwTQuW0QjPN264heO-kHY0R2n5Sg4zLAZFwsvoUvduPTWmQN5NfJx8HNvsDG-qkNABQtTaYlN0Zf9Qp9gwnuD3nzBIjEADxAIPzraErEjbJ7KeQ8dkAeycw1-eOIFeGSman3hQJGkKqa-czrv%7EVWle%7EMSMDR1rkwuq%7EfCriLVHXqYg__",
+  "job_id": "job_YP6DcQjy5h5ca3vDA4SP67XA",
+  "asset_id": "asset_8oJxhMfG1YnbXFeeF3mYA2ew",
+  "stub": false,
+  "prompt": "Storyboard frame, aspect 9:16, authentic Marble Sort! level-clear moment: all four sorting boxes filled with correctly colored pastel marbles, soft orange #FFB13B confetti burst radiating from the machine, lavender #E5DFFF background, light grey #F0F0F8 machine body, clean 3D cartoon style with soft rounded shapes, no characters present, glowing 'LEVEL 12 CLEAR' banner in bold orange rounded type centered on screen, sparkle particles, celebratory but calm satisfying mood, gentle bloom lighting.",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

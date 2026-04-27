@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-in-game",
+  "visual_match": 25,
+  "mechanic_match": 20,
+  "audience_match": 55,
+  "overall": 28,
+  "rationale": "The archetype's hook is built around a puzzle/parking-style \"blocked path\" fail — a static, tap-to-solve mechanic that has no analog in Crowd City's continuous swarm-and-consume loop, so adapting it would feel deceptive (classic fake-ad risk). Visually the muted bus/grid palette and hand-cursor framing clash with Crowd City's bright primary-color crowd swarms and free-roam city camera. Audience overlap exists at the broad hypercasual level, but mechanic and visual friction are severe — do not greenlight unless reworked into a \"crowd gets stuck/outnumbered, can you win?\" fail scenario using actual gameplay footage."
+}

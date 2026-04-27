@@ -1,0 +1,52 @@
+{
+  "raw": {
+    "creative_id": "102283ce7bc83b5a",
+    "ad_unit_id": "102283ce7bc83b5a",
+    "app_id": "55c5240f02ac64f9c0002a31",
+    "advertiser_name": "War Robots Multiplayer Battles",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/c977319f89b04a72/preview",
+    "phashion_group": "102283ce7bc83b5a",
+    "share": null,
+    "first_seen_at": "2025-08-29T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Play real-time 6v6 robot battles with players worldwide!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A heavy mech robot unleashes a continuous barrage of gunfire on an enemy target.",
+    "visual_action": "The camera follows a tan mech from behind as it fires multiple top-mounted guns, showing green energy pulses and shell casings falling.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Mech robot initiates a heavy barrage of fire against a distant enemy unit.",
+    "The enemy is destroyed, triggering a 'DOUBLE KILL' announcement and visual effect.",
+    "The mech adjusts its position on the urban battlefield.",
+    "Transition to a dark end card with sparks and a call to action."
+  ],
+  "on_screen_text": [
+    "DOUBLE KILL",
+    "PLAY GAME!"
+  ],
+  "cta_text": "PLAY GAME!",
+  "cta_timing_seconds": 8.0,
+  "palette_hex": [
+    "#7A6B4E",
+    "#4A6B8A",
+    "#000000"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy tactical combat and giant robot warfare.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001362
+}

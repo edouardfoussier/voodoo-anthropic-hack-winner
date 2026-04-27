@@ -1,0 +1,345 @@
+{
+  "target_game": {
+    "app_id": "1563230518",
+    "name": "Solitaire - Voodoo Card Game!",
+    "genre": "Card",
+    "sub_genre": "Solitaire",
+    "core_loop": "Draw cards, stack them in descending alternating colors, and move them to foundation piles before the timer runs out.",
+    "audience_proxy": "Casual players of all ages, leaning towards adults seeking quick, familiar mental puzzles.",
+    "visual_style": "Classic 2D flat design with a traditional green felt aesthetic.",
+    "palette": {
+      "primary_hex": "#1A874B",
+      "secondary_hex": "#FFFFFF",
+      "accent_hex": "#E31C1B",
+      "description": "Traditional casino green background with stark white cards and bright red accents."
+    },
+    "key_mechanics": [
+      "drawing",
+      "stacking",
+      "sorting",
+      "drag-and-drop"
+    ],
+    "character_present": false,
+    "ui_mood": "tense/challenging",
+    "screenshot_signals": [
+      "green background",
+      "playing cards",
+      "timer",
+      "score counter",
+      "undo button",
+      "finish button"
+    ]
+  },
+  "market_context": {
+    "category_id": "7012",
+    "category_name": "Puzzle",
+    "countries": [
+      "US",
+      "GB",
+      "DE",
+      "FR",
+      "JP",
+      "BR",
+      "KR"
+    ],
+    "networks": [
+      "TikTok",
+      "Facebook",
+      "Instagram"
+    ],
+    "period_start": "2026-04-01T00:00:00Z",
+    "period_end": "2026-04-01T00:00:00Z",
+    "num_advertisers_scanned": 10,
+    "num_creatives_analyzed": 16,
+    "num_phashion_groups": 16
+  },
+  "top_archetypes": [
+    {
+      "archetype_id": "curiosity-3d-render",
+      "label": "Curiosity · 3D-render",
+      "member_creative_ids": [
+        "9eb52675da998d86"
+      ],
+      "centroid_hook": {
+        "summary": "A suburban crime scene at night with police and forensic investigators.",
+        "visual_action": "Police tape being pulled across a mailbox and forensic photographers flashing cameras inside a house.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#1A1A2E",
+        "#FFD700",
+        "#8B4513"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.655,
+      "derivative_spread": 1.0,
+      "freshness_days": 5.0,
+      "overall_signal_score": 2.112,
+      "rationale": "1 creatives across 1 unique advertisers, average age 5d (velocity source: sov). Hook representative: \"A suburban crime scene at night with police and forensic investigators.\""
+    },
+    {
+      "archetype_id": "fail-3d-render",
+      "label": "Fail · 3D-render",
+      "member_creative_ids": [
+        "a501f1d09aa3b810"
+      ],
+      "centroid_hook": {
+        "summary": "A cat jumps on a keyboard, causing a man to fall backward in his chair.",
+        "visual_action": "A ginger cat leaps onto a desk, startling a man who falls over while the camera zooms in on the cat's face.",
+        "text_overlay": "Gardenscapes",
+        "voiceover_transcript": "Meow! Oh...",
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#4A90E2",
+        "#4CAF50",
+        "#FFFFFF"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.353,
+      "derivative_spread": 1.0,
+      "freshness_days": 381.0,
+      "overall_signal_score": 0.911,
+      "rationale": "1 creatives across 1 unique advertisers, average age 381d (velocity source: sov). Hook representative: \"A cat jumps on a keyboard, causing a man to fall backward in his chair.\""
+    },
+    {
+      "archetype_id": "curiosity-mixed",
+      "label": "Curiosity · mixed",
+      "member_creative_ids": [
+        "5ba7458dea1165c1"
+      ],
+      "centroid_hook": {
+        "summary": "A young man rushes home and flips onto his bed to play the game.",
+        "visual_action": "Man enters a house, runs through a hallway, and performs a backflip onto a bed while grabbing a tablet.",
+        "text_overlay": "POV: When I got home, I opened Tetris Block Party.",
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#9146FF",
+        "#FFD700",
+        "#00AEEF"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 0.989,
+      "derivative_spread": 1.0,
+      "freshness_days": 101.0,
+      "overall_signal_score": 0.82,
+      "rationale": "1 creatives across 1 unique advertisers, average age 101d (velocity source: sov). Hook representative: \"A young man rushes home and flips onto his bed to play the game.\""
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "label": "Fail · in-game",
+      "member_creative_ids": [
+        "0f1d747b3e7d863f"
+      ],
+      "centroid_hook": {
+        "summary": "A player fails to move a blocked bus in a color-matching puzzle.",
+        "visual_action": "A hand icon taps a purple bus successfully, then taps a blocked blue bus causing a collision and a 'fail' sound effect.",
+        "text_overlay": "WHY THIS LEVEL IS SO HARD, CAN YOU WIN?",
+        "voiceover_transcript": null,
+        "emotional_pitch": "fail"
+      },
+      "palette_hex": [
+        "#4CAF50",
+        "#2196F3",
+        "#F44336"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.028,
+      "derivative_spread": 1.0,
+      "freshness_days": 259.0,
+      "overall_signal_score": 0.79,
+      "rationale": "1 creatives across 1 unique advertisers, average age 259d (velocity source: sov). Hook representative: \"A player fails to move a blocked bus in a color-matching puzzle.\""
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "label": "Curiosity · animation",
+      "member_creative_ids": [
+        "0d364815e2ca3d52",
+        "e6e407c8d6232949",
+        "93435c4f71f85343",
+        "94abdde96b93e53e"
+      ],
+      "centroid_hook": {
+        "summary": "Cross-section reveal of an elaborate underground bunker beneath the Eiffel Tower.",
+        "visual_action": "The camera pans down from the Eiffel Tower to reveal a multi-story subterranean base with living quarters and labs.",
+        "text_overlay": null,
+        "voiceover_transcript": null,
+        "emotional_pitch": "curiosity"
+      },
+      "palette_hex": [
+        "#2C3E50",
+        "#8B4513",
+        "#2E8B57"
+      ],
+      "common_mechanics": [],
+      "velocity_score": 1.17,
+      "derivative_spread": 0.75,
+      "freshness_days": 216.0,
+      "overall_signal_score": 0.765,
+      "rationale": "4 creatives across 3 unique advertisers, average age 216d (velocity source: sov). Hook representative: \"Cross-section reveal of an elaborate underground bunker beneath the Eiffel Tower\""
+    }
+  ],
+  "game_fit_scores": [
+    {
+      "archetype_id": "curiosity-3d-render",
+      "visual_match": 12,
+      "mechanic_match": 8,
+      "audience_match": 35,
+      "overall": 15,
+      "rationale": "Heavy frictions across the board: a dark 3D crime-scene render (navy/gold/brown palette, photoreal forensics) has zero visual or thematic continuity with a flat 2D green-felt solitaire game, and the hook telegraphs a narrative/mystery game (Merge Mansion, June's Journey) not a card sorter. Mechanic bridge is nearly impossible — there's no plausible 2-second pivot from \"police tape on a mailbox\" into draw/stack/foundation gameplay without feeling bait-and-switch, which risks store-policy flags and tanks post-install retention. Only weak positive is loose audience overlap (adult casual players enjoy mystery tropes); do not greenlight this archetype for Voodoo Solitaire — if curiosity is the desired pitch, commission a card-native mystery hook (e.g., \"solve the case by clearing the tableau\") instead."
+    },
+    {
+      "archetype_id": "fail-3d-render",
+      "visual_match": 15,
+      "mechanic_match": 10,
+      "audience_match": 45,
+      "overall": 20,
+      "rationale": "This is a Gardenscapes-style 3D fail-skit hook with no card, stacking, or sorting cue — it has zero mechanical bridge to a classic solitaire core loop and would mislead-install at best. Visually it clashes hard: blue/green/white character-driven 3D render vs. the game's flat 2D casino-green, character-free, card-forward DNA. Casual adult overlap exists in theory, but without a believable solitaire payoff in the back half of the ad, IPM and retention will collapse — recommend skipping unless reworked into a \"save the cat / solve the board\" solitaire fail-puzzle variant."
+    },
+    {
+      "archetype_id": "curiosity-mixed",
+      "visual_match": 20,
+      "mechanic_match": 15,
+      "audience_match": 35,
+      "overall": 22,
+      "rationale": "Hard pass as-is: the hook is a live-action POV skit explicitly name-dropping a Tetris-style block puzzle, which clashes with Solitaire's core stacking/sorting loop and the classic green-felt 2D aesthetic — neither the purple/gold/cyan palette nor the youthful backflip energy aligns with the adult casual card audience. The archetype also has razor-thin support (n=1, single advertiser), so freshness/velocity signals are unreliable. Only worth testing if reshot for Solitaire with an age-appropriate actor, swapped overlay (\"opened Solitaire\"), and a gameplay payoff showing card foundation builds — otherwise skip."
+    },
+    {
+      "archetype_id": "fail-in-game",
+      "visual_match": 15,
+      "mechanic_match": 20,
+      "audience_match": 45,
+      "overall": 22,
+      "rationale": "This is a classic Bus Jam / parking-puzzle fail hook — visually and mechanically it has nothing to do with Solitaire's green felt + playing cards aesthetic, and the \"blocked vehicle\" fail beat doesn't translate to drawing/stacking cards. Casual puzzle audiences do overlap somewhat, but adapting this archetype would require a full creative rebuild (e.g., a \"wrong card move blocks foundation\" fail), at which point it's no longer this cluster. Recommend skipping unless the team specifically wants to test a hybrid fail-hook variant authored from scratch around card-stacking dead-ends."
+    },
+    {
+      "archetype_id": "curiosity-animation",
+      "visual_match": 15,
+      "mechanic_match": 8,
+      "audience_match": 30,
+      "overall": 14,
+      "rationale": "This archetype is a near-total mismatch for a classic Solitaire title: the cross-section bunker reveal is a narrative/strategy-game trope (think Whiteout Survival, State of Survival) with dark earth-tone palettes that clash hard with the bright green-felt, card-forward visual language players expect from solitaire ads. There is no plausible bridge to drawing/stacking/sorting mechanics, and forcing one would produce a misleading \"fake ad\" that risks low IPM and high churn. Skip — or only consider if the team wants to test deceptive curiosity hooks, which is off-brand for a casual mental-puzzle audience."
+    }
+  ],
+  "final_variants": [
+    {
+      "brief": {
+        "archetype_id": "curiosity-mixed",
+        "target_game_id": "1563230518",
+        "title": "POV: Lunch Break Solitaire Run",
+        "hook_3s": "POV: 12 minutes left on lunch — phone out, thumb hovers over a red King on green felt, timer ticking.",
+        "scene_flow": [
+          "0-3s: Hands-only POV at an office desk slides phone into frame; screen lights up to the classic green-felt Solitaire tableau with the timer already counting down.",
+          "3-7s: Quick thumb taps drag a red Queen onto a black King, then cascade three alternating-color stacks in rapid succession — satisfying card-snap SFX.",
+          "7-11s: Foundation piles fill Ace→King with crisp flip animations; score counter spikes, undo button glows but goes unused.",
+          "11-14s: Final card auto-completes with confetti burst over the green felt; timer freezes with seconds to spare.",
+          "14-15s: App icon punches in over the felt with CTA."
+        ],
+        "visual_direction": "Lean fully into the casino green-felt heritage (#1A874B) with stark white cards (#FFFFFF) and bright red suit accents (#E31C1B). Classic 2D flat design — no 3D, no gradients beyond the felt texture. Vertical 9:16 phone-in-hand POV framing keeps the gameplay UI dominant on screen: visible timer, score counter, undo and finish buttons exactly as in the live build. Tense/challenging mood conveyed via ticking-clock SFX and quick-cut thumb drags rather than flashy VFX, preserving the adult-casual audience trust signal.",
+        "text_overlays": [
+          "POV: 12 min lunch left",
+          "One game of Solitaire…",
+          "…just one.",
+          "Foundations stacking 🔥",
+          "Beat the timer",
+          "Tap to play free"
+        ],
+        "cta": "Play Free",
+        "rationale": "Adapts the high-velocity \"POV rush home\" curiosity hook to a relatable adult micro-moment (lunch break) that matches Solitaire's casual-adult audience while preserving the archetype's first-person urgency. Pure in-game footage in the original green-felt palette protects fidelity and avoids the off-brand Tetris/backflip energy flagged in the fit scan. Recommend testing against a control of straight gameplay; expect lift on IPM from the curiosity overlay and tight 15s arc.",
+        "scenario_prompts": [
+          "Hero frame, aspect 9:16, vertical mobile screenshot of Solitaire - Voodoo Card Game! authentic in-game moment: classic 2D flat design with traditional green felt aesthetic background (#1A874B), seven tableau columns of stark white playing cards (#FFFFFF) with bright red heart and diamond pips (#E31C1B) and black spades/clubs, mid-drag animation of a red Queen of Hearts being drag-and-dropped onto a black King of Spades in descending alternating-color stack, four foundation piles top-right partially built with Aces and 2s, visible HUD with timer counter, score counter, undo button and finish button matching the live app UI chrome exactly, no characters or people on screen, bold white sans-serif overlay text 'POV: 12 min lunch left' across upper third, photoreal phone-screen fidelity to reference screenshots, no generic stock-game tropes",
+          "Storyboard frame, aspect 9:16, vertical in-game capture of Solitaire - Voodoo Card Game! in classic 2D flat design with traditional green felt table (#1A874B), white cards (#FFFFFF) with red suit accents (#E31C1B), foundation piles top-right nearly complete showing Aces through Jacks of all four suits stacking up, tableau columns being cleared via drag-and-drop sorting, score counter spiking with a glow, timer ticking down in the header, undo and finish buttons visible, exact same UI chrome and card art as the live Solitaire - Voodoo Card Game! build, no characters present, white overlay text 'Foundations stacking 🔥' centered, tense challenging mood",
+          "Storyboard frame, aspect 9:16, vertical end-card style still of Solitaire - Voodoo Card Game! authentic gameplay: classic 2D flat traditional green felt background (#1A874B) with completed foundation piles of white cards (#FFFFFF) topped by red Kings of Hearts and Diamonds (#E31C1B), subtle confetti over the felt, timer frozen with seconds remaining, score counter at peak, undo and finish buttons in their live positions, identical UI chrome to reference screenshots, no characters, bold red and white overlay text 'Beat the timer — Play Free' lower third, casino-card fidelity, no stock-game clichés"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_orgfGbMspHbpHWck1d7j1X5H?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfb3JnZkdiTXNwSGJwSFdjazFkN2oxWDVIP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=TFGdIM3nDde0I7-hhvCCKOYub6OgFyeGJ0k8DhM11TnV4KstEJiy5XyM4MNrUkf4Aunexvtd98Xq5hU5loL7tC2NhuzdKVi3vIYEYjXbJYxKQlcjMlJDSP78Lv9Vc6KsqiNivxo3JMpRw5SQNVdM%7EQcZDLpanP4EpsG%7EFZsyLieHjuI8if3xs%7EK-yRis2UJIfRUE5gr-OnE9qSNjBz%7ECAkzX9CSUdsPdSR-QuQ13Vcx-D7d46OjNT4SexE5m2nx18ouZiWDZV4KHsshmnopuVlkKjtEJTlTqteAKuKcsJ23npYJwYKbAV94SUCRcxJFQusuURGVyYJvprnMugCy%7EMg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_sbKngNdRfejUJew9EK2cYxWa?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfc2JLbmdOZFJmZWpVSmV3OUVLMmNZeFdhP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=JYV8lk6YksXcY3zacHpXLuygrtLxB7hZVFPojsUd2QTdDCap%7ElYXTrelglKHp05UyrWub6I2D0kBOqxTyj6HVVuHtXTabuQ%7E-NPspXQGgNyb51w%7EKHgi4Frg4xX2yGAcXjGJF2agNBuBYpGDpdYfUfp1ycmYMrPOfel%7EBzlSyIZZjeX29FR3Nl1eckhdNLgPR%7EZQZsxVAOr6FKG2ui4bMKYtIQeCTv4EzNmX9TilFSwj0Epq2UPFCcqlg9P-7QmzMc3UTc4Aa3wkhXE67Swt9JzSRX5wIBD20%7EuAKqpSfWoW6YGsh%7E2toumiXRcIrAEdLrXUcEYeltwWjpIlYLMPLw__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_jEGAu46Cwi5gr4KAjwi2D2ho?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfakVHQXU0NkN3aTVncjRLQWp3aTJEMmhvP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=l%7EER-AxfcXA%7EME6d63oTTL5OdrTFbRkbAljVuZ5Ol9-E4N1ly82zKevwH3x0zh7eWklsk7ZOdu8avJCLV7th1gENEPEgSGfPZB-vkkeRxFo2fTvm6FNBVic9kJpo9ydwxnjMY9VEv5bho11i6guSaA7yljVw%7EUiG6RB76MZpaSTA1yGD9P0esw8stW09i5pRd9rtbD%7EgmScOUaceLTF0vccvM4su4q%7EL2Dej1ap3TxH2nO2BKBtveCiyZqDjqiPpNPHfe6YdycywyIMd50-BWN4axJ%7EqQoCT-uajVNG1eeP1lNp7Dy4u3kGK1vrFhXQ-4YTw8uhRvYeQGYivybXc2g__"
+      ],
+      "test_priority": 1,
+      "test_priority_rationale": "signal_score=0.82 × game_fit=22/100 ⇒ priority=0.18"
+    },
+    {
+      "brief": {
+        "archetype_id": "fail-3d-render",
+        "target_game_id": "1563230518",
+        "title": "One Move From Disaster — Solitaire Voodoo Fail",
+        "hook_3s": "Timer screams red. Three seconds left. One wrong card drag and the whole green-felt board collapses — can YOU save it?",
+        "scene_flow": [
+          "0-3s HOOK: Tight zoom on a classic solitaire board, green felt, white cards mid-cascade. The timer flashes red 0:03 — a finger drags the WRONG card onto the wrong pile. A giant red 'FAIL ✗' stamp slams the screen.",
+          "3-7s TENSION: Camera pulls back to show the full tableau — foundations almost complete, only 2 red Aces missing. Voiceover-style overlay: 'Wait... it's still solvable.' A ghost-hand hesitates between two cards.",
+          "7-12s PAYOFF: Player POV nails the correct sequence — drag red Queen onto black King, flip hidden card (red Ace!), shoot it to the foundation. Score counter explodes upward, undo button glows, timer freezes at 0:01.",
+          "12-15s CTA: All four foundations complete with a satisfying card-stack snap. Green felt fills the frame, red 'YOU WIN' burst, app icon slides in with CTA."
+        ],
+        "visual_direction": "Stay 100% inside the game's DNA: flat 2D classic solitaire on traditional casino-green felt (#1A874B), crisp white playing cards (#FFFFFF) with sharp red suits and accents (#E31C1B). No 3D characters, no humans, no pets — the drama comes entirely from the cards, the timer, and the drag gesture. Use punchy zoom-ins on card flips, a slight screen-shake on the FAIL stamp, and a clean satisfying snap-to-foundation animation on the win. UI chrome (timer top-center, score counter, undo + finish buttons bottom) must match the actual app screenshots exactly.",
+        "text_overlays": [
+          "0:03 LEFT…",
+          "WRONG MOVE ✗",
+          "Wait — it's still solvable!",
+          "Drag the red Ace 👆",
+          "FOUNDATION COMPLETE",
+          "Can YOU finish it?"
+        ],
+        "cta": "Play Free",
+        "rationale": "The Fail/3D-render archetype wins on pattern-interrupt + 'I can do better' bait, but the original cat-skit has zero mechanical bridge to solitaire and would mis-install. We port only the emotional beat (FAIL → recovery → win) and execute it with native solitaire gameplay so IPM and D1 retention hold. UA team: lean this on lookalikes of casual card/puzzle adults; expect strong CTR from the FAIL stamp and high IPM because the hook teaches the core loop on-screen.",
+        "scenario_prompts": [
+          "Hero frame, vertical 9:16 mobile screenshot, classic 2D flat design solitaire game with traditional green felt aesthetic, casino green background (#1A874B) filling the screen, seven tableau columns of crisp white playing cards (#FFFFFF) with bright red hearts and diamonds (#E31C1B) and black spades/clubs, four foundation slots top-right with three Aces already placed, timer HUD top-center reading '0:03' glowing red, score counter and undo + finish buttons along the bottom bar, a fingertip mid-drag pulling a red Queen of Hearts toward a black King, large bold red stamp text overlay 'WRONG MOVE ✗' slammed diagonally across center, authentic in-game UI chrome matching Solitaire - Voodoo Card Game!, no characters, no humans, no animals, flat 2D vector style, sharp shadows under cards, high contrast, mobile ad creative",
+          "Storyboard frame 2, vertical 9:16, classic 2D flat solitaire tableau on traditional green felt (#1A874B), white cards (#FFFFFF) with red suit pips (#E31C1B), close-up on a hidden face-down card flipping to reveal the Ace of Hearts with a soft glow, foundation piles visible top of screen, timer HUD shows '0:01' in red, score counter ticking up, undo and finish buttons at bottom, on-screen text overlay 'Drag the red Ace 👆' in clean white sans-serif with red underline, in-game UI identical to Solitaire - Voodoo Card Game!, no characters or mascots, flat 2D casino aesthetic, crisp drag-and-drop gameplay moment",
+          "Storyboard frame 3 win state, vertical 9:16, classic 2D flat design solitaire, full traditional green felt background (#1A874B), four foundation piles each topped with a King — two red (#E31C1B) and two black on white cards (#FFFFFF), confetti of tiny red and white card-suit icons bursting outward, large bold overlay text 'FOUNDATION COMPLETE' in white with red drop shadow, timer frozen at 0:01, score counter showing a high number, undo and finish buttons glowing at bottom bar, authentic Solitaire - Voodoo Card Game! HUD and card art, no characters, no people, flat 2D vector style, satisfying victory mobile ad frame"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_BVLYbxDZDXNeQuW6ccKUBhAp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQlZMWWJ4RFpEWE5lUXVXNmNjS1VCaEFwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=KLvPLjkhk70vt3ONaxeUBWERsBWYPmQrMsEnA%7EpBk8LEvcHXkvg1PUuRjBJ9kpkDVKyss9tgKdc6UM712JUq%7EU4RuowdHmfkb8lSDiBCEDqCu3J1-4jx-aIf4MBMc47hcTndYFaquKFlgk8Y2aqa45nsRqxRt7IkrBWmRGLHFMFXZfnUpsH6bLKBcDNlxYuXIEYEZVsBjyaVMtpZMoU%7E8HqzCubGK5efKd8AKsaIW3uUxw1IP1HqSV8920iQS082wCiENTLyZlwgoR93qXTXaEx1oabzgltHHm%7ECuyy9zX5GfKEFwWTAAeLft68UMCYoNJgbUCEtlu0-IlE51iqtpg__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_4RaQCCgRfJx99zjr8cNusnAB?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNFJhUUNDZ1JmSng5OXpqcjhjTnVzbkFCP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=R-JqeIhFQBwQwEQopeEln9SnJyn8Rv7WofytZQGHddmey2OtLLGJlr75WAUqnLJ5gcdZlzyFkt6%7E41-1x3VN6AVyLeni6TV3ftE3h-zpeNgRiV0asGPV6RaHBzBFcLAzeszuwiF4G5FRmMymO2dTy9VCRmqLwvB4zYBB1cdoJ4m1ear%7Eye8CBAY27PTJi%7EI2NettJ5KFOfD6UQQMBZrux1lcXf2HUbxqH6zkmFJW%7Ew6qtPGRcnQHTh3Uk4FrIXd8nqnd%7EjmxYrhgZYfAQfL6luIYGJpqFq0VBzs1rd6GGJA9-2Gv1jd6I4prSnzAuduKAFOI%7ES-ntS%7ExloxhPI1n3A__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_tjsa3SuDtcFgXii3uEkGaZfY?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdGpzYTNTdUR0Y0ZnWGlpM3VFa0dhWmZZP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=pGXocmYOJE3gWLwPPCfwsoAmMS8SIqka9vG5eu4nsXTAHeCOvchBjX7ndl8NYxN3Y7xFBx3M0WjcUYC6FQWc9tNZcD0R9qz9IgkcAngyX6hrjMoem7KISCgj8FYKuH5nO68D2pQh2zscdaIkd6Z2BGby4Dna3qJMzDdVkG5wDIdT3LIb-n6EUwn-Fflzw33UsdfI9z0hCtQz4rclK4orksDMycdfRy%7Ehh1JVDhHmk58Djbf2d3y9sPgJFWh7kvz2tXvtZpf8lSUU4y3OBT8Y7x6VmIA8XwUU-rGik4WWuuM5o9hcaIAvlXoX3-9AYqfT%7E6PEcnLgH1fpsswQevbc7g__"
+      ],
+      "test_priority": 2,
+      "test_priority_rationale": "signal_score=0.91 × game_fit=20/100 ⇒ priority=0.18"
+    },
+    {
+      "brief": {
+        "archetype_id": "fail-in-game",
+        "target_game_id": "1563230518",
+        "title": "Blocked Foundation: The Solitaire Fail Hook",
+        "hook_3s": "A red Queen of Hearts hovers over a blocked foundation pile — timer ticking, the wrong move slams down, \"FAIL\" flashes across the green felt.",
+        "scene_flow": [
+          "0-3s: Tight zoom on a Solitaire tableau on green felt. A finger drags a red Queen toward a black King — overlay: 'WHY IS THIS LEVEL SO HARD?'",
+          "3-7s: Finger fumbles — drops the Queen on the wrong foundation pile. Cards shake red, buzzer sound, timer drops to 0:08. Overlay: 'WRONG MOVE!'",
+          "7-11s: Camera pulls back showing a fully blocked board, undo button pulsing red. Overlay: 'CAN YOU WIN?'",
+          "11-14s: Fast cut — a smarter sequence: alternating-color stack cascades down, foundations fill Ace→King in a satisfying combo. Overlay: 'YOUR TURN'",
+          "14-15s: End card with logo + CTA over green felt."
+        ],
+        "visual_direction": "Lock to the game's authentic look: deep casino green felt (#1A874B) as the table, crisp white cards (#FFFFFF) with bold red suits and red accent UI (#E31C1B) for the timer, fail flash, and undo button. Classic 2D flat design — no 3D, no characters, no mascots. Camera stays close to the tableau like a real gameplay capture, with a single human finger as the only \"actor.\" Fail beat uses a red screen-shake + red vignette pulse to sell tension without breaking the flat aesthetic.",
+        "text_overlays": [
+          "WHY IS THIS LEVEL SO HARD?",
+          "WRONG MOVE!",
+          "0:08 LEFT…",
+          "CAN YOU WIN?",
+          "YOUR TURN"
+        ],
+        "cta": "PLAY FREE",
+        "rationale": "Adapts the proven \"fail-in-game\" hook to Solitaire by reframing the blocked-bus beat as a blocked-foundation dead-end — a frustration every Solitaire player recognizes. UA team should A/B the \"WRONG MOVE!\" fail flash vs. a no-fail control; expect strong IPM lift from puzzle-curious adults who can't resist correcting a visible mistake. Keep all assets native to the game's green-felt UI to maximize click-to-install fidelity.",
+        "scenario_prompts": [
+          "Hero frame, vertical 9:16 mobile screenshot, Classic 2D flat design with a traditional green felt aesthetic, authentic Solitaire - Voodoo Card Game! gameplay capture: deep casino green felt table (#1A874B) with seven tableau columns of crisp white playing cards (#FFFFFF) showing bold red hearts and diamonds (#E31C1B) and black spades/clubs, four foundation slots top-right, stockpile top-left, a human index finger mid-drag holding a Red Queen of Hearts hovering over a blocked black-card column, red glow vignette around the wrong drop zone, red digital timer reading 0:08 in top HUD, score counter and red undo button visible, bold white sans-serif overlay text 'WHY IS THIS LEVEL SO HARD?' across the top, no characters, no mascots, flat 2D vector card faces, in-game UI chrome identical to the reference screenshots",
+          "Storyboard frame 2, vertical 9:16, Classic 2D flat design with a traditional green felt aesthetic, Solitaire - Voodoo Card Game! fail moment: green felt background (#1A874B), white playing cards (#FFFFFF) with red suit pips (#E31C1B), the dropped Queen card tilted askew on the wrong foundation, a bright red 'X' burst and red screen-edge flash, timer in red ticking down, pulsing red undo button, bold white overlay text 'WRONG MOVE!' centered, no human characters, flat vector style, authentic in-game HUD with stockpile and foundation piles",
+          "Storyboard frame 3, vertical 9:16, Classic 2D flat design with a traditional green felt aesthetic, Solitaire - Voodoo Card Game! satisfying win cascade: green felt table (#1A874B), white cards (#FFFFFF) flying in arcs from tableau into four foundation piles with red heart and diamond suits (#E31C1B) glowing, alternating descending color stacks neatly arranged, score counter spiking, green and white particle sparkles, bold white overlay text 'YOUR TURN' at the bottom, classic 2D flat vector card art, no characters, native in-game UI chrome matching reference screenshots"
+        ]
+      },
+      "hero_frame_path": "https://cdn.cloud.scenario.com/assets-transform/asset_3asoTHvLFnx2aivmhfieboAp?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfM2Fzb1RIdkxGbngyYWl2bWhmaWVib0FwP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=Px7ysMh5brMNgESVubPZdreG5LbWMIZfJA2SQ65Va1pOTA1m%7ERl4S1QM4b0aj6CrG-D30oj4E-Z6Ox0Xi6Sm47xmHi1ZBPLGdPZl0jrJb14YCC-lARiNZkTZA7dmQkLKs6y0WADqO%7E1R8x4mP443rcgeC9qtdLoQW-Qyjg2vCOtm3ANQ89ILyZrjXKGFuiB0lGAIPq3X89YQTsagYh7JwGurKK83WhsRJpNEM4IwAHc-uL%7EWDDC7khf-hePTexo02F5Z%7E6zvgPEkjc6sitrf7c9RbgTmYEYrXIpwl-XLUb14e2xEN%7EKCqYF2dBgPDQcWZ-mmNq5jNmnhzfJYm9TcNQ__",
+      "storyboard_paths": [
+        "https://cdn.cloud.scenario.com/assets-transform/asset_7BFFQfqnQpHJzDmfUzaKzpSV?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfN0JGRlFmcW5RcEhKekRtZlV6YUt6cFNWP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=cfuZABjlyle7MIRmwbWX06SW6ImrRmKOt%7ENpC0E6arYUppgODBgxSLmiiHidVpIq5X%7EPZr7aFUhugFV2GIuPyBwGAvnp0WeVtxuyINhDvz--HMTJFbd60MatoTnm5LFsgMHfuIHq3u2jqvyLmwDz%7ExyHtjt4XJkT2mncQksx10NI-Gz1D71qbxa3P41P11FSpPRG6GuHotkCE2ZMRuxgDn%7EkhC--qap6UCsuHRs7ztJAO55VLbizbvoKKwtxdqzWuAb0xV6NN%7En5SSD1NlyYnhJpmSIL35J5XZYtJLf2i1FePu8inYsVBcf0Gpf-At5EOMnIwV9NtRRgGKtI3zDwnQ__",
+        "https://cdn.cloud.scenario.com/assets-transform/asset_vHZUfcrHuBPo1tWsjVydJzZU?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdkhaVWZjckh1QlBvMXRXc2pWeWRKelpVP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=D1OngG8M1ighpghiYXg08-0Dgs8gqAc3pIraxpogbLvWsPvtg89f%7E7JkDm4EkYxDlagsYsgCV%7ERZx8FiOi0quX-TU4FYDEnzgYLhc%7EGOHrS0O-rCWB16hP2PGbxcEWoci3WmvN3Dwx7pQ8elHbkZF6MKJ%7EDYYzBQoZ%7EGjIFg-9PlsYJDfbemHF4QCA-DkNKfUm2mvyuPNrRg9YuYRAcUhcxTyGW%7ETIO1wByApdkXarBv2bVnF68oKjR8MPTZ6P40FMMEVAPQrfP9GS%7EY3XnFo4WuNxy3EfI%7Esb7T-apt82bjygkZ3uGD3xLhUOtAM5yhr4lYN5j1IRVb4PWfhYbLdg__"
+      ],
+      "test_priority": 3,
+      "test_priority_rationale": "signal_score=0.79 × game_fit=22/100 ⇒ priority=0.17"
+    }
+  ],
+  "pipeline_duration_seconds": 733.0621904179934,
+  "total_cost_usd": 0.024843,
+  "generated_at": "2026-04-26T01:24:58.532720Z"
+}

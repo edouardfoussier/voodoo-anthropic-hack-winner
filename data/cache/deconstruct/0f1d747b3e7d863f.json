@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "0f1d747b3e7d863f",
+    "ad_unit_id": "0f1d747b3e7d863f",
+    "app_id": "66d27b94782b200e42488550",
+    "advertiser_name": "Perfect Tidy",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/037621dcaf59896e/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/037621dcaf59896e/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/037621dcaf59896e/preview",
+    "phashion_group": "0f1d747b3e7d863f",
+    "share": null,
+    "first_seen_at": "2025-08-10T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": "720:1280",
+    "width": 720,
+    "height": 1280,
+    "message": "Hey, come and solve this tricky puzzle! I'm stuck with this level!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A player attempts a difficult level and immediately fails by crashing a bus.",
+    "visual_action": "A hand cursor moves a purple bus, then crashes a red bus into a green one.",
+    "text_overlay": "WHY THIS LEVEL IS SO HARD, CAN YOU WIN?",
+    "voiceover_transcript": null,
+    "emotional_pitch": "fail"
+  },
+  "scene_flow": [
+    "Gameplay starts with a challenge question and a crowded bus lot.",
+    "Player attempts to move buses to match passenger colors but repeatedly crashes.",
+    "A large 'FAIL' overlay appears as the player makes a critical error.",
+    "Final end card displays the game title and a call to action."
+  ],
+  "on_screen_text": [
+    "WHY THIS LEVEL IS SO HARD, CAN YOU WIN?",
+    "444 Left",
+    "Unlock",
+    "FAIL",
+    "BUS JAM Color Car Puzzle",
+    "Install Now"
+  ],
+  "cta_text": "Install Now",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#4CAF50",
+    "#F44336"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Casual mobile gamers who enjoy satisfying sorting and logic puzzles.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0015530000000000001
+}

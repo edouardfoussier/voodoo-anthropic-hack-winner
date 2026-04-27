@@ -1,0 +1,29 @@
+{
+  "archetype_id": "curiosity-animation",
+  "target_game_id": "1342468799",
+  "title": "What's Hiding Under the Track?",
+  "hook_3s": "The pastel city splits open — what's beneath the Color Road track?",
+  "scene_flow": [
+    "0-3s: Rolling ball cruises a dark track over pastel city skyline; camera suddenly tilts and the world cross-sections open like a diorama, revealing the track is actually floating on stacked layers below.",
+    "3-7s: Camera pans DOWN through the cross-section — layer 1 shows hidden coin vaults, layer 2 shows a giant color-swap machine pumping pink/red paint into the track, layer 3 shows a maze of failed mismatched balls piled up.",
+    "7-11s: Snap back to gameplay POV — ball charges a wall of red blocks, swaps to red just in time (near-fail), shatters through them in a satisfying burst of pastel particles.",
+    "11-14s: Cross-section flashes back ONE more time to show the secret 'next level' chamber lighting up as score multiplier ticks: x2 → x5 → x10.",
+    "14-15s: CTA card with rolling ball icon and tap prompt."
+  ],
+  "visual_direction": "Lean fully into Color Road!'s minimalist 3D language — dark navy (#152238) ribbon track suspended over a soft pastel pink (#FADADD) city silhouette, with saturated accent red (#FF4C4C) for the rolling ball and matching gates. Adapt the \"cross-section reveal\" archetype by literally slicing the diorama open: clean orthogonal cuts, abstract geometric chambers stacked vertically, no realism or grit. Keep the in-game HUD intact (score counter top-left, pause button top-right, coin tally) so every frame reads as authentic Color Road! UI. Camera moves are snappy, almost toy-like; particle bursts on color matches stay bright and saturated against the muted pastel backdrop.",
+  "text_overlays": [
+    "What's UNDER the track?",
+    "Layer 1: Coin Vault 💰",
+    "Layer 2: Color Engine",
+    "Don't mismatch...",
+    "Combo x10!",
+    "Tap to Roll"
+  ],
+  "cta": "Tap to Roll",
+  "rationale": "Voodoo's current Color Road! rotation is all gameplay-loop video and playables with no narrative framing — this brief injects the trending curiosity/cross-section reveal archetype that's winning across the market but is absent from their lineup. The \"what's under the track\" twist gives the UA team a thumb-stopping hook that still anchors to authentic color-match gameplay, so it differentiates without breaking IP recognizability. Run as a 15s video alongside existing playables to test top-funnel CTR lift on curiosity-driven scrollers.",
+  "scenario_prompts": [
+    "Hero frame, 9:16 vertical aspect, minimalist 3D with abstract geometric shapes and a soft pastel background. A glossy saturated red (#FF4C4C) ball rolls along a dark navy (#152238) ribbon track that floats above a soft pastel pink (#FADADD) abstract city skyline. The world is sliced open in a clean orthogonal cross-section revealing three stacked underground chambers below the track: a coin vault glowing gold, a pink paint-pumping color engine, and a maze of mismatched ball wreckage. In-game HUD visible: score counter top-left, pause button top-right, coin tally. Bold white sans-serif overlay text reads 'What's UNDER the track?'. Crisp toy-diorama lighting, saturated accents, no characters, no realism. [Audio: VO (curious whisper) 'Wait... what's under the track?' / energetic competitive synth-pop at 128 BPM with rising arpeggio / ground-crack rumble at 1s, reveal whoosh at 2s, coin chime at 4s]",
+    "Storyboard frame 2, 9:16 vertical aspect, minimalist 3D with abstract geometric shapes and a soft pastel background. POV close-up of the saturated red (#FF4C4C) Color Road ball charging toward a wall of mismatched navy (#152238) blocks on a dark ribbon track suspended over a pastel pink (#FADADD) cityscape. Color-swap gate flashes red just before impact, particles bursting in saturated pinks and reds. In-game HUD intact: score counter top-left ticking up, pause button top-right, coin tally. Overlay text reads 'Don't mismatch...'. No characters, clean geometric style. [Audio: no VO / driving competitive electro at 130 BPM / sharp color-swap zap at 1s, glass-shatter break-through at 2.5s, combo chime stack at 4s]",
+    "Storyboard frame 3, 9:16 vertical aspect, minimalist 3D with abstract geometric shapes and a soft pastel background. Cross-section diorama view: dark navy (#152238) track on top, glowing chamber below revealing a hidden 'next level' room with floating accent red (#FF4C4C) multiplier numbers x2, x5, x10 stacking in mid-air against pastel pink (#FADADD) walls. Coins streaming up into the ball above. Color Road HUD preserved: score counter, pause button, coin tally. Bold overlay text 'Combo x10!'. No characters, toy-diorama lighting. [Audio: VO (excited) 'Ten times combo!' / competitive trap-pop at 135 BPM with triumphant brass stab / ascending coin chimes at 0.5s/1.5s/2.5s, bass drop at 3s]"
+  ]
+}

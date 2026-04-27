@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "visual_match": 38,
+  "mechanic_match": 25,
+  "audience_match": 60,
+  "overall": 35,
+  "rationale": "The \"relaxation/satisfaction\" puzzle-sort hook clashes with Color Road!'s reflex-driven, energetic runner loop — players come for fast color-matching dodge action, not slow top-down sorting, so a misleading bus-puzzle hook risks high install-but-churn cost and potential ad-network policy flags. Palette is also off (warm orange/blue/purple vs. Color Road's pastel + dark track signature), and there's no rolling-ball or color-gate imagery to anchor recognition. Audience overlap on broad hypercasual/casual demo is the only redeeming axis; recommend skipping or, if testing, restage the satisfaction angle around oddly-satisfying ball+color-gate ASMR footage instead of bus-sort."
+}

@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "creative_id": "fa8f38f7239797d7",
+    "ad_unit_id": "fa8f38f7239797d7",
+    "app_id": "6153b4a2f3e690163b93ec0b",
+    "advertiser_name": "Metalstorm: Modern Air Combat",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f3376aa668ee5dc/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f3376aa668ee5dc/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/4f3376aa668ee5dc/preview",
+    "phashion_group": "fa8f38f7239797d7",
+    "share": null,
+    "first_seen_at": "2026-03-18T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 5.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "🔒 Lock on. 🎯 Fire. 💥 Destroy the enemy in real PvP matches.",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Fast-paced aerial combat transition to a choice screen.",
+    "visual_action": "A jet flies through a desert canyon, then a white flash transitions to a split-screen choice between attacking a MiG-21 or an Su-25.",
+    "text_overlay": "MiG-21 LEVEL 5 ATTACK Su-25 LEVEL 98 ATTACK",
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Jet flying through desert landscape.",
+    "Split-screen choice menu appearing with two target options.",
+    "Selection of the lower-level target (MiG-21).",
+    "Action sequence showing the jet destroying the target near a power plant.",
+    "Final end card with game logo and store links."
+  ],
+  "on_screen_text": [
+    "METALSTORM",
+    "MiG-21 LEVEL 5",
+    "ATTACK",
+    "Su-25 LEVEL 98",
+    "ATTACK",
+    "SMART CHOICE!",
+    "PLAY NOW FOR FREE"
+  ],
+  "cta_text": "PLAY NOW FOR FREE",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#1A1A1A",
+    "#8B4513",
+    "#87CEEB"
+  ],
+  "visual_style": "in-game",
+  "audience_proxy": "Male gamers aged 18-35 who enjoy military aviation and action-oriented combat simulators.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0014060000000000001
+}

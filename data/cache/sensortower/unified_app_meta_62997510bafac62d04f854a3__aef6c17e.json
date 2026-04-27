@@ -1,0 +1,38 @@
+{
+  "apps": [
+    {
+      "unified_app_id": "62997510bafac62d04f854a3",
+      "name": "Gossip Harbor: Merge & Story",
+      "canonical_app_id": 1623318294,
+      "cohort_id": "cohort_66fbb561216e760a7dcceaa1",
+      "itunes_apps": [
+        {
+          "app_id": 1623318294
+        },
+        {
+          "app_id": 6472696051
+        }
+      ],
+      "android_apps": [
+        {
+          "app_id": "com.mergegames.gossipharbor"
+        },
+        {
+          "app_id": "com.mergegames.cookie"
+        }
+      ],
+      "unified_publisher_ids": [
+        "55d8ea05a3f735178b006252",
+        "60224981ddd8f10a72ff99a2"
+      ],
+      "itunes_publisher_ids": [
+        1650531996,
+        1717534358
+      ],
+      "android_publisher_ids": [
+        "Microfun+Limited",
+        "MergeGames"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "9d7c8841772b67c9",
+    "ad_unit_id": "9d7c8841772b67c9",
+    "app_id": "55c502b302ac64f9c0001fdb",
+    "advertiser_name": "Texas Hold'em Poker: Pokerist",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2aed97df406f537b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2aed97df406f537b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/2aed97df406f537b/preview",
+    "phashion_group": "9d7c8841772b67c9",
+    "share": null,
+    "first_seen_at": "2025-02-11T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 14.0,
+    "aspect_ratio": null,
+    "width": 720,
+    "height": 1280,
+    "message": "Try it out!",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A male creator introduces a multi-game casino app using a split-screen format.",
+    "visual_action": "Split-screen showing a creator talking and a hand scrolling through game modes on a tablet.",
+    "text_overlay": "into Texas Poker Blackjack Slots",
+    "voiceover_transcript": "If you're into poker, blackjack, or slots, this game is right up your alley.",
+    "emotional_pitch": "tutorial"
+  },
+  "scene_flow": [
+    "Split-screen introduction showing the creator and a tablet displaying various casino game modes.",
+    "Montage of different games including roulette and sports betting.",
+    "Close-up of a poker match showing a winning hand and chip collection.",
+    "Final call to action with the creator pointing to the download link."
+  ],
+  "on_screen_text": [
+    "into",
+    "Texas Poker",
+    "Blackjack",
+    "Slots",
+    "right",
+    "up",
+    "your",
+    "alley",
+    "best",
+    "app",
+    "practice",
+    "POKERIST"
+  ],
+  "cta_text": "POKERIST",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#008080",
+    "#F5DEB3",
+    "#1A1A1A"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adult males 25-50 who enjoy social casino games and poker without real money risk.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001712
+}

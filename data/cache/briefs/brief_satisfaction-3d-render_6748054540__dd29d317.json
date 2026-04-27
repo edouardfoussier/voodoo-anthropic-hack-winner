@@ -1,0 +1,28 @@
+{
+  "archetype_id": "satisfaction-3d-render",
+  "target_game_id": "6748054540",
+  "title": "Pour the Blocks — Satisfying Chain Reaction",
+  "hook_3s": "A glass jar tips and pours glowing amber cubes into a dark grid — they snap into place, then BURST into bouncing balls.",
+  "scene_flow": [
+    "0-3s: Close-up — a clear glass jar floats over a dark purple grid in a moody void. The jar tilts and pours a stream of glossy amber-yellow 3D cubes that cascade satisfyingly into the empty grid slots, snapping into place with soft clicks.",
+    "3-7s: Camera pulls back. The grid is now packed with neatly tessellated cubes labeled like a pantry jar: 'No. 047 BLOCK BLAST'. A finger taps one cube — it pulses.",
+    "7-11s: The cubes detonate into glowing bouncing balls that ricochet across the screen in slow-mo, triggering a chain reaction. Obstacles shatter; a yellow-orange progress bar fills rapidly with a satisfying chime.",
+    "11-14s: 'LEVEL CLEAR' confetti of tiny cubes. Quick montage of 3 more levels pouring & popping, each more elaborate.",
+    "14-15s: End card — game logo, jar icon, CTA button pulses in accent yellow."
+  ],
+  "visual_direction": "Lean fully into the game's dark moody palette: a #20232B near-black void background with deep #403F6D purple grid frames and UI chrome. The 'pour' contents are glossy 3D cubes in the signature #FDBA4D amber-yellow accent, lit like honey or molten gold for that ASMR-pantry satisfaction. Render in 3D Casual Abstract style — soft global illumination, subtle depth-of-field, clean geometric shapes, no characters. Borrow the archetype's labeled-jar typography and tactile pouring physics, but swap pastel kitchen warmth for premium dark-mode minimalism. Every motion should feel weighty, snappy, and oddly satisfying: the pour, the snap, the bounce, the chain.",
+  "text_overlays": [
+    "No. 047 BLOCK BLAST",
+    "Pour. Place. POP.",
+    "Tap to chain react",
+    "1 tap = 100 bounces",
+    "Can you clear it?"
+  ],
+  "cta": "Play Free",
+  "rationale": "Adapts the proven 'satisfying pour into labeled jar' archetype by reskinning the jar contents as Bounce Blast's amber cubes pouring into the purple grid — preserving the ASMR satisfaction trigger while fixing the palette/mechanic mismatch flagged in the fit scan. The pour-snap-bounce sequence directly showcases the tap-to-place + physics chain-reaction core loop in under 7 seconds, then doubles down with a chain-reaction payoff for retention. UA team: test against a no-jar control to isolate the pour-hook lift, and prepare 6s/15s/30s cuts.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, 3D Casual Abstract style: a clear glass apothecary jar floating above a dark moody grid, tilting to pour a glossy stream of amber yellow-orange (#FDBA4D) 3D cubes that cascade and snap into deep purple (#403F6D) grid slots, near-black (#20232B) background with soft volumetric lighting, premium mobile game render, on-screen text label reads 'No. 047 BLOCK BLAST' in clean sans-serif, satisfying ASMR aesthetic, soft depth of field, ultra-detailed.",
+    "Storyboard frame 2, aspect 9:16, 3D Casual Abstract style: top-down macro shot of a fully packed 5x7 grid of glossy amber #FDBA4D cubes mid-detonation, bursting into glowing bouncing spheres ricocheting with motion-blur light trails, deep #403F6D purple grid frame, #20232B dark background, yellow-orange progress bar filling at top, on-screen text 'Pour. Place. POP.' in bold white caps, cinematic chain-reaction moment.",
+    "Storyboard frame 3, aspect 9:16, 3D Casual Abstract style: end card showing the Bounce Blast 3D logo over a dark #20232B background with floating #FDBA4D amber cubes and a #403F6D purple jar silhouette, large pulsing yellow CTA button, on-screen text 'Tap to chain react' above a glowing PLAY FREE button, clean premium mobile ad composition."
+  ]
+}

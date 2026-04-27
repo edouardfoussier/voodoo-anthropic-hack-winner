@@ -1,0 +1,62 @@
+{
+  "raw": {
+    "creative_id": "1be78cac26fba2e9",
+    "ad_unit_id": "1be78cac26fba2e9",
+    "app_id": "637bf637ad4adb7d0e6ed0c5",
+    "advertiser_name": "BetRivers: Casino & Sportsbook",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ff4c2d6518fb55f4/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ff4c2d6518fb55f4/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ff4c2d6518fb55f4/preview",
+    "phashion_group": "1be78cac26fba2e9",
+    "share": null,
+    "first_seen_at": "2026-04-09T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Michigan’s trusted sportsbook, now dealing you in for poker!",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy montage of live-hosted casino games and spinning wheels.",
+    "visual_action": "A host in a red circus-style uniform spins a large colorful prize wheel while multipliers flash on the screen.",
+    "text_overlay": "Crazy Time, Red Door Roulette, Gambling Problem? Call 1-800-GAMBLER",
+    "voiceover_transcript": "All right, spin the wheel please.",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Rapid-fire montage of live-hosted casino games including Crazy Time and Red Door Roulette.",
+    "Close-up shots of game mechanics like the Flip-o-matic and multipliers landing on high values.",
+    "Host celebrating a big win of $1,300 on screen with festive graphics.",
+    "Transition to the BetRivers mobile app interface showing slot gameplay on a smartphone.",
+    "Final promotional screen detailing the $500 bonus back offer and bonus spins."
+  ],
+  "on_screen_text": [
+    "Crazy Time",
+    "Red Door Roulette",
+    "Flip-o-matic",
+    "Crazy Coin Flip",
+    "You win $1,300",
+    "BETRIVERS NEW PLAYERS",
+    "WIN YOUR FIRST DAY OR GET UP TO $500 BONUS BACK",
+    "1x PLAYTHRU",
+    "+ 500 BONUS SPINS!",
+    "BONUS CODE: WELCOME",
+    "Gambling Problem? Call 1-800-GAMBLER"
+  ],
+  "cta_text": "WIN YOUR FIRST DAY OR GET UP TO $500 BONUS BACK",
+  "cta_timing_seconds": 11.0,
+  "palette_hex": [
+    "#D32F2F",
+    "#FFD700",
+    "#1A237E"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Adults 21+ who enjoy high-energy live casino games and online gambling.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.002062
+}

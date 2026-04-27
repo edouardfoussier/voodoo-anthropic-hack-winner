@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "96dcd1e0192264e9",
+    "ad_unit_id": "96dcd1e0192264e9",
+    "app_id": "5af5afad09c8b14d4327867e",
+    "advertiser_name": "Jackpot World - Slots Casino",
+    "network": "Instagram",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/010d0836f153efec/preview",
+    "phashion_group": "96dcd1e0192264e9",
+    "share": null,
+    "first_seen_at": "2026-01-02T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 12.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "WE'VE MISSED YOU! 🤗\nRejoin us and claim your surprise gift!\nLimited time only. What are you waiting for?",
+    "button_text": "Play Game",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "A vibrant Chinese-themed slot machine interface featuring a large dragon and a massive 10 trillion coin offer.",
+    "visual_action": "The dragon's eyes glow and the background pulses with light behind a large scroll displaying the coin reward.",
+    "text_overlay": "SPECIAL OFFER! CLAIM UP TO 10 TRILLION FREE COINS",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of the Dragon 8 slot theme and the 10 trillion coin special offer.",
+    "Visual emphasis on the dragon's glowing eyes and the massive coin amount to draw attention.",
+    "Persistent display of the offer with a legal disclaimer regarding virtual currency at the bottom."
+  ],
+  "on_screen_text": [
+    "JACKPOT WORLD",
+    "Dragon 8",
+    "SPECIAL OFFER!",
+    "CLAIM UP TO",
+    "10 TRILLION",
+    "FREE COINS",
+    "No purchase necessary to play. In-game rewards are not real money."
+  ],
+  "cta_text": "CLAIM UP TO 10 TRILLION FREE COINS",
+  "cta_timing_seconds": 0.0,
+  "palette_hex": [
+    "#E60012",
+    "#FFD700",
+    "#00FF00"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Adult social casino players who are motivated by high-value virtual currency rewards and traditional slot themes.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001633
+}

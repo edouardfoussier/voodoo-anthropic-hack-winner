@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-mixed",
+  "target_game_id": "1499833702",
+  "title": "\"Ever Played Something This Satisfying?\" — Ragdoll ASMR Hook",
+  "hook_3s": "VO whispers \"Ever played a game that actually feels this satisfying?\" as a single tap launches a ball that pancakes a row of red dummies in slow-mo.",
+  "scene_flow": [
+    "0-3s HOOK: First-person view down the toy gun barrel on a pastel blue platform; a finger taps and a ball arcs in slow-mo toward three red crash-test dummies. VO question lands as the first dummy ragdolls off the edge.",
+    "3-7s ESCALATION: Speed normalizes — rapid tap-tap-tap chain knockouts, comic 'BIM' 'POW' bursts pop on each hit, progress bar fills, dummies cartwheel off geometric platforms.",
+    "7-11s PAYOFF: Slow-mo replay of a chain reaction where one dummy bowls into four others — exaggerated physics, soft thuds, satisfied exhale on the VO.",
+    "11-14s FAKE-CHOICE BEAT: Final boss-dummy on a tiny platform; cursor hovers between two ball trajectories — player picks the wall-bounce trick shot, dummy flies into the void.",
+    "14-15s CTA: Progress bar snaps to 100%, screen flashes accent purple, logo + 'Tap to Play' lockup."
+  ],
+  "visual_direction": "Lock to the game's authentic first-person aiming POV with the colorful toy-like gun in the lower frame. Pastel sky-blue (#8ED4FF) sky and platforms dominate, vibrant red (#D91A1A) dummies pop as the only saturated targets, and accent purple (#6B15E8) drives the progress bar, comic hit-text outlines, and CTA flash. Keep environments minimalist 3D with flat-shaded geometric platforms — no textures, no clutter. Slow-mo ragdoll moments use a subtle motion-blur trail in purple. UI chrome (top-center level pill, bottom progress bar, comic 'BIM' bursts) must match in-game exactly so the ad reads as real gameplay, not a render.",
+  "text_overlays": [
+    "Ever played a game this satisfying?",
+    "Just… tap.",
+    "BIM!",
+    "Chain reaction 💥",
+    "Can YOU clear it?",
+    "Tap to Play"
+  ],
+  "cta": "Tap to Play",
+  "rationale": "Voodoo's current Knock'em All rotation is all unlabeled Applovin video/playable with no VO-question hook — they're missing the trending \"satisfaction + relatable VO question\" angle that's winning in the market scan. This brief grafts that VO hook onto the game's actual ragdoll-knockdown loop (not a foreign sort puzzle), preserving install intent while opening a fresh creative lane. UA should A/B this against the existing silent playables to test whether VO-led satisfaction lifts CTR without tanking D1.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic in-game screenshot of Knock'em All: first-person perspective looking down a chunky colorful toy-like gun barrel, three vibrant red crash-test dummies (#D91A1A) standing on a simple flat-shaded geometric platform floating in a pastel sky-blue (#8ED4FF) void, a single ball mid-flight with a soft accent-purple (#6B15E8) motion trail, comic-book 'BIM' burst exploding on the lead dummy, level progress bar UI pinned to bottom, top-center level number pill, minimalist 3D with bright flat colors and simple geometric environments, no textures, on-screen text 'Ever played a game this satisfying?' in bold white with purple outline at top. [Audio: VO (warm female, near-whisper) 'Ever played a game that actually feels this satisfying?' / chill lo-fi tap-house 80 BPM, calm and pillowy / soft whoosh on ball release at 1s, deep thud + comic 'BIM' on dummy impact at 2.5s.]",
+    "Storyboard frame 2, aspect 9:16, authentic Knock'em All gameplay still: slow-motion chain-reaction shot, one red dummy (#D91A1A) ragdolling sideways into four more dummies bowling-pin style off a pastel blue (#8ED4FF) hexagonal platform, accent-purple (#6B15E8) progress bar filling visibly at bottom, multiple comic 'POW' and 'BIM' bursts stacked, toy gun barrel still visible bottom-center in first-person, minimalist 3D flat-color geometric environment with no textures, on-screen text 'Chain reaction 💥' centered in playful bold white. [Audio: VO 'oh that's nice…' satisfied exhale / same lo-fi 80 BPM with a low sub-bass swell / stacked rubbery thud SFX, ascending chime on combo at 2s, progress-bar ding at 4s.]",
+    "Storyboard frame 3 CTA, aspect 9:16, authentic Knock'em All end-card moment: first-person view, final red crash-test dummy (#D91A1A) flying off-screen against pastel blue (#8ED4FF) sky, progress bar snapped to 100% glowing accent purple (#6B15E8), screen edges flashing soft purple, Knock'em All logo lockup centered, minimalist 3D bright flat colors simple geometric environment, on-screen text 'Tap to Play' in large bold white with purple drop shadow at bottom. [Audio: VO 'your turn.' / lo-fi resolves with a clean major chord / triumphant chime at 0.5s, soft UI tap-tick under CTA at 3s.]"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 28,
+  "mechanic_match": 22,
+  "audience_match": 68,
+  "overall": 32,
+  "rationale": "Audience overlap is real — casual women 25-55 enjoy both word puzzles and satisfying ASMR-style solves — but the creative is fundamentally a word/crossword hook, not a physics-sort hook, so it misrepresents Marble Sort's core loop and will drive low-intent installs with poor D1 retention. Palette frictions are significant: the archetype's saturated brown/yellow/green clashes with Marble Sort's soft lavender + orange-accent pastel identity, and the letters-flying-into-grid mechanic doesn't translate to marbles-on-conveyor. Only worth testing if reframed as a \"satisfying tap-to-complete\" structure using marbles dropping into colored boxes with a payoff animation — do not adapt the crossword shell directly."
+}

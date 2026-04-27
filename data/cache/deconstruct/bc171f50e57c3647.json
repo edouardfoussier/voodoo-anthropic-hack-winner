@@ -1,0 +1,54 @@
+{
+  "raw": {
+    "creative_id": "bc171f50e57c3647",
+    "ad_unit_id": "bc171f50e57c3647",
+    "app_id": "60d682251e34a62dba84a279",
+    "advertiser_name": "The Tower - Idle Tower Defense",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa6ee125cd4e154/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa6ee125cd4e154/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/3aa6ee125cd4e154/preview",
+    "phashion_group": "bc171f50e57c3647",
+    "share": null,
+    "first_seen_at": "2026-02-23T00:00:00",
+    "last_seen_at": "2026-04-25T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Can you survive The Tower?",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Split-screen comparing high-tech military command with satisfying smart missile gameplay.",
+    "visual_action": "Soldiers in AR headsets gesture over a holographic table while gameplay below shows green missiles destroying pink enemy swarms.",
+    "text_overlay": "POV: You just unlocked smart missiles",
+    "voiceover_transcript": null,
+    "emotional_pitch": "satisfaction"
+  },
+  "scene_flow": [
+    "Split-screen showing military command center and smart missile gameplay.",
+    "Close-up of smart missiles spiraling out to destroy large clusters of enemies.",
+    "Transition to game logo 'THE TOWER' and 'PLAY FREE' call to action.",
+    "Final gameplay montage showing advanced tower defense mechanics and high-level progression."
+  ],
+  "on_screen_text": [
+    "POV: You just unlocked smart missiles",
+    "111 Reroll Shards",
+    "THE TOWER",
+    "PLAY FREE"
+  ],
+  "cta_text": "PLAY FREE",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#00FF00",
+    "#FF00FF",
+    "#000000"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male gamers 18-35 who enjoy tactical tower defense and incremental progression games.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001621
+}

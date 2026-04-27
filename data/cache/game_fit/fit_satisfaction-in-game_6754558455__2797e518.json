@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 45,
+  "mechanic_match": 55,
+  "audience_match": 75,
+  "overall": 55,
+  "rationale": "The \"satisfying drop-and-resolve\" emotional pitch maps well to Marble Sort's calm/satisfying tone and casual female 25-55 audience, so audience overlap is strong. However, there are real frictions: the archetype's reds/pinks/browns and expressive-faced fruit characters clash with Marble Sort's pastel lavender palette and characterless, rounded 3D style, and Suika-style merging is a fundamentally different mechanic from color-sorting via conveyor — using this hook risks bait-and-switch and IPM/retention drop. Only worth testing if reshot with the actual sorting loop styled to mimic Suika's \"drop & resolve\" satisfaction beats, not as a literal fruit-merge clone."
+}

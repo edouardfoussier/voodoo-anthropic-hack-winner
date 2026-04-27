@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_AmMfRwuPJY9tBUaZvwz3tw4j?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfQW1NZlJ3dVBKWTl0QlVhWnZ3ejN0dzRqP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=C1Hzun-zzi5EN5OTRuK7KOrXUDlDQWNLIFtG0LMQc2BQdGJi0uTvIgcXYWtgZbfqs4nn1Hl%7EyoHBOdu6%7EKwV6tNqjJYPGqiV1OYH0l5M7Ffp7ut1OOc-UlIur62yDnEt2kIQNM0Tin6iP%7EYM3tiokAecLDozbvimlzjyOKziHwfz8PhoQlpfg3k9tv6fVrmavOFCYlL0brTp39AVBLMl8UAyNVgntrvc42rF0dNiMVwwDpo6WOf5yAmUQduX4eVRZLa5GH18I5WzlOv%7EC-8dw0usav88XtqCWafRRAIpt6b6tWSlymNJdHPtmOlI4e4X101EHwKmhjzdQ3903h4UmA__",
+  "job_id": "job_RExMoFa5Ly8Smydwvc68Sona",
+  "asset_id": "asset_AmMfRwuPJY9tBUaZvwz3tw4j",
+  "stub": false,
+  "prompt": "Storyboard CTA frame, 9:16 vertical, Helix Jump cross-section reveal: full vertical neon cyan (#5CE1E6) helix tower silhouette as an architectural diagram against off-white background, depth markers labeled 'Layer 10', 'Layer 100 BOSS' in red (#FF0000), 'Layer 250 ???' glowing neon green (#39FF14) at the bottom, a tiny ball icon stuck near the very top labeled 'YOU', large bold text overlay 'Tap to Descend' lower third, animated finger-tap icon on the helix, 3D minimalist with bright contrasting colors and simple geometric shapes, no characters, clean mobile game HUD, schematic blueprint feel rendered in the game's flat neon style",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

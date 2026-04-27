@@ -1,0 +1,29 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "target_game_id": "1524760095",
+  "title": "GENIUS → PSYCHOPATH Pole Combo",
+  "hook_3s": "Pole explodes from 3 to 30 pieces in a cyan blur as the runner rockets onto a glowing rail — tier label snaps from SMART to PSYCHOPATH.",
+  "scene_flow": [
+    "0–2s: Tight over-shoulder on the runner sprinting down the white rooftop path; first burst of yellow pole pieces vacuums into the pole — overlay flashes 'SMART'.",
+    "2–6s: Rapid-fire pickup montage — pole extends frame-by-frame as dozens of pieces snap on in rhythm; counter ticks 8 → 17 → 26. Overlay flashes 'GENIUS'.",
+    "6–10s: Runner launches onto a long cyan rail spanning two skyscrapers, pole balancing perfectly while saw obstacles shave off pieces in satisfying chunks but the pole survives. Overlay: 'GENIUS+'.",
+    "10–13s: Mega-clear moment — pole slams into a wall of diamonds, screen pops with yellow/magenta confetti, 'PSYCHOPATH' overlay slams in.",
+    "13–15s: Cut to level-complete screen with diamond payout and progress bar filling; CTA card 'PLAY FREE' over the cyan skyline."
+  ],
+  "visual_direction": "Lean fully into Roof Rails' 3D minimalist DNA: stark white rooftop runway, bright cyan (#5CD6FF) sky and rails, pastel cyan (#EAF6FA) building blocks, vibrant yellow (#FFC824) pole pieces and diamond bursts. Camera stays at the signature Roof Rails over-shoulder/low-chase angle. Cuts are punchy and on-beat to sell the rapid-fire satisfaction pitch borrowed from the block-clear archetype, but every visual is native gameplay — no fabricated mechanics. Tier overlays use bold sans-serif white type with a yellow flash, slamming in on impact frames.",
+  "text_overlays": [
+    "SMART",
+    "GENIUS",
+    "GENIUS+",
+    "PSYCHOPATH",
+    "Can you hit Tier 4?",
+    "PLAY FREE"
+  ],
+  "cta": "PLAY FREE",
+  "rationale": "Voodoo's current Roof Rails rotation is all unlabeled video + a playable with no copy hook — they own the mechanic but ship zero emotional/tier-label framing. This brief imports the trending 'SMART → GENIUS → PSYCHOPATH' satisfaction-tier overlay (the winning archetype) and grafts it onto authentic pole-pickup and rail-slide footage, giving UA a fresh thumb-stopping text hook without fabricating gameplay. Test against the existing copy-less videos as the control; expect lift on IPM from the tier-escalation curiosity loop.",
+  "scenario_prompts": [
+    "Hero frame, aspect 9:16, authentic Roof Rails in-game screenshot: low over-the-shoulder chase camera on a faceless minimalist runner sprinting down a stark white rooftop path, balancing an extremely long horizontal yellow (#FFC824) pole studded with collectible pole-piece segments, mid-slide entering a glowing cyan (#5CD6FF) rail that stretches between two pastel cyan (#EAF6FA) skyscraper blocks, tiny diamond currency icons floating along the path, top-left progress bar and level indicator HUD, bold white sans-serif overlay text 'PSYCHOPATH' slamming center-frame with a yellow flash, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic, bright cyan sky, no clutter, no fabricated UI",
+    "Storyboard frame 1, aspect 9:16, authentic Roof Rails in-game screenshot: rapid-fire pole-piece pickup moment, runner on a white rooftop path with a stream of yellow (#FFC824) pole pieces snapping onto the horizontal pole in motion-blurred sequence, pastel cyan (#EAF6FA) building geometry and bright cyan (#5CD6FF) sky background, native Roof Rails HUD with progress bar and diamond counter, bold white overlay text 'GENIUS' centered with a yellow flash, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic",
+    "Storyboard frame 2, aspect 9:16, authentic Roof Rails in-game screenshot: long cyan (#5CD6FF) rail slide between two skyscrapers, runner balancing an extended yellow (#FFC824) pole, a spinning saw obstacle ahead about to shave off pole segments, pastel cyan (#EAF6FA) rooftops, native progress bar and level indicator HUD, bold white overlay text 'Can you hit Tier 4?' near the top, 3D minimalist with simple geometry, bright pastel colors, and a clean, uncluttered aesthetic"
+  ]
+}

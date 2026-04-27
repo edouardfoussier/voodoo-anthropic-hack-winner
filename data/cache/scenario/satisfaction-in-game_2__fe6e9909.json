@@ -1,0 +1,12 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_15eF5CWRCigcCW95gennnUva?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfMTVlRjVDV1JDaWdjQ1c5NWdlbm5uVXZhP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=DoPcWF77vM1r2ktgMkEf8yAW4KhX5sHOdtEG33nGaqaeXq7HNyEa2K%7EjpeNYW6eRk4tfrT9HubBBMbuXLR%7E32P7uhsKm0W0Ma8RJ9bDslw4mwLTcBVDw0XYDNvV49wZp86SDykEeiII3vOPOcMfQZly1eYJ1VX0vSQ57hIqEapST%7EJcxH19YALp%7Efyd0FqkEOU4sN1dkfTIT9u12lwRUnMC7toFtj9JZb3bDLJaeUwz7amN4HuCRcHX1Kf2Lrnv1tslLyOjZm-MiYC-n6YHy2v86UPgNw3pEURGKusjAn4KOsqO0ndotAgyibTA%7EqUTPOOqEuy7FacJYXrKE8ziPuQ__",
+  "job_id": "job_ps4DDC8pYDGpfLSv5Q2qp15K",
+  "asset_id": "asset_15eF5CWRCigcCW95gennnUva",
+  "stub": false,
+  "prompt": "Storyboard frame \u2014 CTA end card, aspect 9:16: Centered Block Blast logo lockup on a deep navy background (#1E2744) with a soft royal blue (#5469B9) gradient halo, a single glossy beveled gold block (#FFD700) resting beside the logo, a pulsing gold rounded-rectangle button below. Clean, vibrant abstract aesthetic featuring glossy, beveled blocks on a high-contrast dark grid. Button text reads 'Play Free' in bold white sans-serif. Minimal, premium, app-store-ready.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img",
+  "reference_images": null,
+  "img2img_strength": null,
+  "ipadapter_type": null
+}

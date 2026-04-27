@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_44BW7sy87AEsKMqZdwey7SHk?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfNDRCVzdzeTg3QUVzS01xWmR3ZXk3U0hrP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=v07LuXLFF-RwNBD%7EHFVuLT5-KAHYQSVRP0NlRhiqwQsqW0IVf8z1k%7EusLUyntZPRGCIAa2PCQN2AMh7KEJAjtHOoqLE8eB4%7EAlvXiRHtMPU7LBTTogyoWJHMfA7Gi8FivTvRI5-BQ1sURRbqz8Vy5E7ev2RjvTZfZ58oRzmZpNnk73%7EisgyYxiDcYYeSz-4yrsh5AEvw8KJqQl48nphoKvCE6WD01FM4V9pL1RLEDypRXW%7EFriNSgqIqc%7EOk96N%7EG8qFd96ycB427ifxY562cTezPV4hmWRJvIJE9ys3ztVttZpjb-tyDwR03djslhQk1N44GXEkdLwk8QVSwczKHA__",
+  "job_id": "job_B1x59riyLWQLeXYkS3sm6b47",
+  "asset_id": "asset_44BW7sy87AEsKMqZdwey7SHk",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16, top-down isometric in-game shot of Push'em All: a single blue stickman character on a green-and-sandy platform (#56a38b) surrounded by vibrant blue water (#2a7dfa), wielding a massively expanded horizontal stick sweeping a dense crowd of bright red stickman enemies (#e3001b) off the edge, red ragdolls mid-air splashing into blue water, minimalist 3D with bright contrasting colors and simple stickman-like figures, native HUD visible with level progress timeline at top, combo multiplier 'x8' and coin counter, bold white overlay text 'PSYCHOPATH' centered, clean mobile game UI chrome, no filters, authentic Push'em All gameplay still",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

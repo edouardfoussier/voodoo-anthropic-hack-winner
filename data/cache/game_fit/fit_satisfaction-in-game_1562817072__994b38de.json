@@ -1,0 +1,8 @@
+{
+  "archetype_id": "satisfaction-in-game",
+  "visual_match": 25,
+  "mechanic_match": 15,
+  "audience_match": 30,
+  "overall": 22,
+  "rationale": "This is a classic puzzle/parking-jam \"relaxation\" hook that fundamentally mismatches Mob Control's energetic, competitive aim-and-shoot mob-multiplier loop — the emotional pitch (calm/relax) directly contradicts the game's competitive UI mood and screenshot signals (massive crowds, multiplier gates). Palette is also off-brand: muted greys and orange vs. Mob Control's signature royal purple + cyan + yellow, and there's no cannon, mob, or gate gameplay shown to bridge to actual install intent. Audience overlap is partial (broad casual mobile) but the male-skewing strategy/competition crowd Mob Control wants will bounce; do not greenlight this archetype — if testing satisfaction, build a Mob-Control-native version (gate-stacking ASMR, crowd-growth oddly-satisfying) instead."
+}

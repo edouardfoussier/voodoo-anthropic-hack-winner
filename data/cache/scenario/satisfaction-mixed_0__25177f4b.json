@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_cwLYaZhtE27Tu4ZWHTwhh46i?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfY3dMWWFaaHRFMjdUdTRaV0hUd2hoNDZpP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=v0xbxXZhk5nrCWrJ7TbOMmZCv3WVo4rANMCxxGJVBNPOU9XbZ9huyiDF%7E3rQvmEN9Q2mLI4YhNwrOkAizAn7fubTwHUJ5F-G4oUfN3mDygCCL11ysLIntcvEw%7EKUjz6zRcQFl7e2dr9HGPjISaZxVJOBF4lk6%7EW70LVWuMUa9rSmGSUJK73fb1988XZqx8RS2SEFnndakq7AXj08unSX7EJzMsFZJ0ms0Y-GBs%7EloOqa096Qf0oGQyNux8YGRt1MwT2nL3FjlPDEY2djkOQhyhdmfHEjpFUTPeZXnI4MeaX1tMMDHB%7E3RzBlb39p-nMHhYlXDV7A2G-WSLnF9OeICQ__",
+  "job_id": "job_vk2mSiGHG8mTB3iknLsQ5ddf",
+  "asset_id": "asset_cwLYaZhtE27Tu4ZWHTwhh46i",
+  "stub": false,
+  "prompt": "Hero frame, aspect 9:16: top-down POV of a woman's manicured hand finger about to tap a pastel marble dispenser tray, colorful candy-colored marbles inside, light grey rounded sorting machine with conveyor belt below, soft lavender background. Clean and colorful 3D cartoon style with soft, rounded shapes. Palette #E5DFFF lavender background, #F0F0F8 light grey machine, #FFB13B vibrant orange accent on the title bar. Bold orange on-screen text overlay reading 'Ever played a game that ACTUALLY relaxes you?', soft diffused lighting, gentle bloom, ASMR mood, mobile ad composition.",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

@@ -1,0 +1,53 @@
+{
+  "raw": {
+    "creative_id": "c4650f4b843024fd",
+    "ad_unit_id": "c4650f4b843024fd",
+    "app_id": "55d93a4202ac645ad203fe75",
+    "advertiser_name": "Betclic Paris Sportifs & Poker",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5fafcc71648b9f07/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5fafcc71648b9f07/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/5fafcc71648b9f07/preview",
+    "phashion_group": "c4650f4b843024fd",
+    "share": null,
+    "first_seen_at": "2026-01-16T00:00:00",
+    "last_seen_at": "2026-04-24T00:00:00",
+    "video_duration": 10.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Parie et regarde les matchs de tennis en live sur l'appli avec Betclic ! 🎾📺",
+    "button_text": "Download",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "High-energy tennis action montage with neon visual effects.",
+    "visual_action": "Rapid cuts of tennis serves and court movement with glowing yellow trails and rhythmic transitions.",
+    "text_overlay": null,
+    "voiceover_transcript": null,
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Fast-paced montage of tennis players serving and running with neon light trails.",
+    "Close-up shot of a tennis ball spinning with Betclic branding.",
+    "Transition to the main offer screen with promotional text and a call-to-action button."
+  ],
+  "on_screen_text": [
+    "LES JEUX D'ARGENT ET DE HASARD PEUVENT ÊTRE DANGEREUX...",
+    "Jusqu'à 100€ en FREEBETS remboursés",
+    "PARIE SUR LE TENNIS",
+    "J'en profite"
+  ],
+  "cta_text": "J'en profite",
+  "cta_timing_seconds": 5.0,
+  "palette_hex": [
+    "#E2001A",
+    "#FFFFFF",
+    "#FFFF00"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Male sports enthusiasts aged 18-35 who follow professional tennis and engage in online gambling.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001428
+}

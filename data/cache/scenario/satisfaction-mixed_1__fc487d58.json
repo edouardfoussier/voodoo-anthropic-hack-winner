@@ -1,0 +1,16 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_T4BDdKDKt6VkmkfA7pdWSpNh?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfVDRCRGRLREt0NlZrbWtmQTdwZFdTcE5oP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=d6KwWrMipeaCwhMfeu9HaXhlfgVi7S-5UacqyIF%7EUV64fuq-wQrm7aoypeOkbkfE-o32EdKR8JbL0VQEbH%7E161nZgIjfaqFjqmoHLiE-xYjhpVLCADzcZD%7E3zfeqgC928H0Bp8blKEKND1P5Uw%7ETha5l8zODtq65X5ZF4OI%7EtIgC5havOsfmgXqzKROY-F%7Eqv0POUgl-awCQ%7EmyREJTOQ3TgrQ5xd4rbbdXgNOVBqwNKWB4zPPGVwY7wtK6ZmH-a1rqbtYh7XCPGlUd7TX9zRucq2zL7prDXaS5W078ofBKeCzuD%7EXS84S55ZHfgxcEct4FtBFypHWFW9m3zf-PUsA__",
+  "job_id": "job_vA123BrzH9PnoJotWCjbtKX1",
+  "asset_id": "asset_T4BDdKDKt6VkmkfA7pdWSpNh",
+  "stub": false,
+  "prompt": "9:16 vertical mobile gameplay frame, Mystical Minimalism, deep obsidian background #100D06, glowing golden voice waveform ripple #D4A024 across center, small pale gold #FCE588 counter '19 questions left' top right in thin serif, overlay text 'Ask anything. Yes or No.' in luminous gold serif, mysterious sophisticated mood, no clutter, candlelit glow",
+  "model_id": "flux.1-dev",
+  "mode": "txt2img-ip-adapter",
+  "reference_images": [
+    "00.png",
+    "01.png",
+    "02.png"
+  ],
+  "img2img_strength": null,
+  "ipadapter_type": "style"
+}

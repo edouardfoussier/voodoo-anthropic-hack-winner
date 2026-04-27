@@ -1,0 +1,56 @@
+{
+  "raw": {
+    "creative_id": "c3feec33792dcf7f",
+    "ad_unit_id": "c3feec33792dcf7f",
+    "app_id": "55c50b2202ac64f9c00022c6",
+    "advertiser_name": "PlayStation App",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6bf9850ca6bb2c66/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6bf9850ca6bb2c66/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/6bf9850ca6bb2c66/preview",
+    "phashion_group": "c3feec33792dcf7f",
+    "share": null,
+    "first_seen_at": "2026-03-02T00:00:00",
+    "last_seen_at": "2026-04-01T00:00:00",
+    "video_duration": 6.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "Conhceça o PlayStation Plus com uma coleção de jogos icônicos, títulos mensais, benefícios exclusivos e muito mais para explorar.",
+    "button_text": "Subscribe",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Iconic brand logo transition to cinematic game footage.",
+    "visual_action": "The PlayStation logo fades into a close-up of a game character followed by bold text overlays.",
+    "text_overlay": "APROVEITE MAIS DO QUE VOCÊ AMA",
+    "voiceover_transcript": null,
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Opening with the classic PlayStation logo on a blue gradient background.",
+    "Quick cut to a cinematic character shot with an age rating and service logo.",
+    "Transition to a text-heavy screen emphasizing emotional connection to gaming.",
+    "Display of the monthly subscription price in Brazilian Reais.",
+    "Closing frame with legal disclaimers and brand identity."
+  ],
+  "on_screen_text": [
+    "18",
+    "PlayStation Plus",
+    "APROVEITE MAIS DO QUE VOCÊ AMA",
+    "ENTRE NESSA A PARTIR DE R$ 65,90 POR MÊS",
+    "O conteúdo e os recursos da assinatura variam de acordo com o nível, o tempo e a região/país. Restrições etárias e os termos se aplicam."
+  ],
+  "cta_text": "ENTRE NESSA A PARTIR DE R$ 65,90 POR MÊS",
+  "cta_timing_seconds": 3.5,
+  "palette_hex": [
+    "#003087",
+    "#FFFFFF",
+    "#0072CE"
+  ],
+  "visual_style": "mixed",
+  "audience_proxy": "Brazilian console gamers looking for value-driven access to a library of premium titles.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.001516
+}

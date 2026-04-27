@@ -1,0 +1,8 @@
+{
+  "archetype_id": "fail-animation",
+  "visual_match": 15,
+  "mechanic_match": 10,
+  "audience_match": 25,
+  "overall": 15,
+  "rationale": "This is a classic \"Thief Puzzle / Hero Wars\"-style stick-figure fail skit — visually (flat 2D stick art, beige/yellow palette) and tonally (slapstick fail humor) it clashes hard with Bounce Blast's calm, moody 3D abstract physics aesthetic and its 25-55 relaxed-puzzler audience. The mechanic mismatch is the biggest blocker: there's no pull-pin/draw-line/save-the-character logic in the core loop, so the hook would be misleading and tank D1/D7 retention even if CTR spiked. Skip this archetype, or only test as a heavily reworked \"satisfying chain-reaction fail-then-win\" variant that actually shows the block-place-to-ball-bounce loop."
+}

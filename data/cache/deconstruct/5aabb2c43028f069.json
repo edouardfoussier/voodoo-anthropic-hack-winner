@@ -1,0 +1,55 @@
+{
+  "raw": {
+    "creative_id": "5aabb2c43028f069",
+    "ad_unit_id": "5aabb2c43028f069",
+    "app_id": "60c2ee36c168494d243056a1",
+    "advertiser_name": "【ポーカー】ｍHOLD'EM(エムホールデム)",
+    "network": "TikTok",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b500bc6a980f9326/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b500bc6a980f9326/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/b500bc6a980f9326/preview",
+    "phashion_group": "5aabb2c43028f069",
+    "share": null,
+    "first_seen_at": "2026-01-12T00:00:00",
+    "last_seen_at": "2026-04-16T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "有名イラストレーターや声優陣が手掛けるキャラクターが多数登場",
+    "button_text": null,
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Energetic intro featuring the game logo and a call to online competition.",
+    "visual_action": "The game logo is centered over a teal and blue background while playing cards fly across the screen, transitioning to anime character art.",
+    "text_overlay": "全国のプレイヤーとオンライン対戦可能！",
+    "voiceover_transcript": "全国のプレイヤーとオンライン対戦可能！無料のテキサスホールデムアプリ、エムホールデム！",
+    "emotional_pitch": "challenge"
+  },
+  "scene_flow": [
+    "Intro animation with the game logo and cards flying, announcing online multiplayer capabilities.",
+    "Showcase of the main characters and the core 'Free Texas Hold'em' app value proposition.",
+    "Demonstration of the 'Lesson Mode' designed to help beginners learn the game mechanics.",
+    "Final montage of gameplay screens emphasizing the competitive 'Mind Sports' aspect of the title."
+  ],
+  "on_screen_text": [
+    "全国のプレイヤーとオンライン対戦可能！",
+    "無料のテキサスホールデムアプリ",
+    "初めての方にも安心のレッスンモードあり！",
+    "勝ち上がれ！究極のマインドスポーツ！",
+    "M HOLD'EM"
+  ],
+  "cta_text": "勝ち上がれ！究極のマインドスポーツ！",
+  "cta_timing_seconds": 12.0,
+  "palette_hex": [
+    "#00BFA5",
+    "#0091EA",
+    "#FFEB3B"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Japanese mobile gamers and anime fans interested in competitive card games and Texas Hold'em.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018280000000000002
+}

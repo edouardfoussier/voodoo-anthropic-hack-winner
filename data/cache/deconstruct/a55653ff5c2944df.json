@@ -1,0 +1,57 @@
+{
+  "raw": {
+    "creative_id": "a55653ff5c2944df",
+    "ad_unit_id": "a55653ff5c2944df",
+    "app_id": "63637c6b7ae5ba5d95d83b2e",
+    "advertiser_name": "陰の実力者になりたくて！マスターオブガーデン",
+    "network": "Facebook",
+    "ad_type": "video",
+    "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab2f3fe558a6061b/media",
+    "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab2f3fe558a6061b/thumb",
+    "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/ab2f3fe558a6061b/preview",
+    "phashion_group": "a55653ff5c2944df",
+    "share": null,
+    "first_seen_at": "2026-04-10T00:00:00",
+    "last_seen_at": "2026-04-15T00:00:00",
+    "video_duration": 15.0,
+    "aspect_ratio": null,
+    "width": 1080,
+    "height": 1920,
+    "message": "✨シャドウフェス開催中✨\n🔰新規ユーザー限定\n今なら最大18,300個幻魔石もらえる！\n※詳細はゲーム内をご確認ください。",
+    "button_text": "Install Now",
+    "days_active": null
+  },
+  "hook": {
+    "summary": "Character reveal of Zeta with gameplay highlights and high-value currency rewards.",
+    "visual_action": "Split-screen layout featuring character art and small gameplay windows.",
+    "text_overlay": "新規ユーザー限定 最大 18,300個 幻魔石がもらえる！",
+    "voiceover_transcript": "準備はOK。音より光より早く。",
+    "emotional_pitch": "curiosity"
+  },
+  "scene_flow": [
+    "Introduction of Zeta with split-screen gameplay and reward banners.",
+    "Close-up of Zeta's face as she speaks to the player.",
+    "Full character art reveal showcasing her white and red combat suit.",
+    "Shadow Fest event announcement with bold text overlay.",
+    "Final splash screen with game logo, character name, and download incentive."
+  ],
+  "on_screen_text": [
+    "新規ユーザー限定 最大 18,300個 幻魔石がもらえる！",
+    "※詳細はゲーム内をご確認ください",
+    "陰の実力者になりたくて！マスターオブガーデン",
+    "白き陰の第六席 ゼータ CV. 朝井彩加",
+    "シャドウフェス 開催中！",
+    "Shadow Festival is now underway."
+  ],
+  "cta_text": "シャドウフェス 開催中！",
+  "cta_timing_seconds": 10.0,
+  "palette_hex": [
+    "#FFFFFF",
+    "#B71C1C",
+    "#4FC3F7"
+  ],
+  "visual_style": "animation",
+  "audience_proxy": "Male anime fans and gacha gamers aged 18-35 who follow 'The Eminence in Shadow' series.",
+  "deconstruction_model": "gemini-3-flash-preview",
+  "deconstruction_cost_usd": 0.0018579999999999998
+}

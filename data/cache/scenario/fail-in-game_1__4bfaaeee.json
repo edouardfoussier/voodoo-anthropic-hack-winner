@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_fdbcKxWJ4jLBQ9WZGnGamsTX?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfZmRiY0t4V0o0akxCUTlXWkduR2Ftc1RYP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=jqbm8Gdd3eCBJ3L8AjAxc3uGA9dcjfelWi-ljidZpFi94HGKI9VQZtI4x6VS4xXVrdVFIGx8oASIrH0y3JhI54DdcXvqVVyY34K-qHDGS3dlrMhDVoB0Mdy3nvs28HeYVNscpIymno9pwwuqFgK0s61tNUAcaYGko4MjyUkbig6VTI-BkncEJByLsOFxWCNJtuAn5BenwtknycgwB4UGucGkbHZd0td4sOiQp8hjzsSlcnyU8qZE9IVhcQLtxb7mMWM8GNS4UAdq-IQnzwwoqC2q69fxXYjJF1ZTYyiTOWUgIxP2%7EuPOWm1PSVgqy8bToFDnkTGzf6y-yFDxE1JisA__",
+  "job_id": "job_5xNdNzjZov8wQwdKsr8Dvy7A",
+  "asset_id": "asset_fdbcKxWJ4jLBQ9WZGnGamsTX",
+  "stub": false,
+  "prompt": "Authentic Roof Rails in-game freeze-frame, 9:16 vertical, third-person view of the runner mid-stumble on the white #EAF6FA rail, his yellow #FFC824 pole snapped in two with pieces tumbling into the cyan #5CD6FF void below, magenta saw still spinning behind, goal platform visible just ahead unreached, HUD progress bar frozen at 99%, diamond counter top-right, level indicator top-left, 3D minimalist simple geometry, bright pastel palette, clean uncluttered aesthetic, huge red stamp text 'SO CLOSE \ud83d\udc80' center-screen. [Audio: VO 'ONE piece short!' / beat drops out to single suspended synth / wood-snap + low fail-buzzer at 0.3s, crowd 'ohhh' at 1s.]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://cdn.cloud.scenario.com/assets-transform/asset_uxFJKTYJiFSTH8sv22G2qjnd?p=100&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uY2xvdWQuc2NlbmFyaW8uY29tL2Fzc2V0cy10cmFuc2Zvcm0vYXNzZXRfdXhGSktUWUppRlNUSDhzdjIyRzJxam5kP3A9MTAwKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODE5ODM5OX19fV19&Key-Pair-Id=K36FIAB9LE2OLR&Signature=NyAHvgXMkQSugAjYWEWR6F1GV2DJ9y4TfGktkuRGgkilQ0Ft5HWzuCTSve7NMFGG-hEneCFYCpt-jQ-Dlhv1Mb--Kz7o1D91Z5B2DIgM9as-1N%7EO-Y0zzF1-jPAM-fR6SPAFUVKhXs29-maOTRqDtaaaQxILeCYpiaJwY0cMMWUd8SJPc3xMRApAg0v3D7RDOVGIzRPX3jiawIpW%7ENm7iYaLzlr6MwcbXDD1QvH3s6q7-pkkyDAPbXFjBy%7ET-xS-9t2VsYifEu4XIQ28cXRH93Blt8vG8A%7EgVNUEeDXlD8HbiQ0YZMcVNetumI0nfE0NKZGI4hTXoXcE731OBY5tow__",
+  "job_id": "job_R7EsoPgwXeSWxhiz61iUJDre",
+  "asset_id": "asset_uxFJKTYJiFSTH8sv22G2qjnd",
+  "stub": false,
+  "prompt": "Storyboard frame, 9:16 vertical, authentic Flip & Dive 3D fail moment: pink (#FF007F) ragdoll splattered flat on cyan (#AEE2FF) tile deck two feet from the tiny pool, limbs bent comically, purple (#C754D9) shockwave ring radiating from impact, depth counter showing 0.0m, bold purple banner reading '99% CAN'T DO IT', minimalist 3D with bright contrasting colors and simple geometric shapes, same HUD as Flip & Dive 3D. [Audio: VO: 'nope' / beat drops to half-time / cartoon SPLAT plus low fail-buzzer at 0.8s, crowd 'oof' sting]",
+  "model_id": "model_openai-gpt-image-2",
+  "mode": "custom"
+}

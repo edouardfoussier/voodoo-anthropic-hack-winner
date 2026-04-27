@@ -1,0 +1,84 @@
+{
+  "count": 638,
+  "available_networks": null,
+  "ad_units": [
+    {
+      "id": "67a7083d6f23bd94",
+      "app_id": "622390aa2e0fa027dbdc26b8",
+      "network": "Facebook",
+      "phashion_group": "67a7083d6f23bd94",
+      "ad_type": "video",
+      "first_seen_at": "2026-04-23",
+      "last_seen_at": "2026-04-24",
+      "creatives": [
+        {
+          "id": "67a7083d6f23bd94",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/00470430e214acc8/thumb",
+          "video_duration": 14,
+          "width": 1080,
+          "height": 1920,
+          "title": "Epic update\uff01Photo upload feature\uff01",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "622390aa2e0fa027dbdc26b8",
+        "canonical_country": "US",
+        "name": "Block Blast!",
+        "publisher_name": "Hungry Studio",
+        "publisher_id": "67f43cbca12e6eabea635546",
+        "humanized_name": "Block Blast!",
+        "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=s150",
+        "os": "unified",
+        "id": "622390aa2e0fa027dbdc26b8",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    },
+    {
+      "id": "e2c747649a3a65e2",
+      "app_id": "6884386ecaf624b94c5544cd",
+      "network": "Facebook",
+      "phashion_group": "e2c747649a3a65e2",
+      "ad_type": "video",
+      "first_seen_at": "2026-03-13",
+      "last_seen_at": "2026-04-03",
+      "creatives": [
+        {
+          "id": "e2c747649a3a65e2",
+          "creative_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/media",
+          "preview_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/preview",
+          "thumb_url": "https://x-ad-assets.s3.amazonaws.com/media_asset/004c9632f5ec333f/thumb",
+          "video_duration": 15,
+          "width": 720,
+          "height": 1280,
+          "title": "Puzzle Deslizante",
+          "button_text": "Play game",
+          "message": ""
+        }
+      ],
+      "ad_formats": [
+        "other"
+      ],
+      "app_info": {
+        "app_id": "6884386ecaf624b94c5544cd",
+        "canonical_country": "IN",
+        "name": "Jigblock Puzzle - Jigsaw",
+        "publisher_name": "April 21 Studio",
+        "publisher_id": "5ea87f3c5b50212e97b9ca88",
+        "humanized_name": "Jigblock Puzzle",
+        "icon_url": "https://play-lh.googleusercontent.com/FDdsAEU8XmX-uOM56XqwmTYd_HTe_GSwxN1aPyDsjS67sAcfE7p9-_SvLLOqrwPVkI5LAEmxLAfmTVqZ71u3=s150",
+        "os": "unified",
+        "id": "6884386ecaf624b94c5544cd",
+        "entity_type": "unified_app",
+        "is_unified": true
+      }
+    }
+  ]
+}
